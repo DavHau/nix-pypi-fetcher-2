@@ -36138,6 +36138,18 @@
         ]
       }
     },
+    "1.0.21": {
+      "sdist": [
+        "RSXfmF70AeULm8iIUY9aktm4ZIeXyUJ93Lg+jXhKZrA=",
+        "djangoldp_scale-1.0.21.tar.gz"
+      ],
+      "wheels": {
+        "djangoldp_scale-1.0.21-py3-none-any.whl": [
+          "IVuXhwnqqyrM8UNpxoJOcJN7LmjtUJ2RiVu1sjJFU54=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "f6cXcCl+0is2nFcqZqO9k7TV1G8DDH386spVEHCdB6M=",
@@ -62033,6 +62045,20 @@
       ]
     }
   },
+  "keliang-xunxi": {
+    "2022.12.8.0": {
+      "sdist": [
+        "bxGqWFZsxH1bInzISCM1fUmylss0lai5jF3sa2kVSx4=",
+        "keliang-xunxi-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "keliang_xunxi-2022.12.8.0-py3-none-any.whl": [
+          "XTjdCBO91KXYVsLuQs0vzyYY/6r/cZyto16KABB6wX8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "keyio": {
     "0.0.0": {
       "sdist": [
@@ -63149,6 +63175,20 @@
         "3XKoAIT6kmS06/lzRzTqYlntYDFyrcRokz0gBS/qhDA=",
         "labelImg-1.8.6.tar.gz"
       ]
+    }
+  },
+  "laizi-songwujiede-xunxi": {
+    "2022.12.8.0": {
+      "sdist": [
+        "JwwVSyu8jre1XtuLaRdAxfW/q2y12DgoCTSjFjiNtxE=",
+        "laizi-songwujiede-xunxi-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "laizi_songwujiede_xunxi-2022.12.8.0-py3-none-any.whl": [
+          "ZscFcT2vjt+yOd/TNTw6i668CCqlhL1GwqshwKDpHu4=",
+          "py3"
+        ]
+      }
     }
   },
   "lambda": {
@@ -75702,6 +75742,18 @@
       "wheels": {
         "nengliangshide_liaoyuli-2022.10.9.1-py3-none-any.whl": [
           "g5mr9W6ZcSGGesUSTv3NTP7b3CyZZUo1bhkJPlBttHE=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.8.0": {
+      "sdist": [
+        "eRmVr3XXr/iAXW8rnVWY1AEBrPwA2bIAMjqG9GTGtRE=",
+        "nengliangshide-liaoyuli-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "nengliangshide_liaoyuli-2022.12.8.0-py3-none-any.whl": [
+          "FXsK4ZaNN+LWB8ID1Lq3SwqAxvgMYPSMLurRRlP9YtU=",
           "py3"
         ]
       }
@@ -97833,6 +97885,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "340jPBiM09xyOy3vC6Teekm5d7o6JU9Zuprg+BjKFIg=",
+        "pyguarantees-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyguarantees-0.0.3-py3-none-any.whl": [
+          "oR/SFJza2HLP+4yimXSICV31GkHT30LMkALSHpNkZM8=",
+          "py3"
+        ]
+      }
     }
   },
   "pyhsm": {
@@ -98534,6 +98598,38 @@
         ],
         "pylebai-1.0.5-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "3NMa+9qt+sCY/92z4Q59b+FEFkmh4qdbR0UD6Xksd8o=",
+          "pp38"
+        ]
+      }
+    },
+    "1.0.6": {
+      "wheels": {
+        "pylebai-1.0.6-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "KQ7cf8eZVmtYNIipqAkQWFvsRo2lTnQ5JL6nPs8hL3s=",
+          "cp310"
+        ],
+        "pylebai-1.0.6-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "J5XbrIS68RGwCygFGwJcaADekCano57CyiZyD7mIqb8=",
+          "cp36"
+        ],
+        "pylebai-1.0.6-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "36DhbXvndUpy2mdRC4udGEG/yrtoHEjh5zcU15M2jEg=",
+          "cp37"
+        ],
+        "pylebai-1.0.6-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "W6voaN2jLRH4ShE43SCHQOkyv74WJBmct6eUVbbIwcQ=",
+          "cp38"
+        ],
+        "pylebai-1.0.6-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "9nle/K1ZgRc7pLAN+fIQZBNGgljS0qlJoZ8Aqs39rKM=",
+          "cp39"
+        ],
+        "pylebai-1.0.6-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "k4e8MvVUWEtc+Z/kNa6ViGb0bHeovbh2GmKbKk+pGMI=",
+          "pp37"
+        ],
+        "pylebai-1.0.6-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "9UHf8aO7Gaqkhc3rU4R/3Q9HwSVyoz+ApF/wMw3R8OY=",
           "pp38"
         ]
       }
@@ -103468,6 +103564,18 @@
       "wheels": {
         "pytest_asyncio-0.20.2-py3-none-any.whl": [
           "B+Cr+ebmuViUo59oikqHXWPCEo92wC0D0WzLw1vMD4o=",
+          "py3"
+        ]
+      }
+    },
+    "0.20.3": {
+      "sdist": [
+        "g8vwEWnOPo63HGwnjMsFdNGno7uOqvXlDgrTQq+zOzY=",
+        "pytest-asyncio-0.20.3.tar.gz"
+      ],
+      "wheels": {
+        "pytest_asyncio-0.20.3-py3-none-any.whl": [
+          "8SmZiyCdBPzGXJb8hcEeUxZzg1iQmoOZ6TvlU9dlZEI=",
           "py3"
         ]
       }

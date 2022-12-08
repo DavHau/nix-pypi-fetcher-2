@@ -64269,6 +64269,14 @@
       ]
     }
   },
+  "jamstats": {
+    "0.1.0": {
+      "sdist": [
+        "ARihk4khluW4VRN6L+yJRJGMPDnVAIj45qwGOqXCuuU=",
+        "jamstats-0.1.0.tar.gz"
+      ]
+    }
+  },
   "janitor-osp": {
     "0.4.post0": {
       "sdist": [
@@ -83540,6 +83548,18 @@
       "wheels": {
         "nxselector-3.18.3-py3-none-any.whl": [
           "98ZcseCfroLVYtN1E9ebrf+0FvTz5iD+zyvFAu2JQTw=",
+          "py3"
+        ]
+      }
+    },
+    "3.18.4": {
+      "sdist": [
+        "Ia2RtWBAjmJiWHB+smKGMQMwE7LECnoSf4adYKeaShM=",
+        "nxselector-3.18.4.tar.gz"
+      ],
+      "wheels": {
+        "nxselector-3.18.4-py3-none-any.whl": [
+          "FfBE1Y2cbOgJW1crXSN68hm2De42k7hGGwO12N75WjM=",
           "py3"
         ]
       }
@@ -107502,6 +107522,50 @@
         ],
         "pyPBD-2.1.4-cp39-cp39-win_amd64.whl": [
           "YCUsyODkdclWExac+DjOmeKEMEM1P15xu720modKKso=",
+          "cp39"
+        ]
+      }
+    },
+    "2.1.5": {
+      "wheels": {
+        "pyPBD-2.1.5-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "AZPuV1ZqXwDAUZrj6eY/0nOYs5AYBZrHBnPLSjGDcYk=",
+          "cp310"
+        ],
+        "pyPBD-2.1.5-cp310-cp310-win_amd64.whl": [
+          "0V9f0SQq5c/gfI41mDx+f4OoxNrTDJ8aHnnrs58m208=",
+          "cp310"
+        ],
+        "pyPBD-2.1.5-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "0SwUPovnt3Q6aswlLU7hHHr1Fvnj69Wt0At/bW2GPe0=",
+          "cp36"
+        ],
+        "pyPBD-2.1.5-cp36-cp36m-win_amd64.whl": [
+          "Sz1e9Divx8vwKaj8Lb2bOUgimciekJ2ROw2K3UOLrxs=",
+          "cp36"
+        ],
+        "pyPBD-2.1.5-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "1sP0dHQwvcYWzvCBNHQMSRMxas5pyL84X3j26CRhjDw=",
+          "cp37"
+        ],
+        "pyPBD-2.1.5-cp37-cp37m-win_amd64.whl": [
+          "2nJIWh2LG7T00ebdQBAFAzx04HyzXEuD9YDvhKy8xIE=",
+          "cp37"
+        ],
+        "pyPBD-2.1.5-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Fvam70dbvY/xnkMd6evhftfaDcMhd4ivaZ6BZTRHbvM=",
+          "cp38"
+        ],
+        "pyPBD-2.1.5-cp38-cp38-win_amd64.whl": [
+          "n/TJMZAt5ltyu+YPBZHM2ycMjzEZcxrvV5kcPkLn3PM=",
+          "cp38"
+        ],
+        "pyPBD-2.1.5-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NFdhL0Vaja6Dq/k0AL3Oq2guC6NN2/LC/c4wiTb0XLE=",
+          "cp39"
+        ],
+        "pyPBD-2.1.5-cp39-cp39-win_amd64.whl": [
+          "CmP60AYW6YhTegURRSkJGSwCi+hDNIwjNm2uVjinXX4=",
           "cp39"
         ]
       }

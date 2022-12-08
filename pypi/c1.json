@@ -47572,6 +47572,14 @@
         ]
       }
     },
+    "3.1.15": {
+      "wheels": {
+        "huaweicloudsdkcc-3.1.15-py2.py3-none-any.whl": [
+          "Z/kiq9jfHM3MCF/aAQEGZ5cNvKDkeu93flCmIp7mlUU=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcc-3.1.2-py2.py3-none-any.whl": [
@@ -48074,6 +48082,14 @@
       "wheels": {
         "huaweicloudsdkcloudrtc-3.1.14-py2.py3-none-any.whl": [
           "qFS3o5dxcdquJ/YniNTzf5/tn6lNTHUFkUx7Qt6ysSA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.15": {
+      "wheels": {
+        "huaweicloudsdkcloudrtc-3.1.15-py2.py3-none-any.whl": [
+          "g6j1PMAMmVQrtZd0k1A3zW4eI1uUgekR+yykKLPLlOY=",
           "py2.py3"
         ]
       }
@@ -48960,6 +48976,14 @@
         ]
       }
     },
+    "3.1.15": {
+      "wheels": {
+        "huaweicloudsdkcloudtest-3.1.15-py2.py3-none-any.whl": [
+          "SiODfa4nbcIfxf4l3HnjsYOtFjYZehw+z1iccU1eUAs=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcloudtest-3.1.2-py2.py3-none-any.whl": [
@@ -49374,6 +49398,14 @@
       "wheels": {
         "huaweicloudsdkdws-3.1.14-py2.py3-none-any.whl": [
           "D931t2hwtr8fwFm/nFQmvRb/R2VOkck583vOr0XJtSA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.15": {
+      "wheels": {
+        "huaweicloudsdkdws-3.1.15-py2.py3-none-any.whl": [
+          "Ov6JQXwp8IAZOq3GayYSe7bSzXeeZH2th6+aH9PJ3jg=",
           "py2.py3"
         ]
       }
@@ -84092,6 +84124,18 @@
         ]
       }
     },
+    "0.18.0": {
+      "sdist": [
+        "3lfB2WJEvRdt2Nen6I8yozJlKXuAdJWa6IDTvk1N0xo=",
+        "openlineage-dbt-0.18.0.tar.gz"
+      ],
+      "wheels": {
+        "openlineage_dbt-0.18.0-py3-none-any.whl": [
+          "wX2jmK79JEReOEU7qsnlt6H/ObT5kJ9Mcbi4ao62WYA=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "g/fBb+vJ7Mb4JU42ud7zRE2e5xNgj8FDpxhhCB5ukK8=",
@@ -91374,6 +91418,50 @@
         ],
         "paddlepaddle_gpu-2.4.0rc0-cp39-cp39-win_amd64.whl": [
           "SGYidssG5qPNAec/HlDcraB2LiCmah7+xvim+31cyDI=",
+          "cp39"
+        ]
+      }
+    },
+    "2.4.1": {
+      "wheels": {
+        "paddlepaddle_gpu-2.4.1-cp310-cp310-manylinux1_x86_64.whl": [
+          "9X7g1PRSMbyHjm3vmCthJRFm49nR72HwVzoAoqo7Z+E=",
+          "cp310"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp310-cp310-win_amd64.whl": [
+          "DI7d/2hxfOTAVsLKjYDKHkypbSvjCof5hHKbvCPRU2E=",
+          "cp310"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "jVpW0fuZiPBIm2RCNtE1VcdAAacyX1un45M5Eo2AUrE=",
+          "cp36"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp36-cp36m-win_amd64.whl": [
+          "u+r78YsxPy0Xkit6HharLulR21t9FaDNwFv4pNfIhQM=",
+          "cp36"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "rcIh7WUxCyzgtWhBeyV/IOXa+sePNgB8dQ9aOfX3aTY=",
+          "cp37"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp37-cp37m-win_amd64.whl": [
+          "J0JaQpn6SYAvOLNEZ2kyrh5KRtW5r+GEyl/iv4+cVi4=",
+          "cp37"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "VnuK8NbPxyL1N1lS/lS1F00HmPhUPzCLM7RfIdB4BwU=",
+          "cp38"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp38-cp38-win_amd64.whl": [
+          "tnWZBmoebRzrX6j0Ni+PPv6mM4QClPybAwKOLqo30Y8=",
+          "cp38"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "EiCY+WuNn78xu4TVXShh9d+jB5FexvjhTp+WLrAFs28=",
+          "cp39"
+        ],
+        "paddlepaddle_gpu-2.4.1-cp39-cp39-win_amd64.whl": [
+          "7Fc+VXRA3MHv+plYXzjBWGBMuQVn4HN9/ddiYvxtGwY=",
           "cp39"
         ]
       }
@@ -110419,6 +110507,20 @@
       }
     }
   },
+  "qimen-xunjia-quanju-beilan-jieyao": {
+    "2022.12.8.0": {
+      "sdist": [
+        "TAxkBnSS6A4aHvPj9rOVkNbiL9hkB38ZYghQ/Pu+hc4=",
+        "qimen-xunjia-quanju-beilan-jieyao-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "qimen_xunjia_quanju_beilan_jieyao-2022.12.8.0-py3-none-any.whl": [
+          "SS+GipZ1qkjeyzCDZlooN9Xa0UlH6AmZ7mJGhYp5KzU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "qiskit-aer": {
     "0.1.0": {
       "sdist": [
@@ -126904,6 +127006,30 @@
       "wheels": {
         "spotify_internal-0.1.2-py3-none-any.whl": [
           "KPaGLcs9CAx1bcqdx22XlhK5Untm0TO5haE2PjF0Ym4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "cx69R9HlYW7vdtFz6OFyn3BFA163I9Nccu4c8HUcZlw=",
+        "spotify_internal-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "spotify_internal-0.1.3-py3-none-any.whl": [
+          "+Xlou03REjrRkcaJEseLrJMKYJUtgBpjlFCBhgo1VWI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "XVz9Jo1lakMd6rEoU8hC8dLuoR2jKKVXB96Nm9UjE2Y=",
+        "spotify_internal-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "spotify_internal-0.1.4-py3-none-any.whl": [
+          "Vi2acs5IATXF8bIXI29qSNTx4/CQ0CHOMSbdjaRMjfQ=",
           "py3"
         ]
       }
@@ -149804,6 +149930,18 @@
       "wheels": {
         "xinde_lianjinshu-2022.11.7.0-py3-none-any.whl": [
           "CrmCa19M8nvlb+kIS7SwNoLka3r7e/M6cmFViS2anSk=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.8.0": {
+      "sdist": [
+        "PdYi8TUf0vObylVAyiEmiAfhZZUSgFqTIL2cZAJCc54=",
+        "xinde-lianjinshu-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "xinde_lianjinshu-2022.12.8.0-py3-none-any.whl": [
+          "myxfFoaGN//pl/nrWb4l7PCPjVr6JoYjiG6V7F2WAr4=",
           "py3"
         ]
       }

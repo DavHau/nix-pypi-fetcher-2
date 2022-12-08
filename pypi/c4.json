@@ -4190,6 +4190,18 @@
         ]
       }
     },
+    "3.9.28": {
+      "sdist": [
+        "dgJrdjAnD6Ibedps3MPXwx1YkuqTT0Y7sJ2JdnFhcac=",
+        "aliyun-python-sdk-live-3.9.28.tar.gz"
+      ],
+      "wheels": {
+        "aliyun_python_sdk_live-3.9.28-py2.py3-none-any.whl": [
+          "3dkBBGWI3BiINlg/WVpfYftkEshsWphujGWZf5tzSkk=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.9.3": {
       "sdist": [
         "+LR/hOlEN1IKYxONqEt2jYvKoT7Iy27Uhzb0REPOacM=",
@@ -43636,6 +43648,18 @@
         ]
       }
     },
+    "1.2.5": {
+      "sdist": [
+        "rOWrNle4qJX2OCzbK6i6BxRd3vZ9TJDP80yijAf+gJk=",
+        "flytekitplugins-kfpytorch-1.2.5.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_kfpytorch-1.2.5-py3-none-any.whl": [
+          "aT951up4usn8Li8jIKA5u8hnbpbHRcqg1PL2KAZnBNk=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0b0": {
       "sdist": [
         "mb8QJr7GlZ7LiRWdsiLdaStV3zgfp4nRJQd0/VMXgGA=",
@@ -45500,6 +45524,18 @@
       "wheels": {
         "fusionauth_client-1.41.0-py3-none-any.whl": [
           "lfrOZgsrkZQoWRgELm8cTwfUMahHHA0VKsQ2y4r1KCg=",
+          "py3"
+        ]
+      }
+    },
+    "1.42.0": {
+      "sdist": [
+        "Du5+GdqAc1Fo3/AIZwstPiDI52eRlGRiILxsjni9GC8=",
+        "fusionauth-client-1.42.0.tar.gz"
+      ],
+      "wheels": {
+        "fusionauth_client-1.42.0-py3-none-any.whl": [
+          "Lgyv3p/4ezFSKZymfytvHZf+GUAaYHkU2tkWsJvZQNo=",
           "py3"
         ]
       }
@@ -56222,6 +56258,20 @@
       "wheels": {
         "jetar_zip-0.0.4-py3-none-any.whl": [
           "Qc3U8l64Oo92V4Nj5aDLQh2YDRfcNoxsHyihcn4hOgk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "jiedu-huangjinqiude-lingxing-nengliang": {
+    "2022.12.8.0": {
+      "sdist": [
+        "B6KHTslZmNOE0WVgsv3L/Jbllp8A015phv3+CfTwsYU=",
+        "jiedu-huangjinqiude-lingxing-nengliang-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "jiedu_huangjinqiude_lingxing_nengliang-2022.12.8.0-py3-none-any.whl": [
+          "qzt/ITiuUfiZJWs9CX3wsJhAux0FV3VW/74FJtLTJfc=",
           "py3"
         ]
       }
@@ -124013,6 +124063,12 @@
         "1I7tGuaMwX6qgXtVHQt88E8JMuyxXAijgd0doIKczFk=",
         "sling-0.87.1.tar.gz"
       ]
+    },
+    "0.87.3": {
+      "sdist": [
+        "uXz96ql+pOFITlKSFDA2tT9i/ZYzpvP5E3M2eZfsL9U=",
+        "sling-0.87.3.tar.gz"
+      ]
     }
   },
   "smartinput": {
@@ -135813,6 +135869,32 @@
       ]
     }
   },
+  "tap-checkly": {
+    "0.0.1": {
+      "sdist": [
+        "Y1tUTB96F8o64MAbPZ0trQ/6VEw7C/ysBL+4lRGzZ+s=",
+        "tap_checkly-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tap_checkly-0.0.1-py3-none-any.whl": [
+          "2M4leGSeI4kZY18ulgn8hDKrxxgFdELSKeedJUx5X/0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1b1": {
+      "sdist": [
+        "SKF/UzXH3TPc5KF7kVuj6FtT7qUnxipy5E/8HlevvLg=",
+        "tap_checkly-0.0.1b1.tar.gz"
+      ],
+      "wheels": {
+        "tap_checkly-0.0.1b1-py3-none-any.whl": [
+          "M+g0cbA5AqAHvCdh6XtfIXO8uI1Bq8VA5AazSpdz9gI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tap-covid-19": {
     "0.0.1": {
       "sdist": [
@@ -136676,6 +136758,14 @@
       "wheels": {
         "tepe-0.5.9-py3-none-any.whl": [
           "ACVWaFlYKH0ySqHnK3iGIx5XneioGNnoGOF6dylsMUg=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "wheels": {
+        "tepe-0.6.0-py3-none-any.whl": [
+          "/dm2X1s+a1W8EKE+gs/5iz32K8MVgMyO+1CCvxAgt/I=",
           "py3"
         ]
       }
@@ -161385,6 +161475,20 @@
       }
     }
   },
+  "xiangfen-shiguang": {
+    "2022.12.8.0": {
+      "sdist": [
+        "uyOFk5S1NZQcrzgojIRsBH6+fKmoCahdeME74eeo/yU=",
+        "xiangfen-shiguang-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "xiangfen_shiguang-2022.12.8.0-py3-none-any.whl": [
+          "OX0ggfzmvIHHq+qDl/wA2vkCzsDGCJcWP/R3jwytL/k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "xiaozhu": {
     "0.0.1": {
       "sdist": [
@@ -162136,6 +162240,20 @@
       "wheels": {
         "yueliang_jinxing_xingyun_quanshu-2022.8.23.0-py3-none-any.whl": [
           "zgdqXLc9hoZFjdad4Ta++Gfj/7y25O3TGNKEAE4EkWo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "yushen-duihua-jiekai-nide-rensheng-yiwen": {
+    "2022.12.8.0": {
+      "sdist": [
+        "JmNH8AyWliAu+IinSZLTWUmgjJE5MJymslCeMf9yorA=",
+        "yushen-duihua-jiekai-nide-rensheng-yiwen-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "yushen_duihua_jiekai_nide_rensheng_yiwen-2022.12.8.0-py3-none-any.whl": [
+          "+9GssD/I2tDpCWPxGI4P8+f7hfqOjsrt52jwcPCCtZk=",
           "py3"
         ]
       }

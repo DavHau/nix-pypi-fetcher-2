@@ -68231,6 +68231,18 @@
           "py3"
         ]
       }
+    },
+    "5.6.1.1": {
+      "wheels": {
+        "jennifer_python-5.6.1.1-py2-none-any.whl": [
+          "9qQkwgy/KjFSxrDY/aq4DEQ6k4Y8sNR0HLev8KguK6o=",
+          "py2"
+        ],
+        "jennifer_python-5.6.1.1-py3-none-any.whl": [
+          "WI2nlQliwGt3Jw+IjIKecmJN0acS0WS41MyEhQIR+Tc=",
+          "py3"
+        ]
+      }
     }
   },
   "jenti": {
@@ -76710,6 +76722,12 @@
       "sdist": [
         "qe+UAfLiLHFfh7kuNh1uSShxsJmJFB4LNlEKdsPSUEM=",
         "lpack-3.2.6.tar.gz"
+      ]
+    },
+    "3.2.7": {
+      "sdist": [
+        "tSzjCsGwXAVJDwYJ/CViSUbf6GdRMe9EANSAtl7TOM8=",
+        "lpack-3.2.7.tar.gz"
       ]
     }
   },
@@ -94576,6 +94594,14 @@
       "wheels": {
         "odoo14_addon_hotel-14.0.1.0.1.dev27-py3-none-any.whl": [
           "idMXcNcpgDtRn1CAT0oKzDJNzypFWuZEyo3M2d4/2RY=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev28": {
+      "wheels": {
+        "odoo14_addon_hotel-14.0.1.0.1.dev28-py3-none-any.whl": [
+          "BPX/AOgOAqZmnPZ1GzJtdfVHqh4mPtYpofOpsNYztv0=",
           "py3"
         ]
       }
@@ -150658,6 +150684,30 @@
       "wheels": {
         "vspreview-0.3.1-py3-none-any.whl": [
           "Jm11859HGKf/ZH4ie+Tzw424AYIxcVb6He/Aslt++a4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "3ga0gZp1H6XOG2IOGsRrSVZdP5CyDj+zlXTD36nxuQQ=",
+        "vspreview-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "vspreview-0.3.2-py3-none-any.whl": [
+          "V5xh2P6hwYcu2i+wMx0TkuRqFiLBICigKlHLTLFJJiE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "GgEWti6Z9XYRG8qHtpBMFd+frzG2X0WNFYur4UkB8Eg=",
+        "vspreview-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "vspreview-0.3.3-py3-none-any.whl": [
+          "WAHHVQ3pkFnSvUXAC5/YJwdmy6XlOyi8UoGsMdb6eKs=",
           "py3"
         ]
       }

@@ -14275,6 +14275,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "V/5v8tPvSnM09IRkesmiKB7n2XQWmjsjuB+hrU4iL/Q=",
+        "bemserver-ui-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "bemserver_ui-0.1.2-py3-none-any.whl": [
+          "JMVOG0T4Z8SWXXLx+wNK2tVQ3JArbfwnsMwYfHmb/+c=",
+          "py3"
+        ]
+      }
     }
   },
   "bento-dash": {
@@ -15060,6 +15072,22 @@
         ],
         "bigdl_dllib-2.2.0b20221207-py3-none-manylinux1_x86_64.whl": [
           "1ZstJ0o+0GrpHxf6RkSu/D/YuvEJlrHJXH9Le4abqeo=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0b20221208": {
+      "sdist": [
+        "SOwqKEOavuIN8j8pwhrUHuOAXcM9cYqhIjoQTUF5li8=",
+        "bigdl-dllib-2.2.0b20221208.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221208-py3-none-macosx_10_11_x86_64.whl": [
+          "K8y4OLKCANpD+xoKZqEjgruhy+SxE7il56cRjrlrmQw=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221208-py3-none-manylinux1_x86_64.whl": [
+          "lnsvAy2rEf47KQzJoJr7ap7ybRHNVDcQR40H05n6+5E=",
           "py3"
         ]
       }
@@ -60308,6 +60336,18 @@
       "wheels": {
         "merkle_py-1.0.3-py3-none-any.whl": [
           "hEcAxl6a0SjPFktH2nQ6C7w1Qhp44WU0uWmdF4M0BVY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "JbTKGQTSBL6PRj/5nloLLAjNkaVjz6QzvDRsgtqv7i0=",
+        "merkle-py-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "merkle_py-1.1.0-py3-none-any.whl": [
+          "DiZfjWPCB2j9qdKJG3qIqh6IjosTFOfF4bq9/NGOD1c=",
           "py3"
         ]
       }
@@ -137434,6 +137474,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221206-cp39-cp39-win_amd64.whl": [
           "3iBRB5+3G0pSGbLRiyMYOSdFbwFNHC3yHvyYV59aahE=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221208": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221208-cp310-cp310-win_amd64.whl": [
+          "nRE9JG1Apdo09WDx6NAYin+nMmkIJeW6LJSZ96MIow0=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221208-cp38-cp38-win_amd64.whl": [
+          "3SSzvx65lMbk63yCd+vJfguNekUwVxOHVGvTV6npJ30=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221208-cp39-cp39-win_amd64.whl": [
+          "RXKSITcoHU2Jezy6XN8Kk00jRfZgt4Qfl0OTsR96yIQ=",
           "cp39"
         ]
       }

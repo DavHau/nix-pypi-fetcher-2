@@ -387,6 +387,18 @@
         "+mF5FO4HfxRjdaHzrvERNaaUNLODbybXxbKt1m5FvOo=",
         "adafruit-circuitpython-testrepo-2.0.4.tar.gz"
       ]
+    },
+    "3.0.0": {
+      "sdist": [
+        "9FacX1H72uBiqSInuIbr+Bce4Zj00ySAnw206nITsYY=",
+        "adafruit-circuitpython-testrepo-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_testrepo-3.0.0-py3-none-any.whl": [
+          "rDs5P2369YG9/KXyBfcSPe543ExlgkWeMFXcgKJDu4M=",
+          "py3"
+        ]
+      }
     }
   },
   "adafruit-extended-bus": {
@@ -3138,6 +3150,12 @@
       "sdist": [
         "Oj5gGgZEn0q79cRS+yD8wI1bjx68ZKk72dnqcYHiRRc=",
         "appsurifyci-0.0.9.tar.gz"
+      ]
+    },
+    "0.0.90": {
+      "sdist": [
+        "iJ/DtC6aD7mkFk5bC7X0ZDSyxxp+Vzx5XQZ9CaFBs4w=",
+        "appsurifyci-0.0.90.tar.gz"
       ]
     }
   },
@@ -24440,14 +24458,14 @@
     }
   },
   "cppfingercount": {
-    "0.0.2": {
+    "0.0.5": {
       "sdist": [
-        "11NhLNXxkt/lrMC/a34puRZEEqCfX+zamYDo34rlZ4w=",
-        "cppfingercount-0.0.2.tar.gz"
+        "ulubtm+/j5JYZ78iPkWE4A9mrcRdvZbzL+hqxdFFFBs=",
+        "cppfingercount-0.0.5.tar.gz"
       ],
       "wheels": {
-        "cppfingercount-0.0.2-py3-none-any.whl": [
-          "xr48DHsceY9iaMJvICD0alQKhoWqz5/SgHU6cztXmmM=",
+        "cppfingercount-0.0.5-py3-none-any.whl": [
+          "gkiL4YF3luLSecIMYLVa6OtjXUj3uyej7xhKLTof2f4=",
           "py3"
         ]
       }
@@ -55432,6 +55450,14 @@
       "wheels": {
         "huaweicloudsdkges-3.1.14-py2.py3-none-any.whl": [
           "SriQRVRdjlzFiOUAKCCJXsmgUKuTkMeIQX6BMdfEOpk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.15": {
+      "wheels": {
+        "huaweicloudsdkges-3.1.15-py2.py3-none-any.whl": [
+          "stHYwsUaawVs1ZGCOrr9qOqLYim6ujp8qculFY8aiwA=",
           "py2.py3"
         ]
       }
@@ -101652,6 +101678,30 @@
         ]
       }
     },
+    "0.0.148": {
+      "sdist": [
+        "bpm1daxMzA5LsFC4vtytn7pye5S3EkeS2Oc9K56M72o=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.148.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.148-py3-none-any.whl": [
+          "5EzGz5CTBbl/h4Pb0x8pzXVzXmO4BXXfXhYAWv+x1Og=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.149": {
+      "sdist": [
+        "lblNFPdXCW3UtAweqSWBvf9froaV+RtydJBY4+vcvNA=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.149.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.149-py3-none-any.whl": [
+          "AUEt0Kh7XJlrtfUAMwaxGdiMG29fF56WjLcIn0etfaE=",
+          "py3"
+        ]
+      }
+    },
     "0.0.15": {
       "sdist": [
         "PMljwwUH3dD2amAtCXw4jQxsmPsTKslPMgFgI7H6Y9s=",
@@ -101660,6 +101710,42 @@
       "wheels": {
         "pepperize.cdk_ssm_parameters_cross_region-0.0.15-py3-none-any.whl": [
           "GLmfaQxtH2bS8/zXaiU2Vp16A88Vvd0sx4cijgm2m9c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.150": {
+      "sdist": [
+        "pyKWxlEUZIxnO3vMED3L8qt6OGrJ3AYYU9rgkWIPorI=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.150.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.150-py3-none-any.whl": [
+          "65IPQLvN+dLsQLWGcuHZbEGbGrvrZ/7z9Y7wFX4Q+d4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.151": {
+      "sdist": [
+        "yCu13eTqL3pwdqqZho/e7ytkcBNsmEBoemIR50bv2UA=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.151.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.151-py3-none-any.whl": [
+          "oLMd61pzf0uWdrxuARmMrBlawQjq9gPXPegqOlLQscg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.152": {
+      "sdist": [
+        "lU5MKdQWuPxloTGqpS6vs9qcvyQRJulfCThg1yd1LBI=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.152.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.152-py3-none-any.whl": [
+          "Q65+liGhFbH2xCtxgJMDSfy0GYFQAPzVdOqFjuY5EGY=",
           "py3"
         ]
       }
@@ -129307,6 +129393,20 @@
       }
     }
   },
+  "shena-jiaowo-ruheba-liangge-shengjiao-wenchu-sange-shengjiao": {
+    "2022.12.8.0": {
+      "sdist": [
+        "r7V7oLHdbzUH6PEzPIWR1LVd6EUyqW+umvUbHHxi18M=",
+        "shena-jiaowo-ruheba-liangge-shengjiao-wenchu-sange-shengjiao-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "shena_jiaowo_ruheba_liangge_shengjiao_wenchu_sange_shengjiao-2022.12.8.0-py3-none-any.whl": [
+          "9QaWUf74FhpB4z4Y5PQGb9NpQMN4HFwxbaPN+MZrotM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "shinywidgets": {
     "0.1.1": {
       "sdist": [
@@ -149616,6 +149716,20 @@
       "wheels": {
         "XTCryptoSignals-0.8.9-py3-none-any.whl": [
           "Zg50JxaGrqGfF26V/Nus2F400WU0RN/fkSTtYXqPA/U=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "xuanxue-jinnang-xingmingpian": {
+    "2022.12.8.0": {
+      "sdist": [
+        "Vm+t7iCnxIJG6XUp914i6MjVzzpMe+avGLvYB59bCeQ=",
+        "xuanxue-jinnang-xingmingpian-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "xuanxue_jinnang_xingmingpian-2022.12.8.0-py3-none-any.whl": [
+          "W1Da4EHxcP4MT66/GWL41XenwWp6IiQt4YZbeH5tpaw=",
           "py3"
         ]
       }

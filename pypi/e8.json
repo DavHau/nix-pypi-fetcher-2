@@ -32891,6 +32891,12 @@
         "2OD4JUQyglJ9zmDGk9/YXe4ffZDQqHIOyHTr9/jYGew=",
         "dbt-glue-0.3.6.tar.gz"
       ]
+    },
+    "0.3.7": {
+      "sdist": [
+        "5OcJUm+KffMqe1byGKv5HgAdhKDEcD6/wr14jem2DTM=",
+        "dbt-glue-0.3.7.tar.gz"
+      ]
     }
   },
   "dc-json": {
@@ -47448,6 +47454,12 @@
       "sdist": [
         "PyVq7ZRomXdRdh8l0+wxiP/PicZijGbZ+Wsmd9jw7c0=",
         "fastsnmp-0.12.tar.gz"
+      ]
+    },
+    "0.13": {
+      "sdist": [
+        "iDgUAqRuHNWKOlf8AHnzmtaHBWIXcsDHC2dgUhfh+44=",
+        "fastsnmp-0.13.tar.gz"
       ]
     },
     "0.3": {
@@ -87595,6 +87607,54 @@
           "py3"
         ]
       }
+    },
+    "1.0.0.3": {
+      "sdist": [
+        "s+0TqBccUXjh/usj0+iJ1um32Q8wnT9fbVM4s0VlTaI=",
+        "naimai-1.0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "naimai-1.0.0.3-py3-none-any.whl": [
+          "atE1H9Dn2nlP98TJjdBnnawc+/tWcXIh8uCPJfOREWg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.4": {
+      "sdist": [
+        "LpyFCSL1lhQCi2U/Bu7CYpN1aF9BF1E1I/dQnIdVEJU=",
+        "naimai-1.0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "naimai-1.0.0.4-py3-none-any.whl": [
+          "ALJUbDU5ABgomsmfIjSSrtZSAY9vy1Uj4U6jB5ijm0A=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.5": {
+      "sdist": [
+        "mn5q3c+KIjgjtVGjLoprAsuL1nyiBRjQh56/ZHdKdi8=",
+        "naimai-1.0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "naimai-1.0.0.5-py3-none-any.whl": [
+          "qir0WZRxt6kQPcb5xudp8n1hJKxfUwpNxjsTa3Zstmo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.6": {
+      "sdist": [
+        "eMTVVq339mWGrfUVihe6NQOYZZ0DDTHfUALs0Rs3XzE=",
+        "naimai-1.0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "naimai-1.0.0.6-py3-none-any.whl": [
+          "o68LWjffBCTQXw8iv640KqS6dNRi5UUZPNONiVAZMwc=",
+          "py3"
+        ]
+      }
     }
   },
   "napalm-h3c-comware": {
@@ -88440,6 +88500,20 @@
       "wheels": {
         "nec_sol-0.5.1.post1-py3-none-any.whl": [
           "wRBGa0u8qHZWNuk0FcnG7jeN6x6csMkcpNmX1fjb+IA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "neijing-huxi-yangshengfa": {
+    "2022.12.8.0": {
+      "sdist": [
+        "uUhs+irnU+v2AbU2lITioQCBUrLrl4tsyxE3F3IV440=",
+        "neijing-huxi-yangshengfa-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "neijing_huxi_yangshengfa-2022.12.8.0-py3-none-any.whl": [
+          "ZQrB/IOgSS/6fN2NI1qAfHvwZzRk8fyXytoBkIeDcp4=",
           "py3"
         ]
       }
@@ -96431,6 +96505,50 @@
           "cp39"
         ]
       }
+    },
+    "1.1.6": {
+      "wheels": {
+        "OpenCC-1.1.6-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "q4L2uQju3aj5mJRv+O82MgFcNFkjsDWTG+h/oMA4NXw=",
+          "cp310"
+        ],
+        "OpenCC-1.1.6-cp310-cp310-manylinux1_x86_64.whl": [
+          "aPo5+KocRx8Dlp1+fewT2PYNMBaKiVgIpRrEMl+I65U=",
+          "cp310"
+        ],
+        "OpenCC-1.1.6-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "+E/fKlq9lxce3Ed6iE8ki194sSaQINW4JIKtNNdpL8w=",
+          "cp311"
+        ],
+        "OpenCC-1.1.6-cp311-cp311-manylinux1_x86_64.whl": [
+          "0FN6AGgWbpvzkdtMhdvJCZhm/SnsCos9KruM8Q6PUN8=",
+          "cp311"
+        ],
+        "OpenCC-1.1.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Eukcfdsqfiw+lqHCtzeASfSSCeor7a+epd61bZ0R8YY=",
+          "cp37"
+        ],
+        "OpenCC-1.1.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "YAR5RvlOME42yVoyiM14AH3V4mpz/b+dgQaXNi3Oirg=",
+          "cp37"
+        ],
+        "OpenCC-1.1.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "n19qd5g5svTWMQKBTHx0smKulUL6ngXGhvSTQAkm3fo=",
+          "cp38"
+        ],
+        "OpenCC-1.1.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "Dn/MtWIFG+RIJICbmFuiLcVP5OoWXXXxkE6eJ0sp8KU=",
+          "cp38"
+        ],
+        "OpenCC-1.1.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "YrP/E/v3qSYB9d8AUqocuUjCe1u2abO5zOyq0tWfWIo=",
+          "cp39"
+        ],
+        "OpenCC-1.1.6-cp39-cp39-manylinux1_x86_64.whl": [
+          "4aUQOTGdTUIOaAmsz7Ix6AhTPTjVJtJ4RsGXkFL6zkA=",
+          "cp39"
+        ]
+      }
     }
   },
   "opencmiss.importer": {
@@ -101568,6 +101686,18 @@
       "wheels": {
         "phonenumbers-8.13.1-py2.py3-none-any.whl": [
           "B6lcLxeGh/0cP3Is95Kz0z46IlrnFXflAMmbKFRM1tA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "8.13.2": {
+      "sdist": [
+        "AXn2iNSMDn4WHre52G1YeUCvH1F0+Xwf39iTxZnA2Uo=",
+        "phonenumbers-8.13.2.tar.gz"
+      ],
+      "wheels": {
+        "phonenumbers-8.13.2-py2.py3-none-any.whl": [
+          "iEsm93UgUmH03IYTcdziF8FmGklC+z7DYk4pD7UYab8=",
           "py2.py3"
         ]
       }
@@ -159262,6 +159392,18 @@
       "wheels": {
         "zakipy-0.0.2-py3-none-any.whl": [
           "qNdU6zEcaNGaeo2rV+2/YS/nDwPoAH5UugfFlkeHRZQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "nwDXiTIp/cu1Q0bQ8LtXGIVd23NLW+ErDExZfG5DZOc=",
+        "zakipy-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "zakipy-0.0.3-py3-none-any.whl": [
+          "tVDuRYQ6G4d5GXJhQRq/wnRZUp7u5+SPqOfM3q6/EVQ=",
           "py3"
         ]
       }

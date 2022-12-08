@@ -26285,6 +26285,70 @@
           "cp39"
         ]
       }
+    },
+    "3.4.0": {
+      "wheels": {
+        "diplib-3.4.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "BidJBuBnYJJgTIstlbNhM1Lr4z8X0h33GSAWSWJN6UI=",
+          "cp310"
+        ],
+        "diplib-3.4.0-cp310-cp310-macosx_12_0_arm64.whl": [
+          "SiS9dbrhClNmiIB1Il0vy3ivnMapafcbttf8kWdyWPg=",
+          "cp310"
+        ],
+        "diplib-3.4.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bu+nvjBYB9OrATGKV9yIHCTCKbZXzOAfPqheUgYdV6c=",
+          "cp310"
+        ],
+        "diplib-3.4.0-cp310-cp310-win_amd64.whl": [
+          "QobBiuANbl/2qOA/UaIdTzOgmexixB5zw9fyXVV6wsk=",
+          "cp310"
+        ],
+        "diplib-3.4.0-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "MFSry9Ck7fD/b9iyJ3y0QakNaj5rk2DhbdPVrhDzSKQ=",
+          "cp311"
+        ],
+        "diplib-3.4.0-cp311-cp311-macosx_12_0_arm64.whl": [
+          "Q1lscfwN+cpjJemj2BjM07sG2ZDGWySJn/+dKJ7+DDA=",
+          "cp311"
+        ],
+        "diplib-3.4.0-cp311-cp311-win_amd64.whl": [
+          "0y4raBgOLPr5NFiCSgj0PfDKC0bLZMpG+zftwzf7n0s=",
+          "cp311"
+        ],
+        "diplib-3.4.0-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "zXze7wesK4rh5misrmvhn/aBy/KUg7L5Rhb2kaX+16Q=",
+          "cp38"
+        ],
+        "diplib-3.4.0-cp38-cp38-macosx_12_0_arm64.whl": [
+          "oiFTlNE7PQQgEyqJU+9a7uUWxA+sDpYj3ik4EXQ0jPk=",
+          "cp38"
+        ],
+        "diplib-3.4.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "kWwjVa+Him4+4bTlDhGUwofVHqUHFUlkMuoYeSjZ1Vw=",
+          "cp38"
+        ],
+        "diplib-3.4.0-cp38-cp38-win_amd64.whl": [
+          "IbaIFoNx3xF52u/Ek0bwBvZbldTPUxLCYp8ksGZh15A=",
+          "cp38"
+        ],
+        "diplib-3.4.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "fhR5TeIZ8CQawFiZS32fUpr7wRLVQsw6ImfsF0sLOXc=",
+          "cp39"
+        ],
+        "diplib-3.4.0-cp39-cp39-macosx_12_0_arm64.whl": [
+          "kxGtpLR9G2gPPw91mf1JL5yYk0nc794Z+5xjiLadA7w=",
+          "cp39"
+        ],
+        "diplib-3.4.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "R7phteZdAg4zo6h8T2TuLv7tchgRdfroeRKYw3OoSTQ=",
+          "cp39"
+        ],
+        "diplib-3.4.0-cp39-cp39-win_amd64.whl": [
+          "PME89KqA2NTH1T13zpXG3ICy3EEtk/+v+2+1wjChxHs=",
+          "cp39"
+        ]
+      }
     }
   },
   "dis-pydactyl": {
@@ -33848,6 +33912,12 @@
       "sdist": [
         "XFjukeyLxWBkVVdzqAezTx2pFSWTdAVpFle29LoKPrA=",
         "docarray-0.20.0.tar.gz"
+      ]
+    },
+    "0.20.1.dev3": {
+      "sdist": [
+        "EqLKG4FX/CWHyhj1sxhur/gc16jPLhDMxJXtg/X7qJo=",
+        "docarray-0.20.1.dev3.tar.gz"
       ]
     },
     "0.3.0": {
@@ -48905,6 +48975,14 @@
       }
     }
   },
+  "flask-middlewares": {
+    "1.0.0": {
+      "sdist": [
+        "CHUHGTt3H0vhPMD36WSZkH72anMzkmov5sXp8fSvKX8=",
+        "Flask-Middlewares-1.0.0.zip"
+      ]
+    }
+  },
   "flask-nicely": {
     "0.1.0": {
       "sdist": [
@@ -49211,6 +49289,32 @@
         "flowmepy-0.2.16-cp38-cp38-win_amd64.whl": [
           "Re1lOCqR1wAXe1fVAFM1PwoYT240QP1n/nHtMVj9M1w=",
           "cp38"
+        ]
+      }
+    }
+  },
+  "focalnet-tensorflow": {
+    "0.0.1": {
+      "sdist": [
+        "PY9KiAank/Aijc0RqLC6Bw363B21GdbvDe4lckOhfpQ=",
+        "focalnet_tensorflow-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "focalnet_tensorflow-0.0.1-py3-none-any.whl": [
+          "96BNc6lUF2RW18N5L/C2UzBV6u/o41igP5/iS03bCbg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "sFK0F0YOQ9KjbMCAPm0TuHzry4p/An2k93DXaKlKNCI=",
+        "focalnet_tensorflow-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "focalnet_tensorflow-0.0.2-py3-none-any.whl": [
+          "as1bzpMDi7Aq3kloWL6y1x56pJBceZoz6n/hs1ySpXk=",
+          "py3"
         ]
       }
     }
@@ -53802,6 +53906,66 @@
       "wheels": {
         "HawaData-0.1.1-py3-none-any.whl": [
           "5tm2dK/1z4JQ3dzIhGSXMLrwM4Lh5D24KqiEY8/YZvs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "eSJN0xfixceEs9Crlx2YYnQreQcvVI19dyWYKE7pZbU=",
+        "HawaData-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "HawaData-0.1.2-py3-none-any.whl": [
+          "RREmeWyneYTRx0lzpsV+gWR6EkJM8q7F3sgZFqNbV1Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "oxO93A0C88cxtM2J4bKUFwNRL6NWIJYki50vqiV/Dec=",
+        "HawaData-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "HawaData-0.1.3-py3-none-any.whl": [
+          "f2J5v6OM5dbCbqVopDC/5MIfVLfl4zcae+XJos7vfkk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "MWA8lnzUUZFkRZPln3RyP4/4xJCv2jJBv6WkELAOe4M=",
+        "HawaData-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "HawaData-0.1.4-py3-none-any.whl": [
+          "2zhjoNgPJCLWHduq5A3/8kA29W27q8sw6XgO4c2jtao=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "upukwcbKlapj+L4Pp7LHSNfuJpkIxu0CgWRp/rZa6/I=",
+        "HawaData-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "HawaData-0.1.5-py3-none-any.whl": [
+          "X0ZUAhJHuc1A+xsMMaPcWApk+4aswnFMEZ75SIE/0OY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "gaAxCU3DlFezR5c4K3SUJ8HsOco6jVOjv5rbCGRetlM=",
+        "HawaData-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "HawaData-0.1.6-py3-none-any.whl": [
+          "fzRAUiJk+8qggHljM9n9yNI33jIONQ2LLbiRj5u+Nrg=",
           "py3"
         ]
       }
@@ -110994,6 +111158,18 @@
         ]
       }
     },
+    "0.1.19": {
+      "sdist": [
+        "Td9F1TimdhkBkg5raXbLYWjGIVZX1pA3AJ0c+yq7a+w=",
+        "quaterion_models-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "quaterion_models-0.1.19-py3-none-any.whl": [
+          "URbHp202I3TTwxjH+6n2yL94OoSQxn7HGbOUHWUZLNU=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "FaCYsXncAjVGqEaSok6qrj817IZyXom0SLckrenCYaI=",
@@ -111186,6 +111362,18 @@
       "wheels": {
         "qutrunk-0.1.14-py3-none-any.whl": [
           "pnV0d07NbbBTK43gUvmDXeBmXilmmtMKWG9y7DLqpQg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "JKS/wnN/fyJuVUZguWIMyN6XUFhxWOtrMiepPjVctdU=",
+        "qutrunk-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "qutrunk-0.1.15-py3-none-any.whl": [
+          "Rjgx5QkBw4Tzt/KF3PO7noJ0IU46Dzyi2fahT749OP0=",
           "py3"
         ]
       }
@@ -115525,6 +115713,20 @@
         "saltext.prometheus-2.0.0-py2.py3-none-any.whl": [
           "eKDH/AT6YEaSMTqA0/ZB4hRzarv1tX7a0UK3JEWLCeI=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "samplelibranasdn": {
+    "1.0": {
+      "sdist": [
+        "/0UwzfJbn032Sv1eRyFBDGC+kNpQs1TiSSE3zisi13w=",
+        "samplelibranasdn-1.0.tar.gz"
+      ],
+      "wheels": {
+        "samplelibranasdn-1.0-py3-none-any.whl": [
+          "K7gYGWayQpmx6ggnHbuE4dt8gJ96FYHv930fUj18mqo=",
+          "py3"
         ]
       }
     }
@@ -124096,6 +124298,18 @@
       "wheels": {
         "tbp_nightly-2.12.1a20221207-py3-none-any.whl": [
           "mt2uNHcE8zZ+So8lyJG5c+1uGbXPFbcYqNLIe62Exm8=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.1a20221208": {
+      "sdist": [
+        "h48upeThM47/50fBQfOFe0SOfR2X9khcpuFznNUyjzs=",
+        "tbp-nightly-2.12.1a20221208.tar.gz"
+      ],
+      "wheels": {
+        "tbp_nightly-2.12.1a20221208-py3-none-any.whl": [
+          "LNDECcTG/XIwMhXh5MrXXSZjkgnThzZwQVTx0tL2Bl8=",
           "py3"
         ]
       }

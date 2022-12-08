@@ -15311,9 +15311,25 @@
       }
     },
     "1.0.11": {
+      "sdist": [
+        "/4QB7G/ueC94PjdtGPujzgax6kep1E7WcgP2iQMDlnk=",
+        "bentoml-1.0.11.tar.gz"
+      ],
       "wheels": {
         "bentoml-1.0.11-py3-none-any.whl": [
           "UyU/Ln18p/K3+kISKny9nDNrJz71jXFby4FpOiCfHPM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.12": {
+      "sdist": [
+        "zKPn2ILOg64DGffP/ZOKz6ilW0H2IGRk+7D5X9qtaEI=",
+        "bentoml-1.0.12.tar.gz"
+      ],
+      "wheels": {
+        "bentoml-1.0.12-py3-none-any.whl": [
+          "Wstg1wtaRVOadJinrtgHZJSm66lsUcQ5/oUtf2Dwj68=",
           "py3"
         ]
       }
@@ -59284,6 +59300,18 @@
         ]
       }
     },
+    "2.69.0": {
+      "sdist": [
+        "A2JKKLW6lPPD1EdhCB9dv4yrqiDFw6lsBGRXxXE++5s=",
+        "google-api-python-client-2.69.0.tar.gz"
+      ],
+      "wheels": {
+        "google_api_python_client-2.69.0-py2.py3-none-any.whl": [
+          "vCRHp0eQBtmJJ/sg+qdNiS03WP9o6ZtiE2djK8Qrivg=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.7.0": {
       "sdist": [
         "mHm40dGCEq6Ss1urYejqntXqY++cjKhHk4U42hDdGTs=",
@@ -64398,6 +64426,14 @@
       "wheels": {
         "huaweicloudsdkimagesearch-3.1.14-py2.py3-none-any.whl": [
           "pUknEDyRBKViH/z/vp1wKLiqX49yhBUo8taQCl73Dnc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.15": {
+      "wheels": {
+        "huaweicloudsdkimagesearch-3.1.15-py2.py3-none-any.whl": [
+          "TG8MPX0RAPU8gtxOO4E4asigqqJsN1VXn+HBxFds+Ms=",
           "py2.py3"
         ]
       }
@@ -74987,6 +75023,20 @@
         "LrpXFMXCH7X0QjzX/5ofEFs9TeBTmJcttGHLoJ8YOs8=",
         "mlmnemonist-0.1.0.tar.gz"
       ]
+    }
+  },
+  "mlops-utilities": {
+    "0.1.6": {
+      "sdist": [
+        "zI8JDTfueEsyshuWelEeuw6DJE7K24t6+tNk5Wy8vhg=",
+        "mlops_utilities-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "mlops_utilities-0.1.6-py3-none-any.whl": [
+          "AfkMzZPYjQMNKasiLiKO9APdG/dsse2Ilhowm0I/nMg=",
+          "py3"
+        ]
+      }
     }
   },
   "mmcif": {
@@ -92928,6 +92978,12 @@
       "sdist": [
         "O3UOKipG6VnIkFgsy8XfdguIAAB/9gPhL9kpLaMfN0A=",
         "Nuitka-1.2.4.tar.gz"
+      ]
+    },
+    "1.2.6": {
+      "sdist": [
+        "nLN5ojLJn91jtlcTKfXhB1o3MFlNSCo/F9PjuSJ8fbk=",
+        "Nuitka-1.2.6.tar.gz"
       ]
     }
   },
@@ -115074,6 +115130,18 @@
       "wheels": {
         "preheat_open-1.35-py3-none-any.whl": [
           "0YLJpO3N35dnjGxhtjhYmJmZxn2RHFTba0SAbF01Do8=",
+          "py3"
+        ]
+      }
+    },
+    "1.36": {
+      "sdist": [
+        "KW2Ay1GUNdq9DxBgB/qg2TlBu+1L1IlH+RLYz31xeWM=",
+        "preheat_open-1.36.tar.gz"
+      ],
+      "wheels": {
+        "preheat_open-1.36-py3-none-any.whl": [
+          "1BLk8HDtVerJnPgxDrpeTrcJrD0dlA6pEIT3meS+TlQ=",
           "py3"
         ]
       }
@@ -156370,6 +156438,20 @@
       "wheels": {
         "xinghai_tanmi-2022.10.11.0-py3-none-any.whl": [
           "Ga7egVh3deCbmnyUjSsHg+yQMqRYa0hGrcFqwu2JOo4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "xiyue-jiushiqu-yongbao-shenghuo": {
+    "2022.12.8.0": {
+      "sdist": [
+        "L7TRnV9/GHuQCYpg+y4zgDAvYxJmv1uF2t1DOnsb6NY=",
+        "xiyue-jiushiqu-yongbao-shenghuo-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "xiyue_jiushiqu_yongbao_shenghuo-2022.12.8.0-py3-none-any.whl": [
+          "GJarqXe/Kmoylix002wTbrAloM4M0Z9z2IKX8AvWyOg=",
           "py3"
         ]
       }

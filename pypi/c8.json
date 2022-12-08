@@ -13965,6 +13965,20 @@
       ]
     }
   },
+  "ayu-feituo-liaofa": {
+    "2022.12.8.0": {
+      "sdist": [
+        "pCEehGFpmAJSHj1eWhIGHQoGcZjnjjndvq/SnWMSFv4=",
+        "ayu-feituo-liaofa-2022.12.8.0.tar.gz"
+      ],
+      "wheels": {
+        "ayu_feituo_liaofa-2022.12.8.0-py3-none-any.whl": [
+          "J8t2YRHUG3fIquI4FVG4zMd9Nfu/zzA/C3Nqa1Cv22E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "azure-agrifood-farming": {
     "1.0.0b1": {
       "sdist": [
@@ -29554,6 +29568,18 @@
       "wheels": {
         "csle_rest_api-0.0.2-py3-none-any.whl": [
           "DSNoKb0r4RMs4tiwfhwiRx9Mb5AbvwauekDtTNQi9vA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "sdist": [
+        "op0qYwKfWJx3TN7uWrWNC7DYbDBiHhku0q/aqZjVGag=",
+        "csle_rest_api-0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "csle_rest_api-0.0.20-py3-none-any.whl": [
+          "jVBXPJ7cKK5A8vcXeow3QPNXeRcWMSyBBqeCNOgnLJw=",
           "py3"
         ]
       }
@@ -55105,6 +55131,30 @@
           "py3"
         ]
       }
+    },
+    "0.3": {
+      "sdist": [
+        "jB5TWUD6y7/6N1SPky1M6eapzvH9euGPmGaal31XJBc=",
+        "grony-0.3.tar.gz"
+      ],
+      "wheels": {
+        "grony-0.3-py3-none-any.whl": [
+          "PMYoHhWvJeR6rbyIRkDxEalHoXA1TxouNoAA1hU48JU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "G5CEE18RF67/gHMLhXvgp3xxSVhsuhMpM8b2Jx/cfbU=",
+        "grony-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "grony-0.3.1-py3-none-any.whl": [
+          "Bsk/8VAGGbHiozhTPb2SrlbEaM7rbEyNLmRm6fFYMF0=",
+          "py3"
+        ]
+      }
     }
   },
   "grpc-googleiam-v1": {
@@ -70554,6 +70604,18 @@
       "wheels": {
         "js_sdk-11.5b18-py3-none-any.whl": [
           "9wuXLXhxkXclISjuS69iHDwbp9pt6eYAZMQ/EpOrpHw=",
+          "py3"
+        ]
+      }
+    },
+    "11.5b19": {
+      "sdist": [
+        "/xx26x1K6PUc4cSPxXZ4SZnNVCVFB5mg9xMpHLmwtWw=",
+        "js-sdk-11.5b19.tar.gz"
+      ],
+      "wheels": {
+        "js_sdk-11.5b19-py3-none-any.whl": [
+          "9s/hYlZtAJcTZfdDx5/UF4U4Od29rjy6WowHN1nXOik=",
           "py3"
         ]
       }
@@ -89876,6 +89938,110 @@
         ],
         "Mosek-9.3.21-cp39-cp39-win_amd64.whl": [
           "juE3ulvQ04cDhwQX7V8xSNhT9VMjWlDd7CYcSw3CUpQ=",
+          "cp39"
+        ]
+      }
+    },
+    "9.3.22": {
+      "wheels": {
+        "Mosek-9.3.22-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "aAmpIlVc8sg+st0LBI14myxNwwJ5X6wAU2nmKZeWHGg=",
+          "cp27"
+        ],
+        "Mosek-9.3.22-cp27-cp27mu-manylinux2014_x86_64.whl": [
+          "epX3d49IYwWoFZvU9fZnlw40SudOc7wXgOgRfGqiJJU=",
+          "cp27"
+        ],
+        "Mosek-9.3.22-cp27-cp27m-win32.whl": [
+          "l2mffAQw9IdiPW9nbeOH0OoCJJDBW6w7oripcUlK5Mg=",
+          "cp27"
+        ],
+        "Mosek-9.3.22-cp27-cp27m-win_amd64.whl": [
+          "po/VKVKKPvq/S0cWFXbV1JBtWpCjMyi9Uuqpx2RWJlc=",
+          "cp27"
+        ],
+        "Mosek-9.3.22-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "aNSXTkBy+lScahIEIKSezDilxJKDgJ9YVTICXsLKG0Y=",
+          "cp310"
+        ],
+        "Mosek-9.3.22-cp310-cp310-manylinux2014_aarch64.whl": [
+          "Ptawi+2dCAMX4ift11pseLShBEiUbDD/TEYE9/9r4to=",
+          "cp310"
+        ],
+        "Mosek-9.3.22-cp310-cp310-manylinux2014_x86_64.whl": [
+          "bYtwTN4jRHRKzaYorHLk794EjebaCVK63gvEjyTrrNM=",
+          "cp310"
+        ],
+        "Mosek-9.3.22-cp310-cp310-win_amd64.whl": [
+          "yYiGfxKDzSwSNb3g5jOYNNXl9RbkTz11omKoI1fvzYE=",
+          "cp310"
+        ],
+        "Mosek-9.3.22-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "JsOcoM43XZ9MCxJqKtcgl/3xLhG3nxn9jHVDM4OJrL8=",
+          "cp36"
+        ],
+        "Mosek-9.3.22-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "P4QiWzoQL4/rC+FSR+EE8vXuzEJy0Fdf1jzabaojv9w=",
+          "cp36"
+        ],
+        "Mosek-9.3.22-cp36-cp36m-win32.whl": [
+          "tCsDM2lDFdAthZZt+AvzZOTM4n/hEpZC3hS06XINCQM=",
+          "cp36"
+        ],
+        "Mosek-9.3.22-cp36-cp36m-win_amd64.whl": [
+          "zPidDtWfjqju8u/Dwwx/2F6bEL2ci3ZOMrJybl44afw=",
+          "cp36"
+        ],
+        "Mosek-9.3.22-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "GgqBNvjXCiO/o5wiLse/X2e3xVlvCC323sZELV/XH+Y=",
+          "cp37"
+        ],
+        "Mosek-9.3.22-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "x9ZVJsjg+Ng3o7RX0kjvVrxirz5/6Sd29vYolVwia9o=",
+          "cp37"
+        ],
+        "Mosek-9.3.22-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "HCc0mrnCSaL3xgrEg437kIDb7ZVw800PMsYv1bNrg7A=",
+          "cp37"
+        ],
+        "Mosek-9.3.22-cp37-cp37m-win32.whl": [
+          "hsJDUDJrpz1XeF9xrb0n7tv5DKUvzamjtmJShZSbGSE=",
+          "cp37"
+        ],
+        "Mosek-9.3.22-cp37-cp37m-win_amd64.whl": [
+          "ZHoN7RfyNFYuU8cAb4staJYA+DBPgyfR/6+ipZ4rCYQ=",
+          "cp37"
+        ],
+        "Mosek-9.3.22-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "dy99o0AZBUdAAkSLR/NkQbWrCodWMtLUQpKnSeSJaOk=",
+          "cp38"
+        ],
+        "Mosek-9.3.22-cp38-cp38-manylinux2014_aarch64.whl": [
+          "HaYKG6GaycNaALzGG9Tl67J9aJhjdhL7R+KJZYrxr5E=",
+          "cp38"
+        ],
+        "Mosek-9.3.22-cp38-cp38-manylinux2014_x86_64.whl": [
+          "1L54pf0c8dZeLzH+cbt+PHe/4nvWR2l4d3y5KlM6htQ=",
+          "cp38"
+        ],
+        "Mosek-9.3.22-cp38-cp38-win_amd64.whl": [
+          "I77EDFbcOILGtKjMNlN56dMZ5boTZYPriSGzghvbpys=",
+          "cp38"
+        ],
+        "Mosek-9.3.22-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "cRH149udPgQv0LmTnRiLxJ+YraoVKkb1Kt6oq/0Ei38=",
+          "cp39"
+        ],
+        "Mosek-9.3.22-cp39-cp39-manylinux2014_aarch64.whl": [
+          "YhyQjMA1WfcysdLvD3KsNqYPMqmFz+y6zGiUgC/gKCk=",
+          "cp39"
+        ],
+        "Mosek-9.3.22-cp39-cp39-manylinux2014_x86_64.whl": [
+          "N+2BeBcSszT/CIN3eSPf+YPayAIF9cf+B2kNSOPB6Hs=",
+          "cp39"
+        ],
+        "Mosek-9.3.22-cp39-cp39-win_amd64.whl": [
+          "99LnVy5h6NrdaBiULFCqlppAY8Z+QgEmdVjdH0vHNA4=",
           "cp39"
         ]
       }
@@ -157480,6 +157646,14 @@
       "sdist": [
         "boeR7XpH0FmZRUGWJ0iwmMV2+CjI6FOUZa8g222le9o=",
         "zope2.sessioncookie-0.8.tar.gz"
+      ]
+    }
+  },
+  "zs-face-detection": {
+    "1.0": {
+      "sdist": [
+        "3N+FUC1/OTGgupF7GWc9ocxwKpSuqeRh8cwW3vMnyCc=",
+        "zs_face_detection-1.0.tar.gz"
       ]
     }
   }
