@@ -1,0 +1,43 @@
+
+name: "pypi index crawler"
+
+on:
+  push:
+    branches: [ "ci*" ]
+  schedule:
+    - cron:  "13 4,16 * * *"
+  workflow_dispatch:
+
+jobs:
+
+  update-sdist-deps:
+    name: Update pypi url+sha256 index
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+
+    - name: Install/Setup - NIX
+      uses: cachix/install-nix-action@v13
+      with:
+        nix_path: nixpkgs=channel:nixos-unstable
+        install_url: https://nixos-nix-install-tests.cachix.org/serve/i41jvy44n7vlgwlvyvii49zzjrl6x9z1/install
+        install_options: '--tarball-url-prefix https://nixos-nix-install-tests.cachix.org/serve'
+        # GC 30GB when free space < 3GB
+        extra_nix_config: |
+          experimental-features = nix-command flakes
+          min-free = 3000000000
+          max-free = 30000000000
+
+    # we crawl 4 times per day and split the data in 2 chunks, so we update all data twice a day
+    - name: update
+      run: |
+        set -x
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        nix run -L .#job-urls
+        git push
+
+      shell: bash
