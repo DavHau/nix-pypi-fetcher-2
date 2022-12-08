@@ -1,0 +1,79 @@
+{
+  "nodes": {
+    "flake-utils": {
+      "locked": {
+        "lastModified": 1601282935,
+        "narHash": "sha256-WQAFV6sGGQxrRs3a+/Yj9xUYvhTpukQJIcMbIi7LCJ4=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "588973065fce51f4763287f0fda87a174d78bf48",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "mach-nix": {
+      "inputs": {
+        "flake-utils": "flake-utils",
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "pypi-deps-db": "pypi-deps-db"
+      },
+      "locked": {
+        "lastModified": 1619614179,
+        "narHash": "sha256-cf7RsJwnqiVi6hnDZCTHwGxEfvdI7NcV1vxvxrMCfPM=",
+        "owner": "DavHau",
+        "repo": "mach-nix",
+        "rev": "a7ddac2ce8942421fdb26207b5f69f9fa85de69f",
+        "type": "github"
+      },
+      "original": {
+        "id": "mach-nix",
+        "type": "indirect"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1620074890,
+        "narHash": "sha256-4Z8Zwpg0gPvqKbSsck1g9ql4E5NClGZdjyxbYoaXA4s=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "7cb76200088f45cd24a9aa67fd2f9657943d78a4",
+        "type": "github"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "ref": "nixos-unstable",
+        "type": "indirect"
+      }
+    },
+    "pypi-deps-db": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1615363940,
+        "narHash": "sha256-GJ3ONLWAr5ejqR5bKVfKpI/n+ClaxjyYewMP+QJyq5M=",
+        "owner": "DavHau",
+        "repo": "pypi-deps-db",
+        "rev": "ab522f2d3255789f1ef97fa7c83d4342be156e67",
+        "type": "github"
+      },
+      "original": {
+        "owner": "DavHau",
+        "repo": "pypi-deps-db",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "mach-nix": "mach-nix",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
