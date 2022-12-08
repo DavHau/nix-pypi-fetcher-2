@@ -20,11 +20,9 @@ jobs:
         fetch-depth: 1
 
     - name: Install/Setup - NIX
-      uses: cachix/install-nix-action@v13
+      uses: cachix/install-nix-action@v18
       with:
         nix_path: nixpkgs=channel:nixos-unstable
-        install_url: https://nixos-nix-install-tests.cachix.org/serve/i41jvy44n7vlgwlvyvii49zzjrl6x9z1/install
-        install_options: '--tarball-url-prefix https://nixos-nix-install-tests.cachix.org/serve'
         # GC 30GB when free space < 3GB
         extra_nix_config: |
           experimental-features = nix-command flakes
