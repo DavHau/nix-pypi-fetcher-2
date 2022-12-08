@@ -4944,6 +4944,12 @@
         "async_upnp_client-0.32.2.tar.gz"
       ]
     },
+    "0.32.3": {
+      "sdist": [
+        "46wL1eKvDC4jLJGL/S8JOLON7oXOpt2fNW0GGmf9BrI=",
+        "async_upnp_client-0.32.3.tar.gz"
+      ]
+    },
     "0.9.0": {
       "sdist": [
         "FMdU08UZN+mQOEKF3CSS/ps76uX9hk6Lo3UYj67+F98=",
@@ -6925,6 +6931,30 @@
           "py3"
         ]
       }
+    },
+    "1.181.1": {
+      "sdist": [
+        "TbfOIs79N1F3W/9wTD2fuZPqMsg4wpzn1jqMmU3A+pY=",
+        "aws-cdk.assertions-1.181.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.181.1-py3-none-any.whl": [
+          "EUofbU0WxpcjsvlKTaefHCSfEeKBAot4CmepOWmFn0I=",
+          "py3"
+        ]
+      }
+    },
+    "1.182.0": {
+      "sdist": [
+        "cT0064R0liWqJnYcNkHEUQ86g7zRaU9ULGkQYXusJVM=",
+        "aws-cdk.assertions-1.182.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.182.0-py3-none-any.whl": [
+          "hNYzXZFbAXEHDPK7YyeIdq0g0Y9FErGbXVCwtFJqNBs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks-legacy": {
@@ -8028,6 +8058,30 @@
       "wheels": {
         "aws_cdk.aws_eks_legacy-1.181.0-py3-none-any.whl": [
           "gIlOC1R0jq2Dobv8YamKDommIXddQ5zhkoQEmuo8Y8c=",
+          "py3"
+        ]
+      }
+    },
+    "1.181.1": {
+      "sdist": [
+        "b6ZSmR6Bj5dB8Zpn9tA5j0jIHIwtK6MefAW90XKGnp0=",
+        "aws-cdk.aws-eks-legacy-1.181.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.181.1-py3-none-any.whl": [
+          "zdsj4fgtF8TS+9TnkmvsGPK32NfOFqzm8LNq5+CyOTg=",
+          "py3"
+        ]
+      }
+    },
+    "1.182.0": {
+      "sdist": [
+        "oD6B8mV7YOjPLLwFbHeModwN2u9RTHNR6XwQ6A6Luh4=",
+        "aws-cdk.aws-eks-legacy-1.182.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.182.0-py3-none-any.whl": [
+          "u5iTz1UCcu/rPwnAtZNEW5UO3W/DJnFwBN1AIKOZz1g=",
           "py3"
         ]
       }
@@ -9509,6 +9563,30 @@
           "py3"
         ]
       }
+    },
+    "1.181.1": {
+      "sdist": [
+        "iniIHQtDDOumGsfw64E9hRDs6d/3G36caZ0s47iRoo0=",
+        "aws-cdk.aws-emrserverless-1.181.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.181.1-py3-none-any.whl": [
+          "qvVwivHBAiXAx8zlKbW/JVjNtp5T0LITpT31ll4tIUU=",
+          "py3"
+        ]
+      }
+    },
+    "1.182.0": {
+      "sdist": [
+        "30MDUokwWUhdhPTdmV5z6UGQB22ZBT0LTMN+hzEQtYQ=",
+        "aws-cdk.aws-emrserverless-1.182.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.182.0-py3-none-any.whl": [
+          "OXXKqshiQX6yAEn/lsWhF4mpD0jHsaTPrkaIaQZkgts=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-event-handler": {
@@ -10574,6 +10652,114 @@
         ]
       }
     },
+    "1.174.0": {
+      "sdist": [
+        "79HQJg4PLK1EJcKwbRUtgHYxY0UXW/6/j+GO+3tLZNU=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.174.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.174.0-py3-none-any.whl": [
+          "NADmc3ByE7ti24t4VMDxcyQCwwBUgOmiIjicoouor28=",
+          "py3"
+        ]
+      }
+    },
+    "1.175.0": {
+      "sdist": [
+        "8aAAhzLs9KvD5GMmaiZmAfeofzXhXXFAVOLy4t3ZNQI=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.175.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.175.0-py3-none-any.whl": [
+          "b2e8Qpexl0yQAkVuEEbCg1oXc4JXb/dQ6vyeGYwrRiE=",
+          "py3"
+        ]
+      }
+    },
+    "1.176.0": {
+      "sdist": [
+        "YT07io0fvSXZNx3slZkH5xJvSLa+/bk9fY/UfIyQN00=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.176.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.176.0-py3-none-any.whl": [
+          "8PoO5uVzcn6lXefK6CxtkBha1NPlL8EHFjnPYHgn9TY=",
+          "py3"
+        ]
+      }
+    },
+    "1.177.0": {
+      "sdist": [
+        "ewStb0o/Y4bZjp+6hFTbeMfdrZ4tKDA0ftXXoMjNHzY=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.177.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.177.0-py3-none-any.whl": [
+          "M6cjuF+X5q5T1NvhBN6YPdr8YN5bu2LPj7B0Fenksdg=",
+          "py3"
+        ]
+      }
+    },
+    "1.178.0": {
+      "sdist": [
+        "QO324C37xvqu1vcGfTxnFhe12+5FIaAGRxzLO6o7FCU=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.178.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.178.0-py3-none-any.whl": [
+          "+Q3shE8MttOFIl24ChYuj6zhmKsgLqOX4cijnWSSTL8=",
+          "py3"
+        ]
+      }
+    },
+    "1.179.0": {
+      "sdist": [
+        "Kx/gNi69xXllJWrq6T15np86oSVHNtXgFMewms4cwuA=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.179.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.179.0-py3-none-any.whl": [
+          "GKvF5uoTUmY4N3sAmrCemu2H2gz6gdYmwgw3BHgGXUk=",
+          "py3"
+        ]
+      }
+    },
+    "1.180.0": {
+      "sdist": [
+        "hjFL1EHTorkvKRrUQ3QQglubF/Is2pCMV3RBgphGYzM=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.180.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.180.0-py3-none-any.whl": [
+          "o31Y+PnLrXvzgbO7UoPxJX1PaDvrhtjq4279RuYBLao=",
+          "py3"
+        ]
+      }
+    },
+    "1.181.0": {
+      "sdist": [
+        "LnGwU/w4yFtIvG2hRDaPkhv4Dusdpep62oaWA0Kr6Qk=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.181.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.181.0-py3-none-any.whl": [
+          "sLH6G2iKPcRFkui3BxP+VJ9iI1PnYqaQYnZ2v/ht4qk=",
+          "py3"
+        ]
+      }
+    },
+    "1.181.1": {
+      "sdist": [
+        "V8aV9MqIQ5hr7GUatENt7dmP3LNu007seSB0gSCDr2c=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-1.181.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-1.181.1-py3-none-any.whl": [
+          "tn/VV2zBrPUs6iYOJHtFin9cMoo5ugt5dil3YF3Mdvs=",
+          "py3"
+        ]
+      }
+    },
     "1.46.0": {
       "sdist": [
         "CIf/qUkDk6A4fLhPP3dTxly9KhriIkIJnEuVTFz0o2Q=",
@@ -11566,6 +11752,30 @@
       "wheels": {
         "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-2.27.0-py3-none-any.whl": [
           "+/nAjw+C4xNXoDcTYOWRVtOJaWZ4zpVqnjPAJjk7NFM=",
+          "py3"
+        ]
+      }
+    },
+    "2.28.0": {
+      "sdist": [
+        "vfj8u0fLs02hCZusNwYnwohGbdynTlKWt3o8QyqMxQU=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-2.28.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-2.28.0-py3-none-any.whl": [
+          "vHBSXXVjZcQEbGAo4w7WHRpL8NNiO+vdtEzp2B7ZLa4=",
+          "py3"
+        ]
+      }
+    },
+    "2.29.0": {
+      "sdist": [
+        "gknSH97PV9HCD8kCbZ005W7YDwgH5Hih4KBIgNvFaww=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-2.29.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-2.29.0-py3-none-any.whl": [
+          "jWGSF1qiyLRK0fizk6kZY7E37kU2vKqI3e90U9J6iz0=",
           "py3"
         ]
       }
@@ -14679,6 +14889,12 @@
         "mg1ihpeNnqw3KnICIGDaITO6DqC3RQ7XHEcTuehYRZk=",
         "bintropy-1.3.2.tar.gz"
       ]
+    },
+    "1.3.3": {
+      "sdist": [
+        "0+hMSO8qaVZTLQhFlaz1FZXdgKZWdaRlBuglBA4xX78=",
+        "bintropy-1.3.3.tar.gz"
+      ]
     }
   },
   "bio-mimo": {
@@ -16864,6 +17080,18 @@
       "wheels": {
         "brain_pred_toolbox-2.3.1-py3-none-any.whl": [
           "bvGqlPEORxXTTLu/qgDQN5A1R4JRZaNhzjzPcb9kBpg=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.2": {
+      "sdist": [
+        "GpiIY1U1/xci88R4ISDi3/RjUYQa09CwBlzKs47tF08=",
+        "brain-pred-toolbox-2.3.2.tar.gz"
+      ],
+      "wheels": {
+        "brain_pred_toolbox-2.3.2-py3-none-any.whl": [
+          "wfBDM73Q6tJ7n6qyLHtnq08TARtm8DE3jzBTtGojmPA=",
           "py3"
         ]
       }
@@ -20003,6 +20231,30 @@
           "py3"
         ]
       }
+    },
+    "1.6.0": {
+      "sdist": [
+        "VFEH/4fTXY7mNUxY+DZdc9OXp8J5OuYsrMXc+8VeDhY=",
+        "ccinput-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "ccinput-1.6.0-py3-none-any.whl": [
+          "k9E0cBShcnNBUpY2cA90Iv3BD4fkIqXG2nYY5VpysSs=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.1": {
+      "sdist": [
+        "odaqvdRbnK/WDvymjKawBjBmL6mHLDayS+Y2QEGKhu0=",
+        "ccinput-1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "ccinput-1.6.1-py3-none-any.whl": [
+          "ThKI3IEj2pMJ3xAm9ZbXBvhjPNeDC8bwceF46ApEshY=",
+          "py3"
+        ]
+      }
     }
   },
   "ccxxv": {
@@ -20384,6 +20636,18 @@
       "wheels": {
         "census_error_analyzer-0.0.4-py2.py3-none-any.whl": [
           "HjyGzqWCzYKE051BIcvcwq9IFaVU3KRX0ehC10+fbcg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "XQZPXjO1FpedFGcn7sg/83lWlcw3l2/RLPz5aCaoQAg=",
+        "census-error-analyzer-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "census_error_analyzer-0.0.5-py2.py3-none-any.whl": [
+          "hAJJHd4j7+3piVsO6ypPxtg2xHXUlYdJfgiXaRqBtrM=",
           "py2.py3"
         ]
       }
@@ -24171,6 +24435,14 @@
       }
     }
   },
+  "cmpitool": {
+    "0.1.0": {
+      "sdist": [
+        "sFvZrgdoqi5YinWGCGMMaErwFgmE1Cnv5yUelvS7wWY=",
+        "cmpitool-0.1.0.tar.gz"
+      ]
+    }
+  },
   "cmsplugin-googlemap": {
     "0.1": {
       "sdist": [
@@ -26462,6 +26734,12 @@
       "sdist": [
         "tQEdK/LkcAEMTwMpn4zGSi8jI87Kf0QD9Xp+RlI8nPc=",
         "CUP_Network-0.0.11.tar.gz"
+      ]
+    },
+    "0.0.13": {
+      "sdist": [
+        "TK22OfxqH8Bwg8dCJeCvu7RxrswpTZ/yiC7dXwGNsGE=",
+        "CUP_Network-0.0.13.tar.gz"
       ]
     },
     "0.0.2": {
@@ -29924,6 +30202,90 @@
         ]
       }
     },
+    "3.6.13": {
+      "sdist": [
+        "kTyTr3LrolXcGpKqhpf9KB8BaJWfTCnqKIxeciKpuzA=",
+        "cyberdrop-dl-3.6.13.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.13-py3-none-any.whl": [
+          "t2NBmO71kvYvBrSkoTBuh7JkbAAWR7rz5k9JL3Ljup0=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.14": {
+      "sdist": [
+        "t+rZQG9+0a7T2qYAuO3AuyUVfcKWYSRTXukV0XhzrnU=",
+        "cyberdrop-dl-3.6.14.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.14-py3-none-any.whl": [
+          "nptVD6dd9joYGOXhOz4ZveBX2yu2tU5KXfLMsOzcWzc=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.15": {
+      "sdist": [
+        "rZA6TxgedQHdyj+FzLJXri2+WXBWLIIApm4iPpY2qtQ=",
+        "cyberdrop-dl-3.6.15.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.15-py3-none-any.whl": [
+          "wT6nKSgD13Wppczmfjs8umdjaN5+M16L+Aqsz5qV6Sc=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.16": {
+      "sdist": [
+        "jr7vHNsKE+hIiehnB5F68BY2FGLYjrHufNubySBATm0=",
+        "cyberdrop-dl-3.6.16.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.16-py3-none-any.whl": [
+          "4bbxJ4cW9ZsogoAzMKzhAAXT7RGN5tPq97MOPHGKz+w=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.17": {
+      "sdist": [
+        "rdMbgk6Z6TpSH0SBQCDhuzo+xjN8TGTxq16MlAEblrE=",
+        "cyberdrop-dl-3.6.17.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.17-py3-none-any.whl": [
+          "16IMIh8Y+0P9roHkYDbxVI6iF3ZmmvSH0fwvTg/c8Oo=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.18": {
+      "sdist": [
+        "Qf3UTzCya2j6NtNiPqKShA6DIRnAjdpaVKDs65iWnhw=",
+        "cyberdrop-dl-3.6.18.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.18-py3-none-any.whl": [
+          "ZzP0DTmLpOKmiahKkkhHzCw3kJqpyCodPL/H7Mqjdq8=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.19": {
+      "sdist": [
+        "cvNWK9/iyItOmFbHDhoSlYn3gFV/APQ5qMgSdL7T1cE=",
+        "cyberdrop-dl-3.6.19.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.19-py3-none-any.whl": [
+          "fQjq6u1Btgjfp5B53BfLo9IYOgmv9aEZm0C0MaDHRPA=",
+          "py3"
+        ]
+      }
+    },
     "3.6.2": {
       "sdist": [
         "domAsfq8dpAqYRESjUQJjUbheObuJ1Ddr9Nb2D9NlXY=",
@@ -29932,6 +30294,18 @@
       "wheels": {
         "cyberdrop_dl-3.6.2-py3-none-any.whl": [
           "boa7lwsx5xVU6BkkeAJG81nllMAgkVNYWzxIyXLxqfs=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.21": {
+      "sdist": [
+        "xtUjSHcecOkH3HXBopRkPx5zoci3ZPFIRvpXC3soDG0=",
+        "cyberdrop-dl-3.6.21.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.21-py3-none-any.whl": [
+          "PrMImjvU6p5fqNmy9vuxeiPmD1EALdIDOEzgST5+hlw=",
           "py3"
         ]
       }
@@ -30887,6 +31261,38 @@
         "uqO7BUkVSabZhy9fFYLb8n0OX1HVmyn7cvgzl4oyzkA=",
         "datamol-0.8.4.tar.gz"
       ]
+    },
+    "0.8.5": {
+      "sdist": [
+        "mIdYsX/d6nVHM4QRc5SQBBQJG6SA5UHqTTpKc8vDs8s=",
+        "datamol-0.8.5.tar.gz"
+      ]
+    },
+    "0.8.6": {
+      "sdist": [
+        "kLz08LC+EnKvzyYG+tq+WvG97lxx6uy9zjHuOrzUlUg=",
+        "datamol-0.8.6.tar.gz"
+      ]
+    },
+    "0.8.7": {
+      "sdist": [
+        "QzBJHC/X8YPxObOYbM5ZGeXlOrn+1islH6LctIuy3AE=",
+        "datamol-0.8.7.tar.gz"
+      ]
+    }
+  },
+  "datashelf": {
+    "0.1.0": {
+      "sdist": [
+        "zjGxJhis6SC47Gt3TA9yE/Hyr1d1DjL7ResvyJazgRg=",
+        "datashelf-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "datashelf-0.1.0-py3-none-any.whl": [
+          "G7wvQEjMtdnSk+dAl/em8GqZIEis3nCaCrzK1zZhsEI=",
+          "py3"
+        ]
+      }
     }
   },
   "dateobjects": {
@@ -34305,6 +34711,30 @@
           "py3"
         ]
       }
+    },
+    "1.2.3": {
+      "sdist": [
+        "2g3i7xJMmlyCNGYfY4clRgLUUKYENhl1jZzDngEGbM4=",
+        "dicebear-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "dicebear-1.2.3-py3-none-any.whl": [
+          "P+E1ojggBOXDR5N4Bfsuwscs07uwnXVFkl+Dk+xQ9+w=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.4": {
+      "sdist": [
+        "tcqRO5tIL5Fnj3g82MAaBX3ZCv4asG1antHOEcQfdt4=",
+        "dicebear-1.2.4.tar.gz"
+      ],
+      "wheels": {
+        "dicebear-1.2.4-py3-none-any.whl": [
+          "PdMvzy9RrSxgZa1QyYS4fbOyQY9LDoxukkA9nGjw60g=",
+          "py3"
+        ]
+      }
     }
   },
   "dictcc": {
@@ -35958,6 +36388,30 @@
       "wheels": {
         "django_colorfield-0.7.2-py3-none-any.whl": [
           "Kd/6CbLOifGVBKU6Eg5b/b/j5EYh8zs/lLDmpXKuk8E=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.3": {
+      "sdist": [
+        "gRwq0AyiISmRXzY843GPKGz3NXQmxcGb/KTlimic49Q=",
+        "django-colorfield-0.7.3.tar.gz"
+      ],
+      "wheels": {
+        "django_colorfield-0.7.3-py3-none-any.whl": [
+          "w/Phy//98pQ475pkJmCFlqh5eIfDjHgex+3qviabmcY=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "5QQjr2OYWNAcOZgO7Zlw965HVhC/Bwm4H2sho9ycP5I=",
+        "django-colorfield-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "django_colorfield-0.8.0-py3-none-any.whl": [
+          "t6JeLEMPToByarFxgF0NdtH4LMf/N5nWDCaC9Q0soDw=",
           "py3"
         ]
       }
@@ -38929,6 +39383,18 @@
           "py3"
         ]
       }
+    },
+    "0.2": {
+      "sdist": [
+        "KA4ErA8REISOJOpGuVcftsYuoJlQGDZBIcUub7BafdY=",
+        "django-password-expire-0.2.tar.gz"
+      ],
+      "wheels": {
+        "django_password_expire-0.2-py3-none-any.whl": [
+          "bZPmVqIrYSFhMW4dsRxYdAhX87YeMX/r5x6qBqNr6X8=",
+          "py3"
+        ]
+      }
     }
   },
   "django-passwordless-login": {
@@ -41748,6 +42214,18 @@
       "wheels": {
         "e3nn_jax-0.12.0-py3-none-any.whl": [
           "GeW4OcmtbQMmNdtW7B4KVtfzs+vHAGX1LcQJ45ECJPA=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0": {
+      "sdist": [
+        "Eu2lgSqj9CN0SV9ToM1oyEIzQxYPgu/bKCjm+LR0HOQ=",
+        "e3nn_jax-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "e3nn_jax-0.13.0-py3-none-any.whl": [
+          "oYNIaWB4ws97KjemgBIwiXTYSe6MG/7KZaSpTkFKEZk=",
           "py3"
         ]
       }
@@ -46157,6 +46635,20 @@
         "5oQ1nvQIIP5Abw68W/inj4lxe9t/7WiK9oCC2ZHW2/M=",
         "filemagic-1.6.tar.gz"
       ]
+    }
+  },
+  "filever": {
+    "1.0.0": {
+      "sdist": [
+        "hIhAoNrkHGyaF3eiIrZgSIMNjNsA0V8DYhMqEnVHMU8=",
+        "filever-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "filever-1.0.0-py3-none-any.whl": [
+          "afjG1RyxqrwBchpzG4C2Lw6+Ml5BRTexBr9hXAMlEvs=",
+          "py3"
+        ]
+      }
     }
   },
   "find-word": {
@@ -54198,6 +54690,66 @@
         ]
       }
     },
+    "0.18.0": {
+      "sdist": [
+        "ZI9Lh/z74iwBnLonMhJCHqrq53OCEz2HEn5s710CrWo=",
+        "geemap-0.18.0.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.18.0-py2.py3-none-any.whl": [
+          "AcD8L1Txw68FBfg/IrX/6+n5M3mKQMrqWq4J6VzegIA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.18.1": {
+      "sdist": [
+        "8RmQGqCOsC/iHS8B+z0z/HMQDfozzh3DlBpXA6gfSUs=",
+        "geemap-0.18.1.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.18.1-py2.py3-none-any.whl": [
+          "7kfbqSaGl+8bgWMDJTYJLeagTZmmZLaHSyg2tCL8TsM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.18.2": {
+      "sdist": [
+        "W4LXPrALdssgxFUR7Jm4NaqCuNoKdCs7ppxCA58GaJc=",
+        "geemap-0.18.2.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.18.2-py2.py3-none-any.whl": [
+          "1DYchRBwlTO/k8OK5Qlp0vBPGA8Z6N6SKnHUnAz9ZyQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.18.3": {
+      "sdist": [
+        "NNXvdsamDQINOLrScTbpJGuwb2iXv/vRPDHEJNMzpU0=",
+        "geemap-0.18.3.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.18.3-py2.py3-none-any.whl": [
+          "d3iq1tUztUObx/YHwE3/SBC46+gbycyIVCYBtzaM8Rk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.19.0": {
+      "sdist": [
+        "qhPqKZrfvnhHStAoQI/OgHVl5P+amSuY+Kj6beocWVU=",
+        "geemap-0.19.0.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.19.0-py2.py3-none-any.whl": [
+          "rVeaMV7RBZJLB/z1XfvK5ey8tZO1MfBv7gzT5X5BoBU=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "8Xj0YhN6K454faFGpTL6+J0/bOFuF9FNR9QvKwhyyr8=",
@@ -59810,6 +60362,48 @@
         "hidebound-0.29.0.tar.gz"
       ]
     },
+    "0.30.0": {
+      "sdist": [
+        "n6sQuxtsrAL5eRsAAC04rE+gxDY3a+bjLZU+P7890/I=",
+        "hidebound-0.30.0.tar.gz"
+      ]
+    },
+    "0.31.1": {
+      "sdist": [
+        "vLkc9vbPyetFVTZNklYr9apQsm4F0L6tF6s/sX1r8pE=",
+        "hidebound-0.31.1.tar.gz"
+      ],
+      "wheels": {
+        "hidebound-0.31.1-py3-none-any.whl": [
+          "9AZ+zIRnMaYVYt028v/SbS0GahOPWyzogTyVUXP7VlQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.31.4": {
+      "sdist": [
+        "4B9VbzIVLiOwpdRdNXeVz0hpmLZgcoyTHcAbMNIRcls=",
+        "hidebound-0.31.4.tar.gz"
+      ],
+      "wheels": {
+        "hidebound-0.31.4-py3-none-any.whl": [
+          "NXbkjBIJj/Bm7tweCzKC50Dgf44bmXgUWAwDqell/xg=",
+          "py3"
+        ]
+      }
+    },
+    "0.31.5": {
+      "sdist": [
+        "wxs5zR+QQ1qec7TAVbC0lri9qCM87Ox7g2uhArMaeQ4=",
+        "hidebound-0.31.5.tar.gz"
+      ],
+      "wheels": {
+        "hidebound-0.31.5-py3-none-any.whl": [
+          "iBiHo1QY+qqd7hJ6MdDaj5h/ganvQi9OessmI4bWnKc=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "3FkONtuSGrgPt6VKqTCddU4GQhyT/A3gaj3QDuYdQ38=",
@@ -61434,6 +62028,22 @@
       "wheels": {
         "huaweicloudsdkkafka-3.1.12-py2.py3-none-any.whl": [
           "D6IA2Vi3Pk6PjorYiUmrsm+hF4oqBGEXxiRy4MBIyQg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.13": {
+      "wheels": {
+        "huaweicloudsdkkafka-3.1.13-py2.py3-none-any.whl": [
+          "v83b43I2ABOQyZFwwXa8GMxPM2VHD9XnuiooNTbtmqU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.14": {
+      "wheels": {
+        "huaweicloudsdkkafka-3.1.14-py2.py3-none-any.whl": [
+          "xp/LgpfMt6QrWlKVNaO7XcEv9xFcNHncEYeRiWllkwM=",
           "py2.py3"
         ]
       }
@@ -63511,6 +64121,18 @@
         "A+uTQPRFhT8UM1N8jPqiP30doo60fdjBVZ9N7bkCSKQ=",
         "imageryclient-0.4.0.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "YkcSOCR0D9xhhvMEXkoUUpJMBsMa3y9HVTHVNYB0eRQ=",
+        "imageryclient-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "zEfq5HpKtcsQyhLWpQqclguFgUCeg1eevufSFTLxIWE=",
+        "imageryclient-1.0.1.tar.gz"
+      ]
     }
   },
   "implicit-lambda": {
@@ -65096,6 +65718,18 @@
       "wheels": {
         "iotfunctions-8.6.0-py3-none-any.whl": [
           "vLbYSwkBfZxeofH2afrEi7mShh1gnrQJ0RH7ZS0VkR8=",
+          "py3"
+        ]
+      }
+    },
+    "8.9.0": {
+      "sdist": [
+        "bcmt4fiaxjI4GhAK1x2h7SQQOa+029jM5x7ZAuRVdmM=",
+        "iotfunctions-8.9.0.tar.gz"
+      ],
+      "wheels": {
+        "iotfunctions-8.9.0-py3-none-any.whl": [
+          "NP4bNJh1xtdOz7rn5Jue4NUQHTxs6XP5FBLhba1Poqc=",
           "py3"
         ]
       }
@@ -67267,6 +67901,30 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "WD0syHVzSQA9qremc54YjP7Lc4j86Dp/cbDKxqX+Te8=",
+        "kognic-auth-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "kognic_auth-3.0.1-py2.py3-none-any.whl": [
+          "EhMvsxehZl8qRinoDcZak6pXsA42UHsvoYoXZFdZjCc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "33aI8WpQYUACcdUKym48TllvkupJNcAaCfa24gNEbbw=",
+        "kognic-auth-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "kognic_auth-3.0.2-py2.py3-none-any.whl": [
+          "SrgxuVIt+u+ZYP7BrR1vtRqOZm4gX78JsRD8Jyz6IOY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "kolo": {
@@ -67759,6 +68417,238 @@
         "kolo-2.2.1-py3-none-any.whl": [
           "rb1r0b3A7HtlqUAQ/S5RXYFCgyBr5j8eJzMkPSq08fQ=",
           "py3"
+        ]
+      }
+    },
+    "2.3.0": {
+      "sdist": [
+        "NhmeGWUi5xZ5/KftUDJu9bsbJf6KjE3D2MBaSl2FBSY=",
+        "kolo-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "kolo-2.3.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "xF7ZuX2MANrer0P4gg27aN7NspImacb1/v8Df/YKczM=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-cp310-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "LcB5vZqw1C/Pklv1+f1ygIFXsSckpvrXWLvFbZA3jpQ=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "edXQz9nNeOeGwXITa+bM5JtQu/fTjeBv/uQqcw7P5Rg=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "mSFYirLtYjfv729rHPLiHJyTCtgPIs7CKVvIjVyZGJg=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "alDyw5+tuf8xgzUQXaoyZIJinw/+AE44cYm/OvZMDfU=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ekH4X6rm9cZOJhIaHXENR4KnIKUOz7q4UZ0icRQb70k=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "wvjiuCnw2B1fTFNPU1EaVXM3LEtWIfN1FzlFkmRt8wo=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-none-win32.whl": [
+          "kg1mjFmknLeqETx40GOb4+9YhL4pb++D+tyDkCTGGfs=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp310-none-win_amd64.whl": [
+          "pwbH2+M6Oyt7fO0gJzUv1Jmxw2FA7DFdjElblj8pqaU=",
+          "cp310"
+        ],
+        "kolo-2.3.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "i5LWoIYFuHf32yG48Ihz2VybOsZC46FmwxudqaDqEFI=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-cp311-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "MS0VC3zQExqVuaOZr80X39lKCKfryGcfTtqSXCoCWDs=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "jD8tuolhj7l/WHfnvRCXk0OrYQr9lu0P4KFN6gGoL3E=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "Y4ebCJxQIbR2dIYdBuxGqVtI9Dk1OQG7rRR4/86x8to=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "iQ3S9p0mg5pk5I0a777HyLjOfuZQZMaLOI7h2ral+RY=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zOfw+Pw1MJrGpIxPReB5ThAisRswHfo3GAAy3b7LK/w=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Z20W9jVycBLWIJOtqQQqVYqo6DVPt84/C8UdAvLka60=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-none-win32.whl": [
+          "c7xdTlvPXWkB6WaFLBfiDqPVGvFafpPIORM8uYpWVj8=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp311-none-win_amd64.whl": [
+          "6XyREwT9OglbXezafNASbxpgpSm3H1DF0kZkoN7jCDk=",
+          "cp311"
+        ],
+        "kolo-2.3.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "lCHI5ec0Rhu12EQi1e32SOIo5A0ukY0bD40DadS+0MQ=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "suBiYrTNpNxic/A8FQSLqNUEVIbauBQIoJZAlfzNsvM=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "crnV4TSgX/KkSuRb2cxB+ewMx53XEjge6KUWW9yOCtg=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "r5hnBkJ1N54xOYd5Jv5qUodI35SixxtlsgyXFcwwVkQ=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Hz6ZQ+6F+DWNuTwGNg0LP2MGbNFpe97dpjo76jMxTJg=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Qm8hhkVQsta879uUgYF52pTZlWp3h7sczHrSbsjftuw=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-none-win32.whl": [
+          "pJXWxjSvGfH7FQG4IHR7srCLXAjC3Jpy4XPsQOHu8dQ=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp37-none-win_amd64.whl": [
+          "hz0Pd+EgQNdK1cCqbsJXE05h3/WrQ/SA4Q4QQz2YpXU=",
+          "cp37"
+        ],
+        "kolo-2.3.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "5U3HFCOgc9aoEh7wgy0tTzE0YJ70z9hCvFdjep8JrC4=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-cp38-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "FYCTaoNTrA73w/agvSuzdFpvKE86HU4hXdsOydfUpqA=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ypaaOgKobZFQgWY81aJUD66Lng9KHD3ML7Epces2AtM=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "OGdjxOMo0GzkGrxAxjBCB3TtddrJXmisVFz8FbZqebg=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "IAq2SG9VNV1KcSXmY5gh93FV0kqYI4x8M+x1hFd7I5g=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yLH/2djB/zr0+YYY2ow7vVKcPPRczbdh8kFLyi6RB7U=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Q+1hzv72J/0KRCtKnvebluJj5T6Bdy5Y/GTH8AiKL3o=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-none-win32.whl": [
+          "ftgxsHj3/Is1FK5xMeoA/SlZ/j3ZooshiS10zdGK1bI=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp38-none-win_amd64.whl": [
+          "Bn4q3m1O2ad/cX+A1E2Da5eV5Dwl/U7hEwYYhFcGewI=",
+          "cp38"
+        ],
+        "kolo-2.3.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "D/RHkl9SPK0N/EKC68g2iQjR2pWswZFELobzNul3mbg=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "ivCiADw607gce5hz7on+AaBby0xjsUa5uzUop5Lc8Fs=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Ffigh2GWmvaSTp1i2hTzAOeNtzo+UcelQoZuQLzPh0o=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "ruUkjhr0tgnj7Z4gx0rMeuWJf1gHEb+7KtEAdR96CoA=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "g3muEZHH/u271jhBjKml6FO/hobW1qQwherUUdwzdDM=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9qzm2OrkP/6VfSKyj2HEoU480Ecqd6eRjfkPU1CAw4E=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "cw0l/WJI0iU4J8ZdYA/juLvqhtJfgExyScAr6UK/pNI=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-none-win32.whl": [
+          "d5v6UNVBfpuA/7VvDsSKWOOqI1V9TxO+XmXdHYsLOdM=",
+          "cp39"
+        ],
+        "kolo-2.3.0-cp39-none-win_amd64.whl": [
+          "OYSt3bLoz+r9mJM9SXJYm7+h5UAkPcu4QQL5iCwRSrk=",
+          "cp39"
+        ],
+        "kolo-2.3.0-pp37-pypy37_pp73-macosx_10_7_x86_64.whl": [
+          "Vm43Lt52egFLNKWBkoiY8PjeI6orxXnWVk+DmuPdOE4=",
+          "pp37"
+        ],
+        "kolo-2.3.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ot2AYg9746bYRBKYrf9dcOzD+rJgUB7svATW0DnOTgo=",
+          "pp37"
+        ],
+        "kolo-2.3.0-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "n8TbHqSIRDQbwcaDJIzuZIGiLzyrOAYtO6G+3UpUgJg=",
+          "pp37"
+        ],
+        "kolo-2.3.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "ObX7CSxxgdLTkDRCuH/f+Ceci/WGubD29j1HnfBUvbU=",
+          "pp37"
+        ],
+        "kolo-2.3.0-pp38-pypy38_pp73-macosx_10_7_x86_64.whl": [
+          "GUODR4c6rRappXw2Pv48Sf1HUJqfxlq4njwJWcYvN4Y=",
+          "pp38"
+        ],
+        "kolo-2.3.0-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "BJL4ck3JZoFKmlEgNIsn256jQuLXtLOqT3UnbotROL4=",
+          "pp38"
+        ],
+        "kolo-2.3.0-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "L/xrmIHQHSik3rVVSeYQB28z4Ywm+T28eW/c9TP3d38=",
+          "pp38"
+        ],
+        "kolo-2.3.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "HFdl022OAYwBHBtMBswEZwlN4AfVNOh2p2WFpUKWa8c=",
+          "pp38"
+        ],
+        "kolo-2.3.0-pp39-pypy39_pp73-macosx_10_7_x86_64.whl": [
+          "kavZtyunMBNHgeeu44B1qZlaED/yVSWUY0n0sp5AjOA=",
+          "pp39"
+        ],
+        "kolo-2.3.0-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "sXHhj9/+UhfMCnpaoo5n/dF/YiyKJGdCxbJcraeJrSY=",
+          "pp39"
+        ],
+        "kolo-2.3.0-pp39-pypy39_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "MpCXdIoocVXOaDMjYxfdZz1ZPoduPNEctItWPQOSivM=",
+          "pp39"
+        ],
+        "kolo-2.3.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "CZslcAQSfVxiotkf6jJZVrHcdmA/DitBTFsWxEUu6ss=",
+          "pp39"
         ]
       }
     }
@@ -69185,6 +70075,44 @@
       }
     }
   },
+  "lged": {
+    "1.0.1": {
+      "sdist": [
+        "uui1g5RVS1Hhgrsgk1/Aa8FVXmhCXqCA48iSs2InWsc=",
+        "lged-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lged-1.0.1-py3-none-any.whl": [
+          "LMZtcbahA9gbJ8MJDyxpSAbI2vF7ST3eeIX8oZNgleE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "AmiQ6Vr8nhzTHynnTsYJ2m17shPnga9Qgo7dJZQ6/AE=",
+        "lged-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "lged-1.0.2-py3-none-any.whl": [
+          "SYaL2jtkfR+x/wLyrVRuYhUoFOY8Xo7E7aI2WoOXjVE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "KZH1jYuQbVkI2dmKygOqKinxqOE+Sgc0QgmVrKiRJE0=",
+        "lged-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "lged-1.0.3-py3-none-any.whl": [
+          "MMQqbc6mgrQX0yaDE/nM6GrQdKX5J9+1w9gL5P/Quz0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lghorizon": {
     "0.1": {
       "sdist": [
@@ -69386,6 +70314,18 @@
       "wheels": {
         "lghorizon-0.5.5-py3-none-any.whl": [
           "0lTZTH+1HdJjpjq8BFLSkf/iFPIwQUe2eNV+nl3T5VM=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.6": {
+      "sdist": [
+        "MIkKxzz4pPP1Mf3zqOOJEXDDntUXrH+Vqf1lHIm4lRc=",
+        "lghorizon-0.5.6.tar.gz"
+      ],
+      "wheels": {
+        "lghorizon-0.5.6-py3-none-any.whl": [
+          "9uuFLhnC2ngiqt15lrrpgyctfxHmjrJARRisQVk8/5I=",
           "py3"
         ]
       }
@@ -70994,6 +71934,66 @@
         ]
       }
     },
+    "0.2.0": {
+      "sdist": [
+        "PnrbgaHuKuMflUZUUHpwClOnYZdWrTjsrcgvPZdKUmY=",
+        "mahjong-utils-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.0-py3-none-macosx_10_15_x86_64.whl": [
+          "Rn2TqN+IVO56ZaL+wOVzWpLEzltNsCnFL13R2IDwEE0=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "MySiADhBjeULLCEW5pETL65itMzkpbqH89P/tUad2rw=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.0-py3-none-win_amd64.whl": [
+          "nHuN0X5pyBu1xcQL50fH1EIroBHW8roDHmTVJdP6bjA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0.post1": {
+      "sdist": [
+        "E6b9Vj2h99Eo7s/zx8Xro2LxJOjzJqYVXP31OB5x5YI=",
+        "mahjong-utils-0.2.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.0.post1-py3-none-macosx_10_15_x86_64.whl": [
+          "xd7byy3jAZhU0cbY2c9g/ZCaMb1RbXhVvstYYCCHenI=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.0.post1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "2eACM4QXxr8vC/Ocek7ZqBsl+2GU2271XPlvv0xraZo=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.0.post1-py3-none-win_amd64.whl": [
+          "cMLxoPU9SNaY1e/FdljENWzkxWXp2lVDydL36LLoNms=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0.post2": {
+      "sdist": [
+        "caRUBRpTROTQsadCTdw/YrsS2hkawWG92pgnXQTSmE4=",
+        "mahjong-utils-0.2.0.post2.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.0.post2-py3-none-macosx_10_15_x86_64.whl": [
+          "nWIeMhPvX+rGmacYN39+yaIY4KX9rgg2VUBq1K8sqmE=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.0.post2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "vLQ5ziozv5sgrsxPUWOJ4f8bYT0IqkjPEx+rlaKMpaQ=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.0.post2-py3-none-win_amd64.whl": [
+          "NSYaVsRtPME05EyfTpgTDNmdPfoe91/nLRlOFPN2a9s=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0a1": {
       "sdist": [
         "K7+r93xr9PnSbI8cM285TyP7djxd/fkY2Ou3Q/KrxoU=",
@@ -71030,6 +72030,86 @@
         ],
         "mahjong_utils-0.2.0a2-py3-none-win_amd64.whl": [
           "3DL8S/JaWefqOD2gB+dX1e2oecQiS5W57dpjNrKlB1g=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "3Q7+m4dBO1RFBaLbxX5ANdk/7Fav+qQsPlD5hGr9e3Y=",
+        "mahjong-utils-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.1-py3-none-macosx_10_15_x86_64.whl": [
+          "OEHA2+K7w8xA0BRAo1/0oHWTkUPXgK+CjGMX8IXmVas=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "jll9yWuQHHfz5lpQGBdZcXvFa5pw7s2L7enaHJ3+XhE=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.1-py3-none-win_amd64.whl": [
+          "q8DJ3NxPYoywUI+Tb/qLIWM8DiIiMAzC/y/M8uOkzfk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1.post1": {
+      "sdist": [
+        "2XrKGFSf6dWz/J4jjrKCGb/ZLyIrBXt/lDZa4K0GqNY=",
+        "mahjong-utils-0.2.1.post1.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.1.post1-py3-none-macosx_10_15_x86_64.whl": [
+          "nHxMYt6ozsA/8OR/Gl4EypsCfSEKA6y0DfTNwXN3C28=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.1.post1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "Cnil6VJbt5foLXAUyIcLHTErde4XLGCYJReb79mYjYY=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.1.post1-py3-none-win_amd64.whl": [
+          "BpF7hvjc+wGqJ4lQG8k3AQF9mz4lMjSvkUG/g7gGeSY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "t52wEJTWjpdjbouVA+7Kgq0nGZQwLRU/1GHfpnQMDBQ=",
+        "mahjong-utils-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.2-py3-none-macosx_10_15_x86_64.whl": [
+          "CE/g+7cUKZKK2dQ5bEJCe0VW4GgXQnxUs6kfTh1Ls2Q=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "L+pILnL30sBByUQpyWeVTVv6X9oIOo92swaKjziBLWw=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.2-py3-none-win_amd64.whl": [
+          "wJXIxcW0+ixfGQDRjvdnVqa8UnSAHWkZPHQguWvy8ek=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2.post1": {
+      "sdist": [
+        "+hNsLb496qFzxriUEGtw65JNVPSZhCVSuhKhFrhrsj0=",
+        "mahjong-utils-0.2.2.post1.tar.gz"
+      ],
+      "wheels": {
+        "mahjong_utils-0.2.2.post1-py3-none-macosx_10_15_x86_64.whl": [
+          "uaBCqjbCDYZOkiL8+9IEMkWHpa4f6VDYbW7DfQ9DmO0=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.2.post1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "7bY0WCJ6oBYkWfRa1UnvRmcbX3niJ3dXRTVSQ7eyf4A=",
+          "py3"
+        ],
+        "mahjong_utils-0.2.2.post1-py3-none-win_amd64.whl": [
+          "k/94F6ZQQdOtu/ylXMcvTLwFSqCxh9Jd/45NYzBNobg=",
           "py3"
         ]
       }
@@ -73243,6 +74323,26 @@
       ]
     }
   },
+  "mkie": {
+    "0.1.0": {
+      "sdist": [
+        "Sw6+OvvD1DjaIZkVSXx2Sl6cVYssfbgU0UcOL80NvoY=",
+        "mkie-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "Ysr8Lmw6JgpD0xe07i+i5hELfQ9aMbaU9ccgskw4DPc=",
+        "mkie-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "5ZpqIoWJxus7eAf2/f1gmHxEXZYszD2g84cRMMYE8HY=",
+        "mkie-0.1.2.tar.gz"
+      ]
+    }
+  },
   "mksgrd-sample-package": {
     "0.3.1": {
       "sdist": [
@@ -74771,6 +75871,32 @@
         "msb_client-0.7.5-py2.py3-none-any.whl": [
           "BxDVqIUaSZgwVRUrewMkiJwWpwljvZYU7zB5IF5re/s=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "msgraph-beta-sdk": {
+    "1.0.0a0": {
+      "sdist": [
+        "/m+/9IgeodoRiHtdb7+X6xp33ENEKFdYr6DZo7/3ouQ=",
+        "msgraph-beta-sdk-1.0.0a0.tar.gz"
+      ],
+      "wheels": {
+        "msgraph_beta_sdk-1.0.0a0-py3-none-any.whl": [
+          "LIhBzewzMPz9tLBjMm4nVj6S/EF8UQk/Mt0xs/YvaRA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a1": {
+      "sdist": [
+        "pR9s5ZgnTeq84mM/qXBVf7oJxJH+zDxCV8TdLdcQ7Hk=",
+        "msgraph-beta-sdk-1.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "msgraph_beta_sdk-1.0.0a1-py3-none-any.whl": [
+          "1MglYSDupA66q/qD7p4oeR7SchQek8H7L/zlJUcLvWU=",
+          "py3"
         ]
       }
     }
@@ -76439,6 +77565,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.7": {
+      "sdist": [
+        "Tego1RkfE8x5nbKqTpXkoKBJvezbJ5ojBYol6OzYhVk=",
+        "napari_segment-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "napari_segment-0.3.7-py3-none-any.whl": [
+          "0u5tMVD6iUDzNlZX6ayzduM1gBnwkvusTJaJqnTb1BU=",
+          "py3"
+        ]
+      }
     }
   },
   "nav-sim-modules": {
@@ -76718,6 +77856,18 @@
       "wheels": {
         "NBSapi-0.5-py3-none-any.whl": [
           "pSPh0kSRdDJXCxSxWduPEMtXw1jO2t4OA7HHGHXyhSQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.6": {
+      "sdist": [
+        "y1ZrcOuRjQ+059Xy4lydKJzD0+Op9anScJFiU7f9/o8=",
+        "NBSapi-0.6.tar.gz"
+      ],
+      "wheels": {
+        "NBSapi-0.6-py3-none-any.whl": [
+          "WcX2/GKui4rK5tDojIrwQg+KEhPe1BDQmF9me95R1ak=",
           "py3"
         ]
       }
@@ -82445,6 +83595,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.2": {
+      "wheels": {
+        "odoo_addon_account_asset_management-15.0.1.0.2-py3-none-any.whl": [
+          "YKaJkTKLJeqWXOzxcZToeZsJYz2Qq9Z+Sv+b90+u/wg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-hr-employee-calendar-planning": {
@@ -82460,6 +83618,14 @@
       "wheels": {
         "odoo_addon_hr_employee_calendar_planning-15.0.1.1.0-py3-none-any.whl": [
           "ORzYwfCFRsG+U5LsIMrVspe2tvPfcsosnfo6agtoEuk=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.1.1": {
+      "wheels": {
+        "odoo_addon_hr_employee_calendar_planning-15.0.1.1.1-py3-none-any.whl": [
+          "Vag4oy4LIICluPPxtmOOxdrjN10mNm2C6XfQYvNJQ/U=",
           "py3"
         ]
       }
@@ -86597,6 +87763,20 @@
       ]
     }
   },
+  "pdfmaster": {
+    "0.0.1": {
+      "sdist": [
+        "mhB25WXU3eBn82XEHCseaiWP257acXINbHXmq0A1kcU=",
+        "PDFMaster-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "PDFMaster-0.0.1-py3-none-any.whl": [
+          "CsAw7v3yAtyALhvv372GU9LOrNtOt/D+rb5lSCExzjs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "peasel": {
     "0.1.0": {
       "sdist": [
@@ -89422,6 +90602,18 @@
       "wheels": {
         "pstree-0.1.0-py2.py3-none-any.whl": [
           "o8w7Qnor96iF+/8RUjGf/V+0E8MQq6VqALIdxzCehk8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "bTbBwMHAdDAUJ6XTC18nWyPjz6atxHr0P6rheMqqwC4=",
+        "pstree-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pstree-0.1.1-py2.py3-none-any.whl": [
+          "ElUoBbrkkIWWR1odifKHA7ti8GmaZZ/R+wfOGsReIFk=",
           "py2.py3"
         ]
       }
@@ -94604,6 +95796,18 @@
       "wheels": {
         "pyrepseq-0.1.2-py3-none-any.whl": [
           "iLjpc9bNHkqHU+skCjtS0aEKa4a/vJKdwzmddoUMiV8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "7E8hbOmdmbvvXAmPRD1la4YTSDncHZEkdGFePL8PNYs=",
+        "pyrepseq-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pyrepseq-0.1.3-py3-none-any.whl": [
+          "PgF8sCAUi/qArkpjZU4EVQjz3wkxX1UA+QC+JWycQtM=",
           "py3"
         ]
       }
@@ -100963,6 +102167,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "yik/WdJbQ0wWejBio3kry4+3bQKroD1UApOYY5eLw7o=",
+        "redis_om-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "redis_om-0.1.1-py3-none-any.whl": [
+          "D8Z9jRB3AVU2j78FLBfM8tFPdQQwP5XDiIuox0hXKvg=",
+          "py3"
+        ]
+      }
     }
   },
   "rediscache-decorator": {
@@ -105688,6 +106904,18 @@
         ]
       }
     },
+    "1.0.24": {
+      "sdist": [
+        "OEkt+BSjsKd3pGc4N3qTWgylORm3gl2KElD+o6YuyqA=",
+        "samsteady-django-utils-1.0.24.tar.gz"
+      ],
+      "wheels": {
+        "samsteady_django_utils-1.0.24-py3-none-any.whl": [
+          "VVfwklnlOqaiV8MUceYcnscfa8K7NdvXVb7G70sXLk0=",
+          "py3"
+        ]
+      }
+    },
     "1.0.4": {
       "sdist": [
         "wDxkvzdKIx1/vMpxLATzFG4TnenOgpymjxiRQdxmdGY=",
@@ -107781,6 +109009,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.2": {
+      "sdist": [
+        "FeuSbTqkGFwCTpBFN2bAhPEi96KgADX7kcbBsvDzGy4=",
+        "selenium_requests-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "selenium_requests-2.0.2-py3-none-any.whl": [
+          "Y27Rj0lOWH0p2AhOySkzdYgmoAs8Teru3Cs/J4SNub0=",
+          "py3"
+        ]
+      }
     }
   },
   "sentency": {
@@ -107988,6 +109228,18 @@
       "wheels": {
         "seq_pipeline-0.0.6-py3-none-any.whl": [
           "JaHZw7QTGd9QNdBfKjODxrY4TvNGccnRM1Fop0VIvfQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "O3R9e4ap/QEXJeV/Yl1GIJqQKFmWrHGYPHpuvew7xog=",
+        "seq_pipeline-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "seq_pipeline-0.0.7-py3-none-any.whl": [
+          "Z9JdsQ7/QO1KJTNfNMnp8RvNxZYefPR9+0qKZQg2qh0=",
           "py3"
         ]
       }
@@ -116348,6 +117600,18 @@
         ]
       }
     },
+    "0.13.0": {
+      "sdist": [
+        "v0LsqCnyaP3CwIkluxrG3G2M6Ddu+HOz+ISvlEtFKig=",
+        "stellarstation-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "stellarstation-0.13.0-py3-none-any.whl": [
+          "hFVg3M8OC2vMpWrDjruKFTXlmOEnzbl1oO0c4T08+ls=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "MR1h/9NuiY/RJwLbXKli5k6SHvvMmYF+YRoGVscFBpo=",
@@ -118356,6 +119620,18 @@
       "sdist": [
         "DNiF/OGWQ6a8CaO/Ysjit1wmmHSwRUA+Jv1bQ6P9YQY=",
         "TCPipelineUtils-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "BhwbjPS2nWpu286tvjBppF/A+RrxSBxmT8s64i8FC/8=",
+        "TCPipelineUtils-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "CVn5KIm7igPix/LoCPH1JYWAkz/NE9ZptFnd4ajXd8Y=",
+        "TCPipelineUtils-1.0.4.tar.gz"
       ]
     }
   },
@@ -124575,6 +125851,114 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.781": {
+      "sdist": [
+        "w3NYG7YmAkIYhpoqxe4dlacWjpULSgds8GJu4KuTjNA=",
+        "tencentcloud-sdk-python-cynosdb-3.0.781.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.781-py2.py3-none-any.whl": [
+          "swSA1YjQiInzAUnNLeRbeLozeFMYHOMVMygI8MXFVvs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.782": {
+      "sdist": [
+        "exvhZNUlS+Q41ZGG4+5XGcDXLhbWBdiXPTQd+w58pTg=",
+        "tencentcloud-sdk-python-cynosdb-3.0.782.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.782-py2.py3-none-any.whl": [
+          "DM7H1d+O0GID4zcKIJ1Mxg4+wUQpczS9hf/YicttwQw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.783": {
+      "sdist": [
+        "UX3UsZYyb5MdBh27+O4CbyMXAGQdZLx0Rv9BMfa7ze0=",
+        "tencentcloud-sdk-python-cynosdb-3.0.783.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.783-py2.py3-none-any.whl": [
+          "g3nvNUX0JS6IT4S0RD+NzL7DhlwEm/NoVceqii31/Us=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.784": {
+      "sdist": [
+        "ROsuLBpPK7jmVKUApfPGUJeAe0sVBewyvQ1RnMrVabM=",
+        "tencentcloud-sdk-python-cynosdb-3.0.784.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.784-py2.py3-none-any.whl": [
+          "0577OTNW2I5kr3j5b9miDvHUYB25kZn44ci6CUfPN0Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.785": {
+      "sdist": [
+        "ZBncMbgx3uQbWhIzkrdPKZ1Eqvb5fy7no8iIvkcstpo=",
+        "tencentcloud-sdk-python-cynosdb-3.0.785.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.785-py2.py3-none-any.whl": [
+          "fHEV71OVnH+sEzI+aYS/3pMpsS7YsNdJwRpiKNT7DQ0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.786": {
+      "sdist": [
+        "SPY8k3VmHTXjngJCnD8etiLlXMBl6y3Q1YVVEXRIM8M=",
+        "tencentcloud-sdk-python-cynosdb-3.0.786.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.786-py2.py3-none-any.whl": [
+          "hoJkIejZtb67yXu/icirYhbMFkJUWZVYp+9O+oZHV9k=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.787": {
+      "sdist": [
+        "EKBQVlYolPrubGF+Ui+x7Dlxj1jH0QS6sVyROGAXFR0=",
+        "tencentcloud-sdk-python-cynosdb-3.0.787.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.787-py2.py3-none-any.whl": [
+          "rEOR4007irV9VYAITbVCxt+vk/IxhLnAH9B1fcK1yt0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.788": {
+      "sdist": [
+        "JC2zoMDH+BLQJDphULSDG82Zul1vQAhaqjC6jRNEefs=",
+        "tencentcloud-sdk-python-cynosdb-3.0.788.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.788-py2.py3-none-any.whl": [
+          "v0MiccTofRdoViorzM4pD6TRWWdstJqwTybr3LtnpK8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.789": {
+      "sdist": [
+        "5rjxOFV4Rxy7IeM81I5TuQuQi6IyKZAW3Vqn8ukUf/g=",
+        "tencentcloud-sdk-python-cynosdb-3.0.789.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.789-py2.py3-none-any.whl": [
+          "n7LQkXGqRtWafxfFXhJvWSP6yT96+mGtRWKl/Jmn9mg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenet": {
@@ -125410,6 +126794,20 @@
       "wheels": {
         "textcheck-0.2.2-py3-none-any.whl": [
           "jgnY/jBuPw9DkdG+5jcK2SoCgjXikmAHGQI360p9ebQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "textpack2": {
+    "0.1.0": {
+      "sdist": [
+        "qLzU2eE2bsxX49C1r5c1JVPwy0mNNkmgBvg6dtQNFws=",
+        "textpack2-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "textpack2-0.1.0-py3-none-any.whl": [
+          "4ico2vc/rSzutWFuROR1orwYeTfMLkg5ODPJ/iDmUUs=",
           "py3"
         ]
       }
@@ -126380,6 +127778,14 @@
       "wheels": {
         "tnsp_bridge-0.2.23-py3-none-any.whl": [
           "/+QMcy3PvwqEtUS+m6HBETmOHAeO1Cl2bMyVe99mLbw=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "tnsp_bridge-0.3.0-py3-none-any.whl": [
+          "o8ubW6jf9nR6MlDHtu8oyHm7z5eJxD2f67fNx+dXcpc=",
           "py3"
         ]
       }
@@ -128131,6 +129537,66 @@
           "py3"
         ]
       }
+    },
+    "2022.12.4": {
+      "sdist": [
+        "aX1EzNtGnaD82mLaBcRjNYnT3yMF6iALZrIcV2FuRFI=",
+        "twitter_video_tools-2022.12.4.tar.gz"
+      ],
+      "wheels": {
+        "twitter_video_tools-2022.12.4-py3-none-any.whl": [
+          "E1I0Wo/sYTDVrI/V8YyDcWssarOaXyWhBkNHzjzZnKQ=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.4.post1": {
+      "sdist": [
+        "enGwJZsPYfQZH8kKOToTRKdXC8kY22Ns+p5fJxxPWAo=",
+        "twitter_video_tools-2022.12.4.post1.tar.gz"
+      ],
+      "wheels": {
+        "twitter_video_tools-2022.12.4.post1-py3-none-any.whl": [
+          "o+I3FqlEyKOHOsZRwkyjXjxg/HKOUgEQ6PJKrG8loS0=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.4.post2": {
+      "sdist": [
+        "+e0+wdB/1RSrnG97kRQRDk844QqWuLSlcO/n5rbGRwQ=",
+        "twitter_video_tools-2022.12.4.post2.tar.gz"
+      ],
+      "wheels": {
+        "twitter_video_tools-2022.12.4.post2-py3-none-any.whl": [
+          "jg7DmiyXPWykPGmadPM9N1G8gX27pa8zFwNTlmTB8E4=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.4.post3": {
+      "sdist": [
+        "tVbWLvgjmwzu1DWZeRbG+kZgb8fczWjirTqRZLnObyA=",
+        "twitter_video_tools-2022.12.4.post3.tar.gz"
+      ],
+      "wheels": {
+        "twitter_video_tools-2022.12.4.post3-py3-none-any.whl": [
+          "8lHVNv2EE2WqzSUm8p2Z6TTnWM/W+E0cM+6xWZ+2HDc=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.5": {
+      "sdist": [
+        "xv0zYaS9h7LBFgi1NSfcuqrhErmxHE3T7Kq4GLYEYqM=",
+        "twitter_video_tools-2022.12.5.tar.gz"
+      ],
+      "wheels": {
+        "twitter_video_tools-2022.12.5-py3-none-any.whl": [
+          "KWtLYnzAuYF+IZRH2IrjFcZForryCi9zziWeyBdqJkg=",
+          "py3"
+        ]
+      }
     }
   },
   "type-templating": {
@@ -128386,6 +129852,18 @@
       "wheels": {
         "types_aiobotocore_resource_groups-2.4.0.post1-py3-none-any.whl": [
           "kzu15djNMvNecaZPRBRSm/kpCW2BJFP5hUKR4m0FMxw=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.1": {
+      "sdist": [
+        "1kTBOZggBVEq92hVyCkk/7MnkUffyvCSZeN5vW2jWDs=",
+        "types-aiobotocore-resource-groups-2.4.1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_resource_groups-2.4.1-py3-none-any.whl": [
+          "AqrXvfc+9/6RxGaQ9ngc5Up3DcaI96OEi+3rg4j95nc=",
           "py3"
         ]
       }
@@ -128882,6 +130360,66 @@
       "wheels": {
         "unsafe-1.1.1-py3-none-any.whl": [
           "Kzz9it8WgY8APwJ9g1tOvUMNqe5Ip73bpR/REtofUrY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "Ih5gycZrFruL+6PqK1X7CO8/u+YKy69l+1cecLNuGDI=",
+        "unsafe-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.1.2-py3-none-any.whl": [
+          "ld/+7AeSXomIoCq/NkOVC/rp3sBljcg0vc8o6M0iQx4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "FEF8jWehoRqIfNtMcjSBssheItJmqnxbemkMCuMNQ90=",
+        "unsafe-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.1.3-py3-none-any.whl": [
+          "qQvmRKCpqLPvmajJJpcjd20i2wFoho4PUB4OLCD55MA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.31": {
+      "sdist": [
+        "WsjqrgSfQfVod14mR27A1xleht5EEjvVpl36pMP6Mcs=",
+        "unsafe-1.1.31.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.1.31-py3-none-any.whl": [
+          "BAGwJp505GoXj8kGKAi4LBjpI6kusfG3pbT+ofSG6Fs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.32": {
+      "sdist": [
+        "/cywZbPliylgZRrELDVdqv0anFo33okQXeiMiTMV8qU=",
+        "unsafe-1.1.32.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.1.32-py3-none-any.whl": [
+          "jDoR1hE5KoENx+jkXbZ7Q3uANISetLGvMG3hybJ1nfc=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.33": {
+      "sdist": [
+        "wzz1VwfCwWOYKCyqeplFh5S45INJE7+VWdTxR+s1ZO8=",
+        "unsafe-1.1.33.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.1.33-py3-none-any.whl": [
+          "Nsp+jb2eSgmxWJvf47CDEa5RZ8m0EfH+QJ8vIxXjnwU=",
           "py3"
         ]
       }
@@ -129394,6 +130932,18 @@
       "wheels": {
         "v3io-0.5.2-py3-none-any.whl": [
           "1Re4qZar2KLIDMo96SURjr2hTmA42AdYVzdLUbYi3RE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.20": {
+      "sdist": [
+        "Pr0+WurYNhJSHxmP2JZT5X+rc3/W0fn4k/nL8rXr3sE=",
+        "v3io-0.5.20.tar.gz"
+      ],
+      "wheels": {
+        "v3io-0.5.20-py3-none-any.whl": [
+          "/BQCKG7oRDqNpk0jFTSz0+/qIovUEv7JNgdObSd2Lks=",
           "py3"
         ]
       }
@@ -130879,6 +132429,44 @@
         "//4CGILRJbbX8VKpcpTj4TDTInIJq9uv3n++ENMcNTQ=",
         "videoscreen-1.2.tar.gz"
       ]
+    }
+  },
+  "viggoparceiro": {
+    "1.0.0": {
+      "sdist": [
+        "jyt9vDPcxNNp6DWVn90Xtn2MeJ1Tq87si8L7pJ+NfPA=",
+        "viggoparceiro-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "viggoparceiro-1.0.0-py3-none-any.whl": [
+          "EQdIK0wIQq8IWD0v+TgMkrPc8AjmkI3G47tLdqS+890=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "DlUeeosOqgrwyKNRVnyDTD8fywfA/xK8c0sj1XG/Kw0=",
+        "viggoparceiro-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "viggoparceiro-1.0.1-py3-none-any.whl": [
+          "8tTjy8k8iWntZM7ilspypYrjvFG+Ezf14plB5vQQrwo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "Xkm46/CG8tANCCktMPZuqhnPmYCgv6P/ytQAiUNPRzA=",
+        "viggoparceiro-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "viggoparceiro-1.0.2-py3-none-any.whl": [
+          "REHJX9NgxEKQoaNOGFy9ySpWwd1/ofC0WtwlgHAZWw4=",
+          "py3"
+        ]
+      }
     }
   },
   "vim-pck": {
@@ -134881,6 +136469,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "CN5Jg9K32g7vdgfns1+F43OlaNFAaA6CpH15j7qgkgs=",
+        "wtfis-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "wtfis-0.5.0-py3-none-any.whl": [
+          "JJcRVDl4i+IZ5Bn8TFxbNxQDo9Oq64S0uVAladd5m+s=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "jVRHnha5dMC3EJ5wX5VilTC3SBakRFUNYHQCWkRY8dQ=",
+        "wtfis-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "wtfis-0.5.1-py3-none-any.whl": [
+          "qUyaa84isJDj4znlgaivP5p0b5uHyzBKbT3MfIW7MnA=",
+          "py3"
+        ]
+      }
     }
   },
   "wtot": {
@@ -135512,6 +137124,14 @@
       "wheels": {
         "XBXBOT-0.9.7-py3-none-any.whl": [
           "HihYuI7V/HcpEVFfNdt4OGZu63KGHlSDJ2Wgjh4XYwk=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.8": {
+      "wheels": {
+        "XBXBOT-0.9.8-py3-none-any.whl": [
+          "jRP03VM5BUQlI5ffruTTiBwth5tN7zIVVWUek1dZGPE=",
           "py3"
         ]
       }
