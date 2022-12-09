@@ -70632,6 +70632,18 @@
         ]
       }
     },
+    "11.5b20": {
+      "sdist": [
+        "nVuN6Jap7SqoeYNBs0pxvz2zFOnwNYUTMDm9BGzNVhc=",
+        "js-sdk-11.5b20.tar.gz"
+      ],
+      "wheels": {
+        "js_sdk-11.5b20-py3-none-any.whl": [
+          "TK/96gwy3ji57THX7Bw68qSSDrgl+QFZPlR9LRqqEuY=",
+          "py3"
+        ]
+      }
+    },
     "11.5b5": {
       "sdist": [
         "vkR4dOwo6uDhcfXxr8sjNagsNDdRClTL1BW0cEIQD+A=",
@@ -71274,6 +71286,18 @@
       "wheels": {
         "junos_eznc-2.6.5-py2.py3-none-any.whl": [
           "ADZRLS38DodaBpgJLrBfoD45TtaqOwNQzgUe92V3PY8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.6.6": {
+      "sdist": [
+        "ZifBgGfRSemHQrT+AgcXJymdbfwVVhQFYGW1IwxzLkg=",
+        "junos-eznc-2.6.6.tar.gz"
+      ],
+      "wheels": {
+        "junos_eznc-2.6.6-py2.py3-none-any.whl": [
+          "xQnWFx2DkIQBLBvxz1OBPiyOd7giYO7p7L0XNC/A2Lo=",
           "py2.py3"
         ]
       }
@@ -86010,6 +86034,86 @@
         ],
         "Mosek-10.0.30-cp39-cp39-win_amd64.whl": [
           "Ubio5O2lGGvm4bPc+hJyKKx9PE6i5U+wukiJqleHbqY=",
+          "cp39"
+        ]
+      }
+    },
+    "10.0.31": {
+      "wheels": {
+        "Mosek-10.0.31-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "1oSKxMgBWeKoACdmV8pwmXhbtu2HOovk2VtkJ+Q5ePk=",
+          "cp310"
+        ],
+        "Mosek-10.0.31-cp310-cp310-macosx_11_0_arm64.whl": [
+          "bsSzeqSwvhnSYonpgkf7RcXcNmpZmAbQihPBGnXkie4=",
+          "cp310"
+        ],
+        "Mosek-10.0.31-cp310-cp310-manylinux2014_aarch64.whl": [
+          "cY1LRwARHu8c5Jn8kQagk3JRys9aQrA8fAHIX/v++nc=",
+          "cp310"
+        ],
+        "Mosek-10.0.31-cp310-cp310-manylinux2014_x86_64.whl": [
+          "Cu05k3jyqcuUrYS75gHDCinOXmdMEgU+rqb32EOn0VQ=",
+          "cp310"
+        ],
+        "Mosek-10.0.31-cp310-cp310-win_amd64.whl": [
+          "kY9YtE/2o8iPP8txZ4EpOZuFMHseEwzD4aNFh6NMsEI=",
+          "cp310"
+        ],
+        "Mosek-10.0.31-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "6earee6JiSCKydN03Wi9gUWLiYPKDg9WERVJdGpfqqs=",
+          "cp37"
+        ],
+        "Mosek-10.0.31-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "KGtG92HNqhlSO3or8xbilp85glcIsbFFOQBdlRbqJqM=",
+          "cp37"
+        ],
+        "Mosek-10.0.31-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "HE+wHcFFyhs52/qUwAbFK00dfFuGiQik7Fu16kKseuE=",
+          "cp37"
+        ],
+        "Mosek-10.0.31-cp37-cp37m-win_amd64.whl": [
+          "EOTDhjWDBTb9375KKivnNrz5pvXg+/aaoPIKp4onGGI=",
+          "cp37"
+        ],
+        "Mosek-10.0.31-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "0+xyi3N3SzBzSFXD8RsQ8S9C7GgAayNs01X70WhRxSg=",
+          "cp38"
+        ],
+        "Mosek-10.0.31-cp38-cp38-macosx_11_0_arm64.whl": [
+          "5vugJkFJBaDb5K0ZmpDEa6PpMWBgaYUL4jorpZMBMX0=",
+          "cp38"
+        ],
+        "Mosek-10.0.31-cp38-cp38-manylinux2014_aarch64.whl": [
+          "0Uglc+ggGLmq/oWddE/5S+Ug8clnmPn8yswn5YDtDo0=",
+          "cp38"
+        ],
+        "Mosek-10.0.31-cp38-cp38-manylinux2014_x86_64.whl": [
+          "q/fCFWkrz2r5Scv4/+Jy80jXpDhS2nRrsMnNciNbdkw=",
+          "cp38"
+        ],
+        "Mosek-10.0.31-cp38-cp38-win_amd64.whl": [
+          "cq8lLD2wzqhQMSPBtGxb73ieo3IVlZR9aT6P/TxUV64=",
+          "cp38"
+        ],
+        "Mosek-10.0.31-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "IpC6do1jQ/vNjUB/VI6US8sgxrl6RQVB541DhkGPoIk=",
+          "cp39"
+        ],
+        "Mosek-10.0.31-cp39-cp39-macosx_11_0_arm64.whl": [
+          "rVXCjjNJEVHCwYC3jMKkmPzWCK5FEWUccipmEUdUFpM=",
+          "cp39"
+        ],
+        "Mosek-10.0.31-cp39-cp39-manylinux2014_aarch64.whl": [
+          "WcjEQMPz3K1zliK0XiQQigqNbD5VOOKxl35g2Nt+Rgk=",
+          "cp39"
+        ],
+        "Mosek-10.0.31-cp39-cp39-manylinux2014_x86_64.whl": [
+          "HWaA36dF8lotkMtEoAr5EI1I9a2dtrxOvLG7V40kILs=",
+          "cp39"
+        ],
+        "Mosek-10.0.31-cp39-cp39-win_amd64.whl": [
+          "qyqwnQvoeCwS1F3xQbtOCaU1ygcPkJ9h2tj9sYlwHpY=",
           "cp39"
         ]
       }
@@ -100967,6 +101071,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.32": {
+      "sdist": [
+        "lNun3YXRgmi6F1QUJNhoPGTcYqK0muooNAP0xibdoXY=",
+        "nonebot_plugin_xiuxian-0.4.32.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_xiuxian-0.4.32-py3-none-any.whl": [
+          "D/0FLKp60bK6LEAzDEDbZEm9pePSI5XK4CRqU/O+5c0=",
+          "py3"
+        ]
+      }
     }
   },
   "norite": {
@@ -112618,6 +112734,18 @@
       "wheels": {
         "pdc_logger-1.0.7-py3-none-any.whl": [
           "fiMltBiQ/fKHmcSkoW5kVnLkSm5cEXcG/AfQwo7v3CM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "vJRZRuHrOpKHJUanhimP3dOiKzgqpcUojQD4oN9rzAc=",
+        "pdc_logger-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "pdc_logger-1.0.8-py3-none-any.whl": [
+          "Py1dM6GdyItUjYAg9zEiuyj+Er0q9ADT+fekWzDBF2U=",
           "py3"
         ]
       }

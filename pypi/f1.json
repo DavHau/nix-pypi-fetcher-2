@@ -28482,6 +28482,12 @@
         "django-jsanctions-3.6.11.tar.gz"
       ]
     },
+    "3.6.13": {
+      "sdist": [
+        "yg2I8MonX5CVIbrzkzTswjK6TMUPi6BYUwyYKecmyiA=",
+        "django-jsanctions-3.6.13.tar.gz"
+      ]
+    },
     "3.6.2": {
       "sdist": [
         "iLlUyPIF5OvlJpKVB5ntIty7m1WktdndUoj/cl8vNsg=",
@@ -64627,6 +64633,18 @@
         "Y9vnq4eMJkvGZ78M23cZ92bFLeQH1F/0J+nX1x2DpCc=",
         "Keno-1.2.2.tar.gz"
       ]
+    },
+    "1.2.3": {
+      "sdist": [
+        "XbG/mpSKgjnf/50ftpgFSPmSnxyxQawZBaQCOd2HVKU=",
+        "Keno-1.2.3.tar.gz"
+      ]
+    },
+    "1.2.4": {
+      "sdist": [
+        "FYn2IWLQnkpjOHwMuZ8UicDbCiY1TxPNbmh9j7+ecJw=",
+        "Keno-1.2.4.tar.gz"
+      ]
     }
   },
   "kfilter": {
@@ -96701,6 +96719,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.7": {
+      "sdist": [
+        "KWAJecxGEvrxlRq4etMTZ5IY4JJ7lcf77GS2mpEZCoY=",
+        "pipeline_ai-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "pipeline_ai-0.2.7-py3-none-any.whl": [
+          "KNA7KlGaGebOgK+hFEXbX0EdBcAduKm/2KTb+MA5jXA=",
+          "py3"
+        ]
+      }
     }
   },
   "pipen-args": {
@@ -113737,6 +113767,56 @@
         "pytest_serverless-1.0.0-py3-none-any.whl": [
           "Qr55+t82lv0eCKbTS3UvbnroZiRGKtWOE9/CJqHHCq0=",
           "py3"
+        ]
+      }
+    }
+  },
+  "pytest-slow-last": {
+    "0.1.0": {
+      "sdist": [
+        "pKfrqQFUj26G2joFLqhIw7W9BO0J5zW1OFEr9NfV3fI=",
+        "pytest-slow-last-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_slow_last-0.1.0-py2.py3-none-any.whl": [
+          "w7Fh3FV6Drt75q9gzk3QJkctjxoG/r0/7TOfC9l3Dx8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "a0UFKHUlie1d3Wk4Kj+u7mIvI4tZBmMSo4m1AAGfTN0=",
+        "pytest-slow-last-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_slow_last-0.1.1-py2.py3-none-any.whl": [
+          "g7IB8Zu9ZYHsva8aMkDu/0iBWfndXI3q74GBQkfnwO4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "ZiKE/fOwC+GLQofAul6Wy5qRfOc7CKBJnQW5txEvD5c=",
+        "pytest-slow-last-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_slow_last-0.1.2-py2.py3-none-any.whl": [
+          "ED4Yyo2ZUnjFE+5VEbOD/VCq+/hsE6vvSVI9JtviJ4o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "OOloE1KiNwkKFc/Jkrzj2DvCsLDnyIP0y4MLtXuDhV4=",
+        "pytest-slow-last-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pytest_slow_last-0.1.3-py2.py3-none-any.whl": [
+          "DpkKc0Gi8X74Z0H/FWAaxnCqj459tdJYH6ZaKGWA4VQ=",
+          "py2.py3"
         ]
       }
     }

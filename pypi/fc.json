@@ -82162,6 +82162,12 @@
         "msaBase-0.0.2.tar.gz"
       ]
     },
+    "0.0.20": {
+      "sdist": [
+        "45ibznnPr/3kzkd+K24FFXKdEKeOBzplwlveD3BrCZQ=",
+        "msaBase-0.0.20.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "PUGNq5UEm7Zq/RkpT3q5oh2wIqhIUIJ+h1FYzebSlRQ=",
@@ -105317,6 +105323,20 @@
       }
     }
   },
+  "pyannotebook": {
+    "0.1.0.dev0": {
+      "sdist": [
+        "9SgE/ttx75r5tQBb427w1242DSAfVkCioCV1hL/z8R8=",
+        "pyannotebook-0.1.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "pyannotebook-0.1.0.dev0-py3-none-any.whl": [
+          "CwQossAh0ugrGAnOQxJZR/jdTFOmqfyqRGBSr8osSFo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyarchops-dnsmasq": {
     "0.0.1": {
       "sdist": [
@@ -128307,6 +128327,32 @@
       }
     }
   },
+  "stenocaptioner": {
+    "0.1.0": {
+      "sdist": [
+        "oSc2jvtOAT8nPsAEaSTv59pvNddDe+T8hhIUiaEPfiA=",
+        "stenocaptioner-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "stenocaptioner-0.1.0-py3-none-any.whl": [
+          "+Jp79KP5RloxnP+yDSri4Dp2Eb2TTkrimpffU9TaQS4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1fct6hpC/0bPmwHNMrU2spjwUgx9ayeT8Rp/GsyQEI4=",
+        "stenocaptioner-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "stenocaptioner-0.1.2-py3-none-any.whl": [
+          "UZfBFDkZ3QrrNqSl+102JiFGcVpj3U5zs2HXK6Ldn48=",
+          "py3"
+        ]
+      }
+    }
+  },
   "stockaggregator": {
     "0.3": {
       "wheels": {
@@ -136366,6 +136412,18 @@
       "wheels": {
         "tencentcloud_sdk_python_drm-3.0.790-py2.py3-none-any.whl": [
           "DHFfpwxzaJeXBar07EaNvaQ/Ii/hsiBHcuxboEemqx0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.791": {
+      "sdist": [
+        "01p+uUxFQZ1730L2BElAySHWFxaenZq7PZR0ZMD762s=",
+        "tencentcloud-sdk-python-drm-3.0.791.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_drm-3.0.791-py2.py3-none-any.whl": [
+          "ra4wGHtR7+BntfKT/p5DJcLbZXRDac6mliTMn8u0C5g=",
           "py2.py3"
         ]
       }
@@ -146597,6 +146655,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.3.dev202212090608": {
+      "sdist": [
+        "nferN4TwIw8aqMfRsIUCAEZD0r86dBU3MxWo8cROHdU=",
+        "tflite-model-maker-nightly-0.4.3.dev202212090608.tar.gz"
+      ],
+      "wheels": {
+        "tflite_model_maker_nightly-0.4.3.dev202212090608-py3-none-any.whl": [
+          "hvtO+0JRzqjJ9gLCP0xZkoRpC4RykR1bhzpUW3mxr/E=",
+          "py3"
+        ]
+      }
     }
   },
   "tfserving-grpc-helper": {
@@ -156131,6 +156201,230 @@
         "xatlas-0.0.6-pp37-pypy37_pp73-win32.whl": [
           "wTQkdM3XRO0mdGTpOT0WH4HAZTza7TAqznhPayh3zjs=",
           "pp37"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "vsQiGZCe1bxk9LhuF8lkk6mTD2gB8dwmKICgTke+sjo=",
+        "xatlas-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "xatlas-0.0.7-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "K7jeGc7GkKCi2NeTVP3VKpVgfEHS4gs7HvlcAzbTp4Y=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YWvcqxYeV3LlKremDlQ36pQi89homTfeTkxexkmNfpw=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "afX9rQJ0+OIytlZC5ltuNijIc4tAsJHni5gPjFw/eAI=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp310-cp310-musllinux_1_1_i686.whl": [
+          "RNL5+WDPiVWwmp3Y1vytqXoAXL+/yvh1WqSLB9Kcv5M=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "4HtJ2sKnOpMzXWN0y5Y3Zonr7KPf0lvLTV/P650zBuQ=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp310-cp310-win32.whl": [
+          "G+zoBtbbObhxlBjoxGfIOmh/9p+Rp+veT8iho1eO61g=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp310-cp310-win_amd64.whl": [
+          "VIjXnyvq4fHFZJ00r/BqUap7sOu54b+eATZvascYZ10=",
+          "cp310"
+        ],
+        "xatlas-0.0.7-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "0We3wDmhnQaIHUcwKdklMipsouI3NzpJkVd4jZE6Gps=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "nU3eoT2gvS5PvCyD9Ok8+iCcE/dIJ+/8ThgKWBtyEPs=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4BYK/HP0Vmlyr0MOEWEKEBr38gbGtqjW0kfihp9j5ak=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp311-cp311-musllinux_1_1_i686.whl": [
+          "eD85hrd/Pi//B6aDR/RKxN4MalEtFuWfE4oBHebbupA=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "5FjaUPjZdLhpfRrnOkrAPR9xjhB0dn8tD0MXah6pxVY=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp311-cp311-win32.whl": [
+          "pseKgdC/am6d2biE7gWlMwnv3vEyeNqcsA4jVRhCUOQ=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp311-cp311-win_amd64.whl": [
+          "sO6rbBHzOOMRLrW6naQXkzqKTwRjykwfMFNMGZahBIk=",
+          "cp311"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "uoqYUA3XObLUk/9QEjQDB/tvARz/bkYPoIiXu7stUD8=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dwC5nH0f6nsTMu+e+8orgy4mgKcQox8KLXEjuVh8nFw=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pH7aLU6Te4tPf+1KCCIy8TL/By0/EOVUOHlkSLPEUHQ=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "0AUROd4mPJcv2bYcVbhBVgObQhgR/xZWmb0Qtpmzja4=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "NZWKbo0z7a5QPZMSS0kLGPVAHT8HJ7SyaQhd4yxuBho=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-win32.whl": [
+          "br24PbOjjxfQB5KDeMokAo8uhuRdVzg3b0oPzCKp8zg=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp36-cp36m-win_amd64.whl": [
+          "gU/qeJaqY8vGqywP6tRPLbTMCgtut6FUh6lRMbXN7Xg=",
+          "cp36"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "rjWWfy4pJJeYfAr3q4KAQodbvYGtAZ8vQTExX1a8xvU=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "T7myJ5N3MUcZTy4NBnzhRnr/ZXmPOidKITrESM5Iq2Y=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y0ZJ/fTDDtNkUjJKAyPutSzEhAJ/qpaFgVD4pJ4tr5U=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "4YOKRgcMn70SQL3GGb9f3fZkqOFZb4Sz76GW3CtCeu4=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "0CAsShr5Xt0pCxjETwFNKDFXKrJCrNuelGlJvRIQ9ho=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-win32.whl": [
+          "LLgjjsaNMu6fTSVr0j7eC2NmhA6IqPk6gop+xcHjPL4=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp37-cp37m-win_amd64.whl": [
+          "xGo/gcVEo5Pf7Mdsmtl9sfdKUDVVQrs7S+62wh9zVbA=",
+          "cp37"
+        ],
+        "xatlas-0.0.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "sGhUccOk9lOXO679JmOPq2C/j003ctJh5O9qu9optUA=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jBnFZgHm8PjlIYBpkDJEbwPUWN77CailyWAdASXg7RA=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u6gtLte2s2OyXee9Q8YM4RDCCGkis8kVpi8jpyERP/I=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp38-cp38-musllinux_1_1_i686.whl": [
+          "NZkI9tf7P+aMyOVzhPXhx0TZLsefe7DJ9FA9+xHmvrI=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "jgV1+DjY1u+RlGSq7V+Zmtp5MEUR58H3KRVipK7uNgk=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp38-cp38-win32.whl": [
+          "U1lrUOgdpzsjjp+0Mwdvswwetv4QRzL/lufW4WdBc8c=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp38-cp38-win_amd64.whl": [
+          "LpdQz5ZnqpnHX51UIDALbaNFwxoXGQxZ1glXiuzTPHY=",
+          "cp38"
+        ],
+        "xatlas-0.0.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Jy74diMCy8jBFMY2ouVKv4KCyB2ykN3bmc2GuHLig1k=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "w7WpeJRfgKe4rymPllhJy+TSjd5uuvwHdbGZ7Fd6+cw=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dQdfaF/M+P0Lsm4adInQEkHIbaVNDWoRDFFvyg9TpZ0=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-cp39-cp39-musllinux_1_1_i686.whl": [
+          "8zzz2TomYFj8HGHdmd3hQ98HdTBRosRNI8YdVOls+VY=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "T9nQ2AnImHWPGwcjCHsdr1ZAEiGDqxGMGIa8udKhwKQ=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-cp39-cp39-win32.whl": [
+          "87JhYwxTgc5lbsGkkv14BlW9DyFLwe0NmHrShnLyKTM=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-cp39-cp39-win_amd64.whl": [
+          "obIW9KlbQzlZLprebaNzgIqWQHuIsFRVhU72v632VbE=",
+          "cp39"
+        ],
+        "xatlas-0.0.7-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "MAxZobgv6bZHLl6WO0N7Rg6YnZZTC0pRRrlNRKjkPv8=",
+          "pp37"
+        ],
+        "xatlas-0.0.7-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UvUPk47tlWhOwsny+Fowbp7MrBdnGwq1uCjwoOT+S6Y=",
+          "pp37"
+        ],
+        "xatlas-0.0.7-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "g6kogCW/oY1fHrblh6tzZNC9+T7UtVJc17frwnMzxlk=",
+          "pp37"
+        ],
+        "xatlas-0.0.7-pp37-pypy37_pp73-win_amd64.whl": [
+          "56mmudpv+xyDUZQQsYchS4Rl/OVK2k97BnLDeJv1Qak=",
+          "pp37"
+        ],
+        "xatlas-0.0.7-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "GPA4lM11cpHk43GdadzNmPjRetr/G8NJtPzwwA41z9Y=",
+          "pp38"
+        ],
+        "xatlas-0.0.7-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "4BxLZUleaEmUb15sxRbw5QMX11UfTDbeMfYIIuV74Pw=",
+          "pp38"
+        ],
+        "xatlas-0.0.7-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JGuapKd6sdnDwysA9Lgf+3bPxWzBiRL99uYyOzGo0Jc=",
+          "pp38"
+        ],
+        "xatlas-0.0.7-pp38-pypy38_pp73-win_amd64.whl": [
+          "mDWxAenOpj3G/0ZnwlP+UGqhjxyflXYUSJO3Vp54cOU=",
+          "pp38"
+        ],
+        "xatlas-0.0.7-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "FZUf86zYKesTlYE4pyJO5YeS98kuLZq01jW2MEIfAxk=",
+          "pp39"
+        ],
+        "xatlas-0.0.7-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "1chHNO7stWD1RWsQbPfMgf9N9Z1qis51uKp9zUYzU9Y=",
+          "pp39"
+        ],
+        "xatlas-0.0.7-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Vth56qWHYLBobnABxY/hrhiAxyG76ZVLzabfVsoswgI=",
+          "pp39"
+        ],
+        "xatlas-0.0.7-pp39-pypy39_pp73-win_amd64.whl": [
+          "AoHBQdn8InCNvobeo/SJ55LxaXH4DjiyYuzt8hyTTtc=",
+          "pp39"
         ]
       }
     }

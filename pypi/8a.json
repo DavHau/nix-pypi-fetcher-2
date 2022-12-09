@@ -48629,6 +48629,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "2sP0VSHIQqe3k+58yW2/SQkGZYNlFQY1/nhyjOea2HU=",
+        "gsoup-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "gsoup-0.0.4-py3-none-any.whl": [
+          "fEJbXgFmMFUnBv2IVnB5PB+jhZX7DsysIiaEETbIOu4=",
+          "py3"
+        ]
+      }
     }
   },
   "guzi": {
@@ -59492,6 +59504,12 @@
       "sdist": [
         "8L1VcO0V/B317/tZWDgcQbxDyojGGYmjmpbP2f9/HHs=",
         "komtet_kassa_sdk-7.1.0.tar.gz"
+      ]
+    },
+    "7.1.1": {
+      "sdist": [
+        "MYG0sOusnwsHBw4oHwI5y8jATI0eVgPpI5nfFt+rr/g=",
+        "komtet_kassa_sdk-7.1.1.tar.gz"
       ]
     }
   },
@@ -81702,6 +81720,34 @@
         ],
         "OctoBot_Trading-2.2.33-cp38-cp38-win_amd64.whl": [
           "fYpkeZqBONCLMKj9ei4wwIJ+xQfYHK0RELH137qeKmI=",
+          "cp38"
+        ]
+      }
+    },
+    "2.2.34": {
+      "sdist": [
+        "OMHfRKY7QeLhj6pBF/+/loAYgcipDuY/873frTbsQCQ=",
+        "OctoBot-Trading-2.2.34.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.2.34-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "mV7Q4ScKnusA38LX505FewVNnCc168DcUx0B9HrKPf0=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.34-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "UdMfVtnfAO+ANUHnz3PlBpDx+ogwY7b75pZbj7Pcofc=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.34-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mrlE8bI2z007EGWMjHUtoUJGfstM+NL3KpgYJ7PxUuI=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.34-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "bDnznnFpOxSqNJLozo1DNw5YhP2R7M042VwDYYW9HGg=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.34-cp38-cp38-win_amd64.whl": [
+          "dbcii67mKLlQVzKXLixV18nsw1I4ODwRyMH6LgisZKw=",
           "cp38"
         ]
       }
@@ -124765,6 +124811,20 @@
         "sql_data-0.1.5-py3-none-any.whl": [
           "Cmh2OF4DJ+uJffxrv+u2mGAjI6k6Z368PczRR/pA2q0=",
           "py3"
+        ]
+      }
+    }
+  },
+  "sqlalchemy-async-seeder": {
+    "0.1.1": {
+      "sdist": [
+        "9OHFL8X43IvhpC1j/Au9DEzB5tiG6hPgl0cF16XvoFI=",
+        "sqlalchemy-async-seeder-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sqlalchemy_async_seeder-0.1.1-py2.py3-none-any.whl": [
+          "96Fe4Cn7g4+xTwuw9pL4YBpRDOCesW5v7h+vjo4I3NY=",
+          "py2.py3"
         ]
       }
     }

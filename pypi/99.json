@@ -10049,6 +10049,44 @@
           "py3"
         ]
       }
+    },
+    "1.3.3": {
+      "sdist": [
+        "Q6rD+kPLE/e8VefBGSMFI0jjAgQDarMq22NN0tajwkU=",
+        "auto_tensorflow-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "auto_tensorflow-1.3.3-py3-none-any.whl": [
+          "VV7z3FwzwdJ7Aas5ybAh7oSO2vI1PqV8G4Idcfd8GBg=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.4": {
+      "sdist": [
+        "Bxe7BZ7zRXO0gMH3QAnaBB2/81lhGMPozO4+l1Ovh1o=",
+        "auto_tensorflow-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "auto_tensorflow-1.3.4-py3-none-any.whl": [
+          "oChQW825LNi7p1BS1SsjXl0qYdvRaeUsESlmeJxb0AA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "auto-verify": {
+    "0.0.1": {
+      "sdist": [
+        "fg3fL6rfRplRbk0uzNT8ZSx/d6zzgaQp6lN585fNhLo=",
+        "auto-verify-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "auto_verify-0.0.1-py3-none-any.whl": [
+          "8Z2Ev07qZVBHI6ZHwcqazplEbN7RpdfR3P4/UxPySxA=",
+          "py3"
+        ]
+      }
     }
   },
   "auto-video-cut": {
@@ -28803,6 +28841,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.0.0a2": {
+      "sdist": [
+        "FKSn93BmW5wPsAOGc/8qdawuHp+Nv1BJ5TIHK2OoOps=",
+        "connectionist-0.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "connectionist-0.0.0a2-py2.py3-none-any.whl": [
+          "kXNN3ckTQ0XFPa1Z2GSerUj8bN3YYJS62CP4qrH9EiQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "constantly": {
@@ -34540,6 +34590,30 @@
       "wheels": {
         "deeplcretrainer-0.1-py2.py3-none-any.whl": [
           "O/9krqMZwboWR/ZBL7cEI23Lyjuj8oGBae+MGZondeQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "MMLTBEQL6MkciZEMYDkL73Cwk+gLGMwV2wgbCjcfMAE=",
+        "deeplcretrainer-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "deeplcretrainer-0.1.1-py2.py3-none-any.whl": [
+          "TC/H28vcZoZnUxji8jSbphlerhMXQTRu+iGyQX/x7PQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "NGygxBJv0Q45N11itXst1Z5T+M+KfmZh8q6YYMyzcX4=",
+        "deeplcretrainer-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "deeplcretrainer-0.1.2-py2.py3-none-any.whl": [
+          "2cwhovdnVzEOeWSbeB966voh+n7+AXEs+VVhzwfFo7s=",
           "py2.py3"
         ]
       }
@@ -50888,6 +50962,12 @@
       "sdist": [
         "bFtyy46oMxru+Yonq+D1hiISM0eMZ+49niQhHmxt7hc=",
         "gopro-overlay-0.7.0.tar.gz"
+      ]
+    },
+    "0.70.0": {
+      "sdist": [
+        "JfCpNEciDc2cxc8X4d7ipYzYvv2DdUwedB8qB0ROCzE=",
+        "gopro-overlay-0.70.0.tar.gz"
       ]
     },
     "0.8.0": {
@@ -90524,6 +90604,18 @@
       "wheels": {
         "poltergeist-0.2.1-py3-none-any.whl": [
           "S73MARvjC7MrUs9thqB0c/CHeKTRo3M0S66+fvj7Saw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "Jo0G5sqdyhd7sf22ak1IP1C61I+OnCqbDlJYCguHGH0=",
+        "poltergeist-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "poltergeist-0.2.2-py3-none-any.whl": [
+          "Da1QnX5hFGsR1jZV0q3iqHha2i9QkOur8LqB5FNz/F4=",
           "py3"
         ]
       }
@@ -142164,6 +142256,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ds-3.0.790-py2.py3-none-any.whl": [
           "BE96DWyU40miGuspmanEufT/0tIJNnLZKrLZiLv7jds=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.791": {
+      "sdist": [
+        "WxSYRjxTTJwsF3m6cClFkc5KLNoazZDoSAUSV6s4Q90=",
+        "tencentcloud-sdk-python-ds-3.0.791.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ds-3.0.791-py2.py3-none-any.whl": [
+          "58luoCg26ISCJDoN8R+AYMIeWxZhY4lt2sq4lthIFUA=",
           "py2.py3"
         ]
       }

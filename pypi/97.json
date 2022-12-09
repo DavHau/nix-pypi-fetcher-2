@@ -16864,6 +16864,18 @@
         ]
       }
     },
+    "3.1.0a3": {
+      "sdist": [
+        "8E4nPSmtCHDdnMPqLzxDMg/x05zhCsO77mXz1ducZHk=",
+        "cloudpss-3.1.0a3.tar.gz"
+      ],
+      "wheels": {
+        "cloudpss-3.1.0a3-py3-none-any.whl": [
+          "Igfx/6pdglCdSrjOFl/J844Igty9460UbM9Wh7Pv6Mc=",
+          "py3"
+        ]
+      }
+    },
     "3.2.0a1": {
       "sdist": [
         "USHt1Ljb7dSdqrz1ASJR3E1Plu1ueAf66c3cXInY6HQ=",
@@ -18036,6 +18048,20 @@
       "wheels": {
         "complex_namespace-1.0.2-py3-none-any.whl": [
           "RrAugllemD4BTev5hG0gmncK4Z2Q86Jxm1C6Xct7a/k=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "compromise-marian": {
+    "0.1.1": {
+      "sdist": [
+        "ridGosDvIjVZVlYinYeO6TGlj3BEWAJFzNz7xqir/u4=",
+        "compromise-marian-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "compromise_marian-0.1.1-py3-none-any.whl": [
+          "K6jthNXCYqoz3TWSPxjY8AV6ycGKsTRW18eyqUFO9Wo=",
           "py3"
         ]
       }
@@ -37448,6 +37474,18 @@
         ]
       }
     },
+    "22.12.0a221209": {
+      "sdist": [
+        "jNkxuo9xVr49kfmHC/Btz0oXrvzyXkX3h+jMv9fAFDg=",
+        "dask-cuda-22.12.0a221209.tar.gz"
+      ],
+      "wheels": {
+        "dask_cuda-22.12.0a221209-py3-none-any.whl": [
+          "Ydszep6C9eRV168iHjho/l0fwiE8tSVNlSV9mgiB9aE=",
+          "py3"
+        ]
+      }
+    },
     "22.2.0": {
       "sdist": [
         "aniEUExrXVp8P9IDVmcjZeAAkMtmvzv+YLgAl9FZOUY=",
@@ -41908,6 +41946,18 @@
       "wheels": {
         "dask_cuda-23.2.0a221208-py3-none-any.whl": [
           "DgQZJZdbpm0f8ariBKSDamcVHKG7jGRuNDrbwKjieS0=",
+          "py3"
+        ]
+      }
+    },
+    "23.2.0a221209": {
+      "sdist": [
+        "aKPElmq/3idCj4i8n2l/bKPkLFyPTGfvxy/xzhqHD6w=",
+        "dask-cuda-23.2.0a221209.tar.gz"
+      ],
+      "wheels": {
+        "dask_cuda-23.2.0a221209-py3-none-any.whl": [
+          "mTLbbPndDIRtGkfFzObB1GP7F+4AIY+W4wg/tt0u+tM=",
           "py3"
         ]
       }
@@ -119870,6 +119920,22 @@
         ],
         "pyFAST-4.5.0-cp36-abi3-win_amd64.whl": [
           "VdtWUf/RWyEDXJ+mPfuwKsrSjF7z1hwqOAK6iJLSrT0=",
+          "cp36"
+        ]
+      }
+    },
+    "4.6.0": {
+      "wheels": {
+        "pyFAST-4.6.0-cp36-abi3-macosx_10_13_x86_64.whl": [
+          "cCWWZWh/ThyMkPGYzpMjRoSJ+bqYlkpIGkaHAxe+nDU=",
+          "cp36"
+        ],
+        "pyFAST-4.6.0-cp36-abi3-manylinux1_x86_64.whl": [
+          "HohPIwzsKqy1FnFNH45PhXzHxr62Y8SXFf5tX+RrTq8=",
+          "cp36"
+        ],
+        "pyFAST-4.6.0-cp36-abi3-win_amd64.whl": [
+          "0yWXPuISBMKcDj7sX5Wd54xv5OyHMPUAqdEhdN/y5ck=",
           "cp36"
         ]
       }

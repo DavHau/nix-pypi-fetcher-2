@@ -45713,6 +45713,20 @@
       }
     }
   },
+  "genericformat": {
+    "0.2.0": {
+      "sdist": [
+        "6RDUtuqBx/crjWsycZoo87c8l0PV7uG2YURkGRGOw2o=",
+        "genericformat-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "genericformat-0.2.0-py3-none-any.whl": [
+          "6xLK8hJHpBGNpwxHKY9aSoYAKMZVa4sRccjlieWeF5I=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gengzip": {
     "0.2.2": {
       "sdist": [
@@ -70547,6 +70561,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.9": {
+      "sdist": [
+        "kJ0ksNtxVTxEpueO6pwvHm/C28hCr4lhv1PvRApu5HM=",
+        "mps_motion-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "mps_motion-0.2.9-py2.py3-none-any.whl": [
+          "atPlVInNyOACtJu894JuFD45yNWfX+/eS9osDYiCfTg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "mpvue-tool": {
@@ -79580,6 +79606,50 @@
         ],
         "nautilus_trader-1.160.0-cp39-cp39-win_amd64.whl": [
           "ydhLdKJWItU9OOkplP7/0MXtV7khBD6v7fxS4i7uK0E=",
+          "cp39"
+        ]
+      }
+    },
+    "1.161.0": {
+      "sdist": [
+        "3xd1y5FsSq3ZTogZ+VH5330YpYESUp1mtjMF3purJWE=",
+        "nautilus_trader-1.161.0.tar.gz"
+      ],
+      "wheels": {
+        "nautilus_trader-1.161.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "ZIDXA3K14D/CRUME5MBOH2p9ktrqpTM/yI7WimYQp+k=",
+          "cp310"
+        ],
+        "nautilus_trader-1.161.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "tCIeuDODGjaPHnVUHX6vVaQH190NMfzgJkf256Q3nrA=",
+          "cp310"
+        ],
+        "nautilus_trader-1.161.0-cp310-cp310-win_amd64.whl": [
+          "rrUVyaNtYRpw4y1KdaLo0wFA98z99dvYT9Na621pvYo=",
+          "cp310"
+        ],
+        "nautilus_trader-1.161.0-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "3d5Lwvvx+yJqVlco6EkqOztebH4u+E0pOkZ+j4dm7SQ=",
+          "cp311"
+        ],
+        "nautilus_trader-1.161.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "qGkEcN0P1sk9rJ4oXXqUTAJNHWCMn3z1hn+wTg8gvbc=",
+          "cp311"
+        ],
+        "nautilus_trader-1.161.0-cp311-cp311-win_amd64.whl": [
+          "6Ya5UDfV4mJXbULqCxm8NZl7M3tAgb1rnr2xx5WX1Zs=",
+          "cp311"
+        ],
+        "nautilus_trader-1.161.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "toKzizyQyGWBz2tK5vHykbC8PXSZpBOvYtKGTthhls8=",
+          "cp39"
+        ],
+        "nautilus_trader-1.161.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "4cAzAaHTMtM9CKnFgaDRe37O7aTbWGNqB7USbLAb8+Y=",
+          "cp39"
+        ],
+        "nautilus_trader-1.161.0-cp39-cp39-win_amd64.whl": [
+          "EJHpPSP29f/0KzPsBK3LlVUZf1pGcv6flADQTUZ/QC0=",
           "cp39"
         ]
       }
@@ -107304,6 +107374,30 @@
       "wheels": {
         "PyMyORM-2.0.0-py3-none-any.whl": [
           "rJ7JUSdwoeRA5h35N+riWizc+EgVvLqSsY67iyh63Cc=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "37RwOe1heCc6rYxca9q691nzwHJt0V//JHuHCB+skQI=",
+        "PyMyORM-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "PyMyORM-2.0.1-py3-none-any.whl": [
+          "zLxoWtC8aCJGwazGVNPOZ/3L37jS4OZz+wcFhyYfVGo=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "Ox+4pIIdaos5EEYSPvBLNgwn45gMCstx+ya31WgUVVo=",
+        "PyMyORM-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "PyMyORM-2.0.2-py3-none-any.whl": [
+          "5mjGjWCcqnUU6L1fpRJC5fQ2fa9WBF+wkP8YjZK6ifE=",
           "py3"
         ]
       }
@@ -137856,6 +137950,18 @@
       "wheels": {
         "tencentcloud_sdk_python_bpaas-3.0.790-py2.py3-none-any.whl": [
           "qk/38shs+xyPgkhJNcZVLjaIqJ9qvo74CAuw/gS/G78=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.791": {
+      "sdist": [
+        "qlgTPX20xPj6Gc2q07NUTNwZg74UujQYpHaBq6faayU=",
+        "tencentcloud-sdk-python-bpaas-3.0.791.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bpaas-3.0.791-py2.py3-none-any.whl": [
+          "8DiT1RK48PuUlataqfo86RGRrGQnPSKhOB1Ahe7OFjs=",
           "py2.py3"
         ]
       }

@@ -22327,6 +22327,12 @@
         "XnCuV4rwuvebWTAzO4c1/efxDYbp+5aHEr48AdmJFqE=",
         "cnn2snn-2.2.5.tar.gz"
       ]
+    },
+    "2.2.6": {
+      "sdist": [
+        "3xTkzc4UA14kPAhU24O1jfaGwAeov6pa78MXN1SWBt0=",
+        "cnn2snn-2.2.6.tar.gz"
+      ]
     }
   },
   "coala-quickstart": {
@@ -63951,6 +63957,32 @@
       ]
     }
   },
+  "msm-has-base": {
+    "0.1.0": {
+      "sdist": [
+        "yXYlRMHKACHudw3z4DIMg+KxlCuUtsT3v1ZipEcc8HU=",
+        "msm_has_base-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "msm_has_base-0.1.0-py3-none-any.whl": [
+          "6T8B2DqBYGnXaE3rbwvLRY68B8fO/avJL3oVHHqXwoo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "OOveTgfQppa55DPR0sr27ozsrNZFZaTJDRXBx8+hg/Q=",
+        "msm_has_base-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "msm_has_base-0.1.1-py3-none-any.whl": [
+          "6T2sanD3TeWx9MFJN1T5FkiiWQRpV/m4JnucMEst3ec=",
+          "py3"
+        ]
+      }
+    }
+  },
   "msurrogate": {
     "0.9.0.dev2": {
       "sdist": [
@@ -70957,6 +70989,14 @@
           "py3"
         ]
       }
+    },
+    "0.7": {
+      "wheels": {
+        "ndp_app_deployment-0.7-py3-none-any.whl": [
+          "isMge356SLehqqevYHXY8h6MM3weNbsfXDv3N1MQF+M=",
+          "py3"
+        ]
+      }
     }
   },
   "neatmesh": {
@@ -74668,6 +74708,14 @@
       "wheels": {
         "odoo_addon_document_page_tag-15.0.1.2.0.1-py3-none-any.whl": [
           "Hl7IV61vozjnupXHwwV1vHCCnHbi74KtHbBBcHBg+dw=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_document_page_tag-16.0.1.0.0.2-py3-none-any.whl": [
+          "6yvWPWNUFgkviMkjx3nyFwgo0dZYGu5KpErVNTNPLmM=",
           "py3"
         ]
       }
@@ -118762,6 +118810,18 @@
         ]
       }
     },
+    "0.0.13.dev20221209": {
+      "sdist": [
+        "8U7v8SmUDhFf3TvGjNf5AP4G5b/3UwbTmQZbC7aUHeg=",
+        "seqio-nightly-0.0.13.dev20221209.tar.gz"
+      ],
+      "wheels": {
+        "seqio_nightly-0.0.13.dev20221209-py3-none-any.whl": [
+          "nKwgjv9bmjkh3Ujvm65zWjjy7lLx3g8lh9zO3hOq000=",
+          "py3"
+        ]
+      }
+    },
     "0.0.7.dev20211103": {
       "sdist": [
         "kNZOayVWFdG+gZZ05DQyq5xrzV6zxBNK8i9qgTF/BRY=",
@@ -137380,6 +137440,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ciam-3.0.790-py2.py3-none-any.whl": [
           "VA9RJ+lTYxGuTHX75hTn0a18TZFhZyn8FIHH5DG9wl4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.791": {
+      "sdist": [
+        "VI5uuKnrzYUh7+Qb7cPp2bNvGby8b9xh4NeRY7E/pTU=",
+        "tencentcloud-sdk-python-ciam-3.0.791.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.791-py2.py3-none-any.whl": [
+          "k3FbU2rgbh7HNcB2yC4JOw7aFrt2aSuXHvrG1bsPnFw=",
           "py2.py3"
         ]
       }

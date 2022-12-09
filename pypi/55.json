@@ -58363,6 +58363,12 @@
         "76nh2gae+lBwqT1PdR/xq6ptJ0iyOZXZhXnu2zCnbwM=",
         "iscc-sdk-0.4.8.tar.gz"
       ]
+    },
+    "0.4.9": {
+      "sdist": [
+        "URlJDKEli6viBhvJfOYZlY3K3Gljoftl+lhJ5FgdzPI=",
+        "iscc-sdk-0.4.9.tar.gz"
+      ]
     }
   },
   "isi": {
@@ -120077,6 +120083,30 @@
           "py3"
         ]
       }
+    },
+    "0.6.1.0.0": {
+      "sdist": [
+        "6VKXRbylTWe+36vz2GidcfCMAwNroYxQAwtAS45+kwY=",
+        "SPAIC-0.6.1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "SPAIC-0.6.1.0.0-py3-none-any.whl": [
+          "CAbLkSXoNIFD3JqqtwakcA+8EaVMEdSopZNdRsJhbK0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1a0": {
+      "sdist": [
+        "aDz9TACYvkjz89NCiDgdn2x+/mSY7rATAUFbGLjWYGE=",
+        "SPAIC-0.6.1a0.tar.gz"
+      ],
+      "wheels": {
+        "SPAIC-0.6.1a0-py3-none-any.whl": [
+          "69tIn6AOhBBJq3sh079eQ6DKIjcx+7vmbTjeodIxUDw=",
+          "py3"
+        ]
+      }
     }
   },
   "sparing-easy-audit": {
@@ -130504,6 +130534,18 @@
       "wheels": {
         "tencentcloud_sdk_python_pds-3.0.790-py2.py3-none-any.whl": [
           "pds8GvLFA+17Xt+DIPzrXiZXSt9vKMW/T2JnlgsdwIg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.791": {
+      "sdist": [
+        "jMhbiTd2fpdOUNNONnDN1GEUJaOuRjaO5td1v95HDjg=",
+        "tencentcloud-sdk-python-pds-3.0.791.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_pds-3.0.791-py2.py3-none-any.whl": [
+          "subuevVQzegTEQ2/GP/slqlSzobligL6KOEjT8YTEvY=",
           "py2.py3"
         ]
       }
