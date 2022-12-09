@@ -16685,6 +16685,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "wheels": {
+        "bmb_klondike_client-0.2.0-py3-none-any.whl": [
+          "AJ7RPnJmQAnNIpgOAOrExL3RkAGxKl2ZNXGvImbmFNA=",
+          "py3"
+        ]
+      }
     }
   },
   "bmpxlsx": {
@@ -76820,6 +76828,30 @@
         ]
       }
     },
+    "0.30.2": {
+      "sdist": [
+        "dpQPgq02WAyHH6DiKDPLFB4nvgLMucCaeNYYHUDOdtc=",
+        "mp-api-0.30.2.tar.gz"
+      ],
+      "wheels": {
+        "mp_api-0.30.2-py3-none-any.whl": [
+          "yhA8aGmDxo8xT0Yf76leJS+o8U3GoyPF4UBzzs8cWoo=",
+          "py3"
+        ]
+      }
+    },
+    "0.30.3": {
+      "sdist": [
+        "zvGydl9kjXo7YnuAsbc2GsYMS7m0uoH+DZkzsYJ5Lww=",
+        "mp-api-0.30.3.tar.gz"
+      ],
+      "wheels": {
+        "mp_api-0.30.3-py3-none-any.whl": [
+          "269ks7vyHE+T6Ksj/VuAfNIsUsFOmdmT1leLPWCmAjk=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "lNh5/vOTQ6ol6a4hAwsAWhly3HqBn3V7IPYMotHhP9M=",
@@ -92280,6 +92312,14 @@
       "wheels": {
         "neon_skill_caffeinewiz-0.2.2a1-py3-none-any.whl": [
           "ZEUr2GrJFK+fENMVFf2GeTEZSmIK1Ydrq/qL7z5hm/0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2a2": {
+      "wheels": {
+        "neon_skill_caffeinewiz-0.2.2a2-py3-none-any.whl": [
+          "L/8ZtQf2C3eDhvcBw9N0MFLQ7lI32I+6MWmEZ4JcNgc=",
           "py3"
         ]
       }
@@ -120316,10 +120356,10 @@
     }
   },
   "sansilibrary": {
-    "0.0.2": {
+    "0.0.3": {
       "wheels": {
-        "SansiLibrary-0.0.2-py3-none-any.whl": [
-          "JY1qGKLjuW8zxD/JwPzN8oUjrlRwBPObatiNpcGbf/I=",
+        "SansiLibrary-0.0.3-py3-none-any.whl": [
+          "vRoYEcpIO2K9qUM7nT++L8GlkHIGEGg7cbjIsCK8qkY=",
           "py3"
         ]
       }
@@ -149582,50 +149622,14 @@
     }
   },
   "zone-common": {
-    "0.0.2": {
+    "0.0.7": {
       "sdist": [
-        "JBQUC+tA/v0Qwb/FSlpgnW0ixLjO0fMf5+ZDApcHJew=",
-        "zone-common-0.0.2.tar.gz"
+        "fyBMQIKJmoL2a0Nalnkvogefn9fNdiFDRUUF9LuDyZs=",
+        "zone-common-0.0.7.tar.gz"
       ],
       "wheels": {
-        "zone_common-0.0.2-py3-none-any.whl": [
-          "GLdJesPDzD/TnA5+ilFupVZfOgzKkc2s/6OMIwyamWc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "zoIoTkR/UxzmJge1/PnpnualvETFNdK7CfrDDuvOCjE=",
-        "zone-common-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "zone_common-0.0.3-py3-none-any.whl": [
-          "YqFk+B1XbacHfFSIT7iTBfDh2mSp84SCixTyGPk7TLY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "cKg/gZ1CFjudhfypu7xhB6XWk7vJWT9zvT3H2re38vo=",
-        "zone-common-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "zone_common-0.0.4-py3-none-any.whl": [
-          "oDM+UpR8WB6RYmH8uUdRH78f8DbbTX1N0QnhsPWdXY0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "4+eL9HA+ZPDFx0ZtS12pbAOPPqOS4gdsIEk06Zf4DcY=",
-        "zone-common-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "zone_common-0.0.5-py3-none-any.whl": [
-          "HUY0846IahyPyAiXZrxXWz7w2yF9mU88lFcgqpDSYgM=",
+        "zone_common-0.0.7-py3-none-any.whl": [
+          "8VOKBaSLO7v+mPZTK5Oi5YDYzRY8BOOWs3xxI0i2/74=",
           "py3"
         ]
       }

@@ -5635,6 +5635,30 @@
           "cp39"
         ]
       }
+    },
+    "2.1.55rc1": {
+      "wheels": {
+        "anki-2.1.55rc1-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "xK1BejqnyZiHcArfO8L21TGbzO5/pjKK1xa6lkLnxuE=",
+          "cp39"
+        ],
+        "anki-2.1.55rc1-cp39-abi3-macosx_11_0_arm64.whl": [
+          "c0EkZdG0R6eL47y7HZjlONdZgz+hIufhU0A6VLpmK4M=",
+          "cp39"
+        ],
+        "anki-2.1.55rc1-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "5VK/u14ENvQrCZ+2spGwsDfeO3gqunarlGv31xiCJH8=",
+          "cp39"
+        ],
+        "anki-2.1.55rc1-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "9EyamjJwzQkeYPzFCdiovAP/uXDQ9fZsVWhoJKNickE=",
+          "cp39"
+        ],
+        "anki-2.1.55rc1-cp39-abi3-win_amd64.whl": [
+          "43apToYciTSjyjoxraGQrAADhkAIRyT6BRtf7cyrwow=",
+          "cp39"
+        ]
+      }
     }
   },
   "another-statistic-distributions": {
@@ -10006,6 +10030,18 @@
       "wheels": {
         "aws_recommendations-0.0.4-py3-none-any.whl": [
           "iSd1ax2XBxyespvG0LzOiYmJETmOZcm5XyFJ+CjAins=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "FnZpriTXdy9F2781NNohKlSFe5MIscaMtlnUeG9USEA=",
+        "aws_recommendations-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "aws_recommendations-0.0.5-py3-none-any.whl": [
+          "gdbWTP1UypEWQy7Lxf9WdRHT1tDvpDwzk4b+QCDls/s=",
           "py3"
         ]
       }
@@ -67851,6 +67887,12 @@
         "vp0PQQiAAXV219FV1107sNq4jHOjKYVnSXgGAZWHCD8=",
         "kirui-0.5.2.tar.gz"
       ]
+    },
+    "0.5.3": {
+      "sdist": [
+        "D3NUVRORy4Z2TvVa+L8YQ0UWEB+Wke4ZDtlcGTTodZc=",
+        "kirui-0.5.3.tar.gz"
+      ]
     }
   },
   "kisscartoon-api": {
@@ -83953,6 +83995,18 @@
         "S6KzFJ8qzPrr0H/J74gO6roTkyAhyIzV+cde0Gm+oNs=",
         "needle-shape-sensing-0.7.2.tar.gz"
       ]
+    },
+    "0.7.3": {
+      "sdist": [
+        "FSMB1UK9ezdHMIprPjP9k+OkiB00cJPYU9ApaJii3iU=",
+        "needle-shape-sensing-0.7.3.tar.gz"
+      ]
+    },
+    "0.7.4": {
+      "sdist": [
+        "Izrl/W1clQz7xyRvTfwZwunGU6yiEBrvNHjxLiyMnhQ=",
+        "needle-shape-sensing-0.7.4.tar.gz"
+      ]
     }
   },
   "nembis": {
@@ -84300,6 +84354,14 @@
       "wheels": {
         "neon_skill_alerts-1.0.2a10-py3-none-any.whl": [
           "6/EICoG0/igkiJiKEFX/ILgZnXpYB3Y7D+nIHUzYimg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2a11": {
+      "wheels": {
+        "neon_skill_alerts-1.0.2a11-py3-none-any.whl": [
+          "pe4KLkRIojs2WLyTE/YJnX5+QieKrVtQfoKGDZUrfFg=",
           "py3"
         ]
       }
@@ -90144,6 +90206,18 @@
       "wheels": {
         "osirispy-0.0.11-py3-none-any.whl": [
           "5KFZtCIQt11Sp3opTUt6jq9NHRu5JlpbcU8j2sfZs8M=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "MOWShQgqXd30W3RcbEAoC8yTkab7t2lNrr+vkG3GMKg=",
+        "osirispy-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "osirispy-0.0.12-py3-none-any.whl": [
+          "uXUmkM3tJoUVBH16qOsVmSgrdM6c4PA2RLTNZxWbtmc=",
           "py3"
         ]
       }
@@ -98569,6 +98643,20 @@
         "RED/b0l8mYOIn5O7/QDeHcmngMh+llTdBJmX3pbA9Rs=",
         "pss-1.44.tar.gz"
       ]
+    }
+  },
+  "psychopy-sounddevice": {
+    "0.0.1": {
+      "sdist": [
+        "+9a82vNlCpuGL9lflwZXoYyGW4ffSuaEpv+N0T3oLLY=",
+        "psychopy-sounddevice-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "psychopy_sounddevice-0.0.1-py3-none-any.whl": [
+          "sJsGmV6p6VqHAfdACyNZxYZeJZn5THRLFwgngeGntBA=",
+          "py3"
+        ]
+      }
     }
   },
   "ptt2json": {
@@ -126448,6 +126536,14 @@
       "wheels": {
         "specfabpy-2022.12.3-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "KwoUfhj/wFsfFoTwHaduHayNJ4/KdkhJ3V21Xsr1BgQ=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.8": {
+      "wheels": {
+        "specfabpy-2022.12.8-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0GbDbuC5ab1LSYafNQkx92PLWZW56I5iimQD0HD0ymg=",
           "py3"
         ]
       }

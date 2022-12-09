@@ -35652,10 +35652,10 @@
     }
   },
   "demo-same-package-one": {
-    "0.0.1": {
+    "0.0.2": {
       "sdist": [
-        "NX5+NHaXaw9xMS0+Ap2K4P6Af7ybbKJjIq45bpZNOig=",
-        "demo-same-package-one-0.0.1.tar.gz"
+        "8jBlQy4o2BgEuHq89OXAjiqyGNmA1svMWYU68j8joGE=",
+        "demo-same-package-one-0.0.2.tar.gz"
       ]
     }
   },
@@ -43612,6 +43612,18 @@
       "wheels": {
         "doppler_env-0.3.0-py3-none-any.whl": [
           "g1NuQp6Cyo6AiE2nF913KAgHJsyJY4eDt+6OZ8hTXpE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "0YfCz2oN7Gd8AK9QLVmzgtUH1pzZgF6p6CEYYL0KoPc=",
+        "doppler_env-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "doppler_env-0.3.1-py3-none-any.whl": [
+          "TIBDf4dce7hcmA56O/lv/1lNHhsFuZtJsC5nP7qi1lw=",
           "py3"
         ]
       }
@@ -55241,6 +55253,20 @@
         "hadoop_test_cluster-0.1.0-py2.py3-none-any.whl": [
           "kfJy4jfjXSMopDXkk1fhRvKaxWQWY/FYRFeG8Q3e5Ss=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "hallucinate": {
+    "0.1.0": {
+      "sdist": [
+        "EM3RxmJrIMWNr/29vfdymHVIy+1lBreEUGyHfg/GCHU=",
+        "hallucinate-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "hallucinate-0.1.0-py3-none-any.whl": [
+          "KtoX+fvkx1aFtiamH9F2v9KbScUoLyPyH5lm70bYoD8=",
+          "py3"
         ]
       }
     }
@@ -74744,6 +74770,18 @@
         ]
       }
     },
+    "0.10.3": {
+      "sdist": [
+        "ojEa8szQC4J0J1IJM/GuGMAlNNbJZqY7Vzw/jMixmbk=",
+        "munet-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "munet-0.10.3-py3-none-any.whl": [
+          "Dun3pMgmOWPxi0oAnloS99UaWcl3QkCvyWD5CsNGXrs=",
+          "py3"
+        ]
+      }
+    },
     "0.2.1": {
       "sdist": [
         "wW6e26F3T0A5FXKGrfuvJrZQyYl4eTmTHgX34RoSvRE=",
@@ -76730,6 +76768,14 @@
       "wheels": {
         "neon_skill_launcher-0.2.0-py3-none-any.whl": [
           "v7XSHh7Pikpstfv5G8P4zWNUS97x98sdyH7gdu+2uCk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1a0": {
+      "wheels": {
+        "neon_skill_launcher-0.2.1a0-py3-none-any.whl": [
+          "GozSGqq8ig/QJ/43C5618SwZT8b5Oe1MKp08SIq4/VM=",
           "py3"
         ]
       }
@@ -136204,6 +136250,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.789-py2.py3-none-any.whl": [
           "88srwkRbd8I22w7Q4wp/Z9TL03zMg9x/9P7muhnRxMU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.790": {
+      "sdist": [
+        "0kGj66cSOHtdG1VQvQFrPjQ2HgLMqTH1RB2QWiUuHMg=",
+        "tencentcloud-sdk-python-ckafka-3.0.790.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.790-py2.py3-none-any.whl": [
+          "8nGgbGcS+gNYiQ+0v+/fmcYqhIDtsLrCYozs2swjG/A=",
           "py2.py3"
         ]
       }

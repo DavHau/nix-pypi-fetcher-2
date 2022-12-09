@@ -30298,6 +30298,18 @@
         ]
       }
     },
+    "0.17.6": {
+      "sdist": [
+        "oeJoDjkVJitHGa4LXZxiUyYLFVlYTh7bPWEBF9bcprU=",
+        "dagster-celery-docker-0.17.6.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.6-py3-none-any.whl": [
+          "U1sX0p09omE7KqNtTuqfloZ4qHsx76xepDXiLnF34Ec=",
+          "py3"
+        ]
+      }
+    },
     "0.8.10": {
       "sdist": [
         "BGqOH1JiVXb9l1ydVPNzEbmWLodTBm7ZCrQlF4PScgA=",
@@ -91635,6 +91647,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "Pr2JkTvVKffs1fzW0U2jL3F+XGb4WXW1t6MdWOklG4Q=",
+        "orbit-nrel-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "orbit_nrel-1.0.7-py3-none-any.whl": [
+          "2IEDThnsFwEWznqRy2y5wsdX3HOJ2UNDDaccbYFeYww=",
+          "py3"
+        ]
+      }
     }
   },
   "orioptimization": {
@@ -136612,6 +136636,46 @@
         ],
         "tensorflow_data_validation-1.11.0-cp39-cp39-win_amd64.whl": [
           "Y6bKs6g4e0E7Ix2lgH2ke3IHpk3vr0ibtdGDXDUOxS8=",
+          "cp39"
+        ]
+      }
+    },
+    "1.12.0": {
+      "wheels": {
+        "tensorflow_data_validation-1.12.0-cp37-cp37m-macosx_12_0_x86_64.whl": [
+          "JqeCSsUaXfFxT8GG9SjjVLddPnfWvMqXK2JnBPSgdKk=",
+          "cp37"
+        ],
+        "tensorflow_data_validation-1.12.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "i2hDDloErOiqTW+6x75Ln3J3H9uqIwNvYvObXWXf0oU=",
+          "cp37"
+        ],
+        "tensorflow_data_validation-1.12.0-cp37-cp37m-win_amd64.whl": [
+          "8IAQ7RKySeGTv2UiAKWwk7qDBG5F4xcr8dwS/tkQIPM=",
+          "cp37"
+        ],
+        "tensorflow_data_validation-1.12.0-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "O0b9HnCCuLJ8n44lofr7fpSLoKOC3Q2iF8mFBKHhWlw=",
+          "cp38"
+        ],
+        "tensorflow_data_validation-1.12.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "9r2wg7mCJj53a+1jMp7Grz9JuCvGHLgM5pp2oLhnRvs=",
+          "cp38"
+        ],
+        "tensorflow_data_validation-1.12.0-cp38-cp38-win_amd64.whl": [
+          "hCg59e2N7x0tazb1sFD50sUisXP99c4/gJOvCKr9t48=",
+          "cp38"
+        ],
+        "tensorflow_data_validation-1.12.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "PY9wjwoTTyPphyEWQEpl76dq1QdpPEMfxg8A1x+CjBE=",
+          "cp39"
+        ],
+        "tensorflow_data_validation-1.12.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "McI+K1QpJuTwJk+nWWEKElLdzF8+eX5izS+hHH860TA=",
+          "cp39"
+        ],
+        "tensorflow_data_validation-1.12.0-cp39-cp39-win_amd64.whl": [
+          "R7AjEaWEqAeA4YHwszPaBbLEVG9hYwsBhDOsv3+oSPk=",
           "cp39"
         ]
       }

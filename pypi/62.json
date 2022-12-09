@@ -24453,6 +24453,12 @@
         "k2z26fO7qghQy9RJ8taX5sN3AxJapjUoy6/5yOXpE0Q=",
         "cmpitool-0.1.2.tar.gz"
       ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "5tJZOoMnLp5+/6EtgAasYCJOdxBi+h7wXqz5iVSoBUI=",
+        "cmpitool-0.1.3.tar.gz"
+      ]
     }
   },
   "cmsplugin-googlemap": {
@@ -30342,6 +30348,30 @@
       "wheels": {
         "cyberdrop_dl-3.6.23-py3-none-any.whl": [
           "St9A14BY0ozz53hP4btDx/z6fDOFagWrULoN9mcKmE4=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.24": {
+      "sdist": [
+        "qk4z7UUAeMCHk/E3Kk5NBNSl9/3tJcUgDSURCLe3lmk=",
+        "cyberdrop-dl-3.6.24.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.24-py3-none-any.whl": [
+          "llKoMhOUZUOEwzgm/gO2fLrluQTKAJS+WkPlao4VvkY=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.25": {
+      "sdist": [
+        "L3+5R/tx+yv++NAy5rmXrlaQ6MRf4wJL32h5Izurb7M=",
+        "cyberdrop-dl-3.6.25.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.25-py3-none-any.whl": [
+          "o/zSJk8/88+N8rijJKQZXFBFDS86CfSztIqKJNmlwgM=",
           "py3"
         ]
       }
@@ -40655,6 +40685,20 @@
         "+Q5tDP9GomXfE4BFEvyvXMLPRcf3pto1GC6ZlNYLSXg=",
         "dlp-1.0.76.tar.gz"
       ]
+    }
+  },
+  "dmpack": {
+    "0.0.0": {
+      "sdist": [
+        "pRmlGGa33li46B706H0rM/8yRaeq4yn0azBnB9FPIl0=",
+        "dmpack-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "dmpack-0.0.0-py3-none-any.whl": [
+          "nJPbP+PMLHrTEQ4TEcqTGkbLI9wnTtIuoXsuCsTlx5Q=",
+          "py3"
+        ]
+      }
     }
   },
   "docker-dep": {
@@ -126049,6 +126093,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.790": {
+      "sdist": [
+        "eLtW2ZVSIQvwTGPNK2IlqbMrwSdbpZ2Lg+IMxSeMFrM=",
+        "tencentcloud-sdk-python-cynosdb-3.0.790.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.790-py2.py3-none-any.whl": [
+          "DRYeaUKpk4HqeLLL+mk/zHP/EQHlZFi03E2Fw2aVeao=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenet": {
@@ -126418,6 +126474,14 @@
       "wheels": {
         "tensorflow_transform-1.11.0-py3-none-any.whl": [
           "4Fv2bj+qP622/lcSiPpcxdhgjE/0cFjbMQaHVdemD50=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.0": {
+      "wheels": {
+        "tensorflow_transform-1.12.0-py3-none-any.whl": [
+          "TJnd8VgK8vhmRwUTwQI2Rv0vR+z0gebKUaNx8CochWk=",
           "py3"
         ]
       }

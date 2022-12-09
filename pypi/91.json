@@ -1585,6 +1585,14 @@
           "py3"
         ]
       }
+    },
+    "2.2": {
+      "wheels": {
+        "afilter_vsp-2.2-py3-none-any.whl": [
+          "+OjjrAkReY+h7EWBzdUnbI1abFAUiuvTAyFig1eBnjQ=",
+          "py3"
+        ]
+      }
     }
   },
   "afnews-comprehend-api": {
@@ -8358,6 +8366,18 @@
       "wheels": {
         "bblocks-0.4.2-py3-none-any.whl": [
           "UW+VmEd8eeMMtzAMCYjzlhOUqSShI8myD7mYWoOEml8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "sgKV/p+mfDGCpLbVdonWvaPM2YEawybGsr31TywAwRs=",
+        "bblocks-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "bblocks-0.4.3-py3-none-any.whl": [
+          "f+I5NzuSHKESvclKXV4LBrNL2R54mhOy+TV9qXgOc68=",
           "py3"
         ]
       }
@@ -15247,6 +15267,20 @@
       }
     }
   },
+  "clearblade-cloud-iot": {
+    "1.0.0": {
+      "sdist": [
+        "j/7x76p8cxZd7L0CP6RqEan97aHPJrBXcvw+Tr8ldjw=",
+        "clearblade-cloud-iot-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "clearblade_cloud_iot-1.0.0-py2.py3-none-any.whl": [
+          "NKB4Z73EoN3T6gkb16wFa03dXazpP3OiTUzMLedzdDo=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "clicksend-client": {
     "1.0.0": {
       "sdist": [
@@ -21882,6 +21916,42 @@
       "wheels": {
         "CSCN73030_Attendance_Module-0.11.0-py3-none-any.whl": [
           "DbhMiGNRUo877N898+GhJk2R8r8CZAwYOVtkh0/yw/k=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0": {
+      "sdist": [
+        "/Rx0AhRBkSvlhL/gHA/crK1QpWm3LgZPZHrFKspPM2U=",
+        "CSCN73030 Attendance Module-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "CSCN73030_Attendance_Module-0.12.0-py3-none-any.whl": [
+          "VeryuHK1jhN4oAt5NGJnWwa4WtU0OE2Rwjnbbty4kkk=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0": {
+      "sdist": [
+        "qtXNRbDzrnFc3uJCApJPWWD6M78Zbgs0hP6u7aJwZBk=",
+        "CSCN73030 Attendance Module-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "CSCN73030_Attendance_Module-0.13.0-py3-none-any.whl": [
+          "0eYEdyDdcOdzI2ZRXzjhe31TUcWZeI3riOBguT5UwU4=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0": {
+      "sdist": [
+        "UkARHo27e+CJvoC51YjaxjDRSJ1QbxaniPX4zEEbm20=",
+        "CSCN73030 Attendance Module-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "CSCN73030_Attendance_Module-0.14.0-py3-none-any.whl": [
+          "NO8WOuMzaFk+bu4sDpjliu0NNAbC5RC6ZfTVq/XLtns=",
           "py3"
         ]
       }
@@ -41289,6 +41359,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.0b2": {
+      "sdist": [
+        "B5Plpk/SbZEitdfcxSjvF8g5VgYlE2fTmQbj4yUkS60=",
+        "flytekitplugins-awsbatch-1.3.0b2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_awsbatch-1.3.0b2-py3-none-any.whl": [
+          "J+MxOeiY/eJuRIxth0hBuGi9lLa/XfBdXM45/C+mh0k=",
+          "py3"
+        ]
+      }
     }
   },
   "flytekitplugins-hive": {
@@ -43336,6 +43418,18 @@
       "wheels": {
         "flytekitplugins_hive-1.3.0b1-py3-none-any.whl": [
           "zU/2Dz9o61hKo2Nv9seyrbKmk+UhqadhaYZbpGDDlZc=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0b2": {
+      "sdist": [
+        "5RCTu/zlSQWgGy8/0wycfI7x6Tann0TAwa13JZ349qk=",
+        "flytekitplugins-hive-1.3.0b2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_hive-1.3.0b2-py3-none-any.whl": [
+          "CS2vk7SryYX4eiRXFXSpPcgfJI8PJxkZ1RMQaGVyXJw=",
           "py3"
         ]
       }
@@ -99169,6 +99263,12 @@
         "XBZaJ6j859ZcbGYzKX4aqne27G57SKGc0t712iJPnQg=",
         "py-qgis-server-1.8.5.tar.gz"
       ]
+    },
+    "1.8.6": {
+      "sdist": [
+        "v6FvVy2JB75K0NbG1EAhLYOMUGUMXsy0HO0jwBCXqbE=",
+        "py-qgis-server-1.8.6.tar.gz"
+      ]
     }
   },
   "py-restclient": {
@@ -134866,6 +134966,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.789-py2.py3-none-any.whl": [
           "9txC8aHm6r+pi9g4Ks/9UKgQl6/XHmgUUeKi37hvvHU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.790": {
+      "sdist": [
+        "bTpMeKrMMngeaDcrV/UF9O2mw0GuXsPhpHTsLNNfl8Q=",
+        "tencentcloud-sdk-python-mps-3.0.790.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.790-py2.py3-none-any.whl": [
+          "hvFoiaoXxMKa38mUyGDzXH4wvled8qx2aePGype6Hms=",
           "py2.py3"
         ]
       }
