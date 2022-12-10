@@ -3163,6 +3163,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "3BS8RlctX2fkZlrpNUCkQY+/WMo8DDmi22nt1I3zWmI=",
+        "alibabacloud_ft20210101_py2-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ft20210101_py2-0.0.3-py3-none-any.whl": [
+          "6THWDgwLCD/UfqwNJOrBM8IgGTTm68g1Gpodj4L3m9c=",
+          "py3"
+        ]
+      }
     }
   },
   "aliyun-python-sdk-dybaseapi": {
@@ -89885,6 +89897,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "wheels": {
+        "patchmentation-0.1.1-py3-none-any.whl": [
+          "X2AgayIYPPKjAk2orBKfPCxKgKjkKagKn3/EZTmdxD8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "patchmentation-0.1.2-py3-none-any.whl": [
+          "i+guWSDJVS1GdXCbf2GsssQ2e0IW37MMzKwdCVog3/U=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "patchmentation-0.1.3-py3-none-any.whl": [
+          "06W9XOYmtxweFBJ2+sobVK+GVyG0ITXzN/JRKtBG8DY=",
+          "py3"
+        ]
+      }
     }
   },
   "pathpy4": {
@@ -111752,6 +111788,74 @@
         ],
         "robotpy_halsim_ws-2023.0.0b5-cp39-cp39-win_amd64.whl": [
           "k6DRVNeLBgKjeuGwCGvwgchvMQKVicKRXz4taS3cp4M=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.0.0b6": {
+      "sdist": [
+        "hOA8e6g6sf3voktbvzE7LDeUefMLmKoprketEhmJlFs=",
+        "robotpy-halsim-ws-2023.0.0b6.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_halsim_ws-2023.0.0b6-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "bHvHlYUBm3RVfMlPwL0DaVKZ3E1Qr5nSyV3jyp20aRw=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "iCNNL7jUmDW2FWVPoioptEz9D9GgWy5ANllIMnxdiFc=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp310-cp310-win_amd64.whl": [
+          "e4PqbgOSGpsMg7Sh/0oVrip8nup5kV5S1kjKN33aaEU=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp311-cp311-macosx_11_0_universal2.whl": [
+          "Noxn84gF5pSS16MzhsdouUNi9xlgeOVmJY7mvvMuQpk=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "L/62/LGkWXJluw4sSkUtgbOdwamnqcJgJCjDEdBCpTU=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp311-cp311-win_amd64.whl": [
+          "mh/vyI9MKVgfH33iDf6T9LAktEbwSI08t9aMnhBMgRk=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "z8U7VXXyrONwcrRRF2Uvoxn1Ri3mKDeYQ7Vyfhplch4=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "YdFs33zxIAtFzIXlmBeStpP+TZTUpcLLQI1yyA+SNz4=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp37-cp37m-win_amd64.whl": [
+          "8B5EyuqXygUpRrMhrdfeK6XzzTpnXcpTn0uUTqKVaEo=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "ZSyUDgBqvPIZSvLia5r7ZWV69YQgIzm0z7rtwh37p2U=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "UIj6hiwURuNS5mlJ8jsoUF48Xp9UcFOK6GFPl81Ttdk=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp38-cp38-win_amd64.whl": [
+          "p8v6vw2F2pjuYVy/wmC12qUEmZh9BDGQKlQQOTe57kQ=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "BdDQvSsW2BC2KGX5W2qMSk+db0Xsq/h9IJa07BC/4a0=",
+          "cp39"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "1z9ORVnhVBcI5XPurm0EdbdZIsE6RK5MVk2qQTExbVc=",
+          "cp39"
+        ],
+        "robotpy_halsim_ws-2023.0.0b6-cp39-cp39-win_amd64.whl": [
+          "D7OD87bkbwXguQbZrU8od+5OU8RQj66WQ6q6dEIdd4U=",
           "cp39"
         ]
       }

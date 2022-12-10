@@ -63911,6 +63911,12 @@
         "ZVuZuNo2I8LarNgsqMxA5K+AQ49t8xY90i8gfKyqtDo=",
         "localstack-ext-1.3.1.dev20221209173347.tar.gz"
       ]
+    },
+    "1.3.1.dev20221210130821": {
+      "sdist": [
+        "Es69+Sx340wySQit7iwUcFQaKmPRwW5AzYWLN54VHiI=",
+        "localstack-ext-1.3.1.dev20221210130821.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -78381,6 +78387,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo13_addon_stock_orderpoint_purchase_link-13.0.1.1.1.dev1-py3-none-any.whl": [
+          "DnJ0mzuOdoOnJUhfaaWMfpX+zV3VFNda9YuYCvYC8Lg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-delivery-carrier-partner": {
@@ -91642,6 +91656,18 @@
       "wheels": {
         "poetry_plugin_pypi_mirror-0.1.0-py3-none-any.whl": [
           "gYhwZPsawyNMGOt6LpJBASG551cyaTH8ThrUnXsgILA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "g6+iurbwBXaQmYkmq78iAJ9au/x/twVnkbQf5+xqDkU=",
+        "poetry_plugin_pypi_mirror-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "poetry_plugin_pypi_mirror-0.2.0-py3-none-any.whl": [
+          "tminG/nMz1D6AoS3FekANzDf9QXSroNKgI3E07VovLg=",
           "py3"
         ]
       }
@@ -116206,6 +116232,18 @@
         ]
       }
     },
+    "0.8.29": {
+      "sdist": [
+        "3tnIEmbIauUD7zkpApU2PKnwReSM3tSqvyMLNPdHzQo=",
+        "serenity.sdk.python-0.8.29.tar.gz"
+      ],
+      "wheels": {
+        "serenity.sdk.python-0.8.29-py3-none-any.whl": [
+          "koGAPdDZjQ9FzZNsLsk2krGBKPXvvLpJipfxCF5YIQ8=",
+          "py3"
+        ]
+      }
+    },
     "0.8.8": {
       "sdist": [
         "92UkEqzsUzzL0SBHfkaaEwtWB5v4qXzYEU1i3bM4Ezc=",
@@ -132854,6 +132892,32 @@
       "wheels": {
         "tl2-0.1.0-py3-none-any.whl": [
           "5F4Rh0SRob1Rpsblol4U+34AvHt4/7aa4R+z5xweWWM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tl3api": {
+    "1.0.0": {
+      "sdist": [
+        "7acTvxleRgZuOPr9apQ33nhvXel0WtJxK06ZxBlHCu8=",
+        "tl3api-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "tl3api-1.0.0-py3-none-any.whl": [
+          "DTmlZmkZoPI0ujwAEo+uPgWkWed2aOGn1z0vj7LkiO8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "7oARecuRknMa5ir5bwzC0HEJHAfhBgmcHxfAe4ukyLI=",
+        "tl3api-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tl3api-1.1.0-py3-none-any.whl": [
+          "7PwQJx4RwjD60xSkGlj9/npzpE/M/xzNmBmGhyZLQTo=",
           "py3"
         ]
       }

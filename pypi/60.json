@@ -13531,6 +13531,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221210": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221210-py3-none-macosx_10_11_x86_64.whl": [
+          "2v+tWLApnhkBmLRsrJxcjQhR7AFFus8j/XVliveNK/I=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221210-py3-none-manylinux1_x86_64.whl": [
+          "kASTil5Kqokzjv01/GNJ2OY9LJIR0C3qDpI2LKFN7os=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -101524,6 +101536,14 @@
         ]
       }
     },
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_web_refresher-15.0.1.0.0.4-py3-none-any.whl": [
+          "Uvbn7N2wwLuf0q9XN1v5WNZUv4zUokwXQhptqfFjaCA=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.0.2": {
       "wheels": {
         "odoo_addon_web_refresher-16.0.1.0.0.2-py3-none-any.whl": [
@@ -124108,6 +124128,20 @@
       "wheels": {
         "pytest_shortcuts-0.4.0-py3-none-any.whl": [
           "eNh+cnKEjq+zlNIMGNpW9urdKYJO2jVxUcg3M+IvRkM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pytest-sqlfluff": {
+    "0.1.0": {
+      "sdist": [
+        "gbcCJjaocTTQbxADUWpGlGjUNeDB7+K16TzHC2PShgg=",
+        "pytest-sqlfluff-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sqlfluff-0.1.0-py3-none-any.whl": [
+          "PsiAgo52YpEhewkX9kfD55Fd1lEO8nOefAMT8zzPL4M=",
           "py3"
         ]
       }
@@ -150733,6 +150767,20 @@
         "ultra_sockets-1.0.4-py3-none-any.whl": [
           "80v4DVaZlbgp1kuTAacxXVQxz/h9RjkoUVnurwxa3Hw=",
           "py3"
+        ]
+      }
+    }
+  },
+  "unet-jlbaker": {
+    "0.0.1": {
+      "sdist": [
+        "HW3/GjOTfE7M4JuHDDPmVB4L7t2UgUpDMy8vJ0vhDY8=",
+        "unet_jlbaker-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "unet_jlbaker-0.0.1-py2.py3-none-any.whl": [
+          "h7DYkuIsFAI2UeUzVJ1/rCEyyMYGxaLoPuOuKQ8pqCM=",
+          "py2.py3"
         ]
       }
     }

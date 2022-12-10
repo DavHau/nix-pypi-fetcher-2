@@ -14604,6 +14604,14 @@
         ]
       }
     },
+    "1.1.dev20221210091706": {
+      "wheels": {
+        "c2cciutils-1.1.dev20221210091706-py3-none-any.whl": [
+          "s3eSf1TIzHausxc/5zx7qIaLEAHZ35IAbWLS9KXlJ+8=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "c2cciutils-1.2.0-py3-none-any.whl": [
@@ -49919,6 +49927,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0.dev202212101333": {
+      "sdist": [
+        "DhMNtG5MoPFzM/9e6lhxURjVPsl+48NBFmTtbGkEbTc=",
+        "fastestimator-nightly-1.5.0.dev202212101333.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202212101333-py3-none-any.whl": [
+          "AZ0bIC5NevmwedGscF7o3AVyo1qngmNzqO2EtgtG74c=",
+          "py3"
+        ]
+      }
     }
   },
   "fatmouse-agent": {
@@ -66380,6 +66400,18 @@
       "wheels": {
         "kraken_rebalance_bot-0.5.6-py2.py3-none-any.whl": [
           "Ql/2BeSaUKLoPAJe+HTrT2coeXARIyoZiuKeuos686k=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.7": {
+      "sdist": [
+        "d8Lb2xrt9Q824v+Qe2sibTem0c8s8HSyLa9XE0PenDs=",
+        "kraken-rebalance-bot-0.5.7.tar.gz"
+      ],
+      "wheels": {
+        "kraken_rebalance_bot-0.5.7-py2.py3-none-any.whl": [
+          "rc38WL99CEkutN3OnHYJOvovGJ9crjh5WlMevZNnhHw=",
           "py2.py3"
         ]
       }

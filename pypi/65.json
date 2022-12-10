@@ -56199,6 +56199,12 @@
         "2JmYPiDaWyCtus9IJDXGQwURL0aWOT0ZWmZfQ2hRl6c=",
         "genestack_client-0.35.2.tar.gz"
       ]
+    },
+    "0.35.3": {
+      "sdist": [
+        "QGGpncDe2MSALLe++0Ei5wPSbL/k2FpisYtefHSL5ZM=",
+        "genestack_client-0.35.3.tar.gz"
+      ]
     }
   },
   "geoanalytics": {
@@ -136055,6 +136061,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "klDNvkv8DmnPn9SZRrjE4InD8hQaT2ac0ZIsKXOO97k=",
+        "TDBRecord-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "TDBRecord-1.0.2-py3-none-any.whl": [
+          "suBUimpPYTMdfeaOukqalisO85B2RopCNaEhSlF0yUY=",
+          "py3"
+        ]
+      }
     }
   },
   "tdwew": {
@@ -142310,6 +142328,42 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221209-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "uQYY7BV4HbZrBybqVK1McPvn7ecyA8zB/FdtEBAZbKk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221210": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "qM8VozMJQstvjW63K22HhIQAT+N7MaJnMW3cQpzeGGY=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "v8WxX45trfd/9sGSiLI+8jk9yWNLVKqgovmDX6fgPlw=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "iKaidg+GWXHC4KRJnaQ63Qms5im2YIWcnxGX1hDRKME=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8COXOBx38MIja8COdmcVVlgKfozrMtsJQYOrTLLUQjo=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "KFE09iaJWDfPEq7GgopF6spwEEH/3nnEq3exXwmGbtc=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2WhyvD7ah3X6v/P7DpD2atif39KjWOgLPAh1II61688=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Ds2ojTpNdgedYSvTg6dSKV1bkLg19sexcmWGNH8WDdI=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221210-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Thw52gkLSP3Ju5ePDg7owc6zfKhhPDj3fNh9l+CCjIg=",
           "cp39"
         ]
       }
