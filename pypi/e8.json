@@ -16213,6 +16213,12 @@
         "9U0fTlrqvoy10drXMJ6+2zqF/xFWrP9oLPvGPjbC2e8=",
         "blackjax-nightly-0.9.6.dev20221209.tar.gz"
       ]
+    },
+    "0.9.6.dev20221210": {
+      "sdist": [
+        "K2yONs+fbIrXM/hj1pJhtWiDP/FSij/f6zanwgU0/P4=",
+        "blackjax-nightly-0.9.6.dev20221210.tar.gz"
+      ]
     }
   },
   "blazar-nova": {
@@ -90343,6 +90349,18 @@
           "py3"
         ]
       }
+    },
+    "1.17.0": {
+      "sdist": [
+        "xjdzceuOV8i3nP0kfzXqp3ar3qHtzsRZqQRb8LNG0xw=",
+        "nlib3-1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "nlib3-1.17.0-py3-none-any.whl": [
+          "9bm8AtXkl4nxaVtpJ499AgE3AbZWIoj9p4iL3M35LRg=",
+          "py3"
+        ]
+      }
     }
   },
   "nlp-data-py": {
@@ -94082,6 +94100,14 @@
       "wheels": {
         "odoo14_addon_account_fiscal_position_vat_check-14.0.1.2.1.dev1-py3-none-any.whl": [
           "XXvF8RhX4MWuSktOLvVkfi0SSn6M081K7rfeP+LXsXE=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.2.1.dev2": {
+      "wheels": {
+        "odoo14_addon_account_fiscal_position_vat_check-14.0.1.2.1.dev2-py3-none-any.whl": [
+          "5967vc3f/lfq9wbcd0ZFP5HU2wkOg0Ta8zSHLmy6Efc=",
           "py3"
         ]
       }
@@ -98000,6 +98026,18 @@
       "wheels": {
         "opentelemetry_instrumentation_sklearn-0.35b0-py3-none-any.whl": [
           "QDjPtEnVC+5nZ6TqEXkpPCv6BKmof5nR0srwu+xN+jI=",
+          "py3"
+        ]
+      }
+    },
+    "0.36b0": {
+      "sdist": [
+        "mIGChNDvHCKkVF3aiRcPDy2l424324HBJUAfg0qLFLM=",
+        "opentelemetry_instrumentation_sklearn-0.36b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_sklearn-0.36b0-py3-none-any.whl": [
+          "b4gO1s2adTTsfduN6U2cXPh5KeT/0aG13YE3c2DuNYE=",
           "py3"
         ]
       }

@@ -31559,6 +31559,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.7": {
+      "sdist": [
+        "i0dds+S6eB3nto2Rem7Rsc7lsVlabdH/jnGmJpi23Vs=",
+        "django-vendor-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "django_vendor-0.3.7-py3-none-any.whl": [
+          "hX6ms1cJJ4d/KWbiRwvHmHt7qgvJaPO1ZV5j+tJSksU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "/RmlCgGRLZXzl/wKNhMa6+9/Xu64LAH4qZ8gVkcw7tg=",
+        "django-vendor-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "django_vendor-0.3.8-py3-none-any.whl": [
+          "5fd9RjK56g0nIZSYkPqcxDXYTdWNwwrt6k0TENtCMJ8=",
+          "py3"
+        ]
+      }
     }
   },
   "django-vz-wiki": {
@@ -64289,6 +64313,12 @@
         "AO9sDspTcTy9mNnm1YvktxXrCTpSENmQvuVT0l5YhJ4=",
         "JupyterReviewer-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "JCJXujE1+idFnC5MsnkeiOvPbqZLDpYvnFKABsAyIfg=",
+        "JupyterReviewer-0.0.3.tar.gz"
+      ]
     }
   },
   "jurn": {
@@ -64644,6 +64674,12 @@
       "sdist": [
         "FYn2IWLQnkpjOHwMuZ8UicDbCiY1TxPNbmh9j7+ecJw=",
         "Keno-1.2.4.tar.gz"
+      ]
+    },
+    "1.2.5": {
+      "sdist": [
+        "Ph/pBfGlpBfFTbVcoQA7kgxREATfY/kq3MflWkqKC8U=",
+        "Keno-1.2.5.tar.gz"
       ]
     }
   },
@@ -89958,6 +89994,18 @@
       "wheels": {
         "opentelemetry_instrumentation_confluent_kafka-0.35b0-py3-none-any.whl": [
           "YYhSWO1Tl1Kpisl+x3LeIV6rDsF3v951EJMAl1YiXHI=",
+          "py3"
+        ]
+      }
+    },
+    "0.36b0": {
+      "sdist": [
+        "FrbOIUR+a2ojpAkwq30XT4vmFzdFVKYC2YQ8XbgevVc=",
+        "opentelemetry_instrumentation_confluent_kafka-0.36b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_confluent_kafka-0.36b0-py3-none-any.whl": [
+          "Dt7VwQEvNBTXcgwgDAsCOOA+dNPHqru+tksoUkzefKk=",
           "py3"
         ]
       }

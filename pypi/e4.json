@@ -71861,6 +71861,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.7": {
+      "sdist": [
+        "EWxYFY9sAFH+J+aHUddj9PGQaRnO40FKXSizUKyLKdU=",
+        "mfpymake-1.2.7.tar.gz"
+      ],
+      "wheels": {
+        "mfpymake-1.2.7-py3-none-any.whl": [
+          "zUzGe8XdjRa9dseoJBJmZZ7ik9cvPnEWD02KXlnvN1g=",
+          "py3"
+        ]
+      }
     }
   },
   "mgvestruc": {
@@ -85109,6 +85121,14 @@
           "py3"
         ]
       }
+    },
+    "4.0.0": {
+      "wheels": {
+        "nvidia_tao_client-4.0.0-py3-none-any.whl": [
+          "hk3RWfGkgUXW2W6Qogy9Xqj5hZupLdC4k/C+GI3pARE=",
+          "py3"
+        ]
+      }
     }
   },
   "nx-express": {
@@ -95734,6 +95754,34 @@
         ],
         "podping_schemas-0.1.0a16-py3-none-any.whl": [
           "I2De9uLXC7cO2+dsDp7f2QnYt4LtLV3MC6umK6NOixk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a17": {
+      "sdist": [
+        "h1zikmsmUUIkqfvwJV9LxpnPGjB8ua4g+55XXXmUDus=",
+        "podping_schemas-0.1.0a17.tar.gz"
+      ],
+      "wheels": {
+        "podping_schemas-0.1.0a17-cp310-cp310-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "14HEYXAqqclOuHOV9voImWKUoucDD+XzXlmCYKh4AcQ=",
+          "cp310"
+        ],
+        "podping_schemas-0.1.0a17-cp311-cp311-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "m2BvJJoDgE3r6CoQcABgZayXFeSje0mpB0cZr8FbUGI=",
+          "cp311"
+        ],
+        "podping_schemas-0.1.0a17-cp38-cp38-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "gvqfb8fBY76420gC1CcuLMwU6zOsgl58Qu5HAMIueP4=",
+          "cp38"
+        ],
+        "podping_schemas-0.1.0a17-cp39-cp39-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "c72fSaQvQlNwraCoDjEVt3jujYuTpcRTqYYEgN8Q/Yk=",
+          "cp39"
+        ],
+        "podping_schemas-0.1.0a17-py3-none-any.whl": [
+          "hpFSQiwx+Ol/HdKV3Vd/J9GF5OF6CzM3FTBmWuDJ62E=",
           "py3"
         ]
       }

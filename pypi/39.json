@@ -16273,6 +16273,32 @@
       ]
     }
   },
+  "broadlink-listener": {
+    "0.1.3": {
+      "sdist": [
+        "BL3rcqgtRaa6q6VLxWOmnSUQbQDfW/h6ijatog9XQ0w=",
+        "broadlink_listener-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "broadlink_listener-0.1.3-py3-none-any.whl": [
+          "uOaJlyXnhIo66X6oAdP7RN+or6diM7KIm4ErhrvTf9c=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "IEgsxBJcvhfEQ3QheTXRwTK7rKkmquIwIbEgsh0iZ+g=",
+        "broadlink_listener-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "broadlink_listener-0.2.0-py3-none-any.whl": [
+          "qqv5vXgFb20341VkCzG5PGqqeYW4+G4IpoY5P3Zv96Q=",
+          "py3"
+        ]
+      }
+    }
+  },
   "brocade": {
     "0.0.2": {
       "sdist": [
@@ -61576,11 +61602,11 @@
     }
   },
   "miavisual": {
-    "0.0.0": {
+    "0.0.2": {
       "wheels": {
-        "miavisual-0.0.0-cp39-cp39-win_amd64.whl": [
-          "iLhWahnNp5dxDWaEKUB4oi/wS+jbyxJduGFA7gtgLSk=",
-          "cp39"
+        "MIAvisual-0.0.2-py3-none-any.whl": [
+          "O4EP4HkomTLiVnRDYyYc23d6UgGeHMq4DpCkn/nW+gA=",
+          "py3"
         ]
       }
     }
@@ -84693,6 +84719,42 @@
           "py3"
         ]
       }
+    },
+    "0.0.94": {
+      "sdist": [
+        "2du2MFczf2jIQuMEPGIOmbmJ3Tp9enKW051salHRwbw=",
+        "pepperize.cdk-github-0.0.94.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.94-py3-none-any.whl": [
+          "Xb5OSepjmgR6cJlI4y77xGnwiG+zx/mXUR+OcsE6kwU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.95": {
+      "sdist": [
+        "fKoNZui+5AitnJxDFKHq4g23EtcqDpPoWWleY3ydZqY=",
+        "pepperize.cdk-github-0.0.95.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.95-py3-none-any.whl": [
+          "M9dURGsPlysw6Ur7O20taefSiliooGHMg+E6odSrs1Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.96": {
+      "sdist": [
+        "FrD8ogNkkogVcMrDHwLgndWBYKjWyinglH4uf2OB3g8=",
+        "pepperize.cdk-github-0.0.96.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.96-py3-none-any.whl": [
+          "M0p4a7M689tKzG/UUB5e0fCrEgzF2tRK10QQJDproso=",
+          "py3"
+        ]
+      }
     }
   },
   "perceiver-ar-pytorch": {
@@ -85470,6 +85532,18 @@
       "wheels": {
         "phiterm-0.3.14-py3-none-any.whl": [
           "3/yvHoAAXnxfCwjgamPCtsNTfULrcTeXghUyREqt0vs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.15": {
+      "sdist": [
+        "hFyMcHppmU0hfd3NWk8iTBR9NYOZlS5sc1bMqmTJVWc=",
+        "phiterm-0.3.15.tar.gz"
+      ],
+      "wheels": {
+        "phiterm-0.3.15-py3-none-any.whl": [
+          "iSXEDcH3USIHeNMEmdPCxkcC38pyYFp20O/+wIXhQTs=",
           "py3"
         ]
       }
@@ -115801,6 +115875,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "er+B2gcUMVuwFTxNeykZugiFCN6GkFdVaBlRQvT4ras=",
+        "secure_package_template-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "secure_package_template-0.4.0-py3-none-any.whl": [
+          "+PMwHioGG4uOR2B3MHN83MAGwe32BJ8VUmZA4HatfX8=",
+          "py3"
+        ]
+      }
     }
   },
   "securitylib": {
@@ -137652,6 +137738,26 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221208-cp39-cp39-win_amd64.whl": [
           "RXKSITcoHU2Jezy6XN8Kk00jRfZgt4Qfl0OTsR96yIQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221209": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221209-cp310-cp310-win_amd64.whl": [
+          "L4yI3hp3Vdu9E5ZzNjm7jHTejoUOv6DZ+CL1l3pq4xs=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221209-cp37-cp37m-win_amd64.whl": [
+          "S0sGRpKNXHbAlLsd+BXUmabdg7wXapBsBpBL0vcyP14=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221209-cp38-cp38-win_amd64.whl": [
+          "NHsI2Jp0kiHTsMEGJFDGF5wnEMacd9zQMO4nec6VZ64=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221209-cp39-cp39-win_amd64.whl": [
+          "9rY0GDwaUwbHoYfQRDXcFecE1518NXTLnAdNrZ1uZrs=",
           "cp39"
         ]
       }

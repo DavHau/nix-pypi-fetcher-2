@@ -6901,6 +6901,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "PAOSy+30dzKjq4nzjqWLfEVpEoIqxelOBV6azvEIH1A=",
+        "async_mvg_api-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "async_mvg_api-0.1.2-py3-none-any.whl": [
+          "/HZB/oV2iasttiftW1aYmxRZ6wl+31uGWaYk2KyIA9w=",
+          "py3"
+        ]
+      }
     }
   },
   "async-subprocess": {
@@ -56185,6 +56197,42 @@
           "cp39"
         ]
       }
+    },
+    "0.1.3": {
+      "wheels": {
+        "hgdb-0.1.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Wm0z6UBkWt07bDlFZfpyVL2tBMKZvzEEnL6eAszblXw=",
+          "cp310"
+        ],
+        "hgdb-0.1.3-cp36-cp36m-macosx_12_0_x86_64.whl": [
+          "wSL6YJt9OfYKEQY2W5Zm4i2FT2GC3gldPtDHjsmy1bM=",
+          "cp36"
+        ],
+        "hgdb-0.1.3-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Qfm9QA+sNCtkiwso4DsVa37TsjIj3uJ/Yl7AqVG5xiE=",
+          "cp36"
+        ],
+        "hgdb-0.1.3-cp37-cp37m-macosx_12_0_x86_64.whl": [
+          "3XARniiJ4buYQKMori2Dww0yWP5nowamkrrnDv7iVMs=",
+          "cp37"
+        ],
+        "hgdb-0.1.3-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Qb6f+7JCWe0dHh2GpCEo5LiOh+wbdAcZ/aJN3/TY7ik=",
+          "cp37"
+        ],
+        "hgdb-0.1.3-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "p0/G7Q3riLpHeX9w+8zRR4NcpEhvHeseSvF/rLjzJuU=",
+          "cp38"
+        ],
+        "hgdb-0.1.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "nZcmgZcwTmF56O/UIko5JfwTN927lh4iwJ7sPEGsQR4=",
+          "cp38"
+        ],
+        "hgdb-0.1.3-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "iZHeXmG52eM2mIoDBrBy+8M8c7hST4OgrrQVju4jXa8=",
+          "cp39"
+        ]
+      }
     }
   },
   "hitools": {
@@ -91318,6 +91366,18 @@
       "wheels": {
         "opentelemetry_instrumentation_wsgi-0.35b0-py3-none-any.whl": [
           "1UshCG9asdd2TX7FMo135L+/5i53RC/y2l9ZxUvM7dg=",
+          "py3"
+        ]
+      }
+    },
+    "0.36b0": {
+      "sdist": [
+        "Z9YbB76+nD8N9a1m/H6cqBLNkeWB/AZc0vatfM90Sts=",
+        "opentelemetry_instrumentation_wsgi-0.36b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_wsgi-0.36b0-py3-none-any.whl": [
+          "FsnqT+zw2OWvOFCOPFKBJFvIjPoM6gDKFru7/bwkGFo=",
           "py3"
         ]
       }
@@ -136990,6 +137050,34 @@
         ],
         "tensorflow_macos-2.10.0-cp39-cp39-macosx_12_0_x86_64.whl": [
           "MXeoqXFJ94dI7rIACao9wnriwRKrY4CIbshiC7y3Dxk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.11.0": {
+      "wheels": {
+        "tensorflow_macos-2.11.0-cp310-cp310-macosx_12_0_arm64.whl": [
+          "C9vRu1ZNAb1zXW0RRR8GWMPdgYc2nundPtbea73W31M=",
+          "cp310"
+        ],
+        "tensorflow_macos-2.11.0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "ZutnkVz0GO3dO0wVgTJgnv1QiV+gn9VeSy8Uo6uFvTQ=",
+          "cp310"
+        ],
+        "tensorflow_macos-2.11.0-cp38-cp38-macosx_12_0_arm64.whl": [
+          "aBBzHiyDUxI/bJyUTSdltYoiJufrn+weNg9zl3xsaqQ=",
+          "cp38"
+        ],
+        "tensorflow_macos-2.11.0-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "iBs22Xtn0kGXJQoJHFLDHbFK7P2/GsIEGKFI7DcyGXg=",
+          "cp38"
+        ],
+        "tensorflow_macos-2.11.0-cp39-cp39-macosx_12_0_arm64.whl": [
+          "jVaw0L0UAAiwzEh3gEycMQ4eJzVET6mbx8iP+ykJFT0=",
+          "cp39"
+        ],
+        "tensorflow_macos-2.11.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "25fNkbkFvQEGkGnwcyWiopFwUiLrSRQUi5V0CQpYFa4=",
           "cp39"
         ]
       }

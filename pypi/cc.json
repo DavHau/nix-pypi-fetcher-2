@@ -2653,6 +2653,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "kCfOSQkmMJNnPjPU/6S/dUkjzad+ecNUYTVV+ofUmN4=",
+        "alchemtest-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "alchemtest-0.8.0-py3-none-any.whl": [
+          "2Sh0jO7UuPICaDAJJspaWUNtaZmxMqarNqe/YvGW3Rw=",
+          "py3"
+        ]
+      }
     }
   },
   "aleatora": {
@@ -70847,6 +70859,12 @@
         "0mLwctwmC4SU/MKC4LCrzfg089NCQPxQbinwLnUATS8=",
         "mhealthdata-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "u/M4eQena1Jj8CqqjDCjUOXSKcJx5zP2VAdJVmj5KUk=",
+        "mhealthdata-0.1.5.tar.gz"
+      ]
     }
   },
   "miceless": {
@@ -83958,6 +83976,18 @@
       "wheels": {
         "opentelemetry_instrumentation-0.35b0-py3-none-any.whl": [
           "DKke9RxnSOkYks0TIrH87t530TANxxil7Ew97uVkm+s=",
+          "py3"
+        ]
+      }
+    },
+    "0.36b0": {
+      "sdist": [
+        "492smzuTQI7ybI7L849xcEKXfhY4G7TNMppbTPFpmM8=",
+        "opentelemetry_instrumentation-0.36b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation-0.36b0-py3-none-any.whl": [
+          "g7pK59UpK1sz4PhRzFx22PkRlrmzUngA/BOFXDM4OsI=",
           "py3"
         ]
       }
@@ -117284,6 +117314,74 @@
         ],
         "swig-4.1.0-py2.py3-none-win_amd64.whl": [
           "spZ9zuvPi8MvR69PSLJmY7UCP58fQ43lpRn2dm8sa+E=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.1.1": {
+      "sdist": [
+        "dQfpzNOUqE3AgIlid/cv2oOT+hIuLhlPR/MvvzpM1WQ=",
+        "swig-4.1.1.tar.gz"
+      ],
+      "wheels": {
+        "swig-4.1.1-py2.py3-none-macosx_10_9_universal2.whl": [
+          "QsbCA9uhwa+mDI48ak2n85zpWkS/C/Ww9csWqmyqUf4=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "/psKSRkMSEgWpa0CCoj6NbQmKPtsXz1Kbz2l87twsxo=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-macosx_11_0_arm64.whl": [
+          "zuR9nyG8NPzAvLUpeVMTBB5Ym/S2n8e/+h7zJdrgly8=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "brQDVF2+LhamEqvHz85eKdou+bLoGUT7dmn906IoEPQ=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "0LtDrstQQ76Mq9lOORt8Tu0rkA4hg7hr5PnTfaE9xD4=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "n/OqVRxCruQXDUJmexH1W90uxDUycXsD5qELl2BLQ4w=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "5mn32C40qGau8cfXwunQXF2tAz/XCUwCiYqF0bxZBdc=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "P52lVkcYu4EjTdSX3CZQJbBFbGyTeN+oIGzaVqf6Zbo=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-musllinux_1_1_aarch64.whl": [
+          "MmoeaNxVMfHMsW0xTTOvuMlkKU0UERkS7waekFc8Cyo=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-musllinux_1_1_i686.whl": [
+          "H41D5rKdYCQ3TEvK+ojLUUnz4zXRPbJVaCnZTa0ReOs=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-musllinux_1_1_ppc64le.whl": [
+          "xRpdnWeRFRpCvPVSSrM6zmwgbY+odPdZYekWSbpa2xY=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-musllinux_1_1_s390x.whl": [
+          "Mvkcg+1csJuA7zXDiu27gL1JXRhxbmyn/y+ewfOa2Lw=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-musllinux_1_1_x86_64.whl": [
+          "Xfhe+RZS2Sj6LEXElW3vKuO+rglXATxVkVK7DaZkP0s=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-win32.whl": [
+          "vHU6dBegojL8NK3YENfkbhx49JNC9wSho4paySDebKA=",
+          "py2.py3"
+        ],
+        "swig-4.1.1-py2.py3-none-win_amd64.whl": [
+          "IKABWN3qDBHONTX1ud3YCKzetJGMiYhPumppeg4hwz8=",
           "py2.py3"
         ]
       }

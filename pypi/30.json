@@ -26639,6 +26639,20 @@
       }
     }
   },
+  "crdt": {
+    "0.0.1": {
+      "sdist": [
+        "obE/GsbwaDoloJ+Qi2aor9EeXE8s4ljMezUtuUHBUEA=",
+        "crdt-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "crdt-0.0.1-py3-none-any.whl": [
+          "3vlFFVBG0kCBKKv+S+0LKi0gvD9f8aZfAhnip5J0iAQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cryptocmp": {
     "0.3.3": {
       "sdist": [
@@ -70713,6 +70727,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "CvZkJruSHWxY0IZiLFBgUOUP4QToObesPm0Vi3kn+CU=",
+        "msal_requests_auth-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "msal_requests_auth-0.6.1-py3-none-any.whl": [
+          "44tkRRCgOlOnZziP/RfC+X5sFtDX3VLJTJ39LJvSvCE=",
+          "py3"
+        ]
+      }
     }
   },
   "msb-client-websocket-python": {
@@ -79620,6 +79646,10 @@
           "ZIDXA3K14D/CRUME5MBOH2p9ktrqpTM/yI7WimYQp+k=",
           "cp310"
         ],
+        "nautilus_trader-1.161.0-cp310-cp310-macosx_13_0_arm64.whl": [
+          "JVHFrWZMAO4xZOyNmS/UpjmJe1joP3wXGliXkBhUfWs=",
+          "cp310"
+        ],
         "nautilus_trader-1.161.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
           "tCIeuDODGjaPHnVUHX6vVaQH190NMfzgJkf256Q3nrA=",
           "cp310"
@@ -79632,6 +79662,10 @@
           "3d5Lwvvx+yJqVlco6EkqOztebH4u+E0pOkZ+j4dm7SQ=",
           "cp311"
         ],
+        "nautilus_trader-1.161.0-cp311-cp311-macosx_13_0_arm64.whl": [
+          "F3h6BI+7Q1eS9P79BjSg1ORUcEupC4pRgVeLnjBFybU=",
+          "cp311"
+        ],
         "nautilus_trader-1.161.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
           "qGkEcN0P1sk9rJ4oXXqUTAJNHWCMn3z1hn+wTg8gvbc=",
           "cp311"
@@ -79642,6 +79676,10 @@
         ],
         "nautilus_trader-1.161.0-cp39-cp39-macosx_11_0_x86_64.whl": [
           "toKzizyQyGWBz2tK5vHykbC8PXSZpBOvYtKGTthhls8=",
+          "cp39"
+        ],
+        "nautilus_trader-1.161.0-cp39-cp39-macosx_13_0_arm64.whl": [
+          "R5cE86zcvPfY0sbq8La/Vh+/7LjAXF9PmaQUlK6sS1E=",
           "cp39"
         ],
         "nautilus_trader-1.161.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
@@ -135818,6 +135856,58 @@
         ],
         "tcod-13.8.1-pp37-pypy37_pp73-win_amd64.whl": [
           "D25EgFjy/71xiaMqnN+NHFagD4LO2mynmIxjFIY442c=",
+          "pp37"
+        ]
+      }
+    },
+    "14.0.0": {
+      "sdist": [
+        "Le9zMlGitL8IbyDjz5QLyk9LcXzo483rjv1Id7ZxoCM=",
+        "tcod-14.0.0.tar.gz"
+      ],
+      "wheels": {
+        "tcod-14.0.0-cp36-abi3-macosx_10_9_universal2.whl": [
+          "DafVPmcQL4QTBBm/TMK7HJo6hWVeQk+VLjA+ZRLHqjI=",
+          "cp36"
+        ],
+        "tcod-14.0.0-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "o2Nw4gdDFb4RSZJz2aUhNRfm1MhEjdAWtKi83iP7BZk=",
+          "cp36"
+        ],
+        "tcod-14.0.0-cp36-abi3-macosx_11_0_arm64.whl": [
+          "LhNXU750/6eAIjF8a3dzdGuyGdQk29BX1FxnyBLdKyY=",
+          "cp36"
+        ],
+        "tcod-14.0.0-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Z7GY3Y8F9Ok/+XyaMa5o63abXZc2mGJJwFDv2tMg+vY=",
+          "cp36"
+        ],
+        "tcod-14.0.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ez1JUEhqMn0Nzd3uWgZiNO7Sq+fK/OWQkozmjvsbLTo=",
+          "cp36"
+        ],
+        "tcod-14.0.0-cp36-abi3-win32.whl": [
+          "hiX8TzpLQXhveQZXdmlPbeRSNFkrwPzLFITrpIsP1LU=",
+          "cp36"
+        ],
+        "tcod-14.0.0-cp36-abi3-win_amd64.whl": [
+          "u+3AYClNmHNi3dkKmH5f0nsvarEgVZKa/OsfASh49WU=",
+          "cp36"
+        ],
+        "tcod-14.0.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "aCfPZSeA5ZUkoMp1yd2mwVpyZDys6mN37da1Sq3z7lU=",
+          "pp37"
+        ],
+        "tcod-14.0.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZXfpQJJ87NcgAK8w/S5zt/BtBO3PSPUvXscE/+0e5WE=",
+          "pp37"
+        ],
+        "tcod-14.0.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9OcKub48wyGutTvTEo5l3papmPBVLyF+TayPy6GlsKA=",
+          "pp37"
+        ],
+        "tcod-14.0.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "8O5S56EyMBl0Mchd+nLUcuvKXyfMY6GVARRYPjgziYQ=",
           "pp37"
         ]
       }

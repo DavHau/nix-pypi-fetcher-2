@@ -35737,6 +35737,16 @@
       }
     }
   },
+  "cve-2022-0739": {
+    "1.0.0": {
+      "wheels": {
+        "cve_2022_0739-1.0.0-py3-none-any.whl": [
+          "dxH2coOONQNwzhRYbiSuFSWcN0LQFDiTpdiAnEEKxH0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "d2vg": {
     "0.6.0": {
       "sdist": [
@@ -91229,6 +91239,22 @@
           "py3"
         ]
       }
+    },
+    "4.0.0": {
+      "wheels": {
+        "nvidia_tao-4.0.0-py3-none-any.whl": [
+          "0zunaNM5RDpSXCeZ9pwnxZ+Y4zL75CvSuZQyULIEckg=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0.dev0": {
+      "wheels": {
+        "nvidia_tao-4.0.0.dev0-py3-none-any.whl": [
+          "QYbmqpD/kGXtcFKxgjIxmJ0Z3Z7WvFpGZbcS+AwcEBQ=",
+          "py3"
+        ]
+      }
     }
   },
   "oauthenticator": {
@@ -143015,6 +143041,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "gDWGefJQ5+wWgoGKKW/M1hfsw6SxpP87XQsFezUvZ8w=",
+        "trelloscheduler-cli-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "trelloscheduler_cli-1.0.7-py3-none-any.whl": [
+          "rQXeVeGPXGhRcdDAqHjUOyYqO2rxQeEkOGeExMvQYQY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "75Zw3ct1T9sATQlc1ov/AEgjx2yJADB1b7v791SUAsA=",
+        "trelloscheduler-cli-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "trelloscheduler_cli-1.0.8-py3-none-any.whl": [
+          "D5IElchZ41LKl534B0QzQbmm7R4Wof+2scJNtYwPS4g=",
+          "py3"
+        ]
+      }
     }
   },
   "triehard": {
@@ -148868,6 +148918,20 @@
       "wheels": {
         "wirepas_messaging-1.4.0rc1-py3-none-any.whl": [
           "oQZLK4ndlp49CJ6EVGQu/+IbVYauTEDZfrRI34E4csE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "witsi": {
+    "0.0.4": {
+      "sdist": [
+        "o8+D3HcZCOYsyQWXC870FDGrZMWv2jdPOUkO5jUsYrY=",
+        "Witsi-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "Witsi-0.0.4-py3-none-any.whl": [
+          "O7t+BQiqLF4H2dLZ5PiD7v8WHmPyMJ6VxF2oobbXAn8=",
           "py3"
         ]
       }

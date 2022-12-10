@@ -39578,6 +39578,18 @@
         ]
       }
     },
+    "0.7.21": {
+      "sdist": [
+        "LpTgxP0I9TnMIBFRltROnrY9lYB65DyAFCLpZCR+7l4=",
+        "eolymp-0.7.21.tar.gz"
+      ],
+      "wheels": {
+        "eolymp-0.7.21-py3-none-any.whl": [
+          "CCUz41EVKQcHJ6MzUObVttb7zCADaSivTs6EIFDDOTY=",
+          "py3"
+        ]
+      }
+    },
     "0.7.3": {
       "sdist": [
         "8ZiXj7uwgjjYMAuzlhu8zsPKNA39ETW52s/H5/eB9gI=",
@@ -78201,6 +78213,26 @@
       }
     }
   },
+  "mptcplib": {
+    "0.0.1": {
+      "sdist": [
+        "XZrFZ1hSDLxOzTBR9tqPXeT8kGxn/V7IPPue8XV7THA=",
+        "mptcplib-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "v7yvH617Wg/PbtgUj1XMzlAYg0CT6Fzm8LoaGJem6wY=",
+        "mptcplib-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "2nCLbMjt9T0Z9HQARZX1jN8yo7oIvJt8lw9vfW2sxPM=",
+        "mptcplib-0.0.3.tar.gz"
+      ]
+    }
+  },
   "mpy3": {
     "1.0": {
       "sdist": [
@@ -86725,6 +86757,30 @@
           "py2.py3"
         ]
       }
+    },
+    "3.5.0": {
+      "sdist": [
+        "hJOWdapMLC+YT4gnbfLtMEneJ03XhlLfl34clDsq5t0=",
+        "ondewo-nlu-client-3.5.0.tar.gz"
+      ],
+      "wheels": {
+        "ondewo_nlu_client-3.5.0-py2.py3-none-any.whl": [
+          "MsOQaUxmQ2b55wY49nnEo8Tlsw1+fz6ajEbrYyqeMe8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.5.1": {
+      "sdist": [
+        "XW6LACLaIOEWqtcS5OGEVNrmD2j2BB3n3B2hXo/aX08=",
+        "ondewo-nlu-client-3.5.1.tar.gz"
+      ],
+      "wheels": {
+        "ondewo_nlu_client-3.5.1-py2.py3-none-any.whl": [
+          "cmNlINQbgeqvIGXpoy0a5IzHSB5xpvFM8aaIICt1QnM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "only-fans-hack-two-fg3v4n": {
@@ -89678,10 +89734,10 @@
     }
   },
   "pardon": {
-    "2.0.3": {
+    "2.0.5": {
       "wheels": {
-        "pardon-2.0.3-py3-none-any.whl": [
-          "PJPt/oI3KggSs9uO72pxNP0lz16WY9yyWNQ4jcIjTfM=",
+        "pardon-2.0.5-py3-none-any.whl": [
+          "aikTqOOEZ4N2yjwZP2cKouSRrHLYffTRkPRBB8Iro+Q=",
           "py3"
         ]
       }
@@ -111628,6 +111684,74 @@
         ],
         "robotpy_halsim_ws-2023.0.0b4-cp39-cp39-win_amd64.whl": [
           "06EyeNkaQ7P/Qh3px3w24hjJLmOJtwkRdY891nZ28mw=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.0.0b5": {
+      "sdist": [
+        "sGLIqSA6s++PxVyMSfaCdHhWMWnrEANzEdL3oV93sms=",
+        "robotpy-halsim-ws-2023.0.0b5.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_halsim_ws-2023.0.0b5-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "GI3rgyKZOx5+YJEE0bFYS4jCHqbBVogAnRViMsXyC64=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "PCF4di5My4xGArgqh4MYlNr5TAlI+J45fAMiLu4Bi8A=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp310-cp310-win_amd64.whl": [
+          "3tcd+S3ghv4PdH7+S+36y9v5nUH5D35h7yM5eKIGKnY=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp311-cp311-macosx_11_0_universal2.whl": [
+          "DtS/LF6fesej0Zyv6MoV4eqcMNH6h/DQElLMx+eTybE=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "9QEFUqAO2Pt1aSE4vahCu2z9uhxPuT6N7092OfApu8U=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp311-cp311-win_amd64.whl": [
+          "KZRIXZRVcMithe2OkAjhjK57eLZlTSiGHPTAnLKfrlU=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "MKNCQvd26mnhh9vyH+MsHj9rDj127iulNiPbdx/VYsY=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "Prh47qDW00u0VeJ87cjoIwY7m8r9oJHNrEPQJa1YnPs=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp37-cp37m-win_amd64.whl": [
+          "hiRBLq48FH81quk1f6Si0svs+EYEUVJZfcDIuWH3riY=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "pM31DXiupcf5gXFIxNfTha2nCmJOLWv3GjyLYIwGlps=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "XRrqSnofPZq1RPDy0CX439u4+NDznPin4lyu1Pho9Xo=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp38-cp38-win_amd64.whl": [
+          "lyC6BpG7qbc0gXG+cFcZQrbIQXDC45lO0dRuzZpeX7c=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "R7e+59WvLp0cNQYqno7poODaxCp4wrk9iuqWbxzNy7w=",
+          "cp39"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "tBflj7OL14knR/aSsqAwHWRuo6u0ZF73PKwhTbTeI0Y=",
+          "cp39"
+        ],
+        "robotpy_halsim_ws-2023.0.0b5-cp39-cp39-win_amd64.whl": [
+          "k6DRVNeLBgKjeuGwCGvwgchvMQKVicKRXz4taS3cp4M=",
           "cp39"
         ]
       }

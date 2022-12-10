@@ -7391,6 +7391,12 @@
         "u5Ahop6uQOHpbmo9xtKBbPJo4XfjelAC1MBz4TCCSTo=",
         "aws_service_catalog_factory-0.94.0.tar.gz"
       ]
+    },
+    "0.95.0": {
+      "sdist": [
+        "ZQ72HvmZTOsa+j/AT3/QWm0iG4Ruz2R8fa/PE2XRYP8=",
+        "aws_service_catalog_factory-0.95.0.tar.gz"
+      ]
     }
   },
   "aws-solutions-konstruk.aws-kinesis-streams-lambda": {
@@ -15562,6 +15568,18 @@
       "wheels": {
         "cdk_amazon_chime_resources-0.1.166-py3-none-any.whl": [
           "+jBjNE5tlXysg2AQhxkg0IHoCmeHY2Hb2Gqz0xfGk84=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.167": {
+      "sdist": [
+        "9qssenk0PWrHvs7oW+oS5wSYVj94jJawDKQ0YGy9xJI=",
+        "cdk-amazon-chime-resources-0.1.167.tar.gz"
+      ],
+      "wheels": {
+        "cdk_amazon_chime_resources-0.1.167-py3-none-any.whl": [
+          "KY9jVh+ZFTwU9tv6fU4utAbiZgY1c3Vsbvu2vxyOPdk=",
           "py3"
         ]
       }
@@ -91839,6 +91857,70 @@
           "cp39"
         ]
       }
+    },
+    "2.2.77": {
+      "wheels": {
+        "OpenVisusNoGui-2.2.77-cp310-none-macosx_10_9_x86_64.whl": [
+          "6srg4JYwoZoNrI+6lcv3fkVUmDqBriB3KiKGirr+sHA=",
+          "cp310"
+        ],
+        "OpenVisusNoGui-2.2.77-cp310-none-manylinux2010_x86_64.whl": [
+          "iB4wpVLsO2QHXbQX5Kus7yogoPeuMxiz5DJK67hl6pk=",
+          "cp310"
+        ],
+        "OpenVisusNoGui-2.2.77-cp310-none-win_amd64.whl": [
+          "Kl4C0UcmXhL111qlvOwYEzDHhf1JwHY91JYEl0NGyOU=",
+          "cp310"
+        ],
+        "OpenVisusNoGui-2.2.77-cp311-none-macosx_10_9_x86_64.whl": [
+          "54BBcr13UgSxgeKOSnhoTsHvXhYG4oxEHm0yNOEzR6A=",
+          "cp311"
+        ],
+        "OpenVisusNoGui-2.2.77-cp311-none-win_amd64.whl": [
+          "Uj0+c3OiNzxx0MUKcLcv3/nbjfH5o2HLnUA37C1jfyg=",
+          "cp311"
+        ],
+        "OpenVisusNoGui-2.2.77-cp36-none-manylinux2010_x86_64.whl": [
+          "s1hJD+6Sn25UI+PvK5Juti19+Vaf1Kz0kV4Heod2DIU=",
+          "cp36"
+        ],
+        "OpenVisusNoGui-2.2.77-cp37-none-macosx_10_9_x86_64.whl": [
+          "A+pJkuKhmv9DSkb3BNLc/QzikcMrzQx9OOzdqiV/WTY=",
+          "cp37"
+        ],
+        "OpenVisusNoGui-2.2.77-cp37-none-manylinux2010_x86_64.whl": [
+          "QJ/vUtOiy1F9PGYmKY4YH9uvHXQK5tgC8CodSTVB+oM=",
+          "cp37"
+        ],
+        "OpenVisusNoGui-2.2.77-cp37-none-win_amd64.whl": [
+          "zurm8lX8dLCUGU97zvOXmnSJRVr+MFWEjUHhM8drzfU=",
+          "cp37"
+        ],
+        "OpenVisusNoGui-2.2.77-cp38-none-macosx_10_9_x86_64.whl": [
+          "ZJg25ZIJpsse3bVbZkcMkPy2b6PlGCxpg4N/Liogmlk=",
+          "cp38"
+        ],
+        "OpenVisusNoGui-2.2.77-cp38-none-manylinux2010_x86_64.whl": [
+          "QQTyL0K9M3XwkhZUuxRXD7OWgobbgXDWbtc0coVqHDg=",
+          "cp38"
+        ],
+        "OpenVisusNoGui-2.2.77-cp38-none-win_amd64.whl": [
+          "t3xjJ2XvZuIkUHA9NxQ0AO3yow+f3+5w94hDhZyYL6Y=",
+          "cp38"
+        ],
+        "OpenVisusNoGui-2.2.77-cp39-none-macosx_10_9_x86_64.whl": [
+          "nCm3cNcoZMq3Ysi4HQ5LpVHhO1xu5WFw7u0MVYlyn9U=",
+          "cp39"
+        ],
+        "OpenVisusNoGui-2.2.77-cp39-none-manylinux2010_x86_64.whl": [
+          "vx5j2fhnS2qzx425AMxCANyfhOmwNsQOc4cy7WO7NSI=",
+          "cp39"
+        ],
+        "OpenVisusNoGui-2.2.77-cp39-none-win_amd64.whl": [
+          "Gzr9tY8G4/bYf3BqQEqDX0TQzcLFRwSSj7pe9ANEdBA=",
+          "cp39"
+        ]
+      }
     }
   },
   "openvpn-ipdb": {
@@ -99360,6 +99442,66 @@
       "wheels": {
         "presto_requests-1.1.1-py3-none-any.whl": [
           "W3ZpOmhFtRGatjABy3Qtj+drZ7zkEvelH5k3erwCn4U=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "X0DZH4ySJ4PKJupj+jUtfzSZHQZQmp9vIi5p2418Fys=",
+        "presto_requests-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "presto_requests-1.2.1-py3-none-any.whl": [
+          "KHN2DyRU4gbD++moj98xJgdhOYIToWGPVG6MwiCdohE=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "JZNUhduREI1O6lsImDVpbB/XkrjmVPFESsGKeLABjoA=",
+        "presto_requests-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "presto_requests-1.3.0-py3-none-any.whl": [
+          "Nh8iESyKvq9MeOYA6hg6ZE6sFSm4Kbgo3VAyxqm17aw=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "9f9XL3UdL/evhcZexu6oCOZAHk326i75ciQUnvEr3V8=",
+        "presto_requests-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "presto_requests-1.3.1-py3-none-any.whl": [
+          "Xtt6TtCS+zhvEnsel8TCOAgDGAgshSFHx9yxJuXQQ0c=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "aU1b7ahS6ppASuve3Ht4iO0mfkRmShBlkWKZWfGpYoc=",
+        "presto_requests-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "presto_requests-1.3.2-py3-none-any.whl": [
+          "Von9I9f4Re0B4ZCFGQbI5Q1BOU8Ra8bOOzX7SrLwymM=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "AvVQFLEE5wQ7eRDKNgwKI0gLz+BV/KFHOL1Bgff90to=",
+        "presto_requests-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "presto_requests-1.3.3-py3-none-any.whl": [
+          "5/609OD1j2YIFX87owQsAy1zSRGqLVenwfx2nPUJVj0=",
           "py3"
         ]
       }

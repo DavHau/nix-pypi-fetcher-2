@@ -4207,6 +4207,30 @@
           "py3"
         ]
       }
+    },
+    "1.5.0": {
+      "sdist": [
+        "3DAnysXZuwg4MFNWpK+w0DbFy1tka6E/Uywvvr6ndlM=",
+        "antsibull_core-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "antsibull_core-1.5.0-py3-none-any.whl": [
+          "RVdqxqStPFoo2dypF1cxfAEGbmtDF+86O9wmAnxCmm0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0a1": {
+      "sdist": [
+        "A36Jkez7fwYtzO/5WjY+L0Ra/so/LeNXrspkTC7ScSw=",
+        "antsibull_core-2.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "antsibull_core-2.0.0a1-py3-none-any.whl": [
+          "1SYsYhCN65Mg8tDu1hQZaDV7LQF/BzfPuYTaiMMv5ko=",
+          "py3"
+        ]
+      }
     }
   },
   "aoxiu-tanxun-tanshiniutu": {
@@ -90550,6 +90574,26 @@
         ]
       }
     },
+    "4.6.0.20221210": {
+      "wheels": {
+        "opencv_contrib_python_rolling-4.6.0.20221210-cp36-abi3-macosx_10_13_x86_64.whl": [
+          "WBLYWuTAnEgB8I2N4vQjKMK72dWs/weEbHSOuGXgVcQ=",
+          "cp36"
+        ],
+        "opencv_contrib_python_rolling-4.6.0.20221210-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "l46CHflxqvTEcEso63FCmL76C9SJpW/7H3clbEPE74o=",
+          "cp36"
+        ],
+        "opencv_contrib_python_rolling-4.6.0.20221210-cp36-abi3-win32.whl": [
+          "xyjhbDtlqrhMITEHvQcAhv/HqbKulhTuiM1sTwdIBh4=",
+          "cp36"
+        ],
+        "opencv_contrib_python_rolling-4.6.0.20221210-cp36-abi3-win_amd64.whl": [
+          "iBGslQUZdJ+nk1ChS3IBZShnCx1py2tDn3pmELOnDFM=",
+          "cp36"
+        ]
+      }
+    },
     "5.0.0.20220821": {
       "wheels": {
         "opencv_contrib_python_rolling-5.0.0.20220821-cp36-abi3-macosx_10_15_x86_64.whl": [
@@ -91258,6 +91302,18 @@
       "wheels": {
         "opentelemetry_instrumentation_celery-0.35b0-py3-none-any.whl": [
           "pPbovGYnwaLITwdXZYjGiqmq1ywaynxEjD1fHA1pVHo=",
+          "py3"
+        ]
+      }
+    },
+    "0.36b0": {
+      "sdist": [
+        "kpBB7cTTZ+SZdHMNKtaAJ2XmXZqYcUKJwTuCORMHVEU=",
+        "opentelemetry_instrumentation_celery-0.36b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_celery-0.36b0-py3-none-any.whl": [
+          "veCQOAFRXWgBH8//De3atlBs5KzMmaOJqR/2mWXA/xU=",
           "py3"
         ]
       }

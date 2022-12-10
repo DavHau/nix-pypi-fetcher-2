@@ -46834,6 +46834,30 @@
         ]
       }
     },
+    "0.18.1rc10": {
+      "sdist": [
+        "3TAxh1bfQDkH3xgNkaL6+efNbV4Qwm/vad0HijGX7hc=",
+        "fiftyone-0.18.1rc10.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc10-py3-none-any.whl": [
+          "y7yyzRJ+y0rfOH6zF58yOjxDfVP+nJRhk60vg9N666I=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1rc11": {
+      "sdist": [
+        "EUv+yeMETsza9W1vTUBZFYe6H826f0XYgEPEFnQ/V5M=",
+        "fiftyone-0.18.1rc11.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc11-py3-none-any.whl": [
+          "meYmlyoie/KU65t+6j+Md29S7nuX6dEfOJ84HrIeVzY=",
+          "py3"
+        ]
+      }
+    },
     "0.18.1rc2": {
       "sdist": [
         "aoyTBeHo17EUlSLDroTSoH+iFmDowuQJkU8TWqzFEcU=",
@@ -46902,6 +46926,30 @@
       "wheels": {
         "fiftyone-0.18.1rc7-py3-none-any.whl": [
           "cCs5KZVXtkT81RtNAiKDvf9Yi7WENrUB8wIEzPy3Ax4=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1rc8": {
+      "sdist": [
+        "t8D3KMjmbx8ndGYI+zAvbYNye1yCM0AdMEheD3lWKfU=",
+        "fiftyone-0.18.1rc8.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc8-py3-none-any.whl": [
+          "L2D+eKNUi4KbMDnI0Mi/PY2mRpetug0NIpqpvUH11ug=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1rc9": {
+      "sdist": [
+        "xVPPPB1FD4lClTbfwXWKXB+y3yr4FtZ9bC6+G6cfG9E=",
+        "fiftyone-0.18.1rc9.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc9-py3-none-any.whl": [
+          "fjZ4Qn2oaC0kPXLKXKfNoHfDCd5qfd8QR1HBLWKHS3s=",
           "py3"
         ]
       }
@@ -90931,6 +90979,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.1.1.dev2": {
+      "wheels": {
+        "odoo14_addon_l10n_br_sale-14.0.2.1.1.dev2-py3-none-any.whl": [
+          "Z8XB5BnmmmjPEyBCuq3sJHyb4zFw2F0XzrFjFuw/7c4=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-product-stock-state": {
@@ -121566,12 +121622,48 @@
           "CDFRokBfNkkrFlOqDvgAvrnFH1ZYVv6TUr9iUujsEQg=",
           "cp36"
         ],
+        "singlestoredb-0.5.0-cp36-abi3-macosx_10_9_universal2.whl": [
+          "2JBYRifVA+qTmqcNicC0EgfkY8GzsKEX3AQL9vTmECo=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.0-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ELQF5Ngba9LE7Yil2EDirUIqSCzP/5V2/UlZtMUgAlw=",
+          "cp36"
+        ],
         "singlestoredb-0.5.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "WKhm00TPQz1XiVSnuo74Rr2UxoDudby6cSlS5PDRzQQ=",
           "cp36"
         ],
         "singlestoredb-0.5.0-cp36-abi3-win_amd64.whl": [
           "ox8MrBrzdqdZC9exFo4DeHRXunHwQpZX3ZdPm/0Zv3s=",
+          "cp36"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "0EzE6ypOu5ALRWV4Cd0WMwZong3Wk6JuI07HtENbxZ4=",
+        "singlestoredb-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "singlestoredb-0.5.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "fcxL5LilXEoOJPcobZnWFd0mmnIBEVBrP9jNPnEENUs=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.1-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "dBQdRhpNdc8aK6XqCZVFxGjQPF4Gl+V6G4Dbyg6L0wQ=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.1-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lYaQnxdQNENULKZoB/7djeLpz+5bVNkQe7TRYyMsfXc=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.1-cp36-abi3-win32.whl": [
+          "hGEi3Ns15wD4UnHMRO5XGUoPmvd3Ih0RHfHhftV5QBk=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.1-cp36-abi3-win_amd64.whl": [
+          "iNU+Fw27pAlLxScCld9Ml2ELIKWbkLGqBbIFH0daLJU=",
           "cp36"
         ]
       }
