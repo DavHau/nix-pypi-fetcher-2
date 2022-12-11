@@ -1433,6 +1433,18 @@
           "py3"
         ]
       }
+    },
+    "0.271": {
+      "sdist": [
+        "tYOKqwYFSPxIouZs+l1LwxKS2QtIbYEhAMGs4fWSFWI=",
+        "aiocasambi-0.271.tar.gz"
+      ],
+      "wheels": {
+        "aiocasambi-0.271-py3-none-any.whl": [
+          "fNZdd0DpzJ80ZmKm7/VkmoSTwzsO5rXNtKp5sEVU27E=",
+          "py3"
+        ]
+      }
     }
   },
   "aiogrpcclient": {
@@ -109717,6 +109729,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.9.dev1670762096": {
+      "wheels": {
+        "pynb_dag_runner_snapshot-0.0.9.dev1670762096-py3-none-any.whl": [
+          "I2RwY2gWDZxTvCZnXMJ6v12WAzDUoInT2cTeuOMWLrE=",
+          "py3"
+        ]
+      }
     }
   },
   "pyneat": {
@@ -111492,6 +111512,20 @@
       "wheels": {
         "pyprobyto-0.1.2-py3-none-any.whl": [
           "j+V/mSrYx26msCh/J3CbRZFpmYwcwpm6uwfAwNJajrk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pypyd": {
+    "1.0": {
+      "sdist": [
+        "Y8Iub8wALe/ttfUIf7DbxYnaG79vOt6MS3LbfDCl94o=",
+        "PyPyd-1.0.tar.gz"
+      ],
+      "wheels": {
+        "PyPyd-1.0-py3-none-any.whl": [
+          "03GyzWoUXg+FDlqs8CdLO6CW0YyjdLH4W3Dtd9LLf1w=",
           "py3"
         ]
       }
@@ -121929,6 +121963,12 @@
         "5EFC1LrynWyDebAJmpU2tsP2geFxinDzx0wcRYJ+PTg=",
         "root_painter_trainer-0.2.23.0.tar.gz"
       ]
+    },
+    "0.2.24.0": {
+      "sdist": [
+        "nj4ezEvrIKNlIyMFVtPquZxKrpoBYtUlvoWPJFuGrvs=",
+        "root_painter_trainer-0.2.24.0.tar.gz"
+      ]
     }
   },
   "roperf.bearertokenexample": {
@@ -121984,6 +122024,18 @@
       "wheels": {
         "rosrestpy-0.1.10-py3-none-any.whl": [
           "P6AixWN/okUY7fVyglnt/MesZ58MrI/NwV1gwjX4UgQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "16QlD80YW3G5PCV47kNKD8mKRE0i6UgC2TK13Rnu3ac=",
+        "rosrestpy-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "rosrestpy-0.1.12-py3-none-any.whl": [
+          "8hG67wkgonViUy4PLX3XPbgKOMaFc7+yd+yZsOsbmRY=",
           "py3"
         ]
       }
@@ -139950,6 +140002,46 @@
         ],
         "tflite_runtime_nightly-2.12.0.dev20221207-cp39-cp39-manylinux2014_x86_64.whl": [
           "zAMtYZvv0KWpWKYd+BXXPGMcIvR8C+EznJQN7Qw1CSc=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221210": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "yLaQR8S8QO35N3YGJqSwcXpZRE+wFiuv6h8+YBFLu+A=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "7oDwhtu6jb2iyCHKMbmP0VAuyoNofU0ksaouFOVc568=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "MwnhU0BC6txzcNQKql+8sZGwcvJcgktq4RTchK4s2tQ=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp38-cp38-manylinux2014_aarch64.whl": [
+          "uYrhlfIC5comXmCgl1a5gcPFdDSyw1q310t80/ZDgLw=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp38-cp38-manylinux2014_armv7l.whl": [
+          "3T19xj9y1XXmgz/PAAA4y1IKSB6x/+PsqOqF0IxF+7Q=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp38-cp38-manylinux2014_x86_64.whl": [
+          "qJWbEkwYuPm9s8HPm875J+iiJED2tNOTiEWgn+73GTw=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp39-cp39-manylinux2014_aarch64.whl": [
+          "8tp1e17lwHsmDfe7M6xpnxT3YmW6yKixTnsm0XxDSoA=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp39-cp39-manylinux2014_armv7l.whl": [
+          "AqnzArj9cILJKvhOLfq2BENscYi8YXzHKMa5r24Lfn0=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221210-cp39-cp39-manylinux2014_x86_64.whl": [
+          "7iJw6Ik9LBYS28DIRKzThvgDnq57Is23tfU21kRFft4=",
           "cp39"
         ]
       }

@@ -13543,6 +13543,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221211": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221211-py3-none-macosx_10_11_x86_64.whl": [
+          "d6167J2rBplUyibwBuANBo+4asC0pUYFDbtX2Q6Y/yA=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221211-py3-none-manylinux1_x86_64.whl": [
+          "derhoyVhIZJfZqkoOzstSHq+F4UxnGQvDEnJg7igZ7w=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -98040,6 +98052,18 @@
         ]
       }
     },
+    "0.4.7": {
+      "sdist": [
+        "QfuzAEjKIx04BzNrllwOTlg9geGhhui1L8vmyZAEelw=",
+        "nanopb-0.4.7.tar.gz"
+      ],
+      "wheels": {
+        "nanopb-0.4.7-py2.py3-none-any.whl": [
+          "vEMCv0NKawy8XTCZfq/3N9YC6V+T1wtsWx5iKPKqzwM=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.4.7.dev1329": {
       "sdist": [
         "MAJ7KRCe7Abvz21wmJDTliJU4oSAUPWZCEROwxWVYFY=",
@@ -144867,6 +144891,22 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.0": {
+      "wheels": {
+        "ssssg-3.0.0-py2.py3-none-any.whl": [
+          "G5QOD2/BHZLPrq4NbB0ktNgSs1c9/t/QVVmmB1OS+hc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "wheels": {
+        "ssssg-3.0.1-py2.py3-none-any.whl": [
+          "iUv5EgJQ5WiBMKVMPfLVKrZMXArszNRAEuda8IZFhaM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stash-okta": {
@@ -146814,6 +146854,12 @@
       "sdist": [
         "apEqZz4HpylNLXMyLEs5CjfUrLsVoQpRbzXT6n7g1t0=",
         "tendril-apiserver-core-0.2.4.tar.gz"
+      ]
+    },
+    "0.2.5": {
+      "sdist": [
+        "nTCcpo7xGOSHXUMWmwR94oUNueRvMkjIu8WP0CY+PMI=",
+        "tendril-apiserver-core-0.2.5.tar.gz"
       ]
     }
   },

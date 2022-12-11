@@ -40472,6 +40472,18 @@
         ]
       }
     },
+    "6.18.3": {
+      "sdist": [
+        "m7acL1kpEs/YhdZTKrP7Gqwg7ikygyAEMQKgJ27Ovo0=",
+        "esm-tools-6.18.3.tar.gz"
+      ],
+      "wheels": {
+        "esm_tools-6.18.3-py2.py3-none-any.whl": [
+          "lkazmYE9Q3n40qxFAlh/cFoLeHHWlRMEAxWWMNxkfPM=",
+          "py2.py3"
+        ]
+      }
+    },
     "6.3.0": {
       "wheels": {
         "esm_tools-6.3.0-py2.py3-none-any.whl": [
@@ -60396,6 +60408,42 @@
       "wheels": {
         "kraken_std-0.4.15-py3-none-any.whl": [
           "u8G4uHJrSZ+Y1XKzQKwVJ7O7rg7JLuDpoy1GthrtGpc=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.16": {
+      "sdist": [
+        "VkQxNR6qipJDdqxyJ1gY1yTvKNEpTilvkAF7/UrO7zM=",
+        "kraken_std-0.4.16.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.4.16-py3-none-any.whl": [
+          "waPWUsXUtw2gs90Lk1n3tm1HqBsr+Mw2zDW4BmFTIPE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.17": {
+      "sdist": [
+        "uUBRVEfuO0NDQHGECR/UpQDgyKYRUCNWg0WCUnr2K3Q=",
+        "kraken_std-0.4.17.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.4.17-py3-none-any.whl": [
+          "VyzhdaHcq7x3GcAnC2gCm2r/W8p9ilKvCd21X/9nt+0=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.18": {
+      "sdist": [
+        "jeIVY6QfVAfJebfopq9IlzGxw2o4Sb9ACAjWhr7UXrE=",
+        "kraken_std-0.4.18.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.4.18-py3-none-any.whl": [
+          "2iH8YAG2DqzNEyLmJPnwnVTA/ieLbCVU3UQTwL51TK4=",
           "py3"
         ]
       }
@@ -101195,6 +101243,16 @@
       }
     }
   },
+  "python-milvus-server": {
+    "2.2.0": {
+      "wheels": {
+        "python_milvus_server-2.2.0-py3-none-win_amd64.whl": [
+          "J/sfXOb/L//G4tEAJOwcuWSMVFejwuE88fwjnwTrm3A=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-openal": {
     "0.2.0": {
       "sdist": [
@@ -103068,6 +103126,20 @@
       "wheels": {
         "qtgrid-1.0.0b2-py3-none-any.whl": [
           "WUQ5C5S0qgcqPEuCzxx4Ff5VEQfVR5mV7REW/QKg66E=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "quantile-scatter": {
+    "0.0.0": {
+      "sdist": [
+        "vbVgGqq0SKBZPuwX5tpn3i8CirkkBySfsXLJXaOMy3k=",
+        "quantile-scatter-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "quantile_scatter-0.0.0-py3-none-any.whl": [
+          "re+Mhbr++EBLbXTjwLAQq5mginbuSQSF3vz/8hAkSp0=",
           "py3"
         ]
       }
@@ -131407,6 +131479,18 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221211": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221211-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YAUlCDhUcY1ZVKIrsOGTZNtaYjWc4hAQ0GxJBkqnZoM=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221211-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Zg1dn7lzVOS5r+M9Gr4xTi2ks8SSOSHaEqIqGajbzU8=",
+          "cp37"
+        ]
+      }
     }
   },
   "tffm": {
@@ -142960,6 +143044,18 @@
       "wheels": {
         "webull_python_sdk_trade_events_core-0.1.1-py3-none-any.whl": [
           "ccgqJ+yQisYE1KHm4k/bX6PCFbjH88AUYJ/jn1n/j/s=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "TOA1qmE8WfehcKzpwX26u444GoOTo/Ks7qHGaPwypNs=",
+        "webull-python-sdk-trade-events-core-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "webull_python_sdk_trade_events_core-0.1.2-py3-none-any.whl": [
+          "iKXhKoH9hkcVOu9bqmgTBgIozTutATfm5v2UmL/Mi1g=",
           "py3"
         ]
       }

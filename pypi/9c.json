@@ -47349,6 +47349,18 @@
           "py3"
         ]
       }
+    },
+    "2.0": {
+      "sdist": [
+        "/2Sa1f+FedlQ7UnpIviueUYu41QKnggDV67iSIDvnmU=",
+        "erlenberg-2.0.tar.gz"
+      ],
+      "wheels": {
+        "erlenberg-2.0-py3-none-any.whl": [
+          "0ZdEjQyA0LD/ezjWlYzuZWB7fIHNRRknDPPBcYj4etw=",
+          "py3"
+        ]
+      }
     }
   },
   "esbonio-extensions": {
@@ -80681,6 +80693,32 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "XFVJQa3lNElSIforXYzfDAptxWj4qwKULJ4ShdUFxwQ=",
+        "nonebot-plugin-chatgpt-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_chatgpt-0.6.0-py3-none-any.whl": [
+          "PaTclN62/aIaLCgG0udS0Yp/sjIUGLOvJ2V/ood7yEg=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nonebot-plugin-colormind": {
+    "0.0.1": {
+      "sdist": [
+        "5V03vQmnS1Byuo4dfXK3tQoqNAL8VeZ1b+1J7fR+jAA=",
+        "nonebot_plugin_colormind-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_colormind-0.0.1-py3-none-any.whl": [
+          "2B51L9kS0/hv1rMBlashHIbOJQIMsfQT1NC2KNWmHpQ=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-oddtext": {
@@ -111511,6 +111549,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "dknJ6oigOJKZUFPA5D0PnUt5pjJ8/l9hVUcrfY4pxZc=",
+        "pyChatGPT-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pyChatGPT-0.1.2-py3-none-any.whl": [
+          "uahUOUHErzDw3DgZpM4uGRECIgSixV75DuKVlb3Db1g=",
+          "py3"
+        ]
+      }
     }
   },
   "pycloudlib": {
@@ -129378,7 +129428,25 @@
       "sdist": [
         "q5RiVyzcVvfAyopexxJ/2Kdi4vlbfwzDqTXmc/IDOLM=",
         "scientific-data-plotter-1.0.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "scientific_data_plotter-1.0.0-py2.py3-none-any.whl": [
+          "NcR7llmaPvhK96ES+6AU8o9xyc45eIvY0pBS7H6Lkfk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "LSLnivEGQpLcA0vwl3AGjufi9a63dgM+0m6nfSKH6cU=",
+        "scientific-data-plotter-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "scientific_data_plotter-1.0.1-py2.py3-none-any.whl": [
+          "f56phyeL8Qt33luV9hF20BoX+cf8EwHp0fvpdGEAAgw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "scrapy-testmaster": {
@@ -152016,6 +152084,26 @@
         ],
         "zenutils-0.3.16-py3-none-any.whl": [
           "X9ZjDUvygp2bHwFGhsR/usxZl9q1h82ScmfSg/Qk+Lk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.19": {
+      "sdist": [
+        "YnIcRbvfTPZOHVETGs536/5ytouUBMXT2pjqsrOTSpA=",
+        "zenutils-0.3.19.tar.gz"
+      ],
+      "wheels": {
+        "zenutils-0.3.19-py2-none-any.whl": [
+          "T+3wyweF/N4SxsIdKpo6sx//9ekx6WHo9gmi6KyD0Zw=",
+          "py2"
+        ],
+        "zenutils-0.3.19-py32-none-any.whl": [
+          "ncsFuz0EyiXh0X8eOKqTC2FEaVzHjd+XEoAlNWOVTjI=",
+          "py32"
+        ],
+        "zenutils-0.3.19-py3-none-any.whl": [
+          "BHWROf8oKksgoQPwZvAkoYOJYgj8Ezay0p7TSwgawRA=",
           "py3"
         ]
       }

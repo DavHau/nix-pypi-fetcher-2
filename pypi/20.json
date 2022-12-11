@@ -2572,6 +2572,18 @@
         ]
       }
     },
+    "0.21": {
+      "sdist": [
+        "HY2kjQgfkq9s8S2OzEe9r+BFk19Eh3RoTA5mFADdr9g=",
+        "aioworkers-0.21.tar.gz"
+      ],
+      "wheels": {
+        "aioworkers-0.21-py3-none-any.whl": [
+          "Jk4n06HIHq8TBbsOuKuvmShfmYIkFVFMM5v/3jHydU8=",
+          "py3"
+        ]
+      }
+    },
     "0.21a1": {
       "sdist": [
         "ktSYzoRF9zdPGjzI6YOxjz2+/fum5w5VJo2p0UHCka0=",
@@ -65055,6 +65067,14 @@
           "py3"
         ]
       }
+    },
+    "2.2": {
+      "wheels": {
+        "gqylpy_datastruct-2.2-py3-none-any.whl": [
+          "36Qc08iPTt2j8w6NKJDBSKuaRn2PftDuRBC+5OY55+o=",
+          "py3"
+        ]
+      }
     }
   },
   "grains": {
@@ -107012,6 +107032,18 @@
       "wheels": {
         "ptrade-1.0.5.dev1-py3-none-any.whl": [
           "slxz5J02hv2xLhj33def2n4coS2oIvYF9BabNXARTTc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5.dev3": {
+      "sdist": [
+        "DbdvXJpbIXwBJ410D2HLWQRCMBIHLM1n/0sS9h6F6zY=",
+        "ptrade-1.0.5.dev3.tar.gz"
+      ],
+      "wheels": {
+        "ptrade-1.0.5.dev3-py3-none-any.whl": [
+          "irft+2zlB9GjXhhP4jw+SrQDtqXpr8PKvvPgToHW6CU=",
           "py3"
         ]
       }

@@ -13949,6 +13949,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221211": {
+      "wheels": {
+        "bigdl-2.2.0b20221211-py3-none-macosx_10_11_x86_64.whl": [
+          "CSe8vqTKBNNA7XIKG/N7V5vHfdeT0HhYQKWgIHq0J/c=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20221211-py3-none-manylinux1_x86_64.whl": [
+          "ziXA1/oM0oGS+vsEQWcYHyBpaXwsUIpn7LFlENW8YhA=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -27574,6 +27586,14 @@
       "sdist": [
         "VPIlqtEIK9JacrAwydIwscsc1aNTHlGh/eac5Jzhws4=",
         "distributions_gyan-0.1.tar.gz"
+      ]
+    }
+  },
+  "distrowatchapi": {
+    "0.1": {
+      "sdist": [
+        "OuxSM6MjAcvEm8pwc9HvDviq2TlxlPiD1o0ttRybgL0=",
+        "distrowatchapi-0.1.tar.gz"
       ]
     }
   },
@@ -67934,14 +67954,26 @@
     }
   },
   "nonebot-plugin-kuma-san": {
-    "1.0.0": {
+    "1.0.1": {
       "sdist": [
-        "oxQnloCRCxvXB0Nuj68fg82jjPfMZA4PQp7MoQgZjD8=",
-        "nonebot_plugin_kuma_san-1.0.0.tar.gz"
+        "yOR38QyV3lsatD+/Q2D2tQEiXyFjhWTqvdjTVGHuWfI=",
+        "nonebot_plugin_kuma_san-1.0.1.tar.gz"
       ],
       "wheels": {
-        "nonebot_plugin_kuma_san-1.0.0-py3-none-any.whl": [
-          "mspgZMblXU6ruH1FI+faSKB8q6TEBnmPz6F9nyrQmRI=",
+        "nonebot_plugin_kuma_san-1.0.1-py3-none-any.whl": [
+          "58x1gs5QLbtRLrbxYLJGJkSy/KbF4MNyKI5mcjmlpss=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "Gk0A9R8ABqXMkoFweVTrLSIZ+EtJpMpYnlVp654XKjQ=",
+        "nonebot_plugin_kuma_san-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_kuma_san-1.0.2-py3-none-any.whl": [
+          "ybE3wdqp86HUZYenmDqyI7Ld7LpEmknVpZVmSlT+AtA=",
           "py3"
         ]
       }

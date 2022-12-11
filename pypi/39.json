@@ -15123,6 +15123,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221211": {
+      "sdist": [
+        "xIqhV1oE1bEgnnS8KBHX/AWu/tN5xqBe4oYRGIagDyk=",
+        "bigdl-dllib-2.2.0b20221211.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221211-py3-none-macosx_10_11_x86_64.whl": [
+          "ZC9kTOHAPnAnrKGu4aIHE+YDf54Ck5VpBMb5ZpCYhpM=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221211-py3-none-manylinux1_x86_64.whl": [
+          "ypuWSsLNcJR34L2g4tR4ezYsfS8csn0LKqsLreaDZ6A=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -19001,6 +19017,20 @@
         "chainer_cv-0.2.1-py2.py3-none-any.whl": [
           "K9bxClCHl/oGp1q9FbIY57e8LLUxEg/8dRHO5hVZdMM=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "chainlink-blog-zh": {
+    "2022.12.11.0": {
+      "sdist": [
+        "51kTWcXZdePYipGu3c6JFtT/v0xwBlFM7mmcJzMPp/I=",
+        "chainlink-blog-zh-2022.12.11.0.tar.gz"
+      ],
+      "wheels": {
+        "chainlink_blog_zh-2022.12.11.0-py3-none-any.whl": [
+          "TY4ZFzdgBCEsvXdyNUzYHRUzPYILFM6+Tdw9sGqCOrI=",
+          "py3"
         ]
       }
     }
@@ -122206,6 +122236,18 @@
         ]
       }
     },
+    "1.45.0": {
+      "sdist": [
+        "rxgM68xAVJ7/7+55G5JvBPXBm1D6zy1UroTlGneqn8I=",
+        "starlite-1.45.0.tar.gz"
+      ],
+      "wheels": {
+        "starlite-1.45.0-py3-none-any.whl": [
+          "oBBl9BF8RVGkgvpuSAXQKf1ZGg7VBEvPCIXJKFuIIRE=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "IodzAYzCcySgkWWKXPApCgTGkq89TIVqyvzHWRm90+o=",
@@ -137829,6 +137871,26 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221211": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221211-cp310-cp310-win_amd64.whl": [
+          "+n68RcFw1+nb2LBRZCpOZYrLuHSzZUjstSleVj+w3N0=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221211-cp37-cp37m-win_amd64.whl": [
+          "peZLob3+hoPej+i/E+wftjqjD7GXgd+hX01uxESxGzM=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221211-cp38-cp38-win_amd64.whl": [
+          "EzMFwQyhS3HdsTDd8CInwpOBViDD+BIO2rrjAyhNWbw=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221211-cp39-cp39-win_amd64.whl": [
+          "+aNPJN46jFXQ7rUCx1TGDQ2pE93cTFDwbk8r5TCYkUg=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -149944,6 +150006,18 @@
       "wheels": {
         "wordcab-0.2.2-py3-none-any.whl": [
           "2qXdyZllNlIbNo/PctY9bMfAcQFWkIQ6OHH90JpEczc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "dI/9k3FZXZlPotqax+d+w0M8Yz25SyqUvn/xwocs7PQ=",
+        "wordcab-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "wordcab-0.3.1-py3-none-any.whl": [
+          "FoAkN8nx7/9GDrxPg+vli5Q0L+JWsJqdc1sZJX3Y220=",
           "py3"
         ]
       }

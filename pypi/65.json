@@ -23389,6 +23389,26 @@
       }
     }
   },
+  "compiam": {
+    "0.1.0": {
+      "sdist": [
+        "41x99d2C+26i3ouGYkXWrgPOVEpNLvy60sFoYnVfnck=",
+        "compiam-0.1.0.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "x9TmTDSgAKfqNOAqVMjGX5LqRMZXSsUigKv9IUoPHIQ=",
+        "compiam-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "Z1OIPNTHUR9rHStndd9ibh3EshoHDWIQ3phozgnZ9Kk=",
+        "compiam-0.2.1.tar.gz"
+      ]
+    }
+  },
   "compiler-magics": {
     "1.0": {
       "sdist": [
@@ -73478,6 +73498,18 @@
       "wheels": {
         "lesiwka-2.0.20220906.0-py3-none-any.whl": [
           "YcWQ9ArBGnznpJYwZGV4NWMGWfkGKHGLwhnnFlUdV20=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.20221211.0": {
+      "sdist": [
+        "wxvM0HFTe1747uYYgWamixjZhJaURbBRmRTd/Hp6G5E=",
+        "lesiwka-2.0.20221211.0.tar.gz"
+      ],
+      "wheels": {
+        "lesiwka-2.0.20221211.0-py3-none-any.whl": [
+          "C04EWeoJ5LnUnBPxnKfL850A2HXA77y68Qha3v5ARUM=",
           "py3"
         ]
       }
@@ -127406,6 +127438,12 @@
         "selection-0.0.18.tar.gz"
       ]
     },
+    "0.0.19": {
+      "sdist": [
+        "umWn5/Svq+5MQd+GrsX55oC06rYe4YGYqL1HW6A1hk0=",
+        "selection-0.0.19.tar.gz"
+      ]
+    },
     "0.0.4": {
       "sdist": [
         "RJPEd7vLw9OizpcLsQwdxY0ezTg68fF9i7ZtgwhF7g0=",
@@ -136099,6 +136137,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "EaHQI9ktN+aR+pZQ/6hnLLwRhNe631ZsU9Ujnm5xiek=",
+        "TDBRecord-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "TDBRecord-1.0.3-py3-none-any.whl": [
+          "psrbn3xs0hJaqLbFnKX2gbGr/LvsNTmIniT1tHQGRV8=",
+          "py3"
+        ]
+      }
     }
   },
   "tdwew": {
@@ -142390,6 +142440,42 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221210-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Thw52gkLSP3Ju5ePDg7owc6zfKhhPDj3fNh9l+CCjIg=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221211": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "0Hkwpldxj3VKaJswQO5a5wozc1kUSqry3B4O2NIRuCg=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xpTj6RESlIi3cukaGQQs/7LWhRaw+DzbUMFnwZd+0Xo=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "rb8d9gwt3FPxrdQAr4S+uZcuwifFNmPsoKS6G/t3g1w=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lUhpkCbyy/kZuUoiOIqZrwlkVBG7gEaWDXUElw/P/r0=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Qf+qNSI0HqelPe/RAtpggLTMK/O6aKsGPgETo5flk7Y=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mCNYXFn1dXUp/WdYElEZHqZP0UGec9ROvgyKyjW6/AQ=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "0WOt4KXVR2s2/2BxFi9LM8QRUNRaKzG0C5tU0Oq7uvM=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221211-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Sylz14Hz9qSkl8wXdHuWbia0+kTsV5Gy+HsGhnvOlu8=",
           "cp39"
         ]
       }
