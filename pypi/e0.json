@@ -9959,6 +9959,18 @@
           "py3"
         ]
       }
+    },
+    "2.9.7": {
+      "sdist": [
+        "smraxIWbdOyRvKtYVC7yFJMPpjXsXwp5i5fxQd6n/SA=",
+        "binsync-2.9.7.tar.gz"
+      ],
+      "wheels": {
+        "binsync-2.9.7-py3-none-manylinux2014_x86_64.whl": [
+          "arrRLHWUPcVgvINpxDR8jv6/vv7ao1w1JyT3DoWvKtw=",
+          "py3"
+        ]
+      }
     }
   },
   "biobb-adapters": {
@@ -68832,6 +68844,18 @@
         ]
       }
     },
+    "0.2.12": {
+      "sdist": [
+        "b6zygGxjCgGPtYElSGwCF+/spUaSEvQyEYd1LccAZIY=",
+        "jmapc-0.2.12.tar.gz"
+      ],
+      "wheels": {
+        "jmapc-0.2.12-py3-none-any.whl": [
+          "mJV5jQm0pAhk1b+phtcBDg/P38YUF5MsN7kzWrhrA8o=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "4b1qn1oIophPPYKPNf3XeUjNaDESYMKSX4b+8d0vj8o=",
@@ -76992,6 +77016,12 @@
       "sdist": [
         "tSzjCsGwXAVJDwYJ/CViSUbf6GdRMe9EANSAtl7TOM8=",
         "lpack-3.2.7.tar.gz"
+      ]
+    },
+    "3.2.8": {
+      "sdist": [
+        "ykHF1334kHi7ZNbDjK1jbIGzORFGVnvw5n7+BP0735A=",
+        "lpack-3.2.8.tar.gz"
       ]
     }
   },
@@ -143267,6 +143297,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.792": {
+      "sdist": [
+        "wKZjrjxBJUZqAL1Gx9PXmfqXIPECfDPjzxZjKjWVF1s=",
+        "tencentcloud-sdk-python-pts-3.0.792.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_pts-3.0.792-py2.py3-none-any.whl": [
+          "cvT2RGBM1gWnti7GHRDVKQurTPbpoa4UATOTeSV87Tw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-server-prefab": {
@@ -151096,6 +151138,30 @@
       "wheels": {
         "vspreview-0.3.5-py3-none-any.whl": [
           "XGbb6PNI8saYfwxpv5ZtpN9nF4aUvU+OWj7VLtxwzu0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "YG0a9pRobYHZC37tVVcYh5ozvA6MWZKLfbSxKm2+hmM=",
+        "vspreview-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "vspreview-0.3.6-py3-none-any.whl": [
+          "Y7f/PsKW8bYzlGY2Vu+plYVyGUZ27vo5n2+E0FvMRQg=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "ZM4UaFKpGFIPM0122QCSnDvNC361CgRw6BAbs2YIvlM=",
+        "vspreview-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "vspreview-0.3.7-py3-none-any.whl": [
+          "tN0nSjL2ZCZdVy9G3ZNeJyC8tm05ftG2W2Lj+webTCY=",
           "py3"
         ]
       }

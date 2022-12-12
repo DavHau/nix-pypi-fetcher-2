@@ -9692,6 +9692,18 @@
         ]
       }
     },
+    "2.0.55": {
+      "sdist": [
+        "+q7mypzsfcN0nPVFOakQFuGa55UOmn2uCZodFp6Zez0=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.55.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.55-py3-none-any.whl": [
+          "+8PVmDMoqfMg+vhd93nRdY0vTKTvMksY6evouHZ4SC8=",
+          "py3"
+        ]
+      }
+    },
     "2.0.6": {
       "sdist": [
         "MdHCN8GcCxDoUqSJme6xC6fDEPqyDQYL/x6duJopETg=",
@@ -48285,6 +48297,68 @@
       }
     }
   },
+  "elio": {
+    "2.0": {
+      "sdist": [
+        "ztgpJqqZmVTHVPWOtYsSO+RrxLneyRO2WN+y22kLk+Q=",
+        "elio-2.0.tar.gz"
+      ],
+      "wheels": {
+        "elio-2.0-py2-none-any.whl": [
+          "lCudtJvGI8udgF60KQp0u7v76s8zpU0ICXCT6EcXJ3M=",
+          "py2"
+        ]
+      }
+    },
+    "3.0": {
+      "sdist": [
+        "rxZauXJUdbmu3tnL8pvsx6vQZBWL2ApV026XdFrVniY=",
+        "elio-3.0.tar.gz"
+      ],
+      "wheels": {
+        "elio-3.0-py2-none-any.whl": [
+          "QIvmUx4xSXKytifE6CXoPeDyG3WYds6zArLU2csmXXw=",
+          "py2"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "HxFgfJ925ywygcy4P6Tp67KjE3XiZi2b4S9Pc183xSI=",
+        "elio-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "elio-3.0.1-py2-none-any.whl": [
+          "+27vLCYYyai9SEgnMTL28AgEiH/BfU6aIReQRY09cp4=",
+          "py2"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "mEeCNrDe65zdESxxnzWu889YA+NGnwSaVhdHEceI/GQ=",
+        "elio-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "elio-3.0.2-py2-none-any.whl": [
+          "mrl8Yla4HW8hkC53LJQ240WsbR5SpOiJk2ueJPL0tPU=",
+          "py2"
+        ]
+      }
+    },
+    "3.0.3": {
+      "sdist": [
+        "Vq2jHcS+Vu96TWzG66EF+IFe2SC6RdjUYGy4LClv2qc=",
+        "elio-3.0.3.tar.gz"
+      ],
+      "wheels": {
+        "elio-3.0.3-py2-none-any.whl": [
+          "VRtYI3UodgK/sC01rj/cgGPCpOlIOGPOuyzW0YBOlrI=",
+          "py2"
+        ]
+      }
+    }
+  },
   "emailvalidation": {
     "1.0": {
       "sdist": [
@@ -66072,6 +66146,14 @@
       "sdist": [
         "dADXG3NGffctxX1VzXnKObhncua5afvdH8TZDXW4gnw=",
         "isdc-matrix-0.1dev1.tar.gz"
+      ]
+    }
+  },
+  "isitkbs": {
+    "0.0.1": {
+      "sdist": [
+        "kUmcbl504ERI058BxfqN4p2TpVoefy9Ukxuq+13Zk3U=",
+        "isitkbs-0.0.1.tar.gz"
       ]
     }
   },
@@ -137087,6 +137169,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.792": {
+      "sdist": [
+        "y0MZWP++9fC6xJvezzkCh3UL08JK5f5ikwnZa51/vZs=",
+        "tencentcloud-sdk-python-advisor-3.0.792.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.792-py2.py3-none-any.whl": [
+          "GSxnAOXjGVCw0SXc2A2Z8fElo3sdXzw0mmLWnP9l6gI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -138574,6 +138668,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.791-py2.py3-none-any.whl": [
           "5ysyPfAZZRd4q9kVUqCMx8/Vzv4MWYSx0ZR+3Gssgr8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.792": {
+      "sdist": [
+        "Qrb56XU7lP42mDXEIi7IpN3K7gW1v+fKqTJhANBBbko=",
+        "tencentcloud-sdk-python-mmps-3.0.792.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.792-py2.py3-none-any.whl": [
+          "Yt8yyO3V6wHMGTI1Bfn/Ox2GVW6usQLIr6358+aGSYI=",
           "py2.py3"
         ]
       }

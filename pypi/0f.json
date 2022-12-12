@@ -19225,6 +19225,12 @@
         "FbfJ93IsPpPvEmWpoSLpNuTBCRQZ7tXM8tkgLBroruE=",
         "boxhed_prep-2.43.tar.gz"
       ]
+    },
+    "2.44": {
+      "sdist": [
+        "p3mXriY+w5gLCxDm1L2zZxsrVE8zD1mxxXApY6PBznQ=",
+        "boxhed_prep-2.44.tar.gz"
+      ]
     }
   },
   "brawl-stars-gems-generator-2022-v-9544": {
@@ -84454,6 +84460,150 @@
         ],
         "mqt.qcec-2.1.1-cp39-cp39-win_amd64.whl": [
           "pOLKayaOiS8X6IqGu7amA5eD+pKNKWiYskoTsDl/+n0=",
+          "cp39"
+        ]
+      }
+    },
+    "2.1.2": {
+      "sdist": [
+        "zRxQwd4XDMmzBZLlS3BJAz2OuryfnhaMWhaDePwHxYU=",
+        "mqt.qcec-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "mqt.qcec-2.1.2-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "bB2URZXLDXtwSJ4ZcU4hE4XwHWQnMY5DIlTdjZbw4RU=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "oK77qN3ajNEkLl5g6UdATQu5VjXG3ojvVdUPxgqhTvw=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "sxG8R3d/bzUHDx7EIQjW73V8VC0icRTaoOynycooVvA=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "8TlZKGMJxOfZXX0PZ8H0M7zru2bOUZycUR6s2EyKfNg=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "be0UDCGKJa+yb1USfZHU+eSq4ypT5hjKFEWzyXp2nwQ=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "g/x3hsc8sSdCN/BXFD6ak2GXuSIrGEllo6O3InoEsyo=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp310-cp310-win_amd64.whl": [
+          "Nxy8qvaKC1SFSz6Wm2elgvxOoQD0kU6wJ+jfJENC14w=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "lPJKkPAPAF4+uJYGNkHHmQJ6k8wlZPvcQxm5aPF4pEg=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-macosx_11_0_arm64.whl": [
+          "CYSk1swQ8xACY0/CDBK50XGcnLE4W16zbm22NNCHzkU=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bGVZTlU35YQDifOk0Q5Yo9OQwqKFeNvURYJeTii/Te4=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "m7rHSNE8dqQ365iprnO5KLAWUWT+Nbn/3AU+bStnwYY=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "s+U/HaCuBcNftQZ+x6WMsIb6Bx6T7vEN1VlEsP0Ocrc=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0RKM1cl6W8BsSWtCmPO/VOCCAqxr2Qw4RnroJLCR3Io=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp311-cp311-win_amd64.whl": [
+          "JONyrdp5cOQ73eh7nDSpI+YqW7bi7Fx7izav23aoSFg=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.2-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "48F5F9jgZf91rtPk/RWF990/YGm2EPJ7XgibBs0WCrI=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.2-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "dhdqzNKBqM7l0oO3isMS8FTjZ6vRFyXL5wQh7TFdngo=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.2-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "8+NxNV9ZwLgVWzjnbQ+8BOiXdNxiQmtwpZ5UbPy8tPg=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.2-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "f4J+HHVXJMMz1dcbwR5XxWsBlswvJTHVJWlnqKxWEj0=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tjmZmG7DZGYffHGawBuLEeZ7cbtsatZg5awZCJWQaFU=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.2-cp37-cp37m-win_amd64.whl": [
+          "q9TOWwx9EVWiy4rbVRMmUsizyZZA0lb2+dZXGU7MABE=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "JHx4WtjZ1Xm3iXpTJmcqFF+VjA+geU22aYLlsd27IpE=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "BSBRoYDqLb5T27mTyGgtci8VfCzIVGfd7q/VZ0vgz9I=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "KkrvPGeief48wszfPph2Kwxp4XCn2zHK3FoNVyStbHU=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "L2Vn8JDGDHH85dwxrqt09VQPHVk3bwdRVlPtpQHLX2k=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "reopqXlb4nWcyRGXfSYWvDvaa0BBU3AbWwCIlrh13Ck=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Xf8n6+e3w8fM60OqCKNJR0SQF8jGG+1DyXJALWJkAvk=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp38-cp38-win_amd64.whl": [
+          "u4wgvVSaUzq4vhoOvciZAMH9Zc3I+69ZT4t1uJgn/Yk=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "Jbhe/xWjE4LWo6sOzZqCobZbUQukBqA6QLOXtvx52Jg=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "qt4BczMXntkqBJmOj3i/S2Um9r5AtYJYggbfxZcPnqs=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "MFOshLDNmSA6yekcp5rsEnHvk5hxpsrsc5gerXeaUSA=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "xt2dI1JU/GXCMFTWRfXBdfpjCfBsOAnszNJfYY2p4qs=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "vpgTdx/2mm3pA5qCTcNyOuZHJ1/pN5/ofqwXKyKOdY8=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ee3vyIuxAtm7i9Qd7VfhGxF0vMzp5NIisfzluzge7Vs=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.2-cp39-cp39-win_amd64.whl": [
+          "3kL1tnRVzzbLeJblLDcpsdpeabBlB33EmCLir/S7q9s=",
           "cp39"
         ]
       }

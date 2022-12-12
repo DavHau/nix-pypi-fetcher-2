@@ -7343,6 +7343,18 @@
           "py3"
         ]
       }
+    },
+    "7.4.0": {
+      "sdist": [
+        "jgsUZxbbL32V0BcmlHQ4kEdgpssAWqORzub3piPWJ+4=",
+        "approval_utilities-7.4.0.tar.gz"
+      ],
+      "wheels": {
+        "approval_utilities-7.4.0-py3-none-any.whl": [
+          "0R9UWtMY81IOmXZXqutlEVIaTQtkeghoA3yoF698c7M=",
+          "py3"
+        ]
+      }
     }
   },
   "aps-cli": {
@@ -122415,10 +122427,6 @@
       }
     },
     "2.5.0": {
-      "sdist": [
-        "ojtda0uFMgPwrSxH8EGQAZ8EiP3lFI17tMHVFD4sROw=",
-        "pyrosimple-2.5.0.tar.gz"
-      ],
       "wheels": {
         "pyrosimple-2.5.0-py3-none-any.whl": [
           "pkqgUhYwxFUpw/21Vsh8ukFv593TjbwDbyN6MKjlGfg=",
@@ -136846,8 +136854,36 @@
         "SpatialDM-0.0.2.linux-x86_64.tar.gz"
       ],
       "wheels": {
+        "SpatialDM-0.0.2-py2-none-any.whl": [
+          "+CsCOhDnRypENxDYi/k6IrPpPNKBw+PTnGNV9kKSymw=",
+          "py2"
+        ],
         "SpatialDM-0.0.2-py3-none-any.whl": [
           "CG8A/TEJcNR+gtnoIZ67OaEuGA37FKlfJoJhuJKimV0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "6SYBIVWbuZikDEKU/frPDgcvyUQeV0b8n3ndQ6iu+Eo=",
+        "SpatialDM-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "SpatialDM-0.0.3-py3-none-any.whl": [
+          "RjxXZ+k31Tb5au4Ws+zGJBP1KkM5NaJHUfmL4ebdVvo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "tlHIzdF3ozFF41YB69ePSgrxoiwBdSF81/Abu4eTllw=",
+        "SpatialDM-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "SpatialDM-0.0.4-py3-none-any.whl": [
+          "tefkLhAs9VpyuKvCelSbss83BXSs0+PsHM9RBcxtIDY=",
           "py3"
         ]
       }
@@ -145451,6 +145487,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.792": {
+      "sdist": [
+        "7yru1nYAAhoxTKkYSjW0M6ldU8oSu1C+IIIgf15k8ZY=",
+        "tencentcloud-sdk-python-antiddos-3.0.792.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_antiddos-3.0.792-py2.py3-none-any.whl": [
+          "OwVoE0/SCkndFp2zsFBZaS5I1EA4SURJvrKmH9giMeA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-cdc": {
@@ -147138,6 +147186,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cdc-3.0.791-py2.py3-none-any.whl": [
           "CYvkrptf3U/fDjBXosqUUPfvPWt52EO+iT/zn7h4QRU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.792": {
+      "sdist": [
+        "fjAPtTV+9ueW5i5n6QHE11Oiu0ZulXPFqXUwlkVp0dU=",
+        "tencentcloud-sdk-python-cdc-3.0.792.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cdc-3.0.792-py2.py3-none-any.whl": [
+          "Wf1ekjeEh3ddbII/I3AVXo5faZJM3Cv2LhGYOjPr1Ik=",
           "py2.py3"
         ]
       }
