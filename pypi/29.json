@@ -14667,6 +14667,26 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221212": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221212-py3-none-macosx_10_11_x86_64.whl": [
+          "a+5yHUozxVvg14ruCjd9F1mjEWREB7Hlx7gw4n/a7/g=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221212-py3-none-macosx_11_0_arm64.whl": [
+          "Dt6KwIYVKAAFXkjjSm5ZBa2vsFAkNcx++TNlh53QvhQ=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221212-py3-none-manylinux2010_x86_64.whl": [
+          "rYGYyz6shIm/jm7WfycRzZldng6GrsKMBfEEmLc7mpI=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221212-py3-none-win_amd64.whl": [
+          "nLzPhXVbZJNy3RO1Qv+hqc01iQMd+8gIZjvOVBqQJ6M=",
+          "py3"
+        ]
+      }
     }
   },
   "billojwt": {
@@ -79223,6 +79243,20 @@
       }
     }
   },
+  "m3c2": {
+    "1.0": {
+      "sdist": [
+        "6T18hFoaa5IIxAtrloFvZxOvYxDc/d6VR7xcoxajAXE=",
+        "m3c2-1.0.tar.gz"
+      ],
+      "wheels": {
+        "m3c2-1.0-py3-none-any.whl": [
+          "28C5oE/zYs281MloZekfIAHOuvdkb4/itXkjZgvc3j4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "macattc": {
     "0.5": {
       "sdist": [
@@ -102062,6 +102096,10 @@
   "onnxruntime-cann": {
     "1.13.1": {
       "wheels": {
+        "onnxruntime_cann-1.13.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xMfxAmwLyU1b4PaNwkc86uXOK+ppJ0K20fmP+aZ7RVo=",
+          "cp37"
+        ],
         "onnxruntime_cann-1.13.1-cp37-cp37m-manylinux_2_27_aarch64.whl": [
           "ynJMdhTTLtkEhwKXqrz60Gg20XVtDzERt/eOFGI58xk=",
           "cp37"
@@ -135923,6 +135961,254 @@
           "cp39"
         ]
       }
+    },
+    "2.3.2": {
+      "wheels": {
+        "sktl-2.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RHdh+Upo21uzrAMHuPAbRLlgI73mCIga0k5mFXpI8Lw=",
+          "cp310"
+        ],
+        "sktl-2.3.2-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "7ojDgJ43KHF4oBor3Pq8NNs9VyZBH/t8ezuAGDQBCtk=",
+          "cp310"
+        ],
+        "sktl-2.3.2-cp310-cp310-musllinux_1_1_i686.whl": [
+          "CC6bYHWL8P+E2BzdHW+v67tMQR1F3++8UgZUm3GKhA0=",
+          "cp310"
+        ],
+        "sktl-2.3.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "1rB+HCGYNVBb3qn0s+daNLskF44sYp7yfSI+3kEyuoo=",
+          "cp310"
+        ],
+        "sktl-2.3.2-cp310-cp310-win32.whl": [
+          "k/no84L5u3lwTh8btCvbmyAyTlkIGkDtbC/gaxu4FwY=",
+          "cp310"
+        ],
+        "sktl-2.3.2-cp310-cp310-win_amd64.whl": [
+          "ln1wQ5jBRV2EMpSb0/N9XM3RB8QTZPVt86qPYtpWQ/4=",
+          "cp310"
+        ],
+        "sktl-2.3.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oqrMr8XYvs2e4RxER387wHQ9NP/Y42ty0rzz/YIgqNc=",
+          "cp36"
+        ],
+        "sktl-2.3.2-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "w1d4UHEo0gCT0KkoTAV1KP3YB/WPDgy61GF8UIcR35g=",
+          "cp36"
+        ],
+        "sktl-2.3.2-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "pGKHQex97O8MuiQ9ua7/XBkS3xvki39FrUUlnCZa6Ro=",
+          "cp36"
+        ],
+        "sktl-2.3.2-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "SD9Ar+s84u8TYG9+u0uwCD9BiuiLfuyUwPQbuXvCgMY=",
+          "cp36"
+        ],
+        "sktl-2.3.2-cp36-cp36m-win32.whl": [
+          "ExEBO2vsrz5wmf2agXUAAHsRU5HG72GsK9JodCdhkmw=",
+          "cp36"
+        ],
+        "sktl-2.3.2-cp36-cp36m-win_amd64.whl": [
+          "R4jqTBG7PhYgV06RV2ENHr9ONfo0Tcx+hqUbyGj3TKg=",
+          "cp36"
+        ],
+        "sktl-2.3.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VZd0HinWHYhX5KLz1eVdP5BEknxaYFnv9F6pqBVqQQE=",
+          "cp37"
+        ],
+        "sktl-2.3.2-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8uTKBDLx84oCvyFH+YfPJkZ3n6/l8OQ6VyxGuqmS3sA=",
+          "cp37"
+        ],
+        "sktl-2.3.2-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "Hxs01vrRi+luERb7EHWDo/dyRkNUsxNRu3ySbcwxv/s=",
+          "cp37"
+        ],
+        "sktl-2.3.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "Kpwlh6FndHbK+0dT1I2q2BchQdb5I73ExeRHH/cXEh4=",
+          "cp37"
+        ],
+        "sktl-2.3.2-cp37-cp37m-win32.whl": [
+          "Mb2juRetZA5G4AWqYHoUg8cw80mycKoCH36yGxF0jAg=",
+          "cp37"
+        ],
+        "sktl-2.3.2-cp37-cp37m-win_amd64.whl": [
+          "i+XyJp4jt0CJ+j8/EQ6U5n567Ji+dk/MM6ATUmghqnY=",
+          "cp37"
+        ],
+        "sktl-2.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yjuJVSzaE+HXUmlZJS/TZm0aUmTeFBjCug5aJopZFyQ=",
+          "cp38"
+        ],
+        "sktl-2.3.2-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "vJHmKvgA4ptucrRO42CiYKnWr7f+kBGqkiBv5Hpl7jc=",
+          "cp38"
+        ],
+        "sktl-2.3.2-cp38-cp38-musllinux_1_1_i686.whl": [
+          "Xyf22qreHmIosLF+45DSuZT3rC3/kK9RtdedBMuhBGA=",
+          "cp38"
+        ],
+        "sktl-2.3.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "+gRI/NYyGBYcXBYML6NuQey521hSpRwhoPTi11RAEU0=",
+          "cp38"
+        ],
+        "sktl-2.3.2-cp38-cp38-win32.whl": [
+          "5NDkHZOX3uKDSZchozi6E6uYdvVWywSjzwwYe3SzDlE=",
+          "cp38"
+        ],
+        "sktl-2.3.2-cp38-cp38-win_amd64.whl": [
+          "i72hd71rVvTJ/w59/FeCnK7lykxn0kVg4CL1H/Wp9Js=",
+          "cp38"
+        ],
+        "sktl-2.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "l/UEPvvnsjHM+iJCeHT5iWVNy3+yxUTLjGJtoZ6fY9E=",
+          "cp39"
+        ],
+        "sktl-2.3.2-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "PKU1x4JovKAFUkr77OZbKk2Jt9Ipqbgx10Q7sVqEhsA=",
+          "cp39"
+        ],
+        "sktl-2.3.2-cp39-cp39-musllinux_1_1_i686.whl": [
+          "/FPOcuZ6SxrhJXrUIylsdoV7wCZb8HSHZg9dLM/FVxM=",
+          "cp39"
+        ],
+        "sktl-2.3.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "neRZyt4or9uk1/L0Ji8YQMFfGaXTc3ef/rfUdtNF3uA=",
+          "cp39"
+        ],
+        "sktl-2.3.2-cp39-cp39-win32.whl": [
+          "YNEWhrDy67P7PkfQH6QaBwnjdPIFATg764AangfALY0=",
+          "cp39"
+        ],
+        "sktl-2.3.2-cp39-cp39-win_amd64.whl": [
+          "x7YSygSw8z8Kdt7VGpyThcPiarmHRqA1S0PKA1y3AU4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.3.3": {
+      "wheels": {
+        "sktl-2.3.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DzIkArWmOjoNRH7bEwOEmOKNu3A5AcuRVgJJlTU45Qc=",
+          "cp310"
+        ],
+        "sktl-2.3.3-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "RlHXjZcCAi8+xMy4TlBqw8+0lbG+JztLUfNczVlQJTA=",
+          "cp310"
+        ],
+        "sktl-2.3.3-cp310-cp310-musllinux_1_1_i686.whl": [
+          "cEFLOUDFerCPmPd+LCmAGEwyH2RSmOQ8DlDmh9EGEFQ=",
+          "cp310"
+        ],
+        "sktl-2.3.3-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "dMSVook1P4MdAkc41RCAt0RkLNppDn2c8Eb0ZqPeCcw=",
+          "cp310"
+        ],
+        "sktl-2.3.3-cp310-cp310-win32.whl": [
+          "pyDc/Zt4FjualZf/DMqB7RQcBXpJf7U4fp/9JB0pWss=",
+          "cp310"
+        ],
+        "sktl-2.3.3-cp310-cp310-win_amd64.whl": [
+          "JV0va0tO+HFONN6d60Z/1IN9fLYZS47VDOg/dXPX+4E=",
+          "cp310"
+        ],
+        "sktl-2.3.3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QKfPQuha55+Qkz9W0Yo/nFo8GxZ6YC9eEZ/PodXvKws=",
+          "cp36"
+        ],
+        "sktl-2.3.3-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "9KaM8Kl88A7jJG6Fy6FjAK3olzWTqjJrz15a7nvvD3M=",
+          "cp36"
+        ],
+        "sktl-2.3.3-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "JY+9iei2ZfHey4vJLvsq5TBFbHZqikzbOzhW3gcp5dM=",
+          "cp36"
+        ],
+        "sktl-2.3.3-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "C8/IqK1jpLQEVL6H6QzPMKuh5BHcbK6JopRRo6YAO1Y=",
+          "cp36"
+        ],
+        "sktl-2.3.3-cp36-cp36m-win32.whl": [
+          "/Byzo/++trWcVLcfVxJqRdECnCeieNI3pffBDpC/SRQ=",
+          "cp36"
+        ],
+        "sktl-2.3.3-cp36-cp36m-win_amd64.whl": [
+          "iY/eU4yJaCWxJAYoUIAV3qgAB7eWzpOxvF0ejIbrZuw=",
+          "cp36"
+        ],
+        "sktl-2.3.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fP5pYiM/heEJDMAiv2DhODTP3cFONKwS46nHMOVICbI=",
+          "cp37"
+        ],
+        "sktl-2.3.3-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "qNozbXuZy8bWT/+NYuqW0BStcQ/Q1y7gW0HgqFoZvTM=",
+          "cp37"
+        ],
+        "sktl-2.3.3-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "FSTi8BbO1VVA3jr89PjQrJLXVbr95NbU5uZeuzaeTAI=",
+          "cp37"
+        ],
+        "sktl-2.3.3-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "aBusquYnNvc1cR0yuzm3wxx5/i0JEzM7J8M+UZ9lyOA=",
+          "cp37"
+        ],
+        "sktl-2.3.3-cp37-cp37m-win32.whl": [
+          "1buy+lM06fBLW2DGYJuM0hSSAYYul3LSQp3XpmN1HNg=",
+          "cp37"
+        ],
+        "sktl-2.3.3-cp37-cp37m-win_amd64.whl": [
+          "Ui7J/j7SnVjwsZKdlUwfF3Ve0XDmHkYpWsXcc8IcMT4=",
+          "cp37"
+        ],
+        "sktl-2.3.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "T5SOE99dPiOxTGfgD0M+R1FqnVbC1lVmLBHu0/u/Ymk=",
+          "cp38"
+        ],
+        "sktl-2.3.3-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "w9OIWvKaf1jVR8NQPnm7fIQlsUtAoEOjz7GJ05GbW1M=",
+          "cp38"
+        ],
+        "sktl-2.3.3-cp38-cp38-musllinux_1_1_i686.whl": [
+          "WyyGPY8I2Kt6kkBic1p+qvvDQIdqJXJrCXLwOiG8cx0=",
+          "cp38"
+        ],
+        "sktl-2.3.3-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "UItRJLAsxv0kljRu2LdtT9GD2OQJRnx6JxIJx+U6jzM=",
+          "cp38"
+        ],
+        "sktl-2.3.3-cp38-cp38-win32.whl": [
+          "omCO3aLCzHL1bcE3W+SyqKYesvWr7rAs0/tqcvovuCY=",
+          "cp38"
+        ],
+        "sktl-2.3.3-cp38-cp38-win_amd64.whl": [
+          "RTOQuFJVfhBy7x+KTpAIg/d5y3989jY2Rw1tQ2wLJVA=",
+          "cp38"
+        ],
+        "sktl-2.3.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SBTGKtH5Vf/2WX/7SU2t+eiupkhBg0NaDbT0ESnfTfI=",
+          "cp39"
+        ],
+        "sktl-2.3.3-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "AmcKZwiqczf3R/HZQVPD6vXmW1JUtkwzDRv0lOHNOIo=",
+          "cp39"
+        ],
+        "sktl-2.3.3-cp39-cp39-musllinux_1_1_i686.whl": [
+          "AY3a7VXx8KuNvxe8QcCtjfEZ5/nqtv20XoZ/H83AK/w=",
+          "cp39"
+        ],
+        "sktl-2.3.3-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "NSZ/5mBQRPPUf6wYiuHSvrUZHdjpIib27HBD+gJzO8Q=",
+          "cp39"
+        ],
+        "sktl-2.3.3-cp39-cp39-win32.whl": [
+          "CYDR1tW+xAtTCn3uajIG13S4bTcWMaco/MqGBpK5twI=",
+          "cp39"
+        ],
+        "sktl-2.3.3-cp39-cp39-win_amd64.whl": [
+          "4RwqbMi03rc3m6kGqM9NsVhe+AlgRmH4+kNkkm7sAps=",
+          "cp39"
+        ]
+      }
     }
   },
   "skyhookdm": {
@@ -156566,6 +156852,18 @@
       "wheels": {
         "zavod-0.5.1-py3-none-any.whl": [
           "kjh9sowA4Qz0SDgU/QcoblxrCMuVQaCpQxEa4Eif4eg=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "IpyY2hM/mugpovo4O8AYThwynAjWmjBO+DaAmV9N/7M=",
+        "zavod-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "zavod-0.5.2-py3-none-any.whl": [
+          "wOAs/EcTvkKHqMgcDgoTWNj4HFek687GhiJSsz8BDGk=",
           "py3"
         ]
       }

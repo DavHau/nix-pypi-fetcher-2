@@ -22295,6 +22295,18 @@
         "VdfHHGOb3eOuxyf1kfCSvHRz6P9QdlRZlHySQILAVjM=",
         "collective.ckeditor-4.9.1.tar.gz"
       ]
+    },
+    "5.0.0a1": {
+      "sdist": [
+        "OlEQ9GGw7ArUg3MKMpiN/TKUea2K5ZlFm2FZ++nYjKA=",
+        "collective.ckeditor-5.0.0a1.tar.gz"
+      ]
+    },
+    "5.0.0a2": {
+      "sdist": [
+        "kEDYCuThZtauMuAiltdgfi8RR63Py4rde/dAMj/IQvM=",
+        "collective.ckeditor-5.0.0a2.tar.gz"
+      ]
     }
   },
   "collective.contentgroups": {
@@ -22872,6 +22884,18 @@
       "wheels": {
         "commodplot-1.4.12-py2.py3-none-any.whl": [
           "YS8ZTIYdGePk1tfxfGkknW5r/sjjrp3a4G9//qSfUbA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.13": {
+      "sdist": [
+        "Bisd2LPakZBSjgWFaJkGxTFvR4DfxMT4CEPoWQa60lU=",
+        "commodplot-1.4.13.tar.gz"
+      ],
+      "wheels": {
+        "commodplot-1.4.13-py2.py3-none-any.whl": [
+          "fvoPBZEv5uN1Nk41bm549mSGG4025NWa51Iw6lcsReY=",
           "py2.py3"
         ]
       }
@@ -59415,6 +59439,32 @@
       }
     }
   },
+  "lightning-training-studio": {
+    "0.0.1": {
+      "sdist": [
+        "JelahjIyCNNMB9Uk62AeAWaTgIzurBMbuKS0T/2Bk/g=",
+        "lightning_training_studio-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lightning_training_studio-0.0.1-py3-none-any.whl": [
+          "E+CuQL2ZjWexMUJ9RVJiPvPpSZePGt+44YqgPgCgN0Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "pCb/rlRrlN4KFDYgDdtzU4YF5x19XwPL4b2+6BwA2+4=",
+        "lightning_training_studio-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "lightning_training_studio-0.0.7-py3-none-any.whl": [
+          "RTB48O+UVjObG0Bax98obf+iR6hsi9gRMwgbXpFkwK4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ligo-raven": {
     "1.10": {
       "wheels": {
@@ -65426,6 +65476,30 @@
       "wheels": {
         "mtopencv-1.7.202212071649-py3-none-any.whl": [
           "tlQZ9kiXyfrFJVgYwYYqKGNAKB7repA5UCq17+4KcMk=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.202212121021": {
+      "wheels": {
+        "mtopencv-1.7.202212121021-py3-none-any.whl": [
+          "69AQPE5SSRcDMQyM4cgOsllpYAJsgWspR1/VoxFkwCU=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.202212121027": {
+      "wheels": {
+        "mtopencv-1.7.202212121027-py3-none-any.whl": [
+          "WkCmQZXVTTkZaM0lmo25MxcekVvTCgNDT8hSnnfK1YA=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.202212121213": {
+      "wheels": {
+        "mtopencv-1.7.202212121213-py3-none-any.whl": [
+          "JfVImsugYghcGVhc3B0YC249VzrxXDYtsCCxfBRydSY=",
           "py3"
         ]
       }

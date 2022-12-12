@@ -30367,6 +30367,26 @@
       }
     }
   },
+  "cfc-model": {
+    "1.0.0": {
+      "sdist": [
+        "YzRZHfgHbL1nyizSw5HLdEPfcV4d89E8qtF4xDAavqM=",
+        "cfc_model-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "0Esd1/vwfuOZm0iwOzZsgSFYyaKyUM6bI+2/PZQY0Tg=",
+        "cfc_model-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "otV4Zpzq2us18shr8ycB4RWyZNLrux0B+C6amBZFWNE=",
+        "cfc_model-1.0.2.tar.gz"
+      ]
+    }
+  },
   "cfssl-cli": {
     "1.3.0": {
       "sdist": [
@@ -71666,6 +71686,14 @@
         ]
       }
     },
+    "1.0.43": {
+      "wheels": {
+        "lumigo_opentelemetry-1.0.43-py3-none-any.whl": [
+          "VaG4FTdMQhM16NEWfo2DjL9PFRyeYiYeM5IasxEyhSk=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "wheels": {
         "lumigo_opentelemetry-1.0.5-py3-none-any.whl": [
@@ -90500,6 +90528,14 @@
       "wheels": {
         "odoo14_addon_l10n_ee_accounting-14.0.1.2.0-py3-none-any.whl": [
           "XBXBiGwSd2uGCSHs1d5i7+hogme2qdhJaRhphKp/PNo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.2.1": {
+      "wheels": {
+        "odoo14_addon_l10n_ee_accounting-14.0.1.2.1-py3-none-any.whl": [
+          "gurbZfFqZLgY9sgoqKYAgW3BjULPPIbflJu43N/JQG4=",
           "py3"
         ]
       }
@@ -155502,6 +155538,18 @@
       "wheels": {
         "yellowdog_python_examples-4.0.7-py3-none-any.whl": [
           "e56n27XMdK/1DSZjMDfTAhIRWw+zyVb6cfsg8UznSJ4=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.8": {
+      "sdist": [
+        "qm2R4cRNXepK8H5SinBM60dB9qEDfVFOdIOEh1QSAeQ=",
+        "yellowdog-python-examples-4.0.8.tar.gz"
+      ],
+      "wheels": {
+        "yellowdog_python_examples-4.0.8-py3-none-any.whl": [
+          "zahBFBIZldYNww875Mey9GnNiOxULzqCzYmD48w80Gc=",
           "py3"
         ]
       }

@@ -19736,6 +19736,12 @@
         "collective.dms.mailcontent-1.11.tar.gz"
       ]
     },
+    "1.12": {
+      "sdist": [
+        "XaqfbU2wEE3GA9EArE78I8vUHwnrUjd/mLZH3p2xMIY=",
+        "collective.dms.mailcontent-1.12.tar.gz"
+      ]
+    },
     "1.2": {
       "sdist": [
         "71ASf0df5uObPrmCmnpLe6mARM3C6eoD/P1LFvMQBYQ=",
@@ -20394,6 +20400,18 @@
       "wheels": {
         "commugen_api-0.4-py3-none-any.whl": [
           "ehga3Z/Sxq+f4xeptor1HcF97EjdxY9kB/VWgYtMX9k=",
+          "py3"
+        ]
+      }
+    },
+    "0.5": {
+      "sdist": [
+        "6QjOAFBs561UAnUblFvEh3MpBk/evwdn07zOq1QHbTg=",
+        "commugen_api-0.5.tar.gz"
+      ],
+      "wheels": {
+        "commugen_api-0.5-py3-none-any.whl": [
+          "y1hR3ukIsShmN2Z16CF0UXItBDGShbwZxmqvAEoI2KQ=",
           "py3"
         ]
       }
@@ -33946,10 +33964,28 @@
         "docarray-0.20.0.tar.gz"
       ]
     },
+    "0.20.1": {
+      "sdist": [
+        "MzCILvJcswu8lZL9zJ0oMR+XGwLIl7ajaEVAtGmdE7A=",
+        "docarray-0.20.1.tar.gz"
+      ]
+    },
     "0.20.1.dev3": {
       "sdist": [
         "EqLKG4FX/CWHyhj1sxhur/gc16jPLhDMxJXtg/X7qJo=",
         "docarray-0.20.1.dev3.tar.gz"
+      ]
+    },
+    "0.20.1.dev5": {
+      "sdist": [
+        "eck7voQYgmpFSr8qz3SSr5ZmYfpB0SWBHOnTidLzyyg=",
+        "docarray-0.20.1.dev5.tar.gz"
+      ]
+    },
+    "0.20.2.dev2": {
+      "sdist": [
+        "eznfa35/B7DhytGiadfLAcdz5YGyagXOIfQoqNh0Of4=",
+        "docarray-0.20.2.dev2.tar.gz"
       ]
     },
     "0.3.0": {
@@ -43064,6 +43100,14 @@
       "wheels": {
         "esupar-1.4.1-py3-none-any.whl": [
           "by+CqdQXQ8nSqeEYITnmTRO2nRQxRGJVvyezDdIDgoY=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "wheels": {
+        "esupar-1.4.2-py3-none-any.whl": [
+          "Q8G19Pr70Og9Eunb+8+HnQcn1IUmMoPAdc4A5BLO/wE=",
           "py3"
         ]
       }
@@ -68548,6 +68592,18 @@
       "wheels": {
         "logdecoratorandhandler-0.1.6-py3-none-any.whl": [
           "EivIfN4wYZQgjPJA6YcyVbYGtj/5D4gMmLJrigDGCw4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "G0VfBT01naMgXP31AbHBD6L9StDg3/UspP5AyImfKhQ=",
+        "logdecoratorandhandler-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "logdecoratorandhandler-0.2.0-py3-none-any.whl": [
+          "sAKVPjv6q2pTZaXy1KGudJtG5ErqapgKlDW+JRqTO6Y=",
           "py3"
         ]
       }
@@ -124257,6 +124313,12 @@
         "qkPjbf8rHKEjxnv5l1uxaH0aYPNApxElpr2qesDHotM=",
         "tap-dixa-1.0.1.tar.gz"
       ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "JA+TVnXBEGXHLsE1+aCVzU6NG+8cItiOx7uuKuVSnRw=",
+        "tap-dixa-1.0.2.tar.gz"
+      ]
     }
   },
   "tapioca-cloudez": {
@@ -124604,6 +124666,18 @@
       "wheels": {
         "tbp_nightly-2.12.1a20221211-py3-none-any.whl": [
           "jB2ISvc77P3sfjCV6Xj5Ecj6qHmHYo8xRTM87vhmch0=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.1a20221212": {
+      "sdist": [
+        "ugoH4+RfRhWGGNkdpk0jjwsShQqqSHCrz2FqKdqMreE=",
+        "tbp-nightly-2.12.1a20221212.tar.gz"
+      ],
+      "wheels": {
+        "tbp_nightly-2.12.1a20221212-py3-none-any.whl": [
+          "VEJG75C+Qpe29yOCptRIEhgDVZ/j0BzwswdcReBgIWI=",
           "py3"
         ]
       }

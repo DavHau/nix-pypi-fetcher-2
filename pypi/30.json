@@ -36409,6 +36409,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "4n9UrMEvgyvg83TCdcnaCi7pGrJTx82P3z1q2hGECho=",
+        "emojichem-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "emojichem-0.3.0-py3-none-any.whl": [
+          "vn21Ow99hcN40tlskf34Ej6H3khyA6H1GyICnukbvsA=",
+          "py3"
+        ]
+      }
     }
   },
   "enceladus": {
@@ -66227,6 +66239,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "KQ36aI0zh9hew0bT5/siVCONXnnZZ9fWkMIACF5wHKo=",
+        "metacatalog-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "metacatalog-0.6.1-py3-none-any.whl": [
+          "QbfOiQ3kvlejRMNt/FtufT6bkruE9ncPIZ8c8PMonJU=",
+          "py3"
+        ]
+      }
     }
   },
   "metdig": {
@@ -79610,6 +79634,10 @@
           "LyQp+xsfQ3sga7VHVzPHpn7TNPDr0NpNzoz3rGCnx8o=",
           "cp310"
         ],
+        "nautilus_trader-1.162.0-cp310-cp310-macosx_13_0_arm64.whl": [
+          "YveKQW1UlHsa+KdCAOKUkhtGFbhB30CxAuPhpNTwoBc=",
+          "cp310"
+        ],
         "nautilus_trader-1.162.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
           "UIjfSL29Jrv+hOiy3qqW5gguDE2ADo2yjn4r5cIBVaw=",
           "cp310"
@@ -79622,6 +79650,10 @@
           "2aWeO4p3NLCAgFYxcVBC4TUVB7M8eRmA5qTD4E+Vpgk=",
           "cp311"
         ],
+        "nautilus_trader-1.162.0-cp311-cp311-macosx_13_0_arm64.whl": [
+          "vy4JYnFLw1Ux1dzRBsEr0OJMrLnaNfp6W5xpztcvspA=",
+          "cp311"
+        ],
         "nautilus_trader-1.162.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
           "dCbyN8WnEwFsFRaW7S/yfuQoAe/0MqjHukGMJ5xfBqI=",
           "cp311"
@@ -79632,6 +79664,10 @@
         ],
         "nautilus_trader-1.162.0-cp39-cp39-macosx_11_0_x86_64.whl": [
           "4rfGEFPgOBY6jWGW7EDyPRZD42QoiGpXQkoIVX9iUfk=",
+          "cp39"
+        ],
+        "nautilus_trader-1.162.0-cp39-cp39-macosx_13_0_arm64.whl": [
+          "GTeQr5JgnQtGQ65b2DD2uOJkukAQz4zyzXNUSyHMYyA=",
           "cp39"
         ],
         "nautilus_trader-1.162.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
@@ -90810,10 +90846,58 @@
         ]
       }
     },
+    "1.0.1.dev0": {
+      "sdist": [
+        "+ZqYpfgSxjVnfmM2g4iPPo29IRcptQJvkVp8FO+Ak7Q=",
+        "petals_local_parallel-1.0.1.dev0.tar.gz"
+      ]
+    },
     "1.0.10": {
       "sdist": [
         "/Pn6cc7lPw/+m111mRyfVwgCPi5tcWPE8j3o1VIUYTg=",
         "petals_local_parallel-1.0.10.tar.gz"
+      ]
+    },
+    "1.0.11": {
+      "sdist": [
+        "0oJoKC5iJTfITEkJahB9e8LWUBhY8FJGmc8nqSsfxCc=",
+        "petals_local_parallel-1.0.11.tar.gz"
+      ]
+    },
+    "1.0.12": {
+      "sdist": [
+        "n8wznE3H65LaeUij/TfIstDFuA0OBMxqpKV5k14WV4E=",
+        "petals_local_parallel-1.0.12.tar.gz"
+      ]
+    },
+    "1.0.12.dev0": {
+      "sdist": [
+        "7HpiCbH3OHpx4gGJNbO5GP9NNcElSOM/BRu5umWxGMA=",
+        "petals_local_parallel-1.0.12.dev0.tar.gz"
+      ]
+    },
+    "1.0.13.dev0": {
+      "sdist": [
+        "6jAaymyXkdLsdjGKO8CjR2kSUUvKC5BVjEf3r3y2ZCM=",
+        "petals_local_parallel-1.0.13.dev0.tar.gz"
+      ]
+    },
+    "1.0.14.dev0": {
+      "sdist": [
+        "tU66D3ydRu4PUwS3elJb5HBVGp556c4lkuE1BjqiSsM=",
+        "petals_local_parallel-1.0.14.dev0.tar.gz"
+      ]
+    },
+    "1.0.15.dev0": {
+      "sdist": [
+        "iBYYu7HUJwJkTnXtKmRFe+DhzrPJZ6X11RZPB9RTQZs=",
+        "petals_local_parallel-1.0.15.dev0.tar.gz"
+      ]
+    },
+    "1.0.16.dev0": {
+      "sdist": [
+        "jdhFgODGtEHEWpQZioqjhnkd5H92VNyRA6Fv+W4jIq0=",
+        "petals_local_parallel-1.0.16.dev0.tar.gz"
       ]
     },
     "1.0.2": {

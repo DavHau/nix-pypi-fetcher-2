@@ -13555,6 +13555,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221212": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221212-py3-none-macosx_10_11_x86_64.whl": [
+          "6G7lIo48WoBgRzp6p1bEKcs5Vm3YQEPKrLNz7l9j6C8=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221212-py3-none-manylinux1_x86_64.whl": [
+          "lVQ4UubykZBBefz1cgAMc7ntSyZy2Sqa3b+8FDp2inQ=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -20410,6 +20422,14 @@
         ]
       }
     },
+    "2.2212.0": {
+      "wheels": {
+        "chatgpt-2.2212.0-py3-none-any.whl": [
+          "KSe5+pI45gOM7c4PZWJm5LFFxHobtOYtLzo9q9HXlQ4=",
+          "py3"
+        ]
+      }
+    },
     "2.2214.0": {
       "wheels": {
         "chatgpt-2.2214.0-py3-none-any.whl": [
@@ -26954,6 +26974,18 @@
       "wheels": {
         "dicomdeidentifier-0.2.3-py3-none-any.whl": [
           "MVxvlJXtO6NqQm33iHpB/PbuFjlbTKe95AsHo+EJdo4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "+DzkApDjLuLLdf41jVAW3veBlvun+vexBsteR4TVeB8=",
+        "dicomdeidentifier-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "dicomdeidentifier-0.2.4-py3-none-any.whl": [
+          "cY4AQ0bg/lrR/vbJcW1atfFXXnFzhwT1tRIxNkqGAhY=",
           "py3"
         ]
       }
@@ -53248,6 +53280,54 @@
       "wheels": {
         "gardener_cicd_libs-1.1922.0-py3-none-any.whl": [
           "5iv+UED34QBJVEt8LLq5uBJY5U8nobG+X2XSfYysiJA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1923.0": {
+      "sdist": [
+        "EdyK9a/enktBYMiLncCTNRYG7nfoSQCQwTluQTnVfyw=",
+        "gardener-cicd-libs-1.1923.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1923.0-py3-none-any.whl": [
+          "vdTfeh2DaZIzLb6Grj8/LQNNqRLec2yUVOKDhBNAKqg=",
+          "py3"
+        ]
+      }
+    },
+    "1.1924.0": {
+      "sdist": [
+        "07hFjFp8JwVgcvZRSTeuiAg0hb7n2a5Kmk7y3lrjPWM=",
+        "gardener-cicd-libs-1.1924.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1924.0-py3-none-any.whl": [
+          "sxsXkIbn6KNEPBAbdfKCLraMgyQ+vIk7s+S1aAgGOiM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1925.0": {
+      "sdist": [
+        "n2rCchtK9cEqNnosZyXhH2TSHuWYlmrbax8+XhOai9o=",
+        "gardener-cicd-libs-1.1925.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1925.0-py3-none-any.whl": [
+          "6uGMvu9sMrAVVjssFjUUXi+nK42mtHSmWD7h6Lkt218=",
+          "py3"
+        ]
+      }
+    },
+    "1.1926.0": {
+      "sdist": [
+        "GkMrZ6edYZshWrUBSHlLFK1pOaZIGM4LtmWidbp/hc8=",
+        "gardener-cicd-libs-1.1926.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1926.0-py3-none-any.whl": [
+          "bV2QfZ35u8OeQaSJIDPxoS1/rdIxs6ECiivQVKfCnWI=",
           "py3"
         ]
       }
@@ -89124,6 +89204,34 @@
       "wheels": {
         "mock_firestore_async-0.11.0-py3-none-any.whl": [
           "hz3EO2ReCLl1BDm5mcEouI+dqW1ZGNYKJw/psr7Xza4=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.1": {
+      "sdist": [
+        "jpMW7xCpmMbGGLpGzo/0z/joBIH56MxzQtrgNPCwVmM=",
+        "mock-firestore-async-0.11.1.tar.gz"
+      ],
+      "wheels": {
+        "mock_firestore_async-0.11.1-py3-none-any.whl": [
+          "8+1pL7rMs+qDJWHzomiJDZevDDBwgPHQPkXCWk8WShQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.2": {
+      "wheels": {
+        "mock_firestore_async-0.11.2-py3-none-any.whl": [
+          "IRXFFU7YNREi54pm83uFY7VXFyqSPI7FP+dMAixmn3I=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.3": {
+      "wheels": {
+        "mock_firestore_async-0.11.3-py3-none-any.whl": [
+          "TASX3Rw7HeJT/h6FWhlcpSeEtKgLuabSO75m394W3Uo=",
           "py3"
         ]
       }
@@ -144940,6 +145048,14 @@
       "wheels": {
         "ssssg-3.1.0-py2.py3-none-any.whl": [
           "FkSgO8Xw0FGhsOA13VnfugzC1C2Cu6Ooc6oM5OnT8ao=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "wheels": {
+        "ssssg-3.1.1-py2.py3-none-any.whl": [
+          "/JSlnwXON+aNMpwMhw7/WILfL8iDgN4VEy/QYT6ds9w=",
           "py2.py3"
         ]
       }

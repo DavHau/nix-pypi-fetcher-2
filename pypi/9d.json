@@ -83782,6 +83782,18 @@
     }
   },
   "mattermost-notify": {
+    "22.12.0": {
+      "sdist": [
+        "UIcPcsI9FatbQ2tC0biDS55GpltcSUbUm2PD1Lbv0xw=",
+        "mattermost_notify-22.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mattermost_notify-22.12.0-py3-none-any.whl": [
+          "SvFZ6sC9/ivUnCpSjx9KU3QxmS2s5P2+EHDELXUsWus=",
+          "py3"
+        ]
+      }
+    },
     "22.5.0": {
       "sdist": [
         "8SYJHNa/j0TY9YOK2ShrdO/1OROCIH9Ip77aqEbTuSE=",
@@ -113049,6 +113061,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.0": {
+      "wheels": {
+        "odoo14_addon_account_cash_deposit-14.0.1.1.0-py3-none-any.whl": [
+          "Xq8XqZpv/kzikJ+qkm18BPUClvLomHJYt5eo+6K/y1o=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-account-payment-return": {
@@ -117006,6 +117026,54 @@
       "wheels": {
         "PeerAnnot-0.0.0-py3-none-any.whl": [
           "5vuRlWexhAuQdrt7xoj4dmJuy+GlCYVeLXsOGz97oyk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "sdist": [
+        "QyDWXgEOijcfibrPiz7yh+3JoE5mPqlw67mUyKU6PNk=",
+        "PeerAnnot-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "PeerAnnot-0.0.1-py3-none-any.whl": [
+          "FOKZDqVy01z2HKNhe8WeLJ7I3ylqLEK4egMSEy/8sE4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.post1": {
+      "sdist": [
+        "L82/4qsW7/T3eqyJrhZGzcH/GxM9ypAq77i30T2b2PQ=",
+        "PeerAnnot-0.0.1.post1.tar.gz"
+      ],
+      "wheels": {
+        "PeerAnnot-0.0.1.post1-py3-none-any.whl": [
+          "L4HDwi3AewvDMX66U/v4DK2Yvp125p0yJ/3EyP0tzaY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.post2": {
+      "sdist": [
+        "9Txvp9u10pjSE6rdIUDgHmBw30mRYVSAUs1Gxo3XOro=",
+        "PeerAnnot-0.0.1.post2.tar.gz"
+      ],
+      "wheels": {
+        "PeerAnnot-0.0.1.post2-py3-none-any.whl": [
+          "Rhw5OTbQ5eWI9w+5zIpMB0TwM189K+GStEv9uS4Nd1Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.post3": {
+      "sdist": [
+        "Rb26kez/PXt2JJWn/lXoTzwCqcIFofi5xe8CJJVxags=",
+        "PeerAnnot-0.0.1.post3.tar.gz"
+      ],
+      "wheels": {
+        "PeerAnnot-0.0.1.post3-py3-none-any.whl": [
+          "u4rqqAqCD5vHi6YxQ67bn14TXydWIQagKo1BnUYH+Mk=",
           "py3"
         ]
       }
@@ -142626,6 +142694,18 @@
         ]
       }
     },
+    "3.0.15": {
+      "sdist": [
+        "1WSeSsYYyo30dT7DOQsG4MY0pYuSFpx7LQTtVeco+ys=",
+        "soda-core-scientific-3.0.15.tar.gz"
+      ],
+      "wheels": {
+        "soda_core_scientific-3.0.15-py3-none-any.whl": [
+          "QGl+a2mVYHFxlq+qAh2ChamUj1eFMH6Dze3OzsORlas=",
+          "py3"
+        ]
+      }
+    },
     "3.0.2": {
       "sdist": [
         "pGTj9mUtgSdt+mOxw1/cSI5rRd4WCqOAO4s9+qFsjwk=",
@@ -155947,6 +156027,12 @@
         "ziLWiBfl2eEEgCB0P7QsUH2b4+xEXh6KqSTV/fBA9Lw=",
         "vfxpaths-1.1.0.tar.gz"
       ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "Kt3UBfG81mjXvgGCbRUDCt7GkjM8kpbtToXAObI84OE=",
+        "vfxpaths-1.1.1.tar.gz"
+      ]
     }
   },
   "videoguys": {
@@ -161255,6 +161341,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "p/POo7+XjH7b0koRTUWbx3NUR6VNo/+9Jw8DgEL490c=",
+        "zadnegoale-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "zadnegoale-0.7.0-py3-none-any.whl": [
+          "ri67630dn8pJruGQZ5iy22yJojB4f5NA1bnAdZ3aZLw=",
+          "py3"
+        ]
+      }
     }
   },
   "zazu": {
@@ -161472,6 +161570,16 @@
       "wheels": {
         "zhan_lan-0.1.0-py3-none-any.whl": [
           "ytsXda2XOpJ7GsqcYvMgxTnuFf8/xZyqFjdeAyNrpac=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zhuzhfxz-message": {
+    "1.0": {
+      "wheels": {
+        "zhuzhfxz_message-1.0-py3-none-any.whl": [
+          "CML8+Eo1sSi+ADmZwbRfu7PfCzUcQyBaa36bvARp31A=",
           "py3"
         ]
       }

@@ -15139,6 +15139,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221212": {
+      "sdist": [
+        "mIVNk/pG5gEIrArz3U1sEBxcwnuthYDAWddbwCF8seE=",
+        "bigdl-dllib-2.2.0b20221212.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221212-py3-none-macosx_10_11_x86_64.whl": [
+          "fvihVhX9/y8P6XEqEdKcO8NFGgPwTyADTqBd+9vAHd8=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221212-py3-none-manylinux1_x86_64.whl": [
+          "iuNOzT+416QiHefG+P5wsTRkEkdOSw7qMex4ty7C2CM=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -80007,6 +80023,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.1.dev6": {
+      "wheels": {
+        "odoo14_addon_partner_contact_personal_information_page-14.0.1.0.1.dev6-py3-none-any.whl": [
+          "4j6EkmmXCDnlLG4wczb0m2ca7rNQtnuiPyv7KSfnE/4=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-procurement-batch-generator": {
@@ -137927,6 +137951,26 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221212": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221212-cp310-cp310-win_amd64.whl": [
+          "oj2mwJXYt17BVLODZDGBwp1vwYi8A2cC2++meTbP0DM=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221212-cp37-cp37m-win_amd64.whl": [
+          "5GZT4k9CVN7rflSbGynFfwBnP38niTQEL2zwy2ljavI=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221212-cp38-cp38-win_amd64.whl": [
+          "Xgp/UdqMm5zVEdrbtDrzHGUk1dVvtx7jsOxrNs2T4aU=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221212-cp39-cp39-win_amd64.whl": [
+          "x/ewrAh80GBKC75W+nWNi408iaDh/R4ePpk9KJuxndY=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -150054,6 +150098,18 @@
       "wheels": {
         "wordcab-0.3.1-py3-none-any.whl": [
           "FoAkN8nx7/9GDrxPg+vli5Q0L+JWsJqdc1sZJX3Y220=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "OKTt5gbqhNuWyCAOIn5kUH45DUIWS+ddTnDUH2034og=",
+        "wordcab-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "wordcab-0.3.2-py3-none-any.whl": [
+          "7rBs5knhONz4sphQxoamJKqPdbnd6lt59qSbAlj1URk=",
           "py3"
         ]
       }
