@@ -27273,6 +27273,12 @@
         "MrGI9R9Ot5mlXGIeZ5Oawd5vTS0hV+ttBh5WJS/NeCE=",
         "core_module_status_registry_app-2.0.0b2.tar.gz"
       ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "uFSdab9FIYuAwNnuhFI6gnn7TQbcqLol34NqXJ4njmk=",
+        "core_module_status_registry_app-2.1.0.tar.gz"
+      ]
     }
   },
   "corha": {
@@ -75031,6 +75037,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0": {
+      "sdist": [
+        "AHZBEc7lbA8LH71eHb1AmWMwkf3+6e5B1aoOWiQ+55g=",
+        "myb-nicehash-api-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "myb_nicehash_api-2.2.0-py3-none-any.whl": [
+          "PHDp3TwStyGnd2vV3w8vvmzSatAIsLIsVzKDiS1hI7A=",
+          "py3"
+        ]
+      }
     }
   },
   "mycalc0817": {
@@ -111733,6 +111751,12 @@
         "jdFhX5z7rbwZcOdMJvwb4JIWy1H96EyqyjWOoSbK40c=",
         "resilient_circuits-47.0.3691.tar.gz"
       ]
+    },
+    "47.1.3780": {
+      "sdist": [
+        "wuDOHKsZUTj92udeVBst/135o/ytHNTmOjRlhmy2yiE=",
+        "resilient_circuits-47.1.3780.tar.gz"
+      ]
     }
   },
   "resoto-plugin-cleanup-untagged": {
@@ -125638,6 +125662,14 @@
       "wheels": {
         "stix_shifter_modules_gcp_chronicle-5.0.0.dev732-py2.py3-none-any.whl": [
           "ZvcP+r5uASDinX5SF+34jEc3UBQUdurFePgq9NM7DmI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev734": {
+      "wheels": {
+        "stix_shifter_modules_gcp_chronicle-5.0.0.dev734-py2.py3-none-any.whl": [
+          "9BjA5nHsTT3n02XZ3DVVjDIOe14i7UcenWrTrflelbE=",
           "py2.py3"
         ]
       }

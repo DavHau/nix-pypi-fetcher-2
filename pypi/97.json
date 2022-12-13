@@ -65936,14 +65936,14 @@
     }
   },
   "hoppr-security-commons": {
-    "1.0.1": {
+    "0.0.3": {
       "sdist": [
-        "L7vAXn8DXw5zIb1neOvr9jUz/3GRVnsM6aE2o5FfVfA=",
-        "hoppr-security-commons-1.0.1.tar.gz"
+        "iXg/S1EC0/JJDHp72iGRtATcGdzABCjkJPqiEZm9raU=",
+        "hoppr_security_commons-0.0.3.tar.gz"
       ],
       "wheels": {
-        "hoppr_security_commons-1.0.1-py3-none-any.whl": [
-          "fLrvbSYPzRAs1nuAwwBpvDiqBLI3sAIUK6K3mo4goZ8=",
+        "hoppr_security_commons-0.0.3-py3-none-any.whl": [
+          "F5JzSbymgxdnrUmw/8Xz7xpte2tkUtn16Vs9OQghH5o=",
           "py3"
         ]
       }
@@ -86454,6 +86454,18 @@
         ]
       }
     },
+    "1.26.28": {
+      "sdist": [
+        "xN1xq3RQ3sruDN+15LGXc8snkcLMaW50Ee+Khy1ja7k=",
+        "mypy-boto3-customer-profiles-1.26.28.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_customer_profiles-1.26.28-py3-none-any.whl": [
+          "2+GYWuFNkVzScRrV0SV6Rc52IfFaRJS2VXKnGTYsw/0=",
+          "py3"
+        ]
+      }
+    },
     "1.26.9": {
       "sdist": [
         "DlMZFFEILr8KLioIxxKpzWwLKD7m/LRA797kPRQ+Bm4=",
@@ -89800,6 +89812,18 @@
       "wheels": {
         "mypy_boto3_lookoutvision-1.26.0.post1-py3-none-any.whl": [
           "T0q7vSL1K1I6BLr61X5zdf53LkHERLpZP6gUfckDxkg=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.28": {
+      "sdist": [
+        "PKbyGodwDCfFekCxqhUY2WpeUHZMlsIY3gu90leb9FE=",
+        "mypy-boto3-lookoutvision-1.26.28.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lookoutvision-1.26.28-py3-none-any.whl": [
+          "pjmOrAnnfwC0Y1jm0k/AQ8i8bXnCO79HryGeOiuN46o=",
           "py3"
         ]
       }
@@ -111312,6 +111336,20 @@
       "wheels": {
         "parseros-5.0-py3-none-any.whl": [
           "RkrSIXyK1C5zmrz/OIhWdxTrc47BJXdGqt2JJj5lVZc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "patterns-components": {
+    "0.1.0": {
+      "sdist": [
+        "sx6FXcopGOW79bGyd2SJfND2nJFCFf/ggiweda6Nhdg=",
+        "patterns_components-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "patterns_components-0.1.0-py3-none-any.whl": [
+          "b4rhkcoMB7jkd18KhhAZ2F1vdb5bgBUneReVKcT7Vjk=",
           "py3"
         ]
       }

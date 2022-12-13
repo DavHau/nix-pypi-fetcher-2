@@ -25531,6 +25531,12 @@
         "UsmWT9/w/dHLZ8btHAA/K6nubDa6Ii7VCRjY8PWSv74=",
         "core_main_registry_app-2.0.0b2.tar.gz"
       ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "3UatF5RE0zUAiuI+eW5Rb1PcecAeE5a6MPRJ/108IcQ=",
+        "core_main_registry_app-2.1.0.tar.gz"
+      ]
     }
   },
   "corona-analytics": {
@@ -50879,6 +50885,14 @@
       }
     }
   },
+  "fossbot-lib": {
+    "0.1.0": {
+      "sdist": [
+        "beAszQ2/08sqV3ytCAC9+3IJRbIClO0M14Xn+wvhvDY=",
+        "fossbot_lib-0.1.0.tar.gz"
+      ]
+    }
+  },
   "four-corner-method": {
     "0.1": {
       "sdist": [
@@ -62419,6 +62433,20 @@
         "jupyter_panel_proxy-0.2.0a2-py2.py3-none-any.whl": [
           "vv4yig/OMcDcGfr+TlVq/cm1YQbTPeqofGY6GyyErfY=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "jupyter-resource-usage-proxy": {
+    "0.1.0": {
+      "sdist": [
+        "By+0A0a0VnZOPz3ADdZRPBLvxJOZFXT74kMbsbvJjs4=",
+        "jupyter_resource_usage_proxy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_resource_usage_proxy-0.1.0-py3-none-any.whl": [
+          "d65EREtgUO1TGWRtWxm53bXWHGjdNMq/NX84IiBpH6g=",
+          "py3"
         ]
       }
     }
@@ -133706,6 +133734,14 @@
       "wheels": {
         "stix_shifter_modules_mysql-5.0.0.dev732-py2.py3-none-any.whl": [
           "NGbz4xCCMYyzwPDtreijN5SIUQCfnfvRkBFLjMoT4pU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev734": {
+      "wheels": {
+        "stix_shifter_modules_mysql-5.0.0.dev734-py2.py3-none-any.whl": [
+          "OLzCXHlYiTBMrnCkD4khghwF7TTvEqYtO/a5143q8n0=",
           "py2.py3"
         ]
       }

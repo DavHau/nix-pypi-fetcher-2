@@ -457,6 +457,14 @@
           "py2.py3"
         ]
       }
+    },
+    "2.9.4": {
+      "wheels": {
+        "acq400_hapi-2.9.4-py2.py3-none-any.whl": [
+          "BzXiSck/xLLPeysMvt1uUacXUNeKKwI02NRS+2k1f7I=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "adafruit-circuitpython-bd3491fs": {
@@ -1741,6 +1749,20 @@
         "aiodisque-0.1-py2.py3-none-any.whl": [
           "iB5mPgKIgUyuJzfqfvSs39vRRta6FfoBKZuC7Xqu74E=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "aiohttpx": {
+    "0.0.1": {
+      "sdist": [
+        "t5PjLYJTzfgcci0pmoC7edD2xd3KHw9ZmIeh82W7waM=",
+        "aiohttpx-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aiohttpx-0.0.1-py3-none-any.whl": [
+          "+Iu7cTRMyryqwhMqwEJv1fJqGZCt+zodTeCxmOs4RCA=",
+          "py3"
         ]
       }
     }
@@ -3137,6 +3159,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "tnjmBw1nIaXhMYPW4PKb4cF6cpMWE+8zz2Q1+QKEjZo=",
+        "alibabacloud_eais20190624-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_eais20190624-2.1.1-py3-none-any.whl": [
+          "7Lb6MebTYCKW/jzjvX2Y96NSOwOT3S+Ieu8mTxgPdDQ=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-ft20210101-py2": {
@@ -3184,6 +3218,42 @@
       "wheels": {
         "alibabacloud_ft20210101_py2-0.0.4-py3-none-any.whl": [
           "44iJXMKGthshxdNvDwSJ1xBarm0cANrP5PsbjaWndeI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "DD4BH9GMRZoYMuIvr9X/rnFg26b/v3LaaO05vJ/NL8c=",
+        "alibabacloud_ft20210101_py2-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ft20210101_py2-0.0.5-py3-none-any.whl": [
+          "vLVHo3HzFjjvjVAwlIvv8A9f4V9vPk9jUWUXrcIs6zE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "OEXzlnzL1Bmz89NUiuqXUUWF6IqLrvnmUYDwmStEEek=",
+        "alibabacloud_ft20210101_py2-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ft20210101_py2-0.0.6-py3-none-any.whl": [
+          "Y8q5XakZ4p8w7wXrIqG9khBp1cd5lPHA8a+uh7dQVsA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "RfXfzMVgF/lNJxm12uYS0uCwg+XZEZo8W73DZcxdOsE=",
+        "alibabacloud_ft20210101_py2-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ft20210101_py2-0.0.7-py3-none-any.whl": [
+          "9YrT2XCK8Bnd6gRb5kPLvDrN8K0mNwFbJqmKbzS776Y=",
           "py3"
         ]
       }
@@ -145964,6 +146034,14 @@
       "wheels": {
         "torchserve-0.6.1-py3-none-any.whl": [
           "IhzkGSJPdTRb0mwlcqE53IKBj5N2tSADx3Ve//4qVJ0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "wheels": {
+        "torchserve-0.7.0-py3-none-any.whl": [
+          "/259TcXEcw74Sy4MGp/im6eEpO7ncjN2dRC6KzE0YRQ=",
           "py3"
         ]
       }

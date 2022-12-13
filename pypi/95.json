@@ -22114,6 +22114,18 @@
         ]
       }
     },
+    "1.0.354": {
+      "sdist": [
+        "qThPyreLJ4Y/MgQrDVK1jpppe1tDk1Uxpf5FrKJEmA8=",
+        "cdk-common-1.0.354.tar.gz"
+      ],
+      "wheels": {
+        "cdk_common-1.0.354-py3-none-any.whl": [
+          "kpOe/ELQO4dEwPc1Wp5cCw8m1je/7gl+6GtVDknwUNg=",
+          "py3"
+        ]
+      }
+    },
     "1.0.36": {
       "sdist": [
         "wQNvLFN3h91ZhGwhXBLHvEiLBIM0/pjwPIhQjHO8kKc=",
@@ -26238,6 +26250,18 @@
       "wheels": {
         "cdk_common-2.0.347-py3-none-any.whl": [
           "7RvvEU4KDJosfVAbLKTID0II+3MUycW8Puo4xvNoxZw=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.348": {
+      "sdist": [
+        "U+/M0bp3HFvOJtYh28HIsyiN9vHlh0xiqrckxRNJSRQ=",
+        "cdk-common-2.0.348.tar.gz"
+      ],
+      "wheels": {
+        "cdk_common-2.0.348-py3-none-any.whl": [
+          "sr+zVqlujj/E7oUeaoz41YvPaNjoWK80YRny0iZWffY=",
           "py3"
         ]
       }
@@ -56928,6 +56952,18 @@
         ]
       }
     },
+    "0.14.0": {
+      "sdist": [
+        "jsRGl9GPWTLg/a7osZ2phiXeTQ5yyzDvVvlHnxjhG58=",
+        "folium-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "folium-0.14.0-py2.py3-none-any.whl": [
+          "yJTiwCmoykDgQ6MRl4qJXO/jLXRqlCY/gH3XtrLpxnk=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "Qt+0GNqIlVhNXKBeFCwRD/CNYK/WK5mad/6zd70JeRQ=",
@@ -65586,6 +65622,18 @@
         ]
       }
     },
+    "3.13.0": {
+      "sdist": [
+        "w6LBFDKYCnLzF99oOE4Ia28i+9WNNrNzV9HzCp20Y/o=",
+        "gradio-3.13.0.tar.gz"
+      ],
+      "wheels": {
+        "gradio-3.13.0-py3-none-any.whl": [
+          "9DBjC8F7CzLEexc7MkC0wA4CRMfdAeQxNM7hPe4Wcko=",
+          "py3"
+        ]
+      }
+    },
     "3.2": {
       "sdist": [
         "MoXvFFtETEZjYqakWHKGJ0cOVkgrQx4bA4UyIIiP8c8=",
@@ -72898,6 +72946,18 @@
       "sdist": [
         "dI6FTRwCDZ6hI47+Xz8jCCBGujBGpxTfU9UeOCjpzzk=",
         "hugg-0.0.19.tar.gz"
+      ]
+    },
+    "0.0.20": {
+      "sdist": [
+        "wtT+PhCzfnAGE9oqgKYQHY9MwKW5WStugXlmPZT2n5A=",
+        "hugg-0.0.20.tar.gz"
+      ]
+    },
+    "0.0.21": {
+      "sdist": [
+        "A2Szb/rTc/CQGpxDnycrrd4AYUdwEdZw8YwQjjYr6KM=",
+        "hugg-0.0.21.tar.gz"
       ]
     },
     "0.0.5": {
@@ -80426,6 +80486,18 @@
       "wheels": {
         "ldfparser-0.17.0-py3-none-any.whl": [
           "LyCxW+kEC3XsDtv7QKCNSvNnLN04V2y1HZqUhddWL6c=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.0": {
+      "sdist": [
+        "AhRlPst93boQ9B8dibc3m/I9vF3H6qP9e4tbQ/buJNI=",
+        "ldfparser-0.18.0.tar.gz"
+      ],
+      "wheels": {
+        "ldfparser-0.18.0-py3-none-any.whl": [
+          "bR0OUnaO2ii45jHRPjv8xilKAz9x7xjCLpyogScI204=",
           "py3"
         ]
       }
@@ -95993,6 +96065,16 @@
         "rTglwIqwAJB1MJV57XJ4Mg4WtTmmOvBHBCgZu9GDS9c=",
         "nuwa-0.0.1.tar.gz"
       ]
+    }
+  },
+  "nvidia-tao-pytorch": {
+    "4.0.0.dev0": {
+      "wheels": {
+        "nvidia_tao_pytorch-4.0.0.dev0-py3-none-any.whl": [
+          "e+fUWgo05A559UT82yYCYrHCCE7feYWNRfV1uAgmdPE=",
+          "py3"
+        ]
+      }
     }
   },
   "nwavclauncher": {
@@ -112456,6 +112538,20 @@
       "wheels": {
         "prancer_basic-2.1.9-py3-none-any.whl": [
           "YJUBK2DHJL8e0IZuYDKucNu99YX0FyRutu69uvJpzi0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "prefect-yaml": {
+    "2022.1.0": {
+      "sdist": [
+        "B2Mbmfuv0jAms9L8nvo5WkWB04kN8wI4IaNmvQ5Zfb4=",
+        "prefect_yaml-2022.1.0.tar.gz"
+      ],
+      "wheels": {
+        "prefect_yaml-2022.1.0-py3-none-any.whl": [
+          "L/n3dGFk07anG9c8qPCeAvrGtOSBrsz2d+vQOft1fLM=",
           "py3"
         ]
       }
@@ -151990,6 +152086,12 @@
       "sdist": [
         "9D8CvyY58MPvYJB4ClDVZpQwJr4QDAm1t9SwV9/qXQM=",
         "tutor-android-14.0.1.tar.gz"
+      ]
+    },
+    "15.0.0": {
+      "sdist": [
+        "95VWiwitHxwi8pkLliFW4dREEo1wh0hO0f2Nn4zlrbs=",
+        "tutor-android-15.0.0.tar.gz"
       ]
     }
   },

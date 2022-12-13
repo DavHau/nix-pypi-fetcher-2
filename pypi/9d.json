@@ -6719,6 +6719,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.93": {
+      "sdist": [
+        "RNWrvEuxHb/R6kFeCcMQxfQ1+W7G2zYgXj0/GyY/G0U=",
+        "alibabacloud_dingtalk-1.4.93.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_dingtalk-1.4.93-py3-none-any.whl": [
+          "e8Q7wnFM0wrhJjecYl5c4YMFLj07S2RPWr6vtgzSS3Y=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-ververica20220718-py2": {
@@ -19312,6 +19324,42 @@
         ]
       }
     },
+    "1.0.70": {
+      "sdist": [
+        "KvYdFQHDBR6eWOG+YrRMBmB/l9ismJAsxFPrdWKWxM8=",
+        "cdk-fck-nat-1.0.70.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fck_nat-1.0.70-py3-none-any.whl": [
+          "RP07HpS6M/dvic+z3zbPe1Uu1m0QIZIqTuJKYG5zGxc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.71": {
+      "sdist": [
+        "MFzUgX1wS700wBOOcE8V0mcWybNLM7DU92ngLzdXMmE=",
+        "cdk-fck-nat-1.0.71.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fck_nat-1.0.71-py3-none-any.whl": [
+          "g/MEoMNms4go3OA0rmvasGAS0ML3kbMa0/Q/HyIiyPI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.72": {
+      "sdist": [
+        "DgLgRgbphxdrGImhg5JDgf2xrfQMTp7PUcchRMAx9Lc=",
+        "cdk-fck-nat-1.0.72.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fck_nat-1.0.72-py3-none-any.whl": [
+          "wmsTeLb2MAhP9jfUA29XLzyKsCRoJwxEgpUEC6eqv10=",
+          "py3"
+        ]
+      }
+    },
     "1.0.8": {
       "sdist": [
         "jcqX1G8VXXNjLLLpCnpK3qKUlGdvskvvmYYYxDNAhS0=",
@@ -27074,6 +27122,18 @@
       "wheels": {
         "cdk_nag-2.21.3-py3-none-any.whl": [
           "y5hWibYUYNpI9/2A1yWaGmAyzZaJa4ZjNRZ62Faj4CU=",
+          "py3"
+        ]
+      }
+    },
+    "2.21.30": {
+      "sdist": [
+        "uXp1cpPvmF5a14dD6Db0gb5ew6X27pet4UNRVc09OHQ=",
+        "cdk-nag-2.21.30.tar.gz"
+      ],
+      "wheels": {
+        "cdk_nag-2.21.30-py3-none-any.whl": [
+          "GiWehD02h1JjLWzSFubW/4QJxvpe+GihpMjdg0aY0cQ=",
           "py3"
         ]
       }
@@ -60230,6 +60290,18 @@
       "wheels": {
         "flytekitplugins_dbt-1.2.5-py3-none-any.whl": [
           "0Dt7MmYaZNtRZGEKrIUNgwEfvtln9r0d6mr+VlZo1jI=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.6": {
+      "sdist": [
+        "AAScMk/UM0nWJwzrJgNmWgZJsXapR1Dk6ayysA2nBew=",
+        "flytekitplugins-dbt-1.2.6.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_dbt-1.2.6-py3-none-any.whl": [
+          "zeZkNr4gmuJw9LlvCZwwKjXkx8fvocFHN0mom9SYHgc=",
           "py3"
         ]
       }
@@ -113069,6 +113141,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo14_addon_account_cash_deposit-14.0.1.1.1.dev1-py3-none-any.whl": [
+          "//24lgPb2SRP7Ndj/ptFwJf1brm9+nlN+gxrqGTYPW0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-account-payment-return": {
@@ -146884,6 +146964,42 @@
         ],
         "tensorflow_directml_plugin-0.2.0.dev221020-cp39-cp39-win_amd64.whl": [
           "QUkIqJX9IkNR4BYd47FHLxuj+VQA5wtT35syPQjrm8M=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0.dev221212": {
+      "wheels": {
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp310-cp310-manylinux2010_x86_64.whl": [
+          "LewlrGbLlMfdFh8cvbIEmVZUPquLvmtJBbqfktcOVl8=",
+          "cp310"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp310-cp310-win_amd64.whl": [
+          "BfArfHej6+VjGocdelooUzhjVFPwQQZfd+lpE2OnA7k=",
+          "cp310"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "G/Fe/GmP4GeG1g35FS6Kt1UiavVhN9p2hHlMMnZPLzU=",
+          "cp37"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp37-cp37m-win_amd64.whl": [
+          "XLOsJXehb97IQf6ifMA0GneaFqmdKoHiEh0LLoDLQgk=",
+          "cp37"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp38-cp38-manylinux2010_x86_64.whl": [
+          "ghn9hL6ygg7YTpiHznXoGBH58gS0Eo8VLoYgfZKSVBs=",
+          "cp38"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp38-cp38-win_amd64.whl": [
+          "CdaVeGS4ertbnmTwi5g4KKncUp9VWMdRWI76sG+9Tdo=",
+          "cp38"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp39-cp39-manylinux2010_x86_64.whl": [
+          "uLwo2EK+ElnbjeCsLg5nyM0ju6aF23i77UJuI52GVdY=",
+          "cp39"
+        ],
+        "tensorflow_directml_plugin-0.3.0.dev221212-cp39-cp39-win_amd64.whl": [
+          "mH8Z19PHecyv1BmI+cws97IxDcv66k/aa5/srPLTnP4=",
           "cp39"
         ]
       }

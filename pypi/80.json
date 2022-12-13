@@ -18860,6 +18860,18 @@
         ]
       }
     },
+    "2.0.0a232": {
+      "sdist": [
+        "NrO1DPwKxM54DjXixppO/uiVBHYTKf8DfA1LsBWP2Jo=",
+        "cdk-ecs-service-extensions-2.0.0a232.tar.gz"
+      ],
+      "wheels": {
+        "cdk_ecs_service_extensions-2.0.0a232-py3-none-any.whl": [
+          "cvAmZ+A8rSsY+32lkDfAvsTYPUFSnxtpxOFCMVKF1oo=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0a24": {
       "sdist": [
         "ppf+Z3cX10ZDB5vz7/mA2hAC0HKAI42KkvS1caq2ITM=",
@@ -62669,6 +62681,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.9": {
+      "sdist": [
+        "QW3z8kAssIXyaURqI69pn6WTSVOxKk5+l7935KatkaA=",
+        "imodels-1.3.9.tar.gz"
+      ],
+      "wheels": {
+        "imodels-1.3.9-py3-none-any.whl": [
+          "I+ebNZ/ZZoonbtQkVBNTAFLuFKnQ/bYcyU5F4JcXK4A=",
+          "py3"
+        ]
+      }
     }
   },
   "impfeature": {
@@ -65212,6 +65236,30 @@
       "wheels": {
         "jobsworthy-0.5.13-py3-none-any.whl": [
           "Q+S944LBEm1Wkmf4B2elGZSX+PAkiHiSiXgocbru8HI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.14": {
+      "sdist": [
+        "/yqe7q9YPX1OAVd1JHpU5/LUE3k2mw03+yJb+IOpiIA=",
+        "jobsworthy-0.5.14.tar.gz"
+      ],
+      "wheels": {
+        "jobsworthy-0.5.14-py3-none-any.whl": [
+          "xYFUpTwZSiS4PVDWSqGeabdukd9p2uI25MlGcIJK9Rk=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.15": {
+      "sdist": [
+        "vRLe95y25m7iEiffd4L0SQFzqH9DmGm6WDb94DEE+rc=",
+        "jobsworthy-0.5.15.tar.gz"
+      ],
+      "wheels": {
+        "jobsworthy-0.5.15-py3-none-any.whl": [
+          "neBXr8BcWJlUvbEOm8orsRzRXYV3Oo8zno0uCWJTbDU=",
           "py3"
         ]
       }
@@ -67816,6 +67864,18 @@
         ]
       }
     },
+    "0.1.10": {
+      "sdist": [
+        "MZ15XFjyOSqktAWw0nwrQWdupxkk27YIYsKK2r3zV40=",
+        "kernel-catalogo-videos-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "kernel_catalogo_videos-0.1.10-py3-none-any.whl": [
+          "G4qayfuJbxrGH1s02z8lSmvOCS+sfsKKKvds5OiSx9c=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "q+MMF9HGJEhYLnm42XAExsA0c6PYPnrer7Sbco5pMiU=",
@@ -67884,6 +67944,18 @@
       "wheels": {
         "kernel_catalogo_videos-0.1.8-py3-none-any.whl": [
           "StuH2ljKI5IitAr9/BYUe96uw9EycqHLHmMAKpNSqtE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "VJwReZLaP/0r61sdgFpMeuNcUVH3yhipQ+GUb/STyNg=",
+        "kernel-catalogo-videos-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "kernel_catalogo_videos-0.1.9-py3-none-any.whl": [
+          "7J5GYzeXN+te2Ml2/rD0CTadYzbEzfllvTbVbFtKdFQ=",
           "py3"
         ]
       }
@@ -69434,91 +69506,35 @@
     }
   },
   "kudio": {
-    "1.0.7": {
-      "wheels": {
-        "kudio-1.0.7-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "/vV44VmLOQCYiOr999MGct+k4pla9qokNCDG7HRn7Hg=",
-          "cp36"
-        ],
-        "kudio-1.0.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "6s9bzGNprgpnbSWZL1ymyTjpruTxmqQnZjAPdE6Ava0=",
-          "cp36"
-        ],
-        "kudio-1.0.7-cp36-cp36m-win_amd64.whl": [
-          "1dT1Whdw7kbje262VrxrerMNYsYsyMp6y1RDNQAZGZQ=",
-          "cp36"
-        ],
-        "kudio-1.0.7-cp37-cp37m-linux_armv7l.whl": [
-          "0Ko1HgcUvnUfWCdDGoeFETiwehoxB4wxym/0xVLtfyg=",
-          "cp37"
-        ],
-        "kudio-1.0.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "dO2Oo0c7hlX9GDWug8/Hqa3wpxw9TkNsiOvRErA2lnU=",
-          "cp37"
-        ],
-        "kudio-1.0.7-cp37-cp37m-win_amd64.whl": [
-          "X6OTMKMpwc3/u/slJ2VVfESV3JDtwxUg6AM77Q16Yxg=",
-          "cp37"
-        ],
-        "kudio-1.0.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "eijhbmbWngoDQYI/m493SDgufSSQh/OIxS4uGHZrs9A=",
-          "cp38"
-        ],
-        "kudio-1.0.7-cp38-cp38-win_amd64.whl": [
-          "FTcIT1gRdmLKqGOvQTwDmWSO8XU7pHlBqfYRr5dOxDc=",
-          "cp38"
-        ],
-        "kudio-1.0.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "y2lqAipqSzgoD/7ZmP7f3lC6sRNcJ93+3hgkXvuEEaI=",
-          "cp39"
-        ],
-        "kudio-1.0.7-cp39-cp39-win_amd64.whl": [
-          "/dGfK0RTKIoH3X9fPpFy2Z7W/aQEodo2kfxznydsAZI=",
-          "cp39"
-        ]
-      }
-    },
-    "1.0.8": {
-      "wheels": {
-        "kudio-1.0.8-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "0AAAjrnwOiDDq2kvuz9r7fk7h92IwiD8zHGGPxVJi3w=",
-          "cp36"
-        ],
-        "kudio-1.0.8-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "niqbaN3wWxZie8PzpmHblyXmhzcO09Zyx+1vBjYoHOo=",
-          "cp37"
-        ],
-        "kudio-1.0.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "aOhIDOaXSqwhCh7TJ0tY6Yvas12UtM0W28sCziwxbsg=",
-          "cp38"
-        ],
-        "kudio-1.0.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "N781MEbR72VnAdDdIufMIoEefXoYLhlUqT6Ac5SK0dc=",
-          "cp39"
-        ]
-      }
-    },
-    "1.0.9": {
-      "wheels": {
-        "kudio-1.0.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "BvMQB4FUkcVUHGD3P1rI/e53GLrC1g8L1DGTHM/khV0=",
-          "cp38"
-        ]
-      }
-    },
-    "1.1.0": {
-      "wheels": {
-        "kudio-1.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "mKkoZst79+dbLtVP44YgvQv22+EKoUWVloqWPFD7+AU=",
-          "cp38"
-        ]
-      }
-    },
     "1.1.1": {
       "wheels": {
+        "kudio-1.1.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iSm3sKN+8kn4Z20L2RTIAL+txgUabG8OwHALdMPTeTY=",
+          "cp36"
+        ],
+        "kudio-1.1.1-cp37-cp37m-linux_armv7l.whl": [
+          "lBEolLUWlDYQVy64y3QEk2aR5C4KNxSMyBJHxATIfH0=",
+          "cp37"
+        ],
+        "kudio-1.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9vOpwytixR9noLF3Ao0qq/1S5HeR3wvf8FgLYgpZWt0=",
+          "cp37"
+        ],
         "kudio-1.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Z1p2zjo4hAqQsPBG2FSkhPZE91wv3h7aNxp1+kA9nnU=",
           "cp38"
+        ],
+        "kudio-1.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XSkIHacKFXdOlL8R+2Yi9Nxpq2/ZAx9CrXaYpUveJLQ=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "kudio-1.1.2-cp37-cp37m-linux_armv7l.whl": [
+          "Hk/AtquW4FzC+Ib8MrpzLHuIgB0DS9ZeEWB46Lt/z7k=",
+          "cp37"
         ]
       }
     }
@@ -120693,6 +120709,54 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "fdOUVSjbYdEv9CzI8BLIKgSegY8Tur5HgtCZvVdPm9E=",
+        "pythonPackaging-Rushik2900-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pythonPackaging_Rushik2900-0.0.5-py3-none-any.whl": [
+          "OHSKi6OHb9vInpfVfRz6pO07MpyzISbZguHYyjO8/RM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "LwyGXWhyhf4+Hc/AFezt63SwEcgZh1vTt54wNwKGUZo=",
+        "pythonPackaging-Rushik2900-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "pythonPackaging_Rushik2900-0.0.6-py3-none-any.whl": [
+          "k8cAUU0tTIwvITQWo6HG1bYsZv6tFPCotoZp7HNDlmo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "8JrCsKOF8K8bCt3Gnu6l+Cpc8/3vtbvh1iJcm3eT74Y=",
+        "pythonPackaging-Rushik2900-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "pythonPackaging_Rushik2900-0.0.7-py3-none-any.whl": [
+          "MUQI/10LpiblzK4f1W3xEqKa/Q7xCKhsO1WZmyEdakg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "/8/bIhAe9peUKuzrPP4F4760CpQlXq/s+1ja7JpfZIs=",
+        "pythonPackaging-Rushik2900-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "pythonPackaging_Rushik2900-0.0.8-py3-none-any.whl": [
+          "qKfyRfuZwmB3bwBUp2m+ok+HbylyueSMBmqtUlgSPmg=",
+          "py3"
+        ]
+      }
     }
   },
   "pytimechart": {
@@ -158792,6 +158856,18 @@
       "wheels": {
         "zaber_motion-2.15.2-py2.py3-none-any.whl": [
           "grsHqx1y52zvly/fWrDKoCfSCLUC2Gx6jPkY3JbGCYE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.15.3": {
+      "sdist": [
+        "thh7PHG0Oy5Km4AZxCRkZgnF2T1bLbvkSQsIb1IST6Q=",
+        "zaber_motion-2.15.3.tar.gz"
+      ],
+      "wheels": {
+        "zaber_motion-2.15.3-py2.py3-none-any.whl": [
+          "y+9rf9QS7HrApJaDw717owai9flrbrVduIXMCavf904=",
           "py2.py3"
         ]
       }

@@ -7005,6 +7005,42 @@
           "py3"
         ]
       }
+    },
+    "4.7": {
+      "sdist": [
+        "NTH/brGgnyn+EuIvLb3wyLgugpesOoM6k4RpWb6pVvQ=",
+        "archimedean-4.7.tar.gz"
+      ],
+      "wheels": {
+        "archimedean-4.7-py3-none-any.whl": [
+          "GSGnj0dK3gJrqCyWo7KAE+1sFZcg7ch7mkqb6TbIrXQ=",
+          "py3"
+        ]
+      }
+    },
+    "4.8": {
+      "sdist": [
+        "sk1WqWmLTyLxj7tvxlcGyvarP+TyZ0X8cg6yGRNFrZQ=",
+        "archimedean-4.8.tar.gz"
+      ],
+      "wheels": {
+        "archimedean-4.8-py3-none-any.whl": [
+          "+YX7R5O3JVy7W3xJIugEHkVIjB0W0GQeEKyqdOyZ+HM=",
+          "py3"
+        ]
+      }
+    },
+    "4.9": {
+      "sdist": [
+        "khyaXcGZr98jc8IhiFCjDiZ1QqHwAxZrQsx2fIte7Jo=",
+        "archimedean-4.9.tar.gz"
+      ],
+      "wheels": {
+        "archimedean-4.9-py3-none-any.whl": [
+          "AoIaCpiQz/fmes2AeezvWrMRle2LmLWQ+QHO9Wa44/k=",
+          "py3"
+        ]
+      }
     }
   },
   "architecture-modelling-tomfreeman": {
@@ -59507,6 +59543,12 @@
         "6cGBiBcX6kdTCt9WUTYvoj+vxwrHXeNi3zWwNxvVuhc=",
         "gofile2-1.4.2.tar.gz"
       ]
+    },
+    "1.4.3": {
+      "sdist": [
+        "oG9XvQvKArFbq504joY5xnnClqyyRViwCkDMT48TKXc=",
+        "gofile2-1.4.3.tar.gz"
+      ]
     }
   },
   "goodorfs": {
@@ -82595,6 +82637,18 @@
           "cp39"
         ]
       }
+    },
+    "1.0.9": {
+      "wheels": {
+        "navconfig-1.0.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3jlQ8fcd/9uBx4aO81wh3feflgXpqf/59re8LbGjrgo=",
+          "cp38"
+        ],
+        "navconfig-1.0.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kl8G+Y95WVCbL7sNqmiFASZg2GRxpbnz/uq1bWIcp2U=",
+          "cp39"
+        ]
+      }
     }
   },
   "nbsolutions": {
@@ -88292,6 +88346,14 @@
       "wheels": {
         "odoo14_addon_l10n_br_nfe-14.0.5.2.1.dev2-py3-none-any.whl": [
           "K344EDUxXNnKmgw4rruA9aBpiHgG60Ym2/jLhKSjt7c=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.5.3.0": {
+      "wheels": {
+        "odoo14_addon_l10n_br_nfe-14.0.5.3.0-py3-none-any.whl": [
+          "eYePIUTSAt1fmgepYuF4VJ8Q9cb2Mf8z7uElyztMPH4=",
           "py3"
         ]
       }
@@ -125026,6 +125088,18 @@
         ]
       }
     },
+    "0.1.123": {
+      "sdist": [
+        "3wtmLhxeLNsMUdeZd4mj9Dx1RIMtIioCf9a70TZYVZY=",
+        "state-machine-semaphore-0.1.123.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.123-py3-none-any.whl": [
+          "3KZAMDvGVWWwoTSouaO5sChIkA6tZMbzQKzDxDTowCI=",
+          "py3"
+        ]
+      }
+    },
     "0.1.13": {
       "sdist": [
         "IiMlOt8tLLIJQ5KUoTw8waK+KyPDG/9LnhuKdi9GbHU=",
@@ -131416,6 +131490,54 @@
       "wheels": {
         "TheSilent-0.0.34-py3-none-any.whl": [
           "/zrALjz+K2UB52W40obkcFxU43zw4Chr03vzeTu0/e0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.35": {
+      "sdist": [
+        "LMkYgk408n3cmpm29/UL4u6JUoIYksE7ZsJLJjpnDZM=",
+        "TheSilent-0.0.35.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.35-py3-none-any.whl": [
+          "DqiLU5FbrjvuUrohtPcju7sn4wrO4S84q8JxziZ96yw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.36": {
+      "sdist": [
+        "X1iMjvTWVLdnIfjcJp16CPLc0pZs91L08cmFx7ld464=",
+        "TheSilent-0.0.36.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.36-py3-none-any.whl": [
+          "oBhD3/Rk+Q+LF8JPRak7YTnxYDFN/QsAUI8a41D8G6s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.37": {
+      "sdist": [
+        "XehWV+pGN5w+rdIYWtGlh1Tj3djm4umRk5w+wKm9BMo=",
+        "TheSilent-0.0.37.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.37-py3-none-any.whl": [
+          "iYmTfZ8rW+n1v2OhzPqs/afbkZCqt9BCK0YqFGR7ejg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "mky2E6B2VZkRHEH0omxYjeD9uJ1D0EeNnabVfMyLEGE=",
+        "TheSilent-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.38-py3-none-any.whl": [
+          "kUQyuliHEAsgYyD4S/irgIywFA0CbUw0+KspZvc+wFo=",
           "py3"
         ]
       }

@@ -35119,6 +35119,14 @@
           "cp310"
         ]
       }
+    },
+    "0.72.0": {
+      "wheels": {
+        "eudplib-0.72.0-cp310-cp310-win_amd64.whl": [
+          "nRIfbJc2a9PckZZQpSgszz37iS+O2n5QXw6NdZL8Krk=",
+          "cp310"
+        ]
+      }
     }
   },
   "evaluation-function-utils": {
@@ -50692,6 +50700,18 @@
       "wheels": {
         "foursight_core-3.1.3.1b12-py3-none-any.whl": [
           "1JqtrJFyymNnciYYZYYkDhJwcXrQeRB1v82jMZKwiR4=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.3.1b13": {
+      "sdist": [
+        "Q8ji6It5Ib0u9DNohYu1Y83gmHMSNULsLV/ort8t5H4=",
+        "foursight_core-3.1.3.1b13.tar.gz"
+      ],
+      "wheels": {
+        "foursight_core-3.1.3.1b13-py3-none-any.whl": [
+          "7DFFpo60GPJ2xpBTkPeJ8aPtdraaKsIkaJgbM8tmIJc=",
           "py3"
         ]
       }
@@ -105346,6 +105366,18 @@
         ]
       }
     },
+    "13.0.3": {
+      "sdist": [
+        "s6Js6uxZqju1LjpwEgJUnlAFlKluHhQLORwntr0GtwE=",
+        "PyChromecast-13.0.3.tar.gz"
+      ],
+      "wheels": {
+        "PyChromecast-13.0.3-py2.py3-none-any.whl": [
+          "Nq71dWYDe5yGXsGrRyFCplCuF4cYUBtXaYgATEQMmFI=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "zPAQzCbZWYTzYa9hwvj8rrR2ljjOakvO12R+tJzW4bI=",
@@ -106708,6 +106740,20 @@
       "wheels": {
         "pyella-1.1.0-py3-none-any.whl": [
           "xWmoZz/4EBNvWytxn/09Ky5dIOohiwH9PdQ0BoubQNA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pyelm": {
+    "0.1.0": {
+      "sdist": [
+        "yKLiQ5TwCJRpmZGe8FRjwCFH6THp153QFstsOPbFSzI=",
+        "pyelm-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyelm-0.1.0-py3-none-any.whl": [
+          "2D9KbfJoowovupkB0SoiiBYdBC85Eb/NyRb2I4Roxck=",
           "py3"
         ]
       }
@@ -145809,6 +145855,14 @@
           "py2.py3"
         ]
       }
+    },
+    "5.0.0.dev734": {
+      "wheels": {
+        "stix_shifter_modules_ibm_security_verify-5.0.0.dev734-py2.py3-none-any.whl": [
+          "i+tjVYPPV45O+5GP5i6w/tmPbLf5BbwApyKmACT32gE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stix2-viz": {
@@ -153446,6 +153500,42 @@
       "wheels": {
         "viggofiscal-1.1.3-py3-none-any.whl": [
           "pTxyPWLAZNXA7lYc3uGERlTt0Tcjis3sOGTuyuhT/n8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "t7nbTsCBX7RMrM4WaGOYuiKWODrSkLg1RexEL2Rp3lk=",
+        "viggofiscal-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "viggofiscal-1.1.4-py3-none-any.whl": [
+          "34VGnwADacwvjGp1bEvHsKW3LJfCeqi5UKpZGAxd5ag=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.5": {
+      "sdist": [
+        "LYQPd84M65lB86tSbYiCFGRP0KQDoCqL3cbc70Vm+OI=",
+        "viggofiscal-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "viggofiscal-1.1.5-py3-none-any.whl": [
+          "Q0MCPDpH4PbsRBGf1PkBjNTxksfXpVhaxFB1anZ0Jl4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6": {
+      "sdist": [
+        "3hbHiCgoKMUsvUVG4Y1hYzmyyXXRkFT9cKrmDAjZvV8=",
+        "viggofiscal-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "viggofiscal-1.1.6-py3-none-any.whl": [
+          "D62e9cDN0uZZuEaelcvj0wkUBCGM8MsfIgOPPDp1KhU=",
           "py3"
         ]
       }
