@@ -21569,6 +21569,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.3": {
+      "sdist": [
+        "zFnuOqRwjRCzb2El87GfLDPuECpwydueT3pPJL/5aZk=",
+        "ckanext-versioned-tiledmap-2.1.3.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_versioned_tiledmap-2.1.3-py3-none-any.whl": [
+          "tXp4hr6cmk0Le2wfcTF+Xj7tqb0xwlzGj+gAsU9qKXI=",
+          "py3"
+        ]
+      }
     }
   },
   "ckpt2tfserving": {
@@ -23690,6 +23702,18 @@
       "wheels": {
         "convert_to_requests-0.1.1-py3-none-any.whl": [
           "dSIfipNnYnvL+R9FqBuETrjt2TyKwnLkODs5SvrdGyI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "eqDhTzbSKGzESgLdBJDt8zNV7xDvZBAuMcySV2eqdEs=",
+        "convert-to-requests-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "convert_to_requests-0.1.2-py3-none-any.whl": [
+          "BXPsBYSdKkddGHYVbjLO1s03FdF3eaUYEETo7XQDhbc=",
           "py3"
         ]
       }
@@ -53543,6 +53567,34 @@
           "py3"
         ]
       }
+    },
+    "52.0.0": {
+      "sdist": [
+        "UQIg4gCW0bm7gqlhL7bKj72txYytTxhHE7smyGczLuo=",
+        "glean-sdk-52.0.0.tar.gz"
+      ],
+      "wheels": {
+        "glean_sdk-52.0.0-cp36-abi3-macosx_10_7_x86_64.whl": [
+          "Ra3+X/bOk7NS6EBjl9uvAP7rPf3D5L5YoQ1Sl/LH8t8=",
+          "cp36"
+        ],
+        "glean_sdk-52.0.0-cp36-abi3-macosx_11_0_arm64.whl": [
+          "u2e7X66ExCiq8IeaiiMAEIPzo2EVixRVmdBK/1OMa4A=",
+          "cp36"
+        ],
+        "glean_sdk-52.0.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "c88TfqqIR+KLRdm0JiER0YgadEo5evyjVB5+3ct3TKI=",
+          "cp36"
+        ],
+        "glean_sdk-52.0.0-py3-none-win32.whl": [
+          "/TN+QvvgzKEl01/sS2WIniAAIEISu/Um+qfoWAeQdfA=",
+          "py3"
+        ],
+        "glean_sdk-52.0.0-py3-none-win_amd64.whl": [
+          "iIFTJ3uBcTY5ORqsRLqFXdUl9aT7h4s0id6N+3BV1kM=",
+          "py3"
+        ]
+      }
     }
   },
   "glitchart": {
@@ -54104,6 +54156,14 @@
       "wheels": {
         "gravity_auto_exit-1.1.0-py3-none-any.whl": [
           "skmqRRb9zbjWIWVZ/O7O8oy6UPRI3ffSzbetY8TThPQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "wheels": {
+        "gravity_auto_exit-1.1.1-py3-none-any.whl": [
+          "AA/ecCatJxRtHGGQ28byl0V1897He13+Rd/7TORQPOM=",
           "py3"
         ]
       }
@@ -55016,6 +55076,18 @@
       "wheels": {
         "hawkmoth-0.11.0-py3-none-any.whl": [
           "jIY3lg76DPCIjiPuzKIrJDuY/Ns62k2juJfkkQ3IZMs=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0": {
+      "sdist": [
+        "D3CEkaTc+p3C4CnCGXNrhniNrsKGC2CLG/P+Ho0Dcc8=",
+        "hawkmoth-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "hawkmoth-0.12.0-py3-none-any.whl": [
+          "K/vCTDzgiUynXB8Y9UN7/kjO8+AWzS935pIXzzqJFMQ=",
           "py3"
         ]
       }
@@ -92839,6 +92911,12 @@
         "ID1Fy1faNr1i1SiAEbVYV8phkQtfoZ/eIeV8Gxzc/1I=",
         "os0-1.0.3.tar.gz"
       ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "Tgl8COAdqSQ+MSnz9x0Kj5FQY03Rf9G/ayMDgwgqvHU=",
+        "os0-2.0.1.tar.gz"
+      ]
     }
   },
   "otx-misp": {
@@ -113366,6 +113444,18 @@
       "wheels": {
         "pytest_homeassistant_custom_component-0.12.31-py3-none-any.whl": [
           "6UxW3aXcpJGiQPgXbSFjYNAFGCbaRglMYLvN6mbNskw=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.32": {
+      "sdist": [
+        "Sdg8NYVIsDrR/NnfRJxJLyOkN8E4xw9tSJz2ORDObHk=",
+        "pytest-homeassistant-custom-component-0.12.32.tar.gz"
+      ],
+      "wheels": {
+        "pytest_homeassistant_custom_component-0.12.32-py3-none-any.whl": [
+          "18Ld4DUC2bUsORRty3+wTXgdDFexgr4v/gsducrg55M=",
           "py3"
         ]
       }
@@ -134269,6 +134359,32 @@
       }
     }
   },
+  "testpackageforjoblibsigma": {
+    "0.1.8": {
+      "sdist": [
+        "OKNDMOhKM75KWAC1vMbAiDFnaCEPkn0EVpCz9rD1pVo=",
+        "testpackageforjoblibsigma-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "testpackageforjoblibsigma-0.1.8-py3-none-any.whl": [
+          "5G5J3TdMQrv/Dacy4vCuo3daCL+g2rpfQROb9VdwfFY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "ypyRzuPR8V0sheYYsIlpV0GJVr2P9jWjiJzKfQ7fgIo=",
+        "testpackageforjoblibsigma-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "testpackageforjoblibsigma-0.1.9-py3-none-any.whl": [
+          "Csq6n/yiCxqpMzvfT2dYws4+8Cld7/mS96ZRljPkys4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "testplugin": {
     "100.99.99": {
       "sdist": [
@@ -140358,6 +140474,46 @@
         ],
         "tflite_runtime_nightly-2.12.0.dev20221210-cp39-cp39-manylinux2014_x86_64.whl": [
           "7iJw6Ik9LBYS28DIRKzThvgDnq57Is23tfU21kRFft4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221212": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "5DM6ljKd+7WC8rliklkRuO05uJh4Kvnr4wSY0x8dCjI=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "jvlwVma9lNoxh3BDPUc3i20yorEfMnAdAW8fAsjaXgQ=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "wGNTrq4k0DsBnc04co8gMl5Kcu4vTCRBNRq7t6CEmpw=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp38-cp38-manylinux2014_aarch64.whl": [
+          "zLLrGGwHRGxCKvHPP2VXiFEKvYVFKq2jhOoE+bsJ7tM=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp38-cp38-manylinux2014_armv7l.whl": [
+          "BOqvxkdrbbBt8H/npvzhiI69ZoRjDeGQxX+1GF2oZKk=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp38-cp38-manylinux2014_x86_64.whl": [
+          "pqJsrVvsvTwPuDN7kiGToRx8OLoEcpf95C5gzdXEK9w=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp39-cp39-manylinux2014_aarch64.whl": [
+          "gOVrqCzJp89DRuzIoPOgQxagMP4t4Grj0GB/E60CRI4=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp39-cp39-manylinux2014_armv7l.whl": [
+          "VFsKi0pFxdzoHyZmshohiNqUIqI7JLIRMgUDZU0cXUs=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221212-cp39-cp39-manylinux2014_x86_64.whl": [
+          "3gb/iyhH8fz/xrpoE8Sd6Vi143TdxDlFlGe8NklHt/A=",
           "cp39"
         ]
       }

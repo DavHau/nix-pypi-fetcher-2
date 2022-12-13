@@ -37913,6 +37913,18 @@
           "py3"
         ]
       }
+    },
+    "1.2": {
+      "sdist": [
+        "4bCQky+nA/Xik58bZ4GEAj/brrL3dnnWnHQXjgcZAcs=",
+        "DataNormalizer-1.2.tar.gz"
+      ],
+      "wheels": {
+        "DataNormalizer-1.2-py3-none-any.whl": [
+          "sA2BBASspkYWoy7QylpDTHOC85yo3oIgl/5s+R7eGjI=",
+          "py3"
+        ]
+      }
     }
   },
   "datasets-anirudh": {
@@ -62546,6 +62558,24 @@
         "ipdb-0.13.1.tar.gz"
       ]
     },
+    "0.13.10": {
+      "sdist": [
+        "aVBxX0kdWd9sJ7Scs3LyLC8XY0eKXp7QP7BQfi2F9GA=",
+        "ipdb-0.13.10.tar.gz"
+      ]
+    },
+    "0.13.11": {
+      "sdist": [
+        "wjtnNvAf1Fhswuy+vfeaXrRUeWhT4c2PLtO3uR1KPpM=",
+        "ipdb-0.13.11.tar.gz"
+      ],
+      "wheels": {
+        "ipdb-0.13.11-py3-none-any.whl": [
+          "90wvdBwYuQnq+J8Z/elz90WschdEqhRliIzkWBO2Opw=",
+          "py3"
+        ]
+      }
+    },
     "0.13.2": {
       "sdist": [
         "d/scKm/M3+4BNgeMntb+VHqwDbAL6/8YHx6MnhNBjUk=",
@@ -72494,6 +72524,74 @@
         ]
       }
     },
+    "7.11.1.dev20221213": {
+      "wheels": {
+        "lalsuite-7.11.1.dev20221213-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "5jyemJV5F/22t+4KsGTIkebcnFl+e7XMTC/2MVboEX8=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp310-cp310-macosx_12_0_arm64.whl": [
+          "ds13swFT3xX0XmRxnGNjYbK0cQuEF0Nf+NsYALyivFQ=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7wDFudC+v9K6ENV4g5KZ0gSArngugKU54NGNwnPwxU4=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+1cRdhPBDhJqhxs0ctJTGkJuCM64sxAl3IvyyhimM2M=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "toj8lmHF2L7Xq+nP9zkxKRJw/Hu5pzML7LEB+BSwmQ0=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp311-cp311-macosx_12_0_arm64.whl": [
+          "kX7WotB1QA0b98XlouvAxTLBopbo8rOL5mDI3gO+qP4=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "eczRVlf6JDXps6XnOBtHMJlxppOAEGjVsS2btSlVlIs=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+Wgrlqo0CdKd414vYtBbHwGBpjMix7gqS8aLhaM2DkI=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "hOL5XLUkG5spyHLBrV7S8veW6indkEO1v9PCwsEMlMI=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp38-cp38-macosx_12_0_arm64.whl": [
+          "MXODbm2KY54mYCzehSnRatFY7rN6tNBFeiTqNLgTIgc=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gsst56LidguzRffITHztJ6lCf+wI7s8RhxJpr6sJbcY=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uuAYkzwsslWH7sR+25B2aLbjKsb7JO7o0Ejd/J77lNc=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "Wt5emh4A4xPNByjk71MaJCYd2afMV6cSjhMu7uudvsA=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp39-cp39-macosx_12_0_arm64.whl": [
+          "XNj4pl7nEN8zuRgeOiwcnYU/Y2OBvYwV49QucDYQN5g=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "G//KL/R8EStmgwswbEi1eiuTPL9F36/cgREJVM0PHck=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221213-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ECVR8JA262xa8RNGGuvZ53PrFUHDGRnUM2CoMA8nfgw=",
+          "cp39"
+        ]
+      }
+    },
     "7.2": {
       "wheels": {
         "lalsuite-7.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -75560,6 +75658,18 @@
       "wheels": {
         "lupin_grognard-1.1.0-py3-none-any.whl": [
           "bUzOfKe57uhbuj624b6XVOIn74v4D451asrYXuSuK40=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "S7s9gsdSOAbtTEJzJYonhvS2YKe0RCcCR7mtcdZvFWQ=",
+        "lupin-grognard-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "lupin_grognard-1.2.0-py3-none-any.whl": [
+          "zK3M5vcJvIElQlW7FwH/1Y0bz4VradvWGJ5KoPtVVnw=",
           "py3"
         ]
       }
@@ -100224,6 +100334,10 @@
         ],
         "puan_rspy-0.2.9-cp311-cp311-macosx_10_7_x86_64.whl": [
           "QMivWTqwq30eQ0RYBtLJV0w3zHjz4egMyhCIPRdqM00=",
+          "cp311"
+        ],
+        "puan_rspy-0.2.9-cp311-cp311-macosx_11_0_arm64.whl": [
+          "f6r64Y1SvLGuXyLuBTwAsBb6vHGNDaODh4uDYDTaU6c=",
           "cp311"
         ],
         "puan_rspy-0.2.9-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [

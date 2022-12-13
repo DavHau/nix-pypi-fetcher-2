@@ -25779,6 +25779,12 @@
         "sZVxyJt9/Q2XO6+fPt9E6+dR/ettGtaMuYZaCeZje2o=",
         "datapress-client-0.2.5.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "Cu7ypy3FlXKd+g3k18pAeAhbbcg7llZ4AHbMqJ2uUvY=",
+        "datapress-client-0.3.0.tar.gz"
+      ]
     }
   },
   "datasette-yaml": {
@@ -39544,6 +39550,18 @@
       "wheels": {
         "dstk_x250-3.8.16-py2.py3-none-any.whl": [
           "fRoV3j7Ymit7Tu3ZyybxmfvshQqkifA1T0qVinlk6j4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.8.17": {
+      "sdist": [
+        "yzQ9PlJdem4q1t8x9BpWX1LH7yEoJCX5drgyG1fffSs=",
+        "dstk_x250-3.8.17.tar.gz"
+      ],
+      "wheels": {
+        "dstk_x250-3.8.17-py2.py3-none-any.whl": [
+          "zb94zPyXymocyxqKgsZ0wUX6E7/18JujLg6u7Co8SqU=",
           "py2.py3"
         ]
       }
@@ -84340,6 +84358,42 @@
         ]
       }
     },
+    "0.0.290": {
+      "sdist": [
+        "6DdrOJ7CnAOdfDbfnjZszfNa4k5l1w6d4mTCOvEy9AA=",
+        "pepperize.projen-awscdk-app-ts-0.0.290.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.290-py3-none-any.whl": [
+          "PyBLUwkg7Dx903+xX/48PWKK5jsbLvWBKWCCxfewEzI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.291": {
+      "sdist": [
+        "t6dichjHUuJ7DfyPy2DOQbf8qm8md0W+a4wrXS1z6ws=",
+        "pepperize.projen-awscdk-app-ts-0.0.291.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.291-py3-none-any.whl": [
+          "vC+fRNA5NUrX+dJEyrhtEaMBw5JEeRNw0g8KSOZF/Ww=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.292": {
+      "sdist": [
+        "yWngcmpdHE56DKPguJvwTSk4W3nGBflOwE8GEXVAS5c=",
+        "pepperize.projen-awscdk-app-ts-0.0.292.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.292-py3-none-any.whl": [
+          "aJ3+qNoqIrNNvyeq/tsI+4r/g58tNPpsgolhHKHKzXY=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "JxcKZTacRS8FnjMlhByLo07tRPh9MMW0FoFQH8XpK38=",
@@ -101357,6 +101411,32 @@
         "TDWvX3ZgC2opq301DWml0vL6irENGPoDR/D2wgEadAA=",
         "rdftransformer-1.0.0.tar.gz"
       ]
+    }
+  },
+  "rdsalesorder": {
+    "1.0.5": {
+      "sdist": [
+        "Y3bRt2igMM/4PbjpMdrq0rZtbEInzDKz8z7SLW18/p0=",
+        "rdsalesorder-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "rdsalesorder-1.0.5-py3-none-any.whl": [
+          "9JQwErMa9Gx/1e2hO6SbjwHIQ4L/xq6kkxVYuje3cpw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "T7fiFIFc4z9kaVnCQBf97Ppc9MuB70JpBMoaAyXVBJk=",
+        "rdsalesorder-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "rdsalesorder-1.0.7-py3-none-any.whl": [
+          "yck/4pAO+72NZHPtXHLQOugkWxVoxuFGwFM1+88u+RI=",
+          "py3"
+        ]
+      }
     }
   },
   "readabilitylola": {

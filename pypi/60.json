@@ -13567,6 +13567,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221213": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221213-py3-none-macosx_10_11_x86_64.whl": [
+          "+86etLHdZDaOD/sCmVZXuij6jX7K1/rihJaYbaC5lX4=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221213-py3-none-manylinux1_x86_64.whl": [
+          "9xYiI8XOcZdUFawJRvCrhOfawn5yiJ4bFz1XT5H9Ehs=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -62226,6 +62238,18 @@
       "wheels": {
         "genotations-0.0.9-py2.py3-none-any.whl": [
           "lYu5xx5CFA4xnUIbE/JyLpaWBcB1rZHHpUxGJduzNu8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "nXPvRy0jtgBiAeHBfGdNC3alszVy811YOZf38J0Ouz4=",
+        "genotations-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "genotations-0.1.0-py2.py3-none-any.whl": [
+          "MfqwBaZVrrDnkkDL6wF5gp/O9Rk/+9SZKpwG42mL8kY=",
           "py2.py3"
         ]
       }
@@ -135123,6 +135147,18 @@
         "ypKoOeYQHQ2ZkamFU5i4aLaW+L6XzgNXiqAo+mRbYrg=",
         "returnn-1.20221212.221259.tar.gz"
       ]
+    },
+    "1.20221213.102343": {
+      "sdist": [
+        "xa9SKN+Fa1VS19H2xKhcTuXLtNujgtb1jXoqRd3Gqe0=",
+        "returnn-1.20221213.102343.tar.gz"
+      ]
+    },
+    "1.20221213.132250": {
+      "sdist": [
+        "RSnBhYIjMgST1moT3yji9nEhNEivKAfTizee0xN/cpY=",
+        "returnn-1.20221213.132250.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -147054,6 +147090,12 @@
       "sdist": [
         "nTCcpo7xGOSHXUMWmwR94oUNueRvMkjIu8WP0CY+PMI=",
         "tendril-apiserver-core-0.2.5.tar.gz"
+      ]
+    },
+    "0.2.6": {
+      "sdist": [
+        "ahqzj29fPTNLSJ8sjQYrTk3vvx9viLnUhjb+QwmHLQQ=",
+        "tendril-apiserver-core-0.2.6.tar.gz"
       ]
     }
   },

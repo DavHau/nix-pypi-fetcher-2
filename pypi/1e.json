@@ -12831,6 +12831,30 @@
           "py2.py3"
         ]
       }
+    },
+    "2.6.0": {
+      "sdist": [
+        "nz+NgDHIR3vvH5T+/3zS5wTxWYObc7leIN0m985lNWA=",
+        "barbell2-2.6.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.6.0-py2.py3-none-any.whl": [
+          "qTuZaVKbsYrpGIm/e/h7V5rwOiOY9H9NpRY/fszajZM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.7.0": {
+      "sdist": [
+        "7OPjzquK/+aLIuHcRmZGepch8d5ajDDqCZHrKsygNSg=",
+        "barbell2-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.7.0-py2.py3-none-any.whl": [
+          "6EzjDh/52POwzahmxP+QoqIRC9ZuuJwwXO6d9+RR/Ms=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "barbudor-circuitpython-ina3221": {
@@ -111303,6 +111327,18 @@
           "py3"
         ]
       }
+    },
+    "4.1.2": {
+      "sdist": [
+        "WIO29AQyxxq07bnTh7gdPpWOylI79smNcZvb/Py/+4g=",
+        "pytest_splunk_addon-4.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_splunk_addon-4.1.2-py3-none-any.whl": [
+          "oy4+DBIhWC57aJ1E0+NZyuGtBTp4aMY5e+Upsqv+pO4=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-twisted": {
@@ -144712,6 +144748,50 @@
         ],
         "tfrecords-0.2.2-cp39-cp39-win_amd64.whl": [
           "PYpguhGgQDQzGyu1kcsNoiSaat5j87rXmZOB/97JHLI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.3": {
+      "wheels": {
+        "tfrecords-0.2.3-cp310-cp310-manylinux2014_aarch64.whl": [
+          "GcR6xUMtYh7K04wg6rGJUF79Dwe9vYzaVxiKBqmuwbk=",
+          "cp310"
+        ],
+        "tfrecords-0.2.3-cp310-cp310-manylinux2014_x86_64.whl": [
+          "DGJyBKodZwSze/A1IECExwnOxaagNa42Y2R6aC/kAJU=",
+          "cp310"
+        ],
+        "tfrecords-0.2.3-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "AJMOFyZhtpSIdqX98MPZW6YRAj6SVxQaJ8hldaDLwmk=",
+          "cp36"
+        ],
+        "tfrecords-0.2.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "r/3V8D57HTGkwbU/zwgq3GUUSiaRMKx/05ZzE07BxJg=",
+          "cp36"
+        ],
+        "tfrecords-0.2.3-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "NAzRL8IKElUSN6tpogFX6lxgIxvUJF/2GzqskXUAQcE=",
+          "cp37"
+        ],
+        "tfrecords-0.2.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "dGUBPj7ULdBEQ1AZviL3cYcPWWiZ1SfTcoQNj+SqUI8=",
+          "cp37"
+        ],
+        "tfrecords-0.2.3-cp38-cp38-manylinux2014_aarch64.whl": [
+          "RjUt1x+jhqxyg5bbR4moD77FWtI0Qo6nSRKhbI0H86w=",
+          "cp38"
+        ],
+        "tfrecords-0.2.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "NDjcNxbrTF+cNd15QlON3o9l0vU2RxLrYYqHmSp/uGs=",
+          "cp38"
+        ],
+        "tfrecords-0.2.3-cp39-cp39-manylinux2014_aarch64.whl": [
+          "2cP+JKjb6N4+jwRSaaP/gpkTR1N5GY2GAMAPnU3K+/A=",
+          "cp39"
+        ],
+        "tfrecords-0.2.3-cp39-cp39-manylinux2014_x86_64.whl": [
+          "tMlTqQCFTylhSfnHyMgkvoWFnk/Zu12/RMBU1lKVExk=",
           "cp39"
         ]
       }

@@ -87827,6 +87827,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.8b20221213": {
+      "wheels": {
+        "multi_model_server-1.1.8b20221213-py2.py3-none-any.whl": [
+          "zfSwNE5G84e+TiXROFWWNQqHNYihZmgtgGnDj9s3rbI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "multiple-permissions": {
@@ -97981,6 +97989,56 @@
       ]
     }
   },
+  "omars-analysis": {
+    "0.1.0": {
+      "sdist": [
+        "vxHVft1I+iNSFOQsGwBHlampRpy6WTilnxBwe0FlHkQ=",
+        "omars_analysis-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "omars_analysis-0.1.0-py3-none-any.whl": [
+          "DXp8t4PoY5uh02UrUQvnI62UPGRC+SspQSxShkVhhLM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "WZ+qkUFP5CV4ML+ntMvm4KSctshtvhi2bhpfsorIysI=",
+        "omars_analysis-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "omars_analysis-0.1.1-py3-none-any.whl": [
+          "kZFn0VIikisiIBPiHb0dLfaIdhU9KUI2JSqfeTglnzc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "bk4UNC8YrNYN3Uqi0zcH+LV1y7jxsmVwhls+hdLIBGQ=",
+        "omars_analysis-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "omars_analysis-0.1.2-py3-none-any.whl": [
+          "HDIxf3hl7tzWIxZQABAOXxGpX3uDMSm8cabUS2+3Xgc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "r6zbAzP/HbEOB9yDslEAjVWTX3SwzW3PlYVRDukLX/o=",
+        "omars_analysis-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "omars_analysis-0.1.3-py3-none-any.whl": [
+          "kN5jbO1RQeyRjxWRzqNKxBUexQHviM6kwUq255DukNQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "omegalul": {
     "0.0.1": {
       "sdist": [
@@ -106714,6 +106772,18 @@
       "wheels": {
         "prometheus_pve_sd-2.5.13-py3-none-any.whl": [
           "UAiQXG0ckOA1GO7wRHBAo800J+pGnp+ACoadFSRD9JU=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.14": {
+      "sdist": [
+        "30wq7XfkZANJmiog13iUY6AEQnlWtQ3awuVvX+ZO4nc=",
+        "prometheus_pve_sd-2.5.14.tar.gz"
+      ],
+      "wheels": {
+        "prometheus_pve_sd-2.5.14-py3-none-any.whl": [
+          "Po28WGppq/giQWKe6Em6gFeJ4Racg0VNckMav1i5jsM=",
           "py3"
         ]
       }
@@ -120454,6 +120524,170 @@
         ],
         "python_lancelot-0.8.4-cp39-none-win_amd64.whl": [
           "+mJWIP0JbuPvcJmKKJvtmln04hRi+Z3Lto/oRVSg/1M=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.6": {
+      "wheels": {
+        "python_lancelot-0.8.6-cp310-cp310-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "61xHH1Q3FrI2lmq/YADB4wmpvqC4QJ4Vl+FgfjzlnRs=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "+ILMPWh3Cj18tE0D1kAyzvEcikhvTaYtgd/IOTWZs5Q=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "SwO8nYJW0WgPBRdMicaxBhJDayj4FFvCit0bLElYYRQ=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "UwAwNnHfczbj4VsHMiozMyLWZZqgIvd4zvft+iD6oE8=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "k1QdhhZRpH3v6FHHkUzAWKYcAoO7fzBCw4lfDe4C0c0=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "6jxr6l34hgb/2G0Axc4qUupoec1LKH/7qYD4aAqODKI=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-none-win32.whl": [
+          "VNvGL52fw1JigAWvx6j6r2tS29SDQBtRCw0FNtbF2GM=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp310-none-win_amd64.whl": [
+          "7VX+t4NHurmvnGtv1YP1IpvNhGBiG7cGGkxNPeFVCkU=",
+          "cp310"
+        ],
+        "python_lancelot-0.8.6-cp311-cp311-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "PshdZZNF5e2dlvJ/cc+83Tf0wfLxqE2Sri487U9dilU=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "ay4+dfCgq9F+b6D6saen1AUC+ly5yUb2JPRMajtgPrc=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "9c3t3Y0M8elO7s3VKfcMEfOYhRFuTc4TNucx/rd0j7Y=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "K5DwUyOX3RWvDrGqKA7L20ulbiYQkRLFEjvFN92GTgU=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HxvyH4p5If0kFhaE47/5Xsrf3Bm0jbrjWeo9jvzBK3w=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Q7WKa25+Sj/QDd6dxSPkGx7tKCK4OkEDdMehQQLLgCo=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-none-win32.whl": [
+          "04nQLruBQQ8LdWNP2On/Mi2qkbMuPvmZpxjPwtx9SjU=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp311-none-win_amd64.whl": [
+          "Hg09x0mDOvMbLBVkAXQX3QHZW5l3WzKKltihpVEwbmI=",
+          "cp311"
+        ],
+        "python_lancelot-0.8.6-cp37-cp37m-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "PnvqvbrFx0FbY3gX0MiuK9mFNfNiVn+iUBm+Y2tEUw0=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Pa3Eh8IMGyM91sV/GLTl1GjGtG6YuETnH+0fUT0mxPI=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "IL0Yhf90apxuAcRz25bT5y2vOwGT2eVSu0kyHtaTdBQ=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "RR51n3ElsAshCWXklYTqM3rOWX33nJb0un1vtLwD8pk=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t1m1Wur9apy4i2rusqRV7/lDLIYIjfz6OCWd2RHHIME=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "YhRjg4WsEgSMNnaEXipmq3FJWSevDfYqGrygZA4QEf8=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-none-win32.whl": [
+          "b4Pt0qLFTdiphwo/5bqAcwLbOcl/VtLb2bWIPyj5Oic=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp37-none-win_amd64.whl": [
+          "ACNzEzllvg1puVR7qDiJfrCc6c+AsMzqju6V0Uxct1M=",
+          "cp37"
+        ],
+        "python_lancelot-0.8.6-cp38-cp38-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "gZMqz6EXtgUgVpB3sG+1O9OYi9wkUw7Zy1O7rGlE+fU=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Fgi4UjsXHKlH+upN0+OCfYkfRy5L5DVPvs2OmxnOpnw=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "B/F9ynn+D0/TJbNgU5LZqqrkTk0bgXFarxVX8+MkEAo=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "DRbUAjPEKjB6FkoC8sLVI7ObpEg7FKyeCCx0jfvUFS0=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hGi30egjIIcvsn6W9fdqme7GkClzu+W3foxQsUP2JZA=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "hSTMVabl/Q/QHOLavwXRkqlF8RMAMmdAlX3Vn0rCnQg=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-none-win32.whl": [
+          "ZsAiwyfOs7HG8JOWWVBsCH4HUaNzZ6cVTejnLKx+cy8=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp38-none-win_amd64.whl": [
+          "tQQoKNaHat2z+CJceeArCRYqrQ4K7Iy70YjDTRgNwiM=",
+          "cp38"
+        ],
+        "python_lancelot-0.8.6-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "PxIWC9G8P3PARXsXKVRxdT7SIMX02CRM2+YNq7tQRmo=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "QwED81+8OJffcsdvPuDjDq6r+hKsusM6Ik36PToJNPQ=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "PWGO0fBu3A/zsziYg1qPHGkeSOfurEIbScGVcbVj/PM=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "cUuYlINNh20u9yoL5uYqqWqKt9TtHlc9SbqfpVk5U6o=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "S2OtVUnhciNuOZTdvu0Yo6rdyUM3ty5zynPzwdUg/HM=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "XsWNK+hFPmUPsxvZi3jIRQIcNB1C+SAxQmJ2Mk+6scc=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-none-win32.whl": [
+          "4PumFHUWRUhIK9akavCyaBdh1GfluuwSYrBkQrO3PGY=",
+          "cp39"
+        ],
+        "python_lancelot-0.8.6-cp39-none-win_amd64.whl": [
+          "YnKItjEhPXJdIOWizwCcVOmytCdbSUyLMY8cbbDmUdk=",
           "cp39"
         ]
       }

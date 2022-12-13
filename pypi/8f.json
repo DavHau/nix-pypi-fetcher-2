@@ -43521,6 +43521,18 @@
           "py3"
         ]
       }
+    },
+    "6.9": {
+      "sdist": [
+        "PGz0Z4FL3csmV6N3Vcz2WrI+HLsx2cSnzyM73rvtYDE=",
+        "exonwebui-6.9.tar.gz"
+      ],
+      "wheels": {
+        "exonwebui-6.9-py3-none-any.whl": [
+          "BxsWmJt5bXUpabayvswcHfl9b3J53CQkJ58L9Pr4mk0=",
+          "py3"
+        ]
+      }
     }
   },
   "external-data-structures": {
@@ -52809,6 +52821,20 @@
       ]
     }
   },
+  "gppm": {
+    "0.1.0": {
+      "sdist": [
+        "l/j10buJfnSnWaEVBf4glFqdDUu98M29vtQ/pdQxRzY=",
+        "GPPM-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "GPPM-0.1.0-py3-none-any.whl": [
+          "sZnEK1l6H6G1fG229JSuedz7vzZZCNglAC864fpa1t0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gpr1d": {
     "1.0.0": {
       "sdist": [
@@ -60642,6 +60668,12 @@
       "sdist": [
         "qe5IdUiIgkYPdpDGdwVtSAIjfjsSv6TwxlPx+dJPfsM=",
         "kaldifst-1.4.tar.gz"
+      ]
+    },
+    "1.5.1": {
+      "sdist": [
+        "NRkenLAyrZxPhQeL7Fr+jBWreHMPQxpH8po8+dQcrqg=",
+        "kaldifst-1.5.1.tar.gz"
       ]
     }
   },
@@ -72234,6 +72266,18 @@
       "wheels": {
         "napari_console-0.0.6-py3-none-any.whl": [
           "CGGT68j7p4eG18QJmGwCuLB1WrNoff0nq+xdOEhvXcc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "tqXXFpGCeZKrd2Xq1SvW1bZItKaes1NfTmUkw3BUxqQ=",
+        "napari-console-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "napari_console-0.0.7-py3-none-any.whl": [
+          "HoCjeBvzwGJKfc3RW46cDpR2GLRY6rBQzIpkoTUCnCI=",
           "py3"
         ]
       }
@@ -87394,6 +87438,18 @@
       "wheels": {
         "polars_lts_cpu-0.15.5-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "fQdCIwI+LfB9IMyU/3XvgskEnKP824I4mQrbxbbTQIw=",
+          "cp37"
+        ]
+      }
+    },
+    "0.15.6": {
+      "sdist": [
+        "aUrez+qGMtw1M5a8ebqFUq1ZEkDTgVDzpdRyLucZLMc=",
+        "polars_lts_cpu-0.15.6.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.15.6-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WCaFc/DuNKpBBmsermaf25vRhGRWDrDTh6n41QuaLDk=",
           "cp37"
         ]
       }
@@ -111898,6 +111954,14 @@
         ]
       }
     },
+    "0.4.13": {
+      "wheels": {
+        "spark_sdk-0.4.13-py3-none-any.whl": [
+          "xix3a8ojU9gbPtBdJge9WTG85530S0JTnZdhqwqSiaU=",
+          "py3"
+        ]
+      }
+    },
     "0.4.9": {
       "wheels": {
         "spark_sdk-0.4.9-py3-none-any.whl": [
@@ -131468,6 +131532,20 @@
       "wheels": {
         "versionfinder-1.1.1-py2.py3-none-any.whl": [
           "sX7bsL+3nVDfxo02GNMkSvkNPLkyudx/E5WDaU1yXy0=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
+  "vfblib": {
+    "0.2.0": {
+      "sdist": [
+        "zQYXAbuqnBU0SFX7vGeD0rQo8ka7CY7eoDKm5E+mf2c=",
+        "vfbLib-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "vfbLib-0.2.0-py2.py3-none-any.whl": [
+          "6nB/VvRP1+cJHpTPU5RYbiSOl+BerGgolE/jHcQDQkw=",
           "py2.py3"
         ]
       }

@@ -15155,6 +15155,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221213": {
+      "sdist": [
+        "LZeZuUdostuUptvjGb2ECmTlAcoMLCu4nAlX2/cAOSc=",
+        "bigdl-dllib-2.2.0b20221213.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221213-py3-none-macosx_10_11_x86_64.whl": [
+          "6zmb9C92aLgljw1GpJFDwB+EhJTXsDMq1dKMjukVmPg=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221213-py3-none-manylinux1_x86_64.whl": [
+          "wH41ber529os22rU6OEaSrjMSe9kptfmjLmxJilkXwU=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -87803,6 +87819,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "VhtagYLwB+CU22hex51maz+lH+0nXPEJc8vMjT/BJYM=",
+        "povideo-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "povideo-0.0.5-py3-none-any.whl": [
+          "BwxmlaNEQso01bHqzdySCGcDY314ZUztQPxQDJncT4U=",
+          "py3"
+        ]
+      }
     }
   },
   "power-daps": {
@@ -111680,6 +111708,38 @@
         ],
         "rubato-0.4.0-cp311-cp311-win_amd64.whl": [
           "avhVjA0aC/kYeEDO7OsvIahWC1aXKRNabmrhuTtOETI=",
+          "cp311"
+        ]
+      }
+    },
+    "1.0.0rc1": {
+      "sdist": [
+        "zcGXP7IgLzOSKfpvUr2/Lyxa8IjjaTRsqti1KTRo92I=",
+        "rubato-1.0.0rc1.zip"
+      ],
+      "wheels": {
+        "rubato-1.0.0rc1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "sOdjxqgp1j82WngXdPVX4AxVHDns0BT16QRIr89IWUM=",
+          "cp310"
+        ],
+        "rubato-1.0.0rc1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "GmE73Po41CtEmtMOYAqQu5iiuh0+h2uqaeAqHr0U6mY=",
+          "cp310"
+        ],
+        "rubato-1.0.0rc1-cp310-cp310-win_amd64.whl": [
+          "SBFRawTzUZZqpbmNLr2dzQsTYSaJ94+Y5DcT6vqp7hc=",
+          "cp310"
+        ],
+        "rubato-1.0.0rc1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "I/os2HBuAT8dI/laGTQOkorLCPzzdxRmUysHHb/dr7w=",
+          "cp311"
+        ],
+        "rubato-1.0.0rc1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "V+Miu5jAR16XYHghjyaTJcnZNJTGj9WN9+39klc9EuY=",
+          "cp311"
+        ],
+        "rubato-1.0.0rc1-cp311-cp311-win_amd64.whl": [
+          "8azL2Qyuv7S09fQsVQWg3Vhe2cEw+oJ/SBHrINxhPAk=",
           "cp311"
         ]
       }
@@ -138064,6 +138124,26 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221212-cp39-cp39-win_amd64.whl": [
           "x/ewrAh80GBKC75W+nWNi408iaDh/R4ePpk9KJuxndY=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221213": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221213-cp310-cp310-win_amd64.whl": [
+          "NeWWPGMvNPEVWwFbxwcRgCUXbUGU8a+lNT7OmMflPGE=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221213-cp37-cp37m-win_amd64.whl": [
+          "yWWSe0MR7HJF4NvPCZw6iEA89HgBBSThnSmJJj97w/Q=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221213-cp38-cp38-win_amd64.whl": [
+          "8116aP/5TKSUYWYqc2ntkLpCGEHJwiumAbKQC6dULLc=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221213-cp39-cp39-win_amd64.whl": [
+          "/lOAM4PIxGhHZUpjnwGwejDFyXm04+GF8SxESgRgAS4=",
           "cp39"
         ]
       }

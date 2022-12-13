@@ -25235,6 +25235,20 @@
       }
     }
   },
+  "chunklog": {
+    "0.3": {
+      "sdist": [
+        "DPj7GkvIlKC08ocXn2xTypoib2yOgt6mJXQz5ZyPL7E=",
+        "chunklog-0.3.tar.gz"
+      ],
+      "wheels": {
+        "chunklog-0.3-py3-none-any.whl": [
+          "KGnHFgJCh0aMIgvTX6FXgt8Q6fjLDGzd1F3Tvk7M7cE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ci-hash": {
     "0.1": {
       "wheels": {
@@ -26528,6 +26542,14 @@
       "wheels": {
         "classiq-0.18.3-py3-none-any.whl": [
           "Z/+kbCTvpAC4RmGxvUF7i4Gde1q0v+f/nDE7fKtRmoI=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.0": {
+      "wheels": {
+        "classiq-0.19.0-py3-none-any.whl": [
+          "ZM+gSGeIWRvquCGAZ59ETIynFxXE2v5+0wNZaK9mYvU=",
           "py3"
         ]
       }
@@ -49389,6 +49411,102 @@
           "cp39"
         ]
       }
+    },
+    "2022.12.1": {
+      "sdist": [
+        "ZoKH27THwwQqQEyAYXvWvphho/9QEYpaKzhfiihfYrw=",
+        "fabio-2022.12.1.tar.gz"
+      ],
+      "wheels": {
+        "fabio-2022.12.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "P3nGr3ZfulWxWjO1hmk0rxUWnA6WO17x89KRt7GkqUA=",
+          "cp310"
+        ],
+        "fabio-2022.12.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "p7//g2i0I+3qOTa83lVcf0wexCNsTk8T6DAUlzBCyZw=",
+          "cp310"
+        ],
+        "fabio-2022.12.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QWmugtupyIyjlrTvdQ/fs9mMPPm6DJabeGEIdQfUmeM=",
+          "cp310"
+        ],
+        "fabio-2022.12.1-cp310-cp310-win_amd64.whl": [
+          "7tg4oq1mLNGOhnzHSfvIBC3jtbQOtbLkhLsbNJ2Pm9s=",
+          "cp310"
+        ],
+        "fabio-2022.12.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "t2+gm9oN6QraP3/99r6ranKNhEM7biNqcJjbg32rTFs=",
+          "cp311"
+        ],
+        "fabio-2022.12.1-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "vmcCgihwIs03fR8CA5edvKa3XHCEoYy+pA6VonRCnE0=",
+          "cp311"
+        ],
+        "fabio-2022.12.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BmLE8tS+0bnv9APfbXWhrGaQT6Qo5BJoPbZ5gMj7FMQ=",
+          "cp311"
+        ],
+        "fabio-2022.12.1-cp311-cp311-win_amd64.whl": [
+          "WmU5sxjRc8Y10tsDypOToomZH+HogrPkAP0G7gdKlHc=",
+          "cp311"
+        ],
+        "fabio-2022.12.1-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "sZKNz11nRXTakDm3OdR8EAK6jj2ZDGFTZHSwl9F73M4=",
+          "cp37"
+        ],
+        "fabio-2022.12.1-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "GiD0+yv+HKAGo/IrP48zsZBcXUEGFpftaU34WET4qBI=",
+          "cp37"
+        ],
+        "fabio-2022.12.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hjLCCYUgF0qCgttfh63m38Edf2ogjkY2czIf3sBzksU=",
+          "cp37"
+        ],
+        "fabio-2022.12.1-cp37-cp37m-win_amd64.whl": [
+          "TqSLs4Yi3lZWFWlC6js4+2+BVjhVg/1PgosGfHZ6r1U=",
+          "cp37"
+        ],
+        "fabio-2022.12.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "KKWHg6TGg02WnF+9AHoDChfadLyFs3JwXieBH1lkTl0=",
+          "cp38"
+        ],
+        "fabio-2022.12.1-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "/lu6J+0nc1ru0tQbP2vuclCSCvI0ccVc9vZWpAHILZM=",
+          "cp38"
+        ],
+        "fabio-2022.12.1-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "+VW/ar5hVF2SOSLk0la97c0c8B3tyk6up6SsvUpHXVA=",
+          "cp38"
+        ],
+        "fabio-2022.12.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2J/OkFjpmp1vAIpoB355DT4F5Ffuu2r1Oizb3yMcbOU=",
+          "cp38"
+        ],
+        "fabio-2022.12.1-cp38-cp38-win_amd64.whl": [
+          "2nYQhLqEZNpCjYiDtu7Yiw/xDe+gkxoY78/AjV2sRLw=",
+          "cp38"
+        ],
+        "fabio-2022.12.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "di4Cb9S5OO5S2E6HT1B4y0eTrNy6BktkZ+dLTlCyKJM=",
+          "cp39"
+        ],
+        "fabio-2022.12.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "lRUwVGcFrWjKTKZTFyaN45dHekv6r1daiFk4PcDEUUA=",
+          "cp39"
+        ],
+        "fabio-2022.12.1-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "ajgkVolV5ErGoKHupoei5U4RbI11PeT9abY/+zWUFW8=",
+          "cp39"
+        ],
+        "fabio-2022.12.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4lhNfEV+XU4K5i5Rl7rKJexJvg6oOKkPyOGz1XdKbJc=",
+          "cp39"
+        ],
+        "fabio-2022.12.1-cp39-cp39-win_amd64.whl": [
+          "HpcbCogSll6IN9QlyO3N99ZNe+4IpgtVlZyVkWgneMU=",
+          "cp39"
+        ]
+      }
     }
   },
   "fake-therm-w1-slave-tvanroon": {
@@ -70211,6 +70329,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "UOSO9O7WgcvmsOIw52TO1ymwHRvRCn53oOf3frbdoX8=",
+        "kevin_toolbox-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "kevin_toolbox-0.2.3-py3-none-any.whl": [
+          "E4K6Wkza/sUMYrg+bj/tC172QdHxGT4GNHTfLqrTxE4=",
+          "py3"
+        ]
+      }
     }
   },
   "kfac-jax": {
@@ -78664,6 +78794,30 @@
       "wheels": {
         "ml_indie_tools-0.3.8-py3-none-any.whl": [
           "MX1oSAhqqb5DcFkXF4SaU1+VK4CRxChuc2LxDpgSglM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "YMupIwBFjJbJ/KXXHvPCXGslrjs1UOuHm7MfmHkrnIs=",
+        "ml-indie-tools-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "ml_indie_tools-0.4.0-py3-none-any.whl": [
+          "wdU9XIb0NltZ3EkKAOmw1cQN1I2Z5V1/2SwDB+Iqmdk=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "bcTxADLj0+8wC2YYDQfMxhShjSCCt6T6Z5FGTGFoyYY=",
+        "ml-indie-tools-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "ml_indie_tools-0.4.1-py3-none-any.whl": [
+          "vyENzzTW0901Y6qUd+PcdQETfn/hD4gShoj02dMYpqE=",
           "py3"
         ]
       }
@@ -93316,6 +93470,14 @@
       "wheels": {
         "odoo14_addon_l10n_es_vat_book-14.0.2.4.0-py3-none-any.whl": [
           "cpvlswUPfdVIxYaLkLEVOWpIMFWbZ01zWJd5IMyk/ZQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.4.1.dev1": {
+      "wheels": {
+        "odoo14_addon_l10n_es_vat_book-14.0.2.4.1.dev1-py3-none-any.whl": [
+          "Gmgn0yEl+ZDsGSeCCqCdyoMo73N6QzUqOR6X/L0nVqs=",
           "py3"
         ]
       }
@@ -119024,6 +119186,18 @@
       "wheels": {
         "resotoworker-3.0.0rc4-py3-none-any.whl": [
           "xc2U32yuMdGicnFGjIR5ov+EMLLMGgjPCaWT1MLPy8g=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "lY1urYzkHlvxic4Kj/AbvDxvyOCPJfhkS3e5sECeiO8=",
+        "resotoworker-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "resotoworker-3.0.1-py3-none-any.whl": [
+          "2SY5IH3zHc5NBGq9ZTS1RZdioxY8mUmsOOTABvfSol4=",
           "py3"
         ]
       }
