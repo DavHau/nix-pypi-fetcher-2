@@ -9859,6 +9859,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2b20221214": {
+      "sdist": [
+        "kLvVxl45Yfbe/kPXpgdOe9zwGiyjs2YzIt/UKviaMS8=",
+        "autogluon.timeseries-0.6.2b20221214.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.6.2b20221214-py3-none-any.whl": [
+          "FdzqpkVNXyqeE+4xMdjO1ayblVjyQ0ICmNi3mHpo5FE=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -14070,6 +14082,18 @@
       "wheels": {
         "basx_bread-0.7.10-py3-none-any.whl": [
           "3LJN3PZUoSfjbFZWzZX5mMyLBIpDfzoD3wt4TOIhUGk=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.11": {
+      "sdist": [
+        "+POOi6MVf/Pjf0hY0C+VPIJlTzWdfvjjDrvjLel5rgs=",
+        "basx-bread-0.7.11.tar.gz"
+      ],
+      "wheels": {
+        "basx_bread-0.7.11-py3-none-any.whl": [
+          "fXSccGN3OByZq0NPTI0yA32Murb/Pwnw2C8uhv8uutE=",
           "py3"
         ]
       }
@@ -20658,6 +20682,38 @@
         ],
         "chython-1.45-cp39-cp39-win_amd64.whl": [
           "X6JZa7E+AuonZQ/xaDQcqk+gb5zjjFkfRzj/SPDlteA=",
+          "cp39"
+        ]
+      }
+    },
+    "1.48.1": {
+      "sdist": [
+        "kX2mY5xaTvWESkDUYipDaYC9rq/WjCCt0AniKKNCVMg=",
+        "chython-1.48.1.tar.gz"
+      ],
+      "wheels": {
+        "chython-1.48.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "I8eLSki6yCt1lxnLT82UhpchZWQwWRu5em7iTZ9y7O4=",
+          "cp310"
+        ],
+        "chython-1.48.1-cp310-cp310-win_amd64.whl": [
+          "Y597oztDIUpZ/ak9yfeKs/LN+H+ZD8k/3jZULxU5g7Y=",
+          "cp310"
+        ],
+        "chython-1.48.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "GUxZVlYusQsSkDidDHGfQF1Om3BKJ09HOIMdsssWYOk=",
+          "cp38"
+        ],
+        "chython-1.48.1-cp38-cp38-win_amd64.whl": [
+          "YBqDjzOlf4NiDAJkQnJMmHjWvgvHm7ImrbJRYSHAQ1I=",
+          "cp38"
+        ],
+        "chython-1.48.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "ibs1cp9tOKmCQQDwWFqn1EGCptBxWE4y4ai4GqozOSA=",
+          "cp39"
+        ],
+        "chython-1.48.1-cp39-cp39-win_amd64.whl": [
+          "vLQToDHlclGpGX8oc4Du+4JFiAORamC3Ftd1n9AgHzU=",
           "cp39"
         ]
       }
@@ -71720,6 +71776,18 @@
         ]
       }
     },
+    "2.3.0": {
+      "sdist": [
+        "+QAHmAb+0X80vilqOBzKPd8vCIl5L31w/sQXvU29vwQ=",
+        "modelon_impact_client-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "modelon_impact_client-2.3.0-py3-none-any.whl": [
+          "UWsg2xkBYdDSPXDh2h/zcs52UNE9jKjN5+qQFyeWag0=",
+          "py3"
+        ]
+      }
+    },
     "2.3.0.dev1": {
       "sdist": [
         "bTW55mrgV6dgwA7JcVKDgyCLdMTqBFVCaerGhPHzjEE=",
@@ -81127,6 +81195,16 @@
       }
     }
   },
+  "odoo-addon-sale-order-lot-selection": {
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_sale_order_lot_selection-16.0.1.0.1-py3-none-any.whl": [
+          "Go+V5c5cOsU8dA1uQm7041Ify6LMDgnSac/Reyt07JM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-sql-export": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -81452,6 +81530,14 @@
       "wheels": {
         "odoo_addons_oca_mis_builder_contrib-15.0.20220916.0-py3-none-any.whl": [
           "SFvzi+/frmKsu6ut/0NTQJeTDpv40570fhilHL9xqWU=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.20221213.0": {
+      "wheels": {
+        "odoo_addons_oca_mis_builder_contrib-15.0.20221213.0-py3-none-any.whl": [
+          "fJdRVrJXmkglWiL0PUWTRPPBdc/UE2n1PHSyPhGbuf0=",
           "py3"
         ]
       }
@@ -91594,6 +91680,24 @@
       "sdist": [
         "93qFBcQOhK3tSRKECNorgjsNSDEYr0nT6iy/F46Lc00=",
         "prps-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "dv7JZOfgP7A95V1b9Xv9qIZ1xELStifKYr2wJUVsX5E=",
+        "prps-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "bAGGqZo6yFcweZ87H/E39WYwj8tbsSj4UEs0XI2j+FU=",
+        "prps_0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "AYpGB5JBdxL8DAEMlTQJqJaNDF5EP9g8CPGimAyAUTQ=",
+        "prps-0.0.5.tar.gz"
       ]
     }
   },
@@ -129731,6 +129835,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.794": {
+      "sdist": [
+        "lOI5GOp3mU6yPCOoblHpdq6N2e134cbQA/wJ0LZIchw=",
+        "tencentcloud-sdk-python-sts-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.794-py2.py3-none-any.whl": [
+          "fZoe/r71FmtbUA5kLznnZfx+Asa689SJuFfXDajBxXI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentyun": {
@@ -133923,6 +134039,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.0.0": {
+      "sdist": [
+        "372sNOX/V+bfsHracyYzFxF1e746F3L1duMoNMFs4E4=",
+        "types-dj-database-url-1.2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "types_dj_database_url-1.2.0.0-py3-none-any.whl": [
+          "VYpE9V1cukz99NjsD8gT7Oetdac+ommGaqOF70yMSZI=",
+          "py3"
+        ]
+      }
     }
   },
   "types-linq": {
@@ -135808,6 +135936,14 @@
       "wheels": {
         "vt2pbf-0.1.2-py3-none-any.whl": [
           "ybIzb34ejrvqpEtIxBkCT8YVVx1Ezv6bULUXJp4aLYc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "vt2pbf-0.1.3-py3-none-any.whl": [
+          "qVyao9drJE4Gy6TiN7E4SXA4aJBJ3+Z5ob3zX8OaNpM=",
           "py3"
         ]
       }

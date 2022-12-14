@@ -538,6 +538,42 @@
         ]
       }
     },
+    "1.2.13": {
+      "wheels": {
+        "accera_llvm-1.2.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0pT/fcSBK79H4levKWAFoOIeYGMa4udeZKeYfu3D5vs=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.13-cp310-cp310-win_amd64.whl": [
+          "OavfP2s4CnsSzeqZSi3uQf2+EkHGpQZAZyFmfL6ltgk=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.13-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4OiWXt3E/khwejgiJXZDjVDNNcBTgOHnZLJ9fneHs+U=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.13-cp37-cp37m-win_amd64.whl": [
+          "zBVVx5yBOPBnyYIh6BwiiM+xAgcV5bNFbEkINe1VsQ4=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RSh1v6JuO82JfJr2DkfnTWf8l8i0mQobJHu+I+CU2Cw=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.13-cp38-cp38-win_amd64.whl": [
+          "kpDWbxMPQZyv6CJMN28/QoPWNkSqMOmRQdePzNmsSFA=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.13-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SVvSCDIW6/s2jRcFIz1gbO4bicuSeP+7aFqIDAwHLq8=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.13-cp39-cp39-win_amd64.whl": [
+          "rAh2AIJZ2ikemfARrzCnxfbq4dr5firfFEFeuEq+1Hs=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.2": {
       "wheels": {
         "accera_llvm-1.2.2-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -34252,6 +34288,18 @@
       "wheels": {
         "dcspy-1.7.5-py3-none-any.whl": [
           "INzxQqr6hAvmzzFk9YAjupq6u+sZq8jdAR+mi8gGXi4=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "Dagae0dBnSwJGdu3ZvdrwYHNNzm0i9jyAH7pLm1gucg=",
+        "dcspy-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "dcspy-1.8.0-py3-none-any.whl": [
+          "7gOTf/Nu7wBbexNLEwchoFtOOdhvMJApJ1DS8eBB2z4=",
           "py3"
         ]
       }
@@ -138737,6 +138785,80 @@
         "weaveml-0.0.0a0-py2.py3-none-any.whl": [
           "GY/EZIp+jI4wAdsi6t61O8IKjTkYA6uPB+qSTtUe2PU=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "web-tesla": {
+    "0.0.1": {
+      "sdist": [
+        "Q95Zga+ddf2J0vwvhUvKRB1S3/EJ64I5Boe67IQvzno=",
+        "web_tesla-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "web_tesla-0.0.1-py3-none-any.whl": [
+          "veu/d3hRqNWtwKYfD8C8Tlndjw/V08q6K6DjYm/9zEA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "LUGrxN5Hxu8E6qP0kiUKKUkJefbPnUw9E6qL0B/YFTc=",
+        "web_tesla-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "web_tesla-0.0.2-py3-none-any.whl": [
+          "aMasekbIn9Bg5mNcvmY0jvdHHheafdmr7noFfecFRoc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "jN8wYRRD+qnl+eMyYrLp8XmH7ia5cv9hYwc/0CPD5Ho=",
+        "web_tesla-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "web_tesla-0.0.3-py3-none-any.whl": [
+          "bvtBjNNFVOWEi9G0gmKTwQRqshxQ88yC5LYuonCJ7gk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "4fCy09b4cVatifeQXs2GBNbes8QdxPwKA2mGyvOq2BE=",
+        "web_tesla-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "web_tesla-0.0.4-py3-none-any.whl": [
+          "l0s6Qd71PHsMYjoK3fCC9B9XS9qx5Sz683VX/N5FoTg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "PNdcp2oICy+u9mEWJKV0xc7NSElIOmuY7FPL/yRGkqw=",
+        "web_tesla-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "web_tesla-0.0.5-py3-none-any.whl": [
+          "NyIXS5X+thDMarAlUSN1qbskm2ZX1Z6fuAQC2zpZG6A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "C63xEFPukOB5m1sgwkDGEkOzrQqPwqpEe5dHQzEPstM=",
+        "web_tesla-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "web_tesla-0.0.6-py3-none-any.whl": [
+          "NbYY64qeO97aFhw7+GhD7NvLU9/4bP0QIj8Sg0rHzYw=",
+          "py3"
         ]
       }
     }

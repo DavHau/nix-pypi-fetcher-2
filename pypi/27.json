@@ -17479,6 +17479,12 @@
         "FJIAQPoKWgCTzPV73yUFC6S3eDX0wEzXyCwf9XO1iKU=",
         "cm-cluster-on-demand-azure-9.2.6.1.tar.gz"
       ]
+    },
+    "9.2.7": {
+      "sdist": [
+        "SU5FWWFWUUuNYhheXBdFeQ8BGpodNLnA3uNucmAwW0M=",
+        "cm-cluster-on-demand-azure-9.2.7.tar.gz"
+      ]
     }
   },
   "cmail": {
@@ -73944,6 +73950,12 @@
         "mljar-supervised-0.11.3.tar.gz"
       ]
     },
+    "0.11.4": {
+      "sdist": [
+        "rrUv4gOgP+uF3BG9PIgZqSBAG2nYoy8iLLjcbTCQXLQ=",
+        "mljar-supervised-0.11.4.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "KnLALmwQe+x+sM6VQDof1sD/UNserStY50XIwRansMY=",
@@ -75656,6 +75668,16 @@
       "wheels": {
         "mqtls-0.5-py3-none-any.whl": [
           "s+L6QLsGjk5g+47yIobY7KMcQZUITkDLPla/JNAhaio=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mrcalclator": {
+    "0.0.1": {
+      "wheels": {
+        "MrCalclator-0.0.1-py3-none-any.whl": [
+          "4JI/x4YM6Qrfoqwox61zHm1HwA59voOBFJb3+8WE8RY=",
           "py3"
         ]
       }
@@ -88747,6 +88769,20 @@
       }
     }
   },
+  "org-djangokit-cli": {
+    "0.0.1": {
+      "sdist": [
+        "IdfWREkBnCr+fbTPFYrRzNTbrnIz/CXOzSiu6Yd77cA=",
+        "org_djangokit_cli-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "org_djangokit_cli-0.0.1-py3-none-any.whl": [
+          "YT2qk8a23kpq4DKaSPSbhbh40znIKk3T9XAGnpS7BoM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "orgnr": {
     "1.2": {
       "wheels": {
@@ -94574,6 +94610,18 @@
       "wheels": {
         "plm_dgraham-0.2.9-py2.py3-none-any.whl": [
           "PJhhCmMxsO46rKUaUNyMurRKBb7YNw2I7GwGI4+6HFA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "ZqpusLoZMUt4iqUThfK4LzgSfu5DfgERaULfK7NfRp4=",
+        "plm-dgraham-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "plm_dgraham-0.3.0-py2.py3-none-any.whl": [
+          "Zc5p/dE/t5W8b+fvGNLOuDMWj6B99wa/SEf32KI7gT4=",
           "py2.py3"
         ]
       }

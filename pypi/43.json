@@ -57543,6 +57543,12 @@
         "d70PldS4pCUl1IdzxHRLS0ZmN2gb2+6FCRrNIfetAlQ=",
         "futu-api-6.5.3008.tar.gz"
       ]
+    },
+    "6.6.3108": {
+      "sdist": [
+        "vhS0cN7otd45t9TFhX5uapk8IYxNsoi0TMNGeoxtdLo=",
+        "futu-api-6.6.3108.tar.gz"
+      ]
     }
   },
   "fuzzpy": {
@@ -133089,6 +133095,32 @@
       }
     }
   },
+  "shynaweather": {
+    "0.0.1": {
+      "sdist": [
+        "VSxLhl9q9qTjYqf8+bZKTodbGnjro4We210EedNS+B4=",
+        "ShynaWeather-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ShynaWeather-0.0.1-py3-none-any.whl": [
+          "NGZ9brXTHE6GHhndjW9KWqLxvWZhA880fJNBJgSQKoM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "D0FoDJS6/fOXfRScWsz4b1JF6f6PlKDonT5wm0CIFxo=",
+        "ShynaWeather-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ShynaWeather-0.0.2-py3-none-any.whl": [
+          "+QqNa8VeYVpqzSAH1KBNrQzd3d8426gAjDjAp9dpTwo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sibylpy": {
     "0.0.2": {
       "sdist": [
@@ -144796,6 +144828,18 @@
       "wheels": {
         "tencentcloud_sdk_python_essbasic-3.0.793-py2.py3-none-any.whl": [
           "5LI9loFJVRACsati6ShaLeHwU4mRveOLyeQ421D/ikQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "L3rvtIZFlZYvXrPUAbSYNoVwTZNfOC50o5DwCXgSkBE=",
+        "tencentcloud-sdk-python-essbasic-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_essbasic-3.0.794-py2.py3-none-any.whl": [
+          "3euwoTGg9tehILSXhsuWwQxIhVYNdfVNU7tXE+GcZC0=",
           "py2.py3"
         ]
       }

@@ -14253,6 +14253,20 @@
       ]
     }
   },
+  "bge-private-sdk": {
+    "0.1a1": {
+      "sdist": [
+        "6n45XfUN1+0TE3f4g8VR0YxejNuZmpwxhC100AWKDTs=",
+        "bge-private-sdk-0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "bge_private_sdk-0.1a1-py3-none-any.whl": [
+          "VMAz/cgUPKZp5CF1KNEO8J3kki5oaQwBVKQfNOfcNGM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bgu-physics-lab": {
     "0.1": {
       "sdist": [
@@ -24480,6 +24494,32 @@
       "wheels": {
         "cdk_iam_floyd-0.99.0-py3-none-any.whl": [
           "0pI5XoVoGGy5IKvMu5W1p3um2ooRNDXdpRL7XVbPVYk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "cdk-s3-upload-presignedurl-api": {
+    "0.0.3": {
+      "sdist": [
+        "n5RST//sVF3D34d0Q1evDXOJIpZdTg27nM824mznTGM=",
+        "cdk-s3-upload-presignedurl-api-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cdk_s3_upload_presignedurl_api-0.0.3-py3-none-any.whl": [
+          "46xjuS/Nrgdr78P7UWs6A7j1/jUK1SUgSUy79oBntQw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "xfnPYoSERHnuEwkmzzI8Ze+61pgwna5MRXJntlhL+IM=",
+        "cdk-s3-upload-presignedurl-api-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "cdk_s3_upload_presignedurl_api-0.0.4-py3-none-any.whl": [
+          "rQFC7QLEtrj3+LeTgD6jv74K3Vi278Z0fp9pI4HcZuI=",
           "py3"
         ]
       }
@@ -97488,6 +97528,12 @@
         "pulumi_awsx-1.0.0a1670508512.tar.gz"
       ]
     },
+    "1.0.0a1671031711": {
+      "sdist": [
+        "LqiVVw8iMpbJ1RxKUnO8uKZGll82j7xEWS1Se6IgMUQ=",
+        "pulumi_awsx-1.0.0a1671031711.tar.gz"
+      ]
+    },
     "1.0.0b1": {
       "sdist": [
         "WwB4plV+DVe/gcI6TCDoDYdGXk+Z+UG5zCeyuVZFcIg=",
@@ -113469,6 +113515,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "wheels": {
+        "rapid_layout-0.0.5-py3-none-any.whl": [
+          "+VSZf38DxGvhKecL/x0X43V0UAWPK6acOng5XWNiPfs=",
+          "py3"
+        ]
+      }
     }
   },
   "raptus.princexml": {
@@ -113566,6 +113620,18 @@
       "wheels": {
         "rapyuta_io_cli-0.5.0-py3-none-any.whl": [
           "j0KWbV2UVvkblyuNvjsJoWLmQ0/nMtWN8iNk2B2NWEk=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "ErJLNLHbW5vvo2wb2w5OM7nx/jujmAr7Z6Z4Yf1FPCM=",
+        "rapyuta-io-cli-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "rapyuta_io_cli-0.6.0-py3-none-any.whl": [
+          "1mtO2sGIE8bJcMbeXkdgeKmSqqw4/AgqITTwdChui9g=",
           "py3"
         ]
       }
@@ -127542,6 +127608,12 @@
       "sdist": [
         "8E6W4RIfXoJcJgTL55KbluhBsmGnMZAG5XNIMgs2asE=",
         "ssm-python-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "RwP/KCmm0kvTE9skVOt9Drt/PCUqH829ggz5GGPmDbw=",
+        "ssm-python-0.1.2.tar.gz"
       ]
     }
   },

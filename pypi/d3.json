@@ -22369,6 +22369,66 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a1": {
+      "sdist": [
+        "O9ZdlnFpEL5cuIdz6IRPkqM+0nlY+gXGU3R0bdDFEfg=",
+        "cfhl-oasis4-1.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "cfhl_oasis4-1.0.0a1-py3-none-any.whl": [
+          "W6EFPz6ICDqbOvKdfmeoRtrtWS0ijrwh02iwkZ0rP6Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a2": {
+      "sdist": [
+        "VgmY7aQ6S12T1Ojv6OYpF1uHbEuJ41gu++6ybMnH9gk=",
+        "cfhl-oasis4-1.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "cfhl_oasis4-1.0.0a2-py3-none-any.whl": [
+          "sIph2n9pJw0+RJbhHWT2AZTWAsmXolORtnZOyErehDQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a3": {
+      "sdist": [
+        "Sy5dz8uPM6UTd+JUya9/RHKEKg1dT0JH72DmD4crLYI=",
+        "cfhl-oasis4-1.0.0a3.tar.gz"
+      ],
+      "wheels": {
+        "cfhl_oasis4-1.0.0a3-py3-none-any.whl": [
+          "nfGntircXzpR4XgXK8bX7Z+zFYZCbUSL+gAZXiboKkA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a4": {
+      "sdist": [
+        "koQ271k80HgLnmL8gJcatFyTaJnFhDP9b0RYsPWPSQg=",
+        "cfhl-oasis4-1.0.0a4.tar.gz"
+      ],
+      "wheels": {
+        "cfhl_oasis4-1.0.0a4-py3-none-any.whl": [
+          "SNItg1Hm5t9C8h3D+qw2vKdqWtqUjIIOCnaPrpGUiZo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a5": {
+      "sdist": [
+        "K3h3zoAT4AcFmYRU2ChgFTc+kI2x7cscPbrZDQLk8TU=",
+        "cfhl-oasis4-1.0.0a5.tar.gz"
+      ],
+      "wheels": {
+        "cfhl_oasis4-1.0.0a5-py3-none-any.whl": [
+          "PuRuxA2sofPxn6ts/lwmwta3Jp2ar9yieXRbxJu+ztQ=",
+          "py3"
+        ]
+      }
     }
   },
   "chacractl": {
@@ -64655,6 +64715,62 @@
           "cp39"
         ]
       }
+    },
+    "3.8.0": {
+      "wheels": {
+        "infery-3.8.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "E2WEX0f9Lla4gVzMmgRUL3BzdwkRskMzSwJP+PA1r2Y=",
+          "cp37"
+        ],
+        "infery-3.8.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QaK0ojOJ4iFLcapjgdeOrhw7JRxBUCrDk11VyeaNNY4=",
+          "cp37"
+        ],
+        "infery-3.8.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "RN4rGcM5+QYftcHtBS+HLq6K/tcMdQ0w7oeg8qQos8k=",
+          "cp38"
+        ],
+        "infery-3.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QarnjJb/PNwoA/J3fqwFe+Fo6dOvaJ8gAq0bokiOv+0=",
+          "cp38"
+        ],
+        "infery-3.8.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "ShK4UMArwq4n8S+Ag0pEU8qWb8eOlimFIII3Lg6C6Hk=",
+          "cp39"
+        ],
+        "infery-3.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "z7LrWX41qVHlj1MAWbgzzxi9JRpocbGZnLMNge5Xdgk=",
+          "cp39"
+        ]
+      }
+    },
+    "3.8.1": {
+      "wheels": {
+        "infery-3.8.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "hf4qpRMPHr9uxVRhZGN6D9mmXzJ50T7bD3q9yumA/aw=",
+          "cp37"
+        ],
+        "infery-3.8.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zQe2hztNzZDM03AAg57UEjfxcrxceiTrklGc1qhwygs=",
+          "cp37"
+        ],
+        "infery-3.8.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "GWYa1aXAAtlWpYjpvhiFiezWNts+A8EadSJ9Lzy/8Kk=",
+          "cp38"
+        ],
+        "infery-3.8.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+v7p0iTzNM78aBd1ID4cov5/IeApgQ80mNKdhSwW6a4=",
+          "cp38"
+        ],
+        "infery-3.8.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "QzDhXOHX9B8u0UG+62MpRcFGuENAmQ/EOm7iMjHu/nw=",
+          "cp39"
+        ],
+        "infery-3.8.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "peFKutHdVPBeLvBgIBoI8yGdu86sRNblX++/liJZezU=",
+          "cp39"
+        ]
+      }
     }
   },
   "inflection": {
@@ -75522,6 +75638,18 @@
       "wheels": {
         "lib310-0.2.12-py3-none-any.whl": [
           "KKKAvpOqEiOtp2POhU860m20Q7JlqRjMO6yJBy8jRJk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.13": {
+      "sdist": [
+        "6ralX+eMmJCRGmOI2iySCSJYJ4M12QOBHdcQCQgvHxQ=",
+        "lib310-0.2.13.tar.gz"
+      ],
+      "wheels": {
+        "lib310-0.2.13-py3-none-any.whl": [
+          "VqapqaqkgyG2FaMmp58KqmUTAJgVNkRhx91DuIopF/Y=",
           "py3"
         ]
       }
@@ -100370,6 +100498,18 @@
       "wheels": {
         "oic-1.4.0-py3-none-any.whl": [
           "waRt1fgDNJ8e6nOT1wo/K9vJfnO5bz67VIQ+HcGQ9eQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "G7gNdxf67XUPHY1ILAZhakXx+lsildBiAEkEC0tIuX4=",
+        "oic-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "oic-1.5.0-py3-none-any.whl": [
+          "bNZsUgO6qM2Q3Stz0MyDeF6WyR+rZ/p7WHVJ/K2zwJI=",
           "py3"
         ]
       }
@@ -139430,6 +139570,18 @@
       "wheels": {
         "tencentcloud_sdk_python_eiam-3.0.793-py2.py3-none-any.whl": [
           "jRKjsv7C9tHYo8XqTGQSNZiDHA40/Y+eK9FBYLEG6Z4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "hm2s2m31vXm/5P6pxqNifMWf4oYAdZ2u2M5aE28/0c4=",
+        "tencentcloud-sdk-python-eiam-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_eiam-3.0.794-py2.py3-none-any.whl": [
+          "ootqyGTuL4cvwsNVb6sG2dcCANRUxcTPuw2vP6HqavI=",
           "py2.py3"
         ]
       }

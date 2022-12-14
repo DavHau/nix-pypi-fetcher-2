@@ -13501,6 +13501,30 @@
           "cp37"
         ]
       }
+    },
+    "0.0.4a9": {
+      "sdist": [
+        "m02RpwYOn+LoFYu1O60xDvq2dp8hFbLIY5YOoj0llzo=",
+        "belinda-0.0.4a9.tar.gz"
+      ],
+      "wheels": {
+        "belinda-0.0.4a9-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "gXB8GIGIXtPCcKttCWYt/0U85fm/yMjcW//JMXctW2Y=",
+          "cp37"
+        ],
+        "belinda-0.0.4a9-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "h6sdGSaR8Fou8ctBwGUoGEWFM7LrkGv2V/0gPezx/MU=",
+          "cp37"
+        ],
+        "belinda-0.0.4a9-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/hUeHWzgTZCVSjZxWAS3KV/HjP9ln3buoHcr9uZCb/Q=",
+          "cp37"
+        ],
+        "belinda-0.0.4a9-cp37-abi3-win_amd64.whl": [
+          "XMMegg0lB5D/7bglhrwXNhUZgJjsZymcZVe2HkmJVfs=",
+          "cp37"
+        ]
+      }
     }
   },
   "betse": {
@@ -32634,6 +32658,54 @@
       "wheels": {
         "dvpn-1.0.4-py3-none-any.whl": [
           "ENg3YpR8CbRFa/jozJ+shS6Qm7ReWxNKncwy1r3OT9U=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "8A3cAwNV8JuFKjuMo5uj6E9hyyNnaJpsToN4K7GAJu4=",
+        "dvpn-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.0.5-py3-none-any.whl": [
+          "oKjSH/mVIzoxM1uqF+LitoHIJ9+S4Z/8pwAGuwKsSM4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "iIeg6e5a5OF4hFOgPKiax1O4NyPFA6KUTLnHLTYl4Es=",
+        "dvpn-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.0.6-py3-none-any.whl": [
+          "E88NiVVAM7f5UFaxCb9ReCfaAwmnuOR1UHST7/WVlxw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "hmyXKCgb5Sx889CRTwOtLEwJvu1vYCF+bBv3C6ijIEM=",
+        "dvpn-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.0.7-py3-none-any.whl": [
+          "9Sj+Hr4VG099Fod9igA5N4NHtXsk6nIub3U4qRfunZ8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "1Ob6zfT6aCvd6e7rc+xFcfCGISUkj5hS1YWkpArNmHY=",
+        "dvpn-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.1.0-py3-none-any.whl": [
+          "EK/7yGQpwNsUhVFo501+6cY63zdQQESYMC3gOAzViIo=",
           "py3"
         ]
       }
@@ -67564,6 +67636,12 @@
       "sdist": [
         "q6/yQF7dM08ZRV+WzYMiEI0Oj7rEkd4tVcdueFHEouI=",
         "molano-0.16.0.tar.gz"
+      ]
+    },
+    "0.17.0": {
+      "sdist": [
+        "MKxy5zFHDsc1xjuIC/SRh+tspN1T0GasqUUjlQaSTAY=",
+        "molano-0.17.0.tar.gz"
       ]
     },
     "0.2.0": {
@@ -104937,6 +105015,20 @@
       }
     }
   },
+  "qiskit-trebugger": {
+    "1.0.0": {
+      "sdist": [
+        "whPbwa7NMuFnHw2A2A388VIePeO56K+ppD7XN+IzCU0=",
+        "qiskit_trebugger-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "qiskit_trebugger-1.0.0-py3-none-any.whl": [
+          "ynjWFyltFMJ63yq1h57lZIKetnXy/x96ALnXTmpC/fU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "qpay": {
     "0.0.1": {
       "sdist": [
@@ -105976,6 +106068,18 @@
       "wheels": {
         "raumo_data_tools-0.1.2-py3-none-any.whl": [
           "ATCso+YKFqilWi78jb+zn4Q3AOidgQKL0uD73WAIycY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "oJheiwQhjBU4cNdlrj5cyw6k8iW3+mAxHr740yWkJlY=",
+        "raumo_data_tools-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "raumo_data_tools-0.1.3-py3-none-any.whl": [
+          "+1lmMIZ/wQsryl6aOaRJnnFMYFHbsDtvN6BgSdhsTWU=",
           "py3"
         ]
       }
@@ -125921,6 +126025,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0.dev20221214": {
+      "sdist": [
+        "6wFdIdAaefYtmeREwMiDu75qChwJpeSb95CB8VXCYJ8=",
+        "tensorcircuit-nightly-0.6.0.dev20221214.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20221214-py3-none-any.whl": [
+          "51SDOn6ooKemeOhQHAgwUaJ0GXNaUwSbCXoRimdsdZ0=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorflow-lattice-gpu": {
@@ -129296,6 +129412,18 @@
       "wheels": {
         "traveltimepy-2.0.4-py3-none-any.whl": [
           "QOP88Yeclq4wS1jalwITke/91woqf05LgeIUtxS4A/c=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.5": {
+      "sdist": [
+        "UmY1SvuvJcbowwo4H/tVPoca+ox+367/MVwzZ+pJTtI=",
+        "traveltimepy-2.0.5.tar.gz"
+      ],
+      "wheels": {
+        "traveltimepy-2.0.5-py3-none-any.whl": [
+          "bo5pAkJCouiML+iL8IpR1n84UevdUlpQUmxYAZ3t5S4=",
           "py3"
         ]
       }

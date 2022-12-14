@@ -557,6 +557,12 @@
         "SXPaakQ697fj46D1EdW7zDi5S2GRykAPzGLtZyIE6YQ=",
         "acentoweb.ecv-1.4.1.tar.gz"
       ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "/ij9155G4TY8wTGK2QY7iRIFphMyTmMegUxTdcpdPz0=",
+        "acentoweb.ecv-1.4.2.tar.gz"
+      ]
     }
   },
   "acrobotics": {
@@ -21386,6 +21392,86 @@
         ],
         "csvs_convert-0.7.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "DWamvHPzT3r3AJgvoxC22D6E6iMzsXpJRPJGBHnM3gI=",
+          "pp37"
+        ]
+      }
+    },
+    "0.7.3": {
+      "sdist": [
+        "RtR7repVTd0K4c0/Uk1e/z30bloulX1gDnOZz0y2fNY=",
+        "csvs_convert-0.7.3.tar.gz"
+      ],
+      "wheels": {
+        "csvs_convert-0.7.3-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "exln6MBKbeq2zWQH90agePQ/RDs8Rbexm1Mhvzk9lM4=",
+          "cp310"
+        ],
+        "csvs_convert-0.7.3-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Wy0zfYzlIi4OWxTLohGeR48dV2XX6leqB5x6MsEdxkM=",
+          "cp310"
+        ],
+        "csvs_convert-0.7.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aQdAhFsBx8LQIKcyAl+wW/IWNzDZhet+C6LjCGZs4WI=",
+          "cp310"
+        ],
+        "csvs_convert-0.7.3-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "T3cYDDp+O+i+2obV4n7KN+HxQO3W6qc8BDc6WTPcSpY=",
+          "cp311"
+        ],
+        "csvs_convert-0.7.3-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "bzswThsbVtdns6SqdC7px7LxqqL4oxJ5qTQKgtJRS5w=",
+          "cp311"
+        ],
+        "csvs_convert-0.7.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hLrKPrNDX03DNlaRSidtnROjZPoa0m2novWBIqm4eJw=",
+          "cp311"
+        ],
+        "csvs_convert-0.7.3-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "D66sgTQOBM1ZGox66eemNJFRlR7XaE2TOMJnySmYYuk=",
+          "cp37"
+        ],
+        "csvs_convert-0.7.3-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "+fymk0bKXftGrobKfvVESHpmbOp5QFEiqrTQagkx6+E=",
+          "cp37"
+        ],
+        "csvs_convert-0.7.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kpVbTukimW+I3xpbeCvZgPTZ8mxkLDsITo2QwyeOYt8=",
+          "cp37"
+        ],
+        "csvs_convert-0.7.3-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "W3dKoVEMQvCBz3uHGfWmhoDpFZ+oJAj5GusWAdWxMdM=",
+          "cp38"
+        ],
+        "csvs_convert-0.7.3-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "IRFYTt8jmk/uXd+MeuWTC0SwvlDc2SHVpKvqiFG051U=",
+          "cp38"
+        ],
+        "csvs_convert-0.7.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5eiCm19cq6Q+CEnKHJqh9MhdxVtc1iyM4Q760KfwWmY=",
+          "cp38"
+        ],
+        "csvs_convert-0.7.3-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "OcVDTTUGbQO8nrAMtLk5x6YnEY9sOQxKNrog72FH9jg=",
+          "cp39"
+        ],
+        "csvs_convert-0.7.3-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "B3e/zWemyRFA2I+LgOyxDFQjiN7J0zecRO9wS8kzovI=",
+          "cp39"
+        ],
+        "csvs_convert-0.7.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aAD2NWhyf7VwFVcCzdQ4K6qp7oQELHOQ4V/HTORlF2w=",
+          "cp39"
+        ],
+        "csvs_convert-0.7.3-cp39-none-win32.whl": [
+          "zKiQV5g3czDvJESoUnbgdzbcKcS11sh8Zg0nWdp//Vw=",
+          "cp39"
+        ],
+        "csvs_convert-0.7.3-cp39-none-win_amd64.whl": [
+          "6C4rDB05nA1qXJsvwomzbt6zn+uFCuiNft7izbiTKBM=",
+          "cp39"
+        ],
+        "csvs_convert-0.7.3-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vl5PTiJVBBQMzq6EyWnY0WfzqjojfWAEbUphJXTIWas=",
           "pp37"
         ]
       }
@@ -94055,6 +94141,30 @@
           "py3"
         ]
       }
+    },
+    "2.7.0": {
+      "sdist": [
+        "eEy7XDumV3IvFWtVWL4+xW4PYGkJckbmTnQv8KbdAF4=",
+        "phys2bids-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "phys2bids-2.7.0-py3-none-any.whl": [
+          "xgHW6a8G0X5uhZVTSn8HJg8Bu/zf6fU+OWAnMXVUl7A=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.1": {
+      "sdist": [
+        "kaJxMMGEOd29HaF/GNvvjoN8Nzoc4+Z/kMSMWmc7zL0=",
+        "phys2bids-2.7.1.tar.gz"
+      ],
+      "wheels": {
+        "phys2bids-2.7.1-py3-none-any.whl": [
+          "8MaCL5n3JV26mFctVQoUVrS61MClUc2wFDCU87+uxm0=",
+          "py3"
+        ]
+      }
     }
   },
   "pico8-mkdocs-plugin": {
@@ -115396,6 +115506,38 @@
       "wheels": {
         "rapidocr_openvino-0.0.9-py3-none-any.whl": [
           "QejCSeNGM8INXAoDoG/hSvXoUjAH0eFkWI+HXFvRfPI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.14": {
+      "wheels": {
+        "rapidocr_openvino-1.1.14-py3-none-any.whl": [
+          "+zYXGmMMyeY+vVTUvSCVGKtcAzHgscN9nqwR0dE0br8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.15": {
+      "wheels": {
+        "rapidocr_openvino-1.1.15-py3-none-any.whl": [
+          "oI9Vus9CKlTwD5FqoKsgM3FZuxgwvKRhQofzGsH9PZ0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.16": {
+      "wheels": {
+        "rapidocr_openvino-1.1.16-py3-none-any.whl": [
+          "KL5kPR2nRHDUe719PtvPDL7DnhhQ93ib26rT4gMfHa0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.17": {
+      "wheels": {
+        "rapidocr_openvino-1.1.17-py3-none-any.whl": [
+          "tHgNYe2EUPoJ6On61vzaQfhTAQ/WIDP4+tLWys4sUiw=",
           "py3"
         ]
       }

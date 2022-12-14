@@ -5659,6 +5659,30 @@
           "cp39"
         ]
       }
+    },
+    "2.1.55rc2": {
+      "wheels": {
+        "anki-2.1.55rc2-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "0xBA7ytGDd/3agcsFGKonbfuVlwDMuCu3cVvaEOFRsE=",
+          "cp39"
+        ],
+        "anki-2.1.55rc2-cp39-abi3-macosx_11_0_arm64.whl": [
+          "B2IzEvHduCndAWplOdSwgdR/q2G/D05aHPlTmQ/lhRs=",
+          "cp39"
+        ],
+        "anki-2.1.55rc2-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "VJWiSecfpSK8fBpWgGSJvd1U9tXaRb0jAuEf9jE6h1I=",
+          "cp39"
+        ],
+        "anki-2.1.55rc2-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "3wmeswsMhWaU+U+/5cYio3DMzLCQou6nx0h9YcSvGUE=",
+          "cp39"
+        ],
+        "anki-2.1.55rc2-cp39-abi3-win_amd64.whl": [
+          "JS/zccYqsfqx/wMhTqVcfivDU8rLP0gnYEWIgFUAScc=",
+          "cp39"
+        ]
+      }
     }
   },
   "another-statistic-distributions": {
@@ -10214,6 +10238,18 @@
       "wheels": {
         "aws_recommendations-0.0.8-py3-none-any.whl": [
           "5ef/SNDo9/k2yjIu/FUyy1aDRqswYKA8DqJADnPKmCo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "CeWtOhHqQAw54n/gk1E7O59rGnmQAm5xBxu01QWXy7Q=",
+        "aws_recommendations-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "aws_recommendations-0.0.9-py3-none-any.whl": [
+          "4JjoZXP1ASV2P7PsijMOFjjN73DPOJM/qdEjhs2oMec=",
           "py3"
         ]
       }
@@ -68231,6 +68267,12 @@
         "D3NUVRORy4Z2TvVa+L8YQ0UWEB+Wke4ZDtlcGTTodZc=",
         "kirui-0.5.3.tar.gz"
       ]
+    },
+    "0.5.4": {
+      "sdist": [
+        "8kZcn3A28nwdN5fsa3yZQJHdzIxA5Du8/FRaXf//2yk=",
+        "kirui-0.5.4.tar.gz"
+      ]
     }
   },
   "kisscartoon-api": {
@@ -115786,6 +115828,18 @@
       "sdist": [
         "BpskjpySwhhmOwouni2aQq4WOmw1q74oL42BRSfeJCc=",
         "rbpy-rb-0.11.1.tar.gz"
+      ]
+    },
+    "0.11.10": {
+      "sdist": [
+        "6Cyq++x0Aj3tPSu+DsbqUKPIUAxo6SBIzbJM8+1o2iQ=",
+        "rbpy-rb-0.11.10.tar.gz"
+      ]
+    },
+    "0.11.11": {
+      "sdist": [
+        "4aKMOvSO6HYfHJLGxNG6pyFEe3wp25UyXlTAO/ia2AQ=",
+        "rbpy-rb-0.11.11.tar.gz"
       ]
     },
     "0.11.2": {

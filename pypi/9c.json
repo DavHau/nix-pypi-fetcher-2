@@ -1783,6 +1783,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.6": {
+      "sdist": [
+        "+LJlihjmEYRl4/EYIEOLqTtJPbN0sAR6dM/b4wuoekM=",
+        "alibabacloud_imageenhan20190930-2.0.6.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_imageenhan20190930-2.0.6-py3-none-any.whl": [
+          "YN/c8rjj59tfmJOoXa2lujOdg1g2iXhRQ3BLPqJ7hSE=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-nbftestpop20210802-16102392": {
@@ -34143,6 +34155,12 @@
         "cLbwqLVrAYyamrET2mdXerrvpoKqTCun/nnP8Q8OE/Y=",
         "cpg-workflows-1.4.0.tar.gz"
       ]
+    },
+    "1.4.1": {
+      "sdist": [
+        "M+nGSgMow8FguU7SrgXdCTkJWsM4orGEf4hczPYhaTU=",
+        "cpg-workflows-1.4.1.tar.gz"
+      ]
     }
   },
   "cqbear": {
@@ -56468,14 +56486,26 @@
         ]
       }
     },
-    "0.1.10": {
+    "0.1.11": {
       "sdist": [
-        "T2i5v7M+RqAilNlZkS10ANKVMVw7AIIHUfYU+9fn57c=",
-        "grai_client-0.1.10.tar.gz"
+        "gb/AwjqDSuMwxlmaZx6fThz+/8WjTQ/COcmDkpTGSqI=",
+        "grai_client-0.1.11.tar.gz"
       ],
       "wheels": {
-        "grai_client-0.1.10-py3-none-any.whl": [
-          "ewO80iH1le7YgJc6j5RSeOGM33KJyIQkFZtLWkXtxDI=",
+        "grai_client-0.1.11-py3-none-any.whl": [
+          "8PE51YcdOo5h9s2JsHtJj2TbbVBaD5VFGL37mQVDL9E=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "j4azuhWS3ZOBgtqO5NscrKvdlGscKG8bNu0pdBZMroU=",
+        "grai_client-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "grai_client-0.1.12-py3-none-any.whl": [
+          "2/vDE0yD6MxZUX8hfEya7C0yCaIs3DqEaSejJoeKU50=",
           "py3"
         ]
       }
@@ -63854,6 +63884,18 @@
         ]
       }
     },
+    "0.1.10": {
+      "sdist": [
+        "nF1O/6IT/CFGYTwgdM1Kp3ZWFug4KUfHHHn2PPxTZbU=",
+        "iambcodes-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "iambcodes-0.1.10-py3-none-any.whl": [
+          "ECUk+fpJw3fvu/+JEY638alfuAS1OshfBKeg+O1ngho=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "h1lSoOEn7nk66oLxia01/UTxJlXei9IdIwQyhNJ1yZA=",
@@ -65234,6 +65276,18 @@
       "wheels": {
         "ingenannot-0.0.5-py3-none-any.whl": [
           "I/UAPtosZHudVTWcyj7I8+Ty7aDxiFIoaJ1GhythtKU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "EPVmTxkAN8ovTaLq+2I3DW2hwXasd3i9UeoATbZwVts=",
+        "ingenannot-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "ingenannot-0.0.6-py3-none-any.whl": [
+          "wv8wHojEahT0neOIlTu0sZq+34Ybih6ErJ1I4xmuwf8=",
           "py3"
         ]
       }
@@ -80804,6 +80858,18 @@
       "wheels": {
         "nonebot_plugin_chatgpt-0.7.0-py3-none-any.whl": [
           "gljK2Q2YkmU+VK5KZGwyjmkRaabNodPXjv9v4TjiM0w=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "hsUZoUSvMPWL32mDv5jFGmj0SDqV9SoK72TwdUVa10o=",
+        "nonebot-plugin-chatgpt-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_chatgpt-0.7.1-py3-none-any.whl": [
+          "AoTSJwLaDqyL8CiO8xyotQB4zUDsIlF2ArKmLCMS7Lw=",
           "py3"
         ]
       }
@@ -110707,6 +110773,20 @@
       }
     }
   },
+  "prypip": {
+    "1.0.3": {
+      "sdist": [
+        "fCe0G8uiwAfYwb/mdABDoCzTWDIOBBiJ+K1BSsRS98E=",
+        "prypip-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "prypip-1.0.3-py3-none-any.whl": [
+          "sP0k/JBYNNcvx4hkmKQI2vQ5LhwJwsxoLHcaiAXIQGo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "psylab": {
     "0.3.7": {
       "sdist": [
@@ -111940,6 +112020,54 @@
       "wheels": {
         "pyChatGPT-0.3.7-py3-none-any.whl": [
           "HqXmhogWylTS79RQ+erWDSuFSo9TmL7g1Hx1hc9Gx2w=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "lbTsKYhjDc5dj/2zvqjQA0yChtgcxiVVnOiTCgogyvY=",
+        "pyChatGPT-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "pyChatGPT-0.3.8-py3-none-any.whl": [
+          "mv9lEWxe2Tfbpz0+xx4dmal9IJyHeEhl87Fj7n0W1sE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9": {
+      "sdist": [
+        "0RM+YiyKHaaKm0GDEjrJ13l1lBQ/t8EObF0mdtT7K3E=",
+        "pyChatGPT-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "pyChatGPT-0.3.9-py3-none-any.whl": [
+          "7PMVsJBwBJCYBDF9SeXFX+LKvmzefKHNSprkHJTxFnc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9.1": {
+      "sdist": [
+        "a54Vm9duoBOMOsMlkT/ba+HuyUhDW40o6qYrlL8Y+Ow=",
+        "pyChatGPT-0.3.9.1.tar.gz"
+      ],
+      "wheels": {
+        "pyChatGPT-0.3.9.1-py3-none-any.whl": [
+          "g3oqDNOlxrs2O1MKY25OuR08mNmZPW86mA1cn3RcWfk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9.2": {
+      "sdist": [
+        "ZbVjzI8O+T/PgSbOiNAEV8qNKz2HZnva3O9BnOx2sYk=",
+        "pyChatGPT-0.3.9.2.tar.gz"
+      ],
+      "wheels": {
+        "pyChatGPT-0.3.9.2-py3-none-any.whl": [
+          "9YgPMvPfmTthuGMM1ZIOwCbi7sObJnUrpw4HE96xVAw=",
           "py3"
         ]
       }

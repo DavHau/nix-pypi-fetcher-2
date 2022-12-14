@@ -61523,6 +61523,38 @@
           "cp39"
         ]
       }
+    },
+    "3.8.0": {
+      "wheels": {
+        "infery_gpu-3.8.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/FpZonTMXo7M14ut6oaJT7YpcyykpqdxlOF/ohjLh0I=",
+          "cp37"
+        ],
+        "infery_gpu-3.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rOK0bBQeXXXa3gJYqwxiKPf5rF5o8hhgIZMrF3JwyT0=",
+          "cp38"
+        ],
+        "infery_gpu-3.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eTwXPAYF05uBeSOssDlknupb3bkmv3Cc8y8ahGZ8zAY=",
+          "cp39"
+        ]
+      }
+    },
+    "3.8.1": {
+      "wheels": {
+        "infery_gpu-3.8.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Jbqib/5zH15WsVhA1HBXrn5Bo1CBt6rYfZJPs9e2F4g=",
+          "cp37"
+        ],
+        "infery_gpu-3.8.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sJy/eS/aEtEezqMqfCMoKntPfji7a6dONbsxABBRV3A=",
+          "cp38"
+        ],
+        "infery_gpu-3.8.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Bawhhd+2nkRyyHQgfoXg5fA4Ql9Svj6X9ETQy6uXeZc=",
+          "cp39"
+        ]
+      }
     }
   },
   "inford": {
@@ -91334,6 +91366,14 @@
       "wheels": {
         "odoo12_addon_sale_product_category_menu-12.0.1.0.2.99.dev2-py3-none-any.whl": [
           "pSi8PIIY5UWx+KhyOXxu1mK3bhPzBcbFOSAfnNXVlrk=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.3": {
+      "wheels": {
+        "odoo12_addon_sale_product_category_menu-12.0.1.0.3-py3-none-any.whl": [
+          "rq6mLrfAmewTuoGN7kPfrKgrbMwrjv+c/7aK4IYbdbk=",
           "py3"
         ]
       }
@@ -137479,6 +137519,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.794": {
+      "sdist": [
+        "/3smOOZZyAeU7jlhsHKOGydaioTRCYY8Mha0DO9yQGg=",
+        "tencentcloud-sdk-python-organization-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_organization-3.0.794-py2.py3-none-any.whl": [
+          "EnR8X6YGx1n4fKxTY7xmeCMionNcjbmFW7MCmGZCRHs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "test-styles": {
@@ -146413,6 +146465,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "mYxY8BA6Mi6jlyGVg/yFXnXO6Jh3av75xIXRch+ob6E=",
+        "uiweb-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "uiweb-0.5.0-py3-none-any.whl": [
+          "iI3ioqxlUk87uQp9AtLJZmC0yg6/PvOchOBDb5ZmOC8=",
+          "py3"
+        ]
+      }
     }
   },
   "um7": {
@@ -147906,6 +147970,18 @@
       "wheels": {
         "viena_polygon-1.1.7-py3-none-any.whl": [
           "KQ7IJn1qaDa1+CBltubDamOqHUviJdErcQBGCyI0bAg=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.8": {
+      "sdist": [
+        "YFp1ql2soS5t83N415oXTpwy4XIlxaR04w6q+qLTgD0=",
+        "viena-polygon-1.1.8.tar.gz"
+      ],
+      "wheels": {
+        "viena_polygon-1.1.8-py3-none-any.whl": [
+          "zT+ZrRriyE2uvERkl74lC2X3r9bvJdjkFlQS+jsXaO8=",
           "py3"
         ]
       }

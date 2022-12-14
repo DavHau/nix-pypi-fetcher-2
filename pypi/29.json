@@ -14707,6 +14707,26 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221214": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221214-py3-none-macosx_10_11_x86_64.whl": [
+          "27yB8H8HkuKrb7uENV3NZS2sS1wqnQUeDtglDCxWipw=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221214-py3-none-macosx_11_0_arm64.whl": [
+          "bK0YccV4StGq8OB41tteyXYFB/mrZ+DG3rA9m4Jo5yw=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221214-py3-none-manylinux2010_x86_64.whl": [
+          "uhn8PGVTlT7Kd0xxklONVaDy0EYOX3mKR+YpbE3crU4=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221214-py3-none-win_amd64.whl": [
+          "AXGuw4ugHZUgh737c3L8VDqN2KZ/8cUHyDYxJGRwcNQ=",
+          "py3"
+        ]
+      }
     }
   },
   "billojwt": {
@@ -36080,6 +36100,14 @@
       "wheels": {
         "determined_deploy-0.19.8rc2-py3-none-any.whl": [
           "34adCYqu9n0HCp/Mi0Pg39Cokcv2Essk77hcGZ3XYWc=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.9rc0": {
+      "wheels": {
+        "determined_deploy-0.19.9rc0-py3-none-any.whl": [
+          "DRqVu4yB6C2uxokkAyJcqrF4EmXsxbnxH8e7yLn6wRw=",
           "py3"
         ]
       }
@@ -93579,6 +93607,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.95": {
+      "sdist": [
+        "c2eK8R9G0TCgk2s2K3Ev10wFi9GMSb3x29quaJaGM/w=",
+        "nashbanksync-0.0.95.tar.gz"
+      ],
+      "wheels": {
+        "nashbanksync-0.0.95-py3-none-any.whl": [
+          "oe66A4igwPAvse23Lvry3MoMu/22CWsZHeqwtO7KP/o=",
+          "py3"
+        ]
+      }
     }
   },
   "nation-rss-parser": {
@@ -99250,6 +99290,14 @@
       "wheels": {
         "odoo12_addon_crm_lead_firstname-12.0.1.0.0.99.dev9-py3-none-any.whl": [
           "zArDjb21h7ocQkaXwSRa9l840SwEu6PWlhvpPjoTDXs=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_crm_lead_firstname-12.0.1.0.1-py3-none-any.whl": [
+          "3tSzNoFOmhgXOy3xumI1aSlUtWBDCL3ZCnx9mD0yhSw=",
           "py3"
         ]
       }
@@ -153199,6 +153247,12 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "ViR6XAde4XHeYMCN06Ge3e6/+Z1Q1lANZ56agp0XvFw=",
+        "webbpsf-1.1.1.tar.gz"
+      ]
     }
   },
   "webhook-debugger": {

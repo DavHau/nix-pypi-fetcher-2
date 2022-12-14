@@ -24679,6 +24679,20 @@
       }
     }
   },
+  "cryptonets-python-sdk": {
+    "1.0.10": {
+      "sdist": [
+        "w84Xc/3tgN6oA7yIqOZRoJsaJIU9AHqXchYsCW6fFME=",
+        "cryptonets_python_sdk-1.0.10.tar.gz"
+      ],
+      "wheels": {
+        "cryptonets_python_sdk-1.0.10-py3-none-any.whl": [
+          "T9RRGxRoHLi/t9etv0f5ld1Xlcd29hhWylZNmfkVwSE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "crypy": {
     "0.1": {
       "sdist": [
@@ -65957,6 +65971,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "fL/aG07dp2dEfWYGAWQkE3P1FqFdXn26EseZ51+vpOE=",
+        "gustaf-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "gustaf-0.0.3-py3-none-any.whl": [
+          "FQnd5u1GQ42IHgOGkRym3u+6Cixp8/9bLqiowWk9GiY=",
+          "py3"
+        ]
+      }
     }
   },
   "gzy-first": {
@@ -66842,6 +66868,18 @@
       "wheels": {
         "hcai_nova_server_nightly-0.1.0.dev202212132238-py3-none-any.whl": [
           "QL5hlW+OWHA5fKKyW6bHceSHOVm4gBI7XapFsuqYSH8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev202212141442": {
+      "sdist": [
+        "lWrI0Sv8coWcwYgipIEvQa64Rn/bHcxs+6zObJANQHU=",
+        "hcai-nova-server-nightly-0.1.0.dev202212141442.tar.gz"
+      ],
+      "wheels": {
+        "hcai_nova_server_nightly-0.1.0.dev202212141442-py3-none-any.whl": [
+          "LGruiFwAhTeG0hIKwAzfVQaU5BUSiZAF9taf7aEggSc=",
           "py3"
         ]
       }
@@ -70258,6 +70296,26 @@
         ],
         "idyntree-7.0.1.dev3-cp39-cp39-manylinux_2_24_x86_64.whl": [
           "wuCtRsIFjrhCGIOtd2V+ap6kKimLWTlvrXEFRoQ/BBo=",
+          "cp39"
+        ]
+      }
+    },
+    "8.0.0": {
+      "sdist": [
+        "rXR30wyzIeWIwpiu9c14891QFREl0ZNviTFEsPGa6HY=",
+        "idyntree-8.0.0.tar.gz"
+      ],
+      "wheels": {
+        "idyntree-8.0.0-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "tQaI/1Uvbm9QaofiStDXocla7MJYuNUlsvGYa5eeRuo=",
+          "cp37"
+        ],
+        "idyntree-8.0.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "pVnkYsEZsQhftG1OPznAHaNfznzTnnuciIkRDXugiqU=",
+          "cp38"
+        ],
+        "idyntree-8.0.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "J6Dp+QQw7qcUvtWeUKK16T5cg/xSM19c3pufleaT+F0=",
           "cp39"
         ]
       }
@@ -107332,6 +107390,42 @@
         ]
       }
     },
+    "1.0.5.dev11": {
+      "sdist": [
+        "6fSXsfdn1xaMA7NPUkO/4HhzNypGe1nuJwsjPCGoGlc=",
+        "ptrade-1.0.5.dev11.tar.gz"
+      ],
+      "wheels": {
+        "ptrade-1.0.5.dev11-py3-none-any.whl": [
+          "peg4tmfdZAWCLqvlj2xirFI4eOsVzPV5fVNIxKv1UtU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5.dev12": {
+      "sdist": [
+        "pt3ljT/Y2jfFeKyM/Cvo/XNNcVV/dyktV2N74FEACW4=",
+        "ptrade-1.0.5.dev12.tar.gz"
+      ],
+      "wheels": {
+        "ptrade-1.0.5.dev12-py3-none-any.whl": [
+          "FJ+tJBoxA+lDy59FCzKSuBaYmMktuGwdOyaJHvr+vHU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5.dev13": {
+      "sdist": [
+        "w5/8dcA1H1tyqdaVOytugvnKgiFHLF8JpQnM/k3mTVs=",
+        "ptrade-1.0.5.dev13.tar.gz"
+      ],
+      "wheels": {
+        "ptrade-1.0.5.dev13-py3-none-any.whl": [
+          "1xpcI8sXwzasG3Qhargr8RSwwbLbuxRdvdH+OnxsRYE=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5.dev3": {
       "sdist": [
         "DbdvXJpbIXwBJ410D2HLWQRCMBIHLM1n/0sS9h6F6zY=",
@@ -142316,6 +142410,20 @@
       "wheels": {
         "swarm_controller-1.0.4-py3-none-any.whl": [
           "acIMai3Hu8WHLof7D0ZACyLMovO4b1tyPTO6S5qcH6s=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "swgoh-comlink": {
+    "1.1.5": {
+      "sdist": [
+        "nF6wTog2n/y69417HBHScS4ymk0WZP2NTKeH2M//SYg=",
+        "swgoh_comlink-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "swgoh_comlink-1.1.5-py3-none-any.whl": [
+          "vTWugIv1Ae4TCvMMdUf+VuZ2rqZvCMM222SDJdORytg=",
           "py3"
         ]
       }

@@ -13591,6 +13591,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221214": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221214-py3-none-macosx_10_11_x86_64.whl": [
+          "JwJoxG+h3vpXC3cR+YgPVjGhB+76oSSbC/Wx2nnnEKQ=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221214-py3-none-manylinux1_x86_64.whl": [
+          "+VGd3KBNGPeUMPUzLaLK16mImTk61iQzasIWN3Onhpc=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -53388,6 +53400,18 @@
       "wheels": {
         "gardener_cicd_libs-1.1926.0-py3-none-any.whl": [
           "bV2QfZ35u8OeQaSJIDPxoS1/rdIxs6ECiivQVKfCnWI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1927.0": {
+      "sdist": [
+        "EpGKMQfKS94jcJl6mPUMnn46M00Qzlhyoncc6safGW4=",
+        "gardener-cicd-libs-1.1927.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1927.0-py3-none-any.whl": [
+          "YUfrl2LxgIU7cZDMxu+NTZfEoTTHVzXckh4LH5SZNzo=",
           "py3"
         ]
       }
@@ -114834,6 +114858,18 @@
         ]
       }
     },
+    "0.13.0": {
+      "sdist": [
+        "cR05BsrTIMT8laNcLdCPTfxpjfs+TPS/ffcpspiK6Rk=",
+        "piou-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "piou-0.13.0-py3-none-any.whl": [
+          "P4gExVJIlxedPgL9RZa9V2/cEosDGI3gtz9OsK0lAIU=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "tZmH91vcpUzPRFhx3lb9vLiMOaEcy0kog++gMe6q1RA=",
@@ -147127,6 +147163,12 @@
         "ahqzj29fPTNLSJ8sjQYrTk3vvx9viLnUhjb+QwmHLQQ=",
         "tendril-apiserver-core-0.2.6.tar.gz"
       ]
+    },
+    "0.2.7": {
+      "sdist": [
+        "u04a6vyBdSVQYWt6kVGBvVXBkA+1f+FTUDAOH/QJwOA=",
+        "tendril-apiserver-core-0.2.7.tar.gz"
+      ]
     }
   },
   "tengri": {
@@ -148958,6 +149000,18 @@
       "wheels": {
         "tracarbon-0.4.1-py3-none-any.whl": [
           "TVCcyHRf/iHwwH3n/GAtaYOVtH9HDQ3OnGePIa7V6vY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "WDOYjFq0Hlem7Wp0zphsPoeOEwkdOH5FfGT9qTjoEIs=",
+        "tracarbon-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "tracarbon-0.4.2-py3-none-any.whl": [
+          "0VmbQCGxJkJrHg3B+OIlPR7UK0efZBC0QN9jMoZslyE=",
           "py3"
         ]
       }

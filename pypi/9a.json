@@ -37925,6 +37925,30 @@
           "py3"
         ]
       }
+    },
+    "1.3": {
+      "sdist": [
+        "5HFr7oZ6UIMpasKppE+OqOltT+trRg1fiC1aGNGo0K4=",
+        "DataNormalizer-1.3.tar.gz"
+      ],
+      "wheels": {
+        "DataNormalizer-1.3-py3-none-any.whl": [
+          "93lE3kd8+x//UqJPUg54E/0LdupDtqCQL3sApAV5nCI=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "i4V/SqQLdHb1aUzazjUe0Z4a/lUZlVmpKjMadFVopVg=",
+        "DataNormalizer-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "DataNormalizer-1.3.1-py3-none-any.whl": [
+          "ubG8UcvjHAw+6YCy7lFfby6Q3DdGNYQrBabuC+w4tWM=",
+          "py3"
+        ]
+      }
     }
   },
   "datasets-anirudh": {
@@ -59816,6 +59840,18 @@
         ]
       }
     },
+    "2022.12.14": {
+      "sdist": [
+        "6TIL32sd65U4r+glf9VvxyyHgepjDqSgx3RjUsL841I=",
+        "hansken-2022.12.14.tar.gz"
+      ],
+      "wheels": {
+        "hansken-2022.12.14-py3-none-any.whl": [
+          "utq/do25w92hlIBEMHVA2U4jWUw8ZLhgOfDkjNWW7Iw=",
+          "py3"
+        ]
+      }
+    },
     "2022.3.1.1": {
       "sdist": [
         "x9kXBeogtBcwaR9sDsm2HgF5xXVKJkpTq9vnAsOugQA=",
@@ -72600,6 +72636,74 @@
         ],
         "lalsuite-7.11.1.dev20221213-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ECVR8JA262xa8RNGGuvZ53PrFUHDGRnUM2CoMA8nfgw=",
+          "cp39"
+        ]
+      }
+    },
+    "7.11.1.dev20221214": {
+      "wheels": {
+        "lalsuite-7.11.1.dev20221214-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "ORx1fNLJe8AO/L0+2VpqgeMo1JDho7GkW6SIqybnQr0=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp310-cp310-macosx_12_0_arm64.whl": [
+          "GdEZETg/exAC7FbBgtMD3IaxIWFtQbVk2zlqoJgiSgs=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "kuWsZ7T/6ERBs/RG7jBVI6FIdrt7enQXB9d/rCWEs34=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PFm2AUXpI2If3A7XEA58BBHDGpMQFj5EfMmzdmJa51Y=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "tjdRJJm0DoposBUpyqj4cwX+dO3hfsV48uzYB2mVcNU=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp311-cp311-macosx_12_0_arm64.whl": [
+          "WyNz6qFH9fOL8vS0OFPAe3oLwCeMvZYE4DXZ1Sk44vw=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bkKUoBnQqlz9Ey5s3x4Pae4itHn/qlnnHSCmcqiWGmw=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/72k7Pj5r5jCPD9u2e+sYjFQIn/I5DzZITdux5ePIkU=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "dcD9VWNE6II/8gQ6jOM6dwl6vymH1p13p2S2wY2JOII=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp38-cp38-macosx_12_0_arm64.whl": [
+          "isMb0VGUN/0hgH60Ar2pEqUn/jQRZdOaM32yDnihn1M=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "d6f0IYAXjhP9gd9tJeCIqotT13qsViZi2e8IdT01PwM=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wWNvJfpI/JOexrqvpMvYQa64vQhV2ol5APgkfTzCkvU=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "zXPlwjW69x60UFGkBL5w/kCkSgJquf+y1Fu5zAoAUuk=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp39-cp39-macosx_12_0_arm64.whl": [
+          "h8GI17GzTb77h/ddsK5sCbOXT1sUQHwyM/vPGhRLZ+Y=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "eQJ3sAVOWekYPln2lPhdyg0j1wXPo8S5PKJg+da6H0M=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221214-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "el9KgX7o/YtdbutrkZ0zhOHkVrmHl+A3eNTvDtoKJQw=",
           "cp39"
         ]
       }
@@ -88427,6 +88531,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "+pEraFpzabEEPkhpY1nYo6KSrdZCj139cvxhskDlAAQ=",
+        "nysmix-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "nysmix-0.5.0-py3-none-any.whl": [
+          "R9d/4cNiF7UAzjVys0kVLR8HM22LYdLwhrgHwwekNR8=",
+          "py3"
+        ]
+      }
     }
   },
   "oaserver": {
@@ -89520,6 +89636,14 @@
       "wheels": {
         "odoo12_addon_marketing_crm_partner-12.0.1.0.0.99.dev9-py3-none-any.whl": [
           "1Ob8cqAuvLvegnQGIDlSK9pDC0TacR9s5vylFNLLGvI=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_marketing_crm_partner-12.0.1.0.1-py3-none-any.whl": [
+          "7zdAIUqTEPMr0ZwRqUL9tI8IWto4IVynZMtm/ABfKTU=",
           "py3"
         ]
       }
@@ -100382,6 +100506,62 @@
         ],
         "puan_rspy-0.2.9-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
           "lcslU2Le0MqfTHzVxzfiHNbRypbhUo9YbyeGoA6+xOk=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "aEFczrWt9LRMFsnjZaqZ6SfmXOgsUbdupAwx05omD+c=",
+        "puan_rspy-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "puan_rspy-0.3.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "dFEoc6m45GZtOFulYq7bUHjyGEf898L4ZrmcyLz5k2s=",
+          "cp310"
+        ],
+        "puan_rspy-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wtt32ToGEV/DtndKF2AfmoXi95LesoiFscIuoSjA3sc=",
+          "cp310"
+        ],
+        "puan_rspy-0.3.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "N94x9zSLwgkMZUzVF1AlKT63jtHAFAqoE2vWNMTrDcY=",
+          "cp310"
+        ],
+        "puan_rspy-0.3.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "5XyZL+HdA0MRNPjfF6VjkhhLenS5SK3xF/WschYNEQ8=",
+          "cp311"
+        ],
+        "puan_rspy-0.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "77b6Ktl7FfEgME1uH0ksw8MS18PDn1SFfP9on/H61tE=",
+          "cp311"
+        ],
+        "puan_rspy-0.3.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "AFb84lafSzhPSVi2+/vF2jNk7dKI74mFppO58NTB7SE=",
+          "cp311"
+        ],
+        "puan_rspy-0.3.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "J2R4t/jDN+BvEFpCbdq1rkca4ZAikjnGRZOE1+nuHY0=",
+          "cp38"
+        ],
+        "puan_rspy-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+MytXEWfDBjmjAbCXpRuldRzcw9KBsbTwkh6FIRpmvg=",
+          "cp38"
+        ],
+        "puan_rspy-0.3.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "zmVFN5RDHZjEGl+9tj4S4VjmhZ3ecq6cl9ChZ4D/Dw8=",
+          "cp38"
+        ],
+        "puan_rspy-0.3.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "Bd6+1KrRgUHkweaYK7usK/DOIijV8v1mjyracmCxeeQ=",
+          "cp39"
+        ],
+        "puan_rspy-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9qnOgtXsiUoB2jMRChqHIGqUw/zEttkyjiG04pJ825M=",
+          "cp39"
+        ],
+        "puan_rspy-0.3.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Z0W7ijKSrGMN56kN/oW+sHoypvMm4eWadsIKgXd/vOw=",
           "cp39"
         ]
       }
@@ -122474,6 +122654,12 @@
         "salure_helpers-27.0.4.tar.gz"
       ]
     },
+    "27.1.0": {
+      "sdist": [
+        "NMYhG4KikPnbWvpyU2g3LkpRTSbnlmxDOnrylx2rKYs=",
+        "salure_helpers-27.1.0.tar.gz"
+      ]
+    },
     "3.0.0": {
       "sdist": [
         "lpwW56fbmvZgCOIqg4d8sddnDhS8NFRDDJw1TUyieD8=",
@@ -140057,6 +140243,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.794": {
+      "sdist": [
+        "GGSiSVUWj8/TnC/LiqO2PX8JwieBkqqvprxCFSCMI/Y=",
+        "tencentcloud-sdk-python-tiw-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tiw-3.0.794-py2.py3-none-any.whl": [
+          "7/iLFfnO9M17/+CuU01zmi0ZxjE2pIYTnLzaeeTb0B8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-wedata": {
@@ -141316,6 +141514,18 @@
       "wheels": {
         "tencentcloud_sdk_python_wedata-3.0.793-py2.py3-none-any.whl": [
           "7+COFidAvD4mcwy5ScDPfYwkH72ZOJWk0Wdz4OToGTI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "67RGuAHI2Ay2qX7HjvqVCDh1BoGfXmPSnWm/Zi39cQE=",
+        "tencentcloud-sdk-python-wedata-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_wedata-3.0.794-py2.py3-none-any.whl": [
+          "3StsAuaHMtJ7AM4txEc3Odr7boUNJmiRjSuuNhiIqc4=",
           "py2.py3"
         ]
       }

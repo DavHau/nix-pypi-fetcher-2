@@ -15171,6 +15171,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221214": {
+      "sdist": [
+        "m09AS8SK8OrbpGlNTELVDcD43dYGYdu3r1enC7H0p5Y=",
+        "bigdl-dllib-2.2.0b20221214.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221214-py3-none-macosx_10_11_x86_64.whl": [
+          "kfm5mRi42efJwsFjYRxSfJNYs1zVfYsf+10vhQ4OjwY=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221214-py3-none-manylinux1_x86_64.whl": [
+          "L1OGuie9RhlivK+dfM2pWO3Iurm5bZsh9KCfdols9Xg=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -25644,6 +25660,18 @@
       "wheels": {
         "cylc_flow-8.0.3-py3-none-any.whl": [
           "iJ9NY8ljfNJH7CqNXm7FxOmBhta603A/MF7eNZr1BLU=",
+          "py3"
+        ]
+      }
+    },
+    "8.0.4": {
+      "sdist": [
+        "hm85vsA3gFaQzlgqLLDM2/ZG6kakxpHJyxoeoT9kmno=",
+        "cylc-flow-8.0.4.tar.gz"
+      ],
+      "wheels": {
+        "cylc_flow-8.0.4-py3-none-any.whl": [
+          "W58MykIT+GQJlUHIb1+Vam9YRXfJErIyFqOIJeU4l3g=",
           "py3"
         ]
       }
@@ -57141,6 +57169,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.3": {
+      "wheels": {
+        "libsrg-1.2.3-py3-none-any.whl": [
+          "zSBFzhfAIeysnPiLdzcsLDEZDKmPjz5Ew4xU0KOqovU=",
+          "py3"
+        ]
+      }
     }
   },
   "libumccr": {
@@ -61262,6 +61298,12 @@
       "sdist": [
         "X5ImJr6TT+jd2JMy24bW/9RsCTEh6U0sdQp04fzpByI=",
         "meshed-0.1.95.tar.gz"
+      ]
+    },
+    "0.1.96": {
+      "sdist": [
+        "s5ZWZceL7n74QEnskarBN8yZfxAyOM4iCkmpiJd+2OY=",
+        "meshed-0.1.96.tar.gz"
       ]
     }
   },
@@ -85845,6 +85887,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.1": {
+      "sdist": [
+        "HTOgVLk2RlFJlqHebGvHqCRjYCdZDYBCJFzNWUA4N9E=",
+        "phiterm-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "phiterm-0.4.1-py3-none-any.whl": [
+          "RNVSUsLUmL4DspHceRFkQxrGv6+7uhgaY0asVRK3GIo=",
+          "py3"
+        ]
+      }
     }
   },
   "php-reference": {
@@ -96266,6 +96320,18 @@
       "wheels": {
         "pyimpspec-3.2.3-py3-none-any.whl": [
           "Zc9d35pfdrv50zDjbzHyMAAHA3riDwm0wkcVQX5qid8=",
+          "py3"
+        ]
+      }
+    },
+    "3.2.4": {
+      "sdist": [
+        "WW1tYt/Z42WttshM82p7y8RjjzGQQweZSBsjB5NlcVE=",
+        "pyimpspec-3.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pyimpspec-3.2.4-py3-none-any.whl": [
+          "8QumWeD8wtg51hIZE69tlx10TKuwu6nittoVuau+BJ4=",
           "py3"
         ]
       }
@@ -133429,6 +133495,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.794": {
+      "sdist": [
+        "O0dzmz74/y1I74yawzu/5WA92KF2OqOzpqQoQxaYxCU=",
+        "tencentcloud-sdk-python-tds-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tds-3.0.794-py2.py3-none-any.whl": [
+          "cOpfPRHztV947motyfq0/HyzE34SCRduHxgJ/dUL3YA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-connector-mq": {
@@ -138228,6 +138306,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221213-cp39-cp39-win_amd64.whl": [
           "/lOAM4PIxGhHZUpjnwGwejDFyXm04+GF8SxESgRgAS4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221214": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221214-cp310-cp310-win_amd64.whl": [
+          "tSam9LtqZjZnkoPw1ZcLOZ4KMynKFwO3ajswmwyL17A=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221214-cp38-cp38-win_amd64.whl": [
+          "K+4jLRvX0qjDwC+hoz1C5rP5vo4pEf+n141vCRPMpns=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221214-cp39-cp39-win_amd64.whl": [
+          "IeT9XOsviJMuRV56twL9YJEzV87SY+DMOXzOYzFFpso=",
           "cp39"
         ]
       }

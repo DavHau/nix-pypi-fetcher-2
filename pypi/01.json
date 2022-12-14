@@ -16771,6 +16771,12 @@
         "V5vd2TP9rJfSw1rvHu5XDljwflkV0oDuanda/gchwZ0=",
         "browserstack_sdk-1.1.1.tar.gz"
       ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "LMgJS5VYSxW0IB78bOL7AKF/Yn5wd8mC8Ph4MT6jx1I=",
+        "browserstack_sdk-1.2.0.tar.gz"
+      ]
     }
   },
   "bs-processors": {
@@ -20472,6 +20478,12 @@
       "sdist": [
         "tkckjUP9wk+YKeyd5pAO5E4KbgDoYtoKPeEWFY2Mm9U=",
         "cm-cluster-on-demand-aws-9.2.6.1.tar.gz"
+      ]
+    },
+    "9.2.7": {
+      "sdist": [
+        "2fz4NABN9SeBl7+QjfShUbvJdUuswk1/boAnVAjvxj0=",
+        "cm-cluster-on-demand-aws-9.2.7.tar.gz"
       ]
     }
   },
@@ -24552,6 +24564,18 @@
       "wheels": {
         "crazy_thursday-2022.12.14.0-py3-none-any.whl": [
           "+HH8nMSyMFjSFTVjZneV4VljtUPd4eR1mbGhEhPg4GE=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.14.1": {
+      "sdist": [
+        "oVoIC9jO+HF80SsIV50ZuIivnSMU8yef/gYsNQUPtfM=",
+        "crazy-thursday-2022.12.14.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2022.12.14.1-py3-none-any.whl": [
+          "lYmBLgjmW/gQcTuqaYDh/oheitllDcvhbiG21sKL5xY=",
           "py3"
         ]
       }
@@ -31620,6 +31644,18 @@
     }
   },
   "deepphysx.sofa": {
+    "22.12": {
+      "sdist": [
+        "PZINHPYd+l3Q2aUsbefeWnWcF7wxkkAB3igjfOhB4jw=",
+        "DeepPhysX.Sofa-22.12.tar.gz"
+      ],
+      "wheels": {
+        "DeepPhysX.Sofa-22.12-py3-none-any.whl": [
+          "jwgecdAkmLvTD2IjOEpAh9jLphVhHevDvs5HnFlUUjU=",
+          "py3"
+        ]
+      }
+    },
     "22.6": {
       "sdist": [
         "QlfgBnkA7yp2vGmskZBleWIEylUMpxrlnE7WzqM3CHI=",
@@ -32507,6 +32543,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "discord-walle": {
+    "0.1.0": {
+      "sdist": [
+        "mRZ0up+LFZZSfbccKZ9oAdZLrLX/shHDrTNN5Mr8X7s=",
+        "discord-walle-0.1.0.tar.gz"
+      ]
     }
   },
   "disnake-together": {
@@ -37488,6 +37532,18 @@
       "wheels": {
         "dm_cli-0.1.20-py3-none-any.whl": [
           "pCyre+7yUtJTY94IDLyamBwBUVPDgbxm50IfXdWNAbQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.21": {
+      "sdist": [
+        "eoFTGXx/Z/8F90uE9K+5ygrYHL/6vYuqad8++Xygbss=",
+        "dm-cli-0.1.21.tar.gz"
+      ],
+      "wheels": {
+        "dm_cli-0.1.21-py3-none-any.whl": [
+          "GBbX9kamxokikeWVCzlm+KMWKM9hCZo+//u2XZSvMxI=",
           "py3"
         ]
       }
@@ -50818,6 +50874,18 @@
       "wheels": {
         "google_maps_routing-0.1.1-py3-none-any.whl": [
           "wJ7MrdiaZuaIoxXM4pfPG8ukoPQK3m2pqY3hraq7HNE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "jLBkbbGYHQvH9r9d4ZP4aLdErZq3Br8+LVnCzpNBm2A=",
+        "google-maps-routing-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "google_maps_routing-0.1.2-py3-none-any.whl": [
+          "ICvbdERdNt55ercuEQID22drYiTF+XEOy86TzgSTcNs=",
           "py3"
         ]
       }
@@ -74422,6 +74490,18 @@
       "wheels": {
         "mllp_https-1.2.35-py2.py3-none-any.whl": [
           "XmCnMRMFEN0e0pex8beok0OWmKo+UPa5IyDBo6nOwfU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.36": {
+      "sdist": [
+        "KmvI/R5y32WknN6KSYQh4ZdTRNc7z6n9Qu/17Tm8k44=",
+        "mllp-https-1.2.36.tar.gz"
+      ],
+      "wheels": {
+        "mllp_https-1.2.36-py2.py3-none-any.whl": [
+          "/sJizUrL9WH0DVCn9wrZfHFcaZasc5mbq8CeYfWdcsk=",
           "py2.py3"
         ]
       }
@@ -103322,6 +103402,18 @@
       "wheels": {
         "proactive_jupyter_kernel-13.1.0.2212140241.dev0-py3-none-any.whl": [
           "Jup8/TfQVe9GHp07tyYEapYlaTZOKf7EwEhKbLuoHd4=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2212141523.dev0": {
+      "sdist": [
+        "buJ6iV633eI6c/LmvLjo9b3NZ8UwlvuJ3nu9u0sQotM=",
+        "proactive-jupyter-kernel-13.1.0.2212141523.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2212141523.dev0-py3-none-any.whl": [
+          "a49uO5GCvku6pQCENG5Gh81E5jWWCPnc/uTM/cgiJ2U=",
           "py3"
         ]
       }
@@ -138406,6 +138498,18 @@
       "wheels": {
         "tencentcloud_sdk_python_irp-3.0.792-py2.py3-none-any.whl": [
           "+LIcfAHHRlBtwZkh//GJ3/Cn/JrK6s6SaPONPvM5l5Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "ElkZpWmXXlZvj0mfA4WyHXsfXbpJoD7cokuEVGOZgtk=",
+        "tencentcloud-sdk-python-irp-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_irp-3.0.794-py2.py3-none-any.whl": [
+          "JSUxbkdDN9s4Fsv1CFuJPg0z4jRzxGd6As5fmZwlVDM=",
           "py2.py3"
         ]
       }

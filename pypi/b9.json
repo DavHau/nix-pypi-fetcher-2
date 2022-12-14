@@ -13997,6 +13997,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221214": {
+      "wheels": {
+        "bigdl-2.2.0b20221214-py3-none-macosx_10_11_x86_64.whl": [
+          "m/bix/VcGXr4e/ZM4TylK9LdxXJ2f+G0pChwkim3pQU=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20221214-py3-none-manylinux1_x86_64.whl": [
+          "zoFRBJ0r6EEzIjI95D++J2Awg+oVdVrFzyDzyuGae6g=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -29579,6 +29591,72 @@
         "U77zxhLAYtwgBrEH+/y59ZDextHgF2hezUs3y0CZ/HM=",
         "django-mailer-throttled-0.1.tar.gz"
       ]
+    }
+  },
+  "django-microsoft-auth-sync": {
+    "0.1.3": {
+      "sdist": [
+        "4LelCkCVQ94Yd99ICyqKbe8YDv8RSttRqKr2REQUZFg=",
+        "django-microsoft-auth-sync-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "django_microsoft_auth_sync-0.1.3-py3-none-any.whl": [
+          "Ftlr5UdmHUKBx6DI7pDhYRPT/HcgxLOoUWRAO7gv75I=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "wheels": {
+        "django_microsoft_auth_sync-0.1.4-py3-none-any.whl": [
+          "YTlVc7vKvd4pceEfVA+Qd8j2kH46eKViBhyU9F6Y3to=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "P74ReBh82UbkGb0hmfOmweLHrUUqYIOUqq0cAtTiPeM=",
+        "django-microsoft-auth-sync-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "django_microsoft_auth_sync-0.1.5-py3-none-any.whl": [
+          "yuliilt7412mokwOmftdnOQpQDQMaMFdDHaCsPG9XzM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "pl6EeQKTQgrcwMG3vMSGbZNcbhkOc+M5XLtUUw+Heng=",
+        "django-microsoft-auth-sync-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "django_microsoft_auth_sync-0.1.6-py3-none-any.whl": [
+          "OAHlIkRP5hrMxaNc+/5xJmnOhCJXu5f4Pa5CqySO4Wg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "Y6zY6chvwjUGeXWxEqN3E7TOPGWN2RHRFleYZpzMZdY=",
+        "django-microsoft-auth-sync-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "django_microsoft_auth_sync-0.1.7-py3-none-any.whl": [
+          "nb+iyHTzYeLCi78YIEwbF7iKKweb7O6spWfFDR9v9p4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "wheels": {
+        "django_microsoft_auth_sync-0.1.8-py3-none-any.whl": [
+          "5rmI9eJI+PDY8YufVFR+OOQFoWHRMYTP2pWtoQ31RZo=",
+          "py3"
+        ]
+      }
     }
   },
   "django-mistune": {
@@ -72879,6 +72957,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.2": {
+      "wheels": {
+        "odoo12_addon_sale_order_weight-12.0.1.0.2-py3-none-any.whl": [
+          "/l41yNyhIco0FnzkNuD9i9nWTwpU1ZLLHlSetZndkMw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addons-oca-crm": {
@@ -97512,6 +97598,18 @@
       "wheels": {
         "python_chrisclient-2.6.0-py3-none-any.whl": [
           "1ipPf3B5jFXy4P0WnJXaolnLHKUvIfjRj230u0t0Tqc=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.0": {
+      "sdist": [
+        "1GYosTIpnzrKtL78qoNX1fESjiGiye23Gv6VML4x/Yc=",
+        "python-chrisclient-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "python_chrisclient-2.7.0-py3-none-any.whl": [
+          "mLgyrwOWzwNh9CsWp2grVpAsxst0JjY/F9v00Dqrkks=",
           "py3"
         ]
       }
@@ -139432,6 +139530,18 @@
       "wheels": {
         "tencentcloud_sdk_python_nlp-3.0.793-py2.py3-none-any.whl": [
           "pb0r318rWNV9PlD+WQRgDYaw9TYNDLWW5xgSY27hOkM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "can/83Cv63RuPa4aEsVvwsGpq6yfU0SLJLOvf7taQTA=",
+        "tencentcloud-sdk-python-nlp-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_nlp-3.0.794-py2.py3-none-any.whl": [
+          "0R9P6x8AS8sdkpbvVF9OpLNBGuVEg87K2MnkZwTIxdQ=",
           "py2.py3"
         ]
       }
