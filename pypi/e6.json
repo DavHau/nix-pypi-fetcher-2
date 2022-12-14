@@ -9728,6 +9728,18 @@
         ]
       }
     },
+    "2.0.57": {
+      "sdist": [
+        "z3M2bQDAJ7IldHLD6485bYCC0M91ZtnCr+TD8H82hn0=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.57.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.57-py3-none-any.whl": [
+          "o3hrB3hdPlFJNYd/DYWS+XcQcO/bw9suR04bdoFy0Q8=",
+          "py3"
+        ]
+      }
+    },
     "2.0.6": {
       "sdist": [
         "MdHCN8GcCxDoUqSJme6xC6fDEPqyDQYL/x6duJopETg=",
@@ -50853,6 +50865,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "xvtF6iY5k6UElN4rIYVcH9oasDTURssun+AUU/7HNTc=",
+        "feed-archiver-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "feed_archiver-0.1.1-py3-none-any.whl": [
+          "TrCuTnJrPqRaBycbWOr5IFYfz2rJ94Bo2YYjDRCXVX8=",
+          "py3"
+        ]
+      }
     }
   },
   "file-handling": {
@@ -66247,6 +66271,12 @@
         "kUmcbl504ERI058BxfqN4p2TpVoefy9Ukxuq+13Zk3U=",
         "isitkbs-0.0.1.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "XxzVWTkV6BOk8u6dp2/VCqi9g6ITsEbz8e+k2rhjJGc=",
+        "isitkbs-1.0.0.tar.gz"
+      ]
     }
   },
   "iso-freeze": {
@@ -69438,6 +69468,32 @@
       "wheels": {
         "kwidgets-0.1.2-py3-none-any.whl": [
           "+aZtuFxr+ZU9R7W0JpzAVBFIWQbOHUvWCQJCi7jsrEU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "labelboxbigquery": {
+    "0.1.0": {
+      "sdist": [
+        "Oml3fcuVtHng020BWJYJ6P385T8LG3ya/k2+lb2BmQ4=",
+        "labelboxbigquery-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "labelboxbigquery-0.1.0-py3-none-any.whl": [
+          "fjAl4A8RWm/lrhO9UNLjJ6kRdP6OuWsOqgxSriDpG3w=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "1X1L5+tYXrzl3F+RE8nDQFKs2BQSSRneAaIAx2Va9Hw=",
+        "labelboxbigquery-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "labelboxbigquery-0.1.1-py3-none-any.whl": [
+          "fQkwJb/BKWfLdlLgRfLf/le/vEp2+zLog5jySvdtqMI=",
           "py3"
         ]
       }
@@ -109987,6 +110043,18 @@
           "py3"
         ]
       }
+    },
+    "2.8.0": {
+      "sdist": [
+        "wvXhfZ2pLY7B995jMasIEWuRFa26vLpuII1G/EmpjFo=",
+        "pyotp-2.8.0.tar.gz"
+      ],
+      "wheels": {
+        "pyotp-2.8.0-py3-none-any.whl": [
+          "iJ0Df93mrMrShTH8YqeQ8Inl39W2OHc+nuAEzOB0ouU=",
+          "py3"
+        ]
+      }
     }
   },
   "pypackage": {
@@ -137301,6 +137369,30 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.793": {
+      "sdist": [
+        "UL46GFfUCRFvZVdPWUm6jM4BJO/wHgOERUkkKp5CMus=",
+        "tencentcloud-sdk-python-advisor-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.793-py2.py3-none-any.whl": [
+          "ZGJzeE65WT1ek0LvDOqeVLwmvxOAZuZNB/W4Zx3KO78=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "bOsWQt9DOVRlhsg/vD01V6QzC6YsCZaGd84hCStsYno=",
+        "tencentcloud-sdk-python-advisor-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.794-py2.py3-none-any.whl": [
+          "Kis+VPXOSFfJ+uOUJB6FJkm9qJvPPaU1zCqxp79tCes=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -138800,6 +138892,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.792-py2.py3-none-any.whl": [
           "Yt8yyO3V6wHMGTI1Bfn/Ox2GVW6usQLIr6358+aGSYI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.793": {
+      "sdist": [
+        "PlOZBBr05ri4+d2XZXlbCD+ZR7JyXKZ/nZiRBA+aG64=",
+        "tencentcloud-sdk-python-mmps-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.793-py2.py3-none-any.whl": [
+          "MNEVBqPlCSf3ue1MuWJKCTlXl4cNQ0F/iJtUQfo49W4=",
           "py2.py3"
         ]
       }

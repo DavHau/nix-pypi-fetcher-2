@@ -81986,6 +81986,34 @@
         ]
       }
     },
+    "2.2.37": {
+      "sdist": [
+        "+HYlgguqZxdKONx7v8tTAYi1uUiU/Y0n88ghSVGeBVE=",
+        "OctoBot-Trading-2.2.37.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.2.37-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "81syf+fjqeo3vad49EvFVJuNPOn65OWEGV11jv4cQnY=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.37-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Tbr7PVWAAmMf02j4X1ePJjbQfBRtCi+d532teguL8Xc=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.37-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nRFGiWiICoTwiK0bESXUzNiXXlVK8zzlo4piAEGjKrU=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.37-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8GCV0uBH1qsBdr/7d4ogl+iG/vN+ZC3pMP1somX25sU=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.37-cp38-cp38-win_amd64.whl": [
+          "TpLEM6u3gVbNcnwiVsMiZ/0/I6VWj6B7jRibZQLchH0=",
+          "cp38"
+        ]
+      }
+    },
     "2.2.5": {
       "sdist": [
         "YDrJbJYrsX9eMlDh2mZ9Otk9X1Qtlj0/V/RJCZq093c=",
@@ -95030,6 +95058,10 @@
         ],
         "pyats.utils-22.11-cp310-cp310-manylinux1_x86_64.whl": [
           "z5SDz+86247EVCiZV/bFNztZMNfwuW71YfwdHvXznu0=",
+          "cp310"
+        ],
+        "pyats.utils-22.11-cp310-cp310-manylinux2014_aarch64.whl": [
+          "0SfbnniKzvNhIgClllvgO9I0geV+iMBpWbxJ5DHvrso=",
           "cp310"
         ],
         "pyats.utils-22.11-cp37-cp37m-macosx_10_16_x86_64.whl": [
@@ -114732,6 +114764,18 @@
       "wheels": {
         "recipe_scrapers-14.25.0-py3-none-any.whl": [
           "UgYruZW5kNqasYgwP2J/78N/R0BHJTPJZVl6H7iDg1Q=",
+          "py3"
+        ]
+      }
+    },
+    "14.26.0": {
+      "sdist": [
+        "9f/bpQLgI6wGyPrRNGdEpKFV54UVQ8Fgoed2roK0sdU=",
+        "recipe_scrapers-14.26.0.tar.gz"
+      ],
+      "wheels": {
+        "recipe_scrapers-14.26.0-py3-none-any.whl": [
+          "v9os+lXFFpNTzDRAxny4dPDvZ3/JmTMmPsi7n+dr82A=",
           "py3"
         ]
       }

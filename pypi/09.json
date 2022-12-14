@@ -25003,6 +25003,14 @@
           "py3"
         ]
       }
+    },
+    "2.1.3": {
+      "wheels": {
+        "csv_to_sqlite-2.1.3-py3-none-any.whl": [
+          "8/n82Ff1i+785xG+uo2tUe8VH/godoWO6dqcvURjYT8=",
+          "py3"
+        ]
+      }
     }
   },
   "cubicweb-neuroimaging": {
@@ -25168,6 +25176,14 @@
       "wheels": {
         "cucim-22.10.0-py3-none-manylinux2014_x86_64.whl": [
           "F98kFjaUB/2LwVBpOYTP2wVdPgwLA0sCTKIRgflTeqM=",
+          "py3"
+        ]
+      }
+    },
+    "22.12.0": {
+      "wheels": {
+        "cucim-22.12.0-py3-none-manylinux2014_x86_64.whl": [
+          "qZBnZQnvTja0hBMAcDcmRbwRbGYmJZPqMUK6s9hrCEg=",
           "py3"
         ]
       }
@@ -93068,6 +93084,10 @@
           "46yji/Qj9wxeDETtydXISeiynpVNIGxEkf3Mn35lRn4=",
           "cp310"
         ],
+        "pyats.aetest-22.11-cp310-cp310-manylinux2014_aarch64.whl": [
+          "YJgX2mW3mrhTcQkCxNLmMMYzHOt2tD3e6yeTK91H2pE=",
+          "cp310"
+        ],
         "pyats.aetest-22.11-cp37-cp37m-macosx_10_16_x86_64.whl": [
           "cjn92R+zuJM8bsfNfE+ghcJFxv4qjAiowfy+eBRzFQA=",
           "cp37"
@@ -137763,6 +137783,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.793": {
+      "sdist": [
+        "bIeO8iFM6Zrg3rAK3JSTBvEHtOylc0cebs/GIc89vh0=",
+        "tencentcloud-sdk-python-ciam-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.793-py2.py3-none-any.whl": [
+          "EFciVph+i0mGYWZssMXtIPo6TOyM7A1kuo1x/B7Li0Y=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenyks": {
@@ -143975,6 +144007,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.2": {
+      "sdist": [
+        "6lAO7fGceyiZIEYGfmYGddm7R2M9G+U1rFLOGZDlC4Y=",
+        "uipath-orchestrator-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "uipath_orchestrator-0.7.2-py3-none-any.whl": [
+          "yuWHCExnsl0dv0ABv8VXaH9FSQ/elQ1C2mfEylsptEo=",
+          "py3"
+        ]
+      }
     }
   },
   "unice.portlet.lettre": {
@@ -146246,6 +146290,10 @@
         ],
         "unicon-22.11-cp310-cp310-manylinux1_x86_64.whl": [
           "xyFq7HDXg8u8mt323Tpz9lQpHLhkbzCW87Z0GHnwbWw=",
+          "cp310"
+        ],
+        "unicon-22.11-cp310-cp310-manylinux2014_aarch64.whl": [
+          "3ho3KYmHNwkTsOsIKRzmW+Qt6ZTWQ3UTHkEOXJjMnwg=",
           "cp310"
         ],
         "unicon-22.11-cp37-cp37m-macosx_10_16_x86_64.whl": [

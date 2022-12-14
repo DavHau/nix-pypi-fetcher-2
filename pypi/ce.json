@@ -617,6 +617,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "ePX/QKFxnlMMvn2aO6o4harcP5gMKZG9UTCk8NI9iyo=",
+        "adafruit-circuitpython-pixelbuf-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_pixelbuf-2.0.0-py3-none-any.whl": [
+          "4++LA41qcQdwxBCSkvbmMtoLeWgT9YSh8Mk+qJDveqA=",
+          "py3"
+        ]
+      }
     }
   },
   "admin-rights": {
@@ -4912,6 +4924,30 @@
       "wheels": {
         "bacdiving-1.2.5-py3-none-any.whl": [
           "YCwOlgGdJYUSvTHI8VctALv0FemN1KzhqtbyWPmvJ5s=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.6": {
+      "sdist": [
+        "IJ64PHm9/Wh6abaGgNIDUbYuYa1o18x4Jm5I93ro8T8=",
+        "bacdiving-1.2.6.tar.gz"
+      ],
+      "wheels": {
+        "bacdiving-1.2.6-py3-none-any.whl": [
+          "6J4FQGgXQYWDLfGySKdnVj8U3ZuZhJYUit/rd1bcvIM=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.7": {
+      "sdist": [
+        "vfUrF30Kjg+7TWH1QIoZPy29kDzC6LXtG9z2v6P0Wek=",
+        "bacdiving-1.2.7.tar.gz"
+      ],
+      "wheels": {
+        "bacdiving-1.2.7-py3-none-any.whl": [
+          "+ICVpLNkzwly0GQCNk0zJ8M+eASSXvtEbEtfWr5Oxps=",
           "py3"
         ]
       }
@@ -9548,6 +9584,38 @@
         ],
         "cargo_lambda-0.13.0-py3-none-win_amd64.whl": [
           "28vMlT1Xzw64e/Oj0zCM+vHvYbUkXVMemscVXnltN2w=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0": {
+      "wheels": {
+        "cargo_lambda-0.14.0-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "sKzg/sOA0NeQocMqM4eGLznfubnu1NSVCCAVeVmyKI4=",
+          "py3"
+        ],
+        "cargo_lambda-0.14.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bFn1UYYOnY5szsRKhgzisxuI/uzssu9q2p0UC7bPHOw=",
+          "py3"
+        ],
+        "cargo_lambda-0.14.0-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "mseKFpVUuvCX0HxiAeDjxauzgwKJUhKywVsxPo4Id+E=",
+          "py3"
+        ],
+        "cargo_lambda-0.14.0-py3-none-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "nCR6843qxW0RJ1pUwGrGeTOHWtleWf4nNNASyfulPF0=",
+          "py3"
+        ],
+        "cargo_lambda-0.14.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "IpXG5KftKrGNkXsProC1sPEmyuW4ndcOhCQIt05TUB8=",
+          "py3"
+        ],
+        "cargo_lambda-0.14.0-py3-none-win32.whl": [
+          "BDIXJriEvFLN2WX1Q6sN1tfNB3F4uSICq+zC44/h+wc=",
+          "py3"
+        ],
+        "cargo_lambda-0.14.0-py3-none-win_amd64.whl": [
+          "x26IwbRNMGYE1Zj7h+FiRClIz2jkvkZtJ0w34vRavLk=",
           "py3"
         ]
       }
@@ -56526,6 +56594,18 @@
       "wheels": {
         "labelbox-3.32.0-py3-none-any.whl": [
           "NX9dZMEONpqS+V6+Sm035sdg7e2UB00dHTP7/vC5iz4=",
+          "py3"
+        ]
+      }
+    },
+    "3.33.0": {
+      "sdist": [
+        "snVHfCvZG53IfPOXbpPSf26YQdpdnYGUPQM3R9EYc7E=",
+        "labelbox-3.33.0.tar.gz"
+      ],
+      "wheels": {
+        "labelbox-3.33.0-py3-none-any.whl": [
+          "t7Vc09ETtDX2yV2WBoFSYTk3jwS8k27yY3t39Le1BjM=",
           "py3"
         ]
       }
@@ -104481,6 +104561,20 @@
       }
     }
   },
+  "pyreka": {
+    "1.0.0": {
+      "sdist": [
+        "WV1CLLpDge/bEz1wQEWCv/89Ue9CTIfuW187H/Ne5/c=",
+        "pyreka-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyreka-1.0.0-py3-none-any.whl": [
+          "vV7hIdze8iNgo8Q/a6RUyWRSxYEmPBs7ZWwZHKX2blc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyrel": {
     "0.1.4": {
       "sdist": [
@@ -113614,6 +113708,14 @@
       "wheels": {
         "robodk-5.5.0-py2.py3-none-any.whl": [
           "fZaioBNvcDuEXEee0QTcaxGXoSaKZFAE5yi38xbEEpI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.5.2": {
+      "wheels": {
+        "robodk-5.5.2-py2.py3-none-any.whl": [
+          "a5wB54DvZM1tYCo79dFrZCTY/yJICIszgXc8jRFl+uA=",
           "py2.py3"
         ]
       }
@@ -132738,6 +132840,14 @@
       "wheels": {
         "tkvue-1.0.1-py3-none-any.whl": [
           "gc9DCOEYsHlcM2wEvInhFj3sleSTlUopX7HSlbbToeQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "wheels": {
+        "tkvue-2.0.0-py3-none-any.whl": [
+          "ZSYlI+EUW8RAIEpolEg8R5kmCBWVzXtQbOAxlRR8Ltg=",
           "py3"
         ]
       }

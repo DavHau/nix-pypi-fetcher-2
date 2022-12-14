@@ -1897,6 +1897,12 @@
         "oPrPKZvpOLKgaQLisNvvVECFC5XrWJHrFY8gk5PLIoI=",
         "aeppl-nightly-0.0.50.dev20221213.tar.gz"
       ]
+    },
+    "0.0.50.dev20221214": {
+      "sdist": [
+        "5shRrb3slLyq+DlAlGm++2GOgOlNatrEp9k5zqAtCz0=",
+        "aeppl-nightly-0.0.50.dev20221214.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -18360,6 +18366,30 @@
         ]
       }
     },
+    "1.15": {
+      "sdist": [
+        "Q8qQYA/yY89s7QAfyiIACiv0oedbLz0YbeoM0m4zyFM=",
+        "cockgrabber-1.15.tar.gz"
+      ],
+      "wheels": {
+        "cockgrabber-1.15-py3-none-any.whl": [
+          "i3DhAqFRQy6QrvBwr/mqjqEBFAwOTnicWs+6myytnis=",
+          "py3"
+        ]
+      }
+    },
+    "1.16": {
+      "sdist": [
+        "AwbuAi71Cgx2WOfyJleogVwQweEaj2neqYlGRjQSEoM=",
+        "cockgrabber-1.16.tar.gz"
+      ],
+      "wheels": {
+        "cockgrabber-1.16-py3-none-any.whl": [
+          "T6/N//p7fdeGoPd2hhaOXHtUlUv3hidjIbjOYRguhmo=",
+          "py3"
+        ]
+      }
+    },
     "1.2": {
       "sdist": [
         "RahOcbhMmgA4QBO5qr/gn7uN5gJmbqvU6AtutGVzxCg=",
@@ -30262,6 +30292,18 @@
       "wheels": {
         "django_socio_grpc-0.16.14-py3-none-any.whl": [
           "UTBy1v0v/SQOvFigODIoeM/7t3ataRX0r243hj1BdTI=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.16": {
+      "sdist": [
+        "wvvd6FnPmKRiivADXUQ/4uTe7C/nIUT/haVsm8W3AFU=",
+        "django_socio_grpc-0.16.16.tar.gz"
+      ],
+      "wheels": {
+        "django_socio_grpc-0.16.16-py3-none-any.whl": [
+          "5JF/Sx2mjtSMdFhFGAk7Aotio8/CflqMmPmUXOPry54=",
           "py3"
         ]
       }
@@ -45472,6 +45514,18 @@
       "wheels": {
         "great_expectations-0.15.4-py3-none-any.whl": [
           "0Mq+nanVJwxaAA6YlPDFZrCZcv7JBQOHEFRRxXdbH2Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.40": {
+      "sdist": [
+        "hsAfvBNtynwZQvCRMZYcW9F1rtrr9uWMrxAaigHnkvM=",
+        "great_expectations-0.15.40.tar.gz"
+      ],
+      "wheels": {
+        "great_expectations-0.15.40-py3-none-any.whl": [
+          "hENG3D53nItUbP0uOHl35py18S14NhmR1LuZFd4Jhhw=",
           "py3"
         ]
       }
@@ -62216,6 +62270,18 @@
       "wheels": {
         "lucupy-0.1.14-py3-none-any.whl": [
           "LqiYsqYl2dGJoZZ8l6Ouw4F2lGgze42bIt33zBGqnxQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "mpG3zk9NMz8ywGwfLbJ7sJIJhimqwPJQUDjd62+Q6qw=",
+        "lucupy-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "lucupy-0.1.15-py3-none-any.whl": [
+          "cu/mcDbYNA0wrWHcqLOr+I9X446X92KFEXous7JLI2o=",
           "py3"
         ]
       }
@@ -137326,6 +137392,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ses-3.0.792-py2.py3-none-any.whl": [
           "crFgEyTIgMT1I88EGCCyTxsWfn/6QrvEKOeZt45BHdY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.793": {
+      "sdist": [
+        "GWwrylh/nGnEOQEE/ZHkcCRCJXfgzJ6rXBuLlZv1iVA=",
+        "tencentcloud-sdk-python-ses-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ses-3.0.793-py2.py3-none-any.whl": [
+          "J+Com8OlkZG++MU+zGfCj/3GbBlFSYxawURBvKxRctg=",
           "py2.py3"
         ]
       }

@@ -50892,11 +50892,13 @@
     }
   },
   "fossbot-lib": {
-    "0.1.0": {
-      "sdist": [
-        "beAszQ2/08sqV3ytCAC9+3IJRbIClO0M14Xn+wvhvDY=",
-        "fossbot_lib-0.1.0.tar.gz"
-      ]
+    "0.1.1": {
+      "wheels": {
+        "fossbot_lib-0.1.1-py3-none-any.whl": [
+          "YTyqXItXXYlsfkX9TOLZYTCJd+ruUXeZemc8MrGwqKY=",
+          "py3"
+        ]
+      }
     }
   },
   "four-corner-method": {
@@ -78912,6 +78914,12 @@
       "sdist": [
         "QRjjptmH0nHiyX4rArne7voMRDX5ljkZ07Qg0fPNPSo=",
         "msgtools-0.36.12.tar.gz"
+      ]
+    },
+    "0.36.13": {
+      "sdist": [
+        "vX40i6an/gJhgyjBEs2PeqrsDmM+mgHAzyPxFhAirsM=",
+        "msgtools-0.36.13.tar.gz"
       ]
     },
     "0.36.2": {
@@ -133476,6 +133484,14 @@
         ]
       }
     },
+    "4.0.12": {
+      "wheels": {
+        "stix_shifter_modules_mysql-4.0.12-py2.py3-none-any.whl": [
+          "rpJeQBPvtmNe3ClgS0d9SHHbreEOFNtlAsGHEaerZuA=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.2": {
       "wheels": {
         "stix_shifter_modules_mysql-4.0.2-py2.py3-none-any.whl": [
@@ -134860,6 +134876,20 @@
       "wheels": {
         "sunsetsettings-0.2.0-py3-none-any.whl": [
           "wKWm9wmUAc2W3qbDvWvJP5PaXXzgoOxrqwlHG6v8IuI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "super-expressive": {
+    "1.0.1": {
+      "sdist": [
+        "SjvZjp1ndFUcCafMuA4Yv6JeYVjfaMZk+eAZOzM5UjM=",
+        "super_expressive-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "super_expressive-1.0.1-py3-none-any.whl": [
+          "unS0ovj5gCpMV3zdOTSRL9dA5gM0csWxi1kqa8IRWj8=",
           "py3"
         ]
       }
@@ -143882,6 +143912,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcr-3.0.792-py2.py3-none-any.whl": [
           "FhvnID46I9rewl4bf3KAAAjsUg83Ruc6gqCGtu+9Slc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.793": {
+      "sdist": [
+        "VRQADpJ7pdDERsK5YPog4mq3HJT/p/ELqyF9/tIv9uA=",
+        "tencentcloud-sdk-python-tcr-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcr-3.0.793-py2.py3-none-any.whl": [
+          "MYcv4crjfU8D7FNaHxW/lIV9OG7GUr4rGkpQ8llBx+Q=",
           "py2.py3"
         ]
       }

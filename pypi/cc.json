@@ -9958,6 +9958,30 @@
         ]
       }
     },
+    "2.0.37": {
+      "sdist": [
+        "dkjjeROJWPo9mJuexboC4SosQue6DXmPhln7u88VWbE=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.37.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.37-py3-none-any.whl": [
+          "h3sNY7KNs2DbfwjqEIcvd1LIJ9FmRWNIdlkep2nnk9w=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.38": {
+      "sdist": [
+        "64DgCYiZvSnk8JOMaIAswCKo45r4wF3kBT+aIJ5ju3w=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.38.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.38-py3-none-any.whl": [
+          "Ct0d6+JOVmuNLPcTyoXrXoLELeAPc3378C4Y4iIgpBs=",
+          "py3"
+        ]
+      }
+    },
     "2.0.4": {
       "sdist": [
         "yo+faZ3cZsE+fr6iU9RB3hNWMCpllw7efqJgQmGXMqY=",
@@ -41622,6 +41646,20 @@
       "wheels": {
         "ez_icons-1.0.2-py3-none-any.whl": [
           "8PoI2iQOtbw3OU9fYDiAH9hmEjWZeOh2z9olE6o60Yk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ezmsg-sigproc": {
+    "1.1.0": {
+      "sdist": [
+        "Ia1vNO1facI0wSiwq1ebf7OHknGKGReA6OFDift1N0U=",
+        "ezmsg-sigproc-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ezmsg_sigproc-1.1.0-py3-none-any.whl": [
+          "u7fVwT33mEeHxDfXJpjahO4uvVgAK9R7QsHTmEvBf0k=",
           "py3"
         ]
       }
@@ -82398,6 +82436,14 @@
       "wheels": {
         "odoo14_addons_oca_account_invoicing-14.0.20221108.0-py3-none-any.whl": [
           "/PwIZDdbTEEm7Zk2IUrgul+2lr7UrsYskfAeHLFNs7A=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.20221213.0": {
+      "wheels": {
+        "odoo14_addons_oca_account_invoicing-14.0.20221213.0-py3-none-any.whl": [
+          "NVgNr2dWbOapEHsKf2Xnh+N2dXKF+e73dciSiUWrTrQ=",
           "py3"
         ]
       }
@@ -129406,6 +129452,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tia-3.0.792-py2.py3-none-any.whl": [
           "LJVA3tzOsMEMnsWUjyMGR0WG0qlH95npNps4ZIguvn8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.793": {
+      "sdist": [
+        "U8rrskRJ+GwLxJupre82a8GqFopjV1QPbUUB4CKD7jg=",
+        "tencentcloud-sdk-python-tia-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.793-py2.py3-none-any.whl": [
+          "yM0GF1VLqensZkgfCciAfv8URKeliSv6dOg3D5aN4ao=",
           "py2.py3"
         ]
       }

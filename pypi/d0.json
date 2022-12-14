@@ -63475,6 +63475,18 @@
           "py3"
         ]
       }
+    },
+    "4.2.1": {
+      "sdist": [
+        "/xbRBsUJ2ezw0N7yKO3rZrcmEUk7gOXwzfv2E7yR+wM=",
+        "nsz-4.2.1.tar.gz"
+      ],
+      "wheels": {
+        "nsz-4.2.1-py3-none-any.whl": [
+          "nvr6qlyzpUNnPCoD7kqyUALoIgu5LFyk6xbhYQ9eQD4=",
+          "py3"
+        ]
+      }
     }
   },
   "nti.recipes.zcml": {
@@ -85263,6 +85275,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "/xWDH+eTh4nC7g4CpeZ/AC3idWOoyvA0jm7u5WXc/I8=",
+        "qorus_remote-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "qorus_remote-1.0.2-py3-none-any.whl": [
+          "tqjShzm3V0Nn+e+212yVmZmBzaRd2N8UqNtOd8GNqrM=",
+          "py3"
+        ]
+      }
     }
   },
   "qqueue": {
@@ -106703,6 +106727,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.793": {
+      "sdist": [
+        "wQAsHsKPwyNde3qZNlU/4TDWU1XHWQChlUN9CH5HziQ=",
+        "tencentcloud-sdk-python-dasb-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.793-py2.py3-none-any.whl": [
+          "ydP4UqBF3pWM535N4qk+uQbFUGU44nkqlFviRe5afNQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -112030,6 +112066,14 @@
       "wheels": {
         "tf_estimator_nightly-2.12.0.dev2022121209-py2.py3-none-any.whl": [
           "tWlppfjYZ8PEPF+ZkpxfIsi8B99tcCNBYR0jnCBxfzM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.12.0.dev2022121319": {
+      "wheels": {
+        "tf_estimator_nightly-2.12.0.dev2022121319-py2.py3-none-any.whl": [
+          "XwiQS+4Mz7jVa/D7LpwaoMBlqoOHD0Sd7gHj84ufo90=",
           "py2.py3"
         ]
       }

@@ -16214,6 +16214,18 @@
         ]
       }
     },
+    "1.6.10": {
+      "sdist": [
+        "k8FsAOxpRbCezDmw+Hv6qkIjT3hAyBc5s628YHzlmz8=",
+        "bidimensional-1.6.10.tar.gz"
+      ],
+      "wheels": {
+        "bidimensional-1.6.10-py3-none-any.whl": [
+          "GdGW5jD1pD1GDxak8KgvD9v23FIkOhFS6msYMuiNGTI=",
+          "py3"
+        ]
+      }
+    },
     "1.6.4": {
       "sdist": [
         "8Iw6DJp1ReAvxwS1vzv4uT+Gl77PIYM6eiBY1iGqYh0=",
@@ -20057,6 +20069,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "n4odpXlFlesy7B45hDLGSI0o22sCGsL5Ul9+gVzZp/E=",
+        "caltechdata_api-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "caltechdata_api-1.1.1-py3-none-any.whl": [
+          "FGHb2GMbJALPt2qSKj6unw+xxzmMT6p9Qb44mDEi1Qg=",
+          "py3"
+        ]
+      }
     }
   },
   "cancelable": {
@@ -23256,6 +23280,18 @@
       "wheels": {
         "cdktf_cdktf_provider_consul-2.0.0-py3-none-any.whl": [
           "jmk/owI9UYVy6MTJRIdFYdHHUuE3ov2K44z+skN7Lnc=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "ij2w0rH2BVJyLDzV0On5NH8HeTLkkAnyR3l2cTmWEj8=",
+        "cdktf-cdktf-provider-consul-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_consul-2.0.1-py3-none-any.whl": [
+          "vt/GFBLhz4mVihNlKX4Syul2kzO6DJUiMo6QSJOOZhY=",
           "py3"
         ]
       }
@@ -38320,6 +38356,12 @@
       "sdist": [
         "0pxucTOrR4OOWhvgOSH0RideOUsQOAy1aqW3xhrNbAU=",
         "django-htmx-autocomplete-0.1.2.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "lGem6NdJ5BEI95VNotmK4270zJkbNnrE7wafPU/rgmY=",
+        "django-htmx-autocomplete-0.2.0.tar.gz"
       ]
     }
   },
@@ -58271,6 +58313,32 @@
         "DQszhc6rTxNNy5rx6huEyV3qdvQTuG7350E0s52x+xI=",
         "girder-audit-logs-3.1.9.dev8.tar.gz"
       ]
+    }
+  },
+  "git-feature-notion": {
+    "1.0.1": {
+      "sdist": [
+        "eO0rcn8Us1fJtnFbTaXd9qDmqavNgXHFeWD8dnx7Okg=",
+        "git_feature_notion-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "git_feature_notion-1.0.1-py2.py3-none-any.whl": [
+          "ksedew9TLKQaSCZUkHTXAt5DjuYAeBodRSt3MQxlVkw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "b+B8GSQ21fJPKT+gIcGuKLo+WdVvp+QPqKlLT4SlkoI=",
+        "git_feature_notion-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "git_feature_notion-1.0.2-py2.py3-none-any.whl": [
+          "mKzzJzhXTS5iKEWHmMxc8Db7spLVKIL3tXj+94F4jHw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "git-multimail": {
@@ -94141,6 +94209,22 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_currency_rate_update-16.0.1.0.0.4-py3-none-any.whl": [
+          "dQaL9j3aEKHdu1RlHpJMH2/3zNfa3wS1iPoEwnGWFxQ=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_currency_rate_update-16.0.1.0.0.5-py3-none-any.whl": [
+          "cVRQ85NPrExrS2mDAYwiyzSFUgkAr6PJAW4otBpaYuY=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-partner-sale-pivot": {
@@ -97792,6 +97876,20 @@
       "wheels": {
         "ordpy-1.0.7-py3-none-any.whl": [
           "HGzuXApsIRcGueH9qsDtxnP+9AgUhBBUn64yhWBcyH0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "org-djangokit-core": {
+    "0.0.1": {
+      "sdist": [
+        "h30V1WdsS+iajxrF3IxrPNZDWtYj6M1w2u2xZlSZzPU=",
+        "org_djangokit_core-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "org_djangokit_core-0.0.1-py3-none-any.whl": [
+          "5rczATH9zRCkxK7Z0PB2vnTaw3wTDGwFxCBULukMwhA=",
           "py3"
         ]
       }
@@ -119078,6 +119176,30 @@
       "wheels": {
         "raspreboot-0.0.2-py3-none-any.whl": [
           "CNBaH3F2a7cI0wNS7GO4qf666Muoh/Xp2TKF+atC/SA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "SlnLJ1YYJXixwFYrnXtwWEP/WV6W6NbxZU0FoRfrMH0=",
+        "raspreboot-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "raspreboot-0.0.3-py3-none-any.whl": [
+          "4AF0qWL+p2Ywp+yUQnkAPcDtDKMRcltUnYcVO0W2wx0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "bjv+QLvgn3zE42z4StufK9fs7WUgjRz7pLXvBEGBdkQ=",
+        "raspreboot-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "raspreboot-0.0.4-py3-none-any.whl": [
+          "ixmCxoigARCgpZsHQyi5UZbcVav2f71JKSKWsLqHn78=",
           "py3"
         ]
       }
@@ -149510,6 +149632,12 @@
       "sdist": [
         "V16Pft0u1jSmEj8Idw6XzburueJ1QLZESjHBZ5y+vu8=",
         "tutor-15.0.0.tar.gz"
+      ]
+    },
+    "15.1.0": {
+      "sdist": [
+        "3fGukt0GJfVi5K+1VKH+ad+08N72LHa/Hdn5VvCoDgU=",
+        "tutor-15.1.0.tar.gz"
       ]
     }
   },

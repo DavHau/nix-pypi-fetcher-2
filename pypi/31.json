@@ -10654,6 +10654,18 @@
         ]
       }
     },
+    "9.2.29": {
+      "sdist": [
+        "ZZtNlmeTcYcf9PS57Ehv7I2OBmfSxFBD71UWmFzLuFI=",
+        "archinfo-9.2.29.tar.gz"
+      ],
+      "wheels": {
+        "archinfo-9.2.29-py3-none-any.whl": [
+          "YYKKfnFaIQ/R6+KbojnXgFkRxfC6kNR5XMUeTM85Kh4=",
+          "py3"
+        ]
+      }
+    },
     "9.2.3": {
       "sdist": [
         "XZbkuzNnOiL35GJa1T5CydqNYkamP93PYlJvfMd27qA=",
@@ -15122,6 +15134,12 @@
       "sdist": [
         "LSNdMiAG2rKpwn1anVEFWwkmsMUY8JUdCVDDrHhdJnc=",
         "BlackLager-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "Ro7b9D7ZeeOD9r+cCAFZIWxLT+y84wTFL5+YlgPTSx8=",
+        "BlackLager-1.0.1.tar.gz"
       ]
     }
   },
@@ -119171,6 +119189,18 @@
         "XrER1hT96uWLNDG7YcaZ3Vu9dgS0cHCgxZYaUg/5TUs=",
         "rpu-0.0.1a0.tar.gz"
       ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "wP3U+0ktdUSMUKkoMUe2yKIlrZPjpxNnj6CMWL/lY3s=",
+        "rpu-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "rpu-0.0.2-py3-none-any.whl": [
+          "fWoWdSqAVdzTGZka2K98jy4HM0jxTht/Ub54B09OWOU=",
+          "py3"
+        ]
+      }
     }
   },
   "rs-simtools": {
@@ -126665,6 +126695,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.3": {
+      "sdist": [
+        "cIfTh/ROdlSGQQl9cynN92lqrvaBw4nayeNvx1a44lw=",
+        "sqlfluff-templater-dbt-1.4.3.tar.gz"
+      ],
+      "wheels": {
+        "sqlfluff_templater_dbt-1.4.3-py3-none-any.whl": [
+          "JTFJolRdZvK/SY/varAWohD77/Oaks9Tm/sBXj22cqc=",
+          "py3"
+        ]
+      }
     }
   },
   "sshcopyid": {
@@ -131886,6 +131928,30 @@
       "wheels": {
         "tencentcloud_sdk_python_acp-3.0.792-py2.py3-none-any.whl": [
           "QkssyMiyMQc3qHEKU3BK7PxDi5Cu2u58UKmQhB1kwlM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.793": {
+      "sdist": [
+        "iMo7zU+zrdlcPQVzegkquTi635bX3hJuQmw0mJPj3wo=",
+        "tencentcloud-sdk-python-acp-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_acp-3.0.793-py2.py3-none-any.whl": [
+          "08+y8urTBG8Sx+ytXZ82wUurjUs76wY7f/q65jGxX88=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "2TbOKvoOOSE34QKVQ/SgwxNWe8tDbEnrAYffbxIUBcc=",
+        "tencentcloud-sdk-python-acp-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_acp-3.0.794-py2.py3-none-any.whl": [
+          "FCytDw8x+HDRqMgxqy070ghJQT7ytrdIiQftmGJFUqQ=",
           "py2.py3"
         ]
       }
@@ -138119,6 +138185,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.793": {
+      "sdist": [
+        "PkoseC7p8Irf4HefCK009cZTf/+kUKpfWBuiz/lAGgY=",
+        "tencentcloud-sdk-python-iotcloud-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_iotcloud-3.0.793-py2.py3-none-any.whl": [
+          "BnXWrJMNnmAHh3uSzxobBEUWsNpWVGTvduWV4WUkFPQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-yunsou": {
@@ -144325,6 +144403,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.793": {
+      "sdist": [
+        "dH2N62ysx3qNwcQsrDIF9OPDplNKhqyVRtILekTPVUU=",
+        "tencentcloud-sdk-python-yunsou-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_yunsou-3.0.793-py2.py3-none-any.whl": [
+          "aC6Cn5dw2bphhW1LG3q6gmjYu0nd2qg7lUP4Deeq/GA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "termgraphicslib": {
@@ -145295,6 +145385,32 @@
         "27xTI+rdTvjdqtgwFhWMr2JCdqvyxClvJ+HeFlLZFnI=",
         "tg.ext.repoze.who-0.1-r26.tar.gz"
       ]
+    }
+  },
+  "tg2fa-translit": {
+    "0.1": {
+      "sdist": [
+        "q/nmXgosGAusp1ZdkqUur9/JKE+sZDQOnOVgq08bVBg=",
+        "tg2fa_translit-0.1.tar.gz"
+      ],
+      "wheels": {
+        "tg2fa_translit-0.1-py3-none-any.whl": [
+          "N9ttpGaMrpWhknnKpJ+c7yw396oq7vKUwVMfs2B7YeI=",
+          "py3"
+        ]
+      }
+    },
+    "0.9": {
+      "sdist": [
+        "uzlm01Rbjb6wPRLENFOYhXu8MhKgE035iDnbLzD3HMM=",
+        "tg2fa_translit-0.9.tar.gz"
+      ],
+      "wheels": {
+        "tg2fa_translit-0.9-py3-none-any.whl": [
+          "vR0uNS9ebFcwJEN3T6VnXn0PpPN3tZauTNtyauYAWkg=",
+          "py3"
+        ]
+      }
     }
   },
   "th2-grpc-read-db": {

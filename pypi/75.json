@@ -42653,6 +42653,18 @@
           "py3"
         ]
       }
+    },
+    "3.3.1": {
+      "sdist": [
+        "iO8LmR4WixpSbBvmI+0l798WPhxAsWxqqP3kqL0SMBs=",
+        "eclcli-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "eclcli-3.3.1-py3-none-any.whl": [
+          "P0heRONlqmH947xrIxw+TRIptJ7NyBsPiOSP85r4+9E=",
+          "py3"
+        ]
+      }
     }
   },
   "econ-ark": {
@@ -93610,42 +93622,6 @@
         ]
       }
     },
-    "0.0.12": {
-      "sdist": [
-        "1yH8opnZ4wZzu8GvFx9xJMWUIC/hjbtenYzLGw59tG8=",
-        "nepali-municipality-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "nepali_municipality-0.0.12-py3-none-any.whl": [
-          "KD/UEoKgJDWxbTro8S+ArcBPuuMdALFX959prsixCGA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "SnP7Q7GWuiYPnbJwvYz7vJN2fP1CHOZyK8QOeI7t4Qo=",
-        "nepali-municipality-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "nepali_municipality-0.0.13-py3-none-any.whl": [
-          "acfNHkvJuIWocaIqdxpL6LKeKhvzICn936YmpEGgoLM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "Grlq+HqANxG4gwTnHw4+iOyar5BZJBP/dtfx8ywa7BY=",
-        "nepali-municipality-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "nepali_municipality-0.0.14-py3-none-any.whl": [
-          "19sw6gDUG49qtZ88pS5q2jI0NrxldF978ycfRFOT1Mw=",
-          "py3"
-        ]
-      }
-    },
     "0.0.15": {
       "sdist": [
         "1OnhdTGexV0xhcaYuh2i/fqmdxJg3ejRm898qAhTYZA=",
@@ -93666,30 +93642,6 @@
       "wheels": {
         "nepali_municipality-0.0.16-py3-none-any.whl": [
           "7bgRoUiY/3DazJMZWSnIgEjh0sqn7CO1UN6bKgBr87Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "BJ40+uX3+mUPoc71Sg5AD2n4BLNPOnqmosJM+dprxB0=",
-        "nepali-municipality-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "nepali_municipality-0.0.17-py3-none-any.whl": [
-          "paMCW50+pQKGq2upZLtl+D4pUyI53kf0KbTh4y5QQ6A=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "sZtXjIi1GmNyfZqs7XkajNo2mQ+eQRVZGnWxmPx2cNQ=",
-        "nepali-municipality-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "nepali_municipality-0.0.3-py3-none-any.whl": [
-          "ufgr9D252Rd97FakN2tZ6QA8f9jmC85BSK8GSyLLuzk=",
           "py3"
         ]
       }
@@ -93774,18 +93726,6 @@
       "wheels": {
         "nepali_municipality-0.1.0-py3-none-any.whl": [
           "L7jRVfxktcKu4c6WkQHFl72yOmtbSjsH2Fwkn8abbes=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "tTDMe0i/R/0wQSPwAtOTK3O95n2pxlnM0eH0O3Vip8Y=",
-        "nepali-municipality-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "nepali_municipality-0.1.1-py3-none-any.whl": [
-          "jTnBplji5SITQwFfkHbRV3735FM6wyrin3V4EWJ3Z4k=",
           "py3"
         ]
       }
@@ -135298,6 +135238,32 @@
       "wheels": {
         "spflow-0.0.9-py3-none-any.whl": [
           "ARi16xhtu8+gn2oUgVOqE1JiwPtGN6Gm4MaFIyMaT8w=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sphinx-graph": {
+    "0.1.0": {
+      "sdist": [
+        "oeAgYtfBSAoVuMKsl/K62q13z7qwkASwGljTGndgDwU=",
+        "sphinx_graph-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "sphinx_graph-0.1.0-py3-none-any.whl": [
+          "qjOh9rqA7ElHJdVNsy5twMC29N7npRVHE4rAH3Z2aP4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "jf3Gf68/uNGwlh+SFtDuxhe5zNoabwYXSelvVSSEGKE=",
+        "sphinx_graph-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sphinx_graph-0.1.1-py3-none-any.whl": [
+          "xG5xhkUdPfm+4ycdnHuYkDymGSlYR5EDyv96y4uJyh4=",
           "py3"
         ]
       }

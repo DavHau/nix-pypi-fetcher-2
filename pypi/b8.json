@@ -6633,6 +6633,18 @@
           "py3"
         ]
       }
+    },
+    "5.0.1rc1": {
+      "sdist": [
+        "wuISMW7AohQowQS/Lt0oXa1ErvYJdDkl49ZLKaMvpPo=",
+        "apache-airflow-providers-microsoft-azure-5.0.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_microsoft_azure-5.0.1rc1-py3-none-any.whl": [
+          "cIJviDJi+MyBRUb1rzyjN9QtY7gmsYPNPWQ+omcav8c=",
+          "py3"
+        ]
+      }
     }
   },
   "apeman-model-client": {
@@ -15719,6 +15731,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.8": {
+      "sdist": [
+        "HLMeNRNrI3+SS50HkMbN1MG4VXi8ryfPVyt1McjNvlU=",
+        "bluetarget-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "bluetarget-0.2.8-py3-none-any.whl": [
+          "bRYxkNSRGGRX6r4UIMcByck/3hbCMIcgTPJu/Kd25uM=",
+          "py3"
+        ]
+      }
     }
   },
   "blunix-toolkit": {
@@ -17117,6 +17141,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "calculator-813a4904e145b2db": {
+    "0.0.2": {
+      "sdist": [
+        "nXhiGJPz4t7W9938a/3cdfq4so8B+bO10h+i5+EuQZ8=",
+        "calculator_813a4904e145b2db-0.0.2.tar.gz"
+      ]
     }
   },
   "canonicalwebteam-store-api": {
@@ -46144,6 +46176,14 @@
         ]
       }
     },
+    "0.11.9": {
+      "wheels": {
+        "hat_doit-0.11.9-cp38.cp39.cp310-none-any.whl": [
+          "gMK7Jo9JKTMvhIhGrxVeHFtUn4RQCvzMo2qLwKRS/sk=",
+          "cp38.cp39.cp310"
+        ]
+      }
+    },
     "0.5.0.dev20210804": {
       "wheels": {
         "hat_doit-0.5.0.dev20210804-cp38.cp39-none-any.whl": [
@@ -67520,6 +67560,12 @@
         "molano-0.15.0.tar.gz"
       ]
     },
+    "0.16.0": {
+      "sdist": [
+        "q6/yQF7dM08ZRV+WzYMiEI0Oj7rEkd4tVcdueFHEouI=",
+        "molano-0.16.0.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "OqfZZjhNlyp/gIa4VEg+oWyKwZ7tlwipYCCcMdO77QE=",
@@ -76172,6 +76218,18 @@
       "wheels": {
         "ndtiff-1.5.0-py3-none-any.whl": [
           "NX9PRi1iUYXtV0Yh75t2sG+RgdIOwzW6ZXb/EuSUyj4=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "t33Xpt3WhxMHGwuLmmZFN9cI7p+74ks5yLq3bpEpAEU=",
+        "ndtiff-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "ndtiff-1.6.0-py3-none-any.whl": [
+          "ghh2LmqXZ1wGpFubLBuZWPRom0Vn8xwMd7tHuUoLPD8=",
           "py3"
         ]
       }
@@ -94192,6 +94250,10 @@
           "iWcY/BrueH9PnCDeAgI21Tq5P0b9lf5OLgibqhL+6+4=",
           "cp310"
         ],
+        "pyats-22.11-cp310-cp310-manylinux2014_aarch64.whl": [
+          "oHYKujDo4nVZMezjS/jLA1NKwI2J+H06XqOuWgMMYiQ=",
+          "cp310"
+        ],
         "pyats-22.11-cp37-cp37m-macosx_10_16_x86_64.whl": [
           "7sdnw7PVeK8QJ8okoePk47P42SJceREPqCpVGXluAfU=",
           "cp37"
@@ -109078,6 +109140,18 @@
       "wheels": {
         "robotframework_output_stream-0.0.3-py2.py3-none-any.whl": [
           "HGbzyAYv9fD5Vhfw1MPlAYH33ssdnVVriX3+6D4NehA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "6SCILnNWP20SvdQqADkYMV8Y2lPAXWZ1tyKFs5dGctQ=",
+        "robotframework-output-stream-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_output_stream-0.0.4-py2.py3-none-any.whl": [
+          "MTjHMCIMGyZ8SwYyISCc01Mk7yzqvP2pwx+DEDPhzcg=",
           "py2.py3"
         ]
       }

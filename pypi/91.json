@@ -15291,6 +15291,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "fxbVM9ONalYFo0rm4Dj857Gp4TGgVtqQOyXx41yQ7GM=",
+        "clearblade-cloud-iot-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "clearblade_cloud_iot-1.0.1-py2.py3-none-any.whl": [
+          "U2FdsXn3amS/mNMtDDjV+gw2eh9HM6o5yLO1CgziGlU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "clicksend-client": {
@@ -67455,6 +67467,20 @@
         "myFolder-0.1.0-py2.py3-none-any.whl": [
           "EqO4lKhuXgoQZ3pq2CSkg/PhMtp9pKkSRIxyPlh1aSA=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "mygls-rest-client": {
+    "1.0.0": {
+      "sdist": [
+        "PVL5a5Az4xNUXvHhky5nv2YqzwihAI322UU6g+dXEvk=",
+        "mygls-rest-client-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mygls_rest_client-1.0.0-py3-none-any.whl": [
+          "JqBTGDbnRbiiBSsTpPWOa9C6o4oC3U2Lt+FSJb/H4FM=",
+          "py3"
         ]
       }
     }
@@ -125755,6 +125781,34 @@
           "cp39"
         ]
       }
+    },
+    "0.5.0": {
+      "wheels": {
+        "sqlcipher3_binary-0.5.0-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "Vsa1tfcjz4fr27S0LrD768h1+XA23PwQv4fnKAbdec8=",
+          "cp310"
+        ],
+        "sqlcipher3_binary-0.5.0-cp311-cp311-manylinux_2_24_x86_64.whl": [
+          "kLs54ULnzc2RXHERTZ2fFM9bxecZLDSINw6nVkSInNE=",
+          "cp311"
+        ],
+        "sqlcipher3_binary-0.5.0-cp36-cp36m-manylinux_2_24_x86_64.whl": [
+          "Kq7C6j+NB5fNTYkZHyElVHxMtS5M1UmyAJ9jRd2ox50=",
+          "cp36"
+        ],
+        "sqlcipher3_binary-0.5.0-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "rZuuw4bYL7F4UTaMDupBUtLGttHi0q93wESx+D1oBBg=",
+          "cp37"
+        ],
+        "sqlcipher3_binary-0.5.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "WbvuzWsYof0zc9JOJVEEu6AC6XqCnZZvH7biCPG/LwY=",
+          "cp38"
+        ],
+        "sqlcipher3_binary-0.5.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "o4gEI50DgaDyxyKiU4MQkSVD5IGCXqdBA/OmUS7CTc0=",
+          "cp39"
+        ]
+      }
     }
   },
   "sqlite-web": {
@@ -128790,6 +128844,18 @@
       "wheels": {
         "taxhub-1.10.4-py3-none-any.whl": [
           "GQ9n8uDrW435gFDUNoVnS1//kfHtU2+MdYc3TBrlLos=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.5": {
+      "sdist": [
+        "35IUxtTWOB71Ku8rO/yGyMfZxxcePHIBH7iaVDohstk=",
+        "taxhub-1.10.5.tar.gz"
+      ],
+      "wheels": {
+        "taxhub-1.10.5-py3-none-any.whl": [
+          "S/an78ZiDXYyGN9O7Qw/yCouyStq/3NL8OsiwFmT8ok=",
           "py3"
         ]
       }

@@ -24335,6 +24335,18 @@
           "py3"
         ]
       }
+    },
+    "20221214": {
+      "sdist": [
+        "UN3bT6W28pBVOjw53e6UmF4sqIw3Jkj5JeN7/o5of4s=",
+        "cs.deco-20221214.tar.gz"
+      ],
+      "wheels": {
+        "cs.deco-20221214-py3-none-any.whl": [
+          "Q6bufaAUT+bvi6FuSeqLH/CE8Vs8LzmV5bIw3+NWMNw=",
+          "py3"
+        ]
+      }
     }
   },
   "cs1110grade": {
@@ -55573,6 +55585,42 @@
           "py3"
         ]
       }
+    },
+    "1.0.8": {
+      "sdist": [
+        "vpJYScHhXVfoZyXQAqGGtSGc7So/NCVEDjGTCYbKtkw=",
+        "kmcos-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "kmcos-1.0.8-py3-none-any.whl": [
+          "s62yaUnbpeHCAVDIOsUuJ1smQBq5QOXY+sTVLb12NAw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "E01PoJVWEFX383v1E5zBoci4uLclqhXlSQvCjVXLgu0=",
+        "kmcos-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "kmcos-1.0.9-py3-none-any.whl": [
+          "fh1k4+LyOpYEv5924P8ZRuvgkCtomZxakWG6Zl1JY88=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "MX0cEKuA1xx/sxqUQYdpApjvcjiIhQ5y6KggfjeKbaY=",
+        "kmcos-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "kmcos-1.1.0-py3-none-any.whl": [
+          "091m2kcl93iNxy7yKCxhD8m5uK+7Lib4zwCxerrVIL0=",
+          "py3"
+        ]
+      }
     }
   },
   "koji": {
@@ -60892,6 +60940,18 @@
       "wheels": {
         "lsdviztools-0.4.8-py2.py3-none-any.whl": [
           "3pfaQqhSuobsQNuYzqpQ+RWduNnh1o+bMh9CIi6M8QE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.9": {
+      "sdist": [
+        "3KyCITFvFMRolG2o85xlZsp8r+39IgTclqKb2gw4M9I=",
+        "lsdviztools-0.4.9.tar.gz"
+      ],
+      "wheels": {
+        "lsdviztools-0.4.9-py2.py3-none-any.whl": [
+          "tfOacbbrjCuBEVAgz02prnUIQe6kzzwtrGnr3Z/lMgo=",
           "py2.py3"
         ]
       }
@@ -98382,6 +98442,18 @@
         ]
       }
     },
+    "0.14.2b1": {
+      "sdist": [
+        "GnFi5/PupWjH0cGdfz9MXa0jKj9xqC2ivSykUA160Ig=",
+        "panel-0.14.2b1.tar.gz"
+      ],
+      "wheels": {
+        "panel-0.14.2b1-py2.py3-none-any.whl": [
+          "qQaGuSSsLO/1Qh2EHq3trK6jli/s0frZWbPM0/jkYCQ=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "A7pIq3o6wNCj5EB8IG6UJcdFgsGtPo5hAEFF+Eyo/94=",
@@ -117568,6 +117640,12 @@
       "sdist": [
         "T5x907W37nCo1Dpey23Mni0WYHQ8+20tsLDN+aZ8ZDA=",
         "sagemaker-2.121.2.tar.gz"
+      ]
+    },
+    "2.122.0": {
+      "sdist": [
+        "gfV/ET/ZptCtNZSIQ7SKlONFtmHNwOrtoqCvuAhjFmo=",
+        "sagemaker-2.122.0.tar.gz"
       ]
     },
     "2.13.0": {

@@ -13737,6 +13737,20 @@
       ]
     }
   },
+  "bittrade-kraken-rest": {
+    "0.9.0": {
+      "sdist": [
+        "/q6xbzQzo8QL2KnwwLY94jWsa1cLCeyE2+2oY66og/o=",
+        "bittrade-kraken-rest-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "bittrade_kraken_rest-0.9.0-py3-none-any.whl": [
+          "BJeH30cCgbAM8ybOr9zgW6vsmO0/C7bXLdZyRI97uAs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "blackmagic": {
     "0.0.1": {
       "sdist": [
@@ -21273,6 +21287,20 @@
         "C8FuZPwX69tcsE/fhPfbyQThiEegYTVKiVGyc1alr0w=",
         "charset-1.0dev.tar.gz"
       ]
+    }
+  },
+  "chatgptprtk": {
+    "0.1.0": {
+      "sdist": [
+        "OmYRsBNsqiqvl3MyBqr4+iCwJk8ny6jDTyWPLGb5rFM=",
+        "chatgptprtk-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "chatgptprtk-0.1.0-py3-none-any.whl": [
+          "atZuFiQ4N9H9vKQQ4XkWbnUAzjQNAIT4Odf1ugxh7Gc=",
+          "py3"
+        ]
+      }
     }
   },
   "checkmyip": {
@@ -92991,6 +93019,14 @@
       }
     }
   },
+  "pro-car-automation": {
+    "1.0": {
+      "sdist": [
+        "SIqPykXDbk/pxbjThzLQovhh/1Dtgi569+ShRS/qnHQ=",
+        "Pro_Car_Automation-1.0.tar.gz"
+      ]
+    }
+  },
   "proactive": {
     "10.0.0": {
       "sdist": [
@@ -93680,6 +93716,12 @@
       "sdist": [
         "3mQPxyzuxkQuadEhlpDH6S7FLpRkuhPtogWt9pPEqVQ=",
         "proactive-13.1.0.2212130238.dev0.zip"
+      ]
+    },
+    "13.1.0.2212140238.dev0": {
+      "sdist": [
+        "SwSgk+O4ykDfribQJprpdjRIoTKPckCNNvksi16jM4Y=",
+        "proactive-13.1.0.2212140238.dev0.zip"
       ]
     },
     "8.1.0": {
@@ -98114,6 +98156,10 @@
         ],
         "pyats.aereport-22.11-cp310-cp310-manylinux1_x86_64.whl": [
           "BJrN/Mv72Sd2Q85CSaZeP5Qdh4K3b/zFvyOY2OjDGfI=",
+          "cp310"
+        ],
+        "pyats.aereport-22.11-cp310-cp310-manylinux2014_aarch64.whl": [
+          "nMPm5H+OZxHuWgw7vqRlSLgfU86dsl4TyEcM3/txCLY=",
           "cp310"
         ],
         "pyats.aereport-22.11-cp37-cp37m-macosx_10_16_x86_64.whl": [

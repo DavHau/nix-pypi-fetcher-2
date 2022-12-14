@@ -6742,6 +6742,12 @@
         "automation_rest_server-3.3.16.tar.gz"
       ]
     },
+    "3.3.17": {
+      "sdist": [
+        "CpMwPXHC0MmaiYPnZMnFG074qPWZMI+XVkpJcz0JDxE=",
+        "automation_rest_server-3.3.17.tar.gz"
+      ]
+    },
     "3.3.2": {
       "sdist": [
         "zRoiYFMLwP1p0NqJWKmICRrN59aEEq6afMtgEGeF3KI=",
@@ -18650,6 +18656,18 @@
         ]
       }
     },
+    "2.0.183": {
+      "sdist": [
+        "DKzI62OcUf8CwoY0uRZiptT0Tx5DiJdbWjIk6zS6N+8=",
+        "cdk-tweet-queue-2.0.183.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.183-py3-none-any.whl": [
+          "fMvMNtKxvUt+00tiHFbb3zUGXrMtRa9B2QfuIcFfEMk=",
+          "py3"
+        ]
+      }
+    },
     "2.0.19": {
       "sdist": [
         "IC7H+FOT0/gR6gi4Grr3UoG3Xs2ouJEUOyltt4p5G3s=",
@@ -26604,6 +26622,32 @@
         ],
         "decord-0.6.0-py3-none-win_amd64.whl": [
           "AmZdfE8Rk6MwIFp5G8Eo9+EI62rltnFEQ3oC9wCUO60=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "decorrelation": {
+    "0.0.1": {
+      "sdist": [
+        "EEWblvG1PGKzhDOk/sIzC5ywaxgs03nxJzCAvyp+8jw=",
+        "decorrelation-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "decorrelation-0.0.1-py3-none-any.whl": [
+          "1nH1NzqVTXIkNzj0JjcsvO3hVxDd0NGBbO/4MLOC8oQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "6gHzbXY0gv6ZdjkqJgqdpklhi/VxqTP3p+UF2TNKCZY=",
+        "decorrelation-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "decorrelation-0.0.2-py3-none-any.whl": [
+          "WsID9hc9V6rqsjgNSD2RQ7/L9L/tDav2k1a5ZWlnwAE=",
           "py3"
         ]
       }
@@ -40829,6 +40873,12 @@
         "d90/B/AyoXzopcNKEFPLvSoyO4Hi2tr//1uKsIfyrrI=",
         "filcolorsff-0.4.4.tar.gz"
       ]
+    },
+    "0.5.5": {
+      "sdist": [
+        "+F9SK1B+bDGjxaxBbzUzqfvXW4D+AitZchdRuz5ETWI=",
+        "filcolorsff-0.5.5.tar.gz"
+      ]
     }
   },
   "fileread-backwards": {
@@ -48140,6 +48190,34 @@
         ]
       }
     },
+    "0.19.0a20221213": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221213-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "acjJOGBKRhHmkGEVg/LmwhT8O5BDc4oCbT1xhHT/PZM=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221213-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rlTvSezEdhd1g/bKqQ1mWvcs7OgE05viU/oc6BmzFzA=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221213-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "+dDaoc4M3eeTMqnqYj/cif73jsYTG8rkgnriKBsz9+0=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221213-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "f181T1gMhtHkzvx6vDBqlJgcvvMCqyxXlhb5j/7PDMw=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221213-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "owYSJd/iBisGuN43m3uXaWQQcydtQDzoqBIjxYvTUOE=",
+          "cp39"
+        ],
+        "graphscope_client-0.19.0a20221213-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "03rm2s6STPXa1vpbKRfMd9i+U1JCz19BKl+nFDhr5kg=",
+          "cp39"
+        ]
+      }
+    },
     "0.8.0": {
       "wheels": {
         "graphscope_client-0.8.0-2-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -50598,6 +50676,18 @@
       "wheels": {
         "hexor-0.0.11-py3-none-any.whl": [
           "k5hI8/xhXEBapYEJUnajIyJktlux7R/GXZKVz6CLquM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "fF60aVqrQ6BcFgCeo5BlpIJP8WchofK4u4/agnbemBs=",
+        "hexor-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "hexor-0.0.13-py3-none-any.whl": [
+          "bKtn+wj5ky5mg3wxD9s1updNBvYNZcKaEDygVLAveek=",
           "py3"
         ]
       }
@@ -119486,6 +119576,14 @@
         ]
       }
     },
+    "4.0.12": {
+      "wheels": {
+        "stix_shifter_modules_crowdstrike-4.0.12-py2.py3-none-any.whl": [
+          "CuaM6RQxiO7gw8aF2GLwfmKwjXdv/5CTqiLhXeFZnX0=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.2": {
       "wheels": {
         "stix_shifter_modules_crowdstrike-4.0.2-py2.py3-none-any.whl": [
@@ -119812,6 +119910,14 @@
       "wheels": {
         "stix_shifter_modules_reversinglabs-4.0.11-py2.py3-none-any.whl": [
           "Whgr5NHdnQ7njmf9LGoIVfxxc19uPMl5/QoRW0BHVd4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.12": {
+      "wheels": {
+        "stix_shifter_modules_reversinglabs-4.0.12-py2.py3-none-any.whl": [
+          "tXFTgJSxAhgOYrS5RvtF431rsnb5K4VNOHbn5bAN9U8=",
           "py2.py3"
         ]
       }

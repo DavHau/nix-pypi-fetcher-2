@@ -6432,6 +6432,18 @@
         ]
       }
     },
+    "9.2.29": {
+      "sdist": [
+        "GNQlxOI4J+V15HqQ8NJTtuN91m8Z8tg2HA+P06it8jc=",
+        "archr-9.2.29.tar.gz"
+      ],
+      "wheels": {
+        "archr-9.2.29-py3-none-manylinux2014_x86_64.whl": [
+          "I8gZNAvx9hcrEOfZi99ye3vhMAd/T+ZzQCB2qXw+1Qk=",
+          "py3"
+        ]
+      }
+    },
     "9.2.3": {
       "sdist": [
         "88n2pvSwJhMEdTKOay1nEn348TIwwo4CBrjsuG1O218=",
@@ -54269,6 +54281,18 @@
           "py3"
         ]
       }
+    },
+    "2.2": {
+      "sdist": [
+        "LcmDQTj9Dp6isiKiKQe+lm1lY5oneeRgz17RgSQz878=",
+        "gridx-prescient-2.2.tar.gz"
+      ],
+      "wheels": {
+        "gridx_prescient-2.2-py3-none-any.whl": [
+          "XhjmYGi1BN/Re18LtUDzS3g0nGqdoNkEFZKEqPhvaEo=",
+          "py3"
+        ]
+      }
     }
   },
   "groio": {
@@ -98160,6 +98184,210 @@
         ]
       }
     },
+    "0.1.11": {
+      "sdist": [
+        "68EozPOgdQ11hVfglIAvCXXDdgqTn4qLdjktfb5rUqE=",
+        "py_bip39_bindings-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "py_bip39_bindings-0.1.11-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "MkpzY/i0kgHr4cxy2XABfsUTn4pd32BfondJBOt/CKE=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "dxc7g8et5Mo8kfrg2pybG8X0xoGbqiJ2/qzVq+xgBfo=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-macosx_11_0_arm64.whl": [
+          "hOUXf7PTuWB/XX1Saon5GzVof8w0tkP8ls0WigrgJcs=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "duzRz7F/Cxu1bwsd5cUz/5gwpgtdZXhGuM9QD/n8qLM=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "00CNwICfylaR+cAsgpLWJZDZDeTwKkstyrNYF/qFenE=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-manylinux_2_28_armv7l.whl": [
+          "1vDtonfG0O8ozIP9P1mg90U5TqHigH8v6kkYYISz1H0=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "ljNX20DceoFtVQl6hZKcrhjGF0xb7fBBD25yGBJwsrE=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "vgbcdRvobL1yzXHjGJedOrJ87hL9hNHl5OhFdcXJNV0=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-none-win32.whl": [
+          "tOBbBoMYdPqHFb2xKOp3ZnStcIhYpLOxon5XEIWbCG0=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp310-none-win_amd64.whl": [
+          "4BoD6FimSNKUvPBjNovwkCfvooL1GSq92vevacXipXQ=",
+          "cp310"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "J8ziJyfihwWmYEZGia3m0s2tTmIr6tW94v+lPE9gXuU=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "zfNdAxWHKW3L2yLbxn8ur1td+dUDa3f765Ov+7nuyNM=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-macosx_11_0_arm64.whl": [
+          "L9W5JmhiB3UtXy4v8WSpSJs2EyOdCWc2LxDC+9ZOsBg=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "uoTDiWK//a6g5JkkVzHWacwh0SgPgazo/2DtNVACRXA=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qQJOw8Sj2wBbNV+aAGAs7eKQ3sXpx8990Gom9iCwz5k=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-manylinux_2_28_armv7l.whl": [
+          "zgKMiu9R3sKoXymEYbKYjMoodAvzzCNHLDRp0/hTcU4=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "UYgs0Pp1KRc7NUPAicJMd18Ydt30jxDmDy7QetKvXK4=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "Tud287M7LXH+5IZ5lR8Rfj0fBSRJ7C/LGE88ZKTHfk8=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-none-win32.whl": [
+          "2Lci5JVigQ+U62HJ76Fy8ydTfHTDfaPoaxYff0RMUb8=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp311-none-win_amd64.whl": [
+          "vpNAUkl/B2BXaOLHGE5PQmmz4ud5MBMd/Jvbt5Hm/fQ=",
+          "cp311"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "dvwUHtFUzO+cNtXi62FVZfLicqQ+1W7b3aU4hAtZcYc=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-macosx_11_0_arm64.whl": [
+          "ODf3BA5zL3vknaX1lfFH3iME6SpnJnsS1aoIqbsC3Us=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gt6Q6r5TEJXU5HIeoVRoc/AWHBAcMLQ9zwp7vZzczmk=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GXlLr9CIz7UPmbBPNxDIlXVv4l7DQurqC1xXlRJJO2E=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-manylinux_2_28_armv7l.whl": [
+          "i5qlZKAIHDYHdrIjBHJHW9KXHdvo+Z7X2GdsCrOy4OQ=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "H1WrT8UZuKm4CyjgJ1Z4i52gN6JITkIoJJfrmiU+Wlg=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "zRuHS8gShmgEpAJCzbEwPenK6w7SYYUt+7XLzpTbMaQ=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-none-win32.whl": [
+          "qmQ+rg68GF5Q/LwIghCTDyy0swFF39GKKwMUUc4+2wM=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp37-none-win_amd64.whl": [
+          "5oZz2+TS2Z9k5JOsE2msObC9kmbd3v5HaALYU/ljeQY=",
+          "cp37"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "sb7OYdo8jtN7hqwZBRurTLWZMYBmzc9sqdeVvfdVNSU=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "XMiiXQWPj3dBrzgBW1YXeh+9RC16LUY4YMdvuG/zMhE=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-macosx_11_0_arm64.whl": [
+          "rB03wCZsQPWSpTsoLDkvQLwjwRfKCSpG5BnJ0UGj3Ik=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vWOvuEUaDukWWBRPH6nRte2QjKRY5xOGTndeR7uAZBQ=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qjC5tLAcxwOAGSS+UegC9653ir6kM/TjkI/EcOKlF+8=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-manylinux_2_28_armv7l.whl": [
+          "+CavXlTiUCcq+SA86Fv1MGT+UU34Iig2w/9D8jzNVf4=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "CLoE+61teVwLxZu98Forrp3pKfNBAfoUlQHoP8TlLW8=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "H5uoLUJzU71udSGwNYPg5y10Xn1r8LFQVVWhAytv1lY=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-none-win32.whl": [
+          "ht8534xXO+j/kuYT2DMEWRnhNRRGiY1oPMmknr6yWoc=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp38-none-win_amd64.whl": [
+          "4mzeZYWrlQQv70j2dApPGnli8qVx5z8fEr/E2u54bJo=",
+          "cp38"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "O7IuTyQwvCjZNZnHCk1s6fw+iNs/ILJMoXkC95a+auk=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "dd58fnZYEkTDiT+2JORNhNrczt3XPyIat0qcs8BLQWs=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-macosx_11_0_arm64.whl": [
+          "fho2QIFGBJjKp9gjjFSueLAJ0zGvy08DfWWbAmOblp4=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "8xEvQI8tWL6eoxiZA+Xy2USg2IL6Nbkbe7iKGVoWqME=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e5IfNqTvejvMsmNfKl+RZHpj66oaSWKiT6I25aMoNM8=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-manylinux_2_28_armv7l.whl": [
+          "d6zNGH75qH4dMvJ5tFpuIxI4Frkzp+PYxKL+Yfa9HS4=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "/XT9gQzBB23QwpREkNSssaEJg3zJz9WLKWBeqBtANPU=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "FT8xDlV5VQm4sARZDbwM/1jWXo8DLBVYAh/AiYEhpGU=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-none-win32.whl": [
+          "t2m8w1jIBsoaWYPlfrlO4z7DqO9p+gGqayiWD6Pgq1o=",
+          "cp39"
+        ],
+        "py_bip39_bindings-0.1.11-cp39-none-win_amd64.whl": [
+          "PYqALVBMko2X6VFInpQvOcm/7sKnMFpvDz1dOOFS254=",
+          "cp39"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "V0dAd6JG9ZEFYN3OGkgJyFeDNHKJk3Qdkihf9t59aq8=",
@@ -136664,6 +136892,30 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.792-py2.py3-none-any.whl": [
           "m41GNryJd2GxPlMLM7dnlVnd+1YxHabtA/oRVxgea14=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.793": {
+      "sdist": [
+        "i50gzp+OkrvKeCyfnuEMtXAMk0Zi3stzHvVu10JEzN8=",
+        "tencentcloud-sdk-python-ckafka-3.0.793.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.793-py2.py3-none-any.whl": [
+          "KpUJWDveucvWEOCboJo2XForfo698BnVMipKX9ENCno=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.794": {
+      "sdist": [
+        "bPp9HXXVCdU2cjvOWUvyI3h2wMuitxqx9cUHR1PY0a4=",
+        "tencentcloud-sdk-python-ckafka-3.0.794.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.794-py2.py3-none-any.whl": [
+          "4uY7NT1qi6qXmGySpVO956P5NUY7/2Dk024DgeNk9Xc=",
           "py2.py3"
         ]
       }
