@@ -6743,6 +6743,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.95": {
+      "sdist": [
+        "haf39YAO8AEKr8qn4RAHx19V97eDUKwOIABFTRXnlT0=",
+        "alibabacloud_dingtalk-1.4.95.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_dingtalk-1.4.95-py3-none-any.whl": [
+          "6BE9eN7zFZs6zyS1hzpGMD4M9qqD9u3WdqMtT3WxkTw=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-ververica20220718-py2": {
@@ -11248,6 +11260,18 @@
         ]
       }
     },
+    "2.55.0a0": {
+      "sdist": [
+        "ee/79pp2LSxc18P3hTIUdahu7yjZ+nyhaGpF97u28nI=",
+        "aws-cdk.aws-apigatewayv2-alpha-2.55.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_alpha-2.55.0a0-py3-none-any.whl": [
+          "3eBU+ez8WzyRX6494ezqzEt42NVWCnz4oZcTeMUrtK4=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "bjK8z9JHA9oJa7tP2FjSRziPM5wjT7FAdGNih6RYAf0=",
@@ -12194,6 +12218,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisfirehose_destinations-1.182.0-py3-none-any.whl": [
           "dCSB5i26sKnBWKcwJOqfOstujB38ULmlbuI4WxqKUHY=",
+          "py3"
+        ]
+      }
+    },
+    "1.183.0": {
+      "sdist": [
+        "LUUdb+gc3T7WzpSyIbFU54RQXyQRZSp5HkfBzWd6eHM=",
+        "aws-cdk.aws-kinesisfirehose-destinations-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose_destinations-1.183.0-py3-none-any.whl": [
+          "laSznzQW1s4jB08Pdq7XIvZBVgpC5aUU6Czv+uTuUJU=",
           "py3"
         ]
       }
@@ -19454,6 +19490,18 @@
       "wheels": {
         "cdk_fck_nat-1.0.73-py3-none-any.whl": [
           "gnO3XXVx8/KuPZYmavUEwem1pn7VQa7tnjlty1ZRZGM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.74": {
+      "sdist": [
+        "rgky/knHLNcZyvC4ggebEoy8PQNB5iCOslf1gM/uiqE=",
+        "cdk-fck-nat-1.0.74.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fck_nat-1.0.74-py3-none-any.whl": [
+          "5lCTIzy6LajZhJknhUDpP21rIIsILBYED3KHpVt6zQk=",
           "py3"
         ]
       }
@@ -27244,6 +27292,18 @@
       "wheels": {
         "cdk_nag-2.21.31-py3-none-any.whl": [
           "TDZo19KniSU+pO7Y1RhVj3v0O4NalJCTD8yj8a+7kB0=",
+          "py3"
+        ]
+      }
+    },
+    "2.21.32": {
+      "sdist": [
+        "MppbrjchLqArB8H6d8rap8KYGkAvUInSMv6Awlpnq48=",
+        "cdk-nag-2.21.32.tar.gz"
+      ],
+      "wheels": {
+        "cdk_nag-2.21.32-py3-none-any.whl": [
+          "zgzQ9oOQ+aa8lTUyU0L1wckuPZZ17bkmGVsSykAtMAs=",
           "py3"
         ]
       }
@@ -65692,6 +65752,18 @@
         ]
       }
     },
+    "1.10.0": {
+      "sdist": [
+        "93ijizxgVFxXzj8IzxrgzzXTQKl7UH3egvL41HVk5is=",
+        "google-cloud-websecurityscanner-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_websecurityscanner-1.10.0-py2.py3-none-any.whl": [
+          "GarZzmkNssjENpPPaU6tyIK2A02jOHBggV2j6pGcW8A=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "Lg6yoqOu88lZHT/H9FPdgVgSDm7oLUaPm7T1UsXB8Fo=",
@@ -87464,6 +87536,30 @@
       "wheels": {
         "metaphor_connectors-0.11.97-py3-none-any.whl": [
           "Pf425FBPvwYEC6zEpg2EWAlKS9CnO0IYOqsmj4ZOjpQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.98": {
+      "sdist": [
+        "gLf1TcLnPLGtj4653gp/7Vy6DnR8N7lTKJecW4+sHrI=",
+        "metaphor_connectors-0.11.98.tar.gz"
+      ],
+      "wheels": {
+        "metaphor_connectors-0.11.98-py3-none-any.whl": [
+          "LktVB3lhuC4ixUrTmhFak/KewDEfkNsQ94BC0qe7dV0=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.99": {
+      "sdist": [
+        "bEwK9f1GaME/XPmR5Hrap46N2q7OCs/YwiaKgtZS15g=",
+        "metaphor_connectors-0.11.99.tar.gz"
+      ],
+      "wheels": {
+        "metaphor_connectors-0.11.99-py3-none-any.whl": [
+          "5c/P7USHiSK/Pe3GjVlqN0MFSGjVwn28A5vvjibnuIA=",
           "py3"
         ]
       }
@@ -145370,6 +145466,12 @@
       "sdist": [
         "mpfCXoWQraMXZmINOna1aAd69S6Gncor8X+jmxC/fbo=",
         "surfa-0.3.5.tar.gz"
+      ]
+    },
+    "0.3.6": {
+      "sdist": [
+        "l39pHAir0UxImONrbfdzzk2aA+WglMqsiocQ+dl+gjc=",
+        "surfa-0.3.6.tar.gz"
       ]
     }
   },

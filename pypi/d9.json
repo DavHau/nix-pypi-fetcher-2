@@ -6356,6 +6356,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "2m9SFrEqWXSCxRCcHTIWq/nXbreJnEAzcaoFvQiOuS8=",
+        "aws-cdk.aws-codestarconnections-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarconnections-1.183.0-py3-none-any.whl": [
+          "v8a8Ve6kfWSMsBx4RR4bb/Dw8YgXl78+1Mc1a+/2nsc=",
+          "py3"
+        ]
+      }
+    },
     "1.28.0": {
       "sdist": [
         "TLEtmU16JgCCPZa9Rz9vWlb6s5O6deR/2+BWqGEc9wY=",
@@ -7410,6 +7422,18 @@
       "wheels": {
         "aws_cdk.aws_location_alpha-2.54.0a0-py3-none-any.whl": [
           "DI2gBV5uzktoz8vsbuPy5z3mO4T18MMB5+WAC59nf4A=",
+          "py3"
+        ]
+      }
+    },
+    "2.55.0a0": {
+      "sdist": [
+        "TDFmF9tr4zEDOWDz2S6FnhA9OFRgGemg17rjjFcfsBc=",
+        "aws-cdk.aws-location-alpha-2.55.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.55.0a0-py3-none-any.whl": [
+          "G1v4iPjkuzYNTEg0E/Jh/pNZQwoDNk4B2AcoXeOJ2DE=",
           "py3"
         ]
       }
@@ -9608,6 +9632,14 @@
       "wheels": {
         "bitia-0.2.0.dev1671014046-py3-none-any.whl": [
           "JuvAE4wq+El11san6Hd3Ooy9X7BCnog/wpl4TZLfUGk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0.dev1671078580": {
+      "wheels": {
+        "bitia-0.2.0.dev1671078580-py3-none-any.whl": [
+          "+LFnCSDtdxrjKLXR+A3V9/misu32LVwrw0cPVzZzhQA=",
           "py3"
         ]
       }
@@ -34335,6 +34367,26 @@
           "cp39"
         ]
       }
+    },
+    "0.3.2": {
+      "wheels": {
+        "fbgemm_gpu_cpu-0.3.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "yePK0lOqYBNiBXSOPrsCUNZRFhGz+KHCAG0XJFtA8Vc=",
+          "cp310"
+        ],
+        "fbgemm_gpu_cpu-0.3.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1t278HQO5c9jxB4dy8lDE5ptjCqu8GUGOMiD5kfjQoo=",
+          "cp37"
+        ],
+        "fbgemm_gpu_cpu-0.3.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "aA+aDeCvT2IwO7SWTHzc7GMevODB/h1JFIZCI6Was3U=",
+          "cp38"
+        ],
+        "fbgemm_gpu_cpu-0.3.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "8qMJursPjtCy0z2A/aL9J4TTzhx2zthLkNnrZ4IkIqM=",
+          "cp39"
+        ]
+      }
     }
   },
   "fcmaes": {
@@ -44168,6 +44220,18 @@
       "wheels": {
         "inels_mqtt_new-0.0.8-py3-none-any.whl": [
           "lj145z3sZRXI1whdiVKIoNw3RqTw6GzQ2gdl23W3Azk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "0xtArsBFPon1q+zmNq7aTe6YM1rk10KTjjf62yd9dzI=",
+        "inels-mqtt-new-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.0.9-py3-none-any.whl": [
+          "AmCX4oTXX6v4qC855x7LweOWMY6abY7/70C7/NyCmYE=",
           "py3"
         ]
       }

@@ -11024,6 +11024,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "dKAe6poKKT15YZOEEBPM3KQ2jdLnZRbOjz67hQkor3k=",
+        "aws-cdk.aws-kinesis-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.183.0-py3-none-any.whl": [
+          "C/epwn7V3u2em1LLiLllguKxwagZ/gbZw6o+pJJnu68=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "23skCIWQ+VAJ889AsSIB8lUrKLVFKY2ISxgKoyFqX1A=",
@@ -23750,6 +23762,18 @@
       "wheels": {
         "cdk_iam_floyd-0.462.0-py3-none-any.whl": [
           "zFx5x+sTVQfY+gNzB3VWekOkaxafOljqrZk05DrMaQk=",
+          "py3"
+        ]
+      }
+    },
+    "0.463.0": {
+      "sdist": [
+        "8EaSxnrrkIJCrY39sWkXQEBsNw4lI6R0rs+zM40vLdY=",
+        "cdk-iam-floyd-0.463.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_iam_floyd-0.463.0-py3-none-any.whl": [
+          "695BjX5st0p23+R6xu29VtPmn5hadDd1s+i4/7bT95A=",
           "py3"
         ]
       }
@@ -48399,6 +48423,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "failure-directions": {
+    "0.1.3": {
+      "sdist": [
+        "QdW4bThCBQxPfCA0e3md5ISGaclViOCanmaFg5DRS+8=",
+        "failure_directions-0.1.3.tar.gz"
+      ]
     }
   },
   "falcon-middlewares": {
@@ -91027,6 +91059,20 @@
       }
     }
   },
+  "pedumper": {
+    "1.0.0": {
+      "sdist": [
+        "5EeMy7QmZ7w5RlkIIxfXQjAj7sMdfTuOw0LNCVm9amc=",
+        "pedumper-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pedumper-1.0.0-py3-none-any.whl": [
+          "dbLhG89feitZQDFG1cESHOuavpXUr3zLqCX7ZzGOFOQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "peeve": {
     "0.1.0": {
       "sdist": [
@@ -95636,6 +95682,18 @@
       "wheels": {
         "port_forward_manager-2.0.1-py3-none-any.whl": [
           "WuGCmBQ97tsxLHasT9ERYMcMCbQ3GHk+rkK0kdoD54s=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "n1LL1xaN0jCghuRyzlwsXsauUX1u2a60oz+z0KExX+A=",
+        "port-forward-manager-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "port_forward_manager-3.0.1-py3-none-any.whl": [
+          "TNJPqVb4RKDWO7UwNw4K1RPlJoOVJztO4uPJuPv12IA=",
           "py3"
         ]
       }

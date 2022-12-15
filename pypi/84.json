@@ -18668,6 +18668,18 @@
         ]
       }
     },
+    "2.0.184": {
+      "sdist": [
+        "KO437b2qWROB5CcyzgsKrm0wbLSLerqanp95Kt+DKko=",
+        "cdk-tweet-queue-2.0.184.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.184-py3-none-any.whl": [
+          "APxuhaBc/plOVwGD4kJSvvDSaa6uX3Kx37R/StHWoyU=",
+          "py3"
+        ]
+      }
+    },
     "2.0.19": {
       "sdist": [
         "IC7H+FOT0/gR6gi4Grr3UoG3Xs2ouJEUOyltt4p5G3s=",
@@ -48310,6 +48322,34 @@
         ],
         "graphscope_client-0.19.0a20221213-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "03rm2s6STPXa1vpbKRfMd9i+U1JCz19BKl+nFDhr5kg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221214": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221214-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "cWp45FpemwI8XAkh8VhAHQBjiTPUSwCHwOyvN6SJ9vM=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221214-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "x4dd8VL4dnTQAchTNFa+NXu0+o1wp9CaCib/SyrjQ6w=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221214-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5C/3Nv9vcrqAwFRvO6SZRjb7S8gUk0BawN1NoNPt5Ic=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221214-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Za/PeulqmxChgQdr7/7QrFyZgTbwyB7nR2GteKk5llk=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221214-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "dHJezGxEvMWndD8P5pNl0gyRz69NPjnNqVyM8B43Lcw=",
+          "cp39"
+        ],
+        "graphscope_client-0.19.0a20221214-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ydXoGQxtJf5pLsuv0COfA7450A2wIpXkpGGAE9mrb1g=",
           "cp39"
         ]
       }
@@ -101520,6 +101560,18 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "CNBt+t6OmkkjVNe/EpypDIJf0dwg3JnX+XfYSlmlkC0=",
+        "PyForks-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "PyForks-0.0.15-py3-none-any.whl": [
+          "SpaMNwA4KM/+3KXEBusli/X1KzMLXMyocXD8Dt9pT2s=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "fjRH23QfaM6ugeqPMlvR74td8cT4iBPqc86glMMkSbc=",
@@ -133370,6 +133422,14 @@
         ]
       }
     },
+    "2.12.0a20221214": {
+      "wheels": {
+        "tb_nightly-2.12.0a20221214-py3-none-any.whl": [
+          "qBQAifOoRU3p00GEc1nHvyA3b5kcHs6VqCN+lMh2y2I=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20191207": {
       "wheels": {
         "tb_nightly-2.2.0a20191207-py2-none-any.whl": [
@@ -142557,6 +142617,22 @@
           "py39"
         ]
       }
+    },
+    "0.3.2": {
+      "wheels": {
+        "torchrec-0.3.2-py37-none-any.whl": [
+          "VluarALqOBm9yPG3eZ2EEqsxV9SeC0pOxIA3tVFWA0M=",
+          "py37"
+        ],
+        "torchrec-0.3.2-py38-none-any.whl": [
+          "YrrGpPFPrFjFHjZZ4JwpWn5di4aB8iL0C66R/H85aqQ=",
+          "py38"
+        ],
+        "torchrec-0.3.2-py39-none-any.whl": [
+          "NR++Twu/FMkAORA1p/0wrUlazUIGu3BtKeRiq9bfTfY=",
+          "py39"
+        ]
+      }
     }
   },
   "torchsolver": {
@@ -148550,6 +148626,18 @@
       "wheels": {
         "vitessce-1.0.10-py2.py3-none-any.whl": [
           "q6aovjtc974WKrVvPavsjgUxvlNrGcYiGAsgv8yapkQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.11": {
+      "sdist": [
+        "4kZg54OIAlTO7MbcZiSNEUPoe2fKlLjO2Om98w4ah8Q=",
+        "vitessce-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "vitessce-1.0.11-py2.py3-none-any.whl": [
+          "IOhZxwpSnkOZKIh4b/tl8WxQxvKluZ2BLgwGUyw2iXQ=",
           "py2.py3"
         ]
       }

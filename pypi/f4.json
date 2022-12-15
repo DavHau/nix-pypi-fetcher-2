@@ -7492,6 +7492,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "6e47JcHZYDSIWMdpEMlma9y9B1nsj5nXqNdbHSm6O3M=",
+        "aws-cdk.aws-neptune-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_neptune-1.183.0-py3-none-any.whl": [
+          "Cs49CPpAnYnICEV6aMpn3FkvNRc+DtV5YmXlo8L0z9c=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "CL2E/Hi+krzlcabV3GObDxgf1g8PNwrSpneIv9J7s+A=",
@@ -13438,6 +13450,18 @@
       "wheels": {
         "bomf-0.0.5-py3-none-any.whl": [
           "1UMZgUJziMVVCO75d/fqS2eXpFDCf3ow1/EBDLxN+sc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "ypV+tnEL72oe0rIiN0gytjRwZjeEgN+j3hWFN0H5REE=",
+        "bomf-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "bomf-0.0.6-py3-none-any.whl": [
+          "KL8P2tMwrK8yPOg0FAjXS0xDWiA+q9VCE+fIFXOFu9o=",
           "py3"
         ]
       }
@@ -21818,6 +21842,18 @@
       "sdist": [
         "s+VZMGQ4OUkM5QFn81Du6sbO15v2/CnxPIiGsxEvokA=",
         "cvnets-0.0.5.dev1.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "ZDu5OiYV0E4jhRv7w0qdPoDhHedaINxuiMyr6E7CICI=",
+        "cvnets-0.0.7.tar.gz"
+      ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "cyHvXE2CcY2OdQw9QSFR+Mb5ofC6CYH9kulshw7yXXg=",
+        "cvnets-0.0.8.tar.gz"
       ]
     }
   },
@@ -64945,6 +64981,20 @@
       }
     }
   },
+  "measure-incremental-development": {
+    "1.0.0": {
+      "sdist": [
+        "G5MVCEBo7acBPW5u+7T3IR29Z/XI5XACEwfRb8FafGo=",
+        "measure_incremental_development-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "measure_incremental_development-1.0.0-py3-none-any.whl": [
+          "uF/o0jyziBA61NxQtw61ha5yvY8aj+5zaAAVcMzki4s=",
+          "py3"
+        ]
+      }
+    }
+  },
   "media-pruner": {
     "0.0.1.dev1": {
       "sdist": [
@@ -71170,6 +71220,42 @@
       "wheels": {
         "mrftools-0.1.4-py3-none-any.whl": [
           "18zqvkZSDVr1IXEGVXBoptVu1tQIXRqr0YiDJIcqWVo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.40": {
+      "sdist": [
+        "nGhpZ1mEdyCBA9ODnfFzM8X6lwPYlGDBpQ0jl9KAiEs=",
+        "mrftools-0.1.40.tar.gz"
+      ],
+      "wheels": {
+        "mrftools-0.1.40-py3-none-any.whl": [
+          "O+ZCnyVpOHOtXW4jkiQ6FszThsX3YYDGVDrO/6fSo9g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.42": {
+      "sdist": [
+        "ZE5GkBhqQQutyBYzlLCzfqr9LA2ZgKzeLYCS2mhfx9k=",
+        "mrftools-0.1.42.tar.gz"
+      ],
+      "wheels": {
+        "mrftools-0.1.42-py3-none-any.whl": [
+          "YYErCoQTq7arXuQotKm1nBCqCbSthX9aBTOWRoV8k54=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.43": {
+      "sdist": [
+        "gqXZwH+bx+M4t8t9JWRveLbQCbgyt/FjdrFDQ+iz89A=",
+        "mrftools-0.1.43.tar.gz"
+      ],
+      "wheels": {
+        "mrftools-0.1.43-py3-none-any.whl": [
+          "0fAWHyKx54jIkDx8lOYaDlcqVhawKPuuO9Td7w5jP6U=",
           "py3"
         ]
       }
@@ -84276,6 +84362,18 @@
       "wheels": {
         "mypy_boto3_sagemaker_metrics-1.26.28-py3-none-any.whl": [
           "GLDpXl3GUqQaXh05grhDcjwxWZaCNxUROG2a7ZYya60=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.30": {
+      "sdist": [
+        "dYAnGBh4qbYitgBdTr9rANniE4RITLplpPBjmZhsQuA=",
+        "mypy-boto3-sagemaker-metrics-1.26.30.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker_metrics-1.26.30-py3-none-any.whl": [
+          "uvd17y7hWY066nA3eGh0/HYOcF7ILTaYhJUMkgrlL+8=",
           "py3"
         ]
       }
@@ -136632,6 +136730,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dnspod-3.0.794-py2.py3-none-any.whl": [
           "wVLkWLyjvrlkgV1yGLfy7oCXXbQPF8M9RTMKmngrfUU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.795": {
+      "sdist": [
+        "vrgb65X5O9OlRXFRD0jFQ8xSo6P5PS8QtUFKD92BkAE=",
+        "tencentcloud-sdk-python-dnspod-3.0.795.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dnspod-3.0.795-py2.py3-none-any.whl": [
+          "nXmuvsJ3GE9HCo6x9NXRJkLVv93M9eiTu+1RKJ/btyw=",
           "py2.py3"
         ]
       }

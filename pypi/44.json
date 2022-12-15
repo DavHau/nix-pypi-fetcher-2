@@ -8338,6 +8338,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "KC0elI2FdhRmGEi59kVDo3K2mrUgcVvtzjqmYyVul7M=",
+        "aws-cdk.aws-ce-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.183.0-py3-none-any.whl": [
+          "SJC4eeom33cg6D6mAlfP0eDsKv9X1xMYUNrtEDWDi+E=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10184,6 +10196,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.54.0a0-py3-none-any.whl": [
           "2DRHApO7WRWIL6ZM5KAzrUK9yEbSFxxhcEzUBzETWgQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.55.0a0": {
+      "sdist": [
+        "rXpt1eD8H2SzdooAjcyU82ZBxkN5Gn80gDpruHm+p0I=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.55.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.55.0a0-py3-none-any.whl": [
+          "kn4HB2l9ginvUZIFgFWXj8MGW1qQfebxq5RTQCl1zMQ=",
           "py3"
         ]
       }
@@ -17804,6 +17828,18 @@
       "wheels": {
         "canvas_workflow_kit-0.5.16-py3-none-any.whl": [
           "dQJ724/ezXorbYpDemLTqdLrVkFhrD5YESXCZUCFGnQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.17": {
+      "sdist": [
+        "rap3TxDlphQ5ZQeyrFxECxkDMNBHjfGQHb9tIvYfhE0=",
+        "canvas_workflow_kit-0.5.17.tar.gz"
+      ],
+      "wheels": {
+        "canvas_workflow_kit-0.5.17-py3-none-any.whl": [
+          "JYIF+aJHzIiKJEUtBdtd3hPGVjtwOv7hnQD9kTiKdSk=",
           "py3"
         ]
       }
@@ -46088,6 +46124,30 @@
       "wheels": {
         "elyra_r_editor_extension-3.13.0rc0-py3-none-any.whl": [
           "glvtrCE372YW1jAPf1k+eHulRImN+CeWRkvaSbM7rb4=",
+          "py3"
+        ]
+      }
+    },
+    "3.14.0": {
+      "sdist": [
+        "KCh3/DeLLrTTkrkaUR0UzuoUdAPB5f0ejJdxHEcGy4A=",
+        "elyra-r-editor-extension-3.14.0.tar.gz"
+      ],
+      "wheels": {
+        "elyra_r_editor_extension-3.14.0-py3-none-any.whl": [
+          "nZk2OzRZ3kVwnRFkTwOvQ4a/tN2bl6gQDID7+oyRacc=",
+          "py3"
+        ]
+      }
+    },
+    "3.14.1": {
+      "sdist": [
+        "9+amSWaVlpv2CoKtBXNd/WpfAQAGpTP97p5Z9HHh9cY=",
+        "elyra-r-editor-extension-3.14.1.tar.gz"
+      ],
+      "wheels": {
+        "elyra_r_editor_extension-3.14.1-py3-none-any.whl": [
+          "eUOTbpqkr/AKfaAfCuzehIqKcubyt9J0G+UVD8ciAjE=",
           "py3"
         ]
       }
@@ -132207,6 +132267,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.795": {
+      "sdist": [
+        "9WWe+nF8f/7bFIocWOIgbY2bIBCHep+XNJ0uWUapH7s=",
+        "tencentcloud-sdk-python-mna-3.0.795.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.795-py2.py3-none-any.whl": [
+          "tdlprUqrLIbnnZAczvqYagv0eZs1UANzlDvw/2mvKLk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -134773,6 +134845,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "tpy-cdcn": {
+    "1.0.0": {
+      "sdist": [
+        "/xEA3pZrAmFdPHBc56Xo822Q070YcW8AigDpAZpPN/U=",
+        "tpy_CDCN-1.0.0.tar.gz"
+      ]
     }
   },
   "tpython": {

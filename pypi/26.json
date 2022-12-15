@@ -7679,6 +7679,18 @@
           "py3"
         ]
       }
+    },
+    "2.55.0a0": {
+      "sdist": [
+        "qGcMgWCrwpicU3mdo1kdN2sKoXgan04BC91QHAZOjTA=",
+        "aws-cdk.aws-sagemaker-alpha-2.55.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.55.0a0-py3-none-any.whl": [
+          "juTiB0SFRyFfhH6rBpDqGnVFoEW1xb+B5pU0VcmvWZc=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -9202,6 +9214,18 @@
       "wheels": {
         "aws_cdk.aws_workspaces-1.182.0-py3-none-any.whl": [
           "2CFN7EJ/xZbR0LhuiR28eLXZ/FqAKIrNgFQFjLAeyt8=",
+          "py3"
+        ]
+      }
+    },
+    "1.183.0": {
+      "sdist": [
+        "CSdZRs9LEVjouJJkC7eWOVdku3Ah2KhNd7He+rwYhvM=",
+        "aws-cdk.aws-workspaces-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.183.0-py3-none-any.whl": [
+          "40UooX/TSeIKs7OPCgYZQBP3qY3pAnZn3f1SFIoVfYA=",
           "py3"
         ]
       }
@@ -18628,6 +18652,14 @@
       "wheels": {
         "c7n_terraform-0.1.10-py3-none-any.whl": [
           "+uhN1H0/Gdduynvoy2GvDqUizwibmqdXoSSNMPC0S3s=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "wheels": {
+        "c7n_terraform-0.1.11-py3-none-any.whl": [
+          "MB3ixUbIPUYhJR4Mu9n/riDWSAKObuvBw5Rx5tjcbdA=",
           "py3"
         ]
       }
@@ -99580,6 +99612,18 @@
         ]
       }
     },
+    "2.1.119": {
+      "sdist": [
+        "QughY8G0Z9/371tlG0VMUqeKW/Nndv9mMbR1AIBlmTA=",
+        "pex-2.1.119.tar.gz"
+      ],
+      "wheels": {
+        "pex-2.1.119-py2.py3-none-any.whl": [
+          "sNvfKxxgixWeULGfoDt0ZZ0eyrWTM1u6Dy7CrBGE7Xs=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.1.12": {
       "sdist": [
         "uEAUq1dvKBmDCIGykoVLmCJfYGPo2TQQCGJh4taT1kQ=",
@@ -136278,6 +136322,18 @@
         ]
       }
     },
+    "0.0.25": {
+      "sdist": [
+        "I9hRcrBzKX0vs+YPCH4hRzZFRryUM0r/p0RF0TAF/VI=",
+        "tickerdax-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "tickerdax-0.0.25-py3-none-any.whl": [
+          "CtCy177Nb0X/P7m5zMtDY2nfNTagfMr1I0sg6AcY1i4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "0CtHhR3dxuGIkHKrUXBhhJv7w/6JuJBgItQ7ztgiZ/o=",
@@ -138976,6 +139032,18 @@
       "wheels": {
         "types_jmespath-1.0.2.1-py3-none-any.whl": [
           "X1Dwqre/OZCCvpUuijdCkNnzNo2yp3+tS5kQOjxvgak=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2.2": {
+      "sdist": [
+        "hapej4GYigN+gYIQmBys0g5B6hREm7v3H01B/BNuCGA=",
+        "types-jmespath-1.0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "types_jmespath-1.0.2.2-py3-none-any.whl": [
+          "nfa76bF8+OYu3bT5qgWowDwN77m6fFu8I00gokRuVEE=",
           "py3"
         ]
       }
@@ -144322,6 +144390,12 @@
       "sdist": [
         "YxPkP+neHI0vITzDSrRVzoHyyR/i0GDft34H1FsKt5E=",
         "wuml-0.142.tar.gz"
+      ]
+    },
+    "0.143": {
+      "sdist": [
+        "jQVqDGqmNdGydX9H8WxTTlSRzQMaAkN03oapQoNoQrc=",
+        "wuml-0.143.tar.gz"
       ]
     },
     "0.15": {

@@ -7773,6 +7773,18 @@
           "py3"
         ]
       }
+    },
+    "2.55.0a0": {
+      "sdist": [
+        "UOh4jFmSSiYrSGCPE8G0kjaPXbSDyUoQq9F0wvC/178=",
+        "aws-cdk.aws-s3objectlambda-alpha-2.55.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3objectlambda_alpha-2.55.0a0-py3-none-any.whl": [
+          "VhnKf9b1G0cWHPCmjV2oQHuRvC9XsNRdBIYpYXzIkVQ=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdkaws-sns-subscriptions": {
@@ -71445,6 +71457,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.1rc1": {
+      "sdist": [
+        "yiiPy0B1J+TQAzNWOfkfhF2Tdd54lHAmd/VHXZ1LJZc=",
+        "mlserver-mlflow-1.2.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "mlserver_mlflow-1.2.1rc1-py3-none-any.whl": [
+          "1Yh4vLr/s4fmu3ScVqMqdQ6ffKVWGNMSo9NG8D6KBLw=",
+          "py3"
+        ]
+      }
     }
   },
   "mltoolbox": {
@@ -73746,6 +73770,30 @@
       "wheels": {
         "mtg_ssm-2.2.3-py3-none-any.whl": [
           "R+2V8adV0X/+gZlo5iV+HOiU3HkzoTqPQKXTnnHAYlQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.4": {
+      "sdist": [
+        "RRxm+5lI19PMNb5do0Qui5+RJ6u0+UDwA7/5hodOPhw=",
+        "mtg_ssm-2.2.4.tar.gz"
+      ],
+      "wheels": {
+        "mtg_ssm-2.2.4-py3-none-any.whl": [
+          "RT4j7XD1FwE7GcBfv5eLj7b6w0U13Bl4duaynqDdFv0=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.5": {
+      "sdist": [
+        "odSyp8Jqg4weONOPgewA67SW+4HtC3ER8rrJ7mqiE7A=",
+        "mtg_ssm-2.2.5.tar.gz"
+      ],
+      "wheels": {
+        "mtg_ssm-2.2.5-py3-none-any.whl": [
+          "HPVCU5Ko4Tz+/N4c+pnFIVI21+Dh0Bo7pHThPFlw9DE=",
           "py3"
         ]
       }
@@ -105922,6 +105970,18 @@
       "wheels": {
         "pyfsdb-2.1.1-py3-none-any.whl": [
           "sUm1nFQjAH4KzmB/g3W4H40ceSjBegVnbt6CGj/G4og=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2": {
+      "sdist": [
+        "wAXydLSe+QYncQ+gs2atv1IZluczSckrUY8iZYbCKF8=",
+        "pyfsdb-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pyfsdb-2.1.2-py3-none-any.whl": [
+          "PblUiqX1TuBHTCvN+r+NizGWK2BlrG6oog8t2NPhveY=",
           "py3"
         ]
       }
@@ -139045,6 +139105,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.795": {
+      "sdist": [
+        "MFa0fMa9bAoUKsBEv6lV2YyiAfCdpBDW7wNDF+ndLZw=",
+        "tencentcloud-sdk-python-tic-3.0.795.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tic-3.0.795-py2.py3-none-any.whl": [
+          "7g+Ge/PAEh+BW0Wm/G8HDXJ1EMueg/chQfxmp2JHN4E=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensap": {
@@ -140804,6 +140876,42 @@
       "wheels": {
         "tidyML-0.5.9-py3-none-any.whl": [
           "niwUvRMzQC3ebrdH2u66vBipRikPbtWpJUFsDpclZUw=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "3HykaL4OyTXgSLeNRzaL3hssqolFCiqzmlAQ5Je2DOg=",
+        "tidyML-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "tidyML-0.6.0-py3-none-any.whl": [
+          "h9l4PGgNluTvu4jY2qykOPdvWgbMQ4/VQ5T32vrnGfU=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "Y3ZRQyhyHpOJgV3aQu8ut/pQYjfTn2uNC/IUd/152EI=",
+        "tidyML-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "tidyML-0.6.1-py3-none-any.whl": [
+          "zOz2SR8KDUzVlJ0XMK+pAItHGEHFd8Ch0pyYLB9M8/0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.2": {
+      "sdist": [
+        "549XpM7BaTN8kLqGQS3F0bHjkuANIfCxd9d0llx0Nss=",
+        "tidyML-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "tidyML-0.6.2-py3-none-any.whl": [
+          "gcl5cNgmLVX85v1krtwm5HBxufLc/fIp6vEHFRaKx3w=",
           "py3"
         ]
       }
@@ -144919,6 +145027,20 @@
         "TracDuplicateTicketSearch-1.0.5-py2-none-any.whl": [
           "bEvKk5EHKUb7YOCMFzryNo6t2b0Z0M2W20SMpeVmypQ=",
           "py2"
+        ]
+      }
+    }
+  },
+  "trade-log": {
+    "1.3.0": {
+      "sdist": [
+        "pWht+mT8GcH6rOjJ69b/FqmbWU8VAf2VwetPsLoF3MY=",
+        "trade-log-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "trade_log-1.3.0-py3-none-any.whl": [
+          "180TYiNg/mm4fy9K2IAu7eCxSwh71xULv5nMhFzJ7Bs=",
+          "py3"
         ]
       }
     }

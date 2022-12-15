@@ -10074,6 +10074,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "QDsV7KhIPzHlOgcWk4GB0K6yr43QQGxR0EzjBlPK1Fw=",
+        "aws-cdk.aws-greengrassv2-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrassv2-1.183.0-py3-none-any.whl": [
+          "TRBQW6tJTOPGx6rvLjGC2A/FA7MQV42MwbyV9EdfVm0=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "smfhhigCImRyGZoUoKdt5YoAdjFavkIENPc/pZTxEak=",
@@ -10396,6 +10408,18 @@
       "wheels": {
         "aws_cdk.aws_identitystore-1.182.0-py3-none-any.whl": [
           "6uMnwv2nuhJoQuCFNZ43gEAe9vQzaYPmHY+5oiVj+eA=",
+          "py3"
+        ]
+      }
+    },
+    "1.183.0": {
+      "sdist": [
+        "Lw/7JKNfhFKaiEMpGmN9u8X/jOudU6DbWbIESXThIYM=",
+        "aws-cdk.aws-identitystore-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_identitystore-1.183.0-py3-none-any.whl": [
+          "9vJn6pmRVoohmln+Elf+G2fcS6IxnmfvPU2u+EsZLDw=",
           "py3"
         ]
       }
@@ -38829,6 +38853,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.4": {
+      "sdist": [
+        "/npn6lN+/0P5wFNVLsjMrCLfuWUj7G0h/qYPXH1U8S4=",
+        "drf_pipeline_views-0.8.4.tar.gz"
+      ],
+      "wheels": {
+        "drf_pipeline_views-0.8.4-py3-none-any.whl": [
+          "YH1Yd8JsGXHKaHQCP2Yv7Phao3nWNNX9wCNF0j3CXco=",
+          "py3"
+        ]
+      }
     }
   },
   "drf-useful-decorators": {
@@ -52482,6 +52518,18 @@
       "wheels": {
         "google_cloud_memcache-1.4.4-py2.py3-none-any.whl": [
           "rf91VtG80WodbZU6X+0Ii7NT3hVomxd22xPvHw6SQzg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "XCRxeh2/lYxhEN5Lam/ToQM9IaheQ8czr5WDs75aXbA=",
+        "google-cloud-memcache-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_memcache-1.5.0-py2.py3-none-any.whl": [
+          "DnPOb8asa2oi9g+APCgGUI0+V//zAzdrGpeEHOYZ07w=",
           "py2.py3"
         ]
       }
@@ -75816,6 +75864,14 @@
       "wheels": {
         "odoo_addons_oca_edi-15.0.20221201.0-py3-none-any.whl": [
           "AYzbf4A8YU7k48ArFAh41JijI1G5pr+qWOWRJ+txbmY=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.20221214.0": {
+      "wheels": {
+        "odoo_addons_oca_edi-15.0.20221214.0-py3-none-any.whl": [
+          "x9Vg7PcuA1Wo2cmPy+EEvGl6NsXwV25t0CYt51N/hcM=",
           "py3"
         ]
       }
@@ -133864,6 +133920,26 @@
         ],
         "vosk-0.3.44-py3-none-win_amd64.whl": [
           "RbGxE2pcumBmxR2p+FLcp6hVdE20q3KyN1DGgdNvMgI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.45": {
+      "wheels": {
+        "vosk-0.3.45-py3-none-linux_armv7l.whl": [
+          "QiH4Mofu/lq75U/G8dpXdOnj/8u9yhcFpGazQQk7By4=",
+          "py3"
+        ],
+        "vosk-0.3.45-py3-none-manylinux2014_aarch64.whl": [
+          "VO+0fdiQ5UTp4g8DFkE6zsf4aA0E7AlcYUCrTnAmJwQ=",
+          "py3"
+        ],
+        "vosk-0.3.45-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "JeAlCTxDmdcnj1Q1aO2MxUYKw6S/SMI2c6zh4l0mYZ8=",
+          "py3"
+        ],
+        "vosk-0.3.45-py3-none-win_amd64.whl": [
+          "aZTdxoVWx+VzDDtva60TMg41GbE84+0qolqGck58EKw=",
           "py3"
         ]
       }

@@ -6169,6 +6169,18 @@
           "py3"
         ]
       }
+    },
+    "1.183.0": {
+      "sdist": [
+        "iEIDrk5j9speW9NQdW96q2wZG7+kzM1Jh69D5UV12os=",
+        "aws-cdk.aws-nimblestudio-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_nimblestudio-1.183.0-py3-none-any.whl": [
+          "4emlnxgleXi3l3B7ckQ6w9c/QeToRkRSiAnWLuNtcak=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoveryreadiness": {
@@ -7056,6 +7068,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoveryreadiness-1.182.0-py3-none-any.whl": [
           "6J5YVS0wKeq+lQ3EJohFcj+ytn8L18jSXOOITZLMSxo=",
+          "py3"
+        ]
+      }
+    },
+    "1.183.0": {
+      "sdist": [
+        "1N60HjSyr6GRJ4jtT/ZI74Fw5fhvVbpeS7B7LerfQCw=",
+        "aws-cdk.aws-route53recoveryreadiness-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoveryreadiness-1.183.0-py3-none-any.whl": [
+          "ecw8Z70iGmDe5paorOWZZYyWSdlZuR0PJHpJSbH1cXg=",
           "py3"
         ]
       }
@@ -57950,6 +57974,18 @@
       "wheels": {
         "hhoppe_tools-1.1.0-py3-none-any.whl": [
           "6TKWLlV+huOdhe0CXLP3L7Gb9+GMQ1dZxW3Y4jmjOLs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "NoZ4UpJ/jEpnB4bfKHd+yKkTH6kWPHGgVkVbKsSCUr4=",
+        "hhoppe-tools-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "hhoppe_tools-1.1.1-py3-none-any.whl": [
+          "6OBXZRYWeR+XH/WDdt1nABwZug7gak5jbE+zT50nIAk=",
           "py3"
         ]
       }
@@ -114400,6 +114436,18 @@
         ]
       }
     },
+    "0.0.191": {
+      "sdist": [
+        "/78b/8U9o1m0hiY98WxBGHCAUKU/59ZJx3WKaVUk7eM=",
+        "renovosolutions.aws-cdk-renovo-microapi-0.0.191.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_renovo_microapi-0.0.191-py3-none-any.whl": [
+          "mk95AMmAWehrqVs7Mb/WCoaKzSSl9GXrJr9d3H9N+HI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "v/z20/o2sf/ilF1FsbOIzdnMyo0rTjkmKs7xtvEpWLs=",
@@ -134484,6 +134532,118 @@
         ]
       }
     },
+    "0.22.2": {
+      "sdist": [
+        "CLmGvxOgW8LPfnSCDT3hCDmFN+lDKyX0ZyVvR3WMnw0=",
+        "taf-0.22.2.tar.gz"
+      ],
+      "wheels": {
+        "taf-0.22.2-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "yh+/2pruOVRuKoDuGbaGwOsYdEGD80aLpz22kLF64kM=",
+          "cp310"
+        ],
+        "taf-0.22.2-cp310-cp310-win32.whl": [
+          "Kl9s8ney64lk9hsVdpS8jiEQWGGWUaDQhL25iRnWnHg=",
+          "cp310"
+        ],
+        "taf-0.22.2-cp310-cp310-win_amd64.whl": [
+          "h5HiOV0CS0juxweDlSOkEpsqT4zxMsFeAxLptNFJjr4=",
+          "cp310"
+        ],
+        "taf-0.22.2-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "PyizZpLS2cZPkHzqafBZ0zBjZLNUQZX0TLLIhb7eYGI=",
+          "cp37"
+        ],
+        "taf-0.22.2-cp37-cp37m-win32.whl": [
+          "AE8kQZmrOdsUFz1kwZhiW0ezMBbki5C1AsvrqM8Q6Qg=",
+          "cp37"
+        ],
+        "taf-0.22.2-cp37-cp37m-win_amd64.whl": [
+          "XX/CrlOfvuQng26GPTxVsF2nPHuUV60upe6sic4E4Cw=",
+          "cp37"
+        ],
+        "taf-0.22.2-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "38A6LkGG3CAXjkjDlxjAQJog/to0BzkGp0+BH4hP/yM=",
+          "cp38"
+        ],
+        "taf-0.22.2-cp38-cp38-win32.whl": [
+          "w+OSHnRHGHy89HFUuORtGA8TLyxZ7wA/IxmlG6TLPC0=",
+          "cp38"
+        ],
+        "taf-0.22.2-cp38-cp38-win_amd64.whl": [
+          "c5i/soNrFt2Q/BapVW74LQT4J429LOBl4eFGdr6YddI=",
+          "cp38"
+        ],
+        "taf-0.22.2-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "7fOG64byJOeMF6Bb4m5T1RzaVuvBYrgm/tn3luAEICg=",
+          "cp39"
+        ],
+        "taf-0.22.2-cp39-cp39-win32.whl": [
+          "ZuTPDhGAXcWYWdusBD+UnxW9nYONGRe8wLhl00ds3XU=",
+          "cp39"
+        ],
+        "taf-0.22.2-cp39-cp39-win_amd64.whl": [
+          "KRF9qFP624U7+PKMN8CKTJlW/cmvCu6VKyKMfiqItCk=",
+          "cp39"
+        ]
+      }
+    },
+    "0.22.3": {
+      "sdist": [
+        "ouI1tmLc2ii95VamW5HQJYbSIuEREf0ejx9qZRWRYR8=",
+        "taf-0.22.3.tar.gz"
+      ],
+      "wheels": {
+        "taf-0.22.3-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "YQCP+j9I9ItoS/tUhFGJVm7JIPzcvZQ8TzU1KRn2/6w=",
+          "cp310"
+        ],
+        "taf-0.22.3-cp310-cp310-win32.whl": [
+          "IY62xFbtSlcz3o8lYi1WZrhLpSCHZUgLeZpqU8DuKAk=",
+          "cp310"
+        ],
+        "taf-0.22.3-cp310-cp310-win_amd64.whl": [
+          "JISKkJ6svdv7CWHLnnFF0rBoV1sx/0cAFdysi+JmXd0=",
+          "cp310"
+        ],
+        "taf-0.22.3-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "hxVJQSK0VKB5HtnKV6MqqhkYBYEqcq0XA13dUJWSLZY=",
+          "cp37"
+        ],
+        "taf-0.22.3-cp37-cp37m-win32.whl": [
+          "CV2gOKZDbMY2ezRwXCrZeJn2aGCve0Bwm9cQ16hD9Hk=",
+          "cp37"
+        ],
+        "taf-0.22.3-cp37-cp37m-win_amd64.whl": [
+          "lYemgRB7pwKDZb4RlCmhQIDFUUHLA/+l5c0TOW0GAk8=",
+          "cp37"
+        ],
+        "taf-0.22.3-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "HjPUUsh85WXBPRAoRmbg5rPhPmUI1VoGfSAJzCAOKSg=",
+          "cp38"
+        ],
+        "taf-0.22.3-cp38-cp38-win32.whl": [
+          "pCCZXfELBhdmFY9ZXP3X06KSoLPwkDOM+89nSKRa+Gc=",
+          "cp38"
+        ],
+        "taf-0.22.3-cp38-cp38-win_amd64.whl": [
+          "t3vayYBWIY9uXbzVK0fLjVfnNh/WJwL1SBT/c/sFhoM=",
+          "cp38"
+        ],
+        "taf-0.22.3-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "ClVmtx/lq929hWw3SSqiGnSCSDGp10se+OIj0+cY6x4=",
+          "cp39"
+        ],
+        "taf-0.22.3-cp39-cp39-win32.whl": [
+          "RMJvKF8jhjV45ZQcleDG8q8sxxLm8251FraGyd0JVx8=",
+          "cp39"
+        ],
+        "taf-0.22.3-cp39-cp39-win_amd64.whl": [
+          "7TvzHVrTnLwyqlWGU6z2gigisJPP8WPCQlvs50loAEs=",
+          "cp39"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "3X+arTZcuzwI7Fy2akiYBYqgpCdZmlDrzLqcb08Ck3k=",
@@ -142528,6 +142688,18 @@
       "wheels": {
         "tencentcloud_sdk_python_iotvideo-3.0.794-py2.py3-none-any.whl": [
           "Z2kVcMDKsrgozAKErSK0/XK7sNs3uX49fue1V2qnwnQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.795": {
+      "sdist": [
+        "9tBRrORV3cIIrvjYfW42AZhIlcEbWA1sye1qoJM1vOs=",
+        "tencentcloud-sdk-python-iotvideo-3.0.795.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_iotvideo-3.0.795-py2.py3-none-any.whl": [
+          "zaqKkwn/2usGe53ZxBpvTPOKbX/RcS1ot8sXEeGyITY=",
           "py2.py3"
         ]
       }

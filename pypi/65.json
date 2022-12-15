@@ -6361,6 +6361,18 @@
           "py3"
         ]
       }
+    },
+    "1.183.0": {
+      "sdist": [
+        "Gi/kysiNxm7wLhttbioxsCwEKK4BoXJj1+TLzCA4Xv8=",
+        "aws-cdk.aws-cur-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cur-1.183.0-py3-none-any.whl": [
+          "aKYB0RqV9sdy47Fe4DfYEjGHBFC3KkAEwiciKxva2Ho=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-parameter-store": {
@@ -58279,6 +58291,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.9.0": {
+      "sdist": [
+        "w3Hrse436E2NrMhkENCBIKIQd1VFaHHD4sfNIIMYzGA=",
+        "google-cloud-recommender-2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_recommender-2.9.0-py2.py3-none-any.whl": [
+          "AcDxzXz/p8vk/EMiLZWiunhaK9RXOokPL5bsk9QO4Ss=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-distance-matrix": {
@@ -72214,6 +72238,18 @@
         ]
       }
     },
+    "1.0.49": {
+      "sdist": [
+        "r5V5zFsplUybwteslUUK8fLPUy8ZnD/GZiqRhVkrZfs=",
+        "kappadata-1.0.49.tar.gz"
+      ],
+      "wheels": {
+        "kappadata-1.0.49-py3-none-any.whl": [
+          "O9YKZJw/I3rr/yXz884tMxcCkLHmIR5JqJcN9tcI6cU=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "sdist": [
         "/NI1u1QzwdC+do63/vSyXdhZy1TjC6WjuvemSlqPw6w=",
@@ -72222,6 +72258,42 @@
       "wheels": {
         "kappadata-1.0.5-py3-none-any.whl": [
           "/ecFSq6AbyyszMsm42FWW7zqHH8K30Qhbvzz5379GPw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.50": {
+      "sdist": [
+        "ODdBJT40jyUXDh/yK5EBUOQcvLkX5ZUKGThabBklBDQ=",
+        "kappadata-1.0.50.tar.gz"
+      ],
+      "wheels": {
+        "kappadata-1.0.50-py3-none-any.whl": [
+          "gY3hfWHi+BCJSNQrpP7ESEScyMXgzF9ATqp0b4ZbrRk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.51": {
+      "sdist": [
+        "tsXaXxquGOHBiOa6CbdVpViKaoGNfDk1A2WWXrhsXrs=",
+        "kappadata-1.0.51.tar.gz"
+      ],
+      "wheels": {
+        "kappadata-1.0.51-py3-none-any.whl": [
+          "9DDDTpXUxgXk3+LjgRNzcZStjbRb8w4oQQiLgMkYE1A=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.52": {
+      "sdist": [
+        "6vb96cw/oVzNd2VFwesVcK8cyQ70Gotf1bjm0UQtcTc=",
+        "kappadata-1.0.52.tar.gz"
+      ],
+      "wheels": {
+        "kappadata-1.0.52-py3-none-any.whl": [
+          "/WM1UTtBUggxwYw/7B5RyXX+el0oK7BEFGjrfsif5as=",
           "py3"
         ]
       }
@@ -118367,6 +118439,12 @@
         "+L7/hjRsb0LMrXXW0q9KM5gYAragAN6IHMk7ZJ9J7Rw=",
         "python-hcl2-3.0.5.tar.gz"
       ]
+    },
+    "4.0.0": {
+      "sdist": [
+        "DHni5NFOxhEQlVrBxvUEoqVSLmbm3FmENOEMNeMtJF0=",
+        "python-hcl2-4.0.0.tar.gz"
+      ]
     }
   },
   "python-imagesearch-drov0": {
@@ -129052,6 +129130,30 @@
       "wheels": {
         "sigProfilerPlotting-1.3.6-py3-none-any.whl": [
           "wn0Xlq7sQ73HFzJOsBXrDG2jKZlKtVEYMw12gRom314=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.7": {
+      "sdist": [
+        "4wbSJaYHAJ5xm3ff3UxRfJGrjbil2xk8UznVZvnDCf8=",
+        "sigProfilerPlotting-1.3.7.tar.gz"
+      ],
+      "wheels": {
+        "sigProfilerPlotting-1.3.7-py3-none-any.whl": [
+          "YEs33S5FtFTKzZQ0FJfhKCWAND1NSZG0+y3bimmeVtU=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.8": {
+      "sdist": [
+        "rDk7FeBioIbtElIB/umk4XFVEP9FHRW9ihykTKx5b/g=",
+        "sigProfilerPlotting-1.3.8.tar.gz"
+      ],
+      "wheels": {
+        "sigProfilerPlotting-1.3.8-py3-none-any.whl": [
+          "D0OyrPn/kVZiDLb0eVQXivdNRgiMCGLgn9n2NbOCXMw=",
           "py3"
         ]
       }

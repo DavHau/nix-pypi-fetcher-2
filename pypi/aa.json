@@ -5736,6 +5736,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "Ff58ew4GmJxztIVyY4n6wM+1LD7nfrcYPR4CtGnkUNE=",
+        "aws-cdk.aws-apigatewayv2-integrations-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations-1.183.0-py3-none-any.whl": [
+          "4coJPWnuuuBhoLmW9sNkxZcLIyxE0/dN7NU6cdTJhB4=",
+          "py3"
+        ]
+      }
+    },
     "1.72.0": {
       "sdist": [
         "yYHLcJ33KBk5uHF4pkruWoPMToKZN9I9/Uyvt5MO8mw=",
@@ -7654,6 +7666,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics-1.182.0-py3-none-any.whl": [
           "NOtoDw7JvrUnQGpcB3HPi85xZ6yHuA06+vNsDGO7nYE=",
+          "py3"
+        ]
+      }
+    },
+    "1.183.0": {
+      "sdist": [
+        "IUixGBEoBDRlQyujQAFCLytWQ0GgVdtCokWvNc3pto4=",
+        "aws-cdk.aws-kinesisanalytics-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics-1.183.0-py3-none-any.whl": [
+          "G7DwwP4vBE5akKao6g5XGYPLUWZHxxDcn+s1Bh8Ubfs=",
           "py3"
         ]
       }
@@ -96068,6 +96092,62 @@
         ]
       }
     },
+    "0.2.14": {
+      "wheels": {
+        "proxsuite-0.2.14-0-cp310-cp310-macosx_12_0_arm64.whl": [
+          "RcodPp8lYhCGzBebvJJ1roY6CSFAxlhgKIJWeRHvznM=",
+          "cp310"
+        ],
+        "proxsuite-0.2.14-0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "DKvJqJtiF/oKinvl+KAAPYsE/YVDeY3aS5qwp94wu+k=",
+          "cp310"
+        ],
+        "proxsuite-0.2.14-0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "AYgSjt8nAjy3QeiM/QrpDy4QPvFQJTNhsxVJLJL8J7Y=",
+          "cp310"
+        ],
+        "proxsuite-0.2.14-0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "2ZWkrF3g54qu+teiuP/aiBTpls5F4f51oJgDeJhaVYE=",
+          "cp311"
+        ],
+        "proxsuite-0.2.14-0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "vMhL3NbIxqyNFtovG5IKiOrYsQqKz/Xb/YQknAtQqq4=",
+          "cp311"
+        ],
+        "proxsuite-0.2.14-0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "1wOefLGWnjQS2NEtI17ot2udOruVbjKj2cD0mUyxfoE=",
+          "cp37"
+        ],
+        "proxsuite-0.2.14-0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "ovjbOVkM+jWjZroUhtc4OAcLxmv/yBqi9awqoBDOHbw=",
+          "cp37"
+        ],
+        "proxsuite-0.2.14-0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "BWAV7bh9/xW0zKzqZj1KOAJkKpMMe8YQr9wmTTH5PJ4=",
+          "cp38"
+        ],
+        "proxsuite-0.2.14-0-cp38-cp38-macosx_12_0_arm64.whl": [
+          "xeij4q4mtC3phLCilqWrYvtJ2WSnAqNwrYCHniF0AsA=",
+          "cp38"
+        ],
+        "proxsuite-0.2.14-0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "O0I78fIPj9enuaDbdP8oEzDCGThW+CDJELIACx8T09k=",
+          "cp38"
+        ],
+        "proxsuite-0.2.14-0-cp39-cp39-macosx_12_0_arm64.whl": [
+          "X3VfiO+N+cOhJ2c9scwswMmtSWgCW4N0iZIbyidkdcg=",
+          "cp39"
+        ],
+        "proxsuite-0.2.14-0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "bxFVDUXMCK0jUZzQLUTVOoNsYqnKKCj0fI9cQT2T0Ds=",
+          "cp39"
+        ],
+        "proxsuite-0.2.14-0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "31m/y0qz7HZdQZqWe5fbuFrU4NAliKHaaNytPHAO0WQ=",
+          "cp39"
+        ]
+      }
+    },
     "0.2.2": {
       "wheels": {
         "proxsuite-0.2.2-0-cp310-cp310-macosx_11_0_x86_64.whl": [
@@ -121402,6 +121482,18 @@
         ]
       }
     },
+    "1.0.292": {
+      "sdist": [
+        "uwssLfps86wUMQm338Gygn8uwGCvEEuuD1Y1HqtAzFM=",
+        "renovosolutions.aws-cdk-renovo-instance-service-1.0.292.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_renovo_instance_service-1.0.292-py3-none-any.whl": [
+          "Ibjgg4POqAmG2fH1JQDsrAeOTQ2YAKy8OBEfv/VUjAE=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "lz8G6Y1ouVN2HVjhW3X6aqKYtNCyFMLLq9GHMU+eJHY=",
@@ -126006,6 +126098,18 @@
       "wheels": {
         "renovosolutions.aws_cdk_renovo_instance_service-2.9.70-py3-none-any.whl": [
           "sle/WNdJbclc1pUyKSJJQFVyPzh1KwudTH4ZrD0lVQ0=",
+          "py3"
+        ]
+      }
+    },
+    "2.9.71": {
+      "sdist": [
+        "Lhaq/0SZKNlhr61b7s8/IUgPdYRONaghKmt0V0XoS18=",
+        "renovosolutions.aws-cdk-renovo-instance-service-2.9.71.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_renovo_instance_service-2.9.71-py3-none-any.whl": [
+          "rSHX9qOc5Ru6YSlFUW44XK11tAr0o5+EwbKnhv4zwcU=",
           "py3"
         ]
       }

@@ -10152,6 +10152,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "opoL+8RD0wj3n7tXbOXa6n3ZoJK1TLLvSkIsXzB56hc=",
+        "aws-cdk.aws-appsync-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appsync-1.183.0-py3-none-any.whl": [
+          "nPV2oMJOwfES/vwAkhTBSTzpIufdEIUJvyR5qhi2uSk=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "HIPstBwtWUK+zlwC3xWyItQxHHNzJLoxJN9CQqninVs=",
@@ -12598,6 +12610,18 @@
       "wheels": {
         "aws_cdk.aws_codestarnotifications-1.182.0-py3-none-any.whl": [
           "yTHQr0tz1R0xQvW4HiBVSiS/elqRr5wG1zZv1DriqHo=",
+          "py3"
+        ]
+      }
+    },
+    "1.183.0": {
+      "sdist": [
+        "acktbwUCSlU7CJNkrkDqFOYnpnZzo/z5PqYX8u1Xrbs=",
+        "aws-cdk.aws-codestarnotifications-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarnotifications-1.183.0-py3-none-any.whl": [
+          "XJn+zX7aDECixoC89Hrc26RDvmb3aO2EV7V1L/sPbX4=",
           "py3"
         ]
       }
@@ -86545,6 +86569,10 @@
         "Mosek-10.0.32-cp39-cp39-manylinux2014_x86_64.whl": [
           "qrL4NMoqTc1rm3tlxdgyV9p535tgSFQr/R5FtJxhApE=",
           "cp39"
+        ],
+        "Mosek-10.0.32-cp39-cp39-win_amd64.whl": [
+          "zRmRF6TrEDduGqJQyAnajf5TjPDlt4CWWfkyR2okt4Q=",
+          "cp39"
         ]
       }
     },
@@ -157782,6 +157810,14 @@
       "wheels": {
         "zepben.protobuf-0.23.0b3-py3-none-any.whl": [
           "CUsya0YoDQ4zqi3FgwNQ3Hmza9p13m1+XQKm3MC1wPg=",
+          "py3"
+        ]
+      }
+    },
+    "0.23.0b4": {
+      "wheels": {
+        "zepben.protobuf-0.23.0b4-py3-none-any.whl": [
+          "iRtwfwPswXw06r0tO90zRi0E4SthdY9YmcMfpG23pwU=",
           "py3"
         ]
       }

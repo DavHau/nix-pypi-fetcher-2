@@ -6898,6 +6898,18 @@
         ]
       }
     },
+    "1.183.0": {
+      "sdist": [
+        "0mwELWixZt6UvtVJ05eeI92BTxj5dHcqgtxnvVTJAaI=",
+        "aws-cdk.aws-iotwireless-1.183.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iotwireless-1.183.0-py3-none-any.whl": [
+          "HgGdKyOnEfjmiOTMYhAhYJA1IVFU0FFczkDtTh+Oku0=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "315sXFQZeNo9bjzF3uZTKNVIWYH/RyqGDDnRm23xl4w=",
@@ -24883,6 +24895,20 @@
         "OD6z+wr+X54Nlx0z+fywm2ixEjDNNk3qk/CLl2g92Ao=",
         "dietlinearalgebra-0.0.4.tar.gz"
       ]
+    }
+  },
+  "digipics": {
+    "0.6": {
+      "sdist": [
+        "yUvYNopC+FZJe4veOz1oaHUDxK/og6a3eR21olQYGVs=",
+        "digipics-0.6.tar.gz"
+      ],
+      "wheels": {
+        "digipics-0.6-py3-none-any.whl": [
+          "bCtTZRGUUoie1ocoLKyYt9cxiDlNk6vbXm/kr7RzHms=",
+          "py3"
+        ]
+      }
     }
   },
   "diglet": {
@@ -52163,6 +52189,26 @@
       ]
     }
   },
+  "ib2influx": {
+    "0.0.0": {
+      "sdist": [
+        "AqizXuEAoGrTAYbZZ6qQdKh7+GR5fIg3nKs7WLs63+I=",
+        "ib2influx-0.0.0.tar.gz"
+      ]
+    },
+    "0.0.1": {
+      "sdist": [
+        "3MwB34MrPdi+1+3NdI0KeFol786D+d1ep7UaCBaufvc=",
+        "ib2influx-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "XZVsA3oQahjam5tU9lWNzUVwaiy2/mlc0ikNr8QaEEg=",
+        "ib2influx-0.0.8.tar.gz"
+      ]
+    }
+  },
   "ibclient": {
     "0.0.3": {
       "sdist": [
@@ -62693,6 +62739,66 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "/T50P//KBxpCo9kHUQmhNOVTxT7B8n6YvK2n/y5vWBk=",
+        "makejinja-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "makejinja-0.3.0-py3-none-any.whl": [
+          "v1M5fZRBggeEk/n2RNY1x98fSxfgxIC0E360yVAmUlc=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "MEmjAIP4VuGg5sKxKIg/kvm63QWS8L3Xmh/T4VyhcrE=",
+        "makejinja-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "makejinja-0.4.0-py3-none-any.whl": [
+          "i18O3r/6qPTQGkLHvI90f5bZ6CNiWwRiinSVPM6W/iE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "kX6xoZ4jtFg0LZdjlNEUrFylaB1nlp4ikULvq15jwgY=",
+        "makejinja-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "makejinja-0.4.1-py3-none-any.whl": [
+          "p8+rV5xFYWUSSPvwMulNzV1AbtwFc6lnL3leVdJExoY=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "AmmclAMEr6Bn6TmHjY1Ya+9TIwjmOYPfaYcrN/DOKX8=",
+        "makejinja-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "makejinja-0.5.0-py3-none-any.whl": [
+          "inupwDShLd0HEJgp8B1oT2NSv4WNdlwcgxh09Jxg4f4=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "C2fvaqx8nyYlw04ZWp6caz3YKCDiT+OHfDpNPCTLqmE=",
+        "makejinja-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "makejinja-0.5.1-py3-none-any.whl": [
+          "pa+60I3jMdFr82gfyfZQvgNf8tikT0HzvE3V2HB7voc=",
+          "py3"
+        ]
+      }
     }
   },
   "makenew-serverless-python": {
@@ -65644,6 +65750,18 @@
       "wheels": {
         "mlserver_xgboost-1.2.0rc5-py3-none-any.whl": [
           "iTXvIo5rPXawxuDZnLMs+yneIUKpzo7qIUQFbadBcgc=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1rc1": {
+      "sdist": [
+        "5sfjJynO+f3i5gB+5EjPoMG7EToWheIiJRHiHpZK6UI=",
+        "mlserver-xgboost-1.2.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "mlserver_xgboost-1.2.1rc1-py3-none-any.whl": [
+          "nHV60mhtBpaPVbgv21/vJdVpW8LZGlsSabalCb0RXVY=",
           "py3"
         ]
       }
@@ -117342,6 +117460,18 @@
         ]
       }
     },
+    "0.0.20": {
+      "sdist": [
+        "9pI97aRP0mRNpV8exmL9DQAJqHIlX1G9lmnrpRMtqIM=",
+        "reqif-0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "reqif-0.0.20-py3-none-any.whl": [
+          "OKbd6hpIchvdeWgMGoF9qv2To8grSJWMoYQ3jMGXJik=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "OiXuLDhFUahcyUkxkWYdVLmkNykqDqaKhasO1S/JmZo=",
@@ -121852,6 +121982,18 @@
       "wheels": {
         "shinigami-0.1.8-py3-none-any.whl": [
           "sjOslkWh957IFkhvd9+iUh5UcgbMgNH18PyUuoSemck=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "o94ZcjMbxfIIgC7Zifm7UUpD4lPlR5rXPeRO2M14F0Q=",
+        "shinigami-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "shinigami-0.1.9-py3-none-any.whl": [
+          "CwOLY4YKYKtRl5W3fqI1quY//2s8KZ5Tbx5z64rAs34=",
           "py3"
         ]
       }
@@ -135494,6 +135636,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.794-py2.py3-none-any.whl": [
           "fnJQ24f/VwnYJx2Xn9buKXaJOEndqleONpGbjK94bLY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.795": {
+      "sdist": [
+        "hVgnlF+9IT79FDM8oN/o3L3x9z/1nEY3UG3rrCugKzs=",
+        "tencentcloud-sdk-python-mps-3.0.795.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.795-py2.py3-none-any.whl": [
+          "6cE2n71kO0HDygk7CMAToiEALAeHAPM4mEh2qv6k84E=",
           "py2.py3"
         ]
       }
