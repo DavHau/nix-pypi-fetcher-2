@@ -6563,6 +6563,12 @@
         "48HBZUJPnmVW+0y1pIq40Fp37/B4I65cAntFiN6OWvc=",
         "archipel-utils-0.2.2.tar.gz"
       ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "hcOIWtaIbHiVrUOdBslfgfs/RbK8yAditDchw7KoEYs=",
+        "archipel-utils-0.2.3.tar.gz"
+      ]
     }
   },
   "arclet-alconna-cli": {
@@ -25240,6 +25246,18 @@
         ],
         "daal-2021.7.1-py2.py3-none-win_amd64.whl": [
           "CAKjbZ+lcCtfJvZtEoUleqDnQlGTcZAIhuRmDqmQiOY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2023.0.0": {
+      "wheels": {
+        "daal-2023.0.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "APdi0r+5SzZJpqhruvMqa6eOpHts7lfrVUS/k7+eq8Y=",
+          "py2.py3"
+        ],
+        "daal-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "k1Fqi01A3B/2srMNui7To37Ed26gCwuFLnQGrqLSGJY=",
           "py2.py3"
         ]
       }
@@ -55863,6 +55881,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "yur1+7FUgf/dDy4XPYyZKp1OJVGueallj8b+mt6lNvc=",
+        "instawow-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "instawow-2.1.1-py3-none-any.whl": [
+          "Vx7rc9299nRKdQQesvHcSFlDPOxYSh91OXYZ7tImTWY=",
+          "py3"
+        ]
+      }
     }
   },
   "intelligenceai-concepts": {
@@ -60704,6 +60734,30 @@
       "wheels": {
         "kraken_std-0.5.1-py3-none-any.whl": [
           "mdgilHyLuV4IhAg4LtGGsk7obmYBLJQgk2lH/yFg2qk=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "PBI1LIxWKnvJlBzTq89E1K9XKxNrWptgk+CppH6RhSc=",
+        "kraken_std-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.5.2-py3-none-any.whl": [
+          "2sx4P5oeod6cIedIJ6PTwH/XJyD+BbWnYY+P+wDwNAQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "sdist": [
+        "xg6ZItXXI+c9OOovEOCScmnUzgieihuLZRTkXrO9gGI=",
+        "kraken_std-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.5.3-py3-none-any.whl": [
+          "EOHDvLtEPBzHQZUzoOL5d+u5/j5rmO9YDqLvrAJqrpU=",
           "py3"
         ]
       }
@@ -78869,6 +78923,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.4b1": {
+      "sdist": [
+        "h8c0xD5rHMFVnO2GT8XifXMMG4I/XVpJh1E4EUz3RXM=",
+        "nonebot_plugin_ayaka-0.5.4b1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_ayaka-0.5.4b1-py3-none-any.whl": [
+          "DBoRhCUS1/EkXoTkX5aiV5RoYZymL4RKRZW0+47XEoY=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-miragetank": {
@@ -80478,6 +80544,14 @@
       "wheels": {
         "odoo_addon_queue_job-16.0.2.1.0-py3-none-any.whl": [
           "H6MNoBwxnE/JCr7so2eXnqmYjH+ptEAO5f/BHDtVvWU=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.2.1.0.1": {
+      "wheels": {
+        "odoo_addon_queue_job-16.0.2.1.0.1-py3-none-any.whl": [
+          "aFhcdJoChYI+KhkvmcWyk/2/3feY5B3rcMZLNiCue6M=",
           "py3"
         ]
       }
@@ -89310,6 +89384,20 @@
       "wheels": {
         "polyfile-0.5.0-py3-none-any.whl": [
           "z+3UcQUKqR87QQYiRr7EcOWjiapEWLdt8P+Wgsguj3E=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "polywrap-msgpack": {
+    "0.1.0a1": {
+      "sdist": [
+        "hBg41aP2o/j1rGaUPhIHLESpZIIkGjESY4uR7YNpyWc=",
+        "polywrap_msgpack-0.1.0a1.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_msgpack-0.1.0a1-py3-none-any.whl": [
+          "iDFduBl3eJkDWONEJ5IKQiCFgYMMOzCzg1bqvySb92k=",
           "py3"
         ]
       }
@@ -105680,6 +105768,18 @@
       "wheels": {
         "renku_mls-0.3.0-py3-none-any.whl": [
           "vQPfgrDs4gwO1iUhaUXBz2yjrgfQU5FV/xSyebnVUN8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "6BChPnkcEcMqF5Zaik8FBgcakRaa4CiRlRNDHPyziDE=",
+        "renku-mls-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "renku_mls-0.4.0-py3-none-any.whl": [
+          "lj+c5TvWb8LBwfiVud9OYBnvUe1c7EPrgNS4E8SsY4Q=",
           "py3"
         ]
       }

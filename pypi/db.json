@@ -59744,6 +59744,14 @@
         ]
       }
     },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkevs-3.1.16-py2.py3-none-any.whl": [
+          "rjeV25o3PkWSuHPwGt3CkfXPVTtUu89vzCfbQsjOHsY=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkevs-3.1.2-py2.py3-none-any.whl": [
@@ -61654,6 +61662,22 @@
         ],
         "infery_gpu-3.8.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Bawhhd+2nkRyyHQgfoXg5fA4Ql9Svj6X9ETQy6uXeZc=",
+          "cp39"
+        ]
+      }
+    },
+    "3.8.2": {
+      "wheels": {
+        "infery_gpu-3.8.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3XvyWyxNNWqU4HxYO3MLlf57825qXY11QWMCoeu543M=",
+          "cp37"
+        ],
+        "infery_gpu-3.8.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2qRjZyeHQgpV1npz9JPOBYXRcxvZun9MRVpSm6ZfysI=",
+          "cp38"
+        ],
+        "infery_gpu-3.8.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IzoClZLoMYiWPMphiwOIMPs85X/HrfF3QBkNv4Yvn0M=",
           "cp39"
         ]
       }
@@ -88696,6 +88720,42 @@
         ]
       }
     },
+    "3.7.17": {
+      "sdist": [
+        "OWtzwMNqRGCkXg2/cvxh9rkFlprgs47BGpubpeBKCcA=",
+        "nowcasting_dataset-3.7.17.tar.gz"
+      ],
+      "wheels": {
+        "nowcasting_dataset-3.7.17-py3-none-any.whl": [
+          "hFDcVA7C+6F4Se3cNELs+7wweYg3O0zke2cnEjZE5qY=",
+          "py3"
+        ]
+      }
+    },
+    "3.7.18": {
+      "sdist": [
+        "Js5NdSydLuDxqfp2Y9czqP7lsD0yEU1OZSRwcvz7n4o=",
+        "nowcasting_dataset-3.7.18.tar.gz"
+      ],
+      "wheels": {
+        "nowcasting_dataset-3.7.18-py3-none-any.whl": [
+          "PAxLPskl4N6mht4akgxn8ttoeeZeQkIET2sBY2M8T3w=",
+          "py3"
+        ]
+      }
+    },
+    "3.7.19": {
+      "sdist": [
+        "+X22IDvHfH/SPPmd2rJ5AOEHj/US5n+uXog3ZSPzkOY=",
+        "nowcasting_dataset-3.7.19.tar.gz"
+      ],
+      "wheels": {
+        "nowcasting_dataset-3.7.19-py3-none-any.whl": [
+          "Ppp8Cu6SC1LkerZvsnOgCldJOF5b1cKwC72mOrs3hs8=",
+          "py3"
+        ]
+      }
+    },
     "3.7.2": {
       "sdist": [
         "Z5jo0DXgRXUepPLi5uLfusPuRiDMMpVeIlOIAOitPK8=",
@@ -110035,6 +110095,12 @@
         "EowSsU8z3FSsxbWiitbqBNTW8MzKfezjeG3YaHkj7lM=",
         "qtl-ctp-api-6.6.9.1.tar.gz"
       ]
+    },
+    "6.6.9.2": {
+      "sdist": [
+        "6SUNxOw0khJ9YfXNqYhGeLb1djYQ9kJ4YuNpFpHh9aY=",
+        "qtl-ctp-api-6.6.9.2.tar.gz"
+      ]
     }
   },
   "qtoggleserver-raspigpio": {
@@ -125940,6 +126006,18 @@
       "wheels": {
         "stdocker-1.0.13-py3-none-any.whl": [
           "c40miKYf2ielwz0T6PKNwqrcXOxRaNdzO5YTQPh+EvI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.14": {
+      "sdist": [
+        "rGvzG3JyJ2jDujffT46zJaq4WEjJXkYm1B0EXPMCx/g=",
+        "stdocker-1.0.14.tar.gz"
+      ],
+      "wheels": {
+        "stdocker-1.0.14-py3-none-any.whl": [
+          "23gfpvfZtI7Pp65P0SaQP6rfVYJ5Q1L6x8jj9uBWvA8=",
           "py3"
         ]
       }

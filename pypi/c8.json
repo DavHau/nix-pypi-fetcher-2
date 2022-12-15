@@ -61817,6 +61817,18 @@
           "py3"
         ]
       }
+    },
+    "9.2.0": {
+      "sdist": [
+        "z8iOLsq2aEVNHfVNvrQz9Ga7vCnFXRepSUp0n0CjP1s=",
+        "ironic-python-agent-9.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ironic_python_agent-9.2.0-py3-none-any.whl": [
+          "H9Xl8Dlc6znzvydBxLs9WU7DGHapOvbGPrDtOz2uuHw=",
+          "py3"
+        ]
+      }
     }
   },
   "irt-parameter-estimation": {
@@ -100036,6 +100048,12 @@
       "sdist": [
         "bJ4JKh+TrokuzGxrNZLFQDKZLVIbFUZe3evjed3YGfk=",
         "nexusforge-0.7.1.tar.gz"
+      ]
+    },
+    "0.8.0rc3": {
+      "sdist": [
+        "mk4OvcB9zkOhGmg6q/L6kqFOkxo8g94NyItt7JdZxfU=",
+        "nexusforge-0.8.0rc3.tar.gz"
       ]
     }
   },
@@ -157818,6 +157836,14 @@
       "wheels": {
         "zepben.protobuf-0.23.0b4-py3-none-any.whl": [
           "iRtwfwPswXw06r0tO90zRi0E4SthdY9YmcMfpG23pwU=",
+          "py3"
+        ]
+      }
+    },
+    "0.23.0b5": {
+      "wheels": {
+        "zepben.protobuf-0.23.0b5-py3-none-any.whl": [
+          "X4S8c10P9uH9ZglC+Cgll707E0WyLyhCNZ1weCdcxRs=",
           "py3"
         ]
       }

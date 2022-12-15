@@ -32316,6 +32316,18 @@
         ]
       }
     },
+    "3.10.1": {
+      "sdist": [
+        "iQCDCJIWujSHxuNEWIyonGXurOLFNOztO1JBQvhR/xU=",
+        "cyclonedx_bom-3.10.1.tar.gz"
+      ],
+      "wheels": {
+        "cyclonedx_bom-3.10.1-py3-none-any.whl": [
+          "pdeTA/UXAf2OCNeYV2HdugTETZ8Mnwvj6EUzRGMq9M8=",
+          "py3"
+        ]
+      }
+    },
     "3.2.0": {
       "sdist": [
         "pCq7z3Qoiqs0IQ9bi04UIXx+KwGOmJpwl0eXqu7WaPw=",
@@ -40148,6 +40160,18 @@
         ],
         "dpcpp_cpp_rt-2022.2.1-py2.py3-none-win_amd64.whl": [
           "ZifB+H4QRML8jAP9dRaOc/ccg91Jg3hffRK8O0PAMCg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2023.0.0": {
+      "wheels": {
+        "dpcpp_cpp_rt-2023.0.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "j7QeRC28IUukwOhHMgSmwKtNsmige4z1ZFFmXoS8TBU=",
+          "py2.py3"
+        ],
+        "dpcpp_cpp_rt-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "I9+NlhUDYVUXDpSyIZrBV/336OFx8Ck7E6wgZ650ZAM=",
           "py2.py3"
         ]
       }
@@ -49486,6 +49510,30 @@
       "wheels": {
         "gdshoplib-1.1.1-py3-none-any.whl": [
           "shnTYdsRHcakMrcJ9+XTE+U9BH9/jPwPLlLS6A9+FYo=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "2aebOWbRNxPC4sIC7fSSOOG2Oi65TvRUIKciobIeVE8=",
+        "gdshoplib-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "gdshoplib-1.1.2-py3-none-any.whl": [
+          "SNxLCq4ubVgwELwCdBpbX3uNI6qaLH/gJ2J5WAUW5Bw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "mbnL8cA8p8PCOIF8QKYcvhX1SiO8YD2nUR3gUM+1il4=",
+        "gdshoplib-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "gdshoplib-1.1.3-py3-none-any.whl": [
+          "YS7HPyHAy3TBs8Bl6VZnXQAMzMGyjg9W2BkFx2NpZMc=",
           "py3"
         ]
       }

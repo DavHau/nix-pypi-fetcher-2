@@ -13298,6 +13298,18 @@
         ]
       }
     },
+    "0.5.12": {
+      "sdist": [
+        "33F20e/XkyVxfqvZl4jJYJ3CHACN/t5001tcw7+UUWA=",
+        "buildhat-0.5.12.tar.gz"
+      ],
+      "wheels": {
+        "buildhat-0.5.12-py3-none-any.whl": [
+          "WGF1oYMggyQeuUqjJlKBKdh9XfVoY4b9XjIXP+tNJ+w=",
+          "py3"
+        ]
+      }
+    },
     "0.5.4": {
       "sdist": [
         "62zrnMtidLlrDEpJo12/2wI8zsD+4XdRfVk1so2GKKU=",
@@ -95813,6 +95825,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.20221214.0": {
+      "wheels": {
+        "odoo_addons_oca_l10n_thailand-16.0.20221214.0-py3-none-any.whl": [
+          "lFdSm2lsSRNyT8XlVn7wVDdDW+1VM2zsFgEcMR1SsvU=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-asset-disposal": {
@@ -108452,6 +108472,18 @@
       "wheels": {
         "pyannote.core-4.5-py3-none-any.whl": [
           "dFLmi33OT1idV1qlP3fls3eDMz/Q1HK58lNR8M/yCXw=",
+          "py3"
+        ]
+      }
+    },
+    "5.0.0": {
+      "sdist": [
+        "GlW8yL1oC6a+X6U++jtvPSzdZxRMB7a02NZtXLDSCW8=",
+        "pyannote.core-5.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyannote.core-5.0.0-py3-none-any.whl": [
+          "BJIKZ1RJIkLODcYBdUVZWrZDhw/mmplPIMGl8toFRNA=",
           "py3"
         ]
       }
@@ -126335,6 +126367,12 @@
         "YvDpBczG5tprboFuc3lzwsSRY+AqJ/YzDQhCtMS768s=",
         "salure_helpers_salureconnect-0.0.3.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "MgBhVaib1dIO8m9DD6mbu4gzKbp7jbaITCwucwiS968=",
+        "salure_helpers_salureconnect-1.0.0.tar.gz"
+      ]
     }
   },
   "samourai-build-tools": {
@@ -142696,6 +142734,10 @@
           "yf91ElFxmda1bX8uErK5CGoGsQxvKhcoVBYnDxN6AtE=",
           "cp37"
         ],
+        "tensorflow_text_nightly-2.12.0.dev20221213-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gSfmJFT6LKZsLN3q1LfL9GyXNN0iwU5BRJF0IcMyyOk=",
+          "cp37"
+        ],
         "tensorflow_text_nightly-2.12.0.dev20221213-cp38-cp38-macosx_10_9_x86_64.whl": [
           "1k3ra6GicCdlBdo4FirgL2oBujjAffuab8pIbufBFEs=",
           "cp38"
@@ -142718,6 +142760,34 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221214-cp39-cp39-macosx_10_9_x86_64.whl": [
           "zIHFD82bQn3Vygt2lbD0o+Ocxqzpax/2cBoyNLyTD84=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221215": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221215-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "qtMTuPGXs3T+fpEP3hXgDCQCbELXz7p9r9lst3qbXTQ=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221215-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z/FZ3AhjY5ADpnCu8YFMzDI+5j4e6EoVUwZKw/H28rs=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221215-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1Hl18EbVl/y9miZoa9nbkGmxYQ4bUzQwAfbq58rVAlU=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221215-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5YErp40wC8bqKEurhtsX2EFAhExE+oGeoSDLS1Fg3vA=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221215-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "cJxO4aCnjywzRh2KPpYqxHgTvecerG/TBVQWOmnUFbk=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221215-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yNmzL8EkjRL3G3yaWuT+hFcHVtOLK4LNanT68K5BwAE=",
           "cp39"
         ]
       }

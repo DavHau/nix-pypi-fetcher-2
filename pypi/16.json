@@ -12601,6 +12601,12 @@
         "50/x1A9WTt2JVAyoc2khBZ3J5xHSsJlo7peb7qkN44E=",
         "barnaba-0.1.8.tar.gz"
       ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "ZwVk2VmReL4Cm0DekHsj8iXq5LmYO3M4zocKzs2EM+o=",
+        "barnaba-0.1.9.tar.gz"
+      ]
     }
   },
   "base-automation": {
@@ -17276,6 +17282,18 @@
       "wheels": {
         "CellProfiler-4.2.4rc1-py3-none-any.whl": [
           "vy3phaYR2fgMaK6ymjS0ec9I8Z2jrXK5mvz2TV9efVc=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.5": {
+      "sdist": [
+        "/J8R0Dr6famnWMH6LtNGQHgoM6TWr+96SdjsnqVunkI=",
+        "CellProfiler-4.2.5.tar.gz"
+      ],
+      "wheels": {
+        "CellProfiler-4.2.5-py3-none-any.whl": [
+          "yTxg9g0w5Fa2VFWueGAR9FA6yKdjAL/TjsimEKBnDIY=",
           "py3"
         ]
       }
@@ -46153,6 +46171,20 @@
       }
     }
   },
+  "flake8-cohesion": {
+    "0.0.2": {
+      "sdist": [
+        "GUQ7L2DHVPsJnKlUrYzPxwuzbyXYO2KlstjRfsaqbF0=",
+        "flake8-cohesion-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "flake8_cohesion-0.0.2-py3-none-any.whl": [
+          "DulFSPr0DU8diuDIIQwi/xZAT8TwT2nG6TOROaosPrU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "flashback": {
     "1.0.0": {
       "sdist": [
@@ -65986,6 +66018,12 @@
       "sdist": [
         "fkkLWZ57mdf/9fvBxAwLJtBxLRRyN4PFujn9+Fezwbo=",
         "libsw3-0.0.11.tar.gz"
+      ]
+    },
+    "0.0.12": {
+      "sdist": [
+        "Xakr+XBEDvRaOX94fU4lNTBPDER2l7aWBd99F0nA0M0=",
+        "libsw3-0.0.12.tar.gz"
       ]
     },
     "0.0.2": {
@@ -95078,6 +95116,22 @@
       "wheels": {
         "pybabylonjs-1.2.0b0-py2.py3-none-any.whl": [
           "nFGHanGMoJpuSRYkJGiljuD8ZtgLb+XTjGk4HnOhbHw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0b1": {
+      "wheels": {
+        "pybabylonjs-1.2.0b1-py2.py3-none-any.whl": [
+          "DaDgb2pf6cpUCrzEKbkS4C7/EF6a1j3VEcUloAVk5AM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0b2": {
+      "wheels": {
+        "pybabylonjs-1.2.0b2-py2.py3-none-any.whl": [
+          "koIejYnTypbyfW+dNmYar55a6Jrnn6OSZQz0rrXAxtg=",
           "py2.py3"
         ]
       }
@@ -127763,6 +127817,20 @@
         "sEEF9XQv9IGjRd+fuCysN+8pFr2AllWKVaQm48rNg/M=",
         "tinyevent-0.1.0.tar.gz"
       ]
+    }
+  },
+  "tkl": {
+    "0.9.0": {
+      "sdist": [
+        "CfxiK8yZlbLG/UoOImSw6cIRFMs9oZxP+Pg7q33uSJU=",
+        "tkl-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "tkl-0.9.0-py3-none-any.whl": [
+          "m87+WtDZJoiNvIvxqa/Gv9Gw4+s1JDGHV+AF775uBuQ=",
+          "py3"
+        ]
+      }
     }
   },
   "tma": {

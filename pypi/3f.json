@@ -35113,6 +35113,18 @@
           "py3"
         ]
       }
+    },
+    "1.9.0": {
+      "sdist": [
+        "U2NYxQ55N0inlCjlJ57wRMhGFCsT+OldujjJ/Tnna4U=",
+        "faraday-plugins-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "faraday_plugins-1.9.0-py3-none-any.whl": [
+          "/xY21VQK7SXyiDCgIgUKu0Mii7hqMF4DuZp5BwnFLdg=",
+          "py3"
+        ]
+      }
     }
   },
   "fast-curator": {
@@ -36640,14 +36652,14 @@
     }
   },
   "finfactory": {
-    "0.0.20": {
+    "0.0.21": {
       "sdist": [
-        "y7nw2BpeLScTllQG1Ta9GaKsMgCB9J8BpBwnYCHUbvU=",
-        "finfactory-0.0.20.tar.gz"
+        "vTEx+K7Z23nPDKBsM2/TG2woYIS5ip0A/mUZPL+iMro=",
+        "finfactory-0.0.21.tar.gz"
       ],
       "wheels": {
-        "finfactory-0.0.20-py3-none-any.whl": [
-          "oUZuQyz0+qZAZkH3KrGiVnUojlTY6L1crSB8FfriK5s=",
+        "finfactory-0.0.21-py3-none-any.whl": [
+          "I3zyn+lxvs/qe8uEbhB96BO3SqgY92S8tH4s7EEo6x8=",
           "py3"
         ]
       }
@@ -47578,6 +47590,14 @@
       "wheels": {
         "huaweicloudsdksmn-3.1.15-py2.py3-none-any.whl": [
           "t6WtblFWtIs1tH0LshdRrZE2FZ44QFdRgmVSIpB2eDg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdksmn-3.1.16-py2.py3-none-any.whl": [
+          "cHdaKOk7rILfMmVlfrWFkDUqLrk/Px53giqfArwx+qE=",
           "py2.py3"
         ]
       }
@@ -61983,6 +62003,12 @@
           "py3"
         ]
       }
+    },
+    "1.0.9": {
+      "sdist": [
+        "IMgg1We9Ph6LGN5293Ga5BqfwC6OFZbzU7mDtrlWSX4=",
+        "mobio-admin-sdk-test-1.0.9.tar.gz"
+      ]
     }
   },
   "modflow-setup": {
@@ -118909,6 +118935,54 @@
           "py2.py3"
         ]
       }
+    },
+    "1.21.4": {
+      "sdist": [
+        "oG0zNPL7bwTs9WH2+kOIem7WEZwNkMIvqs1m+Jge7sg=",
+        "sicksid-drf-tus-1.21.4.tar.gz"
+      ],
+      "wheels": {
+        "sicksid_drf_tus-1.21.4-py2.py3-none-any.whl": [
+          "mtTkrOOollUX9jZRC/mc3RMPNKswIHKqHPssQy7+e9A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.21.5": {
+      "sdist": [
+        "tnClQr1ZomQ6I+PyYSPLuOekgl21YSC34R/WioGQTBs=",
+        "sicksid-drf-tus-1.21.5.tar.gz"
+      ],
+      "wheels": {
+        "sicksid_drf_tus-1.21.5-py2.py3-none-any.whl": [
+          "bqnpv6s/0PMHQTND5zrmenqDmUlLbbwPJZoAwWTyI5c=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.21.6": {
+      "sdist": [
+        "6IRwbEnCER9NrTX9XslkTDYOki077Z1cdJNoaa0qAh8=",
+        "sicksid-drf-tus-1.21.6.tar.gz"
+      ],
+      "wheels": {
+        "sicksid_drf_tus-1.21.6-py2.py3-none-any.whl": [
+          "RjJfdrruVzFUogdMSl3HLagBEyPPYdR61e2b6ZQ11ps=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.21.7": {
+      "sdist": [
+        "a+EqTI6X2v+Pc+hZHHAPfgNUySK6HpwtGDdCyoYjJTs=",
+        "sicksid-drf-tus-1.21.7.tar.gz"
+      ],
+      "wheels": {
+        "sicksid_drf_tus-1.21.7-py2.py3-none-any.whl": [
+          "Yu/H4HbUe6W4YhTyA8lpBOrEas+v9dATMdRdvoyap9Y=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "simbio": {
@@ -123734,6 +123808,18 @@
       "wheels": {
         "soda_core_dbt-3.0.15-py3-none-any.whl": [
           "G03ZA55VGA5K0Te21elUP948GyzvqtFoslwt3cCSSMk=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.16": {
+      "sdist": [
+        "c0OLdPM82SM/nHOAp/cLrVtyjVQ0lJIbNSWG+k9zJ/4=",
+        "soda-core-dbt-3.0.16.tar.gz"
+      ],
+      "wheels": {
+        "soda_core_dbt-3.0.16-py3-none-any.whl": [
+          "ydzBquzOg3Tu7UpLuS8J30eHli/SujBwM1TpJ/UDJEE=",
           "py3"
         ]
       }

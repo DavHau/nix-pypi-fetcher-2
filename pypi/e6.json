@@ -18585,6 +18585,54 @@
           "cp39"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "APjI+j7N8MGnurcWcdtc3lG0YC2oHK54xr8NUW6QlYg=",
+        "clease-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "clease-1.0.5-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "NYSg72ONKhNpPFIAQ2l51HmLfWIlR2OJ3StWipcotbs=",
+          "cp310"
+        ],
+        "clease-1.0.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O2CLTAcHElO3+ZtyAC1SxnMCNNafqJw9B6VBduWILMU=",
+          "cp310"
+        ],
+        "clease-1.0.5-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "SbaoEJq34BoBqle6DPJvTQMBBkj7QJnyajnANznT+HA=",
+          "cp311"
+        ],
+        "clease-1.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tUScjYdbOXvt/CSf/JD+mJ2r3S/z16+lUfWtTkaEs/Q=",
+          "cp311"
+        ],
+        "clease-1.0.5-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "U10lqMm/Z8dOhv4Wo5++VsQFOfj25esnTQWb1wyJO04=",
+          "cp37"
+        ],
+        "clease-1.0.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sXXU2xBd5hOnIKwkDgRy8VO1xRtnz1Ja/+MU1U3wfz0=",
+          "cp37"
+        ],
+        "clease-1.0.5-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hlRiOf5Qbj4PPHeqNL9s2kG8+kpWbv+EIs6DwtvoeS4=",
+          "cp38"
+        ],
+        "clease-1.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pAC2V3VRsQC1k9EoT5PAh2A+LYjUDj2A5XmqmCBXxLU=",
+          "cp38"
+        ],
+        "clease-1.0.5-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "sUnaEZDeasqcRd3WW0Z7mcx/BsboN0MRRmG5xu0XF54=",
+          "cp39"
+        ],
+        "clease-1.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vcA7DeGFP+dv+ZMjqgpsJWJPwAv823qbe1gy1U0FAVY=",
+          "cp39"
+        ]
+      }
     }
   },
   "cli-pylinx": {
@@ -44053,6 +44101,18 @@
           "py3"
         ]
       }
+    },
+    "2.1": {
+      "sdist": [
+        "cZyPSLVVua6V1SUE/czt6s2vm6/fcr9E/rVi6mPLRRY=",
+        "django_request_token-2.1.tar.gz"
+      ],
+      "wheels": {
+        "django_request_token-2.1-py3-none-any.whl": [
+          "kFYWFTeq6kR9C7Zcem7XweTy+1hhaGWvXTQ+csSuv7w=",
+          "py3"
+        ]
+      }
     }
   },
   "django-rest-tzolkin": {
@@ -45580,6 +45640,18 @@
       "wheels": {
         "dql_alpha-0.1.4-py3-none-any.whl": [
           "EoahvdZN2u60mCnjk6pVt5TAILJ1bOD776TAKOPP6iQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "7YwYNDtdggbq5RYVUfcKlMwwc6IV6EI/wXwyN4yeC5o=",
+        "dql-alpha-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "dql_alpha-0.1.5-py3-none-any.whl": [
+          "SxezjvgB+GpjrCfaht2z6KOep8B7DXWmKAWkIwVMaaE=",
           "py3"
         ]
       }
@@ -62090,6 +62162,14 @@
         ]
       }
     },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkcbr-3.1.16-py2.py3-none-any.whl": [
+          "q+twdbupKQtEdOg0MuIEETwcEUZ45daL3PitOC+fAjI=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcbr-3.1.2-py2.py3-none-any.whl": [
@@ -62296,6 +62376,14 @@
       "wheels": {
         "huaweicloudsdkvcm-3.1.15-py2.py3-none-any.whl": [
           "7qpR0grPDmYrdhemdLqVl2DeionmJm1wTnV3CwbC8e4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkvcm-3.1.16-py2.py3-none-any.whl": [
+          "AMvZqh8w3p1vQBAJLp40C9zVFlGorwsanwchprLEMiE=",
           "py2.py3"
         ]
       }
@@ -62762,6 +62850,14 @@
       "wheels": {
         "huaweicloudsdkvpcep-3.1.15-py2.py3-none-any.whl": [
           "8YJ7z9n+3jufyznWnsqwa492Eo6UcJ4NV6Kc2A2vqys=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkvpcep-3.1.16-py2.py3-none-any.whl": [
+          "kamizrLNo3SHBO7woyy2NbcKOhzzjwbwSecIMQyFpY0=",
           "py2.py3"
         ]
       }
@@ -97264,6 +97360,18 @@
       "wheels": {
         "PaLM_rlhf_pytorch-0.0.2-py3-none-any.whl": [
           "gLz2XaBbH9DQe9v3NH3vN//iZ4EEFWmGnKotcE5aBFc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "VJzSVT+9xwyUA4GlkwrwN2iqufX+dsmyayfRpuxE8Xc=",
+        "PaLM-rlhf-pytorch-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.3-py3-none-any.whl": [
+          "2Y/NAXjRbgIccLXbOghDekWQWzutGCvaZ+dTjX3VUqw=",
           "py3"
         ]
       }
@@ -132237,6 +132345,32 @@
       }
     }
   },
+  "starsaiot-monit": {
+    "1.0.0": {
+      "sdist": [
+        "QsO3pdlXpEihQFzz3K7eeh/R8WyKO6hI54CCt87lMO0=",
+        "starsaiot_monit-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "bwxky5gqp/KMKQdUU5XQ/E+3PHL/fZ04SkZLSod/qMg=",
+        "starsaiot_monit-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "vrjj5Er1gHdW4Zrqeodz33tng1Tl0sOLlDkrsWfXwtg=",
+        "starsaiot-monit-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "OLBW5CRWE8L5kphbLoJmfUh0SOywCSnusDaBXLIZhGc=",
+        "starsaiot-monit-1.0.3.tar.gz"
+      ]
+    }
+  },
   "steem-watchdog": {
     "0.0.1": {
       "sdist": [
@@ -149294,6 +149428,30 @@
         ]
       }
     },
+    "1.2.58": {
+      "sdist": [
+        "5ptor5OsTy6Sk3+uf1EVnOkXbP/ao2dev32+jFdZ4jU=",
+        "xj_user-1.2.58.tar.gz"
+      ],
+      "wheels": {
+        "xj_user-1.2.58-py3-none-any.whl": [
+          "wb+Wm3HFYwWnjNpdD72+C+sCImeHS2Vqv6CnoD17fyY=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.59": {
+      "sdist": [
+        "iFvk1X8ZCT2b/fjbmal5PY3ouHz+6bfcdDifuIy3V6Y=",
+        "xj_user-1.2.59.tar.gz"
+      ],
+      "wheels": {
+        "xj_user-1.2.59-py3-none-any.whl": [
+          "4tSKyUOsTDH5Ao9Oa2BgbzJKh36lXuuq8K1z/jLnWIU=",
+          "py3"
+        ]
+      }
+    },
     "1.2.6": {
       "sdist": [
         "uKS5z1hFyfdMw0uFWoJF5iILUN++iiLijsUfYmLK178=",
@@ -149302,6 +149460,30 @@
       "wheels": {
         "xj_user-1.2.6-py3-none-any.whl": [
           "jJRPGakidWnNWzJQDYhWhr5N7KbsSRX0jNtAUNPhpRg=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.60": {
+      "sdist": [
+        "0MkX9tnil8xVEdMFiMwhP+4vIpNIpBEk6t5uOiko1fY=",
+        "xj_user-1.2.60.tar.gz"
+      ],
+      "wheels": {
+        "xj_user-1.2.60-py3-none-any.whl": [
+          "otev7SdR2OGZggCgAf4lXJrdyar9x1QdC8NF4DzybVQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.61": {
+      "sdist": [
+        "ECrqn6yknA3UO3BFn0f8jcHuLqhour0bYQn3DqVjDq0=",
+        "xj_user-1.2.61.tar.gz"
+      ],
+      "wheels": {
+        "xj_user-1.2.61-py3-none-any.whl": [
+          "Zx4fUAd3Q5ViwJitJTVBBLtR0Gn8qfjkSTsFth/TyYo=",
           "py3"
         ]
       }

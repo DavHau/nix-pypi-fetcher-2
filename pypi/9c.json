@@ -23844,6 +23844,42 @@
         ]
       }
     },
+    "0.13.0": {
+      "sdist": [
+        "QBRWRHeXJkmpmZQ4bC7vb4yG+CsP3WnDEr4qu3l/C/g=",
+        "blockapi-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "blockapi-0.13.0-py3-none-any.whl": [
+          "GSfzY8MGkdxnb9KKi3wVl+SZLrDd+y2nBB45vY8s50s=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0": {
+      "sdist": [
+        "BNskxnvpeg7rGr5bTxZg/Qc/jodlMekEjjcG4esE9Og=",
+        "blockapi-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "blockapi-0.14.0-py3-none-any.whl": [
+          "rqdeDwMlORe+AUiW32MEGcPdMwY5gaz5HagyBhN8UjE=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.1": {
+      "sdist": [
+        "uS2e1YLN33Y+T4jV1YwAsGJEKoKeTwT59RT40IBSwN0=",
+        "blockapi-0.14.1.tar.gz"
+      ],
+      "wheels": {
+        "blockapi-0.14.1-py3-none-any.whl": [
+          "+cyv3lZQx1TO9xf8ZuuJ+KW1R50Zy90VcQPWUXX4qKo=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "+RHlaaif/pWYoDiPvuQbw8MsULhKz8voNbVfaLH+swQ=",
@@ -37824,6 +37860,18 @@
       "wheels": {
         "desyrdl-0.2.0-py3-none-any.whl": [
           "bj0BLRJqRY6yuMNh+NV1mxXJ/cud388GmeEOxOsoBV4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "8SjV4UP2eL7TNzb1awUOJtmJafYRBPGRXUxvi8BEXgs=",
+        "desyrdl-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "desyrdl-0.3.0-py3-none-any.whl": [
+          "umM5H/TNdoCf9as77gp8s460DnTr8wV4Djm9PY3kixY=",
           "py3"
         ]
       }
@@ -59231,6 +59279,20 @@
       }
     }
   },
+  "graph-jsp-utils": {
+    "0.0.1": {
+      "sdist": [
+        "dUfI9xB5aYms+N/xyOKHz0coLNV51GlE1nJpyjlAdNw=",
+        "graph-jsp-utils-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "graph_jsp_utils-0.0.1-py3-none-any.whl": [
+          "g2vdVFceaOXlvlWXfFnpzhdXQRXfnJiCPqiRTtkyGW0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "grasspy-modules": {
     "0.1.20200110": {
       "sdist": [
@@ -63946,6 +64008,18 @@
       "wheels": {
         "iambcodes-0.1.10-py3-none-any.whl": [
           "ECUk+fpJw3fvu/+JEY638alfuAS1OshfBKeg+O1ngho=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "pDbH1TJucH6xC5IeBLKNgsbfknnyAJCtBHLse0jBb4c=",
+        "iambcodes-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "iambcodes-0.1.11-py3-none-any.whl": [
+          "qqXPglcvL5s2r4dptC72Wxc4xSzRySQ+A9W6doGboAY=",
           "py3"
         ]
       }
@@ -110828,14 +110902,14 @@
     }
   },
   "prypip": {
-    "1.0.3": {
+    "1.0.7": {
       "sdist": [
-        "fCe0G8uiwAfYwb/mdABDoCzTWDIOBBiJ+K1BSsRS98E=",
-        "prypip-1.0.3.tar.gz"
+        "kJKw3LGRcvwJHFf9y/BDEcY+cb046+MxXQQ8lX7z/kM=",
+        "prypip-1.0.7.tar.gz"
       ],
       "wheels": {
-        "prypip-1.0.3-py3-none-any.whl": [
-          "sP0k/JBYNNcvx4hkmKQI2vQ5LhwJwsxoLHcaiAXIQGo=",
+        "prypip-1.0.7-py3-none-any.whl": [
+          "b7UvclZeEwbdo3o75Bk1Ccr+0zuuMh3zsHs8aBJ1GyE=",
           "py3"
         ]
       }
@@ -138783,6 +138857,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "4s1drUdc9F1NVgzplD0X5kEm3RK/LGSIkr1A8bHGQnQ=",
+        "swh.objstorage.replayer-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "swh.objstorage.replayer-1.2.0-py3-none-any.whl": [
+          "WBRXbdFAGdOIsaD0HGtlLiMMjUWz/f2XhnG7ih14xCw=",
+          "py3"
+        ]
+      }
     }
   },
   "swingerapp": {
@@ -151422,6 +151508,30 @@
       "wheels": {
         "xctools-1.0.0-py3-none-any.whl": [
           "N3AaYq2J7ToThjyXm1RRRGjv1zgd6xNNRmNeOiZ9sMk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "fmQnNNr/u/6pI35Bs6pJ7coojFpZ+NK2sGP8R925ET0=",
+        "xctools-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "xctools-1.0.1-py3-none-any.whl": [
+          "HM2FULxO30zIQJTLRxDL6PFf+paeLKqIblV6EhPQobM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "HudKHRrX/mcxZH8wQq84WjGuhBs1FBt8R7iRd95OKTE=",
+        "xctools-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "xctools-1.0.2-py3-none-any.whl": [
+          "9qEPkF5rTcPYUYPouCjn+sOpR7KOR1NNlEPsJi83H0k=",
           "py3"
         ]
       }

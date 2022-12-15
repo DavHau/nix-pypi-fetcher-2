@@ -5025,6 +5025,12 @@
         "t3n2bjYD9iyYuZcldaE4NP2AMNboCcqhC0XzaOjfDSE=",
         "ANNarchy-4.7.1.6.tar.gz"
       ]
+    },
+    "4.7.2": {
+      "sdist": [
+        "dev7AMIv9167WXz5tStPwiRp4myOzebSS3wgUgd16CY=",
+        "ANNarchy-4.7.2.tar.gz"
+      ]
     }
   },
   "ansible-runner-kafka": {
@@ -16668,6 +16674,30 @@
       "wheels": {
         "changelog_generator-0.2.7-py2.py3-none-any.whl": [
           "eyvqzGVETeZ4/HnG8TC/e49+uCAukJd3YoYK4FzT7d4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "rHqXPdbPBzxFBJNWjufcBFJl9CckfFdf6vPWhMHIudQ=",
+        "changelog-generator-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "changelog_generator-0.2.8-py2.py3-none-any.whl": [
+          "bRnNkMnhse7/OOhj/rXNQoAINwS3ovSI2dodYdqzVJQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "JB0sIoUe4K8c/LJprxAPPhGAJqfChXAxVYYf+b1pvVE=",
+        "changelog-generator-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "changelog_generator-0.2.9-py2.py3-none-any.whl": [
+          "OdC2HcmqxlMXO32bVqyPqFdQ1Bnd0xcavtZMEmEddQc=",
           "py2.py3"
         ]
       }
@@ -50672,6 +50702,14 @@
         ]
       }
     },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkcloudide-3.1.16-py2.py3-none-any.whl": [
+          "5f9ZZjvqQDwYDYnNUvv9O8RSel8H00DaHKdjtYPqkS4=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcloudide-3.1.2-py2.py3-none-any.whl": [
@@ -51254,6 +51292,14 @@
       "wheels": {
         "huaweicloudsdkddm-3.1.15-py2.py3-none-any.whl": [
           "cG/GYzjCcV6dYreAiAsHfGlV+6qMdkoCEi4ADaCvYfY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkddm-3.1.16-py2.py3-none-any.whl": [
+          "LgrRgxD0stxuKoVdM6OvkPmtDmkkQrgBs1J7l+rRNW8=",
           "py2.py3"
         ]
       }
@@ -62672,6 +62718,14 @@
         ]
       }
     },
+    "1.1.211": {
+      "wheels": {
+        "lumigo_tracer-1.1.211-py3-none-any.whl": [
+          "rgfRHB2QgI8ZApdHn3jRGas2yx5KeEU7FDGo0hoDEUA=",
+          "py3"
+        ]
+      }
+    },
     "1.1.22": {
       "wheels": {
         "lumigo_tracer-1.1.22-py3-none-any.whl": [
@@ -68646,6 +68700,14 @@
         ],
         "mkl_dpcpp-2022.2.1-py2.py3-none-win_amd64.whl": [
           "4OBHUX1Fr0wTYnpxXEccTjZX6bL4V/XuQ7DSi+KQBcA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2023.0.0": {
+      "wheels": {
+        "mkl_dpcpp-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "9E1Rl9RPUQkezs/S56so+EBKHU5tuqA3ULL4aXYnfpQ=",
           "py2.py3"
         ]
       }
@@ -127328,6 +127390,18 @@
       "wheels": {
         "schedula_core-1.4.1-py2.py3-none-any.whl": [
           "oZAAxDPQ7I/7dNysgqesMGhdxdOwdHtkxSsGPcv2BdM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "7doBM50+AA0f6eQ3buMIJ+5GQi42viVW8VLtyxymmsc=",
+        "schedula-core-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "schedula_core-1.4.2-py2.py3-none-any.whl": [
+          "qLJrcitF+jHpEbh/Ns6D/DiZqbTS0TXy+/q8rVvMm24=",
           "py2.py3"
         ]
       }

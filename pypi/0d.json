@@ -574,6 +574,58 @@
         ]
       }
     },
+    "1.2.14": {
+      "wheels": {
+        "accera_llvm-1.2.14-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "j8WBfRf/UDu6h3pz7W6DRM5FFaQvkYIbjfbRO7zwFAI=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.14-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7RT7IH7sax+Ii+wv0ccbR/rIJIPfEz8YIzF2GmKw7CQ=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.14-cp310-cp310-win_amd64.whl": [
+          "VH8cMSw4hOQkFvyz3Iu7wZXXynmO/S5KtF79k2m+g3o=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.14-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "OxyBO6L0Ktzv/JIyWAf9OEswFnlVOwyVxy2XsXoKmjU=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.14-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eI6hPhH72zEhMQ7b/Q45wv4qXHq45mb9HwPL1taPhV4=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.14-cp37-cp37m-win_amd64.whl": [
+          "tba4KpHujR3SDMm06QH1G0g0PbJyx13QyhvqIAEHhao=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.14-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "m2XXMSnSKk2VWb27wXJt9jhwrA7XWQ0ryD10KO7t0cY=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "m8fFg5kyvx8550xPcwruuMFt0Su0nsNrSx9d8tX/9X4=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.14-cp38-cp38-win_amd64.whl": [
+          "61Q345lQvOo9MO32LBsGOg/Ki5J3IOjlDe42c9lDPZ8=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.14-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "+vmPxLzEY2K6RjbxGknx54MeIHIsBllu7qjn3MEmtPg=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.14-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DKJFzMPPavhqvnPledkGVa0YfHTlmMfSJI2X+oc3I0w=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.14-cp39-cp39-win_amd64.whl": [
+          "aRTJZ9T0zpko1PvpImG8lU8tYmhfoQ0RWlz/8HJNfQI=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.2": {
       "wheels": {
         "accera_llvm-1.2.2-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -15142,6 +15194,18 @@
       "wheels": {
         "aws_prototyping_sdk.identity-0.12.30-py3-none-any.whl": [
           "ZF2TqPGTYMNVYJeTn8H79s+LfY3w8pdm9qmg91dJsuE=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.31": {
+      "sdist": [
+        "J7x5pMYLLRofdlJgF2E9y2JaLRo7xHLLO/qphG9hIIc=",
+        "aws_prototyping_sdk.identity-0.12.31.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.identity-0.12.31-py3-none-any.whl": [
+          "CbR8kNRp5hm0e5EGDcS/7QXyHU6zO0lUbuRkHK4Ta+Y=",
           "py3"
         ]
       }
@@ -44941,6 +45005,12 @@
         "C6CPgc+ASEYxHLTJXYkeow7fasSUhA+cK/MLG6P+02A=",
         "encode-netflow-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "HNUY5yHJh/U9Jr35ATdCeuVYn0QKps5kO20bKH88Ed0=",
+        "encode-netflow-0.1.5.tar.gz"
+      ]
     }
   },
   "energinet-ml-sdk": {
@@ -63668,6 +63738,14 @@
         ]
       }
     },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkcloudtable-3.1.16-py2.py3-none-any.whl": [
+          "6R2KDoCk6OWwCAXu8D6vLiZ0cry8uZxZAjIz29xrFFg=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcloudtable-3.1.2-py2.py3-none-any.whl": [
@@ -64066,6 +64144,14 @@
       "wheels": {
         "huaweicloudsdkkps-3.1.15-py2.py3-none-any.whl": [
           "nyRK+YemS8JUHnduVXHSl55wHklFNIdt4APHzPDf2ns=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkkps-3.1.16-py2.py3-none-any.whl": [
+          "IBxUOfgUzNhjMb5J18qWZF8Vt8yowZgMSq/e6l4WLUY=",
           "py2.py3"
         ]
       }
@@ -79004,6 +79090,14 @@
       "wheels": {
         "modern_greek_inflexion-0.4.8-py3-none-any.whl": [
           "aK5DgaNoYhafFPkaBo3rOkS0mzBJb+DzSZQvREKG4dk=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.9": {
+      "wheels": {
+        "modern_greek_inflexion-0.4.9-py3-none-any.whl": [
+          "69IaCBXlKJCKKimzi04Fo/lB+Arlp+S1/Gcat3lzQ9c=",
           "py3"
         ]
       }
@@ -96928,6 +97022,20 @@
       "wheels": {
         "physicochemical_mers-0.0.1-py3-none-any.whl": [
           "8lp52dTTeLoS1hVf0tbapHxjFtEm5bW8JzPB2+IBJJE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pinecone-hybrid-preview": {
+    "0.0.1": {
+      "sdist": [
+        "o37pboCEN4h1Lg/QwkS41cYyGTM5U1YBvBkoChgbA/w=",
+        "pinecone-hybrid-preview-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pinecone_hybrid_preview-0.0.1-py3-none-any.whl": [
+          "pKxId8KUYL448W70qTirA2AJWu448nxh7M5gwNTH/R8=",
           "py3"
         ]
       }
@@ -115859,6 +115967,24 @@
       }
     }
   },
+  "s3prl-vc": {
+    "0.1.0": {
+      "sdist": [
+        "qwoHdQbyHNq2eX9SJX49RbxdM0q920DMI1u1Ri0xr30=",
+        "s3prl_vc-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "s3prl_vc-0.1.0-1-py3-none-any.whl": [
+          "gS4qMnMpY83LQFBp4i5EHnrozpvX5MVQWIQGCqQPQlY=",
+          "py3"
+        ],
+        "s3prl_vc-0.1.0-py3-none-any.whl": [
+          "ML7sAVvJLD+/MzPxDhxqnXBcY7PHmZ7AAUpU9Sw/oeA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sakstig": {
     "0.1": {
       "sdist": [
@@ -131828,6 +131954,30 @@
       "wheels": {
         "TheSilent-0.0.41-py3-none-any.whl": [
           "2X197bjf7OyMRXAMLCH7AmCFgTkivp/2IBB5n91S6r0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.42": {
+      "sdist": [
+        "3bL+Rl/HwBzmFEhuboH5/cMWnmG1ciJ8qz5+GwfoRcA=",
+        "TheSilent-0.0.42.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.42-py3-none-any.whl": [
+          "4sijNPLCfr/wtNcxp1IbSE0GOKf672n+UF9XwfV3UOY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.43": {
+      "sdist": [
+        "O5KdQVO6sSayZy4v7cr7Zz3+ptZ1sEq+wH9l/4xigH8=",
+        "TheSilent-0.0.43.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.43-py3-none-any.whl": [
+          "rmunwusPPC65jv1WCf2BUfxXqLhTqNCW/qptzv0TsjM=",
           "py3"
         ]
       }

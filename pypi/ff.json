@@ -8920,6 +8920,42 @@
         ]
       }
     },
+    "1.14.10": {
+      "wheels": {
+        "autoai_libs-1.14.10-70-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "5aCpxJZ5xzhlhft7vfXP5g3WOU1m36PotBZ15KIKJIo=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.10-70-cp310-cp310-manylinux1_x86_64.whl": [
+          "fxemQaxe+5xDRMyj81o515TRViFmDsFggi4om82vxSo=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.10-70-cp310-cp310-manylinux2014_ppc64le.whl": [
+          "21g7dck4IhbXpJZSKyhCBL+YWJ8Ng3laDtFJj/z2l2I=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.10-70-cp310-cp310-win_amd64.whl": [
+          "hIkmc/8poOwRECUowR2ci3EPWXBb+u7/4+1TVYWkM1s=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.10-70-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "nztgQFUhi0mLVsIM+IrLOGgCYVd3wyUuDeqYRB2AKUo=",
+          "cp39"
+        ],
+        "autoai_libs-1.14.10-70-cp39-cp39-manylinux1_x86_64.whl": [
+          "QyXZeTfsDdXOJTX1reLNDt0qNZjerC9gKob9jnnT9mk=",
+          "cp39"
+        ],
+        "autoai_libs-1.14.10-70-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "3KxrgAZjwhwFxqFtCeJWjNAcKRcsxnSBJfcFIk5pUdU=",
+          "cp39"
+        ],
+        "autoai_libs-1.14.10-70-cp39-cp39-win_amd64.whl": [
+          "wq7XYceBcQadioQdk10toNdGHCRbLUbPTB+wVhq67p0=",
+          "cp39"
+        ]
+      }
+    },
     "1.14.2": {
       "wheels": {
         "autoai_libs-1.14.2-63-cp310-cp310-macosx_10_9_x86_64.whl": [
@@ -16862,6 +16898,30 @@
       "wheels": {
         "canaille-0.0.14-cp310-cp310-manylinux_2_36_x86_64.whl": [
           "M49cim6UAJCa99ywJ2MJ8uVmDzrAxG6Z12CPMs7WGLo=",
+          "cp310"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "JJ1Lp6f+ON820gmMg5n0BA6kJb4PCDWXVBf1Ifud5dE=",
+        "canaille-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "canaille-0.0.15-cp310-cp310-manylinux_2_36_x86_64.whl": [
+          "LEml5zz9PvUFLdYclKn3Xw+a9SucrUux0FzOt5tvZ0I=",
+          "cp310"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "Yu0kAPSp1jBV6bRlyM/q/Kek6DzjBfTR1qy53fKk9nc=",
+        "canaille-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "canaille-0.0.16-cp310-cp310-manylinux_2_36_x86_64.whl": [
+          "b97SjMIhUTZtFHsVGqu0e21j5Y7k2+t9BdEJOaejgkU=",
           "cp310"
         ]
       }
@@ -25066,6 +25126,18 @@
         ]
       }
     },
+    "0.4.10": {
+      "sdist": [
+        "6+sUZ+p3SfYfcs11PGVKpOqeoeMyteWSesdU9e4ZASY=",
+        "cdopt-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "cdopt-0.4.10-py3-none-any.whl": [
+          "0R1vYS7fTVlqo8uLX1NkWdvipt+cvfTgYVFzCwtMj+8=",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "fECYLo42zRdFEibNDxXBLyWhwEZE9KZrr4iYwo5D5hk=",
@@ -25731,6 +25803,12 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1": {
+      "sdist": [
+        "/AsC5aT4GK2sVu+7ppAyEdPvSk0VfxUASJ5WIaksMKE=",
+        "certbot-dns-standalone-1.1.tar.gz"
+      ]
     }
   },
   "chado": {
@@ -59688,6 +59766,14 @@
       "wheels": {
         "huaweicloudsdksis-3.1.15-py2.py3-none-any.whl": [
           "e8Qa15Yq7vJR1XbO7Nr9d/OJM3Q9QIIkxmHKw9L5yZ8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdksis-3.1.16-py2.py3-none-any.whl": [
+          "YdoGAtGqsgypwZUV4n8j+ESg6FiUcugtp9LP+ViFiI8=",
           "py2.py3"
         ]
       }
@@ -100490,6 +100576,30 @@
       "wheels": {
         "pyconverters_grobid-0.5.10-py3-none-any.whl": [
           "fV3iS0OnmhtAkPxOohkedx+EPdIvpaOdHnMzFiF/tLc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.109": {
+      "sdist": [
+        "kWjl1smv/sD0qG5Z13fJ9lIb7WFjpBjNYDfUz5szCWo=",
+        "pyconverters-grobid-0.5.109.tar.gz"
+      ],
+      "wheels": {
+        "pyconverters_grobid-0.5.109-py3-none-any.whl": [
+          "YK4Qqvq+9RNqy7ePsP2UU5L79WejUdQeIHV5f97a7Vo=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.111": {
+      "sdist": [
+        "wvJ0sp8fh41AoW1Jt712FWm3lsThL0V4LrropBJMyHc=",
+        "pyconverters-grobid-0.5.111.tar.gz"
+      ],
+      "wheels": {
+        "pyconverters_grobid-0.5.111-py3-none-any.whl": [
+          "yF/XmuSRFBqjA/irKv/Hi0rTLTve1pM+zeLGx3gNva8=",
           "py3"
         ]
       }

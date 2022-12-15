@@ -47833,6 +47833,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "iHTy55r+ok9rOTBwshi/N/jVI3ksiMAOeUUM4+u+1e0=",
+        "gcp_pilot-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "gcp_pilot-1.3.0-py3-none-any.whl": [
+          "POd9QAmBoAax7l7jiDHyOI/q92Nf6RUqK3QNNk1OyLI=",
+          "py3"
+        ]
+      }
     }
   },
   "gefera": {
@@ -54942,6 +54954,22 @@
         ],
         "ipp_static-2021.6.2-py2.py3-none-win_amd64.whl": [
           "ve/1CYXSpjF/yaXCCH4nL8foZ/IImKLKctcihb208/I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2021.7.0": {
+      "wheels": {
+        "ipp_static-2021.7.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "btXKIwciab4dNZKl56vAboxMtEmDKECo31M4L1B/HKU=",
+          "py2.py3"
+        ],
+        "ipp_static-2021.7.0-py2.py3-none-manylinux1_i686.whl": [
+          "uvQEMc6+agnni3BHY9dm8Hl7dZzQ3VxKl+Zlcd/BuPs=",
+          "py2.py3"
+        ],
+        "ipp_static-2021.7.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "TPtceAl6jHx0iyFt3aC4YCHjU1TFhg7/BAJ6Ams408I=",
           "py2.py3"
         ]
       }
@@ -96092,6 +96120,14 @@
         ]
       }
     },
+    "2.2.19": {
+      "wheels": {
+        "phone_gen-2.2.19-py3-none-any.whl": [
+          "xs8Pz2/PTZUEPsV/g9yXyUbcLehM63pLnxVUZNe3FPM=",
+          "py3"
+        ]
+      }
+    },
     "2.2.2": {
       "wheels": {
         "phone_gen-2.2.2-py3-none-any.whl": [
@@ -99265,6 +99301,20 @@
         "polypipe-0.0.0-py2.py3-none-any.whl": [
           "FbltKmFz8ZfF9Hi2qhEplLJ7bw5nqej75nLcY/Jmt7o=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "polywrap-plugin": {
+    "0.1.0a1": {
+      "sdist": [
+        "tBDk++3xiVpAimbEjbbudmuVSQFZUImigqr/ICNuEVk=",
+        "polywrap_plugin-0.1.0a1.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a1-py3-none-any.whl": [
+          "FPgiC7NxMD3pmieDiJw6TShjPgf64s3cGBdyHk7DHCA=",
+          "py3"
         ]
       }
     }
@@ -117519,6 +117569,38 @@
       ]
     }
   },
+  "redis-annex": {
+    "0.2.0": {
+      "sdist": [
+        "mMb4cz0X4epVMWhZ/W/j5vU30B6GFrHpKV57oNw5kws=",
+        "redis_annex-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "ZBRC2typft0JdB6slzWtKtAD5zIL1IXUmvKOZsqsuG8=",
+        "redis_annex-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "redis_annex-0.2.2-py3-none-any.whl": [
+          "sZxYGG3QAKZ754r1ys3Sr5ZKL7kMWpkF6MDskWgGm8U=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "eRoRVCKL9JPM/VKiyFEISGtR6yXm+Ra8txqPxr/bhqU=",
+        "redis_annex-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "redis_annex-0.2.3-py3-none-any.whl": [
+          "zDrvdJlUuzErUNjpyr6XTpDjE62MfOr+Q2CVJ67oNAU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "redis-natives": {
     "0.12": {
       "sdist": [
@@ -121736,6 +121818,18 @@
       "sdist": [
         "FNBRvC+DA23VVqQTJnUToNR1TOM25qIjz6BkPte1Z/w=",
         "salure_helpers_profit-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "cGcdAkI7E90CA0tBB1Q+quL6Th4waLl2hobHAtEAcDY=",
+        "salure_helpers_profit-0.0.7.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "6q5flAEHy0BAKfmXRP6cFM6X8scgxL5sdT9m3a7ddIg=",
+        "salure_helpers_profit-0.1.0.tar.gz"
       ]
     }
   },

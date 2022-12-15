@@ -15907,6 +15907,18 @@
           "py3"
         ]
       }
+    },
+    "4.8.2": {
+      "sdist": [
+        "IXhDQMLC1mCitfBR1GMLpHsmAM18RQbL90RMGYIi7QU=",
+        "blackboxopt-4.8.2.tar.gz"
+      ],
+      "wheels": {
+        "blackboxopt-4.8.2-py3-none-any.whl": [
+          "vs6yt0XcRQ9yLujlhqUqxbsVmsQP71nmWR/YGSSou40=",
+          "py3"
+        ]
+      }
     }
   },
   "blackjack21": {
@@ -31540,6 +31552,18 @@
       "wheels": {
         "clear_skies-1.11.1-py3-none-any.whl": [
           "UwKVeiDr79d/SzclRqaTd8cbhOlbduuOUdHwx+g/LIg=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.2": {
+      "sdist": [
+        "Jvi/UzLi4lRlYfPyknj+94DrzGHB57hS1a0us32FGe8=",
+        "clear-skies-1.11.2.tar.gz"
+      ],
+      "wheels": {
+        "clear_skies-1.11.2-py3-none-any.whl": [
+          "vLZaigPb0Zbz0+N/pJOwQz20mueYPYC7UlR65tbV4jE=",
           "py3"
         ]
       }
@@ -65824,6 +65848,42 @@
         ]
       }
     },
+    "3.13.1b1": {
+      "sdist": [
+        "rIGv8g34aW71rEJHtXzdsyyPbbJXJ8+riXIdPq0UmGc=",
+        "gradio-3.13.1b1.tar.gz"
+      ],
+      "wheels": {
+        "gradio-3.13.1b1-py3-none-any.whl": [
+          "qjDTiK9QAE1x03jhFu04gWsYXpWxQNqdG07jTgXEJFs=",
+          "py3"
+        ]
+      }
+    },
+    "3.13.1b2": {
+      "sdist": [
+        "tecuBmCfJQRf5FYnF429BRWGBRGjP9RoZhjy3F/LLOE=",
+        "gradio-3.13.1b2.tar.gz"
+      ],
+      "wheels": {
+        "gradio-3.13.1b2-py3-none-any.whl": [
+          "nU2EagOkQZtJesdC5LlchgZQhr5+rfv7pxLqCoAdAkQ=",
+          "py3"
+        ]
+      }
+    },
+    "3.13.2": {
+      "sdist": [
+        "r5OQPQmxD8P3pNzehNSPNkgYBDu61ZJuOiU6OiElCMI=",
+        "gradio-3.13.2.tar.gz"
+      ],
+      "wheels": {
+        "gradio-3.13.2-py3-none-any.whl": [
+          "Jw7Y2X/GY1YIDu8U07lK7QFqxLIFA7b64N3KdSBngW4=",
+          "py3"
+        ]
+      }
+    },
     "3.2": {
       "sdist": [
         "MoXvFFtETEZjYqakWHKGJ0cOVkgrQx4bA4UyIIiP8c8=",
@@ -73154,6 +73214,12 @@
       "sdist": [
         "+c7Qbuvk+5+COdmT5bkvYJKWx52ZSpq3iZjoqz3NUaU=",
         "hugg-0.0.22.tar.gz"
+      ]
+    },
+    "0.0.23": {
+      "sdist": [
+        "F+93Y3z0SQhicnIRDSoHVhHTXlL2IYFIPnoyIlxNfk0=",
+        "hugg-0.0.23.tar.gz"
       ]
     },
     "0.0.5": {
@@ -115855,6 +115921,54 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "ShC1SvlBo4KfNtBSVbMB184jbIVPWVufyzv49P+8JEM=",
+        "pybehance-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pybehance-0.2.2-py2.py3-none-any.whl": [
+          "eFziZHKSHplG5iC3e1CDLYzdaqppk3GS8/2mQebSqbc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "cGPtwKhvokSs6OypSmIyeeFh4LxIErwDElFhnUgpGds=",
+        "pybehance-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "pybehance-0.2.3-py2.py3-none-any.whl": [
+          "B8R/QCqFUpcVjJGJkN6rfFqR8M5LcqYGI8R8zxSFao4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "GKPha76wxzU9g2i7w994PZxE/8iqshngwTDnp/2GSKk=",
+        "pybehance-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pybehance-0.2.4-py2.py3-none-any.whl": [
+          "QF8dvc2ykOYq9T3QGX+CJ8xOPvb2xcWDaYLvEJZCJyE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "PHQFQBJWn81e4H596EYQg246mfO6HWQ93Hw2hiqPGgY=",
+        "pybehance-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "pybehance-0.2.5-py2.py3-none-any.whl": [
+          "H+XotDKBrZd+fxvOtbwDorq9y5OdB7KA5nQuXd5LKvA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pybit": {
@@ -130319,6 +130433,18 @@
           "py3"
         ]
       }
+    },
+    "4.8.2": {
+      "sdist": [
+        "EWEDlHGQoi1+WfmuUAZndrBn1utcJWht8PdOAQxO70Q=",
+        "safe-eth-py-4.8.2.tar.gz"
+      ],
+      "wheels": {
+        "safe_eth_py-4.8.2-py3-none-any.whl": [
+          "waLlnApjuQISYRatk5TjDITDFzHXclvQoIBNDnkCAXw=",
+          "py3"
+        ]
+      }
     }
   },
   "sanic-oauth": {
@@ -137736,6 +137862,30 @@
       "wheels": {
         "taskkit-0.1.6-py3-none-any.whl": [
           "LsKR/fawIGofXk9tx7vOATBLTLQ7qD54cFTQkvqlwZM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "KiTB1DyiB5jm1t6/jyKt5Fo62kAix3WG4qAzVWCtgO0=",
+        "taskkit-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "taskkit-0.1.7-py3-none-any.whl": [
+          "dYdwOzFTMHc9nd4VY/ZIlWgnAcjIdVHc8DwfUsmZiNw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "PGt5QF2Sm2CRZm0oMEHRQg3OLm7CQZV3JzLIj/eYHN0=",
+        "taskkit-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "taskkit-0.1.8-py3-none-any.whl": [
+          "IBd+Nsn+LKtiUavLJtG7blCg0vi2rq/aPLFPNPAkO24=",
           "py3"
         ]
       }

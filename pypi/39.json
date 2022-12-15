@@ -63678,6 +63678,18 @@
         ]
       }
     },
+    "0.6.10": {
+      "sdist": [
+        "lsEl0ncYOWYQBoSFVScA2+TT+9/+wmHM2mWAzdzKAxE=",
+        "mui_data_grid-0.6.10.tar.gz"
+      ],
+      "wheels": {
+        "mui_data_grid-0.6.10-py3-none-any.whl": [
+          "9I6+USKrIpkjD3/5d9fDZyLvPjel8GsQ8FAw03f2QvU=",
+          "py3"
+        ]
+      }
+    },
     "0.6.2": {
       "sdist": [
         "Rg1ssmuE9ciwd+0Naap4oY3nU5+32Xfx6+6fiMyXq0A=",
@@ -70717,6 +70729,20 @@
         "vbFpxP6wini1rlzkYzkXh/nWN+habDgkBhEBVL6jw3A=",
         "nandi-0.2021.tar.gz"
       ]
+    }
+  },
+  "napari-conidie": {
+    "0.0.1": {
+      "sdist": [
+        "2bB01hpqaEo1Dko+ZU3DHcJK5ZdnyxoaNMKn298mLA4=",
+        "napari-conidie-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "napari_conidie-0.0.1-py3-none-any.whl": [
+          "1y8NuJmZJLnEji5YYyEvtIltoqzCXqlHtoneSqGi6vs=",
+          "py3"
+        ]
+      }
     }
   },
   "native-web-app": {
@@ -113862,6 +113888,18 @@
     }
   },
   "satnogs-network-api-client": {
+    "1.100": {
+      "sdist": [
+        "1eYlTiolwYn4VAeKpKwoh4Ywbupkrtm3YhWii8/gXB0=",
+        "satnogs-network-api-client-1.100.tar.gz"
+      ],
+      "wheels": {
+        "satnogs_network_api_client-1.100-py3-none-any.whl": [
+          "lPt76SIJJZ8l/eCKFBfsQiqvWvNXH74DGv3WcsEZDWY=",
+          "py3"
+        ]
+      }
+    },
     "1.57": {
       "sdist": [
         "jYBvPkzhDzc0OlZIId3daYcYUyxqCfJkigu4OYz7vgQ=",
@@ -114338,6 +114376,30 @@
       "wheels": {
         "satnogs_network_api_client-1.97-py3-none-any.whl": [
           "X7v5XrnZ47v7BER9qe+Y+Ue5lp+vmXuUUuUmSrm9VSM=",
+          "py3"
+        ]
+      }
+    },
+    "1.98": {
+      "sdist": [
+        "grGTbkA0rHemdbmDi3pDtUYfp3Bq85fFd1xtQAV4Gwo=",
+        "satnogs-network-api-client-1.98.tar.gz"
+      ],
+      "wheels": {
+        "satnogs_network_api_client-1.98-py3-none-any.whl": [
+          "sz9wb+mGDCXTbKqV2LyRX3CDfGWkERL9BCy3M2k3TEg=",
+          "py3"
+        ]
+      }
+    },
+    "1.99": {
+      "sdist": [
+        "JykUF9IeMTvk0R8+h2Nes80M9Qxg/IUoyLy9aRmZIzs=",
+        "satnogs-network-api-client-1.99.tar.gz"
+      ],
+      "wheels": {
+        "satnogs_network_api_client-1.99-py3-none-any.whl": [
+          "KKpXWjF1vPxup7ytMjIIa8LolUjT2aBcpJzmpTYPL2s=",
           "py3"
         ]
       }
@@ -115130,6 +115192,18 @@
       "wheels": {
         "schedula-1.4.1-py2.py3-none-any.whl": [
           "mDelhkD2xyRHyeIkeF3OJHzTDtQ1wY67mdztmhpwy6Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "r09Q+KaEIr2elEbZETlSVHkhKk7l7en5BavfOE22mGw=",
+        "schedula-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "schedula-1.4.2-py2.py3-none-any.whl": [
+          "OO5IQoWsRg5Brti3Ls04R55O/oB13BWg5FgejgXCuxs=",
           "py2.py3"
         ]
       }
@@ -138418,6 +138492,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221214-cp39-cp39-win_amd64.whl": [
           "IeT9XOsviJMuRV56twL9YJEzV87SY+DMOXzOYzFFpso=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221215": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221215-cp310-cp310-win_amd64.whl": [
+          "4N5bGecEvx0KrmJVeNyNkz6Q1+efFMxxa7B4DyXzRRw=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221215-cp38-cp38-win_amd64.whl": [
+          "+m1zkJjDf4x+J2qliE0esZK+klsqual2ySjW06EB+w4=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221215-cp39-cp39-win_amd64.whl": [
+          "ubsZrJO18eQ+vwDz4dQNTuXBKEDPo7Cmbbe+E1ymsB8=",
           "cp39"
         ]
       }

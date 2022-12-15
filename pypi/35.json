@@ -7587,6 +7587,18 @@
           "py3"
         ]
       }
+    },
+    "3.2.1": {
+      "sdist": [
+        "LugAUFfB+wCOYOXcXIXOB+azmOQgNDsxDj+XszX9MCg=",
+        "armonik-3.2.1.tar.gz"
+      ],
+      "wheels": {
+        "armonik-3.2.1-py3-none-any.whl": [
+          "X5rwmdREo6MwVbgLv/mcEz5cr3p4+QpPNrQp6iERqms=",
+          "py3"
+        ]
+      }
     }
   },
   "artemioaday": {
@@ -52143,6 +52155,20 @@
       }
     }
   },
+  "gopest": {
+    "0.0.2": {
+      "sdist": [
+        "xgdnGvXCJ6TE9QWVJxAyvbGWRfRwmh5dDRbE0E59LiM=",
+        "goPEST-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "goPEST-0.0.2-py3-none-any.whl": [
+          "A9oJSHuchkVsXQNGyLAedjh7BpJ/YDPokaJhqhopYes=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gosmscz": {
     "0.1.6": {
       "sdist": [
@@ -53002,6 +53028,14 @@
       "wheels": {
         "groupdocs_translation_cloud-22.11-py3-none-any.whl": [
           "juAz7MdcXQge/A4KmUurgqG+UU6A2Gl2ndxeDRkuwbA=",
+          "py3"
+        ]
+      }
+    },
+    "22.12": {
+      "wheels": {
+        "groupdocs_translation_cloud-22.12-py3-none-any.whl": [
+          "+QKjscIP7WNOgUkuiBIHiFhN8L+Ay9D1MPaqh9MOnck=",
           "py3"
         ]
       }
@@ -96740,6 +96774,14 @@
         ]
       }
     },
+    "14.0.1.2.1": {
+      "wheels": {
+        "odoo14_addon_account_banking_sepa_credit_transfer-14.0.1.2.1-py3-none-any.whl": [
+          "GEOvJfmBuhQ7DxMemB9lCTV5qDWUG7enxSJohQTBLfY=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.2.1.dev2": {
       "wheels": {
         "odoo14_addon_account_banking_sepa_credit_transfer-14.0.1.2.1.dev2-py3-none-any.whl": [
@@ -100077,6 +100119,18 @@
         "papyrus-2.4-py2.py3-none-any.whl": [
           "03oAOtJZcYP9hk3jPR4ZejTrLiDNWXPluBkvsBs3CH4=",
           "2.7"
+        ]
+      }
+    },
+    "2.5": {
+      "sdist": [
+        "pOPV5MkcsiBaVya158ddRsTuPprkPCE9F199tN4ZiWc=",
+        "papyrus-2.5.tar.gz"
+      ],
+      "wheels": {
+        "papyrus-2.5-py2.py3-none-any.whl": [
+          "KmBKY1goNPLKH0lFjqkBl3LIOrlGTlev3D7ZoWn76sQ=",
+          "py2.py3"
         ]
       }
     }
@@ -119612,14 +119666,14 @@
     }
   },
   "roc-idb": {
-    "1.2.3": {
+    "1.3.0": {
       "sdist": [
-        "SY0SrZ2two89ZvveQn2KaARMBrwGn1XuupvJ1dK874U=",
-        "roc-idb-1.2.3.tar.gz"
+        "OgQyQaRpjLqM8sw9GNQA85Csgr79VwKrhIWbhrOAtRk=",
+        "roc_idb-1.3.0.tar.gz"
       ],
       "wheels": {
-        "roc_idb-1.2.3-py3-none-any.whl": [
-          "s2gEC0RWTZ5tMRXCGOW69b15Rjw+gxwZsm6DVTzNq6s=",
+        "roc_idb-1.3.0-py3-none-any.whl": [
+          "iwp9BFxTc5UwAFUN6Tl1rS1LySFSGz5On/ePpJGf6i0=",
           "py3"
         ]
       }
@@ -124785,6 +124839,54 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "ma191MaUFuUiWdBTLSLwXDErc7j3x6e5g2gHt98iRfg=",
+        "simplay_jupyter-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "simplay_jupyter-0.1.4-py3-none-any.whl": [
+          "0Q6S4kmoApg9WVCgWQ2OQfi5MA67EYo0VO2G4ozOZmI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "sRiHMlmARbtsivk5/sr8bmYueJzUABwqfYn6UGIxOeI=",
+        "simplay_jupyter-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "simplay_jupyter-0.1.5-py3-none-any.whl": [
+          "VZPaCogpN6GIasaYkFtX3vad3qHf/NVST88Wbdv3QxU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "d6pVdYv0SNWJn6G3WEnPhr0qLgedGWAMsZmEUrh6bjE=",
+        "simplay_jupyter-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "simplay_jupyter-0.1.6-py3-none-any.whl": [
+          "VhMXZ2BauTFke08tC0onjjN5yLlDZIrPThZ1wBYhMGg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "WuRRs4HXBvkLppESMILOGLK3BVestXJ/iwKpGNLGB8k=",
+        "simplay_jupyter-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "simplay_jupyter-0.2.0-py3-none-any.whl": [
+          "4AblvhixXFLf5glURKNh4qic7W0brYISRGYHWjAIcDc=",
+          "py3"
+        ]
+      }
     }
   },
   "simpleatemmixer": {
@@ -129471,6 +129573,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "errgyuOI3TcyV+RAKJQ9vv0sqq3pcWe6WaDIyRbc4Jk=",
+        "ssfm-gpu-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ssfm_gpu-0.0.5-py3-none-any.whl": [
+          "dDh4Gw2Rx8N3RP3rjqCS/DgaJcgVJZNIxdZHN+YPrmY=",
+          "py3"
+        ]
+      }
     }
   },
   "ssh-api": {
@@ -130526,6 +130640,18 @@
       "wheels": {
         "superscreen-0.7.0-py3-none-any.whl": [
           "Qd7smnXug/TyZlCFOVe/npoJND9kKCb24Eo+sWt9yeU=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "eKRWCHwdR7XkWfIDvFmCYeZwHzX+ThA7nr6og1tP2aM=",
+        "superscreen-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "superscreen-0.8.0-py3-none-any.whl": [
+          "WqZH+naabnNHYvdBikNfW5v/eeqdq64mG1t66Dzmd+w=",
           "py3"
         ]
       }

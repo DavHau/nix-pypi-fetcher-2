@@ -36471,6 +36471,54 @@
           "py3"
         ]
       }
+    },
+    "23.4.0": {
+      "sdist": [
+        "jMOppTmINKJgC6bfYHKJPZI/E2XsnBa6mSiWKM2PA/8=",
+        "cg-23.4.0.tar.gz"
+      ],
+      "wheels": {
+        "cg-23.4.0-py3-none-any.whl": [
+          "sapfE0YTxUrPBKBQTXkRTBj54nHf3LRj/46UQQboYs0=",
+          "py3"
+        ]
+      }
+    },
+    "23.5.0": {
+      "sdist": [
+        "hvWuwhLi6lCxhsMwevXtXBiqN6Izf4BTYrPd9HIG55Y=",
+        "cg-23.5.0.tar.gz"
+      ],
+      "wheels": {
+        "cg-23.5.0-py3-none-any.whl": [
+          "6gRNID7Z0E8VnEkVka3rc2OkhXQUghY3NMm6Ic1Zj5A=",
+          "py3"
+        ]
+      }
+    },
+    "23.6.0": {
+      "sdist": [
+        "0hPciDVDlw2HM0TK32D4I7Kj/MSG+rkLwrcafhi3P8I=",
+        "cg-23.6.0.tar.gz"
+      ],
+      "wheels": {
+        "cg-23.6.0-py3-none-any.whl": [
+          "WrOQml4rMi1JJxWaF/Hg7z9QByPVU3WyU7rpcw3SsnU=",
+          "py3"
+        ]
+      }
+    },
+    "23.6.1": {
+      "sdist": [
+        "K7Utrpgypra2Fh1xdZHDXWIxiLloExxYHyi7wzH9mts=",
+        "cg-23.6.1.tar.gz"
+      ],
+      "wheels": {
+        "cg-23.6.1-py3-none-any.whl": [
+          "2VBLrfnAki0dkhV1q5jzjgUUjcyqU3og54etTVpweT4=",
+          "py3"
+        ]
+      }
     }
   },
   "cgdb-client": {
@@ -72497,6 +72545,20 @@
       }
     }
   },
+  "gl-parser": {
+    "1.0.0": {
+      "sdist": [
+        "4WeD2FqU25Xgyo/oUqos+W/0gmcES5CQsXwqEKqMoIA=",
+        "gl_parser-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "gl_parser-1.0.0-py3-none-any.whl": [
+          "tgT1W/DYTuYanN4oHnE7gbO0RkjRA4DLKXR5WG2a88c=",
+          "py3"
+        ]
+      }
+    }
+  },
   "glfw-cffi": {
     "0.1.0": {
       "sdist": [
@@ -103230,6 +103292,68 @@
       "wheels": {
         "piam-0.1.0-py3-none-any.whl": [
           "YdnYnatWnbhE8DDBBal30RGAknTf90vMVozY1IS/CbM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pii-optimized-logger": {
+    "0.0.1": {
+      "sdist": [
+        "1Fsk2ZuIu3jDoAfdG9rgg2jQ2oor2VnuEcow96ReDdo=",
+        "pii_optimized_logger-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pii_optimized_logger-0.0.1-py3-none-any.whl": [
+          "aiI8wZ+LsWXWuaX5GBkuK/fg2Qw3QT8qp/wTFPPdaq0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "/9RZZySt/Z79RVZO91lW6OS0sFTtxbVawGklpSK3ZuQ=",
+        "pii_optimized_logger-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pii_optimized_logger-0.0.2-py3-none-any.whl": [
+          "E7GhNT7AWVLRjwyX0BJkxmT2bpU5UHQ8MlXWE4nscwk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "6IBcTFNSQlmIpDnEFQxzcKnJaLKmc2FaFGuvwbLjCp4=",
+        "pii_optimized_logger-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pii_optimized_logger-0.0.3-py3-none-any.whl": [
+          "TDA8hVY/N9La/x7cYFWNRe0VxRVYRXmKba1tf5xHqaE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "U1VDbkKR1cyNjedMVKW9FQvLe14MFQ+n6+e04wHV/Hw=",
+        "pii_optimized_logger-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pii_optimized_logger-0.0.4-py3-none-any.whl": [
+          "b0/Ms+rSSWTlXEX5KGOKsQw8TiICNgn6kJ6o6EGERFM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "quA36Pz2VtwzNKOUzluk4cVV8j6i0EodjtyZ0XwDwMs=",
+        "pii_optimized_logger-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pii_optimized_logger-0.0.5-py3-none-any.whl": [
+          "+7x0lNZzAWNZ50PQzstuH98m6LLdrUxJuvsHn09IJWE=",
           "py3"
         ]
       }

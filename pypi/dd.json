@@ -36195,6 +36195,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2023.0.0": {
+      "wheels": {
+        "daal_include-2023.0.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "x+StHmF3cxLbC839LHNZuqKlBfsy27CPTRUs80//gcQ=",
+          "py2.py3"
+        ],
+        "daal_include-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "YLwkC9zR5Hnjx29g9AqZ3bX71c1IgwZFgdma7DL+gho=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dada-cache": {
@@ -56241,6 +56253,126 @@
           "pp39"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "m7znrgdcHZGAkzn0mTVdwSPEbY5bH8F3a56CulrNPd0=",
+        "envd-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "envd-0.2.6-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "3uy/XqaGwdNDCQUdSIahQbIfSJbQgRJzvTzwMz7rDYw=",
+          "cp310"
+        ],
+        "envd-0.2.6-cp310-cp310-macosx_11_0_arm64.whl": [
+          "StHLUiFwfuARUEVJGZ4uwQGndebWPnrnXuPbAlU49Qk=",
+          "cp310"
+        ],
+        "envd-0.2.6-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6YvI+NI5Y3BX68HhvkDPq/DUCektX3N8UWlXZSOVHvE=",
+          "cp310"
+        ],
+        "envd-0.2.6-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "DylePcYzEub9GiItW9SsGKU+xDOOsH0L+nckdbb7x14=",
+          "cp310"
+        ],
+        "envd-0.2.6-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "daje9h76ejwByq4YFIFI8wds9I5RQywqtQB5xvf3phA=",
+          "cp311"
+        ],
+        "envd-0.2.6-cp311-cp311-macosx_11_0_arm64.whl": [
+          "Czo7vtDrnj14Ttwv+24EmGOk4UCr6mpUxC2GiW2ncnA=",
+          "cp311"
+        ],
+        "envd-0.2.6-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4QnR+VLZWGqc7nPQmBM3NAdztJzBKuGW0WXboT2OA5k=",
+          "cp311"
+        ],
+        "envd-0.2.6-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "M4TIXTKaZxROSUL1q/E0h+T6SjM5QA3Khg2jpo6vxV4=",
+          "cp311"
+        ],
+        "envd-0.2.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "SLL7R5hyz8N45tBsKz5CXqY9jfjc9n8u8LORpAno6No=",
+          "cp36"
+        ],
+        "envd-0.2.6-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZgfmhRFHIFCE6iHZZhbucnZmSHTriVN+TN7e/WwSiD0=",
+          "cp36"
+        ],
+        "envd-0.2.6-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "XWnkIlztZxqt4tBhvCa17sMMqAJcTrE5QHGhfIRXT0Y=",
+          "cp36"
+        ],
+        "envd-0.2.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "urrIT6QHdRS7XujWMaRZI+gF4lQqMJPJbvG93iovpPY=",
+          "cp37"
+        ],
+        "envd-0.2.6-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mayD7CNVsr62wk9VE17OSYyjLtGzq7+gnYkQ5aELfao=",
+          "cp37"
+        ],
+        "envd-0.2.6-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "uS7oCxLInBF0c810PyJ5XcYRXSeKPV8H5imRtBSYtCo=",
+          "cp37"
+        ],
+        "envd-0.2.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "3vImDT7+vVd8kj95JLem8o23VXGbxHhNhUqO3ldLwhk=",
+          "cp38"
+        ],
+        "envd-0.2.6-cp38-cp38-macosx_11_0_arm64.whl": [
+          "tX0Y1y2HQB036dpGiKcAa8nDMoCR5UdZhB4yVU80XKE=",
+          "cp38"
+        ],
+        "envd-0.2.6-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ir7f1Oy/GTijCBIrXJyTOXcHstcHnS5vawGCUsbXNLk=",
+          "cp38"
+        ],
+        "envd-0.2.6-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "jqD9VjJcA7yqWDyo1COOK8Vf0tm8vlT+CE3rHk/aVGk=",
+          "cp38"
+        ],
+        "envd-0.2.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "jfaIXkvgWCiO81cZDkZFrVInJcls91sPdTEBzRoBkB8=",
+          "cp39"
+        ],
+        "envd-0.2.6-cp39-cp39-macosx_11_0_arm64.whl": [
+          "bENwKM+i7EEMVKOXLDkY9luVfJbvIW8iCjjw1HDqoxI=",
+          "cp39"
+        ],
+        "envd-0.2.6-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UcE6yordRZuGEu1HWS3H5M4pgYBZrKSyZMVFl9+7ei8=",
+          "cp39"
+        ],
+        "envd-0.2.6-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "TFNPjJw8bHSDI+h4rMtHwWRc9LN8E6MbWIY9CKMS5pY=",
+          "cp39"
+        ],
+        "envd-0.2.6-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "4wA533u4wqbD8CYNrvFeqcO4cAbEJcVuIR4E2y9UhKA=",
+          "pp37"
+        ],
+        "envd-0.2.6-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8ptdIMbVxwQqPd0Cmvw3DSkRkBs95EJ33IjUsfMeC0M=",
+          "pp37"
+        ],
+        "envd-0.2.6-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "XU8GU269sxnSmXTfKwN4QQD/Gpt4LZG6Bcs8OSfjMUI=",
+          "pp38"
+        ],
+        "envd-0.2.6-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+2fZQqGaktAJK0sIIgx1MMA0rnenWFr5i8APSeg4ZLk=",
+          "pp38"
+        ],
+        "envd-0.2.6-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "lZHbiTvBXtw/jbCnRPioivN7IQkC/xAtZJfbB2Nx6kg=",
+          "pp39"
+        ],
+        "envd-0.2.6-pp39-pypy39_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KUhTl6nFjHKW/yd3fj1MRqH11JyTb4uG9TO9q9cTfm4=",
+          "pp39"
+        ]
+      }
     }
   },
   "envolved": {
@@ -62518,6 +62650,18 @@
       "wheels": {
         "gbak-2.63-py3-none-any.whl": [
           "43wclj7oqT5kR0ffb9R2Vy1wu4N6jNkrxRpTi4Uiowo=",
+          "py3"
+        ]
+      }
+    },
+    "2.64": {
+      "sdist": [
+        "sjAbZCyKU6pS2m7602or1NefUBhb2OaBKxkMnT1VpDo=",
+        "gbak-2.64.tar.gz"
+      ],
+      "wheels": {
+        "gbak-2.64-py3-none-any.whl": [
+          "+ID10P1mTVshTULp0BCsR6/h1tQvLnwN5OMLEUSAJ5k=",
           "py3"
         ]
       }
@@ -106640,6 +106784,14 @@
       "wheels": {
         "pyolive-0.2.2-py3-none-any.whl": [
           "0glSKuG6e8R/beBcR1x+hDzsbt0vb5CgBsTGhxcRvxY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "wheels": {
+        "pyolive-0.2.3-py3-none-any.whl": [
+          "8kUj9G3sMGeFafPHMMFxt2gfy0PQNQLuNIf/c21A3U4=",
           "py3"
         ]
       }

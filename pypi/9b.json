@@ -54301,6 +54301,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "wheels": {
+        "gravity_auto_exit-1.2.0-py3-none-any.whl": [
+          "kn5cBZ6ha5sQVHlT3RjRwXJcnH9+swfcg+9vTl3YS+g=",
+          "py3"
+        ]
+      }
     }
   },
   "graystruct": {
@@ -56700,6 +56708,14 @@
       "wheels": {
         "huaweicloudsdkdli-3.1.15-py2.py3-none-any.whl": [
           "SUV6S3R26rajOKmEd4ifAbxcvb+tpBhxKab0khT6Uao=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.16": {
+      "wheels": {
+        "huaweicloudsdkdli-3.1.16-py2.py3-none-any.whl": [
+          "nwY0QjXO9TxP+zVxHD1IgN2USynYele+526tsBiPKkQ=",
           "py2.py3"
         ]
       }
@@ -76390,6 +76406,14 @@
       "wheels": {
         "mse_lib_sgx-0.11.1-py3-none-any.whl": [
           "odPDIH64B1RPy77V6El2VYNCDcFddKLyuN6yX8wuJwQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0": {
+      "wheels": {
+        "mse_lib_sgx-0.12.0-py3-none-any.whl": [
+          "c2KzMk1y3iBn6ax55SSLqpwLAiAgJ7pCak6oYZbZsXk=",
           "py3"
         ]
       }
@@ -113656,6 +113680,18 @@
         ]
       }
     },
+    "0.12.34": {
+      "sdist": [
+        "YInCFm1Pus64vr0LTktsDF8HeElLrTpuHOQbiNP/qUI=",
+        "pytest-homeassistant-custom-component-0.12.34.tar.gz"
+      ],
+      "wheels": {
+        "pytest_homeassistant_custom_component-0.12.34-py3-none-any.whl": [
+          "Ios8JuIWBST7x+jmrvNQDtDeqAP90xIpkSa08gOJ8wk=",
+          "py3"
+        ]
+      }
+    },
     "0.12.4": {
       "sdist": [
         "oHVqPQBjv4bGcqkTt0ZSzA7oTOJ3HEezXhav8zX4tck=",
@@ -140833,6 +140869,46 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221214": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "jDFq166iPjDXbH4KNCZeReixKspKYxzJxqdlgpPrNus=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "FMC3F73Jtheo5/YSpdGzVeenUUoNMfQr/8p6Ls0yf+Q=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "F3Gr4i5zKqv3HexsMQNESRVCwmGzqJq0vMFVEPMjACQ=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp38-cp38-manylinux2014_aarch64.whl": [
+          "N++X1F+r6N2tit3dBYyj/H3vd+/IKfg3Ou0hTqtb5Z4=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp38-cp38-manylinux2014_armv7l.whl": [
+          "lVTdyOvohMnsu7tCSh6XxJlfcMUxcq8PYEcH9alzhCM=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp38-cp38-manylinux2014_x86_64.whl": [
+          "LiXVEAo+1WpGKAYKZ6FqVv4vFuGYQO+W/z7BVvmblgs=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp39-cp39-manylinux2014_aarch64.whl": [
+          "lJPfN248dmq50xlkowbExAh//3biGxGhReE8LAB8+TE=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp39-cp39-manylinux2014_armv7l.whl": [
+          "S5PBxOvq0wH/sMlCiw4SC/gXE9QLjiJ5RMYRsjvgJdw=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221214-cp39-cp39-manylinux2014_x86_64.whl": [
+          "8Fw2NohzS4neQ4J1rigDfXQZsngw/jHC1AOuFNbINjc=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfset": {
@@ -147074,14 +147150,14 @@
     }
   },
   "uploads": {
-    "0.11": {
+    "0.12": {
       "sdist": [
-        "tIxYqrMoaoB9tOYEhxE6J+RURTwa9AqaEK8R1e0yYms=",
-        "uploads-0.11.tar.gz"
+        "MpSvzBUSRo5WeEAYq9itOJxXIj/6VUpTuYWLkypfh7A=",
+        "uploads-0.12.tar.gz"
       ],
       "wheels": {
-        "uploads-0.11-py3-none-any.whl": [
-          "7sucVtOWxUI8IMZZ42xMMpswTrjOC6vQwRWyGsOd4Dw=",
+        "uploads-0.12-py3-none-any.whl": [
+          "6rcErHd1z/2ZbWKQ1t9SKcDCqWdpjUsmwNR2UdG5VKo=",
           "py3"
         ]
       }
@@ -153892,6 +153968,18 @@
       "wheels": {
         "weaviate_client-3.1.1-py3-none-any.whl": [
           "k+UoHXA+9AXu2u5Io8RElruR9mVrEG/TE7xZD3JJPeY=",
+          "py3"
+        ]
+      }
+    },
+    "3.10.0b0": {
+      "sdist": [
+        "A04tr8NPW38dRaOoXb5qzskh2saplaCtZ/I3jPQAWag=",
+        "weaviate-client-3.10.0b0.tar.gz"
+      ],
+      "wheels": {
+        "weaviate_client-3.10.0b0-py3-none-any.whl": [
+          "qN+C0pPfwoUQzYPIP4vaXt+YmOciYnQxaR+oz8eXlnI=",
           "py3"
         ]
       }
@@ -160958,6 +161046,44 @@
       "wheels": {
         "yve-0.0.21-py3-none-any.whl": [
           "SdFvgF1KQA//ebmMAlWShEvs5fym/MHQYqOobcMp08s=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zarabaza": {
+    "0.0.6": {
+      "sdist": [
+        "erdKDRLsLgnMunjDkpZNk102v84DVfo0/acb9IUZgmU=",
+        "zarabaza-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "zarabaza-0.0.6-py3-none-any.whl": [
+          "C023a+KMWUagRh6fMPXv66Ru4umqW9uKVQsqujvWpJE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "8MrOILumlsvxINPzdYK+JglcyXx2pjzLcV/Qr8vK6o0=",
+        "zarabaza-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "zarabaza-0.0.7-py3-none-any.whl": [
+          "bnN9LpC4HnZfMp3u2EVaPDhV3k1nXFqOO9kAxr7I/Mg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "RrBle9Nf+vQYiawJ4mhY4eAGk3/beQdvhRO8WOO2PQU=",
+        "zarabaza-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "zarabaza-0.0.8-py3-none-any.whl": [
+          "cJD0IL/GsqDDDOd1Zss0+lQiiVNCNotWRB6retI3dD4=",
           "py3"
         ]
       }

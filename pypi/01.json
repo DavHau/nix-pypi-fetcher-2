@@ -20217,6 +20217,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "7YCCAXsXPy6xozuedEX/UkNL7suKRZfOpk2y+Dl3Jk8=",
+        "cloud-cost-allocation-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "cloud_cost_allocation-0.2.6-py3-none-any.whl": [
+          "P7akeaEYpc5CR8GMFXykVvMH4HzTL2Fqv5TEEvQ60mY=",
+          "py3"
+        ]
+      }
     }
   },
   "cloudos": {
@@ -24600,6 +24612,18 @@
       "wheels": {
         "crazy_thursday-2022.12.15.0-py3-none-any.whl": [
           "QkI+Qgbnt7T4hjpsxrEhzs8zynfcnv4AVk5HrxOs150=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.15.1": {
+      "sdist": [
+        "qEF/o1D68CRwV8CWdPZzciPE8cZp/bLpscDDnTpLNVk=",
+        "crazy-thursday-2022.12.15.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2022.12.15.1-py3-none-any.whl": [
+          "qgQ1/B0u1IZ+mFnAkCnloxuz5VZ4aj662KdH65nyA2k=",
           "py3"
         ]
       }
@@ -41994,6 +42018,18 @@
       "wheels": {
         "ecoindex_cli-2.15.0-py3-none-any.whl": [
           "+HwgjBpEH31hbMpTP4cactU/3wQdbnot/sg+l0ZdMsU=",
+          "py3"
+        ]
+      }
+    },
+    "2.15.1": {
+      "sdist": [
+        "A25RSouo7UjrKC+AHJ1mHTq3zNPE6amxKS/9fbGH1nY=",
+        "ecoindex_cli-2.15.1.tar.gz"
+      ],
+      "wheels": {
+        "ecoindex_cli-2.15.1-py3-none-any.whl": [
+          "bFP2GDqgXhiQBHm405nLXDpsfUzJCEwic+N+VwKhGzg=",
           "py3"
         ]
       }
@@ -60264,6 +60300,22 @@
         ],
         "intel_openmp-2022.2.1-py2.py3-none-win_amd64.whl": [
           "d0FCicFMtI1/mZJtppyc7Z5wwn/rglsGCPME+dSYRK4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2023.0.0": {
+      "wheels": {
+        "intel_openmp-2023.0.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "dxMcLNp1rOIGD26c3Mn5xnLsg4xGAvxUTOCFjP6PQW4=",
+          "py2.py3"
+        ],
+        "intel_openmp-2023.0.0-py2.py3-none-manylinux1_i686.whl": [
+          "rfsysN3ms6lc7WJgiwWkWnz62SgFQTbdv+BWPhbL8zw=",
+          "py2.py3"
+        ],
+        "intel_openmp-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "HrzkffC13a13mSpwaJ/TGF3yX0fPkB3YOE/W0FqXT4E=",
           "py2.py3"
         ]
       }
@@ -87311,6 +87363,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "rAkmLVN0dmiTXBsVAsSDNiA9edWgfmjNewxHLLYfiiw=",
+        "nisystemlink_clients-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "nisystemlink_clients-1.0.0-py3-none-any.whl": [
+          "9c7SWRCjkAXK/HW3q/Un+8AXQSCxVcr2TgVxMWES7rY=",
+          "py3"
+        ]
+      }
     }
   },
   "nlpcorepy": {
@@ -101783,6 +101847,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "RkP8zbORrhUotYlma0L5Ooj/dsb4HsdMzFrA8QkEy+Y=",
+        "prefect-stitch-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "prefect_stitch-0.1.4-py3-none-any.whl": [
+          "L5o5R/Enedx6sDfPiLWyshB8HpqgfHfg5yH44PcZQXI=",
+          "py3"
+        ]
+      }
     }
   },
   "prepdata": {
@@ -103512,6 +103588,30 @@
       "wheels": {
         "proactive_jupyter_kernel-13.1.0.2212150241.dev0-py3-none-any.whl": [
           "j+WJHHVn+9olvxrAS/95eXl9CDOuMT823//olP6gbWs=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2212150920.dev0": {
+      "sdist": [
+        "PFPA5I8ONjK05yJ+YFZIV9+JK2ACLsC2QEeuDFy5wJ4=",
+        "proactive-jupyter-kernel-13.1.0.2212150920.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2212150920.dev0-py3-none-any.whl": [
+          "3OKCSrvTsBVM5a/jW4VO/l0ArxKXqLOERdfUUL6eMwo=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2212151527.dev0": {
+      "sdist": [
+        "M/UPfGLqD09RJwLDF/U/P2ru/inU3Lsq00+c6sMcGWA=",
+        "proactive-jupyter-kernel-13.1.0.2212151527.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2212151527.dev0-py3-none-any.whl": [
+          "gkPjKyEl550+J1MlfxSPvrmgVTU82u8VdVh4sjG9s58=",
           "py3"
         ]
       }

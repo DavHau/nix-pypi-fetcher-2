@@ -26917,6 +26917,20 @@
       ]
     }
   },
+  "ckanext-passwordless-api": {
+    "0.1.0": {
+      "sdist": [
+        "9dUAfV07Hnec8br5zKowLmTSwloqlo0f4SXaCWGKYDA=",
+        "ckanext-passwordless-api-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_passwordless_api-0.1.0-py3-none-any.whl": [
+          "NlIaPsdwl9CFUd4M735jgIOawAbvKdpRf6YKJtO57lA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ckcommon": {
     "0.0.1": {
       "sdist": [
@@ -30899,6 +30913,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "c4gBcIIF+5xOuJTt3JRgVSCMmDUo9hFlqIeYV7ZOGqE=",
+        "dagshub-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "dagshub-0.2.6-py3-none-any.whl": [
+          "+BmHR1cjv1HMxGgdPf2Owvzn02c9h3VVsSQMygj/POQ=",
+          "py3"
+        ]
+      }
     }
   },
   "dapple-planner": {
@@ -33314,6 +33340,18 @@
       "wheels": {
         "deepsearch_toolkit-0.6.0-py3-none-any.whl": [
           "z19+aGVqpOoNMkuQDHLilaZfQFAT8GFv8jBe+6NyIxA=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "BKkEcGlipkM8VM94p1J6eaFI9xiV+NaN1ostA4zqeVw=",
+        "deepsearch_toolkit-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "deepsearch_toolkit-0.7.0-py3-none-any.whl": [
+          "6IpbjpdKsunN1ysVAao+BAzatEsjqdKkdIf/FRzGpIM=",
           "py3"
         ]
       }
@@ -42234,6 +42272,18 @@
       "wheels": {
         "emulsion-1.2b9-py3-none-any.whl": [
           "idSm4ILLzsf1yWKfGjFw9xNUmPXWquit9tgeUg764go=",
+          "py3"
+        ]
+      }
+    },
+    "1.3b1": {
+      "sdist": [
+        "pn9oiOjDguC0hB0A4dGZtS/d/53q++4TnwOXQHDmttI=",
+        "emulsion-1.3beta1.tar.gz"
+      ],
+      "wheels": {
+        "emulsion-1.3beta1-py3-none-any.whl": [
+          "YKGcU7hzd8C2Byg0ucxCeq9dhSZyKRJFG/lloGr/doI=",
           "py3"
         ]
       }
@@ -77604,6 +77654,90 @@
         ],
         "mqt.ddsim-1.13.0-cp39-cp39-win_amd64.whl": [
           "OJnRSCa7hxhilKoMBwlwVWLQJgSNI7uPPzstesKkz70=",
+          "cp39"
+        ]
+      }
+    },
+    "1.13.1": {
+      "sdist": [
+        "scxBZ9trOQpVtMpZHgWdxglsLbtQVZZafAxJ0UO+rJk=",
+        "mqt.ddsim-1.13.1.tar.gz"
+      ],
+      "wheels": {
+        "mqt.ddsim-1.13.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "si4rm6XxcZYvT6wzWVV5aHQ8dL4C+5ghR08yIjBBYnw=",
+          "cp310"
+        ],
+        "mqt.ddsim-1.13.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "wUSDhY5lZ9Z0nT9H2idkEbE+ZP2zXQpWolkZnO0q1iU=",
+          "cp310"
+        ],
+        "mqt.ddsim-1.13.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u72+X1HRx40iViaXut7Jd2yvlgNaK/CjCwnBQUCb7IQ=",
+          "cp310"
+        ],
+        "mqt.ddsim-1.13.1-cp310-cp310-win_amd64.whl": [
+          "WvKjoGNODcMzLzUA2mw/r1Y3MnBdjPrmkIbJPRYdYx8=",
+          "cp310"
+        ],
+        "mqt.ddsim-1.13.1-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "EHiJpfz6rqg9tB4s3txhCxgXnS9nqYTuYWOMHA+vz2M=",
+          "cp311"
+        ],
+        "mqt.ddsim-1.13.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "1BQ1CYALyklcvzez/4WnnONlNs2qMElkMLG0HHMLTSw=",
+          "cp311"
+        ],
+        "mqt.ddsim-1.13.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1cnM1kn2UzgDwaEyxYD71wGjQlvOsfgwbOhzuWwOmsU=",
+          "cp311"
+        ],
+        "mqt.ddsim-1.13.1-cp311-cp311-win_amd64.whl": [
+          "LRdScyD+aw9XknEwgJj638+5iIQwgb/v4luB+BwC4OE=",
+          "cp311"
+        ],
+        "mqt.ddsim-1.13.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "Ty9FxBMQgVGVh3eIa9e+IYHL27hIeBKlyQeEedzdMC4=",
+          "cp37"
+        ],
+        "mqt.ddsim-1.13.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NdVBdmxUwmCMIrymfzPlkI+sLbdSs1JzU4q02zn8Ja8=",
+          "cp37"
+        ],
+        "mqt.ddsim-1.13.1-cp37-cp37m-win_amd64.whl": [
+          "kNQxcBucTrWRbVBCve0KpXzMLM5KCicEYHC8LLy3dyY=",
+          "cp37"
+        ],
+        "mqt.ddsim-1.13.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "T5pbP/ojs+Q+jOVVzSVG53rucvlyt1pV6ILmVdJ1bxU=",
+          "cp38"
+        ],
+        "mqt.ddsim-1.13.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "D+fdufNOtskK1JpGAo3gAoYFrFqFFInVIzxY7/L6Db4=",
+          "cp38"
+        ],
+        "mqt.ddsim-1.13.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4wzhx5jj87pFxEj3mYJHJb/8qd2324Nd1akQDsMakLE=",
+          "cp38"
+        ],
+        "mqt.ddsim-1.13.1-cp38-cp38-win_amd64.whl": [
+          "pFAzD2+Va3T+RH1Yvd/KiDdULKi1YUK+8DG7UirSTk4=",
+          "cp38"
+        ],
+        "mqt.ddsim-1.13.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "Et9Yg9zhq0+06wET1cZLuoYn2sIOfiiiBLbfiqlIxbM=",
+          "cp39"
+        ],
+        "mqt.ddsim-1.13.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Ynx4nOoruc/YPnr3Pb7ONzQF5LiSaL3Bekgdiykgyn8=",
+          "cp39"
+        ],
+        "mqt.ddsim-1.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YDnEg7Z6F35xdURvgr5Ei1TiCpQnv2fkOrXGsTaVPY4=",
+          "cp39"
+        ],
+        "mqt.ddsim-1.13.1-cp39-cp39-win_amd64.whl": [
+          "KzUxkQo0w1FgDtop0oatIb3qd8K+yAv2bFACwDM20AI=",
           "cp39"
         ]
       }
@@ -134640,6 +134774,62 @@
         ],
         "taf-0.22.3-cp39-cp39-win_amd64.whl": [
           "7TvzHVrTnLwyqlWGU6z2gigisJPP8WPCQlvs50loAEs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.22.4": {
+      "sdist": [
+        "1z3W7hawfYMnUGaGdBsgVUpaA/vRnaKF8I81biZWy8Q=",
+        "taf-0.22.4.tar.gz"
+      ],
+      "wheels": {
+        "taf-0.22.4-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "Iy9A74tZTpVY0lz/XuINuT8pl+7rz06km9rythWIHc0=",
+          "cp310"
+        ],
+        "taf-0.22.4-cp310-cp310-win32.whl": [
+          "hbtQcY3LpYX37S72KqXS2kPIBw/vEA8ErymyTq/75F8=",
+          "cp310"
+        ],
+        "taf-0.22.4-cp310-cp310-win_amd64.whl": [
+          "6jjZFfMhTv6cJYpISj6jupsBFc3z31waGY8fiOiWmaw=",
+          "cp310"
+        ],
+        "taf-0.22.4-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "TnSzde5Tg5hTgL3XReUNKiQqwbRd9qKSW5ioOM6ZaWo=",
+          "cp37"
+        ],
+        "taf-0.22.4-cp37-cp37m-win32.whl": [
+          "QehcKl/F95EjBtZZa2Kl2fUIPl15zQi4ofjh+xeX1u4=",
+          "cp37"
+        ],
+        "taf-0.22.4-cp37-cp37m-win_amd64.whl": [
+          "1S0Xl+NvAy/K/zpcncTG0rQyTGau1NlBv3LYi1xgpgQ=",
+          "cp37"
+        ],
+        "taf-0.22.4-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "QKzXOm3hmZrM7ffLGqz+4cS9A5JW05XWcT0NmwZQx1U=",
+          "cp38"
+        ],
+        "taf-0.22.4-cp38-cp38-win32.whl": [
+          "RGAFK92LErjvSi8Qhq1F82T0SI8jeKIfilYxeI5aumg=",
+          "cp38"
+        ],
+        "taf-0.22.4-cp38-cp38-win_amd64.whl": [
+          "5g23UxB8yneJMNrcXlEEdv/UDlt4jN1WHCM8UgviS+g=",
+          "cp38"
+        ],
+        "taf-0.22.4-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "0CHsbrcKBWpcVEmXtAHkhhFFjmqKzxwO03HFdAwLv9s=",
+          "cp39"
+        ],
+        "taf-0.22.4-cp39-cp39-win32.whl": [
+          "t7hAs1ovsXt+UrKh+1TW2ym5P4WE9muV0JIYu/M8W8s=",
+          "cp39"
+        ],
+        "taf-0.22.4-cp39-cp39-win_amd64.whl": [
+          "Wq/+VLzS8lCQyljhHD1iOLJDpZ6QkQueMs6rW2gy+4A=",
           "cp39"
         ]
       }

@@ -65147,6 +65147,20 @@
       }
     }
   },
+  "jupyter-kubernetes": {
+    "0.0.2": {
+      "sdist": [
+        "GT2jP5sgHs2NdPC7ZQHzSa8rytBPnP01B/GT7V7E1Dw=",
+        "jupyter_kubernetes-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_kubernetes-0.0.2-py3-none-any.whl": [
+          "FIhCGraznFeYvrtTaV0EX30oWfa1PMbn6dCC96xjDK0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jupyter-timestamp-filename": {
     "0.1.0": {
       "sdist": [
@@ -72720,6 +72734,74 @@
         ]
       }
     },
+    "7.11.1.dev20221215": {
+      "wheels": {
+        "lalsuite-7.11.1.dev20221215-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "8GtQEVadtFMnpuBa7O2pLTce/RdOR44mOcToeLYIGm8=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp310-cp310-macosx_12_0_arm64.whl": [
+          "QJwg/E6OfN67TUBJfj3sMboIp0gWqSyHDf2lxxoRF3w=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "g5Mo4I2o565tq5oOJsA50VF0kcHTIGmg/BE/DsGHLtI=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XSX2t4k+/Z1Uq3E0Bq3ZJMTLEleDYiHtFZ3iSCDwko4=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "Lxcuq1QCduYZ0lkGOi9jHiWHqRQrsSTJixh2w0SREoM=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp311-cp311-macosx_12_0_arm64.whl": [
+          "J7H/OaZehVrvZu57AMFMtB4zS9W+7vaU9kz/5hD0bSk=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7BMNDHpYx8xBrfHZX6XOmhaDQa5bHYUGAsACW8B1Zsk=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "y+IIVZjiq86OJnQfN3iE0pNHWVvPi2uZbMsFfMdxaZ0=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "/KF6RQtQeoD/4dvdMz8/AO8WUyH8IfPqawyLQEwdAaA=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp38-cp38-macosx_12_0_arm64.whl": [
+          "jeSt7gdyJL1wIiorVftD8GSSEBfJxEAW3RtLcgL+6p8=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rVfRqHgvHn7AlEZ2Ewxe5xFeikLBBGwbj5mrAiDh7/E=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "d5SSTC56bMmjzfjv2PaQBM1dBRgWdZ1LV0RQ7F6GmNA=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "Z9r9ra8h9tf6Kmd8sQF2KfaJNga7wIYZPyJpgniFsg0=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp39-cp39-macosx_12_0_arm64.whl": [
+          "3bhbzm5wnDZJtjsv2EIGsUnffI88r5SxbbL1O7in8bs=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "WtjJ7Q9VXoh41TIPAJ63g2P/nhkSePzbdClOhOsJSAg=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221215-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "x9qc93XJBM93/KJJwsBVEQsWrHl3Fbg1H6RpMpLKnu4=",
+          "cp39"
+        ]
+      }
+    },
     "7.2": {
       "wheels": {
         "lalsuite-7.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -75798,6 +75880,18 @@
       "wheels": {
         "lupin_grognard-1.2.0-py3-none-any.whl": [
           "zK3M5vcJvIElQlW7FwH/1Y0bz4VradvWGJ5KoPtVVnw=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "3KKKRrDcY1haFb9WYIR0ZHBJE6ScVfnws19oBztKFek=",
+        "lupin-grognard-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "lupin_grognard-1.3.0-py3-none-any.whl": [
+          "gPq6tWcSK9ElsFNOY/R+thkMckx0QP3wwLqt0HvjksY=",
           "py3"
         ]
       }
@@ -147596,6 +147690,32 @@
       "wheels": {
         "typyst-0.0.3-py3-none-any.whl": [
           "rrHYxPou9Ujm0rkMjRU53B24ZOzDcBZJVVmWyWBLkaI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ucb-client": {
+    "22.0.12": {
+      "sdist": [
+        "Gd/tpR0IlD1xwMejIvd17G895BNnnDmfKvQq4s3AkcY=",
+        "ucb-client-22.0.12.tar.gz"
+      ],
+      "wheels": {
+        "ucb_client-22.0.12-py3-none-any.whl": [
+          "JcdEqwppmfpEEE9WIsyhqFB9uoBNXgvHgJ1/ZIOEvis=",
+          "py3"
+        ]
+      }
+    },
+    "22.1.12": {
+      "sdist": [
+        "BU0spLxuaN1MNVJeFXVx275+2cPqxknnMAHgjEVGWY8=",
+        "ucb-client-22.1.12.tar.gz"
+      ],
+      "wheels": {
+        "ucb_client-22.1.12-py3-none-any.whl": [
+          "KAp/1tUZDckByfUUghzeMEObeLYE9ZYWAwevppUbD70=",
           "py3"
         ]
       }

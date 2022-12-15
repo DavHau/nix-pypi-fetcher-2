@@ -27825,6 +27825,42 @@
           "py39"
         ]
       }
+    },
+    "2023.0.0": {
+      "wheels": {
+        "daal4py-2023.0.0-py310-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "yNg+AMrzVawRQpE9byWmr18QxDtgzoWeSqXhnxr3pjA=",
+          "py310"
+        ],
+        "daal4py-2023.0.0-py310-none-manylinux1_x86_64.whl": [
+          "fyk7wVfQrClq3BTGfK3Vsa11RjpMvqjVX9ZMeZom5rI=",
+          "py310"
+        ],
+        "daal4py-2023.0.0-py37-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "0x3LJvEKjvUnexZPgIG1ffEESsqdPiQJSbVtVT6YtkA=",
+          "py37"
+        ],
+        "daal4py-2023.0.0-py37-none-manylinux1_x86_64.whl": [
+          "vqeT0PIoPNgyd8yuAwKMQngPDyx3ZFinwgCVPLFl+N4=",
+          "py37"
+        ],
+        "daal4py-2023.0.0-py38-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "POhEIGIU7arSEDscSj8Zma4jKOLERe7zTwqy2NoIh0U=",
+          "py38"
+        ],
+        "daal4py-2023.0.0-py38-none-manylinux1_x86_64.whl": [
+          "tD+LmwPG9GXjm95P+RkeS2PCIvbbGYX5sC0mbaAy8VM=",
+          "py38"
+        ],
+        "daal4py-2023.0.0-py39-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "MCwwTZvlg1g0D0F9r7sLD19OJ+HH/6yBL7tNZdvTnHk=",
+          "py39"
+        ],
+        "daal4py-2023.0.0-py39-none-manylinux1_x86_64.whl": [
+          "1IUiai707dSdXguCh/E9fi2iHckABPKIPNEiZeT6PeQ=",
+          "py39"
+        ]
+      }
     }
   },
   "danieldonatestintegration": {
@@ -41854,6 +41890,54 @@
         ]
       }
     },
+    "1.10.34": {
+      "sdist": [
+        "iXaK6L1FmQwoxt1XyAIr/oMILTtSgGvdndCHd3ZezCE=",
+        "finflo-1.10.34.tar.gz"
+      ],
+      "wheels": {
+        "finflo-1.10.34-py3-none-any.whl": [
+          "9XaLUT5t05dhHbCR/mU4laloCcTyV38DFH4AXy4zW2w=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.35": {
+      "sdist": [
+        "P7vmM1TN/pfwemdfVxqTM8KdeyRAKFyWsXqZRXe+sjI=",
+        "finflo-1.10.35.tar.gz"
+      ],
+      "wheels": {
+        "finflo-1.10.35-py3-none-any.whl": [
+          "jIt8ObzhFJa+qDivEzSiFXDAGjyKDqzyinFHv3Qd/h0=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.36": {
+      "sdist": [
+        "J5KJ/eL4L5oSF8rdnoSOxjk96csP196+8ebGCu3eq64=",
+        "finflo-1.10.36.tar.gz"
+      ],
+      "wheels": {
+        "finflo-1.10.36-py3-none-any.whl": [
+          "vkMYn15GeurplMhEHsTaCDhv2VF5mxSHVn8e0eYDVZM=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.37": {
+      "sdist": [
+        "RqqYPKYeSeNXkF+DMHsfzxJPXf08T8njt0BeA3tPtPI=",
+        "finflo-1.10.37.tar.gz"
+      ],
+      "wheels": {
+        "finflo-1.10.37-py3-none-any.whl": [
+          "ZqmYGgSv91dEMjtK2NstEop5dTNJUz3qMKTnE5FCF6c=",
+          "py3"
+        ]
+      }
+    },
     "1.10.4": {
       "sdist": [
         "wJDXC5C4yS4YO/eimIRSnUUhrGKxmrhFqS2wsrZ0De8=",
@@ -46714,6 +46798,18 @@
       "wheels": {
         "globus_action_provider_tools-0.12.0b1-py3-none-any.whl": [
           "INeLdGRSEafLYCEQAqbZG968/TzqQS3LB9J02xrdTuk=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0b1": {
+      "sdist": [
+        "268fRpm3oc64hntbIa2TwXriD7ejwD4vlIrlOm2KoKs=",
+        "globus_action_provider_tools-0.13.0b1.tar.gz"
+      ],
+      "wheels": {
+        "globus_action_provider_tools-0.13.0b1-py3-none-any.whl": [
+          "2MiypRhgtHQzHwqfOO1VNeLeAun8q9yv5VR63YD+2TQ=",
           "py3"
         ]
       }
@@ -80711,6 +80807,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "KhMgV0Z1Rxbm8qCRWM0vCCnqOI+cH9sj3knxfXyoEbo=",
+        "nl-service-metadata-generator-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "nl_service_metadata_generator-0.2.0-py3-none-any.whl": [
+          "vW1MDPLkSHaTkuntG5+brGMeKUCs7YHhKc56SBsVDbc=",
+          "py3"
+        ]
+      }
     }
   },
   "nloed": {
@@ -82642,6 +82750,16 @@
       "wheels": {
         "odoo_addon_purchase_order_line_menu-15.0.1.0.0.3-py3-none-any.whl": [
           "WqeNTcZpnd4bPKFf2MUadrsjwKmsToow1sVLA5nAxLU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-stock-picking-batch-extended-account": {
+    "15.0.1.0.0.1": {
+      "wheels": {
+        "odoo_addon_stock_picking_batch_extended_account-15.0.1.0.0.1-py3-none-any.whl": [
+          "dsd433sgdtpL6YXDRrqtuMcfsM//Ph6vDzuzScO/kkA=",
           "py3"
         ]
       }
@@ -96144,6 +96262,62 @@
         ],
         "proxsuite-0.2.14-0-cp39-cp39-manylinux_2_35_x86_64.whl": [
           "31m/y0qz7HZdQZqWe5fbuFrU4NAliKHaaNytPHAO0WQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.15": {
+      "wheels": {
+        "proxsuite-0.2.15-0-cp310-cp310-macosx_12_0_arm64.whl": [
+          "nndchBzF9zq7Fi9g0Aa13AuKuVw1pe5cV1UPIGRMS60=",
+          "cp310"
+        ],
+        "proxsuite-0.2.15-0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "+z/ZN+0rWHDRdBOdh2D8WcAYphU/AqRb+d1EvXT1/Zk=",
+          "cp310"
+        ],
+        "proxsuite-0.2.15-0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "4tqFkh9CxI5o0tiTdvG9+8npK/eseoGerxkiz5rnOLo=",
+          "cp310"
+        ],
+        "proxsuite-0.2.15-0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "FIVZS1SdXq5ZOhOtXGhYvGIPyJiJBrSQ++FQn8CkNuI=",
+          "cp311"
+        ],
+        "proxsuite-0.2.15-0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "K5ilQpmAZKpatqvI1a5IGrtHX3Ji1sAqBRJGYMQarKU=",
+          "cp311"
+        ],
+        "proxsuite-0.2.15-0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "78mAQk5If9Ex5iL9zewqfMgr5yNpF+EbO1eqClKDr20=",
+          "cp37"
+        ],
+        "proxsuite-0.2.15-0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "c/uyHxBfEDSsLkKFDb1rdVV/cwVuFX9CH8YuTsh3eF0=",
+          "cp37"
+        ],
+        "proxsuite-0.2.15-0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "C2Y7exanjXiNOCU7TpHrlEZiPktLOZHvmm2VeLbH07M=",
+          "cp38"
+        ],
+        "proxsuite-0.2.15-0-cp38-cp38-macosx_12_0_arm64.whl": [
+          "nE6U4L3dUQyBy6gY9RyH6aew/heet0DlXSf652jeXEE=",
+          "cp38"
+        ],
+        "proxsuite-0.2.15-0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "F6M9JkAymyG5gzUzG4rAtz7h1pu8308758pTs6WuLms=",
+          "cp38"
+        ],
+        "proxsuite-0.2.15-0-cp39-cp39-macosx_12_0_arm64.whl": [
+          "O6wfl3jVeNGX7FejEn4t752W7juT9UDtBZNiYlMKlvk=",
+          "cp39"
+        ],
+        "proxsuite-0.2.15-0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "/sy/uC6d2WZieDnrvH6SxF9VPYLrc1vwbhl6OGtS2jM=",
+          "cp39"
+        ],
+        "proxsuite-0.2.15-0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "Ds6UfsvcStMfVBhoq/VLqjt2bklrBbsL9Hoqd/+knRs=",
           "cp39"
         ]
       }
@@ -116660,6 +116834,18 @@
       "wheels": {
         "rapidpe_rift_pipe-0.0.7.dev20221214-py3-none-any.whl": [
           "4xPgSLJwIh+TvffYG0nPRE8b55jAiziJ2YJjY3P5qHk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7.dev20221215": {
+      "sdist": [
+        "LLiTfVR1o8+bHO6AKyEcfMbMreJzXEMroQukU9X8As8=",
+        "rapidpe_rift_pipe-0.0.7.dev20221215.tar.gz"
+      ],
+      "wheels": {
+        "rapidpe_rift_pipe-0.0.7.dev20221215-py3-none-any.whl": [
+          "xnPYKq6u2pUlLinr68gId2rGsaPetVSk6OHJygVmLa4=",
           "py3"
         ]
       }
@@ -140807,6 +140993,12 @@
         "tpNAtPftSqbqhvKQp+ESN15RhvAfGqA9v++3zVAnWDE=",
         "tc_etl_lib-0.5.0.tar.gz"
       ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "PMA1Y0mR79mSkIPCOceQkRDQwgn49hNQwqh5lWF3rxo=",
+        "tc_etl_lib-0.6.0.tar.gz"
+      ]
     }
   },
   "tcposcrouter": {
@@ -152222,6 +152414,14 @@
         ]
       }
     },
+    "3.1.2": {
+      "wheels": {
+        "udata_recommendations-3.1.2-py2.py3-none-any.whl": [
+          "ZoX9ct4cgeomxUKVXqd14vcryRmi+nBHL5iMcTNRguc=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2.dev657": {
       "wheels": {
         "udata_recommendations-3.1.2.dev657-py2.py3-none-any.whl": [
@@ -152234,6 +152434,14 @@
       "wheels": {
         "udata_recommendations-3.1.2.dev692-py2.py3-none-any.whl": [
           "JXT0B9RA1eRHTQAr/FIWrfqpiT+QVSeA6o0XrbXcr5c=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.3.dev694": {
+      "wheels": {
+        "udata_recommendations-3.1.3.dev694-py2.py3-none-any.whl": [
+          "ES+/DthWZxZqify9xyLT2s3DGdo6z/MmWF1ovPZuB/g=",
           "py2.py3"
         ]
       }
