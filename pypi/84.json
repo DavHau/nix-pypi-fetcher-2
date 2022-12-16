@@ -18680,6 +18680,18 @@
         ]
       }
     },
+    "2.0.185": {
+      "sdist": [
+        "Z7wHTipAqHn6+Wz9KSCMtb5XwcBHY73+5Y99c63MpPA=",
+        "cdk-tweet-queue-2.0.185.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.185-py3-none-any.whl": [
+          "/3rA1rBp/d9MbSfAjXJusbXvmkCv9mQX9J/mZTRb3YI=",
+          "py3"
+        ]
+      }
+    },
     "2.0.19": {
       "sdist": [
         "IC7H+FOT0/gR6gi4Grr3UoG3Xs2ouJEUOyltt4p5G3s=",
@@ -48384,6 +48396,34 @@
         ],
         "graphscope_client-0.19.0a20221214-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ydXoGQxtJf5pLsuv0COfA7450A2wIpXkpGGAE9mrb1g=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221215": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221215-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "bdOCLsupn6G2+p5Zbl2+wEqPF5kbj5Si2LhLIy1BgCA=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221215-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YJ0+ds7lXGoyMuhMKDTjPxJjtXUK6i/VTln//U25sjY=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221215-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Htzbwq0hJr/+V0rpsdOmxjLRpVOYVYEUupqnNH5y1vQ=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221215-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ytqjQD02OJDC0rhSV9sdf84mPFxdzYsZp3M4EyfYkT4=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221215-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WotX3T2kkVugke/RBAKQfjiRVWVNVeDiXV+xFHArQaQ=",
+          "cp39"
+        ],
+        "graphscope_client-0.19.0a20221215-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2R/+MsYmehm3kCTICntkmz1oX85f7l5KHo/TRNknih0=",
           "cp39"
         ]
       }
@@ -89252,6 +89292,14 @@
       "wheels": {
         "odoo14_addon_account_move_update_analytic-14.0.1.0.1.dev4-py3-none-any.whl": [
           "YwKBQaPpPQa8x0yAorjgPoVMlAmiEkKY0Qi/hU7ttgU=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.2.dev1": {
+      "wheels": {
+        "odoo14_addon_account_move_update_analytic-14.0.1.0.2.dev1-py3-none-any.whl": [
+          "SXsXkKeQhm1TJN6yWodYpVEQd/qBDHsJTo7AjnVHc+I=",
           "py3"
         ]
       }

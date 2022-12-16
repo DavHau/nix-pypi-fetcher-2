@@ -1651,6 +1651,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.9": {
+      "sdist": [
+        "2tG3GTcu9HSGHoqwV9z23C8RoExhb3eIrarPeZBdOqo=",
+        "airflow_kubernetes_job_operator-2.0.9.tar.gz"
+      ],
+      "wheels": {
+        "airflow_kubernetes_job_operator-2.0.9-py2.py3-none-any.whl": [
+          "+Jz7ssvznhAIsyvbD90PYHmXfSOMGrEODTBzyF6pjBA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "airflow-providers-clickhouse": {
@@ -110229,6 +110241,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "xOqDre//ckOGBOpUCe93e4BYSVuzLzFBhX8CgpGc4RU=",
+        "pyaton-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pyaton-0.0.5-py3-none-any.whl": [
+          "EkfDsRikzuBgR+d4e47w7D/e3xBrXjEFoF1iG2QmdQI=",
+          "py3"
+        ]
+      }
     }
   },
   "pyaudiopdf": {
@@ -127723,6 +127747,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.6": {
+      "sdist": [
+        "5ndSu7XEQ8nsvrK7J3xq9QBho19OFHsv94z1WeCD6vk=",
+        "sorceress-1.8.6.tar.gz"
+      ],
+      "wheels": {
+        "sorceress-1.8.6-py3-none-any.whl": [
+          "/iXU5juDLH7nu5VPIQNenJS46J5wKNKlBn4emP1XOTk=",
+          "py3"
+        ]
+      }
     }
   },
   "sortalgo": {
@@ -141241,6 +141277,12 @@
         "xpfFQDpI+OvevH/ACGqICPHj969/B1cD6GXU2k4sMjE=",
         "tutor-ecommerce-15.0.0.tar.gz"
       ]
+    },
+    "15.0.1": {
+      "sdist": [
+        "wvx70u46Y80mRTrSG6oX4Qn7y6Nd9AE57lI9kFxVodI=",
+        "tutor-ecommerce-15.0.1.tar.gz"
+      ]
     }
   },
   "tv2-bell-automation-framework": {
@@ -143396,6 +143438,14 @@
       "wheels": {
         "vaxm-0.0.8-py3-none-any.whl": [
           "Gx5ejlAv1VejRdY+d3/xOX8TEhWDlAcqi19L2naKjmE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "wheels": {
+        "vaxm-0.0.9-py3-none-any.whl": [
+          "751bqrUi5CbNmbH+8hVT0RXkx3n6UcCvr4TWTayJtSM=",
           "py3"
         ]
       }

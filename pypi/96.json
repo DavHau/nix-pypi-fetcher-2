@@ -13173,6 +13173,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0.dev1": {
+      "wheels": {
+        "bigdl_core-2.2.0.dev1-py3-none-macosx_10_11_x86_64.whl": [
+          "2yRHfeYH2Qg5IU2LnAHUE2YAmgpq+2Y+1MMX64+HDOs=",
+          "py3"
+        ],
+        "bigdl_core-2.2.0.dev1-py3-none-manylinux2010_x86_64.whl": [
+          "GMiUL/wsKWHEiD8D75OarxCu4KJ6jfkTRAf04iNX3S8=",
+          "py3"
+        ]
+      }
     }
   },
   "biggus": {
@@ -60286,6 +60298,18 @@
       "wheels": {
         "google_cloud_dms-1.4.3-py2.py3-none-any.whl": [
           "tlsj0V1Cfn4U4tTmZVSTf2GOM1RUDKRsUElqt0jCV6I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "nxgi9rkA+Nq1FqnZtvtR/xjerCnf1BFbFcTxunw4kD4=",
+        "google-cloud-dms-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_dms-1.5.0-py2.py3-none-any.whl": [
+          "Qh4MU+Rm09n0IIRrDCHf2iUIdXCZ7wBk4pVXXZWsEls=",
           "py2.py3"
         ]
       }
@@ -143964,6 +143988,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcex-3.0.795-py2.py3-none-any.whl": [
           "ERd0DZFbx2Q4TwzBFA2Y8NxiMDAqeaITbNyCBrUmU+I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.796": {
+      "sdist": [
+        "8a5WrAXqqPSCrjppctVItAQsz6L/1PpRAKb/nTqMF3g=",
+        "tencentcloud-sdk-python-tcex-3.0.796.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcex-3.0.796-py2.py3-none-any.whl": [
+          "QKEdh6F2dHAc0HmnDUgIajSzPzBBqTAV9pDeSzwhTr0=",
           "py2.py3"
         ]
       }

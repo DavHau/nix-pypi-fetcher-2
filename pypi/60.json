@@ -13639,6 +13639,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221216": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221216-py3-none-macosx_10_11_x86_64.whl": [
+          "nXy9busumh7muE20MlkvTjiUi6K4ObrW1Mu6WJ4cQLw=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221216-py3-none-manylinux1_x86_64.whl": [
+          "ia9t7cKLduRxFG/J2DrmcyMIr8EZ4fSbiRJAmR2o4GE=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -36670,6 +36682,18 @@
       "wheels": {
         "EXOSIMS-3.0.1-py3-none-any.whl": [
           "AAVgRQ4VTiIgtYsd/vV3ip1wtMuHVZH5cCn9Fxo+eqg=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "ZiIFN5uLM3VNcxLLRgc6r5xvoOwy6r6i7FZF6aonBtk=",
+        "EXOSIMS-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "EXOSIMS-3.0.2-py3-none-any.whl": [
+          "n/EtjPw0Y9M4h47X+nt8oFphgl/L7d27AjBoSykl9uM=",
           "py3"
         ]
       }
@@ -62372,6 +62396,30 @@
       "wheels": {
         "genotations-0.1.1-py2.py3-none-any.whl": [
           "ngFzKgCHM/TnBmOsMmXDF15LmZQvIiQGWL09ONt42g4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "vZEOoO64+X5zvGLpe+zXMBD0RzkNaPYK2lAkEr+D2JU=",
+        "genotations-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "genotations-0.1.2-py2.py3-none-any.whl": [
+          "0ciSk94aphhSl9brGeZuZFGYYaeEaBdElmUHBP9JI9g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "tt8Xma/kimw9PAWvzyhKLinGoviNL2joWHppiBuJF4U=",
+        "genotations-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "genotations-0.1.3-py2.py3-none-any.whl": [
+          "x2CcrliHp4DaZTY3ovhaSPreJsEuUU8gkaSKelaVV9o=",
           "py2.py3"
         ]
       }
@@ -128959,6 +129007,32 @@
         "VAlY0SzKf77bIMjEVwuHdQtHlMHZD0omVt3XGdHZunY=",
         "rehichao-0.0.1.tar.gz"
       ]
+    }
+  },
+  "relationalize": {
+    "0.1.2": {
+      "sdist": [
+        "xNZ7wSTXpjDC5NQUQY7XiMdjg592woKT7Ztp5kl9heY=",
+        "relationalize-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "relationalize-0.1.2-py3-none-any.whl": [
+          "2VoKGasPN4cZMz9uqoeGyZIvP1t/2UF7it3JXSJtV/k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "I522KNOTdClO+WpkGG9/h/agUokD+UU1cj6Spp7Iorc=",
+        "relationalize-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "relationalize-0.1.3-py3-none-any.whl": [
+          "0oSalx8quMcL7S4MWg8bZ/83WNdwsQeq7vjYBJhsEcY=",
+          "py3"
+        ]
+      }
     }
   },
   "relay-tunnel": {

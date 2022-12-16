@@ -18920,6 +18920,18 @@
         ]
       }
     },
+    "2.0.0a235": {
+      "sdist": [
+        "qIfABCMwCOQfPAj6WsL52PJWMNghittmEbwRO9DeBAo=",
+        "cdk-ecs-service-extensions-2.0.0a235.tar.gz"
+      ],
+      "wheels": {
+        "cdk_ecs_service_extensions-2.0.0a235-py3-none-any.whl": [
+          "rOSbnNQIE5iwytE9H39WOu3avfwBxtBoZcZXAeZE7Ik=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0a24": {
       "sdist": [
         "ppf+Z3cX10ZDB5vz7/mA2hAC0HKAI42KkvS1caq2ITM=",
@@ -69774,6 +69786,10 @@
     },
     "1.1.3": {
       "wheels": {
+        "kudio-1.1.3-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YXg0qk71FN8FeNZjDYLQjJOhw+B5CtfDWvbBBcH9GMw=",
+          "cp36"
+        ],
         "kudio-1.1.3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "yMD5i/t/5nywcsYDy7ntk6+u6lr9MTr2KiV4DVzhhK8=",
           "cp36"
@@ -69781,6 +69797,10 @@
         "kudio-1.1.3-cp36-cp36m-win_amd64.whl": [
           "guar9VTOwxnoW6AXrfLQ7ctvFeJmIeRNc+MWzYgUS7k=",
           "cp36"
+        ],
+        "kudio-1.1.3-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ngPZJM9TdoZM+HQlFkDeas4539iQ+5FPcsqSfZeaFJ8=",
+          "cp37"
         ],
         "kudio-1.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "gTuDnYWLQ8RduUEOVr62EFCCAIC5O7NRl1IcVmdE9jE=",
@@ -69790,6 +69810,10 @@
           "Y2dyZkfXhJT0sDMc9eqIPV1z6OP4k6+WUpagJDIhcdg=",
           "cp37"
         ],
+        "kudio-1.1.3-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "4RgOw18hIATkmUA2mjOHU4zF+FvmAF6mrLpjobQ8zv0=",
+          "cp38"
+        ],
         "kudio-1.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "XrsK+e0+JaKDFZV1E4jUnjq2g0Pa/CH1egYPvn3Euzs=",
           "cp38"
@@ -69797,6 +69821,10 @@
         "kudio-1.1.3-cp38-cp38-win_amd64.whl": [
           "iI48J7wa77/5PcRNux94wK5acMersl8kIB4uaTSwskE=",
           "cp38"
+        ],
+        "kudio-1.1.3-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Qtf/HmOF8a0Q9rwK8zSAo2MqMQDRFEb0cgovduQTAHE=",
+          "cp39"
         ],
         "kudio-1.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "0dx49eQ4xRBM8Mpdk+Rhx6t9iecWSbjub4pKKRcLCY0=",
@@ -113207,6 +113235,18 @@
           "py3"
         ]
       }
+    },
+    "3.8.0.dev1671160489": {
+      "sdist": [
+        "XMbph86ahK+ifDngh3XdSjAVG3mOeMrSlAFx6gRNsKQ=",
+        "pulp_python-client-3.8.0.dev1671160489.tar.gz"
+      ],
+      "wheels": {
+        "pulp_python_client-3.8.0.dev1671160489-py3-none-any.whl": [
+          "SJ58eAJXUCK2tJ2cUOTin4t1OD5BoioC0F9VnlhLKM4=",
+          "py3"
+        ]
+      }
     }
   },
   "pulumi-gcp-pufferpanel": {
@@ -118512,6 +118552,18 @@
     }
   },
   "pyprocessors-rf-consolidate": {
+    "0.5.10": {
+      "sdist": [
+        "NHT9J/b2VIE/wNBYQ11XbhalYRu4KmmIq+Dq+mIeIkk=",
+        "pyprocessors-rf_consolidate-0.5.10.tar.gz"
+      ],
+      "wheels": {
+        "pyprocessors_rf_consolidate-0.5.10-py3-none-any.whl": [
+          "EVaOnW2A/G/SdrpFtxs6/oaPyq3Q3hmkSGLx/ZPUwoo=",
+          "py3"
+        ]
+      }
+    },
     "0.5.2": {
       "sdist": [
         "3+n+XRGSfGObRly+dxQMrBJNsoxYhh7AzYDC4o7v8Eg=",
@@ -147692,6 +147744,18 @@
       "wheels": {
         "tencentcloud_sdk_python_postgres-3.0.795-py2.py3-none-any.whl": [
           "cbjxRv543bPkCZF3N4jtJEEAFDFjbokAvh5hVTdVEbc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.796": {
+      "sdist": [
+        "nAWF8MsOqW0e2prVwq0wWnv1AoukKQY37aXlv6MqeIE=",
+        "tencentcloud-sdk-python-postgres-3.0.796.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_postgres-3.0.796-py2.py3-none-any.whl": [
+          "av+3bITMEIBAeqng/waMbuciBobDx/oUo+NPIOJ7BRg=",
           "py2.py3"
         ]
       }

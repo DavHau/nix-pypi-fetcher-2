@@ -51015,6 +51015,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "wheels": {
+        "exmatrix-0.2.0-py3-none-any.whl": [
+          "cflNlgEEJxfvhdMHkcC8UfSGIvznNZXnfjYh1N+dKmw=",
+          "py3"
+        ]
+      }
     }
   },
   "extern": {
@@ -99700,6 +99708,18 @@
         ]
       }
     },
+    "4.14.0": {
+      "sdist": [
+        "kOwXZ1KvGb0aFw+glSN5N8t1RNqpUQsZlsXPOA3ycfk=",
+        "ntropy_sdk-4.14.0.tar.gz"
+      ],
+      "wheels": {
+        "ntropy_sdk-4.14.0-py2.py3-none-any.whl": [
+          "vN5cSok+98eV+XrKB620SF+qHjYFTZrA5KyPDJVpwjk=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.2.1": {
       "sdist": [
         "WrP43D8ZEih8CMVm03EOwT/wCu+Vm5p3qgE/sUl5WGA=",
@@ -121760,6 +121780,18 @@
         ]
       }
     },
+    "0.5.176": {
+      "sdist": [
+        "744KdEGwTzNzgMOAxBJsIBKO+GE2jxFPDMj2NNiOrIo=",
+        "pymultirole-plugins-0.5.176.tar.gz"
+      ],
+      "wheels": {
+        "pymultirole_plugins-0.5.176-py3-none-any.whl": [
+          "5MvSR0nXQNhATnui+ECQtO1GfWB8rBS537To0jt6DNc=",
+          "py3"
+        ]
+      }
+    },
     "0.5.99": {
       "sdist": [
         "PSvJ/0o53KOxFCKZHgBnIhwQVzCEHVlSyL8e6/QCnng=",
@@ -124422,18 +124454,6 @@
     }
   },
   "pyrubi": {
-    "1.0.0": {
-      "sdist": [
-        "mxbQpij7Y/nCEvkQt+6orjVRGYZ4n9jWkNeH3bd4kjw=",
-        "pyrubi-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "pyrubi-1.0.0-py3-none-any.whl": [
-          "YwwZ8UuXifTx85/cSNzvF/l03phSVpC0xf9J7QZiuNE=",
-          "py3"
-        ]
-      }
-    },
     "1.0.1": {
       "sdist": [
         "ui6AUghI0AceEoeXSAzA2h8q7s0hA4ku+Yf8t/pJpXY=",
@@ -156506,6 +156526,174 @@
         ],
         "xlwings-0.28.5-cp39-cp39-win_amd64.whl": [
           "AmkaE5qm3eytMFSuoMVbGasXoWqlb+DHL8B/kIEqejo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.28.6": {
+      "sdist": [
+        "kpHbXhYtddgFI3FK5/9qJUu4xjB/kJZnZtAmqiq1/4Q=",
+        "xlwings-0.28.6.tar.gz"
+      ],
+      "wheels": {
+        "xlwings-0.28.6-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "vqgr4qwl7NfRwk8OfQBjD9jjmS1OLZAkrERQ3h58zvA=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-macosx_11_0_arm64.whl": [
+          "kd34eX9b/xMhUUBQPLzxwmZK0MpoFyXf9VdqPYiLUnM=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xBdF1qUZkK25szt5qeck+5iTRP6nEaYyfbQyrn3N+NI=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "IX5FOvtqkyhTO4TiXMlTKU5tWKhBTuSxP1FPC+wi3xc=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1swzCo5AXLEUudbzKaZkYGRZOpp8aRHI9g5R9J3F5B8=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "CT/QBylWHIitZD6jyjVVKWkXqBm/bPyCqexsqbnK/bM=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "7UNfYjMcrYLMhBz/b+ni3Cu76mFJHjT1zbm47rssXTs=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp310-cp310-win_amd64.whl": [
+          "nk+VanyK8aeoXMoUZi9QqCobISS9RCiwQPT9X5viOZ0=",
+          "cp310"
+        ],
+        "xlwings-0.28.6-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "/0R0zaQadLDYMlCwvTcfMLnGztkqVMzsN4EgNe7DESI=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-macosx_11_0_arm64.whl": [
+          "nEfmDuIi8xbvboHEO0YqSDogm15i2hvjT+M0K3tEVMw=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Qj5IpUkHiGm9toiWToeVy6MZYZSihj+F5ISgNomdxDU=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "In4VUMKS5nh3B1FWkoTbpaZa8Uy6LQ7qpa2lQhDJgcU=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zzW4lP9OE1IENoPbMEgveKbHEK71zneUx+JiwHBuaiY=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "P04zuLov34lt5SW+H0N8Z9Ys7nj2oA7TPHFbKgDVKoA=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "x/DHZldzMrT+x2s4yVKexCq/pKD7rnTvRvIy4P4kDXM=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp311-cp311-win_amd64.whl": [
+          "Dvxk3fGq73HNzMul0Q/XEd/B8w58h27K9V3dRUktULQ=",
+          "cp311"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "eMkEQIc9fWlePbyApLy/0BWwh4X2ESdQo1gnyr59eJ0=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-macosx_11_0_arm64.whl": [
+          "91Laaksc86aVl0L+GwKv8hXsQAabTBNIWUteeDeACSg=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1MxcOyxkQc4s3CXTE4Gm76UvbAsyw4sBh17ivu1HwEs=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "veHqxer+cqV000UOFXUPYkZafkmx1TB3/aA5iHKBKqg=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VM58ldrQdZpJ7yzAvojhm2G8I/8JbWvXqoHy1wucxzI=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "eXAD2Jolb4cC4R62un5ykto3iB6cBBGFJUKdfUkc+jk=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "wZwXPVFkjgLX+q2xu75Gm3HF7g+iBYyBo0uhOFp+eIQ=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp37-cp37m-win_amd64.whl": [
+          "C6rTcTlcnpjRNjhgt4UfR3Mx11Pz+1XObc67pBMiMps=",
+          "cp37"
+        ],
+        "xlwings-0.28.6-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "acJtmGwJMqzFoKgnGFpwb+VU5k0zqUy4TG3VTKWqG4o=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-macosx_11_0_arm64.whl": [
+          "RGBzE2oDOhM6zJwBU6sFm3v8dm3CI3ccnfTgyxCiHGg=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "9bn+PVSggLSmGXnjcMjj1A7LKJ8xH+aPdIi36rloguM=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "tnd2xeyS0Lx6rcHlkpQXpukxH++bC/6bndd1Ih5+GXM=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3U1ncc/Kq5FFPrcnrlUoSSFHDNlMTlOMX1dMRIeP2GE=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "S1RmCSIfpILyF9aU3xl7+t7oOFbgpFrkg1grILjXLTc=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "4xxjtdasBxOPUArN31QGn8+lhcHV/LjvSN92Is+5fuQ=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp38-cp38-win_amd64.whl": [
+          "uAJgrFmDDXGanN9CPmN6y+I8aq9y9UY7rN9Z5emJTho=",
+          "cp38"
+        ],
+        "xlwings-0.28.6-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "CHMGJL9pEFdIDSNLujomrLQL2OVoKK/qz5TniNeSJBM=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Jd2n++NJdgBF0igsSiVRPgic1b4BxHheyufUsOWNtXI=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "emPfTIPOy93MYY8Hp53UmJOpBq1qi/yBRFZ2Ir3cd68=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "+wisg5mvGFlN3D3NmJvgi3GoWbJz0fvyKi/q6dCN52Y=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VAtAb+1IRU28iVGAWtBtMnj6daEo6YGGOOq4b798MwI=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "xSBiYsEX1E4zrZ/n8KMdExg9V+3RiktWfcrG+ZfFN5Q=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "dHYSqQzizFtJGOalpFLzy+R4ywSqJOxvaZys8jI4khg=",
+          "cp39"
+        ],
+        "xlwings-0.28.6-cp39-cp39-win_amd64.whl": [
+          "Stiq9F4bzMTg5bF3vZQnso1jdMl44vWsGOJfdvk8H8U=",
           "cp39"
         ]
       }

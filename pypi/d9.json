@@ -7437,6 +7437,18 @@
           "py3"
         ]
       }
+    },
+    "2.55.1a0": {
+      "sdist": [
+        "IIP8R8z6PPscDAZmH/O1yMQIl20jNIPQIi4EsZTfqkc=",
+        "aws-cdk.aws-location-alpha-2.55.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.55.1a0-py3-none-any.whl": [
+          "gXtr/PeTa+e26U33tjTjfHXtGnLCOzZXMcYHlQSgrXo=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-glue-sessions": {
@@ -7890,6 +7902,18 @@
       "wheels": {
         "azure_mgmt_digitaltwins-6.2.0-py3-none-any.whl": [
           "4CLXQu0H+ZLDM3/w18nGrtR09DdFWhCsHO3UpRhqAAY=",
+          "py3"
+        ]
+      }
+    },
+    "6.3.0": {
+      "sdist": [
+        "/GFkXx2INrH2omFVqkdgc92TTjq6zhmER1II6KOuGs4=",
+        "azure-mgmt-digitaltwins-6.3.0.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_digitaltwins-6.3.0-py3-none-any.whl": [
+          "Xa6HgSGMJrizqQW00BLw1KwQlc7EA9iwGy4iMimcnf8=",
           "py3"
         ]
       }
@@ -26084,18 +26108,6 @@
         ]
       }
     },
-    "3.0": {
-      "sdist": [
-        "HoPpQBQOtxhRwHo7nZH3pUCuARVTUdZGBhXVZj0sycc=",
-        "django-sliders-3.0.tar.gz"
-      ],
-      "wheels": {
-        "django_sliders-3.0-py3-none-any.whl": [
-          "oPrz0Yd9sCOy2IW0NSBJGb7YugAT5lfKJIlYCjzLx54=",
-          "py3"
-        ]
-      }
-    },
     "4.0": {
       "sdist": [
         "40TevkeOXTUfgC8ISLPKGU7rMZfr4JX3sRV70FDI4bw=",
@@ -40662,6 +40674,18 @@
         ]
       }
     },
+    "3.10.0": {
+      "sdist": [
+        "pAFMgwayiuAIaPb3jFrouXwgKTJXx27km9v+0/a/6xI=",
+        "google-cloud-build-3.10.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_build-3.10.0-py2.py3-none-any.whl": [
+          "I6XPtOaDygA46zvLs4YtY9o8JhoEO4InKqa07UIWlO8=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.2.0": {
       "sdist": [
         "0/kAofSgmIZh831mHftALEekMCejFKlxPDKpYR5I7+4=",
@@ -41023,6 +41047,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "Zj35xHbI/XnXuCPO8CMQeC6Js8VHqd3MO/LK96Up4lA=",
+        "google-cloud-certificate-manager-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_certificate_manager-1.2.0-py2.py3-none-any.whl": [
+          "NbQyBg6MMFwPvtd5BX4LIYi+Nf7wrZ6XA946c2Vu47Y=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-cloud-dataplex": {
@@ -41130,6 +41166,18 @@
       "wheels": {
         "google_cloud_dataplex-1.1.3-py2.py3-none-any.whl": [
           "XXq4YrfXHHaVO7XFeAbAVDfab03hiyoIWwf7a/Fs0G0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "13A/VgxQwVefz2NOt9gEERhpE7XP2jcbqK/4UbaJOtQ=",
+        "google-cloud-dataplex-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_dataplex-1.2.0-py2.py3-none-any.whl": [
+          "rDs1EIyAZ33eItZSQ1LHldCC49BgOYHKpbT9SWRdpBI=",
           "py2.py3"
         ]
       }
@@ -41348,6 +41396,18 @@
       "wheels": {
         "google_cloud_iap-1.5.4-py2.py3-none-any.whl": [
           "pIZiiRShDfIYlQEMnUXl7naJpk4eSnrxlsmg4cIQj3w=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "JjUyiaOaTSUtsJ0IzZexc4jud0F7VsGT2TZqzAa+hnk=",
+        "google-cloud-iap-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_iap-1.6.0-py2.py3-none-any.whl": [
+          "zcYeYLYnvZ8exOsNnHwNvgD6LwYwPz4GoMFHfmy1d28=",
           "py2.py3"
         ]
       }
@@ -44196,6 +44256,42 @@
       "wheels": {
         "inels_mqtt_new-0.0.12-py3-none-any.whl": [
           "sy1lVkw6I75LOJrUtgayeEXqYC6l1S1yP60IHlPf7G4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "X4NEzZbSBnd/dHaY7fKZwrat4eCeEqW6XhDBbmSH3tM=",
+        "inels-mqtt-new-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.0.13-py3-none-any.whl": [
+          "YacOHrfa7DuaN3Rw/j9pqZMdv2x6sgxLe9UaYOwDaz0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "sdist": [
+        "JnkVvyzyQAx5o2Ls+94+fj8OAPdf/KGHwYLc0MrhXWY=",
+        "inels-mqtt-new-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.0.14-py3-none-any.whl": [
+          "k7mHiQsf3i+hQYsNijVD2zlF1IJdkhaLQnMOroZKrQo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "YzsiaqaCfDiYc38kX/G3yHM3D3rgU4ZWr6rVr1i9x8k=",
+        "inels-mqtt-new-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.0.15-py3-none-any.whl": [
+          "K3pt3b/hAX1QncGucssyt7bm9LPkLTXVrbazbkPJYs0=",
           "py3"
         ]
       }
@@ -49217,6 +49313,14 @@
           "py2.py3"
         ]
       }
+    },
+    "6.7.2": {
+      "wheels": {
+        "jarvis_ironman-6.7.2-py2.py3-none-any.whl": [
+          "oCMp6AKS5AyKRfM1YKP3QhG1NFFbgZ27MWTvzvSyzHs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "jasper-engine": {
@@ -54194,6 +54298,18 @@
       "wheels": {
         "lapidary_render-0.7.2-py3-none-any.whl": [
           "754aX7LbVnqF9+RDPtKV3/6hnhbW2HF4sv7oklz4pg8=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.3": {
+      "sdist": [
+        "iOU16As9VtP0Q1nyK2MAShHDumFioaBhB1ECrW2ipyQ=",
+        "lapidary_render-0.7.3.tar.gz"
+      ],
+      "wheels": {
+        "lapidary_render-0.7.3-py3-none-any.whl": [
+          "EQNoTWM6WyI1iMf713U2gjMiOj2S2E/Od0mWGToeax4=",
           "py3"
         ]
       }
@@ -115936,6 +116052,18 @@
       "wheels": {
         "sneks_sync-0.4.0-py3-none-any.whl": [
           "Z9OcUEQ2QrY4ljdJStwSe4l1gtwX6V3SZkYN+O126Fo=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "0NewSR1GinmpnNC4S0h5BPw8+FP/Scli37MxMau4eIY=",
+        "sneks_sync-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "sneks_sync-0.5.0-py3-none-any.whl": [
+          "wZJH/FYrSKK1kJahrfcr/GVtUikzXR8wA7sB0r5AL84=",
           "py3"
         ]
       }

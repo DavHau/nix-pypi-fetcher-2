@@ -2994,6 +2994,18 @@
         "Adafruit-Blinka-8.1.0.tar.gz"
       ]
     },
+    "8.10.0": {
+      "sdist": [
+        "KiJpx+6cl192i6yl4QxRKmXgrJiXftvtP49tWjoNxBE=",
+        "Adafruit-Blinka-8.10.0.tar.gz"
+      ],
+      "wheels": {
+        "Adafruit_Blinka-8.10.0-py3-none-any.whl": [
+          "SykKynMSz0NC7vIl6Fe1gRi1R7MNo1Ye4SgWWTCnsD4=",
+          "py3"
+        ]
+      }
+    },
     "8.2.0": {
       "sdist": [
         "PM2oBr3yrSeuzKxEZpmkE3zmftoI1/jBmEz+ijIQ7Hg=",
@@ -33165,6 +33177,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "lHefU1IRQHB5PI7p9PpyJKqNguMQvxwvSwd4Lk83ruc=",
+        "datar_numpy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "datar_numpy-0.1.0-py3-none-any.whl": [
+          "q6bdK/Y4qU0fu8BUqGXly7ehTqqlpSjZRpUkr5RVR38=",
+          "py3"
+        ]
+      }
     }
   },
   "dateutil-br": {
@@ -41389,6 +41413,20 @@
         "yxVjPGIeN+UJxFAmOZZGzyoL5StIrUgTyrdWk249tCs=",
         "ErrorDocument-0.2.2.tar.gz"
       ]
+    }
+  },
+  "esi-utils-textformat": {
+    "1.0.0": {
+      "sdist": [
+        "GedQRh1T8NjB5WWPCk9L20OGGn4eg5uW1olxa0D/JGo=",
+        "esi-utils-textformat-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "esi_utils_textformat-1.0.0-py3-none-any.whl": [
+          "tk5CBOAOT9FVMd7FBnBdD4Yv5OYY4LnUfdN4huNdLr8=",
+          "py3"
+        ]
+      }
     }
   },
   "esp-secure-cert-tool": {
@@ -50554,6 +50592,18 @@
       "wheels": {
         "google_cloud_domains-1.2.3-py2.py3-none-any.whl": [
           "vVuUoRRsAG0D1/hp6CwA/s6+PY4W5/6QI/+VpIJK/D4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "v8RBjbFidQOJzNy2UoW7bGHQemJoSpp/cAYV+BNewVQ=",
+        "google-cloud-domains-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_domains-1.3.0-py2.py3-none-any.whl": [
+          "giwYiQRJvAgPUO/1tRhbJsz9/BbucWqDiAxy7sbhKAw=",
           "py2.py3"
         ]
       }
@@ -136640,6 +136690,30 @@
         ]
       }
     },
+    "0.6.0b35": {
+      "sdist": [
+        "O+kc+VjcFELbv6V/G9Z0YfPxFA1oEDt4bSraroGCBqU=",
+        "tecton-0.6.0b35.tar.gz"
+      ],
+      "wheels": {
+        "tecton-0.6.0b35-py3-none-any.whl": [
+          "ZRDWVUqJGz2m/4tSaUUizxWJaVYUoDAvLBn8oQZqFbw=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0b36": {
+      "sdist": [
+        "I4O1BtcBJwigCAlqNuEPcat9Ok3q4hzchrPt5NnzRY4=",
+        "tecton-0.6.0b36.tar.gz"
+      ],
+      "wheels": {
+        "tecton-0.6.0b36-py3-none-any.whl": [
+          "uvLlFavkytulKCFgntnyFWQMet5H3p+jnTJKhGhYiuM=",
+          "py3"
+        ]
+      }
+    },
     "0.6.0b4": {
       "sdist": [
         "Eikf+kRW6hfUUDC52POcwxjeSadjnDnOdWbTqjpPwBs=",
@@ -143104,6 +143178,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ds-3.0.795-py2.py3-none-any.whl": [
           "vzJrs6Rwt7V90nUOSnMGJZXyHCNLrD7+by25NwnmUco=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.796": {
+      "sdist": [
+        "54ckw5ppO6C3xD9jI/5mgn7LSADjo5an8P27dHpjpw4=",
+        "tencentcloud-sdk-python-ds-3.0.796.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ds-3.0.796-py2.py3-none-any.whl": [
+          "OY8vcGvN3kH6GyjtzZz7V9+Myyr2t4XIIT7prXQKWKw=",
           "py2.py3"
         ]
       }

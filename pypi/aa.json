@@ -33685,6 +33685,20 @@
       ]
     }
   },
+  "django-admin-ui": {
+    "1.0.0": {
+      "sdist": [
+        "EBGKv72wVkFROrv1FQhaTui3SnDCjNgjaKrgplhNZLg=",
+        "django_admin_ui-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_admin_ui-1.0.0-py3-none-any.whl": [
+          "tRaKyTEHkaMRC4Z671/8Ms+ztR9vN2p37TeMbDQdsIs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "django-agenda": {
     "0.1": {
       "sdist": [
@@ -92817,6 +92831,90 @@
           "pp38"
         ]
       }
+    },
+    "0.9.0": {
+      "sdist": [
+        "nsMnRHKaJ4g/zcQ2CTmVtIBUgut3sPz1yR72+h9fP90=",
+        "pillow_heif-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "pillow_heif-0.9.0-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "EZK8XoWX5ttCSVc/2z06h1LW5tMCKCdubj6e+18mDxY=",
+          "cp36"
+        ],
+        "pillow_heif-0.9.0-cp36-abi3-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "TGdDK4UUz8UUWRhPSg/BW9sqvC91j7Zn68KIGVxnieo=",
+          "cp36"
+        ],
+        "pillow_heif-0.9.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sZ22gs7hrIkDcbDo2JxJ4Uaf/mNsf481EuSifJvSF0s=",
+          "cp36"
+        ],
+        "pillow_heif-0.9.0-cp36-abi3-musllinux_1_1_aarch64.whl": [
+          "C5sy78r3zPf/TFdR86l5f7imWMgbM/qnvnEZPHciMKs=",
+          "cp36"
+        ],
+        "pillow_heif-0.9.0-cp36-abi3-musllinux_1_1_i686.whl": [
+          "IGO4YDApZ5SaSnIT2Ek9T0tLYDTaZgdiv2O32ULddmo=",
+          "cp36"
+        ],
+        "pillow_heif-0.9.0-cp36-abi3-musllinux_1_1_x86_64.whl": [
+          "pijkkYA7e56Ej+d305cv2B6Tw1tUbv6NUJlCUlYb3mQ=",
+          "cp36"
+        ],
+        "pillow_heif-0.9.0-cp37-abi3-macosx_10_9_x86_64.whl": [
+          "piyVhXt2Xlq5mVW+chrnbHuPQmq18sP6JLw4lCcWkzo=",
+          "cp37"
+        ],
+        "pillow_heif-0.9.0-cp37-abi3-manylinux_2_28_armv7l.whl": [
+          "oGSZRTcJlYxcNJCcRR4J3vzQ7SFlT9JylHab5wYiKqo=",
+          "cp37"
+        ],
+        "pillow_heif-0.9.0-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "2rQqaznXgRtAD+fdqLNWmtSjqqUHj/FGJaxaWINvAPA=",
+          "cp37"
+        ],
+        "pillow_heif-0.9.0-cp37-abi3-win_amd64.whl": [
+          "qYwtncfM4lt6ENqQDx2fs2KHDWmiULn49ML28A5XLGU=",
+          "cp37"
+        ],
+        "pillow_heif-0.9.0-cp38-abi3-macosx_12_0_arm64.whl": [
+          "GFYSoIiipacIYVm0XAK2FJSRj6nX/uhTP5eqOhRAvOY=",
+          "cp38"
+        ],
+        "pillow_heif-0.9.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "1lmwbUU06lu9EcJ/7LxCCbzFpkbY30kXulv/VQZBuNY=",
+          "pp37"
+        ],
+        "pillow_heif-0.9.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "umtqqcxdTmNVqRnpAtsSDhFV2kf5NUt6RnRluouVZ3c=",
+          "pp37"
+        ],
+        "pillow_heif-0.9.0-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8ODhJN6lr33LTCXiNhNsx3+ySJ2Rd24Cwcgf6sjUxkg=",
+          "pp37"
+        ],
+        "pillow_heif-0.9.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CFdebC3eRjzUsJmZUnXXI0O+DYz+2TkSOn6/5m8ucLc=",
+          "pp37"
+        ],
+        "pillow_heif-0.9.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "2r5k/fDzS20y3nQc/uPtTUr//Do0N6oIJ3HuZ/unjp4=",
+          "pp38"
+        ],
+        "pillow_heif-0.9.0-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yFbPyQ4dw9B8BK6wp21hG3wEwUQNN9VyrqDoh6sK9js=",
+          "pp38"
+        ],
+        "pillow_heif-0.9.0-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "xy4XDcEC4Ka3SkSQwPLNjJstCIG6uUaVQLS8F1aef3A=",
+          "pp38"
+        ],
+        "pillow_heif-0.9.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dWmzlwaownFaumsBpcad2mB87Hnlow8Dx1wWYtDWJSs=",
+          "pp38"
+        ]
+      }
     }
   },
   "pimdb": {
@@ -103240,6 +103338,18 @@
       "wheels": {
         "pyimporters_plugins-0.4.124-py3-none-any.whl": [
           "JHrvF2tEXBpsABoA52mb2DttbEPW4bXCpiS1/3Lvgr4=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.126": {
+      "sdist": [
+        "/OBtbECxjgiWGUGyUZ1OtiIcPiXyDUHh1ORbk2JpJNA=",
+        "pyimporters-plugins-0.4.126.tar.gz"
+      ],
+      "wheels": {
+        "pyimporters_plugins-0.4.126-py3-none-any.whl": [
+          "aNHOv4+9gYUied0VLw3qeKZ9H6WOnhRbtFIQe1CnXGE=",
           "py3"
         ]
       }
@@ -155860,6 +155970,12 @@
       "sdist": [
         "+GvrMAJ9L6woyb7kwC7mVEQN0xg+7r4ACPkmfXWOQsU=",
         "wmagent-2.1.6rc2.tar.gz"
+      ]
+    },
+    "2.1.6rc3": {
+      "sdist": [
+        "WYEQyYYdmZGuxaHf5j/C9husb8XRcDRvp26hijR+nDc=",
+        "wmagent-2.1.6rc3.tar.gz"
       ]
     }
   },

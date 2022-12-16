@@ -16011,6 +16011,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.0": {
+      "sdist": [
+        "tRP4+l8NVphABp+Fc63CyJGvlbd0RtMoU5+sT7WwRbE=",
+        "bk-plugin-runtime-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "bk_plugin_runtime-1.6.0-py3-none-any.whl": [
+          "UVHc4BUPwn/a6i4ZqKytwfv36Ne6YOe1MAgXHqyZZ0c=",
+          "py3"
+        ]
+      }
     }
   },
   "blink-web": {
@@ -52150,6 +52162,18 @@
       "wheels": {
         "google_cloud_trace-1.7.3-py2.py3-none-any.whl": [
           "k+kBYCBoJtJFSi+b2QDtAYY1UvzsSYXEQZnxWNO93uU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "dKywvDNcvDOULHREKcHWIBVVBBzrttICX+VgcborJVI=",
+        "google-cloud-trace-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_trace-1.8.0-py2.py3-none-any.whl": [
+          "DZNZJKoAlxH1mi1rdHY+eRbxE2AlZONKwkAxNG0FtNU=",
           "py2.py3"
         ]
       }
@@ -90470,6 +90494,18 @@
         ]
       }
     },
+    "1.26.31": {
+      "sdist": [
+        "SczrI3EgJz1nbn8Yg1M1EH7VXUtCtLUNi7En97FN8G4=",
+        "mypy-boto3-ecs-1.26.31.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ecs-1.26.31-py3-none-any.whl": [
+          "TKLKfwzl0xsbnXF60KrYRxSD9xAwE6IBv+Z4jVN551A=",
+          "py3"
+        ]
+      }
+    },
     "1.26.7": {
       "sdist": [
         "NgkadRvsYT1dcgqhM7J6Q3bc5qDvH66SqP89LBv6DBM=",
@@ -96794,6 +96830,14 @@
       "wheels": {
         "odoo14_addon_account_banking_sepa_credit_transfer-14.0.1.2.1.dev3-py3-none-any.whl": [
           "gnfCSj5R/7PPVYcKqZ1wxIcvXCix3lbIWqSdixjmVF0=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.2.2.dev1": {
+      "wheels": {
+        "odoo14_addon_account_banking_sepa_credit_transfer-14.0.1.2.2.dev1-py3-none-any.whl": [
+          "P9owofng0k/xapiRFAUDoy/KeF1o2G8sWyVFUv5K2RM=",
           "py3"
         ]
       }

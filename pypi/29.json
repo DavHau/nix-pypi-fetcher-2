@@ -8507,6 +8507,18 @@
           "py3"
         ]
       }
+    },
+    "2.55.1a0": {
+      "sdist": [
+        "HB3lhJhWm9v0sex9MmmwejbKaCHg1H3KzEx4Fe4NBdw=",
+        "aws-cdk.aws-gamelift-alpha-2.55.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_gamelift_alpha-2.55.1a0-py3-none-any.whl": [
+          "QVg8LpSIJg8XyXhOVwwGHe/VsQHw16KmVJR2QAUWj5g=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-secretsmanager": {
@@ -14736,6 +14748,26 @@
         ],
         "bigdl_nano-2.2.0b20221214-py3-none-win_amd64.whl": [
           "AXGuw4ugHZUgh737c3L8VDqN2KZ/8cUHyDYxJGRwcNQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0b20221216": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221216-py3-none-macosx_10_11_x86_64.whl": [
+          "hA1uB0AcjIyDXLG8BaHdD33kpwySU4qVebeOguKpMXw=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221216-py3-none-macosx_11_0_arm64.whl": [
+          "kvn0P47tbjEH1/vVsLqUOMem4F0kAwdpU3DAkbkZesQ=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221216-py3-none-manylinux2010_x86_64.whl": [
+          "pNVGK4m7JQYcmstJ6i8LYuz4yNogeDzgTL2W38Cq9tg=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221216-py3-none-win_amd64.whl": [
+          "GCYc4F9Qr334KuAqpeierFOWfWagapMSZYRg9pOeZOE=",
           "py3"
         ]
       }

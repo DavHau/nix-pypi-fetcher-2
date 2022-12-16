@@ -26198,6 +26198,18 @@
         ]
       }
     },
+    "0.17.7": {
+      "sdist": [
+        "YM8yHf6hA0pjdT/JelXTFfzw47UmhhaYRM3nXgp6qbE=",
+        "dagstermill-0.17.7.tar.gz"
+      ],
+      "wheels": {
+        "dagstermill-0.17.7-py3-none-any.whl": [
+          "xi0rn/okcwvItM4QbdF1KB51oJ3ai9v8wwlMf3k3Yes=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "V1LZLKh+cM5wAKR9N35yaF+0HAW+yd8L6zb4CKndP0g=",
@@ -36801,6 +36813,32 @@
         "UhuZFFx77ALhB9w41YWtCdObrQKy6TXjmjbwY/EyLeI=",
         "DroneSim-0.3.1.tar.gz"
       ]
+    }
+  },
+  "dronevis": {
+    "0.0.2": {
+      "sdist": [
+        "ZSC0FuCeaE1ZV9onhmQi+sBcWfbQsillYL6+JlhJf0o=",
+        "dronevis-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dronevis-0.0.2-py3-none-any.whl": [
+          "b/L5cqI2FV/aZmN+yk/3cOhc05DiVhwzY8SJ6NOyi6o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "PnNj7i+W/I+KjnLoetbLIhB8+4/DGdYOSGFMtG8HNCU=",
+        "dronevis-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "dronevis-0.0.3-py3-none-any.whl": [
+          "qPMqoJRhovo+Y5e7Pk3wm04XSCnlv08O1aF56fkt4rg=",
+          "py3"
+        ]
+      }
     }
   },
   "dropboxwsgi": {
@@ -79836,17 +79874,11 @@
     }
   },
   "mercury": {
-    "0.1": {
+    "1.1.6": {
       "sdist": [
-        "zzVFeceBbw6tNPpZB4TAatpRLpeTGR1rjsW/kTIixCY=",
-        "mercury-0.1.tar.gz"
-      ],
-      "wheels": {
-        "mercury-0.1-py3-none-any.whl": [
-          "cc7MmLaICZ00bfjJtO0EnykNPtRzfGXpYBWZXgYG2i4=",
-          "py3"
-        ]
-      }
+        "wZRO6pwBkVF6jtfO3mNp65zkZOOwJhpw7fIGEiAAYa8=",
+        "mercury-1.1.6.tar.gz"
+      ]
     }
   },
   "mesa-adapted": {
@@ -102786,6 +102818,18 @@
         ]
       }
     },
+    "0.5.127": {
+      "sdist": [
+        "gACGz5l811ij8FtT8N4TGXCJ1/mYmBd6TyRghBtFlqk=",
+        "pyconverters-newsml-0.5.127.tar.gz"
+      ],
+      "wheels": {
+        "pyconverters_newsml-0.5.127-py3-none-any.whl": [
+          "g1o47MY0YxW5Z14dRj+nO3ZOJ9xxZjSPytSJh4yx41w=",
+          "py3"
+        ]
+      }
+    },
     "0.5.14": {
       "sdist": [
         "fn7dBuVQ5YT5joRNF4pOuZVosL1Jrk1MohlXBYq9Tls=",
@@ -108502,6 +108546,18 @@
       "wheels": {
         "PyQuantimClient-1.0.6-py3-none-any.whl": [
           "y3A3qeZWVCOA3B0cBvD4ZPEVmwra8LG9YmUcNka0KFs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "Y5xj23ah7cH12t8AOsaIBvWWOEi22XLQhnFvSiFEZ58=",
+        "PyQuantimClient-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "PyQuantimClient-1.0.7-py3-none-any.whl": [
+          "HfOENKs1CSUuHXCxcbF4LHiIc3426GkEJiQZeapwG3M=",
           "py3"
         ]
       }
@@ -116979,6 +117035,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "Bq8S6iQGi95PJWe9bBREz3MX38otBdDHA9Z0WuA5RA8=",
+        "sagetasks-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "sagetasks-0.4.0-py3-none-any.whl": [
+          "a/D5+nqhWBYMQ3J8TB8XczHVzlz9kIHJe/K5eejPg8c=",
+          "py3"
+        ]
+      }
     }
   },
   "sail-ml": {
@@ -122412,6 +122480,34 @@
         ],
         "singlestoredb-0.5.1-cp36-abi3-win_amd64.whl": [
           "iNU+Fw27pAlLxScCld9Ml2ELIKWbkLGqBbIFH0daLJU=",
+          "cp36"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "VbqcbKmrn2WWR7sIzRWzM3kRWRvZezVqG0nl1ku9qVA=",
+        "singlestoredb-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "singlestoredb-0.5.2-cp36-abi3-macosx_10_9_universal2.whl": [
+          "IhH0dAXWafeCoh7RnuVuiejzxt3fbngUHAEyqW/s7N8=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.2-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "l29MPNC7pZ6pCDWmSyv7+XK+ZzDv3qv3oLPM0e1qm78=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.2-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aqdR4r7Ay9uvQ2V2fuHiEOYwTUA09b2M27tHlh4dIqo=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.2-cp36-abi3-win32.whl": [
+          "mrJ39wEETUt/m/Jhfw5GBI1XzNXtfqVgOFzt/KhlSPk=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.2-cp36-abi3-win_amd64.whl": [
+          "Rq84YAIUGLZqTDdPI8iizM+PUiMg1R8G2uNuusaNUxs=",
           "cp36"
         ]
       }
