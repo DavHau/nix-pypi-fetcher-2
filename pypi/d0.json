@@ -5005,6 +5005,44 @@
       ]
     }
   },
+  "assembleai": {
+    "0.0.0.0.20": {
+      "sdist": [
+        "3zmd7l+VHdWJl21bYLCTY3hpL+nBOyOgpNR2FAxw5wc=",
+        "AssembleAI-0.0.0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "AssembleAI-0.0.0.0.20-py3-none-any.whl": [
+          "BzLLujrdB3TFjCOHZS+mxBsuCRaaJsziFyEeE7OcSlY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.0.0.21": {
+      "sdist": [
+        "3leCx6lBWklKP0zPUGNuFlln0XF1xDXZ4fjyPSkFvLw=",
+        "AssembleAI-0.0.0.0.21.tar.gz"
+      ],
+      "wheels": {
+        "AssembleAI-0.0.0.0.21-py3-none-any.whl": [
+          "/dAjz+K4s+2vLEQOnjiEwN0Nd/vKeSVeLT/RQk3IE38=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.0.0.22": {
+      "sdist": [
+        "cizRvMfJk2j8A0oBh8Q458HKOSrcUpWPli2yMXk4vZM=",
+        "AssembleAI-0.0.0.0.22.tar.gz"
+      ],
+      "wheels": {
+        "AssembleAI-0.0.0.0.22-py3-none-any.whl": [
+          "DQTR130UKmOzPadqZecgBfLmSr7Ed4EzIxYdCtLYjUQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "assignables": {
     "0.0.1": {
       "sdist": [
@@ -32706,6 +32744,20 @@
       "wheels": {
         "elishapdf-1.0-py3-none-any.whl": [
           "TALdEdArFX46VopWZyDZUETzUIkxKUaZTgAKZ3jD/Mk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "elnasmartmeter": {
+    "1.0.0": {
+      "sdist": [
+        "zq5KFxSBLvqeQFVeoWAa842aaBb0mVm7ZPEdCq2sJfQ=",
+        "elnasmartmeter-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "elnasmartmeter-1.0.0-py3-none-any.whl": [
+          "qsSt+u88+CpTNMPofgmZ1S/nxxUCa4wV8brid8UCRD0=",
           "py3"
         ]
       }
@@ -112276,6 +112328,14 @@
       "wheels": {
         "tf_estimator_nightly-2.12.0.dev2022121509-py2.py3-none-any.whl": [
           "YCqHwwwo5PT8QL9GC7iqAEB7lZJJW1khDOksTV/cdh8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.12.0.dev2022121609": {
+      "wheels": {
+        "tf_estimator_nightly-2.12.0.dev2022121609-py2.py3-none-any.whl": [
+          "O2KEsXQVY+3L6+6EA6yoXETTISuDSPDXNbeawoI49XY=",
           "py2.py3"
         ]
       }

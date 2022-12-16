@@ -19075,6 +19075,12 @@
         "qswBO4ZJD4I7omWLmXjKx+6DjFEMshMnf6ziRtV5OAE=",
         "cekit-4.4.0.tar.gz"
       ]
+    },
+    "4.5.0": {
+      "sdist": [
+        "qVUMqzbsXNalZ2XGYK44XBrLK35vC+3Xvmnz+eD5N9w=",
+        "cekit-4.5.0.tar.gz"
+      ]
     }
   },
   "celerystar": {
@@ -30581,9 +30587,37 @@
       }
     },
     "0.57.3": {
+      "sdist": [
+        "+Di0UOyyrjoXs9Laydl49/72MsEQvkiTZd9yOXZT8n0=",
+        "cybrid-api-id-python-0.57.3.tar.gz"
+      ],
       "wheels": {
         "cybrid_api_id_python-0.57.3-py3-none-any.whl": [
           "zs1GpvutUrcNnf0mKH4K1HyAQrhslthJxgeG4zErc8I=",
+          "py3"
+        ]
+      }
+    },
+    "0.57.4": {
+      "sdist": [
+        "KGruDAwZ+VsgQ47X52o+O5rM2ttZ24cvWbHxVpxisa4=",
+        "cybrid-api-id-python-0.57.4.tar.gz"
+      ],
+      "wheels": {
+        "cybrid_api_id_python-0.57.4-py3-none-any.whl": [
+          "Fchq56hy63sMwvdMbpFDJA6Z9dpa7xgM9IVArVgz1l4=",
+          "py3"
+        ]
+      }
+    },
+    "0.57.5": {
+      "sdist": [
+        "itYAAsjBHhL80J7XXGOpbSjJ4Tp0+j5JI2sJVpdmkdk=",
+        "cybrid-api-id-python-0.57.5.tar.gz"
+      ],
+      "wheels": {
+        "cybrid_api_id_python-0.57.5-py3-none-any.whl": [
+          "8CXJuGgp4ADkEolfWClCGnD0x6uv0Ju5i3r3u0VntZ8=",
           "py3"
         ]
       }
@@ -77260,6 +77294,14 @@
         ]
       }
     },
+    "1.39.3": {
+      "wheels": {
+        "managedtenants_cli-1.39.3-py3-none-any.whl": [
+          "3AhHLnftdkW00IFe/oJ1WaKFBUdFjfrXq05R1Whgjo0=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "wheels": {
         "managedtenants_cli-1.4.0-py3-none-any.whl": [
@@ -118083,6 +118125,18 @@
           "py3"
         ]
       }
+    },
+    "0.20": {
+      "sdist": [
+        "jPm+k2IoJcK4E79B139T4ZEK8cyuU3ZEdpcmwAplniM=",
+        "rastervision_core-0.20.tar.gz"
+      ],
+      "wheels": {
+        "rastervision_core-0.20-py3-none-any.whl": [
+          "TGGWYZa0aRpcYmHZOKaZIq7+bKnK2/cNBlijxRqKT+E=",
+          "py3"
+        ]
+      }
     }
   },
   "rbk": {
@@ -147754,6 +147808,18 @@
       "wheels": {
         "tflite_model_maker_nightly-0.4.3.dev202212150608-py3-none-any.whl": [
           "pE6uCyO0qQ10tIdPs8vxG4eii+XSDmjMsqdeLxBpAGo=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3.dev202212160606": {
+      "sdist": [
+        "hmAvLzYjRUFtY07jZVLoJR6qM5DRzoK2bd/NwHULtUY=",
+        "tflite-model-maker-nightly-0.4.3.dev202212160606.tar.gz"
+      ],
+      "wheels": {
+        "tflite_model_maker_nightly-0.4.3.dev202212160606-py3-none-any.whl": [
+          "6i/nu46vSfTTbqI9glYnwIDMpiWLye3cD5OcfGWqWdo=",
           "py3"
         ]
       }

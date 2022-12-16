@@ -5479,6 +5479,14 @@
           "py3"
         ]
       }
+    },
+    "1.8.0": {
+      "wheels": {
+        "aptos_brownie-1.8.0-py3-none-any.whl": [
+          "VIUnTZgoxwC1ATt1X1oBljI3BdXGqDSkEc9buHhKfNM=",
+          "py3"
+        ]
+      }
     }
   },
   "archetypes.schemaextender": {
@@ -7348,6 +7356,38 @@
         ],
         "asyncio_foundationdb-0.11.2-pp38-pypy38_pp73-manylinux_2_35_x86_64.whl": [
           "73goIWZplDSl1G4d1Uqv+HzmCx1ifPBLWuGqbKzyK7E=",
+          "pp38"
+        ]
+      }
+    },
+    "0.11.3.dev4": {
+      "wheels": {
+        "asyncio_foundationdb-0.11.3.dev4-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "1JYnlW8NJ7ZQkQmqkLZIva0hsO8XUCbXXmgrdmbASc8=",
+          "cp310"
+        ],
+        "asyncio_foundationdb-0.11.3.dev4-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "shALYYZI215kSgz1fRwxGgzG18C+4myZgzDqzseTUoM=",
+          "cp311"
+        ],
+        "asyncio_foundationdb-0.11.3.dev4-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "q+j38OmkmXnbbJYNp2MOZ5eAaLyHnUgCyCLr6PDL4lE=",
+          "cp37"
+        ],
+        "asyncio_foundationdb-0.11.3.dev4-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "M1hMx8fzOptz1b9E7RjBZ6ZkyuAv1VHCEGBR/JvdgpM=",
+          "cp38"
+        ],
+        "asyncio_foundationdb-0.11.3.dev4-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "4JkZE76Wt8rOsTr4yYzKkyqXj/TdhjeV5Jek9asCjKk=",
+          "cp39"
+        ],
+        "asyncio_foundationdb-0.11.3.dev4-pp37-pypy37_pp73-manylinux_2_35_x86_64.whl": [
+          "MRuryrAvapjgF706OaZD4NOhBbjDZI9Uqfcs1q1YnlU=",
+          "pp37"
+        ],
+        "asyncio_foundationdb-0.11.3.dev4-pp38-pypy38_pp73-manylinux_2_35_x86_64.whl": [
+          "k1018HvED3YuT8lWqdy5oHBbTUlz9Jcmp7/1/a9Sov0=",
           "pp38"
         ]
       }
@@ -13162,6 +13202,18 @@
         ]
       }
     },
+    "2.2.0": {
+      "wheels": {
+        "bigdl_core-2.2.0-py3-none-macosx_10_11_x86_64.whl": [
+          "Nr1nRh96QMaKXiFdflpDfJAf1B6YHjcDbdpzbeDFBj4=",
+          "py3"
+        ],
+        "bigdl_core-2.2.0-py3-none-manylinux2010_x86_64.whl": [
+          "6L9nEF2iaBi+31NIl091MQnKZG5ut2yoG/t74TJmVqE=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0.dev0": {
       "wheels": {
         "bigdl_core-2.2.0.dev0-py3-none-macosx_10_11_x86_64.whl": [
@@ -13182,6 +13234,18 @@
         ],
         "bigdl_core-2.2.0.dev1-py3-none-manylinux2010_x86_64.whl": [
           "GMiUL/wsKWHEiD8D75OarxCu4KJ6jfkTRAf04iNX3S8=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0.dev0": {
+      "wheels": {
+        "bigdl_core-2.3.0.dev0-py3-none-macosx_10_11_x86_64.whl": [
+          "2z0eAKpVOXbxh5dD4S3PkFH+rPfeEVciT6lZ2THfTQI=",
+          "py3"
+        ],
+        "bigdl_core-2.3.0.dev0-py3-none-manylinux2010_x86_64.whl": [
+          "QSY0+IFJ86jl5ir+ALurdehCQ+t+NPSNWUJHgZG7+/Y=",
           "py3"
         ]
       }
@@ -89980,6 +90044,18 @@
       "wheels": {
         "nonos-0.6.3-py3-none-any.whl": [
           "f94Iy3uzwLzlkBA54mbHmlaF6hRhZ5mqMo6tm2qWNBc=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "E7pd+qAN/DwZDGphs+bKVqhToCNFsS7EqlP0i6Ie88o=",
+        "nonos-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "nonos-0.7.2-py3-none-any.whl": [
+          "KOVxG6Mv16s2PxzI0y1FbkAA0pHABP7I7XysMWqSNAQ=",
           "py3"
         ]
       }

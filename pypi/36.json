@@ -3187,6 +3187,12 @@
         "wGUQquTEvNBDu47N9ikRB2M4VrvNzIRpC2oG+k7b6uI=",
         "appsurifyci-0.0.91.tar.gz"
       ]
+    },
+    "0.0.92": {
+      "sdist": [
+        "tpetKUr76eTh/inCew4JXQK/OGcaLib40blykzeLtA4=",
+        "appsurifyci-0.0.92.tar.gz"
+      ]
     }
   },
   "aqualibrium": {
@@ -4214,6 +4220,18 @@
       "wheels": {
         "artemis_utils-1.0.14-py3-none-any.whl": [
           "8Zv1Yd4c1/vetgVS9+tJf8TI7EHzNnGB4BLdnlUngLU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.16": {
+      "sdist": [
+        "3GAvTHJ0DVmvZX+NANDmdjyicj2Bxpzr6ndB42jCiAU=",
+        "artemis_utils-1.0.16.tar.gz"
+      ],
+      "wheels": {
+        "artemis_utils-1.0.16-py3-none-any.whl": [
+          "mN01k+LBbnMsijkQ4Lzex8e/0U3cSME32Gvmwx9X67Q=",
           "py3"
         ]
       }
@@ -36241,6 +36259,14 @@
       }
     }
   },
+  "discordpresence": {
+    "1.0.0": {
+      "sdist": [
+        "Sln5b+ZWTj6N7nCycY+dzjPD16uCnfR0IFkUCPB7OXM=",
+        "discordpresence-1.0.0.tar.gz"
+      ]
+    }
+  },
   "dist-alx": {
     "0.0": {
       "sdist": [
@@ -41460,6 +41486,30 @@
       "wheels": {
         "east_tool-0.6.0-py3-none-any.whl": [
           "5NdXya5pnH+qNCkLbGe1ZItBXFb0CKjPo4QFgfOFxfA=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "RbjprvtznhJ3pXWK25guXQ8q/4L+lAJZle3TgPsOxeM=",
+        "east-tool-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "east_tool-0.6.1-py3-none-any.whl": [
+          "VTf+/8muKtniMbLROVZ+RDtqqnBD+3pHHQCmLU/sxV0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.2": {
+      "sdist": [
+        "9LCxaFkWsqnAFXdhhDBWrDvPuiC/IplrNI2xi8RuYOw=",
+        "east-tool-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "east_tool-0.6.2-py3-none-any.whl": [
+          "mjm7f32O9eDq5c7A2nOdWdWeLtWfOscjv0DuQbsZktM=",
           "py3"
         ]
       }
@@ -49260,6 +49310,18 @@
       "wheels": {
         "gce_rescue-0.0.2-py3-none-any.whl": [
           "jQDYbkjY+qa19xniGLqqvaF3A7vk0NouWQ42YWR8W7I=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2.post1": {
+      "sdist": [
+        "hXMqWhi40n3McRxbvXXOPezrG51WlzSIUSgVuY2w7Tk=",
+        "gce-rescue-0.0.2.post1.tar.gz"
+      ],
+      "wheels": {
+        "gce_rescue-0.0.2.post1-py3-none-any.whl": [
+          "ubNy3+GzC2+rqm1g0HPCSL/pwAi52wP+jIQ/vOx/MG0=",
           "py3"
         ]
       }
@@ -101952,6 +102014,18 @@
         ]
       }
     },
+    "0.0.159": {
+      "sdist": [
+        "i2pVkznY01nuXdGCicxBRaKGJ4LZcGcBNrDNYDPdJJ0=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.159.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.159-py3-none-any.whl": [
+          "Mqy8DmPiqxp4BYvgyxtlFFPrUY2HOzQZ5xnQl4jx2Bo=",
+          "py3"
+        ]
+      }
+    },
     "0.0.16": {
       "sdist": [
         "j2SvZqUqkspmYozGLRxk0EsIPuC2tWlb1vNlJ9BMbwA=",
@@ -105916,6 +105990,18 @@
       "wheels": {
         "pitop.processing-0.29.0.post2-py3-none-any.whl": [
           "lLYXiFbE6vidaCNAUKNVvQNyTLlmtRx4xty/g/5yLzw=",
+          "py3"
+        ]
+      }
+    },
+    "0.30.0.post1": {
+      "sdist": [
+        "tj/wGlR4DYNs73JFmEBx7BVVLJRpbB+VOH8dYEuB/qc=",
+        "pitop.processing-0.30.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "pitop.processing-0.30.0.post1-py3-none-any.whl": [
+          "aFVp+dWCGhyxIsgBCQb6RVX2ydp8sr0I9q4pVLXl/Eo=",
           "py3"
         ]
       }
@@ -114004,6 +114090,42 @@
       "wheels": {
         "pyprocessors_mazars_table-0.5.31-py3-none-any.whl": [
           "oVsB/Tn5gYWzx7sHc6rdKYFNbNhjDTTYDjqMR5k2AJY=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.47": {
+      "sdist": [
+        "sZNoyn2jsaMNEyAb5aVI9gETuzDS+BZlJ1Z1JcZY7Z0=",
+        "pyprocessors-mazars_table-0.5.47.tar.gz"
+      ],
+      "wheels": {
+        "pyprocessors_mazars_table-0.5.47-py3-none-any.whl": [
+          "C43zcBg0bsN4TFOba1ykxB9+hQQ4i1bjOfBy8sMU0DY=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.49": {
+      "sdist": [
+        "0KFJU5XX5j9S7+mPI50gbm3URONY9JzFVOWz84xY6co=",
+        "pyprocessors-mazars_table-0.5.49.tar.gz"
+      ],
+      "wheels": {
+        "pyprocessors_mazars_table-0.5.49-py3-none-any.whl": [
+          "izcrlJh52iozC41Ctbox1yH+W9tXYebrCHkQxXCjIQk=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.51": {
+      "sdist": [
+        "GYGdJxI10nSUcF4rERDiSjX15IZBACin8d/tYIcwCZ8=",
+        "pyprocessors-mazars_table-0.5.51.tar.gz"
+      ],
+      "wheels": {
+        "pyprocessors_mazars_table-0.5.51-py3-none-any.whl": [
+          "k8oHZ6g86gmcNSqsFuVRfD/LbsbqVGNTpdV3iy07J8w=",
           "py3"
         ]
       }
@@ -122280,6 +122402,18 @@
       "wheels": {
         "rastervision_pytorch_backend-0.13.1-py3-none-any.whl": [
           "7tLfAOBrC3y9RGijS8U+Svn0PHFjPZXvOMOZyTkYzx4=",
+          "py3"
+        ]
+      }
+    },
+    "0.20": {
+      "sdist": [
+        "Pus46cwh514j0MfJCwzrWVqgTf0DwWvoaVw6YfgspjA=",
+        "rastervision_pytorch_backend-0.20.tar.gz"
+      ],
+      "wheels": {
+        "rastervision_pytorch_backend-0.20-py3-none-any.whl": [
+          "9OzCrs4sRc4gwqxShhzJcG80fFhdPFA8FsiOZ4AfANo=",
           "py3"
         ]
       }
@@ -143148,6 +143282,22 @@
       "wheels": {
         "upcache-0.1.7-py3-none-any.whl": [
           "iqBCzU6fNpfrV0sRVsb46BcfAfiFVI7q/5GpMlL8mEo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "upcache-0.2.0-py3-none-any.whl": [
+          "NdgTN+dAQKeIxYMMfTj1ueV0fV7Gb5mPAL8njHYpoyU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "upcache-0.2.1-py3-none-any.whl": [
+          "cP7tFbYSlBRNlmrUc4dIQzo2mM/c9xM8noS3q9zWKUU=",
           "py3"
         ]
       }

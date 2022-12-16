@@ -22022,6 +22022,18 @@
         ]
       }
     },
+    "0.109.0": {
+      "sdist": [
+        "sZPCRIoDjC91eXhbo7sCocTzr9rPulAZKK3WUMmQSDk=",
+        "cognite_sdk_experimental-0.109.0.tar.gz"
+      ],
+      "wheels": {
+        "cognite_sdk_experimental-0.109.0-py3-none-any.whl": [
+          "lBiCtrjraG9NO6Ev2D5ybpqB4Tty/Z86om1pd+ZS9UM=",
+          "py3"
+        ]
+      }
+    },
     "0.11.0": {
       "sdist": [
         "sI0NtoehaRWaZucQh9+gKN89c/u7ka3Nyb9hGXxK8uY=",
@@ -42235,6 +42247,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "fOQWaC6BgDpc0qAXRwGA3K5MTw3mWfMFmATT0zy3+no=",
+        "fitterpp-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "fitterpp-0.0.7-py3-none-any.whl": [
+          "aNR9ctUcp5utWp3kcWsQWbTCDK4OzSQuxAAMHXEaJkY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "xzrcH+cvAfwshA6T5CLsn4h93pB05DfK9F0INdBg1M4=",
+        "fitterpp-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "fitterpp-0.0.8-py3-none-any.whl": [
+          "xdTnIflH+3ieM9LC4dkKNjowsqUfEl4uuAHwxyrxhBg=",
+          "py3"
+        ]
+      }
     }
   },
   "flame-dash-c": {
@@ -43498,6 +43534,42 @@
       "wheels": {
         "formsg_sdk-0.0.2-py3-none-any.whl": [
           "vGYcY+laNND29kjFaEQncJnei1dRABWKszgZFuoLTCw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "LPFTus+i4Yxrf5PS+qPYgxEYDcWFFdoySvVaXau7OHg=",
+        "formsg_sdk-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "formsg_sdk-0.1.0-py3-none-any.whl": [
+          "DLeYjHr7dvWAB5YRBExNhHqjdSqD3fJ7SxW9N0pNHuE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "KSh7ZfKpotWjZzPs5R6FnTd969EEb0wkBnltsXHR+GE=",
+        "formsg_sdk-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "formsg_sdk-0.1.2-py3-none-any.whl": [
+          "ZfAEAxsy7NBRqTBlT9T4X72sALgcF63Mq8jVdSqfQEg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "L3bBq9NJu0kSoYPSuJ0KIlK8aTZvkoTpjnH2wE9eVbA=",
+        "formsg_sdk-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "formsg_sdk-0.1.3-py3-none-any.whl": [
+          "AcYCf+3wl+VdBL+XfOXXfAnjjz5kP+eTy1cMeHIk6QE=",
           "py3"
         ]
       }
@@ -145628,6 +145700,50 @@
         ],
         "thinc_apple_ops-0.1.2-cp39-cp39-macosx_11_0_arm64.whl": [
           "0X+7RmBRYA5DscGMQbdHN9NEHWcK2Jco4pDPWNWU9jo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "xKXKE9s4a5WBM0iUwmfAGt2+afS1NwI1dtkWnag2NjM=",
+        "thinc_apple_ops-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "thinc_apple_ops-0.1.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "YaKqgYsH9GL0nnGPtReKGAdeRXgik6BBVV6Yt3sUgJE=",
+          "cp310"
+        ],
+        "thinc_apple_ops-0.1.3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "T0OnzeXeLppuhkF3Gko+DzbHCOkExy8i6QVG59mu4DE=",
+          "cp310"
+        ],
+        "thinc_apple_ops-0.1.3-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Rk4Q7zYw9lcZNO9ieFpyFT6S/Ijb+FanU943y2dsyQc=",
+          "cp311"
+        ],
+        "thinc_apple_ops-0.1.3-cp311-cp311-macosx_11_0_arm64.whl": [
+          "3Nf+OZs/Ac2lpuzVlJvUENRQjSgKNsdzL1DcwCh4hR8=",
+          "cp311"
+        ],
+        "thinc_apple_ops-0.1.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "6FPXKCD+jULCKfUgpdkvU/d7NjtgjlvCuJhGLNvjSIk=",
+          "cp37"
+        ],
+        "thinc_apple_ops-0.1.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "FhzsTJFp/xfVnXMbI8Sfkd8ZZimiCp1GF213WcjmjeU=",
+          "cp38"
+        ],
+        "thinc_apple_ops-0.1.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "DHGvpo7Y0n8hUNcNkYXQLPeD6+MULt/TSmva1q0FpxQ=",
+          "cp38"
+        ],
+        "thinc_apple_ops-0.1.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "dxK4ZHWR1K/C6uByDfCPZ2IBsbNNt+HWhBUmeEY5ESc=",
+          "cp39"
+        ],
+        "thinc_apple_ops-0.1.3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "CvKIHZwXstuMx1aCrMkPovv0t5xT+0+rkYMtO6FoLI4=",
           "cp39"
         ]
       }

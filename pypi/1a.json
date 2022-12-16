@@ -5492,6 +5492,30 @@
         ]
       }
     },
+    "2.1.55": {
+      "wheels": {
+        "anki-2.1.55-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "SOZbP65kXZyVFNdwe7/BOL1QYDe/8bpSfD3v+1WSgSE=",
+          "cp39"
+        ],
+        "anki-2.1.55-cp39-abi3-macosx_11_0_arm64.whl": [
+          "x/g0W3ScQjWiJ3apOeQT6K/6oxIt9hc8KUSlrsoh5rU=",
+          "cp39"
+        ],
+        "anki-2.1.55-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "mZf5OqGBmogauQWEGheNJkzk1H9146GEkRP8Zd6H/Vs=",
+          "cp39"
+        ],
+        "anki-2.1.55-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "4p5d6POptoqHbDQK1gXOBwu/rwTRbHr5SePPgadBzwg=",
+          "cp39"
+        ],
+        "anki-2.1.55-cp39-abi3-win_amd64.whl": [
+          "2LCcpT9uYHKnVxFUvacfzuQLfqKDPwxN87tANtUyFBg=",
+          "cp39"
+        ]
+      }
+    },
     "2.1.55b1": {
       "wheels": {
         "anki-2.1.55b1-cp39-abi3-macosx_10_13_x86_64.whl": [
@@ -10612,6 +10636,18 @@
       "wheels": {
         "aws_rfdk-1.0.0-py3-none-any.whl": [
           "yUNsRGgM9NVFmTTuY5A+BMcnWQXLWiJ2jgs9LZNtgvs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "2lCi04qVhLGab6L0ZGQphV27j50ToWWsnk2IXjzxtic=",
+        "aws-rfdk-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_rfdk-1.1.0-py3-none-any.whl": [
+          "59IMo3Hc2b6agzXG3cUIVTAZjOWjCHWr+CWR88L3SAk=",
           "py3"
         ]
       }
@@ -39844,6 +39880,18 @@
       "wheels": {
         "etna-1.13.0-py3-none-any.whl": [
           "JioB4dfUZu0+DOh53/7vdCBOJUlrWCF+4sD76VacT/s=",
+          "py3"
+        ]
+      }
+    },
+    "1.14.0": {
+      "sdist": [
+        "xFWhP2TvFfZ1M1Hf8CjpvaIDAS50H9964rKsq1euMys=",
+        "etna-1.14.0.tar.gz"
+      ],
+      "wheels": {
+        "etna-1.14.0-py3-none-any.whl": [
+          "0siejLIQoWu7HrTo/Sa9R5nLycZBYMiUZfe/u7weoog=",
           "py3"
         ]
       }
@@ -107432,6 +107480,20 @@
       "wheels": {
         "pyopenfilectl-0.0.1-py3-none-any.whl": [
           "rjDlfoLYRhdNrPO8JO5RCHU9w96QjCyA4caJQTc7MTU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pype-spark": {
+    "0.1.0": {
+      "sdist": [
+        "iXn0cbiqocKSOILgRnFgVqX7brsYVcfTfh3hiqa/5To=",
+        "pype-spark-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pype_spark-0.1.0-py3-none-any.whl": [
+          "uRzQaM4Bc8+PuzadrXRGyD30da3GFdhlACSCNsT37eY=",
           "py3"
         ]
       }

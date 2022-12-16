@@ -1928,18 +1928,6 @@
         ]
       }
     },
-    "0.15.18b20783": {
-      "sdist": [
-        "SqjIbvuOYk/sgrqRF3T29AJaX9qTZHG82LP0pzZ47Mo=",
-        "alvin_integration-0.15.18b20783.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.15.18b20783-py3-none-any.whl": [
-          "VjsXdHOzfRn8v1y981+HPYvPPQuERB1Am8/ETshCyuk=",
-          "py3"
-        ]
-      }
-    },
     "0.15.18b27345": {
       "sdist": [
         "7qjG0mC2Fj1VTDOmyGnKQhxnPGN20Jyp4U0Ej3SqECg=",
@@ -1952,6 +1940,18 @@
         ]
       }
     },
+    "0.15.18rc0": {
+      "sdist": [
+        "Inbk38+XVtUp8r3P3lY4NW4aEx392TeIxq8YjYgk5YE=",
+        "alvin_integration-0.15.18rc0.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.15.18rc0-py3-none-any.whl": [
+          "dn6kH4ZGuaIz1O38jo9pzUqFFVCxC0uQpHd3ecXV4TE=",
+          "py3"
+        ]
+      }
+    },
     "0.15.19b12164": {
       "sdist": [
         "Fykmcsika73fP4CCc3gx25jEPfWXksMA97KnBVoN/ac=",
@@ -1960,54 +1960,6 @@
       "wheels": {
         "alvin_integration-0.15.19b12164-py3-none-any.whl": [
           "aCyLFAE/fU4NMRSyLlxuDvLxxmExfhGEwyagWek1djo=",
-          "py3"
-        ]
-      }
-    },
-    "0.15.19b745": {
-      "sdist": [
-        "SdgnAEJ8OiVQZ+mnPfCqBfUDmQB0nRLoo/oFsMLrzVI=",
-        "alvin_integration-0.15.19b745.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.15.19b745-py3-none-any.whl": [
-          "FtSFZVlghvbj57/bJ1HCwQG754JnXS6YKq1TcoMqM3U=",
-          "py3"
-        ]
-      }
-    },
-    "0.15.20b11509": {
-      "sdist": [
-        "8I1+cailCU/axmfAJkdT+4DBSwMHPscHuVedy4owV/I=",
-        "alvin_integration-0.15.20b11509.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.15.20b11509-py3-none-any.whl": [
-          "ytmJDW9wYOTLFFDKEpRo1NeIxs/jkRCHaCgUZIrpIb8=",
-          "py3"
-        ]
-      }
-    },
-    "0.15.21b26637": {
-      "sdist": [
-        "m5cTPYx9ehzrejsDBEDHjZilDNGr9QVA2+1gyhTAK/M=",
-        "alvin_integration-0.15.21b26637.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.15.21b26637-py3-none-any.whl": [
-          "ewnK/CYT07cnAfBynhBdke+dB778fsdIhXiWcN3a+Ac=",
-          "py3"
-        ]
-      }
-    },
-    "0.15.22b27800": {
-      "sdist": [
-        "wxjEOBFz39F0c3ZlrbqFoXlhmPS8BoDwtXzWDLsPMrc=",
-        "alvin_integration-0.15.22b27800.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.15.22b27800-py3-none-any.whl": [
-          "j3aMqdGahpPWcEwlBb2UWjUoKPCRThj6BDAWACu9k2w=",
           "py3"
         ]
       }
@@ -21244,6 +21196,18 @@
       "wheels": {
         "datayoga_core-1.24.0-py3-none-any.whl": [
           "VLYYjpxDO37NNlJeHtyIQsjjd7yFNL9a5zFGB4aIsS4=",
+          "py3"
+        ]
+      }
+    },
+    "1.25.0": {
+      "sdist": [
+        "1P0m2jwAIaz7Pa/2w53flm8zgn8S+3MGP4hi5lJpsek=",
+        "datayoga_core-1.25.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.25.0-py3-none-any.whl": [
+          "hhHaOENYV4Dh7nk1AdHfdM2vyB61lRcDmFJu9okt4aM=",
           "py3"
         ]
       }
@@ -40982,6 +40946,30 @@
       "sdist": [
         "V8bdGehWfdXFUb06Wap0ww02DBCGvrBjku73cce3eAU=",
         "GammaLab-0.5.1.tar.gz"
+      ]
+    },
+    "0.5.2": {
+      "sdist": [
+        "3ngdB5ihpOZJ8YmNKiSz6XZGbS33zjGOquWmFB8dYbY=",
+        "GammaLab-0.5.2.tar.gz"
+      ]
+    },
+    "0.5.3": {
+      "sdist": [
+        "3TGDZppipVMp7lrxBpyrIA9fdypqQ1gBjpxEN9DM28Q=",
+        "GammaLab-0.5.3.tar.gz"
+      ]
+    },
+    "0.5.4": {
+      "sdist": [
+        "OCoZW0GVvs26XDXepJi3TQ6775KQ+KGQHCG5Ertk7cU=",
+        "GammaLab-0.5.4.tar.gz"
+      ]
+    },
+    "0.5.5": {
+      "sdist": [
+        "69nKX0oSyivciEP/MRi+auhaO7Pw1AKUP0xKW7in3kU=",
+        "GammaLab-0.5.5.tar.gz"
       ]
     }
   },
@@ -108920,6 +108908,12 @@
         "radical.utils-1.18.1.tar.gz"
       ]
     },
+    "1.19.0": {
+      "sdist": [
+        "O9FZDmgdiQUoAdwKUoHbgxKDtNA7H1hMJQT1ilJaIcY=",
+        "radical.utils-1.19.0.tar.gz"
+      ]
+    },
     "1.2.0": {
       "sdist": [
         "VOtanxMwr4cYRJciUI57vFksXwQmhVCv8gHKthDKp9A=",
@@ -108936,6 +108930,12 @@
       "sdist": [
         "s7UMwbxJJCqn9dxlC0rqvsPQT/e64Rtt4FIS0LBSZx8=",
         "radical.utils-1.2.2.tar.gz"
+      ]
+    },
+    "1.20.0": {
+      "sdist": [
+        "mzndYW1ww4f7P5fTUQpQa6ySwVm2SCw669PRHuruvMk=",
+        "radical.utils-1.20.0.tar.gz"
       ]
     },
     "1.3.0": {

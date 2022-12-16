@@ -54454,6 +54454,30 @@
         ]
       }
     },
+    "9.21.140.0": {
+      "wheels": {
+        "isystem.connect-9.21.140.0-cp310-none-win_amd64.whl": [
+          "jRO1RkU76Uqpe1SZc1hOycB4R6IuFfL//5uBqhMGVLw=",
+          "cp310"
+        ],
+        "isystem.connect-9.21.140.0-cp37-none-win_amd64.whl": [
+          "iSo/Iv5CGKNzeqEo8u9JJxpGRtDHxrvqe+ndgpNdhpM=",
+          "cp37"
+        ],
+        "isystem.connect-9.21.140.0-cp38-none-manylinux1_x86_64.whl": [
+          "ElFVujCUTqkU6CA09Hwa/A1c1XzJ72jV2HAPdxdzybg=",
+          "cp38"
+        ],
+        "isystem.connect-9.21.140.0-cp38-none-win_amd64.whl": [
+          "iEDHlgaKbEZb49abDLv3HCBDwdkjbVCX8wIszCYMc9U=",
+          "cp38"
+        ],
+        "isystem.connect-9.21.140.0-cp39-none-win_amd64.whl": [
+          "zV5C9veminkPzPSBXzonMPfL1s7dnOUhiT1wpNZ12+Y=",
+          "cp39"
+        ]
+      }
+    },
     "9.21.15.0": {
       "wheels": {
         "isystem.connect-9.21.15.0-cp36-none-manylinux1_x86_64.whl": [
@@ -82774,6 +82798,14 @@
       "wheels": {
         "odoo_addon_stock_picking_batch_extended_account-15.0.1.0.0.1-py3-none-any.whl": [
           "dsd433sgdtpL6YXDRrqtuMcfsM//Ph6vDzuzScO/kkA=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_stock_picking_batch_extended_account-15.0.1.0.0.2-py3-none-any.whl": [
+          "QEM3d7YY9ALWxfQ2VyjTngUL+fto+XPThgxdyQVlLhM=",
           "py3"
         ]
       }
@@ -116959,6 +116991,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.7.dev20221216": {
+      "sdist": [
+        "VboYdLsgqtjRUxlTSE3BDEz/6g348xDrytCkFCgXbuU=",
+        "rapidpe_rift_pipe-0.0.7.dev20221216.tar.gz"
+      ],
+      "wheels": {
+        "rapidpe_rift_pipe-0.0.7.dev20221216-py3-none-any.whl": [
+          "ys8Rq5IJpBC/2pR8kxluVH9WXdNf4xeYALfVqbh39Qs=",
+          "py3"
+        ]
+      }
     }
   },
   "rapidpro-dash": {
@@ -148304,6 +148348,12 @@
       "sdist": [
         "5DzE/HN12zDUaSdrYfbiLEKmL/cwwzdRg1iy4hhlfxM=",
         "trustlines-relay-0.22.0.tar.gz"
+      ]
+    },
+    "0.23.0": {
+      "sdist": [
+        "bQr6PVK/td4hfEvGMfcPOJzFYFe6cWBLi/mfekEIcmM=",
+        "trustlines-relay-0.23.0.tar.gz"
       ]
     },
     "0.3.0": {

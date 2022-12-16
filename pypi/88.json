@@ -14628,6 +14628,12 @@
         "cn-stock-holidays-1.1.tar.gz"
       ]
     },
+    "1.10": {
+      "sdist": [
+        "2R13v2BE6jj/wjwipDhhwXo5DAvggBipabnIIj2WF14=",
+        "cn-stock-holidays-1.10.tar.gz"
+      ]
+    },
     "1.2": {
       "sdist": [
         "samiHWo9LO4AsQRSvFx1EPhXF+6ElxDZbXe09maMcuA=",
@@ -24420,6 +24426,18 @@
       "wheels": {
         "django_case_insensitive_user-0.1.1-py3-none-any.whl": [
           "eoMizUYJjrzkwM4NpZ7Qw9GULRYPpRkhfm8UFumVrdU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "PIAy7FJMYp6ziSvwmwrGsZpKrOUXaie9ZSjMGdHCbQE=",
+        "django-case-insensitive-user-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "django_case_insensitive_user-0.2.0-py3-none-any.whl": [
+          "FuWOZBGyc0a7CJA4jiAIwYutpb+6MRLP5kifJd8OVZA=",
           "py3"
         ]
       }
@@ -127409,6 +127427,12 @@
         "T7hOVUPSEWamYDNpjwTIT05BGDDfcSUqklrVUYklYf0=",
         "sympy2c-2.2.1.tar.gz"
       ]
+    },
+    "2.2.1.post1": {
+      "sdist": [
+        "ze8nWpJHt6yxBG7XIDiZe60y74zvkpUTtqb14M+DiYk=",
+        "sympy2c-2.2.1.post1.tar.gz"
+      ]
     }
   },
   "syntheticdb": {
@@ -142520,6 +142544,74 @@
         ],
         "wpilib-2023.0.0b6-cp39-cp39-win_amd64.whl": [
           "UqeUOhrBKVVgOg04JYK6mv9zAtx3roPWeVAtVP+keW0=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.0.0b7": {
+      "sdist": [
+        "6qyxMU1IS+CVx6oemCC5TsutqBIYF8nQNnK+QDaGfBw=",
+        "wpilib-2023.0.0b7.tar.gz"
+      ],
+      "wheels": {
+        "wpilib-2023.0.0b7-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "ENsTfrg4ToCvnqNfEwgMAAfh6OJxQDpXbPsVP4Cr73k=",
+          "cp310"
+        ],
+        "wpilib-2023.0.0b7-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "tFfT2Kgelotxl5IfbXkwntSy7npatiMG81W1Go1Zh4Q=",
+          "cp310"
+        ],
+        "wpilib-2023.0.0b7-cp310-cp310-win_amd64.whl": [
+          "c0bKitn5TYgg032OD0d3XpHw/eFWbzktff3F72y58hE=",
+          "cp310"
+        ],
+        "wpilib-2023.0.0b7-cp311-cp311-macosx_11_0_universal2.whl": [
+          "cUQ6S1drfb83pYn1a4RPbzdEkYKTrv+o7YvPF0r724Q=",
+          "cp311"
+        ],
+        "wpilib-2023.0.0b7-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "QPPmDPhsS6zUwWik9kAzXYG0gHMHSQXv/KnAoc+GjHA=",
+          "cp311"
+        ],
+        "wpilib-2023.0.0b7-cp311-cp311-win_amd64.whl": [
+          "IR7w13bH0J/En4kNXXvJnLh2xrjPhvIl62sxBc6pTs4=",
+          "cp311"
+        ],
+        "wpilib-2023.0.0b7-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "l/S3lZApBOAgGZeyRUqIE2qZes65F12mrb0gYi6yBik=",
+          "cp37"
+        ],
+        "wpilib-2023.0.0b7-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "1AHtjTCOU3GPhC8MqSgGHu29VodL3BcObpAZ8vBgXRA=",
+          "cp37"
+        ],
+        "wpilib-2023.0.0b7-cp37-cp37m-win_amd64.whl": [
+          "iEgopwv/Y+u1j+Wf/wRJS3pfci6MSoinhyr5jWO2l/0=",
+          "cp37"
+        ],
+        "wpilib-2023.0.0b7-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "kyK0gxMQtqefkfpvU6+u5Gf7Xm+hqu34fT1/An67org=",
+          "cp38"
+        ],
+        "wpilib-2023.0.0b7-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "p9wXiKt2gkcu0YTpDPF1WC7GO4kHKIr2mGFA9BZMIHA=",
+          "cp38"
+        ],
+        "wpilib-2023.0.0b7-cp38-cp38-win_amd64.whl": [
+          "8rW//upzdPPocng0GHBbDzCVJUp/eIwdYldvQaBwlMw=",
+          "cp38"
+        ],
+        "wpilib-2023.0.0b7-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "9VCXz1kmlrxr2QLqX9PMSFrDJlzc09PLb3Y8eW7eAQ8=",
+          "cp39"
+        ],
+        "wpilib-2023.0.0b7-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "zABIxt2kjqlAm4ozuAhGswrUPeM6MrscaL0BzCP66Ac=",
+          "cp39"
+        ],
+        "wpilib-2023.0.0b7-cp39-cp39-win_amd64.whl": [
+          "gD8JqJmDMeRsdv1hVLfwwj9ZXewenT1rrSJ3tQKg6+Y=",
           "cp39"
         ]
       }

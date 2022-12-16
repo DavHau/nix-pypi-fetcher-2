@@ -33615,6 +33615,18 @@
         "MJBCKYXcjhkq+x7XY3k+K0svYds1+oWveuQEKcYmd6k=",
         "dcloader-0.6.0.tar.gz"
       ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "nerkgkXjaAJkc4saX3Zl2y1d9k9rlRwFbHjvLQOpDtY=",
+        "dcloader-0.7.0.tar.gz"
+      ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "sdWs6LbnnezHTh9kkP7x96FoLYD+R4pZX75YojoQV0Q=",
+        "dcloader-0.8.0.tar.gz"
+      ]
     }
   },
   "ddeint": {
@@ -82345,6 +82357,54 @@
           "cp39"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "hZuvkdSC1EvLJbicS0DKoJh2RV9VHK2fy7MxXgXeEZU=",
+        "mqt.qecc-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mqt.qecc-1.1.0-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "WQ3hXpcN+pZJpOYHw/X4pcbt40Mlo/fvOtnXG4YwFi8=",
+          "cp310"
+        ],
+        "mqt.qecc-1.1.0-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "hJPhbNGEdTuwxoZK91QCoIZc8CcZVRJYCevElb3tPk8=",
+          "cp310"
+        ],
+        "mqt.qecc-1.1.0-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "zQPNmheakT5QdmW/VIrUNKeKoDQWk3Xjrfbzkk/AM4Q=",
+          "cp311"
+        ],
+        "mqt.qecc-1.1.0-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "CF5/t0pssr9bi1bVpO4ABA/8acxhBk+zsyF1fh0+Mns=",
+          "cp311"
+        ],
+        "mqt.qecc-1.1.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "9jyVto/y8t+IF+3rjLJEvB49ynq6LYkZ0hDLFxzy5Yg=",
+          "cp37"
+        ],
+        "mqt.qecc-1.1.0-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "TqxgYd3wZ4tXnpp+bCrInikWG3rzK6rhehLs0jQFYvg=",
+          "cp37"
+        ],
+        "mqt.qecc-1.1.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "X5waZiY2Ux08gqSj/nwCBQ6cS2saQJ+mO4ZneA++IEM=",
+          "cp38"
+        ],
+        "mqt.qecc-1.1.0-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "6dm8GQXfng0W1hEQmS43bqfLPlnF8FMvLIigrsYvvlg=",
+          "cp38"
+        ],
+        "mqt.qecc-1.1.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "tm8jLlrr6Pf18aayE3fxQ6JwnZFh+ueZ13kLzfSP0yY=",
+          "cp39"
+        ],
+        "mqt.qecc-1.1.0-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "Ku35r4QwadEjsM8V5t0WLuilPX4Cq/duAUV1pMeNedY=",
+          "cp39"
+        ]
+      }
     }
   },
   "mqtt-decorator": {
@@ -102297,6 +102357,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.3": {
+      "sdist": [
+        "N4zRGZRCDFWeoyzPkRB6TBpX9rmpYSK3/zqDqO10dQ4=",
+        "Products.MIMETools-3.3.tar.gz"
+      ],
+      "wheels": {
+        "Products.MIMETools-3.3-py2.py3-none-any.whl": [
+          "TFYbi9SXvhGHVnM5seF3hpI0BgsZC7sqt3x5toBfWFc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "products.resourceregistries": {
@@ -107332,14 +107404,14 @@
         ]
       }
     },
-    "0.1.4": {
+    "0.1.5": {
       "sdist": [
-        "zyS2thzq+lx9CJNILBi+zn8uSIk67TSjzDUAAtz2krc=",
-        "pygocron-0.1.4.tar.gz"
+        "5w9KGQNnEYQESWd/DM06qJO0+TEPnhfqKUyHtzuhmtY=",
+        "pygocron-0.1.5.tar.gz"
       ],
       "wheels": {
-        "pygocron-0.1.4-py2.py3-none-any.whl": [
-          "y9EjC68Sc155RMBqeoupuwmzy6iIa/ahxyBFhRY8Bas=",
+        "pygocron-0.1.5-py2.py3-none-any.whl": [
+          "404JO+XH4NLMPwscSUg5KC88K1uLD6Bb3W/TBFYX+uc=",
           "py2.py3"
         ]
       }
@@ -137862,6 +137934,18 @@
       "wheels": {
         "telescope_sdk-0.0.22-py3-none-any.whl": [
           "kJOVZLjDdrTm/F/vZPzJfQvdjZLrsF6a/rzQ990SY/I=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.23": {
+      "sdist": [
+        "ZUZUKxsJl9bANV2wfwWVzJahxzT/ztpaekmK7rWFJOk=",
+        "telescope-sdk-0.0.23.tar.gz"
+      ],
+      "wheels": {
+        "telescope_sdk-0.0.23-py3-none-any.whl": [
+          "QUAQEvox9urU5I2td1b7fxfc+gkG2ajCBs3u8MnNaPA=",
           "py3"
         ]
       }

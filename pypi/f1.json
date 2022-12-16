@@ -33420,30 +33420,6 @@
         ]
       }
     },
-    "2.11.3rc0": {
-      "sdist": [
-        "DlSvcfta1drD9pFR0QoQ/82pT3HFJ1CkAf/bf+c34sg=",
-        "DKUtils-2.11.3rc0.tar.gz"
-      ],
-      "wheels": {
-        "DKUtils-2.11.3rc0-py3-none-any.whl": [
-          "6CyJdTdIubZiVO2mIrVh3Y6IDJesSGuFXKz6rxCjXwc=",
-          "py3"
-        ]
-      }
-    },
-    "2.11.3rc1": {
-      "sdist": [
-        "NlE4VKZrIIaAKHP7jc2nDmSn9E/ieukY2dQ30LTytOg=",
-        "DKUtils-2.11.3rc1.tar.gz"
-      ],
-      "wheels": {
-        "DKUtils-2.11.3rc1-py3-none-any.whl": [
-          "hdlfA7sYSNG/OcmjQqozuug5LiYxfFh5Tse/7g8FIk8=",
-          "py3"
-        ]
-      }
-    },
     "2.2.0": {
       "sdist": [
         "mPGw9aoL2JZtX60r4d9dhg1RI9m3voj0ZpbVBykjWX0=",
@@ -45874,6 +45850,22 @@
         ],
         "findex-0.12.0-cp37-abi3-win_amd64.whl": [
           "vPXf/xFkRjY/k/yvLvFvI4fjHF76JtVzXS65/25zDrc=",
+          "cp37"
+        ]
+      }
+    },
+    "1.0.0": {
+      "wheels": {
+        "findex-1.0.0-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "qVRjK+VBfJNagmz3IDXdZwxi5+wUZ/DqkKy1jn7R58A=",
+          "cp37"
+        ],
+        "findex-1.0.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5wO6u00gJsJB0BnOmmeXx1zYxUVCMLDR2YjBYfndzME=",
+          "cp37"
+        ],
+        "findex-1.0.0-cp37-abi3-win_amd64.whl": [
+          "zD0MPLAV7BwTw3agqjXiHHY0z6ILwurtmUm9AQRVeEI=",
           "cp37"
         ]
       }
@@ -87890,6 +87882,14 @@
       "wheels": {
         "odoo14_addon_pms-14.0.2.36.5.dev5-py3-none-any.whl": [
           "0acQIiYynvp2FmgrgIp9HNpWH52iT8ERENch/gUyY0c=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.36.5.dev51": {
+      "wheels": {
+        "odoo14_addon_pms-14.0.2.36.5.dev51-py3-none-any.whl": [
+          "59QLbKQuRRfuRPtT4/SA/w/HcI7kD8RXwdjUC5/H0vo=",
           "py3"
         ]
       }
@@ -139264,6 +139264,18 @@
       "wheels": {
         "wm_ssh-0.3.8-py3-none-any.whl": [
           "F5jBqgyXB3m9DRFSUjZDNW22qY2hL+kQLDzIcrz60k8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "WajmSzAJ1CYxLFzwtqOaWzIknga40YWmuEneEn+p+eU=",
+        "wm_ssh-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "wm_ssh-0.4.0-py3-none-any.whl": [
+          "ECgwbhYV9vAGBY60E9oJslCRU7aN9sGmSnw9mpky/bc=",
           "py3"
         ]
       }

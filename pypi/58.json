@@ -61169,6 +61169,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8.post1": {
+      "sdist": [
+        "5iAi2IIQhUs31YESDgGwXfKTaOdaUCssGBsj9qvB90g=",
+        "linref-0.0.8.post1.tar.gz"
+      ],
+      "wheels": {
+        "linref-0.0.8.post1-py3-none-any.whl": [
+          "Q4skCEQBfGPc2gSnLseKUDTc37QvzM8PbXM2IO60zTE=",
+          "py3"
+        ]
+      }
     }
   },
   "lipd": {
@@ -78441,6 +78453,12 @@
         "4IS9M13n9/ZPc88GHkcqBBKDkDadhfqk5D52KroQFOI=",
         "mptcplib-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "/91oKPk6mV6dYTlOZuYo+8wngO/ShT1+iv1EFi0w6Yc=",
+        "mptcplib-0.1.2.tar.gz"
+      ]
     }
   },
   "mpy3": {
@@ -83724,6 +83742,16 @@
       "wheels": {
         "odoo_addon_auth_saml-15.0.1.1.1-py3-none-any.whl": [
           "pa6XFbES1mGs1mhPl65Gp35Jmefhd112WOwzE56xa2U=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-l10n-it-withholding-tax-reason": {
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_l10n_it_withholding_tax_reason-16.0.1.0.0.2-py3-none-any.whl": [
+          "2aex2ipcr+y/jNA8yVvr9O0T/P91mKg2UX4EmZ1bLCU=",
           "py3"
         ]
       }
@@ -112200,6 +112228,74 @@
         ],
         "robotpy_halsim_ws-2023.0.0b6-cp39-cp39-win_amd64.whl": [
           "D7OD87bkbwXguQbZrU8od+5OU8RQj66WQ6q6dEIdd4U=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.0.0b7": {
+      "sdist": [
+        "o6YFmZrtpfw8PoNq4lqwdkvkMvYYVtFNQVZgolqXcW4=",
+        "robotpy-halsim-ws-2023.0.0b7.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_halsim_ws-2023.0.0b7-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "N7RvpPUH5mTXQGE+E2dDYXsnQ+J/iXGiq5/3BOWO7K4=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "kUbaZY2OkMt7xAOQarwnym4uCP/2yTzamwuGNJFn9nw=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp310-cp310-win_amd64.whl": [
+          "RboXg1eqIb0kGdHSG9Kh0KwFDCs5UUBFrZ484oyJwLg=",
+          "cp310"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp311-cp311-macosx_11_0_universal2.whl": [
+          "rDk1Gk348rTeTDPk0HuTl/6NSLE5Nbxwb1a95P5Bb0k=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "j2elSp6C4trLJjPwL1pM+n7TvBbufmy07hD4LcOb18w=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp311-cp311-win_amd64.whl": [
+          "xBoYUX7voYC/U9aejs5wBlf897G5X7kHygPCLZHFPbc=",
+          "cp311"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "jqlmBYfj47dRHT7pLpnIVaxmY5rO60PG+cRxu1qPTL8=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "HRI84OLIWkkpAZPLrfqOTruZbox/romZZp5Ri9TtSwo=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp37-cp37m-win_amd64.whl": [
+          "oWRhWqNSjlRaKBEO7DJK+HHsPHn1451YWIpVNx3WRsE=",
+          "cp37"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "yGD1WnIQa0Ih/gDJX9mlv7OGOAhWMUmjXz4cXe/ssz8=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "DHeK4L38WBZx7cDYhLyoAo0F3j0aLvlFGOCGBjHs4GE=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp38-cp38-win_amd64.whl": [
+          "BThPpLWcAsC6I1V8Nbzi5q5xp/jsxLdCCA/rjfOJBX4=",
+          "cp38"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "a6hS1uMnRbCrdHUCI9TfA4zBak+k9DSylaX8W0Vr2to=",
+          "cp39"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "4dpoeSbLFttQMD+EzucZs58QLYnUceYnU4UVzRRctM8=",
+          "cp39"
+        ],
+        "robotpy_halsim_ws-2023.0.0b7-cp39-cp39-win_amd64.whl": [
+          "SYtP+acDcWAXLwW0Rs5e2ApIv2VwJ6ZNj5D2fzqtwk4=",
           "cp39"
         ]
       }
@@ -148449,6 +148545,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.2": {
+      "sdist": [
+        "Bz6hdIYhgXxTZBvttJA/PeWICmlh44wnrHnlnK+dees=",
+        "trivialscan-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "trivialscan-0.4.2-py3-none-any.whl": [
+          "DRrTcvwm+xGUV+hlr2SpSNyswOy8Y9LB8k3CJanA/XU=",
+          "py3"
+        ]
+      }
     }
   },
   "troxpackage": {
@@ -151456,6 +151564,18 @@
       "wheels": {
         "vault_certificate_deploy-1.3.2-py3-none-any.whl": [
           "6WQEmgYFzKLuZ0hnnRW19qiJkSjhTmYKZY6aEa7EspA=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "TmwItUTYPhoY3zA3xuLP38CogxB8fxGbZUU8d1TVf+Q=",
+        "vault-certificate-deploy-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "vault_certificate_deploy-1.4.1-py3-none-any.whl": [
+          "Fx2Th8ewsIQI4siih04OkOu/OA0qE7LZNlDDAJ44vXA=",
           "py3"
         ]
       }

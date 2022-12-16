@@ -42237,6 +42237,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.9": {
+      "sdist": [
+        "G9C9x2En1IjFRFfcOxNqtccEUSEyrdpIiye/hUnsvIo=",
+        "edamame-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "edamame-0.0.9-py3-none-any.whl": [
+          "JKtDkD3QL+16K7Qwa57F14T74JB5ogJYPy5HGd/30vE=",
+          "py3"
+        ]
+      }
     }
   },
   "edaplotting": {
@@ -97959,6 +97971,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_base_country_state_translatable-16.0.1.0.0.2-py3-none-any.whl": [
+          "YrQ0KVFy/WGR8XCdqIcgrAKOMzR3VU3lJF/QYivYpCw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-sale-sourced-by-line": {
@@ -145416,6 +145436,78 @@
         ],
         "tiledbsoma-0.2.0rc0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "a7YS4zX3VRUCx1u5m55RXInPau1bpGShY/mT5jovmBc=",
+          "pp39"
+        ]
+      }
+    },
+    "0.5.0a2": {
+      "sdist": [
+        "4PsW5V4BMVpG8QJznc09GxXyTWNuAKLXN8Dd5nS4Y3A=",
+        "tiledbsoma-0.5.0a2.tar.gz"
+      ],
+      "wheels": {
+        "tiledbsoma-0.5.0a2-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "mwz7yPOSTImNIHDVuDM3G1Teh1iTDDzA/Gx5h0IFDSk=",
+          "cp310"
+        ],
+        "tiledbsoma-0.5.0a2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fVYstyYKLEVU+ueTVPrHwuZQBctutqz0NPVOcXlSoVQ=",
+          "cp310"
+        ],
+        "tiledbsoma-0.5.0a2-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "kxCqw3wQBS8j6ox+VPsJB/RFf70Iyem3hjyL42QE2/Y=",
+          "cp311"
+        ],
+        "tiledbsoma-0.5.0a2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ViMhWNuVqUup6laSNXjorvBt7LAE7AQat/rm1IQ3ec0=",
+          "cp311"
+        ],
+        "tiledbsoma-0.5.0a2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "LA+Yau+4xl3t7DQCx3UQvm9O8R0fEEml5YjyLa8J2Ks=",
+          "cp37"
+        ],
+        "tiledbsoma-0.5.0a2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4I0xJ5hcgNh/l4STkjSmfhR35JXrCh2IUHOYlOhMI5g=",
+          "cp37"
+        ],
+        "tiledbsoma-0.5.0a2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "il1A7cZgzCFCbDDZRls604HHPwVHZvSalhEdQWnOPFA=",
+          "cp38"
+        ],
+        "tiledbsoma-0.5.0a2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DO79MfXIXXzo2eo25KyFx9EVOySfsW8umjSt2e0fWHw=",
+          "cp38"
+        ],
+        "tiledbsoma-0.5.0a2-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "+IOl2u1oAQGGukriBk2f9PF5tE/robcFx6q2EN08iQI=",
+          "cp39"
+        ],
+        "tiledbsoma-0.5.0a2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zSqEhiOPo7bUPAaDX+skdeQ56xGKTXynVD2J51VShxs=",
+          "cp39"
+        ],
+        "tiledbsoma-0.5.0a2-pp37-pypy37_pp73-macosx_10_14_x86_64.whl": [
+          "d93hL7IXbwefgxXkQTrre7vFFCz7u4hygMMLChm2MAA=",
+          "pp37"
+        ],
+        "tiledbsoma-0.5.0a2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ON4kpHy5f/Wo7EkRo0Qf9I3dI7wQ3Z+4/s7KB3LDsn8=",
+          "pp37"
+        ],
+        "tiledbsoma-0.5.0a2-pp38-pypy38_pp73-macosx_10_14_x86_64.whl": [
+          "qr9btQ3oItwrJWjssP2++lAXr6W/HHNEZ7ZZJJ2RYpA=",
+          "pp38"
+        ],
+        "tiledbsoma-0.5.0a2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tFjk7BmvJCaU1/KfeQeLcbq4HIOQO2QjmXsDWMlKXTo=",
+          "pp38"
+        ],
+        "tiledbsoma-0.5.0a2-pp39-pypy39_pp73-macosx_10_14_x86_64.whl": [
+          "VtTWI5bNVTjd1ngS5Q9zOw+HSHI6xyA/XHxxm4FtwtE=",
+          "pp39"
+        ],
+        "tiledbsoma-0.5.0a2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1ryyoLbPwGEGGBvPGbYo6IHWdGJq4m7Moig2MAH/A9s=",
           "pp39"
         ]
       }

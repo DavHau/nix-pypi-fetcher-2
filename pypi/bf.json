@@ -94303,6 +94303,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.2.4.0": {
+      "wheels": {
+        "odoo_addon_account_financial_report-15.0.2.4.0-py3-none-any.whl": [
+          "hJkTkku5LvPb+zS0tlDTs09wnKsUUaOpnc+DB88msV8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-auditlog": {
@@ -94470,6 +94478,14 @@
       "wheels": {
         "odoo_addons_oca_stock_logistics_barcode-15.0.20221214.0-py3-none-any.whl": [
           "ET6IaMSl3nhaWWG0eCKy752SC8X+jptUySn0+aViKsc=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.20221215.0": {
+      "wheels": {
+        "odoo_addons_oca_stock_logistics_barcode-15.0.20221215.0-py3-none-any.whl": [
+          "9ENWYvIlfgvkV4CGJsa0gJYEl5HVzZjijP4XLFPWCqs=",
           "py3"
         ]
       }
@@ -104050,6 +104066,42 @@
         ],
         "OpenGeode_core-12.5.13-cp39-cp39-win_amd64.whl": [
           "etNRCij9u6eVLqaCP5nJcUYH+dv549oNhW0D/K4NrAc=",
+          "cp39"
+        ]
+      }
+    },
+    "12.5.14": {
+      "wheels": {
+        "OpenGeode_core-12.5.14-cp310-cp310-manylinux2014_x86_64.whl": [
+          "phP+xSwoK5Ox4Tp7g0Zp1TX3V6NFzLqhaT0AfZpaSnw=",
+          "cp310"
+        ],
+        "OpenGeode_core-12.5.14-cp310-cp310-win_amd64.whl": [
+          "7T6gfkjf+luYd7LP7FdEl9MHRQ3xUAjtNtRiJSawooM=",
+          "cp310"
+        ],
+        "OpenGeode_core-12.5.14-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "IrhlzXPf7LlFWBpAEUQdvu+jwRvYnQlUe8gmBymKKFQ=",
+          "cp37"
+        ],
+        "OpenGeode_core-12.5.14-cp37-cp37m-win_amd64.whl": [
+          "sdvtWjcg7YDs0H+/KlhDu6fiCI0VfQbhZ9ut/9fvU88=",
+          "cp37"
+        ],
+        "OpenGeode_core-12.5.14-cp38-cp38-manylinux2014_x86_64.whl": [
+          "pvPBMQy7YT7JEBM1FTaaQgtbxz0Y+Q9mmXU/uux9v6A=",
+          "cp38"
+        ],
+        "OpenGeode_core-12.5.14-cp38-cp38-win_amd64.whl": [
+          "JaKIh98Y/XOecIeSE2+eZEa8/9HGvDUBmD/XxnuGAJs=",
+          "cp38"
+        ],
+        "OpenGeode_core-12.5.14-cp39-cp39-manylinux2014_x86_64.whl": [
+          "GQThBUdU+8+Q/RE23b82VVI2+fU4qhLHgU8ImOYM/6g=",
+          "cp39"
+        ],
+        "OpenGeode_core-12.5.14-cp39-cp39-win_amd64.whl": [
+          "BcYvep1eD9QQcLNbftEPUnA0/n9gHdimFq98AIQQFYw=",
           "cp39"
         ]
       }
@@ -130973,6 +131025,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.0.0b7": {
+      "sdist": [
+        "b5Dfel2rG9jcNhTw8kOVMqmZ4ZxhFVpEQhIeRIGWuTA=",
+        "robotpy-halsim-gui-2023.0.0b7.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_halsim_gui-2023.0.0b7-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "EGhnVkNKNdhCY7APyJZe108ZeHoKE/gLrUNsIOIVAIE=",
+          "cp310"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "UGpiNpssRwTc5DQLwOQ731cR3QmMJKBNF68MbT09728=",
+          "cp310"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp310-cp310-win_amd64.whl": [
+          "Lyog+yxXHpYjPlnffkWsolz7LDrE1je96N8IruMs0nc=",
+          "cp310"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp311-cp311-macosx_11_0_universal2.whl": [
+          "Wcu1F5tbGFSyLagBu/DrOrVACPsuUn0nhWHnmGZt/eM=",
+          "cp311"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "kz7DqP5Q48eVN5b9qy1i/63+Hd6WD867bzu9ze7tbkU=",
+          "cp311"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp311-cp311-win_amd64.whl": [
+          "KAS48AaSdQ7El2uNwhNrkssv3jKgbdOhTSG77xOCmUg=",
+          "cp311"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "6TVryImShoMxNsiR0nIB0QFY7Awe3sOtSkl6iuBhyLk=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "7ZdTT9f1D5U94EUL6f8T65A+2bGNzEY36yin4RaMkLM=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp37-cp37m-win_amd64.whl": [
+          "vJKF5HngmUM4/X37n/KmcfSzQjRx/7YC+/rQLrJZV80=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "KXPad8lHgujk1Otq7/1H2qIDYmPgDJ7mGK07mbI2GYI=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "A3gqtJETfm1CyArB1duCYnnb+2I5jhb+zakxgLzqTUw=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp38-cp38-win_amd64.whl": [
+          "Md4sgOFjCvYpk0aVOBPEsIj85+MyDO/eWFjuP5Cvzf0=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "bmBEuOGF7WLxEAcF+/P7FZHk5A5qJbjQWfptbEDtcYw=",
+          "cp39"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "VzJMWNwT01nNOluoZ1wYxMWWM/GIDrJ4VKjewo/GvF8=",
+          "cp39"
+        ],
+        "robotpy_halsim_gui-2023.0.0b7-cp39-cp39-win_amd64.whl": [
+          "cejLJ4ZDDZnPqiELuNU4ES4SmhEqqrLnWYuFiviEmCM=",
+          "cp39"
+        ]
+      }
     }
   },
   "robox": {
@@ -147360,6 +147480,42 @@
         ],
         "supermind-0.1.1a3-cp39-cp39-win_amd64.whl": [
           "AquB98gh/FV+uPiUasmuG3pIRZQoSgBGFVlNpH2gqc4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "supermind-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xstlZc3zo7XmhJGKokxuOFQVnz+0gyLRwC2yKjkq88Y=",
+          "cp310"
+        ],
+        "supermind-0.1.2-cp310-cp310-win_amd64.whl": [
+          "UDjZUQJnwEH6HY26fAM4x5jOe81OkMWvLF+C0ucCGFY=",
+          "cp310"
+        ],
+        "supermind-0.1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Mslwchzk0YpqCyd8dZrpB2hrsk+9rwSp8ZXBAsBV6u0=",
+          "cp311"
+        ],
+        "supermind-0.1.2-cp311-cp311-win_amd64.whl": [
+          "k5aMZiXpQTdXkeo+VHTn8SctCwOpW9TtSFF5Ji7XCXE=",
+          "cp311"
+        ],
+        "supermind-0.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jZ8yMPqwh+RctpmBCM33h1HGbG/Gc0FZE+6ErKBiHpI=",
+          "cp38"
+        ],
+        "supermind-0.1.2-cp38-cp38-win_amd64.whl": [
+          "wp/j1HfBtD5Kj/NO6BC2jSaWYnxx4m8mM+pDeQQwqp8=",
+          "cp38"
+        ],
+        "supermind-0.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CRNAuWHaDscGgpQq8gEw2BihicGhir9FOz1UF5lcM9g=",
+          "cp39"
+        ],
+        "supermind-0.1.2-cp39-cp39-win_amd64.whl": [
+          "gK7dMJJDdJ5srkiW860w0Y/EjknKdzwuuG+i9rhm3yw=",
           "cp39"
         ]
       }

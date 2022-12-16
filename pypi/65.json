@@ -70505,6 +70505,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0": {
+      "sdist": [
+        "1z8wwCkQ6m6roZ1jox/PsdBZJpU8GqL32YUxJ8PRHfM=",
+        "jet-django-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "jet_django-1.5.0-py3-none-any.whl": [
+          "XnCEWONLCLZlbkxCOfrV5Ip9YESn17+IOjPbraidnqY=",
+          "py3"
+        ]
+      }
     }
   },
   "jewcal": {
@@ -126421,6 +126433,12 @@
         "MgBhVaib1dIO8m9DD6mbu4gzKbp7jbaITCwucwiS968=",
         "salure_helpers_salureconnect-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "leExi4l/HyLpUXQvXT0FEwXAeavA3ol5MnIS/59gmfs=",
+        "salure_helpers_salureconnect-1.0.1.tar.gz"
+      ]
     }
   },
   "samourai-build-tools": {
@@ -142836,6 +142854,34 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221215-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "yNmzL8EkjRL3G3yaWuT+hFcHVtOLK4LNanT68K5BwAE=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221216": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221216-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "99Sp9nhaLf6t98DTgeGzdPfIUMJPbAHntZ0dBEHRkr0=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221216-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3HYc1Ywgy+c1f2A8CBxp2Ra3o/feRzLFky3ve+NfGpU=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221216-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "gYYQb5rUayvMI7dy/uh5EsBoNT314a8of9WbUjQ8yoQ=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221216-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CcONjWszSF7mgA51J3zLlOG9WR8NTuaooX5tSkRjOJY=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221216-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JlUOoYeqDle0nQcwmOfwFS7CkUpwgcGLinQRFvLKJhY=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221216-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kHl09sLPO8Aq7kSzxgMc1Gq5n6UVsKjvh3RZ+TVRUXs=",
           "cp39"
         ]
       }
