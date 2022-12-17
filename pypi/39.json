@@ -15227,6 +15227,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221217": {
+      "sdist": [
+        "TWAQ7n4nyXeooThdfQWnYHlVxspeuE7aQrC6B8jay3Y=",
+        "bigdl-dllib-2.2.0b20221217.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221217-py3-none-macosx_10_11_x86_64.whl": [
+          "kYLOvkOHH3ybDa5/aFn8x1UNXRCW/SodLKqKXVBg6T0=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221217-py3-none-manylinux1_x86_64.whl": [
+          "VeXWx+Q5BnvRWIU7D+X+hd1gC3JqVzQPH3hBGSARKKI=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -113011,6 +113027,12 @@
         "DMsCVRbYxE6Cl5prnfF3Zq6/mwoelJOxgoFL+/vbRtM=",
         "sacad-2.7.2.tar.gz"
       ]
+    },
+    "2.7.3": {
+      "sdist": [
+        "nLDuvgXCwpfFILUBzi5l/qTrZIT50PK7a9EjqgdmiSM=",
+        "sacad-2.7.3.tar.gz"
+      ]
     }
   },
   "salesforce-timecard": {
@@ -138832,6 +138854,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221216-cp39-cp39-win_amd64.whl": [
           "nBQl51MwIPYz45IQky2vnMmWr1CUaBQqoIGAhEaetvc=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221217": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221217-cp310-cp310-win_amd64.whl": [
+          "OS/YkpqrY79EDZyuXwnWCZZpGm7JZG8tD+80/L0VoPg=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221217-cp38-cp38-win_amd64.whl": [
+          "w1jDnPo53vIV6+lN/o5wlimnlms0wGZpO7yKrnLvUfo=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221217-cp39-cp39-win_amd64.whl": [
+          "dhk6Dm5vUekOZrxduv1t8AYvVrbQCCMvURiMW67S9jw=",
           "cp39"
         ]
       }

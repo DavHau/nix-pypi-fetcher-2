@@ -11181,6 +11181,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221217": {
+      "sdist": [
+        "NTSbs3Gh7Vl8xudLABt679gc9s5YmlZZfsmDUt++QdA=",
+        "bigdl-dllib-spark3-2.2.0b20221217.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20221217-py3-none-macosx_10_11_x86_64.whl": [
+          "gHNAMPyOGU3K8xoEMk7vGgPRhYr7zaZhDTV4TXVVTpk=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20221217-py3-none-manylinux1_x86_64.whl": [
+          "aFQozBd0vzZbBPXqdpqbzKBH+xt/MYJUw+ar9OrR7ec=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -109643,6 +109659,16 @@
       ]
     }
   },
+  "py-pdf-reader": {
+    "0.0.1": {
+      "wheels": {
+        "py_pdf_reader-0.0.1-py3-none-any.whl": [
+          "DZ6bKPGja7nKDKi139MuvzXX0agFDIT3PTeliN59uIQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "py-shotgun": {
     "0.0.1": {
       "sdist": [
@@ -133884,6 +133910,18 @@
       "wheels": {
         "sparrow_tool-0.8.0-py3-none-any.whl": [
           "yQrlwnJRk2uTktbEI1u7RYhKzFcZ1hSOJ7v9Y3XgrR8=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "J2DF+J90QumL1LGmhEUi2hXng3uB6Dbu3kWw1MllCIc=",
+        "sparrow_tool-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_tool-0.8.1-py3-none-any.whl": [
+          "vVh9SWBrJBnSVGxVOuNAMvz9ki1FcyZ7Rwa2JomhgAs=",
           "py3"
         ]
       }

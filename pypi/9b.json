@@ -1493,6 +1493,54 @@
           "py3"
         ]
       }
+    },
+    "0.276": {
+      "sdist": [
+        "hwdHDOV41UIAGdeQ1wN8r1P0IKtmNjaue783tgxYeQ4=",
+        "aiocasambi-0.276.tar.gz"
+      ],
+      "wheels": {
+        "aiocasambi-0.276-py3-none-any.whl": [
+          "VgzKTtocZ4bruWTFJaEScRmtAAe0SXpd0WPDgrcuFvE=",
+          "py3"
+        ]
+      }
+    },
+    "0.277": {
+      "sdist": [
+        "UWXGoIIW8laf6CBIsjn2bAy9aIoDAS0QQIw8QhOGNLw=",
+        "aiocasambi-0.277.tar.gz"
+      ],
+      "wheels": {
+        "aiocasambi-0.277-py3-none-any.whl": [
+          "aVD/OgPkvFkPm1+4bxyV7QgnJG9H9ojcG0O6SbLIsx8=",
+          "py3"
+        ]
+      }
+    },
+    "0.278": {
+      "sdist": [
+        "TN01lOdX6jIq5vud36UW7KVmIFRUgGWf/5WtR8fULUY=",
+        "aiocasambi-0.278.tar.gz"
+      ],
+      "wheels": {
+        "aiocasambi-0.278-py3-none-any.whl": [
+          "8pd36Nr6Rk+4OARzPyrHnQaX1Grglqq7QTnfZcMccvY=",
+          "py3"
+        ]
+      }
+    },
+    "0.279": {
+      "sdist": [
+        "Cone3EYakMVzHXwlHR9kZ3IZBfawDgooju5O6qQb/AE=",
+        "aiocasambi-0.279.tar.gz"
+      ],
+      "wheels": {
+        "aiocasambi-0.279-py3-none-any.whl": [
+          "MkJXMMJx0EmXBWHbgUtPUe+p2PKMilPD3wd/YU7DKPY=",
+          "py3"
+        ]
+      }
     }
   },
   "aiogrpcclient": {
@@ -4658,6 +4706,18 @@
       "wheels": {
         "aspose_tasks_cloud-21.8.0-py3-none-any.whl": [
           "fMBcjGlUFvfeU2qPW6T9MtYBB/hqT51fQj7J8xoa5r4=",
+          "py3"
+        ]
+      }
+    },
+    "22.12.0": {
+      "sdist": [
+        "k6/k71W476JNjY+p2J/G0Nrb7zzrhnDkugNE4ZIYhRg=",
+        "aspose-tasks-cloud-22.12.0.tar.gz"
+      ],
+      "wheels": {
+        "aspose_tasks_cloud-22.12.0-py3-none-any.whl": [
+          "Kw2XfRV+MA00lUnJ4dg3fa7frRutL19cPCfqPFakWgw=",
           "py3"
         ]
       }
@@ -110443,6 +110503,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.9.dev1671292802": {
+      "wheels": {
+        "pynb_dag_runner_snapshot-0.0.9.dev1671292802-py3-none-any.whl": [
+          "fIsxnCDcluGCuMwO0Y/+6CgbTUHN9sa5kp4WTjrvWko=",
+          "py3"
+        ]
+      }
     }
   },
   "pyneat": {
@@ -141098,6 +141166,46 @@
         ],
         "tflite_runtime_nightly-2.12.0.dev20221215-cp39-cp39-manylinux2014_x86_64.whl": [
           "8YUJshXorrzqNhr/gg8rX/HW5vCT3H5qIuMSrdE+LsE=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221216": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "tFy6YIrEwdfZWyXmtruBIV6g8WaWRKNMqOseiZNEc8c=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "L+MwYvzfJ3viOzE/BaI0lplNIWsfgNbw44SpfizYj24=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "E7sZcgSujc/HWFsEQB0tVJHfxViJFR1GODWBBb1O7zA=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp38-cp38-manylinux2014_aarch64.whl": [
+          "xh/njADMmdHkEVbKFiryzfpVUmAbFC0MoBNje/C7Fx8=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp38-cp38-manylinux2014_armv7l.whl": [
+          "G87OMg76kh8VI0t5nKnxMI42kAeTDqO9bCe3zdDeciE=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp38-cp38-manylinux2014_x86_64.whl": [
+          "1gxYDMPAdmTWuqo/SKjn4Re3otnKnaTIdpk2zbGRg0E=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp39-cp39-manylinux2014_aarch64.whl": [
+          "TZ6tZruxM/bgGNQe+I7y2VAauoVPT42xBaHt2FBpLU8=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp39-cp39-manylinux2014_armv7l.whl": [
+          "MdI6uzpx1SerrCmXXlpKwBDb0RSt9rvj7jj6FfKqntI=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221216-cp39-cp39-manylinux2014_x86_64.whl": [
+          "4h6PfU2TG8aItNF66EZy6nONSJ3xjxCQ1gNy0+XbUfA=",
           "cp39"
         ]
       }
