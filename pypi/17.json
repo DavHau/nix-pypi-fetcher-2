@@ -71850,6 +71850,18 @@
         ]
       }
     },
+    "0.12.5": {
+      "sdist": [
+        "PRsT4ZTFblXCc/HH2nTAE1bcUBYu3Ez0GGs26Lmdm2M=",
+        "localcosmos_server-0.12.5.tar.gz"
+      ],
+      "wheels": {
+        "localcosmos_server-0.12.5-py3-none-any.whl": [
+          "GgC1wvMf0RteZnLOJWgzYhHgLob2BPanDs427smKTe8=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "sdist": [
         "SnDYQhUlPXR/6WGWdaX40Ci4sQblybjOyfWADaGmqtk=",
@@ -93954,6 +93966,12 @@
         "proactive-13.1.0.2212161558.dev0.zip"
       ]
     },
+    "13.1.0.2212170238.dev0": {
+      "sdist": [
+        "N4xhuvfcACERNiITZHtvNveRR4WyElkb+WAr5ZsgENY=",
+        "proactive-13.1.0.2212170238.dev0.zip"
+      ]
+    },
     "8.1.0": {
       "sdist": [
         "/eCqc8p3hTy9Lk2KjatVxwy1N+Jxk6+xniN1pb0sjr0=",
@@ -105400,6 +105418,66 @@
       "wheels": {
         "PySwitchbot-0.23.2-py3-none-any.whl": [
           "TJTTtV+ZM5gziZim/eQYeDfurHzBuz4W6WGdl4bzvYM=",
+          "py3"
+        ]
+      }
+    },
+    "0.24.0": {
+      "sdist": [
+        "/norCRz/ZwbTcgjIDOm7ogH4/TsbQToi6O9G9KRAX6g=",
+        "PySwitchbot-0.24.0.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.24.0-py3-none-any.whl": [
+          "rGFGkJ0H+6OJRht604J4NwxRmdZRXvnOjqzERe3uyss=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.0": {
+      "sdist": [
+        "yUNdwLbodYlo1uB2qryOFb4+zaszrkvq3cBfezlyJVY=",
+        "PySwitchbot-0.25.0.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.25.0-py3-none-any.whl": [
+          "j9kFPu3WjA7GLIhvaXr91XHqpPUTmS31e5VnP9114zU=",
+          "py3"
+        ]
+      }
+    },
+    "0.26.0": {
+      "sdist": [
+        "ARRsJDa2lAzpdIv3Al2IrqZJ3N+w96eD+ND6kUCYlK0=",
+        "PySwitchbot-0.26.0.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.26.0-py3-none-any.whl": [
+          "aUT8DYiXYH6ETAZVhskE0eT9lBfFHZDC+8oJqPDNEBY=",
+          "py3"
+        ]
+      }
+    },
+    "0.26.1": {
+      "sdist": [
+        "W5hzwwLRke3VDJjZmLX/taHwoCJLuWkjFBkphe5oMUE=",
+        "PySwitchbot-0.26.1.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.26.1-py3-none-any.whl": [
+          "/b7YVy4mnqjkvrPeo7hznBPHMsxjT0YGYnrQ2eRAj/I=",
+          "py3"
+        ]
+      }
+    },
+    "0.26.2": {
+      "sdist": [
+        "Wu76WHsoE+XePose2UWLqE76dz5P0v0Sjj/2hpFFR1A=",
+        "PySwitchbot-0.26.2.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.26.2-py3-none-any.whl": [
+          "u1lmuCBCL3QYNfYu9lhwURnXI/DgYLkC7QJK7GFytYo=",
           "py3"
         ]
       }
@@ -131152,6 +131230,38 @@
         ],
         "torch_directml-0.1.13.dev221206-cp39-cp39-win_amd64.whl": [
           "XAXTD/ALsAtevnFCqII0e91Ebp1ptv9XzPtD/NBoWYw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.13.dev221216": {
+      "wheels": {
+        "torch_directml-0.1.13.dev221216-cp310-cp310-manylinux2014_x86_64.whl": [
+          "ug1MnuZryK7k1+CtyJCLJzz8DCjSMCvjH3F4x+KcULE=",
+          "cp310"
+        ],
+        "torch_directml-0.1.13.dev221216-cp310-cp310-win_amd64.whl": [
+          "EAaNZhoCF6vzWPcBLrTnkm/F2FjQxAtCzA7ZHNoL3UY=",
+          "cp310"
+        ],
+        "torch_directml-0.1.13.dev221216-cp37-cp37m-win_amd64.whl": [
+          "G9sQFaEgXo+eVoicXffV3MdoY0ZYjxa5NrapQY4F9n0=",
+          "cp37"
+        ],
+        "torch_directml-0.1.13.dev221216-cp38-cp38-manylinux2014_x86_64.whl": [
+          "/GOxVOUZnRPzS8Tk3oCrWVJ5TUZK6Qbs7o+ERaeU0AY=",
+          "cp38"
+        ],
+        "torch_directml-0.1.13.dev221216-cp38-cp38-win_amd64.whl": [
+          "u8Id3EMYLOeDndd+sVMDtp5Zdlb81qVFZUKtV1G/COA=",
+          "cp38"
+        ],
+        "torch_directml-0.1.13.dev221216-cp39-cp39-manylinux2014_x86_64.whl": [
+          "zm+kLKHuHnEkyn0LwI06+9ILkTaXNMfTi6T756jtzPQ=",
+          "cp39"
+        ],
+        "torch_directml-0.1.13.dev221216-cp39-cp39-win_amd64.whl": [
+          "wUDwFwqGTVP2p7u8fvboMbqcBb70LsMeX2nwVulroPE=",
           "cp39"
         ]
       }

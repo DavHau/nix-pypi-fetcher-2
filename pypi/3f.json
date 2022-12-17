@@ -45509,6 +45509,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.19.0a20221216": {
+      "wheels": {
+        "gs_apps-0.19.0a20221216-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "i9oSqBH77uo5BXonPi4ghiGgbW5odB/HXGbIQ1jCLmc=",
+          "py2.py3"
+        ],
+        "gs_apps-0.19.0a20221216-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vMBVlgb5U4rUsldVGaKai+a8fcQepqHALF2hZnidSGc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "gspy": {
@@ -91328,6 +91340,12 @@
         "pulumi_aws-5.23.0a1670270625.tar.gz"
       ]
     },
+    "5.24.0": {
+      "sdist": [
+        "eN9R4fD7m75GnnEZ6UGZp9nzdESJ532IRGarU90IXrM=",
+        "pulumi_aws-5.24.0.tar.gz"
+      ]
+    },
     "5.24.0a1670408722": {
       "sdist": [
         "67vURI4L35HeBlIHY3+c5MIlnhfN6ZXc/yBP09G4z6A=",
@@ -124752,6 +124770,18 @@
       "wheels": {
         "speakeasy_client_sdk_python-0.7.4-py3-none-any.whl": [
           "Yo4fUs5s1VHFbji7FXGxz1hE/9LEZjvb6s9LP7/XHgE=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.5": {
+      "sdist": [
+        "+ySDuW7w0X/8MjT1LMUpZG+G7Vo6woD6TDy3/VqEHQo=",
+        "speakeasy-client-sdk-python-0.7.5.tar.gz"
+      ],
+      "wheels": {
+        "speakeasy_client_sdk_python-0.7.5-py3-none-any.whl": [
+          "JwvZkTsvbcCQbo6XcEQhVn1SOlVY6iP20kYhMAP3Q/s=",
           "py3"
         ]
       }

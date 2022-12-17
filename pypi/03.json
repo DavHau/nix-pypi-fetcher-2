@@ -19847,6 +19847,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.1.1": {
+      "sdist": [
+        "OfeIO6JLABFg5sb3UOK0VMTEXhu3y6oPmoKtrHcPL9g=",
+        "cadcutils-1.5.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cadcutils-1.5.1.1-py3-none-any.whl": [
+          "EzgoF87899y60IobJxaUaMue6Hnuk+OUhzp53FJ13NA=",
+          "py3"
+        ]
+      }
     }
   },
   "calc-ev-115": {
@@ -35296,6 +35308,12 @@
       "sdist": [
         "zXVbSwrU1NvKGiztjWjVfodIcp3G+hC9IBfy8zouHWw=",
         "deploy-config-generator-2.24.0.tar.gz"
+      ]
+    },
+    "2.24.1": {
+      "sdist": [
+        "U/KN+kHsz7RIZ/zyGPPh8Or9XBhvBqBr8OXd3r2oEtc=",
+        "deploy-config-generator-2.24.1.tar.gz"
       ]
     },
     "2.3.0": {
@@ -98051,6 +98069,20 @@
       }
     }
   },
+  "ophyd-basler": {
+    "0.1.0": {
+      "sdist": [
+        "L8MfdChLXTlNx6nU7hhiyjRYSyygFsFZzu6EV3Pn/iY=",
+        "ophyd-basler-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ophyd_basler-0.1.0-py3-none-any.whl": [
+          "TWsBpt036W4T6x4ANKVTgaW4M860e8HdO+Pot1xTfsI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ophys-nway-matching": {
     "0.3.2": {
       "sdist": [
@@ -116018,6 +116050,18 @@
       "wheels": {
         "pytest_seleniumbase-4.9.7-py3-none-any.whl": [
           "ei64zxx36NS/NNLQBE9DaJ1/jj884P6fhlNyGPsgmXQ=",
+          "py3"
+        ]
+      }
+    },
+    "4.9.8": {
+      "sdist": [
+        "YO68A7TKxPHpU4DdM1IJTNXQOGKOO7FYFSwif7qrzmI=",
+        "pytest-seleniumbase-4.9.8.tar.gz"
+      ],
+      "wheels": {
+        "pytest_seleniumbase-4.9.8-py3-none-any.whl": [
+          "6NLnrGwV5eccZKm6d4YqGDZUm6EnebHrMYLtOz7h2JU=",
           "py3"
         ]
       }
@@ -153014,6 +153058,14 @@
         ]
       }
     },
+    "1.0.0b12": {
+      "wheels": {
+        "visualtest_python-1.0.0b12-py3-none-any.whl": [
+          "QF24VIMmGQ65hOJPvSuZGxT2ttLpWqtL7nOPEfbi1II=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0b2": {
       "wheels": {
         "visualtest_python-1.0.0b2-py3-none-any.whl": [
@@ -156130,6 +156182,18 @@
       "wheels": {
         "whacc-1.3.6-py3-none-any.whl": [
           "bGZ8my/Rt90+J+MmvlzxLg/p2cEbYEHN6OyjB/ROTWA=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.7": {
+      "sdist": [
+        "OHHruEMCLgzsfuc4BtuGuOPb3aJ30XGTm2shM/qW1Ek=",
+        "whacc-1.3.7.tar.gz"
+      ],
+      "wheels": {
+        "whacc-1.3.7-py3-none-any.whl": [
+          "vupOHdLxSmPXvdUUPzQxMwzECso2MSYkTQmZHI/f2iI=",
           "py3"
         ]
       }
