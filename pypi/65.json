@@ -77120,6 +77120,10 @@
           "y9wHydduhCVoJ95HOgCde3Ida3JKMwUmOWRuG7r1g7E=",
           "cp310"
         ],
+        "lttbc-0.2.1-cp311-cp311-win_amd64.whl": [
+          "qOpH7wnE/0D37+XNazH31jv9FJLvfXph6W/ndeGDaaw=",
+          "cp311"
+        ],
         "lttbc-0.2.1-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "Wi7XK7QAvZmu8l2xvFM8wsCgd+MBKD+h8Rzp6ZOKqLo=",
           "cp36"
@@ -99766,6 +99770,126 @@
         ],
         "opencamlib-2022.12.17-cp39-cp39-win_amd64.whl": [
           "v6PseDvRd9blJkYCW+4oVvbBzf+nnDVhz5eTUxN1ehY=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.12.18": {
+      "wheels": {
+        "opencamlib-2022.12.18-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "V/eTgHeDFQRGp13yF5OiFMHNwoS/fg4V30RipDOSxLg=",
+          "cp310"
+        ],
+        "opencamlib-2022.12.18-cp310-cp310-macosx_11_0_arm64.whl": [
+          "P931f9TFyc/Wb3/E+H7I90gtVQThvaq8aQd2H5J0PI4=",
+          "cp310"
+        ],
+        "opencamlib-2022.12.18-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "RA+SwmgLq5AxNX8d6jNSCWo8OYP2PIh5SaPGj7al45k=",
+          "cp310"
+        ],
+        "opencamlib-2022.12.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sIfMCoXRHszAMJj/TTdeBqYMN7xDitlt5cl2fga7mF0=",
+          "cp310"
+        ],
+        "opencamlib-2022.12.18-cp310-cp310-win32.whl": [
+          "iBSvjwb1ZorwoLCdJMtxhB+1li0fcHBdRyML+/A8yXg=",
+          "cp310"
+        ],
+        "opencamlib-2022.12.18-cp310-cp310-win_amd64.whl": [
+          "97XJ9fOyC1XCPUND79f+GHTz/c9GZ70/Yyj/9ZVj0ac=",
+          "cp310"
+        ],
+        "opencamlib-2022.12.18-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Hzkr0v7dz58u0QX5kRGyhleNB/X5f94hChRpQoJFXwo=",
+          "cp311"
+        ],
+        "opencamlib-2022.12.18-cp311-cp311-macosx_11_0_arm64.whl": [
+          "ojphlj2sYgZH/u6cgTCjrATlOCo6XSLNVzaFgWKSKjk=",
+          "cp311"
+        ],
+        "opencamlib-2022.12.18-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "VZfIMF3hh0BOL4DH361Hawb21YP8MxwmjfEDT6pD6X4=",
+          "cp311"
+        ],
+        "opencamlib-2022.12.18-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5+V3X3gbALqNDzoTyfcHzn4apHdkvzOFwFfz0xjhbvo=",
+          "cp311"
+        ],
+        "opencamlib-2022.12.18-cp311-cp311-win32.whl": [
+          "hBtBGU6miyd2zILh1e1rYYpkze/Q1HkKRjbQYPSKvXw=",
+          "cp311"
+        ],
+        "opencamlib-2022.12.18-cp311-cp311-win_amd64.whl": [
+          "1fJqDMBI4sd+ZP5awymKSWs6Yb9eU5PxbJBb+puepnI=",
+          "cp311"
+        ],
+        "opencamlib-2022.12.18-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4ks6EGrlOuiL9cbk0bigzpbkLhBYnRAWkO8l/8uAiLg=",
+          "cp37"
+        ],
+        "opencamlib-2022.12.18-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hqUCvy3tJqbSckJw1p6/lcureJwaW4iBPGserDUxb8Q=",
+          "cp37"
+        ],
+        "opencamlib-2022.12.18-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Uv+oB9FjIUCEj/Zxee3qSNqwCMA91TGB0KPdnt1bJ9k=",
+          "cp37"
+        ],
+        "opencamlib-2022.12.18-cp37-cp37m-win32.whl": [
+          "yoO1k/cdS+3rU5zF4frd5EQYCBc0Hr9VwygeEG0e9uE=",
+          "cp37"
+        ],
+        "opencamlib-2022.12.18-cp37-cp37m-win_amd64.whl": [
+          "Kw/u8cyii4bpKP+11+19oOkKQe+X+ahwptUM/oYJIUU=",
+          "cp37"
+        ],
+        "opencamlib-2022.12.18-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "OM5uBBw/98iFM2EP8/LFNk1BY6Ay14p4ynS6Nu5B69Q=",
+          "cp38"
+        ],
+        "opencamlib-2022.12.18-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Er0CnV6qUGqOFQpnMRbU8dTtadX8vpTRW727QPXoTmc=",
+          "cp38"
+        ],
+        "opencamlib-2022.12.18-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "k5HuRzPbuQnxDBy8K0guOur6FL3tit8zkNM1xTLTLh0=",
+          "cp38"
+        ],
+        "opencamlib-2022.12.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "03m334pLmcJBCB9Cy8yv/5XNpRlTLmXQrR56jESBcb8=",
+          "cp38"
+        ],
+        "opencamlib-2022.12.18-cp38-cp38-win32.whl": [
+          "hYPwJWwn/kis5wtGlfJ9cawRkTPvsstuspGAYtlcRB8=",
+          "cp38"
+        ],
+        "opencamlib-2022.12.18-cp38-cp38-win_amd64.whl": [
+          "MkAYqFN//A4f1ygB1O91JuPGy7sAqUEUjagBF2CWu04=",
+          "cp38"
+        ],
+        "opencamlib-2022.12.18-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Lpj++LrkDHzg5R5uGkoRet3EWHSBtjMwWTDzbCtYumE=",
+          "cp39"
+        ],
+        "opencamlib-2022.12.18-cp39-cp39-macosx_11_0_arm64.whl": [
+          "r71XGRtcsSkhJFp0CiPvEWwIO2imMwshG9gAbqBm0H0=",
+          "cp39"
+        ],
+        "opencamlib-2022.12.18-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "QgAGTfSsBfGi/C6G1Asvwv3VV1FWkF6eoTL8TlaQSV4=",
+          "cp39"
+        ],
+        "opencamlib-2022.12.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "abw/YpmRMq9SDOnMoKo9L40Unpad2ZAKNoXxovep3mE=",
+          "cp39"
+        ],
+        "opencamlib-2022.12.18-cp39-cp39-win32.whl": [
+          "cdmSW77jCi5MLNJKM8QBwK/UHN3Sfijx7RVjKGFQL6g=",
+          "cp39"
+        ],
+        "opencamlib-2022.12.18-cp39-cp39-win_amd64.whl": [
+          "VeH0B3jYHon9WxY6VnubxF+/0caQwCok1FifF+AShlE=",
           "cp39"
         ]
       }
@@ -143068,6 +143192,30 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221217-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ltiCb79d4fFEwYJRivJImEQ+hTHIHYSB9Ki782XNgAU=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221218": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221218-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "kc5DFT0y7srU6/HGyK8gPR8CVj/Ps94cQhZE8YbaRWw=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221218-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/HFzjhAcAJBvqVkD+aFj8zqnoibT1sSBWQxS5EGaej4=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221218-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "w7CiT0X9n/Csfgb4tltFrQBfTZlMBoKYEY2psAWr2EA=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221218-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tD8g6mw6OrR2iFRGKgoy9z00Fkt9u8N2aih+B76xqW0=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dn5teH4/Sz1aBIGWODJ4tUQ7hczTsIehYvWdv5TZJEg=",
           "cp39"
         ]
       }

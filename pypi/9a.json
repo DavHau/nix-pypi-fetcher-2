@@ -52817,6 +52817,20 @@
       }
     }
   },
+  "fixedcal": {
+    "1.0.0": {
+      "sdist": [
+        "q+9OnzzA0fRcyj4k4+wUYctu4Rpd+oKYJN8bkRyw9/o=",
+        "fixedcal-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "fixedcal-1.0.0-py3-none-any.whl": [
+          "OzMFpTZwslGybsEnGuKMSH/BCtTfgDHv30Sz9lWFRQk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "flagit": {
     "0.1": {
       "sdist": [
@@ -72938,6 +72952,74 @@
         ],
         "lalsuite-7.11.1.dev20221217-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "DYDi13qn7XMKhnaUe0q9d+79OwslNtk45XiPIqPw1Ko=",
+          "cp39"
+        ]
+      }
+    },
+    "7.11.1.dev20221218": {
+      "wheels": {
+        "lalsuite-7.11.1.dev20221218-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "qr9U0Xnh5XdBaKXwsv10oFAuPh/uvYEOWjRKmIvJRUA=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp310-cp310-macosx_12_0_arm64.whl": [
+          "a+QHoBMX8P8KaRH7r3+eJVk5l//QvoGEfdOJAcDXkyM=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nN29jntFHDTua/zBxED8Ir4NNkllFpY0TxfnveWsOtw=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "93R0smp/qAy4967xgPOuhRFXNgVS03XT7Axzp5wRYsM=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "+18g2Ccd1HNLyRR0p7I1xEQJFrqK72wE3/hlhYHPvsk=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp311-cp311-macosx_12_0_arm64.whl": [
+          "MlAF9gmQDsjCmp9EruyquohrQUnAfqstjalXVuVSo5Y=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "O06dFO2osFnHyKOByeoXd8XrgLE7Ln4n9LlQjm3PvYo=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Vs43/07UoDpZtqSODhK4PHHnm7clTaSJ8hCM0CBblzM=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "ca5XtUNoIBKPEViX5VLs1SS92z4+Or6k/m8YLOKQBdA=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp38-cp38-macosx_12_0_arm64.whl": [
+          "Wlqvn4xOM42mzNTmv1S1nfAqmMo10gh4F6wzty4mZH4=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TBQyfWU6F1GlWHefFmW01vnVXkiA3dG1PHHqCoIopSM=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ccalFb3o+TCo7KRQcKzBAutyLXBQYDmdOVmMy3vWuvk=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "D/tg9Qg3gLC5rWZ2bwqphAnO80vA7plfe0B3+j5hLME=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp39-cp39-macosx_12_0_arm64.whl": [
+          "AVQ9v0s0lVZCf0NzKs0z06a8mP0RqGtcVrAfm0MQZgI=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "LtEraig57jGCUHqlG10PWCTHA39Axddm8qqwnj2+RB0=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DzboZU1AbLh6uUVUZLW6mUrGGaMeWdAJyfab6itX060=",
           "cp39"
         ]
       }
@@ -122992,6 +123074,18 @@
         "salure_helpers-27.2.3.tar.gz"
       ]
     },
+    "27.2.4": {
+      "sdist": [
+        "c26baaj46gebs/fniL5JoHSUOdCKEV4baYX3dSuf1Xs=",
+        "salure_helpers-27.2.4.tar.gz"
+      ]
+    },
+    "27.2.5": {
+      "sdist": [
+        "OL+QLkour0uqZPx3uOJFQRzY/ERU9OSPiFOCJrg+kwg=",
+        "salure_helpers-27.2.5.tar.gz"
+      ]
+    },
     "3.0.0": {
       "sdist": [
         "lpwW56fbmvZgCOIqg4d8sddnDhS8NFRDDJw1TUyieD8=",
@@ -153716,6 +153810,54 @@
       "wheels": {
         "vule_magics_python2-0.0.1-py2-none-any.whl": [
           "cpnsqPSYmKWH4atrT9gwbcU8i+PV1jBrrU88O9TgHNQ=",
+          "py2"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "RTRbRGSoOmKP0GRCfDFAr5Yj72ji/OTYrBQXhtXXPc0=",
+        "vule-magics-python2-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "vule_magics_python2-0.0.2-py2-none-any.whl": [
+          "vDv2lj2hiRd5wBWcFRnmtlHIhLMxE+JKxebbhjX/laA=",
+          "py2"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "Oswh9loPZrNZaj+Tk9/TtsgAtsh3qQNl7wiW2WCQoT0=",
+        "vule-magics-python2-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "vule_magics_python2-0.0.3-py2-none-any.whl": [
+          "0pz/LbZBYlvkPrJoOziPQnTrJM/yiVijx6Aa//YgCA8=",
+          "py2"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "UbSNRoYOwJ7lr3B0SwbdDS3IDnTP7CdROpfW90oHr8U=",
+        "vule-magics-python2-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "vule_magics_python2-0.0.4-py2-none-any.whl": [
+          "BZ8n6BceYVQIC3jWCZPZ8QGtG10RyfDdugU7/4btYrg=",
+          "py2"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "y2mkZIzBIJySbCSsQky72cOy5VZSw/hQwc1tJYYWxLM=",
+        "vule-magics-python2-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "vule_magics_python2-0.0.5-py2-none-any.whl": [
+          "TQCcnx0v7vmOmu4gJBrrdMVjEGS/+kkgGRQwMazgnYQ=",
           "py2"
         ]
       }

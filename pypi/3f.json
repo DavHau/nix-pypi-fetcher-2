@@ -28239,6 +28239,12 @@
         "HAeOX2aQKnvbedBZs01j5F+3mXGZf5UWVYvrMveon6k=",
         "django-passkeys-0.7.0.tar.gz"
       ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "+aesZm8FO087veZgFapMv//4IHb0helMo/NK6QoDBZo=",
+        "django-passkeys-0.8.0.tar.gz"
+      ]
     }
   },
   "django-pg-badges": {
@@ -93398,6 +93404,30 @@
         ]
       }
     },
+    "2.18.0": {
+      "sdist": [
+        "L1GGVsiFp/VQWGOc1WMo/G/Hn4L8+InLmyZDVAQghP0=",
+        "pyathena-2.18.0.tar.gz"
+      ],
+      "wheels": {
+        "pyathena-2.18.0-py3-none-any.whl": [
+          "lGO0MjnvwOojeKDR+wvfjum+5SLAgkAuPIJXcli3zmM=",
+          "py3"
+        ]
+      }
+    },
+    "2.18.1": {
+      "sdist": [
+        "N34Z2hgHR0dd3iaEaFQV0O68bIkEqR17No0O1E2dUoM=",
+        "pyathena-2.18.1.tar.gz"
+      ],
+      "wheels": {
+        "pyathena-2.18.1-py3-none-any.whl": [
+          "hBjPjl7Vw8CHMisSuAPS0nRRlTU9PeM1pY+SlT7Bj6c=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "t8j322O9F52lWchKUylZfNPXNI9q/iF5ZqfOdR9MCz0=",
@@ -131021,6 +131051,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "YFWhKXyh0MbQtRcyKe8h3goV47BWBdYhKLLKMHpjM9g=",
+        "SWANi-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "SWANi-0.1.0-py3-none-any.whl": [
+          "ZXtIsY35lBrpz587GSoi4MCYBr8kPazrLKhwuUFjQmM=",
+          "py3"
+        ]
+      }
     }
   },
   "sweech-cli": {
@@ -134416,6 +134458,18 @@
       "wheels": {
         "timeflux-0.13.0-py3-none-any.whl": [
           "1MHJ1DV2UmV43I5u13YJTJ2yR+m34nYVbia4ELgZRdA=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0": {
+      "sdist": [
+        "ANBCFfZtGgXcgrXDSLBbq9ZPmL6pZuEnKU+eDetVbbc=",
+        "timeflux-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "timeflux-0.14.0-py3-none-any.whl": [
+          "Qel3/pm7FoxNYpnQoH+tkgt9HUbfIDYlu4LgzVnKp9I=",
           "py3"
         ]
       }

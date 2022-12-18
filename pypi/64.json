@@ -752,6 +752,18 @@
         ]
       }
     },
+    "2022.15": {
+      "sdist": [
+        "79TwRlPs0yQLgpCG7BoSQOQX3vH6pcYlLkz6T+fw/hs=",
+        "advent-of-code-wim-2022.15.tar.gz"
+      ],
+      "wheels": {
+        "advent_of_code_wim-2022.15-py3-none-any.whl": [
+          "c5dyeQu+uB2+/QReVZrh0JLZIJGlgHO4VbNtC8HyKM0=",
+          "py3"
+        ]
+      }
+    },
     "2022.2": {
       "sdist": [
         "8gJLbUSv8j0zSXqlSXKpizWWrqgr0lyqzjBbcDnd5SA=",
@@ -66214,6 +66226,18 @@
         ]
       }
     },
+    "0.3.10": {
+      "sdist": [
+        "6NS4ox51Msxn1XBxLfQVN6PWOfpEJHgowzKlGEdxr0A=",
+        "horusdemodlib-0.3.10.tar.gz"
+      ],
+      "wheels": {
+        "horusdemodlib-0.3.10-py3-none-any.whl": [
+          "Ngeoz6ACF4bm8qmRC2AN992SJsb4MOzK3eHSyTPp16A=",
+          "py3"
+        ]
+      }
+    },
     "0.3.2": {
       "sdist": [
         "645DgSRSAPAVvg+w+CrKac4y3qbHEAQg+0OzHKt5WG4=",
@@ -89424,110 +89448,26 @@
     }
   },
   "nginx-manager": {
-    "0.0.1": {
+    "0.0.15": {
       "sdist": [
-        "Um8wvXsNvl4kKNF2/e+ONdf3B/YqJ16d55xxX0Fy40Y=",
-        "nginx-manager-0.0.1.tar.gz"
+        "Zbi+dxJEgApe099Vs+7lS2OLB9m49W4L7SqceAzkDQ8=",
+        "nginx-manager-0.0.15.tar.gz"
       ],
       "wheels": {
-        "nginx_manager-0.0.1-py3-none-any.whl": [
-          "OJgLYeK4ZMLOp+GYZfOEWbY9EZeXJoWSGDy8ysnBmX0=",
+        "nginx_manager-0.0.15-py3-none-any.whl": [
+          "uxnpnNcWMiM7Xkgli802Fd8joo42EvsZYmiLafyp9T8=",
           "py3"
         ]
       }
     },
-    "0.0.10": {
+    "0.0.16": {
       "sdist": [
-        "fq0tOerxUUtbUHWlK7W8ikiNGC17v0ETgtTT866ih7I=",
-        "nginx-manager-0.0.10.tar.gz"
+        "umR2ATPtMe7o80zVSIKM5uEjeFHuyo5DYIyeAB9aTkg=",
+        "nginx-manager-0.0.16.tar.gz"
       ],
       "wheels": {
-        "nginx_manager-0.0.10-py3-none-any.whl": [
-          "TqGeswoOHJHKYZpJW4l6gaEWIvzcqeikG5UohDwidUw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "XFSJmATI/rrGeMzsUAiPQgoZZzXIFZxCwv0gS+oEOw8=",
-        "nginx-manager-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.11-py3-none-any.whl": [
-          "o3094jHWBk9L7f/fO8y6KuBmyhdGbKuqkWkHUVVyIO0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "1+CA/HBXqxVMCFiWzHqydMwOIIsRycNgv868xQfAhNo=",
-        "nginx-manager-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.12-py3-none-any.whl": [
-          "9Z/pTurpY5QGZpWWIlantPcDWGRIMHRRAU+Ff/m+6FQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "E+oETigwhf5Blc9Mo25Qx96t99t8wbDwT7d4vifGL48=",
-        "nginx-manager-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.13-py3-none-any.whl": [
-          "97MeaPpErUcqQSMvqpYzzctXp8M1FWghphS1+wvKPnc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "/63p5hAv7w6jzTcOOi3lDDHmQLcw4xAObRqNj4Q19k8=",
-        "nginx-manager-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.5-py3-none-any.whl": [
-          "7a4qcinNXx/n0ao+vEiehRhRbU7SH6nflVAwBYMcCig=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "aIv/10osAh1gzMWFGlmZXEU76SP3o1YI2ZoU9mv8sVM=",
-        "nginx-manager-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.6-py3-none-any.whl": [
-          "WaXYvDJyDLZ8kZeHqJAcTGXqym5fUgpc7n54O7+pTuI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "9AAvsuxfkQaQtKjC73Tie/co3Fm8LaW38RblDHY0o1s=",
-        "nginx-manager-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.8-py3-none-any.whl": [
-          "N7oBApJ5lR3zumxMA8KJSPP3fyGcICgkWgYuPIxsJPU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "7N8wZOjkkfN+DJ0Ql3yk4BZ+v5Bsqk2VKXaOJrllzQ0=",
-        "nginx-manager-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "nginx_manager-0.0.9-py3-none-any.whl": [
-          "f4IKRuwUvyW48niVuqcLJg0jEBSmJyiv212ATjDDd0U=",
+        "nginx_manager-0.0.16-py3-none-any.whl": [
+          "/eEPX074sPCSiE1GnJ6g38ufwUXRZlpmuOZhw7U6mLE=",
           "py3"
         ]
       }
@@ -138794,6 +138734,14 @@
       "wheels": {
         "torch_model_archiver_nightly-2022.12.17-py3-none-any.whl": [
           "GCMfyCi76mdjcek24/oCknNKyP/ZglN86f8Mwq0vftw=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.18": {
+      "wheels": {
+        "torch_model_archiver_nightly-2022.12.18-py3-none-any.whl": [
+          "8RBYAVIhpsw2pdl7jbwAMTH6AD9btT7ZYcoaHBiiPU8=",
           "py3"
         ]
       }

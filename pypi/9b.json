@@ -113964,6 +113964,18 @@
         ]
       }
     },
+    "0.12.35": {
+      "sdist": [
+        "pfCHROyPWN5nFy7mBvCRTIq5VVhIKnVTFkGoNTRZ3sE=",
+        "pytest-homeassistant-custom-component-0.12.35.tar.gz"
+      ],
+      "wheels": {
+        "pytest_homeassistant_custom_component-0.12.35-py3-none-any.whl": [
+          "NGyqdTztb87TEedl8MrN5AsWc7VmGWCkGrWsbqRSsY0=",
+          "py3"
+        ]
+      }
+    },
     "0.12.4": {
       "sdist": [
         "oHVqPQBjv4bGcqkTt0ZSzA7oTOJ3HEezXhav8zX4tck=",
@@ -141306,6 +141318,46 @@
         ],
         "tflite_runtime_nightly-2.12.0.dev20221216-cp39-cp39-manylinux2014_x86_64.whl": [
           "4h6PfU2TG8aItNF66EZy6nONSJ3xjxCQ1gNy0+XbUfA=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221217": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "KeEKWIGjCPLxtID0qwO4TD60RtsyutiL12M9oLazrPY=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "MFlKRzeyO7xN6DS8xeDW+5uMqQIKNwHXUkmuBhpvgpY=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "MmmbSodzbSE9d6uzrK6MxhMPmmlbcPz4WgkkxSjc5kc=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp38-cp38-manylinux2014_aarch64.whl": [
+          "069v7exzKYPjceU/5Zm5v+IWs8bFxfhzUuUcIQedvq8=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp38-cp38-manylinux2014_armv7l.whl": [
+          "Y2WdkpSTs7mfVjPi2NQIp0NMVWAS0znDoEdQa0wkFFk=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp38-cp38-manylinux2014_x86_64.whl": [
+          "LCBjsY3IMz5Ga47uQg4ywh93KRUPehn4d+8qaInSmO0=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp39-cp39-manylinux2014_aarch64.whl": [
+          "oh71lXAUhQ2VYJ13Du3rxOpMfr7XINGzbCDjlnBPwig=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp39-cp39-manylinux2014_armv7l.whl": [
+          "VW+CLKzqCAF6QmEp5FNyDqSgLozlNb/pGzkP/rMHhKc=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221217-cp39-cp39-manylinux2014_x86_64.whl": [
+          "8vdungXfOYh+H/hoUDsft9DvpVmZTVG6EDMCNPNdtL8=",
           "cp39"
         ]
       }
