@@ -40921,6 +40921,54 @@
           "cp39"
         ]
       }
+    },
+    "3.4.0.3": {
+      "sdist": [
+        "WA/jSh1GHXvQjKXwqh0RcSFYhJYVwc6NsdXlFFUBFVM=",
+        "fastjet-3.4.0.3.tar.gz"
+      ],
+      "wheels": {
+        "fastjet-3.4.0.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "kZrQBgS5BvwPoFrlwD/C8q6rnghfr32lqvrlqMikHLA=",
+          "cp310"
+        ],
+        "fastjet-3.4.0.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3I+pZ7q83NCYgoS812VSyvOxFpYzMR5Qfu7w5uJeCIc=",
+          "cp310"
+        ],
+        "fastjet-3.4.0.3-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "n0HnviKfE3i5BtVhk1yFlDEvfGhAOj9S1vA3UZHLZBQ=",
+          "cp311"
+        ],
+        "fastjet-3.4.0.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "f30HwzBawejN/ZwFYozcFQFAipo4/zaCHHVds2AuhYg=",
+          "cp311"
+        ],
+        "fastjet-3.4.0.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "YN6eAVnaIxUoIR7VXEXKNhzXJm3ZraxklTHqOjEpZ2k=",
+          "cp37"
+        ],
+        "fastjet-3.4.0.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "I7k8u6gHDbHW+ugcoXSVtWiV8o96LJLM+JDe6dU7A4c=",
+          "cp37"
+        ],
+        "fastjet-3.4.0.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "qK01gVavpr+k+gwvEQWBTBLaxt7n2U0RwIR+hi4iK+E=",
+          "cp38"
+        ],
+        "fastjet-3.4.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ol1Z5h8ct5O1pajtZn3NAUrb/FRG7AFxT65EoKeZTP4=",
+          "cp38"
+        ],
+        "fastjet-3.4.0.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "4IIrh7XFK13iNKFwPqKMMSQ84ofQdRbNxjtbaVwdi1g=",
+          "cp39"
+        ],
+        "fastjet-3.4.0.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "80xkeH64Qc38LhwthALTH8YjKFoeip252+CHyof342U=",
+          "cp39"
+        ]
+      }
     }
   },
   "fastnumbers": {
@@ -79134,138 +79182,6 @@
     }
   },
   "nautilus-trader": {
-    "1.146.0": {
-      "sdist": [
-        "0S+QFslUUa8HsMoxGmLlOtcF3QVe8STOmifpwOt8Pek=",
-        "nautilus_trader-1.146.0.tar.gz"
-      ],
-      "wheels": {
-        "nautilus_trader-1.146.0-cp310-cp310-macosx_10_16_x86_64.whl": [
-          "1hwsQsUMzqYg5frdCyAiyOvQBHmNVZLILZ4zPVvNG5I=",
-          "cp310"
-        ],
-        "nautilus_trader-1.146.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
-          "9jPM+2o7vsqicp6sVFkw118IEKWuxi5nIdjjxVbTWIQ=",
-          "cp310"
-        ],
-        "nautilus_trader-1.146.0-cp310-cp310-win_amd64.whl": [
-          "JqejrYcQ6/uT+DtIofcn35Q4VaVus9q5iqwLVP1WZL4=",
-          "cp310"
-        ],
-        "nautilus_trader-1.146.0-cp38-cp38-macosx_10_16_x86_64.whl": [
-          "36jc/BpTkhrcZ+rz5NQze7oVZEOu8WAUiWitpZlYfA8=",
-          "cp38"
-        ],
-        "nautilus_trader-1.146.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "tVjsn4T4HH+wmRhMzGX1wihXXIoUkt0kxK4LRhlFnAo=",
-          "cp38"
-        ],
-        "nautilus_trader-1.146.0-cp38-cp38-win_amd64.whl": [
-          "xzAqP5a/DJaATGpux2BSPrPIYzjUygRB69FtupNXIzg=",
-          "cp38"
-        ],
-        "nautilus_trader-1.146.0-cp39-cp39-macosx_10_16_x86_64.whl": [
-          "O8kwH1sNPzXn6IsU/HR8Yt/WS5p7LuzLtf+GQwLEhdo=",
-          "cp39"
-        ],
-        "nautilus_trader-1.146.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "+m2yxmu4fxpOpx6Loch1GxrelAahDZyPAU+wMOnymG0=",
-          "cp39"
-        ],
-        "nautilus_trader-1.146.0-cp39-cp39-win_amd64.whl": [
-          "XBlFVLEeVVghkchuKzl7bLSRJ+ivhcxI1cv3NbfQdNI=",
-          "cp39"
-        ]
-      }
-    },
-    "1.147.0": {
-      "sdist": [
-        "VQ5a6eKwFxpZHsdYr9aLWVa4N9CQr7WYuaWbJC12kho=",
-        "nautilus_trader-1.147.0.tar.gz"
-      ],
-      "wheels": {
-        "nautilus_trader-1.147.0-cp310-cp310-macosx_10_16_x86_64.whl": [
-          "MP+3oMbYxA745hqM9Oj79Q0fWJiJVYo5JWu5xHM9NgE=",
-          "cp310"
-        ],
-        "nautilus_trader-1.147.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
-          "NIZs2GiXlUDLxDPTwsXRBzVEOCb0LMzP+uGTbWmfIXQ=",
-          "cp310"
-        ],
-        "nautilus_trader-1.147.0-cp310-cp310-win_amd64.whl": [
-          "9LziTrRBW7edL1FlIrczp7h+Z7aHscUM3JyOYptycVY=",
-          "cp310"
-        ],
-        "nautilus_trader-1.147.0-cp38-cp38-macosx_10_16_x86_64.whl": [
-          "mZ61hPQ2Un72Z7tv8AxCwuJTmojCpMwTTYOSnN5JfIY=",
-          "cp38"
-        ],
-        "nautilus_trader-1.147.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "doykC/vaFTBk8PyIUf2OXBympluXExeILF/ULdo+OqQ=",
-          "cp38"
-        ],
-        "nautilus_trader-1.147.0-cp38-cp38-win_amd64.whl": [
-          "tCojLzMSXX1OaD0sdI1EwWwFlE9HeN7ShtL4FRW4skU=",
-          "cp38"
-        ],
-        "nautilus_trader-1.147.0-cp39-cp39-macosx_10_16_x86_64.whl": [
-          "0sJuQVr24SEJ7Ua3wxsGznoXJ00qs4RQdquT5qcJduU=",
-          "cp39"
-        ],
-        "nautilus_trader-1.147.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "BS27tiugQ/vM4lrm9UrEDvuZcV+4gRU8o7REaFsGriA=",
-          "cp39"
-        ],
-        "nautilus_trader-1.147.0-cp39-cp39-win_amd64.whl": [
-          "g5joRM3u4nQZDqdpzt6dq79X60wXSkR/9DShKU1m32c=",
-          "cp39"
-        ]
-      }
-    },
-    "1.147.1": {
-      "sdist": [
-        "ohazTn8Q9lNKVbXQtmkhNCbhH6h4OFv+B+hN/Oo8CE4=",
-        "nautilus_trader-1.147.1.tar.gz"
-      ],
-      "wheels": {
-        "nautilus_trader-1.147.1-cp310-cp310-macosx_10_16_x86_64.whl": [
-          "Um+t7h3Jf6ixIS7fk48Q2gp6d6w+2p1rt4/0XHQL1XA=",
-          "cp310"
-        ],
-        "nautilus_trader-1.147.1-cp310-cp310-manylinux_2_31_x86_64.whl": [
-          "s52IKelD3z8IgBkCJKNQEuiZ7M/gGEnTeUFJxCu2Jvs=",
-          "cp310"
-        ],
-        "nautilus_trader-1.147.1-cp310-cp310-win_amd64.whl": [
-          "Vjut3C+o9RTI2JW7zKkI8BHSYA/xjHhlebw7AjFH7Eg=",
-          "cp310"
-        ],
-        "nautilus_trader-1.147.1-cp38-cp38-macosx_10_16_x86_64.whl": [
-          "zABQaQtlSGUupbHLqcDusiP9y3m/nH9bJLMDu1QEgho=",
-          "cp38"
-        ],
-        "nautilus_trader-1.147.1-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "+A82yvBNSDM5q2yARNhzzAz3s8pYGx59TrAWG7Xw6FE=",
-          "cp38"
-        ],
-        "nautilus_trader-1.147.1-cp38-cp38-win_amd64.whl": [
-          "obtAT7HvI19/UujTc0Vy778/ntEClgtd716wd5dpWSE=",
-          "cp38"
-        ],
-        "nautilus_trader-1.147.1-cp39-cp39-macosx_10_16_x86_64.whl": [
-          "b9Nst3amiLlWdAKwdAKx5YtvyjrWygBlosCX1dJ1o88=",
-          "cp39"
-        ],
-        "nautilus_trader-1.147.1-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "FLixC63jsKHXYE3rSBGCXP0LGdaZ28kzlbNp9xFfwwQ=",
-          "cp39"
-        ],
-        "nautilus_trader-1.147.1-cp39-cp39-win_amd64.whl": [
-          "c763+23l25eSZeDEU8E8tSTtlBPjtmXcV1YpFoGw4ho=",
-          "cp39"
-        ]
-      }
-    },
     "1.148.0": {
       "sdist": [
         "gbDLBo4gpQoWgBb0hbvCDv+U3FqcQ5W9CVf+NNnjc+0=",
@@ -79932,12 +79848,24 @@
           "D87vcs9SQnqyIE23hIXDvbHgaNySRKUcxLHo6WZ+/H4=",
           "cp310"
         ],
+        "nautilus_trader-1.163.0-cp310-cp310-macosx_13_0_arm64.whl": [
+          "fjaXk2JRjgsXQGzROUkOgzTonx/GYdYR+Z3/LYGuG50=",
+          "cp310"
+        ],
         "nautilus_trader-1.163.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
           "9qCg2V6VmxlODG7ZTtFeh2Tf8HPfCEwh6l5BOHac3sY=",
           "cp310"
         ],
+        "nautilus_trader-1.163.0-cp310-cp310-win_amd64.whl": [
+          "VZ4rnO+yXcRNMnj6jKp9KZNPR+fNY7kmQ8xX1B5V97w=",
+          "cp310"
+        ],
         "nautilus_trader-1.163.0-cp311-cp311-macosx_11_0_x86_64.whl": [
           "g6dxOcTqN1XHFokbbEvNkM1id1fU1XQKrtl8k5t2Tsg=",
+          "cp311"
+        ],
+        "nautilus_trader-1.163.0-cp311-cp311-macosx_13_0_arm64.whl": [
+          "9HYpQSEAz2Vpwvr8TtnWL+LtN/DINYYRkVV+NBdmhYU=",
           "cp311"
         ],
         "nautilus_trader-1.163.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
@@ -79950,6 +79878,10 @@
         ],
         "nautilus_trader-1.163.0-cp39-cp39-macosx_11_0_x86_64.whl": [
           "uqrJX0TD1n181yKcyL7KwRpriArnKlINWzF+pDu06tw=",
+          "cp39"
+        ],
+        "nautilus_trader-1.163.0-cp39-cp39-macosx_13_0_arm64.whl": [
+          "S309GAEsyUREyaPR6xOZm986ctPMhPfbxQeonKrxOzM=",
           "cp39"
         ],
         "nautilus_trader-1.163.0-cp39-cp39-manylinux_2_35_x86_64.whl": [

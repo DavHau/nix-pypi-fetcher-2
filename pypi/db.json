@@ -4471,6 +4471,20 @@
       }
     }
   },
+  "apache-airflow-provider-alembic": {
+    "0.1.0": {
+      "sdist": [
+        "P/BSc10TcyE3LQ9e9zyXmNhzG3ncHAUF6BdZBUuVkz0=",
+        "apache_airflow_provider_alembic-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "iYtdoVnP8KgR44kTfdPYzC9Xd/Jo+LNaYjC1iBjIhLc=",
+        "apache_airflow_provider_alembic-0.1.1.tar.gz"
+      ]
+    }
+  },
   "apache-airflow-providers-elasticsearch": {
     "1.0.0": {
       "sdist": [
@@ -40821,6 +40835,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "kqwbWcrl9K5czHJHhnaG5oAnZQhb49cEYHAMGXU2UQY=",
+        "evadb-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "evadb-0.1.2-py3-none-any.whl": [
+          "cw4VhzhSxtTRxVqaEMqcYCvHRyWFiPT5vRSSDvD1sLM=",
+          "py3"
+        ]
+      }
     }
   },
   "evalkit": {
@@ -61258,6 +61284,46 @@
         ]
       }
     },
+    "1.18.0": {
+      "sdist": [
+        "Vf0lZTXP/WNpYwCbh30cXlS/VzIfT/oOKLpHIuFj0vo=",
+        "iced-x86-1.18.0.tar.gz"
+      ],
+      "wheels": {
+        "iced_x86-1.18.0-cp37-abi3-macosx_10_12_x86_64.whl": [
+          "HKQin0xD71CCqMiisY6X/zKhU2wq08/3lVsxrGA6aEs=",
+          "cp37"
+        ],
+        "iced_x86-1.18.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "UyvmW8hHp6u2F/x7uF4AXwuUn9Ho4Hg2E0bK/IUfjCY=",
+          "cp37"
+        ],
+        "iced_x86-1.18.0-cp37-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "BM0ngGHp3XDXV97/YtT5LY7QpfGNwLuvX0fJbKSx1p8=",
+          "cp37"
+        ],
+        "iced_x86-1.18.0-cp37-abi3-musllinux_1_1_x86_64.whl": [
+          "fbEft81Nu63AOUYaDhw3QCgqRa9yBFdIqm1USVHkPMA=",
+          "cp37"
+        ],
+        "iced_x86-1.18.0-cp37-abi3-win32.whl": [
+          "E3Hq816hM7pflG0FPw23nhpFkE0eHtldCGd1ZygfJKA=",
+          "cp37"
+        ],
+        "iced_x86-1.18.0-cp37-abi3-win_amd64.whl": [
+          "joXIVGekAp4pkyglrCv1lhfjRyUXOQL1I5H6k+9LJ2o=",
+          "cp37"
+        ],
+        "iced_x86-1.18.0-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "YrZntPFfGY3AXqLPFcHYWBxcSc6nUUeOixwIWkyR74c=",
+          "pp38"
+        ],
+        "iced_x86-1.18.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "kjYOszba5bl20a363Axb3hznz9LMTgK/VZsPNfbzn/w=",
+          "pp38"
+        ]
+      }
+    },
     "1.9.1": {
       "sdist": [
         "sbej+lc94M75uuUbmQqf7Nt10yIYeITR68J2xzipGY0=",
@@ -75488,6 +75554,18 @@
       "wheels": {
         "micropython_stubber-1.10.0-py3-none-any.whl": [
           "IPiZsXKgHQEqoseifKDUZ4MhF7ROHKSP1m7BAJ2y/k4=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.0": {
+      "sdist": [
+        "lsK4lnQ9rMvrSCAeFQmDcs1k6XaVnZ93dzsj2B5g9No=",
+        "micropython_stubber-1.11.0.tar.gz"
+      ],
+      "wheels": {
+        "micropython_stubber-1.11.0-py3-none-any.whl": [
+          "izJrkSSLCt1Db9RhBMbzxD23wgtaFARZMaCHj8kcITg=",
           "py3"
         ]
       }
@@ -123432,6 +123510,14 @@
         ]
       }
     },
+    "1.1.8": {
+      "wheels": {
+        "solaar-1.1.8-py3-none-any.whl": [
+          "xJMMH4jGJBWZf8tX17jN9qNGJH/4ozdsea8BOFJyRiw=",
+          "py3"
+        ]
+      }
+    },
     "1.1.8rc2": {
       "sdist": [
         "iE/EQzKmtMUT5IiOOJOHmfJbC2gEj9CJ9d5Y0P/JLzQ=",
@@ -129646,6 +129732,18 @@
         ]
       }
     },
+    "0.1.13": {
+      "sdist": [
+        "n21ID7hxlM14tBmawP6sVJklMqKDputo5k4mkvPxeJ8=",
+        "synology_abfb_log_parser-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "synology_abfb_log_parser-0.1.13-py3-none-any.whl": [
+          "WIu/lj/BfA7d9SZmjZxpzzIHexpLXXzxj3quWqEQUYc=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "p/hpmlwiQ4zqzYorZRFfxvKt9A4n0bxTG185Qjg/MzI=",
@@ -129654,6 +129752,30 @@
       "wheels": {
         "synology_abfb_log_parser-0.1.2-py3-none-any.whl": [
           "ApmrJu16gd4ZnsU6oKkwT4GIOtG+Rsmi/CAQ/cr6DSo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "QKkcNlErsB0Og5t7KxrL1qqdBIMo/B3J+5Fm94EkVvc=",
+        "synology_abfb_log_parser-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "synology_abfb_log_parser-0.2.0-py3-none-any.whl": [
+          "k56Zr7NXX8p/iOFwF0TnipL5tV5glb9EDoErKXkTT1Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "xJ8Y0eevsSvvCiuz5fdwQISfsz93lbQDojxx5n/eV58=",
+        "synology_abfb_log_parser-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "synology_abfb_log_parser-0.2.1-py3-none-any.whl": [
+          "af01AmNjpMfxU7N22tRBeLCGiCJ8VJosObt4KGumfrg=",
           "py3"
         ]
       }
@@ -143356,6 +143478,18 @@
       "wheels": {
         "torchdatasets_nightly-1671237112-py3-none-any.whl": [
           "tYdXKagTvcjptVh4S2XDT4z4a42+ipL/OHRMx2Ta4U4=",
+          "py3"
+        ]
+      }
+    },
+    "1671323588": {
+      "sdist": [
+        "Th5jJi1LeEjkiz7hWNCiGwncfu0kP08nRTAJWXvoxec=",
+        "torchdatasets-nightly-1671323588.tar.gz"
+      ],
+      "wheels": {
+        "torchdatasets_nightly-1671323588-py3-none-any.whl": [
+          "VHc52SCcH4Rufp2+y1r//eXHYvjsIxP3dnH5xQJEQHI=",
           "py3"
         ]
       }
