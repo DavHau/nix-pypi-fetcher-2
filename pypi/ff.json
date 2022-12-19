@@ -2031,6 +2031,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.60": {
+      "sdist": [
+        "I+2VMiLQEVvnJW9+GFWoH6trl7tj/jiLnfN+WSrKogA=",
+        "aedev_git_repo_manager-0.3.60.tar.gz"
+      ],
+      "wheels": {
+        "aedev_git_repo_manager-0.3.60-py3-none-any.whl": [
+          "1ldLbS8qhVIq7rzTJ/T+FptEg23DfM2bO9GMkPdD7P8=",
+          "py3"
+        ]
+      }
     }
   },
   "aemessenger": {
@@ -56072,6 +56084,12 @@
         "handler_cf_v1-1.0.58.tar.gz"
       ]
     },
+    "1.0.59": {
+      "sdist": [
+        "Y8CDvehY+csh3hBHxXaDEq0L4NOkYywIN1Av3PvphIg=",
+        "handler_cf_v1-1.0.59.tar.gz"
+      ]
+    },
     "1.0.6": {
       "sdist": [
         "bjCrGXQ4ithNtHfsjKckMZX0SoIUrOrn4GAzyUaiL8k=",
@@ -75336,6 +75354,18 @@
       "wheels": {
         "munet-0.10.3-py3-none-any.whl": [
           "Dun3pMgmOWPxi0oAnloS99UaWcl3QkCvyWD5CsNGXrs=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.5": {
+      "sdist": [
+        "KU96gsD/ehWsg3GMLJhI2WYCa2cDsXAZbSgm35Vt4tQ=",
+        "munet-0.10.5.tar.gz"
+      ],
+      "wheels": {
+        "munet-0.10.5-py3-none-any.whl": [
+          "aSn95ZcyqZrej+18pnk2PPfCyOCJAPKV1hBJniw3ZvE=",
           "py3"
         ]
       }
@@ -137367,6 +137397,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.797": {
+      "sdist": [
+        "BJboSa5DAwR6W873FDSs3CI6RvUMrxdl5U4yTmW8IhU=",
+        "tencentcloud-sdk-python-ckafka-3.0.797.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.797-py2.py3-none-any.whl": [
+          "cU+7MIHm/M2th6r9kjR/Ox/mmZG8UzpP9P0b7p3sQrg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -148912,6 +148954,34 @@
         ],
         "xia_api-0.0.28-cp39-none-win_amd64.whl": [
           "Ucv6IwXzBAxKrLKOC/7Asg3BfE4ntQy0WrOQNfcpf88=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.29": {
+      "wheels": {
+        "xia_api-0.0.29-cp310-none-macosx_11_0_x86_64.whl": [
+          "zkBeaRGDl4joFH00UHDh4rQTtGfak+XNgTXxmarl1rs=",
+          "cp310"
+        ],
+        "xia_api-0.0.29-cp310-none-manylinux1_x86_64.whl": [
+          "8pQQT3c1pI8VMFJJf8AWqACd6EhYChf+QedTlXvAqCg=",
+          "cp310"
+        ],
+        "xia_api-0.0.29-cp310-none-win_amd64.whl": [
+          "pEkuhnXT9v1URgQFwLp60XzmNjUUTq8aKvLcl3Rf4+o=",
+          "cp310"
+        ],
+        "xia_api-0.0.29-cp39-none-macosx_11_0_x86_64.whl": [
+          "PGKd8Yn31oyb4M3g6nujuoonW5yBCXxedrGdKYtRSk8=",
+          "cp39"
+        ],
+        "xia_api-0.0.29-cp39-none-manylinux1_x86_64.whl": [
+          "fF21vBLXuAiJ6EPD7wXAncTMzSEYykvzZRxeeVpE+rE=",
+          "cp39"
+        ],
+        "xia_api-0.0.29-cp39-none-win_amd64.whl": [
+          "KxAE1zwbRRK5ke6vE9/NpiJiXxVcQIGI1C3gU52+5Hg=",
           "cp39"
         ]
       }

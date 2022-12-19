@@ -6760,6 +6760,12 @@
         "automation_rest_server-3.3.17.tar.gz"
       ]
     },
+    "3.3.18": {
+      "sdist": [
+        "RF0cWomfqqR9QW3MAeGkHobbyctojzNVeopPQQwHfYU=",
+        "automation_rest_server-3.3.18.tar.gz"
+      ]
+    },
     "3.3.2": {
       "sdist": [
         "zRoiYFMLwP1p0NqJWKmICRrN59aEEq6afMtgEGeF3KI=",
@@ -18712,6 +18718,18 @@
       "wheels": {
         "cdk_tweet_queue-2.0.186-py3-none-any.whl": [
           "Bm+HnkKxczn10ENlRBgjqz3TS0eyd9G6bmwZBnxTNfg=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.187": {
+      "sdist": [
+        "6dXo3btnwKzICrER6uv/++WXiJKyM/lPIRw6ukQQZy8=",
+        "cdk-tweet-queue-2.0.187.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.187-py3-none-any.whl": [
+          "dLMk7xJ4qaOWG501dhQjfoi6C/UC7G6hod76oTwNvj8=",
           "py3"
         ]
       }
@@ -48628,6 +48646,34 @@
         ],
         "graphscope_client-0.19.0a20221217-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "06Wf+Ii3LZyI370fmHrsoVH1G1f+kw5cvFT6tcuPNIQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221218": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221218-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "P6saEygaorjc1QvKBZ1M9BlDfYNNfXTRxnWH2DAdzys=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221218-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dYYhhV8L3x+G7cOuFcMQpdxzPi0vTOamDPdlgKQJsAk=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221218-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1FJlrIgNlwOtrX2zYxtaswbisRN7Uz6M9feNvOKWFVQ=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221218-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aq3Y6iLDayVjLNMqyrt9YjNUBuzOs+J776w+t6nxo3Q=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221218-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "6NSKyhWhknciLvNpL+RBovJvJL47V0URXrUp+rAXLmk=",
+          "cp39"
+        ],
+        "graphscope_client-0.19.0a20221218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aYaIR6LB7+bKtHl20uYVbyjzFohIZLL3geYxkc8acEY=",
           "cp39"
         ]
       }
@@ -101968,6 +102014,18 @@
       "wheels": {
         "PyForks-0.0.15-py3-none-any.whl": [
           "SpaMNwA4KM/+3KXEBusli/X1KzMLXMyocXD8Dt9pT2s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "nS+dAtYJWHZVbg5tx9znFo/o5iIH8EAmf/9DA0fV1dI=",
+        "PyForks-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "PyForks-0.0.16-py3-none-any.whl": [
+          "xUrBNsvsZr+XS7dbIv5w7LWC7LciXHqrQzPlGfGIhkk=",
           "py3"
         ]
       }

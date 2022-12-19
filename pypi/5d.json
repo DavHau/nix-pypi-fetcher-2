@@ -37335,6 +37335,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "JLwvJcYcSe5Z7In34pQqHptd8TCrXJeJ6zPiGGv4T14=",
+        "ffmpeg-progress-yield-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "ffmpeg_progress_yield-0.6.1-py2.py3-none-any.whl": [
+          "fsFXDAorEdmSvH2ninZkFZBzbPLM4qy0v6r63RgOLZw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "figment": {
@@ -56566,6 +56578,94 @@
         ],
         "krptn-0.3.0-pp39-pypy39_pp73-win_amd64.whl": [
           "lOGVoX0HfjEut5eYmEKCkyRkM7UhxBGcv29cNd9982M=",
+          "pp39"
+        ]
+      }
+    },
+    "0.3.1": {
+      "wheels": {
+        "krptn-0.3.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "D8Z4zUTiRI1MyfNIl+U06oAHqazTETddWMD+Aqy+i3w=",
+          "cp310"
+        ],
+        "krptn-0.3.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "DrPW7foX4BhFtwQeuFgbnuvhriUFhRX41QMHuO7GWVs=",
+          "cp310"
+        ],
+        "krptn-0.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ycftrKbqfucXEVNN5MFu+G/878NzJOxqNJkjTF2VjJ0=",
+          "cp310"
+        ],
+        "krptn-0.3.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "NSIi+fTBllBqWNkpvJEXMB9Zi/ucfivTR3ykQarKgWQ=",
+          "cp310"
+        ],
+        "krptn-0.3.1-cp310-cp310-win32.whl": [
+          "yAK6MrtIP7xhLFxv9VS3WM3dtE7ILcNuQY6BMBWfmW4=",
+          "cp310"
+        ],
+        "krptn-0.3.1-cp310-cp310-win_amd64.whl": [
+          "mc9VARXpwhqt/W11M477SJLRAO7Ov+rN5ETggyjygZw=",
+          "cp310"
+        ],
+        "krptn-0.3.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Cr0wqBsip5VWeXuyN5wv3yzXpBP+Ukg2EEl746Wr+A4=",
+          "cp311"
+        ],
+        "krptn-0.3.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "z0xt9dkN6bcRzhnZeiOp7YixmMldbB/N3hTRjb4ShRo=",
+          "cp311"
+        ],
+        "krptn-0.3.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mqfs5KSPa2SVJiEizSMfdxsyQczRjzXk/8QfdGSBQfE=",
+          "cp311"
+        ],
+        "krptn-0.3.1-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "7AX9pm/GQA8uHw+02Z0VkZB3o5oTm0k0wM/mcwE1dbc=",
+          "cp311"
+        ],
+        "krptn-0.3.1-cp311-cp311-win32.whl": [
+          "Y5MAHxNB5nII604mObFC2MlMiq46KrHXCe6YQwDxpzw=",
+          "cp311"
+        ],
+        "krptn-0.3.1-cp311-cp311-win_amd64.whl": [
+          "EWurSS4Zr1+fUUN1veXyWAVN0Y/mAwppP3THlJN1hkY=",
+          "cp311"
+        ],
+        "krptn-0.3.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Ij3qtfXdu/pejyN+khzsxO2SP5Qnobw7XmhpAPQzCM8=",
+          "cp39"
+        ],
+        "krptn-0.3.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "JywMZx5bDxfcAzgXvWhDwYzLMPyYt74lECcGnIJqXzg=",
+          "cp39"
+        ],
+        "krptn-0.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5FD30qB54E0JzP3BMhr2N2P8l/asSfnkRG/hqu5povo=",
+          "cp39"
+        ],
+        "krptn-0.3.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "WSqKLNZnjFWlM0It1o7s6WYrsKiWKJs7iHVJK7mn8ms=",
+          "cp39"
+        ],
+        "krptn-0.3.1-cp39-cp39-win32.whl": [
+          "oZMUW45jttRsIvyRKa9vz9+AT6BK96qnzsDEXC7ZFJc=",
+          "cp39"
+        ],
+        "krptn-0.3.1-cp39-cp39-win_amd64.whl": [
+          "kUwP9txRkIE6Y43LzD2F7ZybiEPi+sW2JfGLvdJZB40=",
+          "cp39"
+        ],
+        "krptn-0.3.1-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "rr3hsSXdcpSrZQpRw2UXxqhJx1ZTQ1HRYI0hmN4elUs=",
+          "pp39"
+        ],
+        "krptn-0.3.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VuJgg45XqpMFwD6mvP5Lzd4I/WqUHHzqLpeACL9te6o=",
+          "pp39"
+        ],
+        "krptn-0.3.1-pp39-pypy39_pp73-win_amd64.whl": [
+          "vJejROubqEahcAcf2heMqHDLiNVPJ0GjxoIl8LXywLw=",
           "pp39"
         ]
       }

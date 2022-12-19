@@ -44693,6 +44693,14 @@
       ]
     }
   },
+  "elixir-server": {
+    "2.1.0.dev0": {
+      "sdist": [
+        "jVTgHAW8XwhRnLKutBGb0ikSCjRYGmKi8i+zKyXkk7U=",
+        "elixir_server-2.1.0.dev0.tar.gz"
+      ]
+    }
+  },
   "emailtoolspython": {
     "0.2.1": {
       "sdist": [
@@ -124178,6 +124186,30 @@
       "wheels": {
         "PyGObject_stubs-1.0.0-py3-none-any.whl": [
           "rHhi+kVTduo5SyBttdSBD/gSpq54ZszHWUipRglF7q4=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "wMbEkqxDAoaDOdo8wnxeKIxa3D2wed02MS3VB+zyMGc=",
+        "PyGObject-stubs-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "PyGObject_stubs-2.0.0-py3-none-any.whl": [
+          "c6TB544Z+SEeayWvHaBd4K6AAxgjs4qgQH/NdtDj5W8=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "/Nzp5fYyyMExR9E5z2euyQoS9nVy9dUZCd2MQ9ziArk=",
+        "PyGObject-stubs-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "PyGObject_stubs-2.1.0-py3-none-any.whl": [
+          "qET7cqIrXmCGBdkKvm2QX4yZWw5yBccVKZ+ph2loXeI=",
           "py3"
         ]
       }
