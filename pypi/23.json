@@ -72134,6 +72134,14 @@
         ]
       }
     },
+    "1.0.47": {
+      "wheels": {
+        "lumigo_opentelemetry-1.0.47-py3-none-any.whl": [
+          "2SNvKoMInXpRXMx8BT6pZQE5zQfW6oxEVh7nP4hGD+A=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "wheels": {
         "lumigo_opentelemetry-1.0.5-py3-none-any.whl": [
@@ -73558,6 +73566,18 @@
       "wheels": {
         "makeflatt-1.0.3-py3-none-any.whl": [
           "87cOjXwnTA53J0K3k1O5XcOUAA3QMQJaDQ70ZHUKLmY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "JbK0Uz7AGlhB8jtTQxuqg3E6CQ8J5Ui2M5I+M/R8iJY=",
+        "makeflatt-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "makeflatt-1.0.4-py3-none-any.whl": [
+          "P3aTHE2ATP2O7/lWyDY0ZjLJd/KR52KOiZoMZFT9Oc4=",
           "py3"
         ]
       }
@@ -86863,6 +86883,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.1": {
+      "sdist": [
+        "Q7KQ/cSVKwi4jWqQbzpZ4p+GNvt3BbijUKtPoIUtKII=",
+        "nmr-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "nmr-0.9.1-py3-none-any.whl": [
+          "WoYw+kS99YjwC1zz07bcjb145DIcb8x5pbuYf3ND3O4=",
+          "py3"
+        ]
+      }
     }
   },
   "no1list": {
@@ -86966,6 +86998,20 @@
       "wheels": {
         "node_exporter-0.3.5-py3-none-any.whl": [
           "wG/TuTNGsjYzzLdUA+/sEP8MD4VwD1SVqorkyEhCKmY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nonebot-plugin-azurlane-assistant": {
+    "0.0.1": {
+      "sdist": [
+        "stgUVVGICX0hGimELILD99R0ZZMJjr4N4daHo3DWJC4=",
+        "nonebot-plugin-azurlane-assistant-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_azurlane_assistant-0.0.1-py3-none-any.whl": [
+          "iEXFvipTWQnIcGSDrmSmvQ8tnpsQDYx4y6h3oqD6Zsg=",
           "py3"
         ]
       }
@@ -105313,6 +105359,38 @@
           "cp39"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "qLU7NCb5Qwelji+CFNwQlMGa+p3LlvIb4S+TfZaLLfM=",
+        "pyobjc-framework-Cocoa-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_Cocoa-9.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "X5Sw+Spit4HmM+WPCbyt7WPWEvmx4VIC9fNy6lnkrr0=",
+          "cp310"
+        ],
+        "pyobjc_framework_Cocoa-9.0.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "8GLDu1zImQLm0WSqmmb/wDY4ZF3V8EaLb1JayZfIblE=",
+          "cp311"
+        ],
+        "pyobjc_framework_Cocoa-9.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "CzdMCp0yuk/FYQqydBywWgBfHfuCpH2/LbsrOjS3POU=",
+          "cp37"
+        ],
+        "pyobjc_framework_Cocoa-9.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "iSgIDOu86RrBOeRg09/JTHy2k1vgMtyunApRskf5wtk=",
+          "cp38"
+        ],
+        "pyobjc_framework_Cocoa-9.0.1-cp38-cp38-macosx_11_0_universal2.whl": [
+          "nSvYagqY2Qb3YvXcWfL8Z8zjKuljOwL/WayMijPdhi0=",
+          "cp38"
+        ],
+        "pyobjc_framework_Cocoa-9.0.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "KkEFPLzuMOHokU76dJxQtwv3glJ9WTjyvCpjk3QJac4=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyobjc-framework-localauthentication": {
@@ -105786,6 +105864,18 @@
       "wheels": {
         "pyobjc_framework_LocalAuthentication-9.0-py2.py3-none-any.whl": [
           "t1/rSTEV2vqYoElOwwdwMwetGTBYcuQPhe1WDmL+A9g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "9EAyXTO0zocgD4dpQMbYnJGoC9v8SSbRdKXxHNZkw90=",
+        "pyobjc-framework-LocalAuthentication-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_LocalAuthentication-9.0.1-py2.py3-none-any.whl": [
+          "6dqsQwUH8vwkWjtxSBD1KHMoSQW7ji9PuHmA2+ZZ7DQ=",
           "py2.py3"
         ]
       }
@@ -116236,6 +116326,18 @@
       "wheels": {
         "requirementslib-2.2.1-py2.py3-none-any.whl": [
           "BgfjMKZThaVW52xvsxVnowU/U6CBxGxpDa3IAPf8nV0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.2.2": {
+      "sdist": [
+        "mxPiGMIvyU0Ctrn8BCXEz79PO5YS0nze4sF42uZOCqg=",
+        "requirementslib-2.2.2.tar.gz"
+      ],
+      "wheels": {
+        "requirementslib-2.2.2-py2.py3-none-any.whl": [
+          "Tg6LKhz3/N9pDDezuJxlTyDCAPhdp4t0AoljVByNzy4=",
           "py2.py3"
         ]
       }

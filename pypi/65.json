@@ -113023,6 +113023,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.6": {
+      "sdist": [
+        "RudB+Azxbi1IPU5vW6PbnSUZuUwACzSrlICYQe+8ssw=",
+        "pyinfra-2.6.tar.gz"
+      ],
+      "wheels": {
+        "pyinfra-2.6-py2.py3-none-any.whl": [
+          "mQGfT7tQmYAcIZPeuMcsj2txOTHyge6eOULCYZtv1YI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyirc": {
@@ -114513,6 +114525,26 @@
           "cp36"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "VWSUM10Szv1zRKwfajcdbQpqVz2HbMgv29/TUVNfxC4=",
+        "pyobjc-framework-Intents-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_Intents-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "9N1opN2yaFY9l0GbWj0yEEOzEkmxwbQdWpLrNm2iTss=",
+          "cp36"
+        ],
+        "pyobjc_framework_Intents-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "v4ubChH/5QaacwHCqQvCgfyW75U4poimkq9+7mzAOUY=",
+          "cp36"
+        ],
+        "pyobjc_framework_Intents-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "8iGhqO1oTRMvgyDHdfOp15UkurwgphzWsJCawRSfGio=",
+          "cp36"
+        ]
+      }
     }
   },
   "pyobjc-framework-storekit": {
@@ -115448,6 +115480,26 @@
         ],
         "pyobjc_framework_StoreKit-9.0-cp36-abi3-macosx_11_0_universal2.whl": [
           "YHdI0YJh1S/rHSblLpYpevoEdHRU+8BCdRaFXi7QaDc=",
+          "cp36"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "9txJoXtr77TU2JHCYIAmXtwcJg2/FOZryhrQN6cqetw=",
+        "pyobjc-framework-StoreKit-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_StoreKit-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "Wp3yNvtPuhMN631eG0q40sCKjH/4AJ5DcXH7JuP+5aA=",
+          "cp36"
+        ],
+        "pyobjc_framework_StoreKit-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "ZrySYOmYevwvKENdwUhbYbhrJdulg8gO3vHARm1cg/0=",
+          "cp36"
+        ],
+        "pyobjc_framework_StoreKit-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "YKq2z0trvOXDI3ywzZ0euYEc2xeXlkp5LXPV9/V6a7s=",
           "cp36"
         ]
       }
@@ -121374,6 +121426,18 @@
       "wheels": {
         "qpd-0.3.3-py3-none-any.whl": [
           "YAsgD7xPzXAc4G/07u2rn6aLs5Wt2J4qqpvUPFGbT7o=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "MQBQ3W7g/d4DHVRkxECiLZQ2lDtC6jM2yTtZd/MTVKs=",
+        "qpd-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "qpd-0.3.4-py3-none-any.whl": [
+          "8nBOhgX1uVF9g7wN3qqhtAE8rtMTHgUVh1tdeH5pgoo=",
           "py3"
         ]
       }
@@ -143228,6 +143292,34 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "dn5teH4/Sz1aBIGWODJ4tUQ7hczTsIehYvWdv5TZJEg=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221219": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221219-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "x9L/isHDSUowrVpIBUZboK6nMB/Prt0IkxPVnz4Jja4=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221219-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iJY8W/ToHRDuIt3c6B0lQxneRa8/lWVR2B/tkz2OCbw=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221219-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "X+W+AWu2Tp72H188LOQnA/lxZ+mxrZiYaQLZYFbVWgA=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221219-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7eTV+a9f7WD7mOhTXfiOv+d3Phpqx4Sz50968qCCgSU=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221219-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "MNrnXWuXWfw6SKu7L3kE9q/qGOLWpUrpErz1oKQJBPg=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221219-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GsvjbcDFtxrNy/6CG9g1NRRLgJbE9hlvv9XJ5dIoHOw=",
           "cp39"
         ]
       }

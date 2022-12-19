@@ -8725,6 +8725,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2b20221219": {
+      "sdist": [
+        "pwsm9bp0wwkC57I8XHifoKO3t/7QFkfudUKRkNU0jd8=",
+        "autogluon.multimodal-0.6.2b20221219.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.multimodal-0.6.2b20221219-py3-none-any.whl": [
+          "k6iAEp3htuFj+490rnwYEAocJYZM5stvS74IfcrOAdg=",
+          "py3"
+        ]
+      }
     }
   },
   "autograder-vives": {
@@ -100078,6 +100090,42 @@
         ]
       }
     },
+    "0.0.282": {
+      "sdist": [
+        "HFjhFh0KoSjwlq8+eIrVK6aYrG98fUiOFr/Bta94HnU=",
+        "pepperize.cdk-security-group-0.0.282.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.282-py3-none-any.whl": [
+          "Tn7d/LcJO8m5vNMo8rwR3BpHato52igcfeR9j3GXLIU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.283": {
+      "sdist": [
+        "HgzHDQh3avZDhK1WIEAUIVBtb2xr5InFLSxmwCt41Rs=",
+        "pepperize.cdk-security-group-0.0.283.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.283-py3-none-any.whl": [
+          "rCgVIzIMA2rb+TtdJHSpOCw40BXy4RQOy0X3Ir4/wS8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.284": {
+      "sdist": [
+        "Oitf8CDKt3mTe5CnnwFxyNrEa5I/VoXnb6UZIGBrV5k=",
+        "pepperize.cdk-security-group-0.0.284.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.284-py3-none-any.whl": [
+          "OGzvOgX9QxNUd/3SwAnpf2DSg30zRq/upwdYF8aODbs=",
+          "py3"
+        ]
+      }
+    },
     "0.0.29": {
       "sdist": [
         "vlfCnN2oq/CSvjYYQVb017QZjTeUX/8srYqZMwOHwLQ=",
@@ -111514,29 +111562,185 @@
     }
   },
   "pysoul": {
-    "0.5.2": {
+    "0.2": {
       "sdist": [
-        "apVEE0vi1jPcwNTcu6G9FyVgTjCa2ZUVQnnccNzwgJQ=",
-        "PySoul-0.5.2.tar.gz"
-      ]
+        "ggdlEPUMue9WWbDPUr50gvk5nr7XYL5MfjOnbumYgIM=",
+        "pysoul-0.2.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.2-py3-none-any.whl": [
+          "Tx/DJBYaF9ztcIBG/QySKqIwausbECarNwy32dVh1Xk=",
+          "py3"
+        ]
+      }
     },
-    "0.5.3": {
+    "0.3": {
       "sdist": [
-        "9+DU6iRex2p6KcL27S5aTmRsmCsPE7g93WOyAlziPu0=",
-        "PySoul-0.5.3.tar.gz"
-      ]
+        "4Q1roh24RLV+FdQm+TzVuVhGOQVYeZSqYXvD33Qc3QU=",
+        "pysoul-0.3.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.3-py3-none-any.whl": [
+          "eI+OYt9T04Z8Jh6S/mp/GPAyAS+8YIuCpRGmhRAyG/g=",
+          "py3"
+        ]
+      }
     },
-    "0.5.4": {
+    "0.4": {
       "sdist": [
-        "2rtpkEGXrZYxjacP0NvnPh0Pq8yynVHMnDhv34ykK3w=",
-        "PySoul-0.5.4.tar.gz"
-      ]
+        "XPQYsKoXwKRDko/5Wqd9xbpAXLfbT4TQqpZuVhXNfg8=",
+        "pysoul-0.4.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.4-py3-none-any.whl": [
+          "9AIvnDtRRlVhl8leu90mKpl4Ym72sGaaN13sxmi1xoQ=",
+          "py3"
+        ]
+      }
     },
-    "0.5.5": {
+    "0.5": {
       "sdist": [
-        "WzpKe6PEQ9dbaPdX67ygo9mR/lN212WNm/Oj3wzNHMY=",
-        "PySoul-0.5.5.tar.gz"
-      ]
+        "mx1+kKbKFtBOLsR+lbas9x+x9EogL+2WphSf6LvsPGg=",
+        "pysoul-0.5.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.5-py3-none-any.whl": [
+          "QEXNaMzOVS+V6YkA+RbyILahWWwdoio1Jry9vOWS0rM=",
+          "py3"
+        ]
+      }
+    },
+    "0.6": {
+      "sdist": [
+        "Esjbb4Inq0MEKq0+mV7aJhcQ7SIO+97Xl99uTQlyVO0=",
+        "pysoul-0.6.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.6-py3-none-any.whl": [
+          "jMmBZhH+3I3fY5oWvJBCoItMKIBtMjsdHOTlgtT5MHo=",
+          "py3"
+        ]
+      }
+    },
+    "0.7": {
+      "sdist": [
+        "99+S34VzF4W6f8jJYqYOJbmqY2wi0AHA3PIG0K+FXWI=",
+        "pysoul-0.7.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.7-py3-none-any.whl": [
+          "z9iDdjWBvTPW1LzMH1Rtgm5JNh8sCb0yxww5ZNDUj4M=",
+          "py3"
+        ]
+      }
+    },
+    "0.9": {
+      "sdist": [
+        "QAMAuFdr8YKgdZSTXI0xhG+udJSTOX8E6odTVjtxwSY=",
+        "pysoul-0.9.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-0.9-py3-none-any.whl": [
+          "7r6pW74dJGkot88Y3hmibM9t3ATiDD+g2j4Pb40ObTE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0": {
+      "sdist": [
+        "xkexnV+mL7XoLaPm7qr4YOsUZ3oOkoRVeK3FAYuEyp4=",
+        "pysoul-1.0.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.0-py3-none-any.whl": [
+          "aXe8dyXpUX+wr0kFcyGnv93LOme+50P5pYwPCnn16gc=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "1HlH7Cj3ioZ+16+vPNA32lJmzp3kgGrguvWkmS5qGAI=",
+        "pysoul-1.1.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.1-py3-none-any.whl": [
+          "pqi3lpxh+XwIAsGskzQy6/U4eR4LAdWCL/G/jI9bJEo=",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "hchJX54ZQw2QsBf4cUS3PyyWY7LvBA1KRXbkDBw46HY=",
+        "pysoul-1.2.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.2-py3-none-any.whl": [
+          "A9UpoFcuIocIZw6FRNmiCe61aX40DrqpCIqolgqUQTk=",
+          "py3"
+        ]
+      }
+    },
+    "1.3": {
+      "sdist": [
+        "4zayF5o2/7ek+kf1bvHjg2u8n4Hv4tfnA6ZhmIoK9ZA=",
+        "pysoul-1.3.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.3-py3-none-any.whl": [
+          "w5Bde/aPn96ofsDCls7JFipyYHiW1SggYOO62uCXyoo=",
+          "py3"
+        ]
+      }
+    },
+    "1.4": {
+      "sdist": [
+        "qQWdvD71KwzX6PA4NRael9uhZU9ojeKqNMkk5wJLTCc=",
+        "pysoul-1.4.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.4-py3-none-any.whl": [
+          "8Zu6lCjI4diu7NGoMjdBVlpqJ7BS7XdsVbdaoEb1H+I=",
+          "py3"
+        ]
+      }
+    },
+    "1.5": {
+      "sdist": [
+        "OzCKzVdWWh0QnTk3U8I1F0ckC4x+l0JPM0of3jkG65U=",
+        "pysoul-1.5.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.5-py3-none-any.whl": [
+          "I9smtfLbR417LOjX7vnhFqaJX0cvFqClTwFAagzDU/I=",
+          "py3"
+        ]
+      }
+    },
+    "1.6": {
+      "sdist": [
+        "59Sj1ID7vcMx62CSr1cAeKEqp3IdSyqgtWWuVwuOdy0=",
+        "pysoul-1.6.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.6-py3-none-any.whl": [
+          "aOghI/MaU8KIx2o2ADZEV8+djlcOhwgGkKEWSZ/sg08=",
+          "py3"
+        ]
+      }
+    },
+    "1.7": {
+      "sdist": [
+        "/Qa3HtnVK5g94h0k1u1wyyqF3fn+dD48JITzGXcFNNk=",
+        "pysoul-1.7.tar.gz"
+      ],
+      "wheels": {
+        "pysoul-1.7-py3-none-any.whl": [
+          "TtzcVtN/gTVtPSOcxRv+rqp1P/nxfTFPuUJ7tA01PUs=",
+          "py3"
+        ]
+      }
     }
   },
   "pyspellchecker": {

@@ -14341,6 +14341,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.2": {
+      "sdist": [
+        "tJgBI3vjs87eFzGlBY9IqWwL0CM57yXk44SkZI4j5YA=",
+        "c3d-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "c3d-0.5.2-py3-none-any.whl": [
+          "Fvjt9VwE0v3Ub1mnCSU6/9jx1+CmKZVDcJHXREDY8ng=",
+          "py3"
+        ]
+      }
     }
   },
   "cac-panel": {
@@ -64022,6 +64034,14 @@
         ]
       }
     },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdker-3.1.17-py2.py3-none-any.whl": [
+          "pPn6S1eNXgFTIcziZS80vXGVp30XbHn11vt4ivL+OcE=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdker-3.1.2-py2.py3-none-any.whl": [
@@ -69547,6 +69567,42 @@
         "jieba_pyfast-1.3.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
           "pOew7MEyBQ2ulyPPyb3iC9tfG0ZMXa8Hj+6gPE5kq1g=",
           "cp310"
+        ],
+        "jieba_pyfast-1.3.0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "Lxcu/bcvwXngogz6ZA6NUcrkfiZRqITfUi9jHGy/Vpk=",
+          "cp311"
+        ],
+        "jieba_pyfast-1.3.0-cp311-cp311-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "qbvJmn1g7MuXss9yofIx+65cyiypkfl4W8uh0eJzi4M=",
+          "cp311"
+        ],
+        "jieba_pyfast-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vjYeQPmhhLFJ4GIYu68YocowumbgI3ws24nA2vLH/gU=",
+          "cp311"
+        ],
+        "jieba_pyfast-1.3.0-cp311-cp311-musllinux_1_1_i686.whl": [
+          "XO9fOIsNMxQLY0bUC0JEWSOjkxbgDRQROvoooeKTYOw=",
+          "cp311"
+        ],
+        "jieba_pyfast-1.3.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "O51c37iWTTV8k+sV4a6gqhoNZkVXK7Rjfd/m+EKAG0U=",
+          "cp311"
+        ]
+      }
+    },
+    "1.4.0": {
+      "wheels": {
+        "jieba_pyfast-1.4.0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "QYov75lchAQtjQOvKJ1HD5SX0gk9Zy7JDR+kHfE0Axo=",
+          "cp311"
+        ]
+      }
+    },
+    "1.4.1": {
+      "wheels": {
+        "jieba_pyfast-1.4.1-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "amamuIPKeJEJH0dlx86L9MIIIjcDJm6HhSopvgiSfy8=",
+          "cp311"
         ]
       }
     }
@@ -93366,6 +93422,18 @@
       "sdist": [
         "HIOltnO++mkgoT7zx6k0atyZ4EWkWQawgb2Trcv26pM=",
         "nonebot-plugin-covid19-news-0.7.tar.gz"
+      ]
+    },
+    "0.7b0": {
+      "sdist": [
+        "BRd8vXD0j63i3zj8ao/sgVDxSYBnxJ0L8rOkguipoYs=",
+        "nonebot-plugin-covid19-news-0.7b0.tar.gz"
+      ]
+    },
+    "0.7b1": {
+      "sdist": [
+        "Uk8PONwiumEl12j3zxePE3b4GGClKpi4xvYcc3BWlg0=",
+        "nonebot-plugin-covid19-news-0.7b1.tar.gz"
       ]
     }
   },
@@ -120218,6 +120286,30 @@
       "wheels": {
         "renovosolutions.aws_cdk_multi_account_az_mapping-0.0.7-py3-none-any.whl": [
           "vrPNvbrKgVnuZ6KZ5P+sinSdrE4mRtsqdoojm2hg1oM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "whRNBgAsW0T1tDlMLvGRIYhqm6nqZd35xf0T86rZrto=",
+        "renovosolutions.aws-cdk-multi-account-az-mapping-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_multi_account_az_mapping-0.0.8-py3-none-any.whl": [
+          "mcJGTnRe9GeRycSmO4QojhtgsyiC9uy5zLsWvqi7KvM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "c/Yv5YEYCghAgoMU36sDc3oWaASp981lI1X27ZGFkVQ=",
+        "renovosolutions.aws-cdk-multi-account-az-mapping-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_multi_account_az_mapping-0.0.9-py3-none-any.whl": [
+          "DQvdgDnwQy/SdpYltx9NDDLOSBdM2j0vesxKoclvUIA=",
           "py3"
         ]
       }

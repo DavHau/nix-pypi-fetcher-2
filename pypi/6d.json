@@ -7259,6 +7259,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.4.8": {
+      "sdist": [
+        "NzOZYWuU0MM/0dgGALaAorWmxZuFHAz7ZOFZSy8I9Bg=",
+        "AnyRobot-1.4.8.tar.gz"
+      ],
+      "wheels": {
+        "AnyRobot-1.4.8-py2.py3-none-any.whl": [
+          "bGwWDS0K7m1bGcSRmwZyBts5fHFkHz5xP/3zpC2czsY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "aoxiu-laozi-xinjie": {
@@ -11622,30 +11634,6 @@
     }
   },
   "autisto": {
-    "1.0rc0": {
-      "sdist": [
-        "WGvDHloGb9K0QBJJk+2xDOJbDy19gl9a29P7uPJ2CzA=",
-        "autisto-1.0rc0.tar.gz"
-      ],
-      "wheels": {
-        "autisto-1.0rc0-py3-none-any.whl": [
-          "hhZtp2YHHgNwNx2FTgKtmO9SgMn7wJmgJXIaelbAtMQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.0rc1": {
-      "sdist": [
-        "dNVnk6ZMVJF7y/6DeHxHCS6cdwMgQ9Llm6mll8N7SH0=",
-        "autisto-1.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "autisto-1.0rc1-py3-none-any.whl": [
-          "04MYFov3spm0oZtbzmMDkxr8nMpjnFcwvXtoYMF9cIw=",
-          "py3"
-        ]
-      }
-    },
     "1.0rc3": {
       "sdist": [
         "tbtzzKoQ0Crc+LkFCYGZyKQC/AqYJWjQWaOZWDTSf0w=",
@@ -11654,6 +11642,42 @@
       "wheels": {
         "autisto-1.0rc3-py3-none-any.whl": [
           "qrFl5Wyu7Y8RZR9STx9TtFuZQ1jpjQFgazo68PnTx5Q=",
+          "py3"
+        ]
+      }
+    },
+    "1.0rc6": {
+      "sdist": [
+        "izs+b+o1rfj4hgUnFbBkS9iHXmw5z+9A94eevhuo8A8=",
+        "autisto-1.0rc6.tar.gz"
+      ],
+      "wheels": {
+        "autisto-1.0rc6-py3-none-any.whl": [
+          "WGQ0v2aec8FtEvhgIa0+F5gKVgfwaTk3O0nycG4cGZk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0rc7": {
+      "sdist": [
+        "C9e1ccxKDW5AjzsQB7uuvc0CSdwhAkv+kpIEccg6lzU=",
+        "autisto-1.0rc7.tar.gz"
+      ],
+      "wheels": {
+        "autisto-1.0rc7-py3-none-any.whl": [
+          "Y9bVIvwE+z2Aa/OYExCa2RAC7ONhNCARw+/o5vMnfNM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0rc8": {
+      "sdist": [
+        "DkwizlaPRvDZ3s3RM7F9y1SNG7BLgRKxIunYdMhURKA=",
+        "autisto-1.0rc8.tar.gz"
+      ],
+      "wheels": {
+        "autisto-1.0rc8-py3-none-any.whl": [
+          "q+8dfpxrHHnLXgeh8C/tLrM64u+s03UCc525THiYiMc=",
           "py3"
         ]
       }
@@ -63750,6 +63774,14 @@
         ]
       }
     },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkbssintl-3.1.17-py2.py3-none-any.whl": [
+          "bRs7R5JeuhY7e2OhDaBMaKFLgNifiLFYQGZ/vsWrrVI=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkbssintl-3.1.2-py2.py3-none-any.whl": [
@@ -64732,6 +64764,14 @@
       "wheels": {
         "huaweicloudsdkimage-3.1.16-py2.py3-none-any.whl": [
           "RUAKtvGWnsOBvyGbaL2b4EeKSA3uP6Bwt0Msq1IrYiU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkimage-3.1.17-py2.py3-none-any.whl": [
+          "3eBHYmPlPsoHaiqGjJ3lqrSyGdDVH0NeFI4Zx6LnGYI=",
           "py2.py3"
         ]
       }
@@ -68787,6 +68827,20 @@
         "qgJlXGhj0lT8dfgFrtDl4r90KzaCb/v9YExWCM0IgTU=",
         "jaxboard-0.0.1.tar.gz"
       ]
+    }
+  },
+  "jet-test": {
+    "0.0.2": {
+      "sdist": [
+        "MM+w50tzQlnfYJLw+fioHixldMrpUApRAY9x76WK9LY=",
+        "jet-test-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "jet_test-0.0.2-py3-none-any.whl": [
+          "xZnnmfDD9lUtI+zwrD57OdmyPz+3m7YUQ85htB2vD6k=",
+          "py3"
+        ]
+      }
     }
   },
   "jhashcode-python3": {
@@ -101117,6 +101171,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_partner_second_lastname-16.0.1.0.1-py3-none-any.whl": [
+          "1kz0V/dP5ABpa3Ui90464kSlDacrTaq+Gz/wobCCjrE=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-project-milestone": {
@@ -117516,6 +117578,18 @@
       "wheels": {
         "pyclesperanto_prototype-0.20.0-py3-none-any.whl": [
           "Auyt4/L91rQAc0MCFUdglbjHBW0sz5jmFKrMgs2rwQg=",
+          "py3"
+        ]
+      }
+    },
+    "0.21.0": {
+      "sdist": [
+        "LDi7XXCVu2W+0TeMnZuUrGexHIORoAR0fDCb4As1PFM=",
+        "pyclesperanto_prototype-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "pyclesperanto_prototype-0.21.0-py3-none-any.whl": [
+          "LPAXpSuePhbT/FmFikQsXkV5m8w8eGqA0L+xAk2cI8k=",
           "py3"
         ]
       }
@@ -143423,6 +143497,54 @@
           "py3"
         ]
       }
+    },
+    "6.8.0": {
+      "wheels": {
+        "sui_brownie-6.8.0-py3-none-any.whl": [
+          "Z4/bGgEdUE2w3Ri3rCT4TgcR3Z5Ju+RcobSacoO2jc4=",
+          "py3"
+        ]
+      }
+    },
+    "6.9.0": {
+      "wheels": {
+        "sui_brownie-6.9.0-py3-none-any.whl": [
+          "KNp/LRGoob1yLHxHfU3Hs6tjANNUMU05Hqn1g8mk7co=",
+          "py3"
+        ]
+      }
+    },
+    "7.0.0": {
+      "wheels": {
+        "sui_brownie-7.0.0-py3-none-any.whl": [
+          "KCvMekUYOGExCWTxwrX+4NyW9hqbrOeLPfTD/xwNngQ=",
+          "py3"
+        ]
+      }
+    },
+    "7.1.0": {
+      "wheels": {
+        "sui_brownie-7.1.0-py3-none-any.whl": [
+          "8eMvqYNxSSZ9zTug8yvHUKAQsP5WNA2o8+5E2mrweAk=",
+          "py3"
+        ]
+      }
+    },
+    "7.2.0": {
+      "wheels": {
+        "sui_brownie-7.2.0-py3-none-any.whl": [
+          "H4U4fJdMovTjvTE3gHjS6vlqcLc6PtXCmRIC2f2YMck=",
+          "py3"
+        ]
+      }
+    },
+    "7.3.0": {
+      "wheels": {
+        "sui_brownie-7.3.0-py3-none-any.whl": [
+          "2c63hq1SKgFQRDNhtkWTlSGcW5lQQHJk6Q+OU4y4rmY=",
+          "py3"
+        ]
+      }
     }
   },
   "super-inference-uria-levkovitz": {
@@ -148932,6 +149054,18 @@
       "wheels": {
         "tsaugmentation-0.5.13-py3-none-any.whl": [
           "V2hTVBhNVkvtBda4n16e2H7bzLAQpdZbmyo5NKn4v5M=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.14": {
+      "sdist": [
+        "q7UWszSfw0MtLMRpw5Em/SATX9it/h3fWj8ZLQ51X68=",
+        "tsaugmentation-0.5.14.tar.gz"
+      ],
+      "wheels": {
+        "tsaugmentation-0.5.14-py3-none-any.whl": [
+          "2Jo13nhuGjSLcHzp40baoiiuEd041/WM2V+FYD4l8xE=",
           "py3"
         ]
       }

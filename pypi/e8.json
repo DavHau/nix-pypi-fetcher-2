@@ -67012,6 +67012,18 @@
         ]
       }
     },
+    "11.0.0a12": {
+      "sdist": [
+        "+USOjCMxL2lMHGHLMXZ4sYNZvXQBpm0R4C20d8H1wI0=",
+        "LHCbDIRAC-11.0.0a12.tar.gz"
+      ],
+      "wheels": {
+        "LHCbDIRAC-11.0.0a12-py3-none-any.whl": [
+          "Alf9BdkcFhyXLHEbEDoIuyNvZjai83FYJMvBZUZZ64Q=",
+          "py3"
+        ]
+      }
+    },
     "11.0.0a2": {
       "sdist": [
         "DcLoYGfHziu1I5IvMjBGAfWPIXOiwOcWSjuKPthuq+4=",
@@ -89078,10 +89090,10 @@
         ]
       }
     },
-    "1.2.17": {
+    "1.2.18": {
       "wheels": {
-        "neofti_ticsummary_domain-1.2.17-py3-none-any.whl": [
-          "R4adv6FDxoHK5UiD3cfuSjAFb4s20Zvcrxya7lHwMQc=",
+        "neofti_ticsummary_domain-1.2.18-py3-none-any.whl": [
+          "H0fOdIeh5d8rRSUKKou8GIPkL4C7x3FRFP9d8zdnMD8=",
           "py3"
         ]
       }
@@ -110657,6 +110669,18 @@
           "py2.py3"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "EdpHtwJOhhbXSueGy+H4dnyQl9CXv01tqKXQJPfzKyc=",
+        "pyobjc-framework-AudioVideoBridging-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_AudioVideoBridging-9.0.1-py2.py3-none-any.whl": [
+          "H5uUOAu/p8yCqCzcB4+NeKVypd6+/nNDVx/dQFDC5us=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjc-framework-screencapturekit": {
@@ -110820,6 +110844,38 @@
         ],
         "pyobjc_framework_ScreenCaptureKit-9.0-cp39-cp39-macosx_10_9_universal2.whl": [
           "bsHMG5N9xc8kZ4d5HziK1fdJFgXvu1CR+NeGuOF8r10=",
+          "cp39"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "T8C1cBtpziGKV0dJ31YeCRs6NvU0UO1mOGxurCyNHHs=",
+        "pyobjc-framework-ScreenCaptureKit-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_ScreenCaptureKit-9.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "3vwHY7zGJ0iFRsidHxcUepQW35GKDrfOaEbz1Ixt7R8=",
+          "cp310"
+        ],
+        "pyobjc_framework_ScreenCaptureKit-9.0.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "Rd+qosqyY7TyeZ1DKc2QYvKMUUZtEgFSIltF2CyoeCQ=",
+          "cp311"
+        ],
+        "pyobjc_framework_ScreenCaptureKit-9.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "M5ZKNIScyqu0HPrMlpKQ88RfStbII2J0Wvo9tNeT61k=",
+          "cp37"
+        ],
+        "pyobjc_framework_ScreenCaptureKit-9.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4gVXWcPcprnWd412P+e+vcYnh7H419Ucc7gd1Y4LYz0=",
+          "cp38"
+        ],
+        "pyobjc_framework_ScreenCaptureKit-9.0.1-cp38-cp38-macosx_11_0_universal2.whl": [
+          "N3qECFsDbg+asmjvBYe+ATKFqPMlTxb0rzf6qgDVi7g=",
+          "cp38"
+        ],
+        "pyobjc_framework_ScreenCaptureKit-9.0.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "UZRg9akF7PLYR1ix/giV3vSGDLOyQQqkeuGeHzZrCFk=",
           "cp39"
         ]
       }
@@ -121132,6 +121188,12 @@
       "sdist": [
         "/0Jio9gxLO5CLqaBg9tTinyRng7qR1e2I8EOw9a21rg=",
         "reefledge-1.5.2.tar.gz"
+      ]
+    },
+    "1.6.0": {
+      "sdist": [
+        "XC2C7crRHQQYp4wu8r9WGFjV9+/8v8Wq6927L6XYQZc=",
+        "reefledge-1.6.0.tar.gz"
       ]
     }
   },
@@ -150836,6 +150898,18 @@
       "wheels": {
         "torcheval_nightly-2022.12.18-py3-none-any.whl": [
           "ZUd2/Fo2C2PiMvaFx35CKZ3pbOKMmXS1w+34cWm27g0=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.19": {
+      "sdist": [
+        "kUhrSesgjMNslXuaPULDbCKA+y5O1MclIUDh5LOEPtI=",
+        "torcheval-nightly-2022.12.19.tar.gz"
+      ],
+      "wheels": {
+        "torcheval_nightly-2022.12.19-py3-none-any.whl": [
+          "fietIzrGeYwMcatR1JXe3SWr5JRRPUIDcoldHtrhSeE=",
           "py3"
         ]
       }

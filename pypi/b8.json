@@ -16949,6 +16949,12 @@
         "KzMjTtjZ6XCjfhphFWYIasW3ueQcCCnCi2PpEy1vQMg=",
         "bubbleio-0.5.1.tar.gz"
       ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "WMuPLzazLd5M5rnY8aw1MW2K14sIWNP415OeIdhQTKg=",
+        "bubbleio-0.6.0.tar.gz"
+      ]
     }
   },
   "builddsl": {
@@ -47904,6 +47910,14 @@
         ]
       }
     },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkeg-3.1.17-py2.py3-none-any.whl": [
+          "T/8NoIjZZyRF8IVtBQYa1FnOayc3SUjLDmWZH1bgpMI=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkeg-3.1.2-py2.py3-none-any.whl": [
@@ -48462,6 +48476,14 @@
       "wheels": {
         "huaweicloudsdkfrs-3.1.16-py2.py3-none-any.whl": [
           "IpefHZSkeVWCbZr42NpXPNvilZMoUqutv9Dx1IEQ62A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkfrs-3.1.17-py2.py3-none-any.whl": [
+          "3/++Vh9M3oL/aUQ9lljLB6d24DzvGJwKj5PMUTntfbA=",
           "py2.py3"
         ]
       }
@@ -62444,6 +62466,30 @@
       "wheels": {
         "mathgenerator-1.2.2-py3-none-any.whl": [
           "n+zgJafpt9K39idJgvNWYy7A8U7e1Q0SSoCZGtzmLLI=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "K1H8KJKjTsm+/1qtLVdfylps/eWy8yVayMrRUsKJ7KQ=",
+        "mathgenerator-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "mathgenerator-1.2.3-py3-none-any.whl": [
+          "ZmiDIlRqOYevvCmPicM4+cL9IK8J1845iVw5/EPMc5A=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "CArebTcGorTCDtteWRsu9DZckjItpy2VWq86+vWLt8M=",
+        "mathgenerator-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "mathgenerator-1.3.0-py3-none-any.whl": [
+          "yvtpuyfVXnvq4uiG2DDCzBqMoHsbElQWJ74BoiufP34=",
           "py3"
         ]
       }
@@ -106283,6 +106329,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "OQ/5UG3RySheJ7qNFsHQNwYs7KnSejqy1DJtotpQ4kg=",
+        "raumo_data_tools-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "raumo_data_tools-0.1.4-py3-none-any.whl": [
+          "qRPipCtVySPeXW3S0bIeGNrJsj0yxQH8muB8Qr+RKUs=",
+          "py3"
+        ]
+      }
     }
   },
   "rbco.wfdocumentator": {
@@ -126462,6 +126520,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.6.0.dev20221218-py3-none-any.whl": [
           "RRIW/Z4wInh8KFi3SWgwnEEorc/kw6JU2EPGnFgQVy0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.dev20221219": {
+      "sdist": [
+        "V735ol2H0ht3M2fGio9esw6OAJS9DZ6XWIC5GWjHW0s=",
+        "tensorcircuit-nightly-0.6.0.dev20221219.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20221219-py3-none-any.whl": [
+          "Vs7cYjuzAqyAF6GTn+2J2ElWzbT+THlBMq8HW7RyAJM=",
           "py3"
         ]
       }

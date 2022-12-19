@@ -48731,6 +48731,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.0b7": {
+      "sdist": [
+        "GD35hrtXrf+7mXYTtfIe5s/ckCz7UCdbwD5sLFI0BO8=",
+        "fractal_server-1.0.0b7.tar.gz"
+      ],
+      "wheels": {
+        "fractal_server-1.0.0b7-py3-none-any.whl": [
+          "4PM9mcH0fMMghS6ELXw/qvpqc8bY9uu179fMpd8Vrmw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0b8": {
+      "sdist": [
+        "aaMw8DGLymxgnh7WreRvryQ251xYcj2Zw0RtTQLtGj4=",
+        "fractal_server-1.0.0b8.tar.gz"
+      ],
+      "wheels": {
+        "fractal_server-1.0.0b8-py3-none-any.whl": [
+          "cRw7ME4Ev8+ay3lPSnbFO9GMXOauJOjmiX2eyorK3+w=",
+          "py3"
+        ]
+      }
     }
   },
   "fractaltools": {
@@ -60136,6 +60160,14 @@
       "wheels": {
         "huaweicloudsdkservicestage-3.1.16-py2.py3-none-any.whl": [
           "IqU8ZxtARWpMYVYaYcs3VNkpPYg41wYndhegGCavJMo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkservicestage-3.1.17-py2.py3-none-any.whl": [
+          "Rl2P1MkG/JtEzmPlnMnxL0zn52gUOXuXUQ2Szn81aQQ=",
           "py2.py3"
         ]
       }
@@ -116331,6 +116363,26 @@
           "cp36"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "IWcxOIyFotjQC22QReRje1N1yHd/5ZeV7djpGgyyxKo=",
+        "pyobjc-framework-CoreML-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_CoreML-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "wjaMJSA1CfR2X1Eq/k3t7J6vOaIM6Vwv6O9+3XV4FbI=",
+          "cp36"
+        ],
+        "pyobjc_framework_CoreML-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "H1KzMk/KglsMiePio0MqOargv03Rf3uJwtDPX9+2dhA=",
+          "cp36"
+        ],
+        "pyobjc_framework_CoreML-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "ToWGt4tA1i86oOcxzElKOfNCxnRiZlm8/Pa7Bd4tVHM=",
+          "cp36"
+        ]
+      }
     }
   },
   "pyomatic": {
@@ -123581,6 +123633,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "Jn/qcZyWsK7W909ovt7H3gnuH3K33GQ5+Gb+ldCthv0=",
+        "quito-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "quito-1.0.3-py3-none-any.whl": [
+          "KMPQKrnRsdC5/iHWyHViXtGzLmtuaTYuMGO3gM984QA=",
+          "py3"
+        ]
+      }
     }
   },
   "qunitsuite": {
@@ -127016,6 +127080,74 @@
         ],
         "robotpy_commands_v2-2023.0.0b7-cp39-cp39-win_amd64.whl": [
           "H5oCzFdl2DuvVTzKUpHiDfa7N4GJtndnnDdz5jLGrsE=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.0.0b7.post1": {
+      "sdist": [
+        "diVMoDmdS9lbmUw+glRS2sUlA6xPcDG9k6JOe1vyzy4=",
+        "robotpy-commands-v2-2023.0.0b7.post1.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_commands_v2-2023.0.0b7.post1-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "49fXkOlc+7DwZxPlzFYHMf++7PgUUCa1WuwbA9WwIPw=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "zSO+EQnWwvCV8GsJaKJY5n8wV6wpMCn5BSJoe5m2Ofc=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp310-cp310-win_amd64.whl": [
+          "qpbKpRVy6nNbhQuKl47oO+aeW0A/1PS8FFZXKmOSe68=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp311-cp311-macosx_11_0_universal2.whl": [
+          "X/+3b8wET2/5KxVhBQIPReJSAAyO+erKf8fkRv7Kjk4=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "aZTVxxA1odBdNp8bMqZsAVjK8OzCOwvzfIOzUu1gcoU=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp311-cp311-win_amd64.whl": [
+          "gM4cvC0LMS0KWqUVOhWOZz7JCZjrqCtN7p07IRfJbXA=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "apobco5BBZbtaar/UDu5IKHIwym+X64jOMEQsGMtNIE=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "4JfuAPSsqk5sPcfRCu/tFLDQCrCc08nKUIq8u/D29oo=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp37-cp37m-win_amd64.whl": [
+          "EzI8895a10PElWu6ZXN3zmAxryEKjCyMyeknWho8JqY=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "BCLeA9qOP5crXRJTItf/x9m3Ui+BrWxj4htCvkYnxFI=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "ZIefIk4v08MjtONT4DlZjMktTShQ+YD2XsqkeKvBo5o=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp38-cp38-win_amd64.whl": [
+          "N+L4jMJaizxbVH9xZsLgl5pRybeTxQk0mZ7T3H/O/gI=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "qxZsNUds18Q6tQnHmIm+IeY3LZM22cwUtJrbJVHXomc=",
+          "cp39"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "DmD2WxKFejZ/ra3j7Sl9DwQaaiAtFghwOu/KL67F73E=",
+          "cp39"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post1-cp39-cp39-win_amd64.whl": [
+          "LVRi0VI0j1EmjGJjrV8uL5tvhJQfVN6dpijKB5060pA=",
           "cp39"
         ]
       }

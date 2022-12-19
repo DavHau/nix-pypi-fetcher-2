@@ -28930,6 +28930,18 @@
         ]
       }
     },
+    "0.14.9a3": {
+      "sdist": [
+        "g9xAzPl2V79lXbKMHI9//6uT/4kcM8zqLJ/kItzGwec=",
+        "Diofant-0.14.9a3.tar.gz"
+      ],
+      "wheels": {
+        "Diofant-0.14.9a3-py3-none-any.whl": [
+          "ZXBlx/RgtbSdbnIuRX1Zxdw2LEPiZJ64h0qPuij6ZIs=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0": {
       "sdist": [
         "lDXUOHGOJh54px2hWCkGQ7Jrkb9srxj7BwkAS8poNTo=",
@@ -43098,6 +43110,18 @@
         ]
       }
     },
+    "1.1.12": {
+      "sdist": [
+        "MfKcNKMZFu92cuS52SzQShZmRjj+vLqnS/C/w8TSrZQ=",
+        "freedomrobotics-api-1.1.12.tar.gz"
+      ],
+      "wheels": {
+        "freedomrobotics_api-1.1.12-py3-none-any.whl": [
+          "4LdpyDNHKLlc+xG4MPPdTVTolpWfwTmozC0UUNIc9Z4=",
+          "py3"
+        ]
+      }
+    },
     "1.1.2": {
       "sdist": [
         "/JjAB6CRn3juXvXggYgFOjn6jJkcCSqpOu29Q6r/I44=",
@@ -56940,6 +56964,14 @@
       "wheels": {
         "huaweicloudsdkdli-3.1.16-py2.py3-none-any.whl": [
           "nwY0QjXO9TxP+zVxHD1IgN2USynYele+526tsBiPKkQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkdli-3.1.17-py2.py3-none-any.whl": [
+          "v7ETpXwb1x8b6Rtgl0q8aOSZOdCfCuOkW25i+wEqS6g=",
           "py2.py3"
         ]
       }
@@ -105183,6 +105215,20 @@
       ]
     }
   },
+  "pss-pywaapi": {
+    "1.0.0": {
+      "sdist": [
+        "YrREpf7iMu+PcQMKmFjGMI1iJeCLaQVnX+EJ2RyO92E=",
+        "pss_pywaapi-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pss_pywaapi-1.0.0-py3-none-any.whl": [
+          "QsTfdtNBderQIZo+iclrDQH+cQHEDYkaBaSV6akeiaU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "psycopg2-pgevents": {
     "0.1.0": {
       "sdist": [
@@ -111217,6 +111263,18 @@
           "py2.py3"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "H8r0g8C61QNjsDzBVLMuZq26uRFRo4VgUeayVw+omQw=",
+        "pyobjc-framework-IOSurface-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_IOSurface-9.0.1-py2.py3-none-any.whl": [
+          "wGyUuKaTUKn11t+tY7cBg4e52Qyw0syQlCr61e0EmzQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjc-framework-launchservices": {
@@ -111738,6 +111796,18 @@
       "wheels": {
         "pyobjc_framework_LaunchServices-9.0-py2.py3-none-any.whl": [
           "6Ub+Lavc0AcEnC3TC3s3N52hgFRGx9s7n8tbxyRPanA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "1EjnmQ8OAJlL+i65wUE8Wj4H/shN1/rPq+EWLy44pl8=",
+        "pyobjc-framework-LaunchServices-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_LaunchServices-9.0.1-py2.py3-none-any.whl": [
+          "gVE8t2dmn/Qy4GLEH+zvh1MaAGue/VNAJvY1Fc2U7PI=",
           "py2.py3"
         ]
       }
@@ -141385,6 +141455,46 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221218": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "SneXslanv9B5AGVU79xLEwV/hveiEDw7Kzmjex+Jc20=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "qZkrDxZ/u2Z49DiILcOySD7IcAzHIcdDXhyDXvtPeWM=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "cn4fSQMpYgk7vHBpRwgoEYP/D+64H4BO8J7MqIasS+o=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp38-cp38-manylinux2014_aarch64.whl": [
+          "sCMurRlHoQDPFNtjAO0MKIua3ZYawW1QlfvEl80anQU=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp38-cp38-manylinux2014_armv7l.whl": [
+          "QQVPlr2lbvqdDh+RHA3OzaVYJ9LazSECdyAemrGnXmU=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp38-cp38-manylinux2014_x86_64.whl": [
+          "nk2E0cQZeRbHeXNXU4yoRL6Q6yG02P+DWLqIkaOC23E=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp39-cp39-manylinux2014_aarch64.whl": [
+          "C/uou4pbVKpMpOZJQ3fblaj76ImMSvUcA+0ov8yETXQ=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp39-cp39-manylinux2014_armv7l.whl": [
+          "zcAWuYsKF2Ln2g1g+E9Gq73pUwcn8bZ6e7WEtmokZg0=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221218-cp39-cp39-manylinux2014_x86_64.whl": [
+          "ZeHcf/UhTWeWQKSE5nAzYuRjUsCsbdJHEdMhI3sDNok=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfset": {
@@ -161528,6 +161638,18 @@
     }
   },
   "zarabaza": {
+    "0.0.10": {
+      "sdist": [
+        "s4+6qpQhWhe4bGJf0ewHhb+WODXOpAiscFortM9rE/Q=",
+        "zarabaza-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "zarabaza-0.0.10-py3-none-any.whl": [
+          "rrkFVW99r0UeXi0p7r9pNJBe+3ZogMUhVFvkDW5gfwc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "erdKDRLsLgnMunjDkpZNk102v84DVfo0/acb9IUZgmU=",
@@ -161560,6 +161682,18 @@
       "wheels": {
         "zarabaza-0.0.8-py3-none-any.whl": [
           "cJD0IL/GsqDDDOd1Zss0+lQiiVNCNotWRB6retI3dD4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "IEghhh8HIJiwdGNBl66bq7IYAcVCA7lmiQzc+XsjmEk=",
+        "zarabaza-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "zarabaza-0.0.9-py3-none-any.whl": [
+          "W1SlPN/ot+5asNr4nx6bBMvnPzODZeGBEOt1HPrzZZY=",
           "py3"
         ]
       }

@@ -72167,6 +72167,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "p4Sy769zg9pDj/PoCwqcOCHqu+PTF+s1MMbNReMXO4I=",
+        "lookpin-pyspark-pkg-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "lookpin_pyspark_pkg-0.0.5-py3-none-any.whl": [
+          "h84xQbWuA333g73xZzsPxOEFEG7+IXyuv9Jec8NYw6Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "8Cv2Htx76R7XKl51uem/0JOQIZqrlmzDjrkos83Seag=",
+        "lookpin-pyspark-pkg-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "lookpin_pyspark_pkg-0.0.6-py3-none-any.whl": [
+          "rgy33BRvzrQ+0ZKJsIn/84FlQdy0ytCcctYRp/aO0JI=",
+          "py3"
+        ]
+      }
     }
   },
   "lora-modem-abz": {
@@ -100569,6 +100593,18 @@
           "py3"
         ]
       }
+    },
+    "4.2.1": {
+      "sdist": [
+        "TeESRRmqIS7tBoLEuLpAN8GIFQBPqfvlZnm+iWJx4SM=",
+        "OpenFisca-France-Local-4.2.1.tar.gz"
+      ],
+      "wheels": {
+        "OpenFisca_France_Local-4.2.1-py3-none-any.whl": [
+          "WLUQxNKWWHAFbas+20C9relrPG2X4bJgJ903EosmiUM=",
+          "py3"
+        ]
+      }
     }
   },
   "openimis-be-policyholder": {
@@ -116683,6 +116719,18 @@
           "py2.py3"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "LMVt3+y2xEY6bLg6QFoe5XscsAimvFKcqVgkFjzJPtA=",
+        "pyobjc-framework-CloudKit-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_CloudKit-9.0.1-py2.py3-none-any.whl": [
+          "LpJRak78vCaWgmDSNoPXZBsIhmqIGz05FIbCS/gadX0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjc-framework-discrecording": {
@@ -117346,6 +117394,26 @@
         ],
         "pyobjc_framework_DiscRecording-9.0-cp36-abi3-macosx_11_0_universal2.whl": [
           "9vzrTV1wJTgn0mA1cacdEeTG2vK3KOJrWcNVnDMeJS8=",
+          "cp36"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "Bt75gejCXmxR6JGO7ftW+pg/K3Hxx65DpU+EQW3HXWk=",
+        "pyobjc-framework-DiscRecording-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_DiscRecording-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "nalKtDcO1bXYHgerYmx/pJewCeLW0pGMCWJj3q15fGo=",
+          "cp36"
+        ],
+        "pyobjc_framework_DiscRecording-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "DHknMHdyC8C8Gk92yjqO4vbMzB53/Dm/krk1x4v2y5E=",
+          "cp36"
+        ],
+        "pyobjc_framework_DiscRecording-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "f2GjVqHgt/mMIBRxRoPsGh5pqRZLCNSPosT72vBbKY4=",
           "cp36"
         ]
       }
@@ -134529,6 +134597,110 @@
           "cp39"
         ]
       }
+    },
+    "0.9.0": {
+      "sdist": [
+        "jcNYghWR9Xbu97/hAYe8ewa5oMQ4ofNGFwY4cY7/EmM=",
+        "spacy-alignments-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "spacy_alignments-0.9.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "7Ec8ragrsm0JeiAPIDFxmf5udZWqmSK7UG9//8a0v8U=",
+          "cp310"
+        ],
+        "spacy_alignments-0.9.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "cQcwDxO/SPhMvLidgVYhVQP56bn1Vs2lJaa0WhoTh38=",
+          "cp310"
+        ],
+        "spacy_alignments-0.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "JYkLsVXt8a9oRXJ3ZnChxU3PqcS2981hGR3sVSyY3aY=",
+          "cp310"
+        ],
+        "spacy_alignments-0.9.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DdAG162xixoJAkQJy9firJryosdrmonDT7ssgINvH5Q=",
+          "cp310"
+        ],
+        "spacy_alignments-0.9.0-cp310-cp310-win_amd64.whl": [
+          "waW+CktTtE1veq0lWzoq5Qzl9cILzC8pnOk020w5FZE=",
+          "cp310"
+        ],
+        "spacy_alignments-0.9.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "mrpeoRMwZwrYQWFUEQx7gsGHJtQZ5aSJ7K7uWlA80Qc=",
+          "cp311"
+        ],
+        "spacy_alignments-0.9.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "AIobY9RxnuaTWYXfDVffStcK8hCqyEoDh/FPSuhO5oE=",
+          "cp311"
+        ],
+        "spacy_alignments-0.9.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ezmAs7SaigWcu0B3DtF6WTPVfltkCKXIeIF/+sU6IwY=",
+          "cp311"
+        ],
+        "spacy_alignments-0.9.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wHNxuCXKJvBZWfvQDGMIVMmEr6SLRd/dYDzTbjGfKZk=",
+          "cp311"
+        ],
+        "spacy_alignments-0.9.0-cp311-cp311-win_amd64.whl": [
+          "zI19oo1LT/jRJIT4h4vYit88jEoo50gZaCmn+aQYXP4=",
+          "cp311"
+        ],
+        "spacy_alignments-0.9.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "VaE1hgyMzqyFxUyGsmtBM78c+TpLUm38zD/Y5O5U4lo=",
+          "cp37"
+        ],
+        "spacy_alignments-0.9.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vWpF2zyWxZwTevDS0aocoVyq5f5kAASyETlAtMqpd/w=",
+          "cp37"
+        ],
+        "spacy_alignments-0.9.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7xVYyNz+CMWKSnBD6ggqqPFZ9fI9Zhu8TA0/K/okvYY=",
+          "cp37"
+        ],
+        "spacy_alignments-0.9.0-cp37-cp37m-win_amd64.whl": [
+          "XR75zRQm689Ny7Ig/3Rttyomd4xKwH7NOYHERHCQRnU=",
+          "cp37"
+        ],
+        "spacy_alignments-0.9.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Fq7XJiTh1lxpuwsYPnL8dd3mDFkKqUyjENYGeBW5TIY=",
+          "cp38"
+        ],
+        "spacy_alignments-0.9.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "j4+Ga8UaVqHih9Gpg/tSo7VcOVo8TySJbRk3c5d8Zbc=",
+          "cp38"
+        ],
+        "spacy_alignments-0.9.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hpQ/ge49yeuqB9dFuZa18kMqaeochf/yCcdyz1QTVMg=",
+          "cp38"
+        ],
+        "spacy_alignments-0.9.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BbxY34LTEDlemA4Z90/ZFJBhEx6yUgiJORSG6hidCjM=",
+          "cp38"
+        ],
+        "spacy_alignments-0.9.0-cp38-cp38-win_amd64.whl": [
+          "qtGy6U6Dfr/OIA24YuG3pTUmIK8LtbmQpBsyDlnc4js=",
+          "cp38"
+        ],
+        "spacy_alignments-0.9.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "SxHlbrmm1yPbeR0W8R1hfS+cP0LARKABzX+wnRHlcDI=",
+          "cp39"
+        ],
+        "spacy_alignments-0.9.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "TM8TidIvRyF/D1e6iL6WZVLWvv3J+AR/LsncRCkzeBw=",
+          "cp39"
+        ],
+        "spacy_alignments-0.9.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gcbZFFp6XWJ9mNe3x1urNE0+KMKcxSLluIVXw1qHDxQ=",
+          "cp39"
+        ],
+        "spacy_alignments-0.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Xg2+w5yhxJAsa+Xzb5U5DYlnAeS2FtC5JUjwdjoLFbA=",
+          "cp39"
+        ],
+        "spacy_alignments-0.9.0-cp39-cp39-win_amd64.whl": [
+          "itMnA3NXTWd3W8EftuFxqSIo+zRp9A9GiKB/1i5TO88=",
+          "cp39"
+        ]
+      }
     }
   },
   "spark-job-tracker": {
@@ -143600,6 +143772,30 @@
       "sdist": [
         "8vxW7HE0ACZDnsGjJc8fByC81UQfuYAliyLbXwyYaRU=",
         "trialzen_dash_pivottable-0.0.57.tar.gz"
+      ]
+    },
+    "0.0.59": {
+      "sdist": [
+        "hPt58OI6fg32ZmTzxu7kUF6gjPkEIIP3P6mwu+moStc=",
+        "trialzen_dash_pivottable-0.0.59.tar.gz"
+      ]
+    },
+    "0.0.61": {
+      "sdist": [
+        "7H2qJ4gFVrqt6zAAZtS58j6hu7s5fMbIm/UIuHqYUGw=",
+        "trialzen_dash_pivottable-0.0.61.tar.gz"
+      ]
+    },
+    "0.0.62": {
+      "sdist": [
+        "peXN6FsSYBILUcUfJbv39gBIK3vogLIsfuuGiZL1MVQ=",
+        "trialzen_dash_pivottable-0.0.62.tar.gz"
+      ]
+    },
+    "0.0.63": {
+      "sdist": [
+        "ebLmotrj2uzxP5KDKqTEqJpjI9Q5efsmv1kf+zKaavo=",
+        "trialzen_dash_pivottable-0.0.63.tar.gz"
       ]
     },
     "0.0.8": {

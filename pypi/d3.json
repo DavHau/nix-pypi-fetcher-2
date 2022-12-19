@@ -22384,6 +22384,18 @@
     }
   },
   "cfhl-oasis4": {
+    "1.0.0a10": {
+      "sdist": [
+        "3LYrHVgwkqSgbltZjfSu776YgC3ZNHzH9d747jiL6+E=",
+        "cfhl-oasis4-1.0.0a10.tar.gz"
+      ],
+      "wheels": {
+        "cfhl_oasis4-1.0.0a10-py3-none-any.whl": [
+          "rPPZHqFEWVTzyRgUDM2WgZ5BSjI+SoEZV1dU3UxBDMQ=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0a9": {
       "sdist": [
         "nyq2r2lVQcgXWnp30xYx1tjfiqmFYU/4Q8JPSFlBUhU=",
@@ -29408,6 +29420,18 @@
         ]
       }
     },
+    "0.3.74": {
+      "sdist": [
+        "qTRUcvMhYOxKEbxUm51sHW8sWYn2FGZYvguI4O/WFo8=",
+        "cortex-data-product-sdk-0.3.74.tar.gz"
+      ],
+      "wheels": {
+        "cortex_data_product_sdk-0.3.74-py3-none-any.whl": [
+          "EQ2J7TGtWZJi9TED/nHdeQoBrpNZcdh4apLG7fPXIQE=",
+          "py3"
+        ]
+      }
+    },
     "0.3.8": {
       "sdist": [
         "1i9Amo+bVahh6xgJKI6RuadIpZvReQtRrcODkHoAYKY=",
@@ -34012,6 +34036,18 @@
       "wheels": {
         "dawgie-1.4.0rc7-py3-none-any.whl": [
           "XrBTH+XjMecGXOmPDjCq26Z7Zq7laJrepaEPGKsYoG4=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0rc8": {
+      "sdist": [
+        "tGSJLWGLf+SOegiONedHI5tcxulD8njWboEP9tZ68Wc=",
+        "dawgie-1.4.0rc8.tar.gz"
+      ],
+      "wheels": {
+        "dawgie-1.4.0rc8-py3-none-any.whl": [
+          "Nblg9Xd0Ya4/sJCpgQycP/xdEnyJMgEu+DveJK4Ofw4=",
           "py3"
         ]
       }
@@ -93647,6 +93683,18 @@
           "py3"
         ]
       }
+    },
+    "7.2.7": {
+      "sdist": [
+        "i3J7BQO/Tg/zkHyL6gMNP8QBX77oZprGrCpaZmi0nV4=",
+        "nbconvert-7.2.7.tar.gz"
+      ],
+      "wheels": {
+        "nbconvert-7.2.7-py3-none-any.whl": [
+          "4Ffx+HpqxQYptyTZpGtA4ro5TW8g7n8z9KzvGSihWvM=",
+          "py3"
+        ]
+      }
     }
   },
   "nbtemplate": {
@@ -94116,6 +94164,30 @@
       "wheels": {
         "neclib-0.16.1-py3-none-any.whl": [
           "9pVRlIXlx/S78rd3RNOdz1isw4imVxvlPAMk9XlvhPA=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.0": {
+      "sdist": [
+        "L4nO2/yi2K3WxAmIT/Hlw7FTtbcOCP+/XdiiilDY9Z4=",
+        "neclib-0.17.0.tar.gz"
+      ],
+      "wheels": {
+        "neclib-0.17.0-py3-none-any.whl": [
+          "obsPUic1hsF28F4WfPE5c9bsxoTVUSKlgGVOd6g1krI=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.1": {
+      "sdist": [
+        "i+3tzC38PnKSdxcYdnupW65wySwV1DbJwsSCz5B8084=",
+        "neclib-0.17.1.tar.gz"
+      ],
+      "wheels": {
+        "neclib-0.17.1-py3-none-any.whl": [
+          "YObfiFEMvB9DP203UvXY+Ge6EsQ3AOdMn3ffBJTHyN0=",
           "py3"
         ]
       }
@@ -115424,6 +115496,38 @@
         ],
         "pyobjc_framework_CoreText-9.0-cp39-cp39-macosx_10_9_universal2.whl": [
           "tsF+/ifCMi6S4j8NWAQDbzPgKw14g/FkIDmk8ux7gME=",
+          "cp39"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "ASi2NgpJKiplYPNq5PtyGZG1RfrtTaHas2ZNjtIINnY=",
+        "pyobjc-framework-CoreText-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_CoreText-9.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "VBEK6bIdsedDAti6JF/r4hrg82ayUZdzmsYsMd/SV+s=",
+          "cp310"
+        ],
+        "pyobjc_framework_CoreText-9.0.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "dJs1LhrjX5S5sQ48QdMZRkjS7qMKgQPIb2IY/7nW9N4=",
+          "cp311"
+        ],
+        "pyobjc_framework_CoreText-9.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "50opVpOuEajzM+qU5765MPH/7EZVSdhgupqX8GWNHEI=",
+          "cp37"
+        ],
+        "pyobjc_framework_CoreText-9.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "WvJ3ULX2we5ZUsBJQFYVY88iwLau3ZLrjASwgATvlTE=",
+          "cp38"
+        ],
+        "pyobjc_framework_CoreText-9.0.1-cp38-cp38-macosx_11_0_universal2.whl": [
+          "+T8Nge3C+tMuyZe/qHyuMTdXHdLEco8+pSmZecUIEIM=",
+          "cp38"
+        ],
+        "pyobjc_framework_CoreText-9.0.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "zvEU41LDQEtX6+yam3hgB1RJTM8q092cbCnb9VNwEmk=",
           "cp39"
         ]
       }

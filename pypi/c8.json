@@ -44698,7 +44698,25 @@
       "sdist": [
         "jVTgHAW8XwhRnLKutBGb0ikSCjRYGmKi8i+zKyXkk7U=",
         "elixir_server-2.1.0.dev0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "elixir_server-2.1.0.dev0-py3-none-any.whl": [
+          "yPYQMHtZ5cqucnO48ggbYZTPYnMr6BwraRsUUyLdczQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.dev1": {
+      "sdist": [
+        "f0dQm7S4A4ZrKmlJE0wQtaWnxvjWKBFlM26kgAkeR+4=",
+        "elixir_server-2.1.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "elixir_server-2.1.0.dev1-py3-none-any.whl": [
+          "XIs9o7KCgSFnsi6JasWLzh5MTYqLTnmzSCfiRtD/gNk=",
+          "py3"
+        ]
+      }
     }
   },
   "emailtoolspython": {
@@ -61937,6 +61955,20 @@
         "S7CaTCvihHff5cQ6R2HjEKFccAeASk9AHfiCxLHpzcg=",
         "irt_parameter_estimation-0.4.0.tar.gz"
       ]
+    }
+  },
+  "isaai": {
+    "0.1.0": {
+      "sdist": [
+        "vXLgZAh3dCr4175wW4Pqkum2t1JmdlEgGxcF3zkT29g=",
+        "isaai-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "isaai-0.1.0-py3-none-any.whl": [
+          "TA6EBMz4EQIDY7N9Dw5/2peQe53kVIIbll5iPE/KTTY=",
+          "py3"
+        ]
+      }
     }
   },
   "isar-robot": {
@@ -104315,6 +104347,16 @@
       ]
     }
   },
+  "odoo-addon-attachment-zipped-download": {
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_attachment_zipped_download-16.0.1.0.0.2-py3-none-any.whl": [
+          "80xPrxyFG3IxzIGS+mGSdh3ibrWOasOwZGhiWs/RIEw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-project-task-material": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -126266,6 +126308,38 @@
         ],
         "pyobjc_framework_FileProvider-9.0-cp39-cp39-macosx_10_9_universal2.whl": [
           "P+Bd3txNr3PRwAyWhIq22BNPyJR6oeBeRNNjowkeDNE=",
+          "cp39"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "gEBc4UbiVWo2o5GPf6N9YJBdkzhIPLBSFBWhDf+2An4=",
+        "pyobjc-framework-FileProvider-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_FileProvider-9.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "y8fkJJFr2eLHNrYanYGfWbO43k+V3rrybnZsl/jSTvg=",
+          "cp310"
+        ],
+        "pyobjc_framework_FileProvider-9.0.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "RNiSOMjZQTs/bHJs66LCuUYqhHQpy0HuRWQCgQTHp50=",
+          "cp311"
+        ],
+        "pyobjc_framework_FileProvider-9.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "KEvbgtwNPDtB0khpHE4qj/Dugglwzyw1n2qgtxCuX1g=",
+          "cp37"
+        ],
+        "pyobjc_framework_FileProvider-9.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "sc9o2+EQG6IVFB+No/WKFMoLjy+qhrmtgbtU420K/A4=",
+          "cp38"
+        ],
+        "pyobjc_framework_FileProvider-9.0.1-cp38-cp38-macosx_11_0_universal2.whl": [
+          "/5FrexC8TmgBgnZFb9ls6yDnrNDq/UkshK3db5akje0=",
+          "cp38"
+        ],
+        "pyobjc_framework_FileProvider-9.0.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "pGpFwCqEils3LH9zodpzlofOzOzWYBbPj6BHaAzD2sI=",
           "cp39"
         ]
       }

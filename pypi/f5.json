@@ -28865,6 +28865,20 @@
       }
     }
   },
+  "deep-q-reg": {
+    "0.0.0": {
+      "sdist": [
+        "VSdT8lCg4mZlSUS2Z1EnjQ+gE+piYqa6aL9pCCKhW8I=",
+        "deep-q-reg-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "deep_q_reg-0.0.0-py3-none-any.whl": [
+          "j2LvoxOO329k5aoFfi6QM6k3HcYGRIH1T72uK5vWAPU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "deep-sort-realtime": {
     "1.0": {
       "sdist": [
@@ -55214,6 +55228,14 @@
       "wheels": {
         "huaweicloudsdkugo-3.1.16-py2.py3-none-any.whl": [
           "zpVJatzwpjrLZ31snnfUcJIZOEJdJFFyy1g1kdA1SeA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkugo-3.1.17-py2.py3-none-any.whl": [
+          "VxKrr24BoMkBTBl1mtHiGbyRA8ts4R2GF7ns80GuR1w=",
           "py2.py3"
         ]
       }
@@ -117269,6 +117291,26 @@
           "cp36"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "mOyx57gCEBPt0pBcY9I9/VzqWMi6r2dxUGDISxIKLpU=",
+        "pyobjc-framework-Virtualization-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_Virtualization-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "ssTW7ZWEXaT85DRAaGsHyJ3Go7nUIl7Mgo6/e9ng7G4=",
+          "cp36"
+        ],
+        "pyobjc_framework_Virtualization-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "nAOFYBIshz5b04nySbpGO3ovb3tHJ3eq3QGKuDcEB8g=",
+          "cp36"
+        ],
+        "pyobjc_framework_Virtualization-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "H2Y6wGlNkXiMWrD6HdzW0XZPQx9FEGV1zmbFRnSdRQs=",
+          "cp36"
+        ]
+      }
     }
   },
   "pyokt": {
@@ -130718,6 +130760,12 @@
       "sdist": [
         "/tq/wj2I+hPgTIJWb4Wzryow8Rpm9sCaxjqmB2mwBPI=",
         "sendtomail-0.3.8.tar.gz"
+      ]
+    },
+    "0.3.9": {
+      "sdist": [
+        "ONVgwnEJlhnfcYHv3bS/2GleKy67x2ZF8UkvOrY94Og=",
+        "sendtomail-0.3.9.tar.gz"
       ]
     }
   },

@@ -3671,6 +3671,18 @@
           "py3"
         ]
       }
+    },
+    "8.0.0": {
+      "sdist": [
+        "BbHXYlwnl9Ynzann4xbpac783FbTzOfuYYfC5Xdw/9o=",
+        "ansys-optics-speos-grpcapi-8.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ansys_optics_speos_grpcapi-8.0.0-py3-none-any.whl": [
+          "HieHKKiWEbD2ByXt5PPHkNRScXRJ+XcS23YSrJybgfg=",
+          "py3"
+        ]
+      }
     }
   },
   "antchain-ak-5ea45460b65f4d169144dc74e621ec27": {
@@ -32842,6 +32854,18 @@
       "wheels": {
         "cluster_experiments-0.3.3-py2.py3-none-any.whl": [
           "cmQIh7by77H2lh5NYjS5dm6DBLEyCMNW1RuBBWvaKIs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "iSCfeebldDbNe3HFO1+fc4+Bx8ee3H7JX/puIHOFzVc=",
+        "cluster_experiments-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "cluster_experiments-0.3.4-py2.py3-none-any.whl": [
+          "ba7Tyw0C7j01RMNi9UzSJkV8MD/ZPOTNXmSHPRJCuM8=",
           "py2.py3"
         ]
       }
@@ -106864,6 +106888,26 @@
         ],
         "pyobjc_framework_Contacts-9.0-cp36-abi3-macosx_11_0_universal2.whl": [
           "lMlRl0abQjIN17/cVEVJahmiUz4UtqUREPYGpotn7Dg=",
+          "cp36"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "tY8SubQrHDMhXruQZjuORNUwAfLBaeiJAI3ccVs0nl8=",
+        "pyobjc-framework-Contacts-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_Contacts-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "Gci9vN0keLElUpubtJOlxUetSvbwPKK7dIDrEOVEaKM=",
+          "cp36"
+        ],
+        "pyobjc_framework_Contacts-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "HN9pAvvB+Mf7MfvTbmDkHhJktblxcm7ctt5Ogp0lyIw=",
+          "cp36"
+        ],
+        "pyobjc_framework_Contacts-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "21ES8sTb8HDRqYZlf7QMI+xs3qmLM+/0VN/zHdrs9r8=",
           "cp36"
         ]
       }

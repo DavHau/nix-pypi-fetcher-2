@@ -23419,6 +23419,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "DHiCvY8W9C1rJVdjLziUL+/YccmD8YzBOL6yeiWJxRc=",
+        "bvzframespec-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "bvzframespec-1.0.2-py3-none-any.whl": [
+          "3oZOlKgdq471lT0xUpZRCrW3XFeEf25txQSMmNwB39E=",
+          "py3"
+        ]
+      }
     }
   },
   "bx24-orm": {
@@ -32531,6 +32543,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "yyX2v3iqft4WG64GjB59Pjro8k33ixtBD/WMW+1hs1M=",
+        "dagline-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "dagline-0.0.6-py3-none-any.whl": [
+          "GaaXD/FO8YjSH06UJHRkibJnyAHJG9fkToiU0ONXPes=",
+          "py3"
+        ]
+      }
     }
   },
   "damilu2": {
@@ -40528,6 +40552,12 @@
         "duplex_tools-0.2.19.tar.gz"
       ]
     },
+    "0.2.20": {
+      "sdist": [
+        "4Kg1CRwHJvnZ+b25pm1SrMp/FQL0xBqhDQTZ3ZkB1Yw=",
+        "duplex_tools-0.2.20.tar.gz"
+      ]
+    },
     "0.2.3": {
       "sdist": [
         "pKbLHrzQAqIEmGZjGm96w/DyY3PSgtJyF7K55Dqspxo=",
@@ -45580,6 +45610,34 @@
         ],
         "epam.indigo-1.8.3-py3-none-win_amd64.whl": [
           "lH770gOW/H793/M8i59kTUQ++Vk5kwjvshTUxOXNA7s=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.0rc1": {
+      "wheels": {
+        "epam.indigo-1.9.0rc1-py3-none-macosx_10_7_intel.whl": [
+          "1jfPNNcdzrj4W9zi09UrI2ZlWLQVL+Lp7NNcAma7r+k=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0rc1-py3-none-macosx_11_0_arm64.whl": [
+          "mfFHi12/8Fhzh8RD0UeCTKrmpu3liVgpwx6BRUJw2ho=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0rc1-py3-none-manylinux1_x86_64.whl": [
+          "hfAPp0QYK4uqkcs5tWuhTPhQFJT5Ao09V8uujfVvrXQ=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0rc1-py3-none-manylinux2014_aarch64.whl": [
+          "s4zWCT3jE6BXGypf3MuIdaKY1Fk5CPUUVeMJqU3yYBI=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0rc1-py3-none-win32.whl": [
+          "GChZ5Rggv7bs8FEISr2PcysFd9U/hR5Vijnw2acaYxA=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0rc1-py3-none-win_amd64.whl": [
+          "tD8ggT5FfJX2ATLgaqGdm4y6mjvY1GG12z7EGdwpFAo=",
           "py3"
         ]
       }
@@ -52129,6 +52187,12 @@
         "OLslTJ4C3z6YXl01AxcBor7uhtIjKHQgIbX/B+8gl0Y=",
         "google-ads-api-report-fetcher-0.1.8.1.tar.gz"
       ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "hTzC4STWDv4oBx5yvFm3V78ukoov+/BLZ0yljnHdrCg=",
+        "google-ads-api-report-fetcher-0.1.9.tar.gz"
+      ]
     }
   },
   "google-photos-takeout-helper": {
@@ -56706,6 +56770,18 @@
       "sdist": [
         "xDafip5du9StObCQN9OXCkjWRlhZCm+Zhu9RP8Pep6U=",
         "infoworkssdk-2.0.3.tar.gz"
+      ]
+    },
+    "2.0.4": {
+      "sdist": [
+        "YVSBQ63WpbcIWr91xuO9IsIcf5MlanK7roD+urMgdBY=",
+        "infoworkssdk-2.0.4.tar.gz"
+      ]
+    },
+    "2.0.5": {
+      "sdist": [
+        "ExqpxjeNwt05f6VPkscJy6YwNO5Jm6doDMyOQpwvC6s=",
+        "infoworkssdk-2.0.5.tar.gz"
       ]
     }
   },
@@ -84922,6 +84998,14 @@
       "wheels": {
         "odoo14_addon_mrp_production_putaway_strategy-14.0.1.0.1.dev3-py3-none-any.whl": [
           "rZV5AGqvDZmglwJChurAgeAVS1pNpKKGOlqiiLVlfoU=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo14_addon_mrp_production_putaway_strategy-14.0.1.0.1.dev4-py3-none-any.whl": [
+          "5lPUFoHoMjElVNwvqxaKEd21wR3Hwc0u/E0k4MGlL7M=",
           "py3"
         ]
       }

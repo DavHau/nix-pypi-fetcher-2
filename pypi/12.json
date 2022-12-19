@@ -431,6 +431,12 @@
         "GQbJDqVmmq1FVLtgPcCnlVnEPdhq+jRljknLhPWeaRE=",
         "3ETool-0.6.3.tar.gz"
       ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "CnX1CvdfTFef8DwwILpzvIRzwDNxvGZfx+vwU/eyP9I=",
+        "3ETool-0.7.0.tar.gz"
+      ]
     }
   },
   "acc2psql": {
@@ -34740,6 +34746,14 @@
         ]
       }
     },
+    "0.1.345": {
+      "wheels": {
+        "dve_lumipy_preview-0.1.345-py3-none-any.whl": [
+          "HlJyCsjfuzh3RP8+34TYYCuKl/DypG+yXdiHEd9Fq9g=",
+          "py3"
+        ]
+      }
+    },
     "0.1.36": {
       "wheels": {
         "dve_lumipy_preview-0.1.36-py3-none-any.whl": [
@@ -38952,6 +38966,38 @@
     }
   },
   "fastkde": {
+    "0.0.0": {
+      "wheels": {
+        "fastkde-0.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "HUO85K8KoH4Tgre5xYeaeKIa5raCviqkGX0RoQHvte4=",
+          "cp36"
+        ],
+        "fastkde-0.0.0-cp36-cp36m-manylinux1_i686.whl": [
+          "VJivrYnw3WF/EYRQeeeUaJqosHV57wjo5h2dllwZcVM=",
+          "cp36"
+        ],
+        "fastkde-0.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "KRjMOSPfNbHaoUdxsXhBo3HnOvJfmj05ejaxnA9yT78=",
+          "cp36"
+        ],
+        "fastkde-0.0.0-cp36-cp36m-manylinux2010_i686.whl": [
+          "G8Lu5wcLrFJWFWeZRT/yjS9EzYmHjWtBL3is1xf/y5g=",
+          "cp36"
+        ],
+        "fastkde-0.0.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "QUsPOOrYzznduBtUVvH+ezo4omi0poMlnWi1yCBbGQM=",
+          "cp36"
+        ],
+        "fastkde-0.0.0-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "gCojdmaT3k/mPq/wbLCyu9STj2zFmDpE24snp6H9BF8=",
+          "cp36"
+        ],
+        "fastkde-0.0.0-cp36-cp36m-win_amd64.whl": [
+          "fAS1VbJ4bD8rzLH1zIhtd1LZ7tcarXvCaX1mCEK/zWY=",
+          "cp36"
+        ]
+      }
+    },
     "1.0.10": {
       "sdist": [
         "qnfgwEqsK4vxjnVwqX9XxjWzxGldsUzPZVv271dlS2g=",
@@ -39286,6 +39332,122 @@
         ],
         "fastkde-1.0.19-cp39-cp39-win_amd64.whl": [
           "2QtVQwKTPjjQN9P3UivFv92DqE8FAz9M4R58qIApRZg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.20": {
+      "sdist": [
+        "a4JWc54hbQTEKDr6MvIHmBoKG1webZJCZ1V393/QCqs=",
+        "fastkde-1.0.20.tar.gz"
+      ],
+      "wheels": {
+        "fastkde-1.0.20-cp35-cp35m-manylinux1_i686.whl": [
+          "t9KA6MtbskzuSTwPQmP+vDbVr6lG9Ya1i9vSeIDeQxQ=",
+          "cp35"
+        ],
+        "fastkde-1.0.20-cp35-cp35m-manylinux1_x86_64.whl": [
+          "A2RFLW/e2SJKfEg4bMSrGT3SKsQhV+e+d49PUcHrAos=",
+          "cp35"
+        ],
+        "fastkde-1.0.20-cp35-cp35m-manylinux2010_i686.whl": [
+          "gNP9l5Bmhvy7C60dfWPPkwyX2j8ROIc5Jdai4urjbPI=",
+          "cp35"
+        ],
+        "fastkde-1.0.20-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "y/RraqsClThbb3hTRghJJPXI59D0S+z/DdGYuv5mDsE=",
+          "cp35"
+        ],
+        "fastkde-1.0.20-cp35-cp35m-win_amd64.whl": [
+          "CkPIOZ4VdC5EAbEzm9zeq52FFtGceJhhWSX3n6cy/gY=",
+          "cp35"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "FxrRCH6KoL1kuFH9cR05Ytqs57LRn8vyIhNFdvtVa1M=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-manylinux1_i686.whl": [
+          "t4P7rKJ/zsvsLAdj7qabLEKhmikRMkPltn7UKG8Fk1M=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5CKw/lTdzHe5QTs8/aXxZWsjE0WwpOjqUOBoN4Zk03Y=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-manylinux2010_i686.whl": [
+          "SmSWgjVhm+gpUi5KZnUfRBhMpx2Qh0U7LlWE9O69RHE=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9YUZY/lLUFORY89W2em8Oj8DeR7SG19A+WkGIeQZ2Rs=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "11NxRUwzZ1csYepY48SvG7ZKsObI4RN4b8T/6CFW1Pk=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp37-cp37m-win_amd64.whl": [
+          "7+x4Gy5aFwKJ2TKSnKYOKzsHc/WoLMMOXygykTx0nm0=",
+          "cp37"
+        ],
+        "fastkde-1.0.20-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5nNm9RXXob2zHb1TR0IiZcx/TxmjtpwEdy+H1lwElC8=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp38-cp38-manylinux1_i686.whl": [
+          "xL+bA/QHBlmQBsSbAWPkjMrG/7wPtIICVGDzbe6meXA=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp38-cp38-manylinux1_x86_64.whl": [
+          "Z/RNEQmrx1N+vf+zECq0n7rbn4ytH9/LmQ/PjHwfvTs=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp38-cp38-manylinux2010_i686.whl": [
+          "dc4bv+IsoPEYSYNGly/LLQFppEe/iRJYQQhiFkkzyrI=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp38-cp38-manylinux2010_x86_64.whl": [
+          "s7T3PqM/3GgHA+FMrfGpanI1IQ/vceDHbhxsdc7U+Ko=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp38-cp38-manylinux2014_aarch64.whl": [
+          "A/+lh1wX5J+O1M3cS0BdHUvz04HXkobU4alJGhzz3Tg=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp38-cp38-win_amd64.whl": [
+          "7T9/uxodZAmZP+Wvctrx07PpPWwrevIH+8OHaGZev3Q=",
+          "cp38"
+        ],
+        "fastkde-1.0.20-cp39-cp39-macosx_10_9_universal2.whl": [
+          "WMdgz+QiZn2w27SBKbNgro2+eWeNfAeMTinJo9d/hbU=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "AdT+4aocK8mrvL6CFYcqheBzBkIJEu8+7l8wzFubKyM=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-manylinux1_i686.whl": [
+          "idp+jfq9KOzMoEdKpUt6MfqxXO0b0OXFD/wXy5sA61Y=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-manylinux1_x86_64.whl": [
+          "BDaQNXzJd2d7yIDjFUUdBJST4ch+jXfEIxjQ0JdAhss=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-manylinux2010_i686.whl": [
+          "aa6FygGLtPK6zzl1Sa7OjgHSFYZNBJYafIMf9GE2c1g=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-manylinux2010_x86_64.whl": [
+          "zOkTSipd549ZrgfWkbgLE87w79fnjwvSXo4HyDys/6k=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-manylinux2014_aarch64.whl": [
+          "uAtQrKyXR69AS4zR0D/I8FXfu7vwOw5iK8CnSQDuARI=",
+          "cp39"
+        ],
+        "fastkde-1.0.20-cp39-cp39-win_amd64.whl": [
+          "HI8DRbi39miX4yzyG+seXDuXkt7gCP+v64BXM0B+SHU=",
           "cp39"
         ]
       }
@@ -50394,6 +50556,14 @@
         ]
       }
     },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkcdn-3.1.17-py2.py3-none-any.whl": [
+          "Y+E6auq/aL+Pk6oqdLIf0L1zBcn08qGOyPJpnnP1k54=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcdn-3.1.2-py2.py3-none-any.whl": [
@@ -50924,6 +51094,14 @@
         ]
       }
     },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkdas-3.1.17-py2.py3-none-any.whl": [
+          "6Z5plR3jDEnPtyU2MdSmuEnKIgSlYlxjdgiIXYgYauE=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkdas-3.1.2-py2.py3-none-any.whl": [
@@ -51434,6 +51612,14 @@
       "wheels": {
         "huaweicloudsdkgaussdbforopengauss-3.1.16-py2.py3-none-any.whl": [
           "IZsTd+Cg9jZKfFxSyKukLJ4SwmW4O23OD9W850sHtpk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.17": {
+      "wheels": {
+        "huaweicloudsdkgaussdbforopengauss-3.1.17-py2.py3-none-any.whl": [
+          "LijXJg/WWroyto5ioNabKpLlAO/r39sZO3gjWPQPwg8=",
           "py2.py3"
         ]
       }
@@ -63522,6 +63708,12 @@
       "sdist": [
         "xVB3JtCDZa4R58zu5XznHPF7JVrb3tIRTW6G4ytLy9o=",
         "manafa-0.3.128.tar.gz"
+      ]
+    },
+    "0.3.129": {
+      "sdist": [
+        "q5E3CZxITUjf3sgg1gzZUDQaxtuhUvrzobJ52l+NgNM=",
+        "manafa-0.3.129.tar.gz"
       ]
     },
     "0.3.2": {
@@ -88775,6 +88967,12 @@
         "SnBN/RdKwvy9S3BlUPZ6nCkZvNUrhRYoICMSuUcnaCs=",
         "polygon-etl-0.2.2.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "g0X0UgKuGfMMGCu6Csop1HILEax6t+AaSN+3V8286JQ=",
+        "polygon-etl-0.3.0.tar.gz"
+      ]
     }
   },
   "pongy": {
@@ -94204,6 +94402,18 @@
         ]
       }
     },
+    "1.19.1": {
+      "sdist": [
+        "epBpyDdmTp7D2Bqz7euvPT6c2W8vz1mE29cg8vBS5S4=",
+        "PyFstat-1.19.1.tar.gz"
+      ],
+      "wheels": {
+        "PyFstat-1.19.1-py3-none-any.whl": [
+          "Wrd30DNWm2uoGbmEhaiCQdx/yQ2MeYBUilHIFcyJyhQ=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "rhpZjnqY+W/7gNHTZ1noCX0XKZojgA3WDwRn6K6usnI=",
@@ -98231,6 +98441,18 @@
           "py2.py3"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "y14IoZUJ17wAqeF6C0EqZq7mSqAg3QEUdnYDsaodp4k=",
+        "pyobjc-framework-CoreHaptics-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_CoreHaptics-9.0.1-py2.py3-none-any.whl": [
+          "omKRKRDlHsZBcWDWaCfAWpm2++6JkI6tTjRtxxDsHu0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyorbit-package": {
@@ -98322,6 +98544,12 @@
       "sdist": [
         "rPZH7i+RCOwj1vUcbzhXzj62K+MjHxDK9tzYrveYdBc=",
         "pyorbit-package-9.0.21.tar.gz"
+      ]
+    },
+    "9.0.22": {
+      "sdist": [
+        "vy1j53/5Om2Ou1UOgzqI2Di+wCbOiDNjXueWtkHdnpM=",
+        "pyorbit-package-9.0.22.tar.gz"
       ]
     },
     "9.0.3": {

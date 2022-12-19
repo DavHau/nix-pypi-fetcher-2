@@ -9668,6 +9668,12 @@
         "aws_service_catalog_puppet-0.212.0.tar.gz"
       ]
     },
+    "0.213.0": {
+      "sdist": [
+        "IcpIxQkmdWPqwh8d/+IVSr1SjU/m8WLzMg4SRevVvaU=",
+        "aws_service_catalog_puppet-0.213.0.tar.gz"
+      ]
+    },
     "0.22.0": {
       "sdist": [
         "wsB9ZTeRB/g+czGCwnP8hL6Al/2cbcD0FGXSjJBWgGQ=",
@@ -26100,6 +26106,18 @@
       "wheels": {
         "csp_cli-1.2.0a8-py3-none-any.whl": [
           "FcHgyVM3vO8+etJBmjJKziaGmYr6KI39/NtFgJLcIjE=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0a9": {
+      "sdist": [
+        "KIim7l8J2Nl/gKrS4s0v9CTzY5uu8tNGe3CHsv1JQ2M=",
+        "csp-cli-1.2.0a9.tar.gz"
+      ],
+      "wheels": {
+        "csp_cli-1.2.0a9-py3-none-any.whl": [
+          "IMogDPP/BbTLRaH99xTqAcJl/uROVZhjMEdwDKXH7qI=",
           "py3"
         ]
       }
@@ -48850,6 +48868,18 @@
       "wheels": {
         "fuzzable-2.0.3-py3-none-any.whl": [
           "hKv+jm0RdTL+q0SbOfWO5he6W3Bau0vu2E2YmdssPbk=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.4": {
+      "sdist": [
+        "+oFoxsRUjBpVXdds8pFHOpicnzbA3zGXN20NLaXDrVs=",
+        "fuzzable-2.0.4.tar.gz"
+      ],
+      "wheels": {
+        "fuzzable-2.0.4-py3-none-any.whl": [
+          "drWkT1XAvAWKe5czNP8Z5rI7PdKvbkDCI+ta+56OG8E=",
           "py3"
         ]
       }
@@ -91098,6 +91128,18 @@
         ]
       }
     },
+    "38.0.2": {
+      "sdist": [
+        "yaJulm4Gb3SgAaa+DORQShbtAQQiDsmRoyPldGJdfO4=",
+        "OpenFisca-Core-38.0.2.tar.gz"
+      ],
+      "wheels": {
+        "OpenFisca_Core-38.0.2-py3-none-any.whl": [
+          "zk3s+5pPhOwTS0scZ4e7XPg73jl1GOz8b9Q7A1PH93c=",
+          "py3"
+        ]
+      }
+    },
     "4.0.0.dev0": {
       "wheels": {
         "OpenFisca_Core-4.0.0.dev0-py2-none-any.whl": [
@@ -109887,6 +109929,18 @@
           "py2.py3"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "wguUZPXqCUX48bHq6w5DWLBwhUzr1s6H13KmydwOjM0=",
+        "pyobjc-framework-OSAKit-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_OSAKit-9.0.1-py2.py3-none-any.whl": [
+          "Bhgx8TrHWtOsmiLfVQ9lG/yqmD7D1qOQhn/tnfhucWw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjc-framework-usernotifications": {
@@ -110410,6 +110464,26 @@
         ],
         "pyobjc_framework_UserNotifications-9.0-cp36-abi3-macosx_11_0_universal2.whl": [
           "xpoPjBmeLw2hvMW4xANjoAnNwraMogfmzRCGAEW7mpk=",
+          "cp36"
+        ]
+      }
+    },
+    "9.0.1": {
+      "sdist": [
+        "OIlK76hb67hVVZsW95jCuM80y8t7KSzVL+FDxkxuQRs=",
+        "pyobjc-framework-UserNotifications-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_UserNotifications-9.0.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "Nr6B1bUBjX4sp2nlF69I5y5HybRHHpIl5e5KkQf/4Aw=",
+          "cp36"
+        ],
+        "pyobjc_framework_UserNotifications-9.0.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "BXaSwu9MV+U0fIK+H9U93vfQK0p+/QRV7eBN7lx47cE=",
+          "cp36"
+        ],
+        "pyobjc_framework_UserNotifications-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "cFv6n/PLmZ9KU8OKaw6X/lvcnAasKUsHtdbn8mA8rs0=",
           "cp36"
         ]
       }
@@ -115364,6 +115438,110 @@
         ],
         "pytket-1.1.0-cp39-cp39-win_amd64.whl": [
           "9+NNtTwSVtNcz1sciN09p+BNTKL/Qyhyc/IFZQFSW9k=",
+          "cp39"
+        ]
+      }
+    },
+    "1.10.0": {
+      "wheels": {
+        "pytket-1.10.0-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "7WlipRVxJXr0dJXvWoI4RFG86u9ZOm+oGWxckox5Ve0=",
+          "cp310"
+        ],
+        "pytket-1.10.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "oIANb7xcLtP54Il0xLpRj14PDL5S1h0ZQlLsWaZoj2U=",
+          "cp310"
+        ],
+        "pytket-1.10.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nCz1pMKK1Romw9RVtpE1iLA02pDxcclLC5XRtKSGBRI=",
+          "cp310"
+        ],
+        "pytket-1.10.0-cp310-cp310-win_amd64.whl": [
+          "IF771ziXzH4Mvk5x0YsEMAaB/vpa+wy/vgaUj7S0U04=",
+          "cp310"
+        ],
+        "pytket-1.10.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "PrUOvC1zssUoKYSK5p0dJidBqcbZcReW7plDbqXYgew=",
+          "cp38"
+        ],
+        "pytket-1.10.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "aUuQNr5a6Rcb3PpNDpZ1HXc6janapLILWbw4QZW9U5k=",
+          "cp38"
+        ],
+        "pytket-1.10.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RTchS7UppPWbcUoxq36k8Pdi83BU/tvf5IP1jqFpJXk=",
+          "cp38"
+        ],
+        "pytket-1.10.0-cp38-cp38-win_amd64.whl": [
+          "rYpjY8JnJFEG/rVwoV12KDhnZosyYrFDGx9MCWXSv4A=",
+          "cp38"
+        ],
+        "pytket-1.10.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "rsSBIRuKfck9AuiE62D5zQGlFpdW50UhD1Q/Kkh73w8=",
+          "cp39"
+        ],
+        "pytket-1.10.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "0CiAWHF9fqefTz7RtbMiL6xBD6b5psaUMnl88hC3Zf8=",
+          "cp39"
+        ],
+        "pytket-1.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RV2jyQklN1P+36E/ELBn2ko3sQP5XDu77fJ4jc+BVCc=",
+          "cp39"
+        ],
+        "pytket-1.10.0-cp39-cp39-win_amd64.whl": [
+          "/zvI1+1QIGzwlVG3chrUbS1DyUzrWtwGzyr3p6BSVPI=",
+          "cp39"
+        ]
+      }
+    },
+    "1.10.0rc0": {
+      "wheels": {
+        "pytket-1.10.0rc0-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "A0h+vkYbhzsL5IZnys8FCdXmQGtcXpty7N/X/gd2IMI=",
+          "cp310"
+        ],
+        "pytket-1.10.0rc0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "zuH1XbEaAlNiPrO4dF95JIDEECcnrwxvgfCKiMiDBFA=",
+          "cp310"
+        ],
+        "pytket-1.10.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RIsPdmlTs1ZTG8zYGZFOZBuBgouvPSI5mdcLXmP/jz4=",
+          "cp310"
+        ],
+        "pytket-1.10.0rc0-cp310-cp310-win_amd64.whl": [
+          "n6jbEj4bMEUhmQuCkn2iXvWrnWlqpkL3YPvSUCJCCMw=",
+          "cp310"
+        ],
+        "pytket-1.10.0rc0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "d/s0VPVI6BKRV1Y4jmTUBJQOyRKjL/V3XI+oPIV4AFc=",
+          "cp38"
+        ],
+        "pytket-1.10.0rc0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "3hezGISa5tayFGGC8c/wxV3Cpbzjzt+xy5eDknJA5JE=",
+          "cp38"
+        ],
+        "pytket-1.10.0rc0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qfBjgFi3psVE7riwYHyO2W25sGBClPh3HpN/0PnUifo=",
+          "cp38"
+        ],
+        "pytket-1.10.0rc0-cp38-cp38-win_amd64.whl": [
+          "r12Lvm4aSUolpYapl6JI9CtVuvL8UkXXLx+zUaKK3gM=",
+          "cp38"
+        ],
+        "pytket-1.10.0rc0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "jN0tXqU3gG+nXra4rDx6dYhWBrcy2VKgo/xQm/IQKX8=",
+          "cp39"
+        ],
+        "pytket-1.10.0rc0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "zsvdI9qLVHcuF4ySY0VZpG+pqsqup4VfNagKUKqJaXw=",
+          "cp39"
+        ],
+        "pytket-1.10.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DRzcf+rjg/awYpCQpAdK6FcyoRYojjbCsY5gEccWYwI=",
+          "cp39"
+        ],
+        "pytket-1.10.0rc0-cp39-cp39-win_amd64.whl": [
+          "nnbBSvHBqfQBmX1qpe4DDJH+hQIN0Z5JtJ/8hqLGXew=",
           "cp39"
         ]
       }
@@ -145419,22 +145597,24 @@
   },
   "trappist": {
     "0.1.0": {
-      "sdist": [
-        "QRUiuSmlZqlX4l3PgKuctgIPKT5mst+9B4itiv4dlZ0=",
-        "trappist-0.1.0.tar.gz"
-      ]
+      "wheels": {
+        "trappist-0.1.0-py3-none-any.whl": [
+          "D113yJpHSVzpqvAfOSCXuLTAF3mT0HRde2LqqV+81gw=",
+          "py3"
+        ]
+      }
     },
-    "0.1.1": {
+    "0.5.0": {
       "sdist": [
-        "B7JdrIz9dmgIlObgjmqOJSoy1/e1sq8jQb9HFecW7A8=",
-        "trappist-0.1.1.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "kvsrWAseGwYErYMW6PHLkyXfRtCebKTyHnPcjVG103Y=",
-        "trappist-0.2.0.tar.gz"
-      ]
+        "QJNSeLb5bgT9RVZh8IKGjCQBImiklYQ5lw/T1/a3M4w=",
+        "trappist-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "trappist-0.5.0-py3-none-any.whl": [
+          "QxVYrG0bTWkEiQE2fU0WS4f9t62r5EIvbPHzNAmwUJM=",
+          "py3"
+        ]
+      }
     }
   },
   "tray-launcher": {
