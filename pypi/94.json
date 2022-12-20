@@ -2377,6 +2377,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.1a2": {
+      "sdist": [
+        "oKm6hSppUBfAtteuTZxcq65F+YzFtGnyyimCP9hQDzo=",
+        "amfiprot_amfitrack-0.0.1a2.tar.gz"
+      ],
+      "wheels": {
+        "amfiprot_amfitrack-0.0.1a2-py3-none-any.whl": [
+          "72p4CiJdC9wfucjOOBktnhpFb1MgEHeVfP3HjJcIad4=",
+          "py3"
+        ]
+      }
     }
   },
   "amiandopy": {
@@ -21274,6 +21286,18 @@
         ]
       }
     },
+    "1.29.0": {
+      "sdist": [
+        "7QlPHkhnulNFuBrRrqZVRUKwkBLrjeIHKBhkvhglstA=",
+        "datayoga_core-1.29.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.29.0-py3-none-any.whl": [
+          "p0V1aJbaMyOxoSFvNhctc1JMzOIEbyGjVpaQ1p/+5sE=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "iQqmxej7xCRAo2tSnGkgS+cUypIj/qhcFVcBxwTQEyE=",
@@ -21282,6 +21306,18 @@
       "wheels": {
         "datayoga_core-1.3.0-py3-none-any.whl": [
           "FnK4yWg9T5S0tBYpXM/HTXhKj88K7S37cOi1HqRxFpk=",
+          "py3"
+        ]
+      }
+    },
+    "1.30.0": {
+      "sdist": [
+        "sHd6ob4+MHONgTGiORCVLNhvYsyvE0pqJq3pPjXlrz0=",
+        "datayoga_core-1.30.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.30.0-py3-none-any.whl": [
+          "vekzVADAneDAFObLpzEpfn3Eb04If2+EtBa4SpMSmwc=",
           "py3"
         ]
       }
@@ -64531,6 +64567,18 @@
         "wYcka5KNDwDWKMYUsQdr5BQYHrHkPamIUYP41JRscnA=",
         "localstack-ext-1.3.2.dev20221219170518.tar.gz"
       ]
+    },
+    "1.3.2.dev20221220090646": {
+      "sdist": [
+        "jFxRBruLjDtLLZHTexSWNN6p7bB5MwaybRUpQHJU5YM=",
+        "localstack-ext-1.3.2.dev20221220090646.tar.gz"
+      ]
+    },
+    "1.3.2.dev20221220153023": {
+      "sdist": [
+        "gBwRSHzLPYmeUeLPDdsvfmXfSE0xqH/Q7nSP/qhCQv4=",
+        "localstack-ext-1.3.2.dev20221220153023.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -82968,6 +83016,12 @@
       "sdist": [
         "wAKJIodgWu1B2DBFBiTkI4HeNF48ec0k1Iuqxl6wEZ8=",
         "openshift-python-wrapper-4.12.20.tar.gz"
+      ]
+    },
+    "4.12.21": {
+      "sdist": [
+        "Tyf5PlNx00C8Pd2c8JQLj6OpLtHNywrwyvEykc709o8=",
+        "openshift-python-wrapper-4.12.21.tar.gz"
       ]
     },
     "4.12.3": {
@@ -122508,6 +122562,14 @@
         ]
       }
     },
+    "4.0.13": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-4.0.13-py2.py3-none-any.whl": [
+          "lFlWm9QE7bVmLozcyo3fejTa6cT1VEsPdylIiaqbAfk=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.6": {
       "wheels": {
         "stix_shifter_modules_sentinelone-4.0.6-py2.py3-none-any.whl": [
@@ -141562,6 +141624,34 @@
         ],
         "xia_api_flask-0.0.16-cp39-none-win_amd64.whl": [
           "T60Qtg0AERW0KBlm4WMx/ph2/bVWcDK8grt7d0yZM8Y=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.17": {
+      "wheels": {
+        "xia_api_flask-0.0.17-cp310-none-macosx_11_0_x86_64.whl": [
+          "yVeEJPvdy8ee7KrKTTpNA8oadYHgPDSZ23ZqUyzYMxE=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.17-cp310-none-manylinux1_x86_64.whl": [
+          "VODI14cFZR4GvGa7bs+LsilPm5m8aJlOlRd2EApVZb8=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.17-cp310-none-win_amd64.whl": [
+          "zHkV5Cj6xim4qo/BgpbZB5GBfKHTd+JyZoKiYJD7dKk=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.17-cp39-none-macosx_11_0_x86_64.whl": [
+          "kIbDHUthuMHqnSyaSOVkldMEAnt9OYXAep83zBkPrPQ=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.17-cp39-none-manylinux1_x86_64.whl": [
+          "3ZMewGovB+B+VS5UssLlGFSjH+1YTLTU9p1Takj9ubQ=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.17-cp39-none-win_amd64.whl": [
+          "5c5QpVbO+jaUerBQfnXXGwoGExpuHCDMfq9bHT30UQI=",
           "cp39"
         ]
       }

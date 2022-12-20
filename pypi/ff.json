@@ -33349,6 +33349,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "qAfYsFcygkDI5kkQjU+lqjZs0KonpCykPLjXk1DrvhM=",
+        "dapla_team_cli-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "dapla_team_cli-0.0.6-py3-none-any.whl": [
+          "L97v4G/NfWueXW7IlFjUttTjf2GPYTn7ffFNcNPaTfI=",
+          "py3"
+        ]
+      }
     }
   },
   "darwin-py": {
@@ -56156,6 +56168,12 @@
         "handler_cf_v1-1.0.6.tar.gz"
       ]
     },
+    "1.0.60": {
+      "sdist": [
+        "R4rlgBN7vZkGSTh1QDIWJMFtl1jDIOvOJ/pqQeUr4yg=",
+        "handler_cf_v1-1.0.60.tar.gz"
+      ]
+    },
     "1.0.8": {
       "sdist": [
         "3Q9vrue2nhyPfDmBc4ONLhjVSyMJwoIYeY6F7NnTg0Y=",
@@ -75446,6 +75464,30 @@
       "wheels": {
         "munet-0.10.5-py3-none-any.whl": [
           "aSn95ZcyqZrej+18pnk2PPfCyOCJAPKV1hBJniw3ZvE=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.7": {
+      "sdist": [
+        "mXjkibKUvTphd9Uqh5HrL7TROHtU1Xi7JOYHmSxtnik=",
+        "munet-0.10.7.tar.gz"
+      ],
+      "wheels": {
+        "munet-0.10.7-py3-none-any.whl": [
+          "cIQLazwgEQuPvEwvHjwTc+WcP/Eskz07XFgzEhBQunc=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.8": {
+      "sdist": [
+        "INEMITmXq8zpUuvwm+dphi4gXgeaKKNO5iHoug2A6wo=",
+        "munet-0.10.8.tar.gz"
+      ],
+      "wheels": {
+        "munet-0.10.8-py3-none-any.whl": [
+          "ja4QC0OV/rAMmFv2AY3/GIcWrdMk4xCg/wmYdStbcVY=",
           "py3"
         ]
       }
@@ -96972,6 +97014,18 @@
       "wheels": {
         "psycopg_pool-3.1.4-py3-none-any.whl": [
           "yhLMCD9BZu6nRmeabiq4kwd2WWjTrUFuBhb4h9sDYP0=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.5": {
+      "sdist": [
+        "yUi65q8rO0Ze0X8s6VyP5MnKlNHJ1XdUnQBaSUw+Kpg=",
+        "psycopg-pool-3.1.5.tar.gz"
+      ],
+      "wheels": {
+        "psycopg_pool-3.1.5-py3-none-any.whl": [
+          "O2GI/iNIIqLOan41fjUtzQujwaP1vnLLwdAUxK4zjMw=",
           "py3"
         ]
       }
@@ -128289,6 +128343,32 @@
       }
     }
   },
+  "stauth": {
+    "0.1.0": {
+      "sdist": [
+        "eqTV8s26Dc3Dsj3MeAK+HA7B8VDRfAf5vX//4gkdY5A=",
+        "stauth-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "stauth-0.1.0-py3-none-any.whl": [
+          "mSTOIdpfB3gvU/bZVJKpDD6w8OUeszEHapnRKfiLfM8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "mO1DfDiZ7EZptFmejO/1+6R9xPxf/hkLo3+/Mj2jh5g=",
+        "stauth-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "stauth-0.1.1-py3-none-any.whl": [
+          "+88HBiubOF5V+HG6s3B2sNrb06r+s/ROGuIN74sBtMk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "stdlogging": {
     "0.1": {
       "sdist": [
@@ -144253,6 +144333,18 @@
           "py3"
         ]
       }
+    },
+    "1.13": {
+      "sdist": [
+        "NaLPrlQIMojwVlFFBpyb1Nrstg64gx0+rl950iwLo/s=",
+        "virstrain-1.13.tar.gz"
+      ],
+      "wheels": {
+        "virstrain-1.13-py3-none-any.whl": [
+          "WUUzZ0LD543uF10MSfJhVhGR2hHMeXr1BDsj7LpaMSQ=",
+          "py3"
+        ]
+      }
     }
   },
   "virtualenvwrapper-emacs-desktop": {
@@ -149144,6 +149236,34 @@
         ],
         "xia_api-0.0.3-cp39-none-win_amd64.whl": [
           "5XTUPmeMaiyZ3HHM4i83KemEWWPfMjnxk55X/jbw5iE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.30": {
+      "wheels": {
+        "xia_api-0.0.30-cp310-none-macosx_11_0_x86_64.whl": [
+          "b+a0wkRvE4LG0KAI3fs4WbMkERIqPmgn2YvTBQisuso=",
+          "cp310"
+        ],
+        "xia_api-0.0.30-cp310-none-manylinux1_x86_64.whl": [
+          "lXKBc5fIQicIaWhOrCgKzR/2HHcvGMO3g++dCeyziB0=",
+          "cp310"
+        ],
+        "xia_api-0.0.30-cp310-none-win_amd64.whl": [
+          "//1kGeBf+hKaeTK+qh1rlptBalyzZTakDiP8tSQ8uOI=",
+          "cp310"
+        ],
+        "xia_api-0.0.30-cp39-none-macosx_11_0_x86_64.whl": [
+          "TVgFidr2uCK+Os5MJjyPjvpjNJuZWci089Zt0s4OqJM=",
+          "cp39"
+        ],
+        "xia_api-0.0.30-cp39-none-manylinux1_x86_64.whl": [
+          "Z9vR83y25rt+6fkqrloKnT6kcl2jKXFqd0/j55uQuds=",
+          "cp39"
+        ],
+        "xia_api-0.0.30-cp39-none-win_amd64.whl": [
+          "H5qL72sc5Ve8gUKO6mtE5G1RwMjqMEP0rHwpWUeMuc0=",
           "cp39"
         ]
       }

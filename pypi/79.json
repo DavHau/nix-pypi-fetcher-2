@@ -50419,6 +50419,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0.dev202212201309": {
+      "sdist": [
+        "8uGRbgJGWvc9yLhc7ZALoUkHvGmuZK9GFfgWJZN3D+o=",
+        "fastestimator-nightly-1.5.0.dev202212201309.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202212201309-py3-none-any.whl": [
+          "HnFWskQebcqg2UexSmSDduus5BHIxHJjKRrKvrpVJwo=",
+          "py3"
+        ]
+      }
     }
   },
   "fatmouse-agent": {
@@ -113623,6 +113635,32 @@
         "kGavl2kZ220FFjn92T3jXP1KzUFDLlWLEH2eDI1YFX8=",
         "pyzlog-0.1.3.tar.gz"
       ]
+    }
+  },
+  "qcustomplot-pyqt6": {
+    "2.1.1": {
+      "sdist": [
+        "ao7lvp1GQkjUi/SuJkhCAviMhJJWoK2SkXTQypakNtg=",
+        "QCustomPlot_PyQt6-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "QCustomPlot_PyQt6-2.1.1-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "uD/wXWRVZ8hMpMDapqOFVm1GwcPqDaWbBeZeZ44XIZE=",
+          "cp310"
+        ],
+        "QCustomPlot_PyQt6-2.1.1-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "Nnj2e5z3OqB5aZHljBXBW2lR7jkF/fVBeUW4V92c5OE=",
+          "cp311"
+        ],
+        "QCustomPlot_PyQt6-2.1.1-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "5XHv52lMmKRm+vvMQbeXfVnyCDJO51rO+JWuwlPf7Gs=",
+          "cp38"
+        ],
+        "QCustomPlot_PyQt6-2.1.1-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "zlVZzmH+XuBglux9aFnMSRlfizSGWIdcrCI/KKYl2mQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "qimen-dunjia-yushangzhan": {

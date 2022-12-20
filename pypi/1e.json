@@ -12832,6 +12832,42 @@
         ]
       }
     },
+    "2.10.0": {
+      "sdist": [
+        "MQ5WemvP8PQpTuTYesfnn4puoRZTmi2DGKIltDGrElw=",
+        "barbell2-2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.10.0-py2.py3-none-any.whl": [
+          "tCANEcdKNiNyNVRaQGuZ8wwxNXrA4e/E8/A8RuB6O7M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.0": {
+      "sdist": [
+        "i8Xs3SOyWmQPefYF95BqYVRE2gu/nI8j1qGePq8zc/8=",
+        "barbell2-2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.11.0-py2.py3-none-any.whl": [
+          "dBITKATfjPb9mJmHibqh32rqOSnba2tf1Av8IvlML/A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0": {
+      "sdist": [
+        "eppMRniBNDKWDmq4yhdhaNQgHhWC1GXMfumKNLjDRqs=",
+        "barbell2-2.13.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.13.0-py2.py3-none-any.whl": [
+          "KLUaIr5tgKjucE/5pZLQUUqPhql1OV17UKwMZcQZKS0=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "s4uQUebD4OW3udyGs0mixzlEqm4v8XOBiUDqv4v2qTQ=",
@@ -12900,6 +12936,30 @@
       "wheels": {
         "barbell2-2.7.0-py2.py3-none-any.whl": [
           "6EzjDh/52POwzahmxP+QoqIRC9ZuuJwwXO6d9+RR/Ms=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.8.0": {
+      "sdist": [
+        "cqGMc/SKXZIoJ4yOdrVNHeobEI5oL+GuYqGgGg9ZokY=",
+        "barbell2-2.8.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.8.0-py2.py3-none-any.whl": [
+          "+QiC75Tddr98TCbATpwxhOiChNxbmikQzpBos8TCD3Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0": {
+      "sdist": [
+        "3B5yPf5RjQJug9k24kCOCs2K1AQXKM4e0juwoCX/UOU=",
+        "barbell2-2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.9.0-py2.py3-none-any.whl": [
+          "l1xnbAsGNbligaR+7cXt/eQYqxZjYUvqWJdzeu4dOlc=",
           "py2.py3"
         ]
       }
@@ -34663,6 +34723,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.4": {
+      "sdist": [
+        "QBNO6gYJBKMUWb8C3gwv20GFipLTUM0pQwHCz58E3jI=",
+        "dscore-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "dscore-0.4.4-py3-none-any.whl": [
+          "hFVYxH294WIFnKRs/t0ecfcmtEkmBG9ZOa/HCYhiFOc=",
+          "py3"
+        ]
+      }
     }
   },
   "dsnd-probability-ec": {
@@ -38384,6 +38456,12 @@
       "sdist": [
         "rQ4DUNY9AcgbAMGnNjzUOdSzXhEYmv97RDIfO10jb0g=",
         "esios-0.18.0.tar.gz"
+      ]
+    },
+    "0.19.0": {
+      "sdist": [
+        "mk59O/2+0NVSwQwvqMerGVy2ziCVvbtBN5yENviRjMA=",
+        "esios-0.19.0.tar.gz"
       ]
     },
     "0.2.0": {
@@ -43618,6 +43696,18 @@
       "wheels": {
         "formsg_sdk-0.1.3-py3-none-any.whl": [
           "AcYCf+3wl+VdBL+XfOXXfAnjjz5kP+eTy1cMeHIk6QE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "gfCLRc7+znLIsMJJNtBmTH4sq6KuzhJJgUJz8dqelh4=",
+        "formsg_sdk-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "formsg_sdk-0.1.4-py3-none-any.whl": [
+          "K+wwJO8Fb6YewQISu9Pc92+oC8nOrrhVIKNmatWH8+0=",
           "py3"
         ]
       }
@@ -55764,6 +55854,12 @@
       "sdist": [
         "tqO3/d/gu/suGnC/47jAJnT0FyoM7wAsz4Nd/Piwrd0=",
         "inmanta_dev_dependencies-2.52.0.tar.gz"
+      ]
+    },
+    "2.53.0": {
+      "sdist": [
+        "aVS+Dg/FdepYKh2AqXSdWeuz2guWfoKh7cSdsaUZ/g8=",
+        "inmanta_dev_dependencies-2.53.0.tar.gz"
       ]
     },
     "2.6.0": {
@@ -106074,50 +106170,26 @@
         ]
       }
     },
-    "0.6.5": {
+    "0.7.0": {
       "sdist": [
-        "0U1m8knB24bZJN0Mzl1Wixyp5YJcxU/bWOVqOMkjUf0=",
-        "pymino-0.6.5.tar.gz"
+        "9IKeqGIE9kYrYF+wP13WcZT5eBuFTGWOkrsW3oCb6ZM=",
+        "pymino-0.7.0.tar.gz"
       ],
       "wheels": {
-        "pymino-0.6.5-py3-none-any.whl": [
-          "alb3oWWofuuH/FEZw0t8m8/pM1s7PmxkhC0bEffe9lo=",
+        "pymino-0.7.0-py3-none-any.whl": [
+          "AWiVuhjeWtWsriKkroqWllQkncUM2zlyKTask+tW4DA=",
           "py3"
         ]
       }
     },
-    "0.6.6": {
+    "0.7.1": {
       "sdist": [
-        "t2XWtvslCFFfqia9QATdmGG4IY58DMizbI/RsdrOtsQ=",
-        "pymino-0.6.6.tar.gz"
+        "1DywExSnRMx1qZnv2xYzlg6+bHEJDvJ3pQEg8VrlJvI=",
+        "pymino-0.7.1.tar.gz"
       ],
       "wheels": {
-        "pymino-0.6.6-py3-none-any.whl": [
-          "zsx4vqCDq8imNjk98nG6xIDkNMq6XHFAQYxbbic9ibQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.8": {
-      "sdist": [
-        "UkxnkWxnwsaiFipGvwWwrzOCK/qdq7StNjjfM0xpCf0=",
-        "pymino-0.6.8.tar.gz"
-      ],
-      "wheels": {
-        "pymino-0.6.8-py3-none-any.whl": [
-          "DHVqwW7PitpdfI4JfZ+8RvNIdRo6h0bwdxxoteyrxHE=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.9": {
-      "sdist": [
-        "pg7tSu//LGpXBbhiV9iPxIYX+KgU7vK9/cSvBHbBhVQ=",
-        "pymino-0.6.9.tar.gz"
-      ],
-      "wheels": {
-        "pymino-0.6.9-py3-none-any.whl": [
-          "HOncRN5m+L1MOu26qObuIXj+z073Nlczr6+W4ZD4OE4=",
+        "pymino-0.7.1-py3-none-any.whl": [
+          "QRUh4/EiIym5a5JqxJf/0uQn5fxfRDlVy8Hx9SI0Diw=",
           "py3"
         ]
       }
@@ -134604,6 +134676,18 @@
         ]
       }
     },
+    "4.4.7.dev7": {
+      "sdist": [
+        "Ejv2yhBxPTP6XBZaQ94FqDXgizvD6l/mJwsdicAq6dU=",
+        "superannotate-4.4.7.dev7.tar.gz"
+      ],
+      "wheels": {
+        "superannotate-4.4.7.dev7-py3-none-any.whl": [
+          "wdjTlf4RxVCQOswbJOeqzlNbkW7U53gkikURQsH2HrA=",
+          "py3"
+        ]
+      }
+    },
     "4.4.7b1": {
       "sdist": [
         "hU0TKSbharIetQCQcVmBOdDN3eJl9Gkjd0hxG6uDr7Y=",
@@ -134636,6 +134720,18 @@
       "wheels": {
         "superannotate-4.4.7b3-py3-none-any.whl": [
           "rp0eS5YHxf8iZ1BoOk78OP2xXaGaDovZFZ0g0LirbwU=",
+          "py3"
+        ]
+      }
+    },
+    "4.4.8.dev1": {
+      "sdist": [
+        "4cypSpiIy7CXX2Mv7eFa018VWcfNKaQlSx55DnLnhog=",
+        "superannotate-4.4.8.dev1.tar.gz"
+      ],
+      "wheels": {
+        "superannotate-4.4.8.dev1-py3-none-any.whl": [
+          "wJspq0C9eoWiJ3gv3nKISW1+0IbsPgSFBK//SCQ+WPw=",
           "py3"
         ]
       }

@@ -27395,6 +27395,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "XBTM6nDnIQQuJMA/sVSaAVdXGqyjPnT0qtMm+11jx1w=",
+        "cubicweb-api-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "cubicweb_api-0.5.0-py3-none-any.whl": [
+          "gvFOZGgGBt/WPcVkn0vXtaQj5h2zccn9kLcJ08tGwGE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "l7NGX3QCmnw1yQMO+qiUAjzTSelxWYB9JrF70R5JSKM=",
+        "cubicweb-api-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "cubicweb_api-0.5.1-py3-none-any.whl": [
+          "NlvBnZELvou376ow0cPl00ceiJRze7rC93VwlLtjavE=",
+          "py3"
+        ]
+      }
     }
   },
   "cuemby-equinix": {
@@ -35070,6 +35094,18 @@
         ]
       }
     },
+    "1.0.11.1": {
+      "sdist": [
+        "CFsNamOx7thZeaZmNcLBTTc4FCLR9Q764JGjjeW4uYA=",
+        "dbnd-airflow-versioned-dag-1.0.11.1.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-1.0.11.1-py2.py3-none-any.whl": [
+          "F3u7Ci3m3+tbzeNMHhH534VNyVUklPcXoB7SUsJiKQ8=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.2.1": {
       "sdist": [
         "OojggcOHc3ZW6EmWacqlX1Z5k0Q1a8/0Dg5TrQsageE=",
@@ -35732,6 +35768,18 @@
     }
   },
   "dbnd-datastage-monitor": {
+    "1.0.11.1": {
+      "sdist": [
+        "Zziq9nt6N6yzUSgZx9I1V3L+rGqHdDDHhHEIASslVXI=",
+        "dbnd-datastage-monitor-1.0.11.1.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_datastage_monitor-1.0.11.1-py2.py3-none-any.whl": [
+          "7/jnEzxVNHOjyS2rw9t9YA0aGqBLglVusCz4OtHlixI=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.4.1": {
       "sdist": [
         "17EYEpI8gthBqqtEbJu54LIYq65eGo4/62yTdS0l+aE=",
@@ -45102,6 +45150,18 @@
       "wheels": {
         "ec2map-1.0.10-py3-none-any.whl": [
           "kH5WYmmTHAgY4PhD4UyAZJ5jfsgO1yG6+O8AAYnhf/4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.11": {
+      "sdist": [
+        "FiM780OeoJd3kVwhF0Y7ZLUZA+i37QGbyLgaKebkNcY=",
+        "ec2map-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "ec2map-1.0.11-py3-none-any.whl": [
+          "1LUmFNvKuiHOr7SHOX1myiVCv4Xt3h4KDtHxXeHXdCE=",
           "py3"
         ]
       }
@@ -96387,6 +96447,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev2": {
+      "wheels": {
+        "odoo14_addon_purchase_sale_inter_company-14.0.1.1.1.dev2-py3-none-any.whl": [
+          "HIeePxHddizd0tjL0SDBnZfRlH6TGPR+HIgtPTSyeOA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-shopfloor-checkout-package-measurement-mobile": {
@@ -101406,6 +101474,20 @@
       "sdist": [
         "/JDa5tSh5DrKWHnmq5Rm03pe4n4ucjS7jZrrk2V6HNM=",
         "PIL_ext-0.1.tar.gz"
+      ]
+    }
+  },
+  "pipenv-check": {
+    "0.0.1": {
+      "sdist": [
+        "AvGFYa8gnRuj/nSqgiNkNa2L8n9k2wVUriwVUvkSl8s=",
+        "pipenv-check-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "bY+l2gw+OqvjHwN6IgomHKEFHiG4YUo5MuAe7l7VFqc=",
+        "pipenv-check-0.0.2.tar.gz"
       ]
     }
   },
@@ -120292,6 +120374,18 @@
       "wheels": {
         "renovosolutions.aws_cdk_multi_account_az_mapping-0.0.1-py3-none-any.whl": [
           "PoIQ1HfhI2Ycvp+gUFQ3Eqfr4DSpe7EVJmPfPTrEHL8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.10": {
+      "sdist": [
+        "1UWs8U7WOvFsXudJLbIKScoOIzhmNEuY39A0hVoGxng=",
+        "renovosolutions.aws-cdk-multi-account-az-mapping-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_multi_account_az_mapping-0.0.10-py3-none-any.whl": [
+          "wxiCZ49KGc4MjXYi09YVhuti7oT5To5BE1Rr7O5pEtc=",
           "py3"
         ]
       }

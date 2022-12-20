@@ -581,6 +581,20 @@
       ]
     }
   },
+  "aidbox-python-sdk": {
+    "0.1.0": {
+      "sdist": [
+        "aXqNZt3n5hPAyX5isTh9kGWvUDrxPUQUg6w/QK44IDU=",
+        "aidbox-python-sdk-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "aidbox_python_sdk-0.1.0-py3-none-any.whl": [
+          "d0Y95AAvKN0YIcsA1jtsDgF4seiUqUq64m/TJ3JvNZY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aihelper": {
     "0.1.0": {
       "sdist": [
@@ -28938,6 +28952,18 @@
       "wheels": {
         "Diofant-0.14.0a2-py3-none-any.whl": [
           "NrDurEwh935j8XhwT0+SGqyBiI4Ubo8OMbuuL3gyIR4=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0a4": {
+      "sdist": [
+        "Fpa++q9fiqygJ5lB8OFR4d82NkFHEB9qU785M9eOd0Q=",
+        "Diofant-0.14.0a4.tar.gz"
+      ],
+      "wheels": {
+        "Diofant-0.14.0a4-py3-none-any.whl": [
+          "rhm29P29k7HFDEPdlSv3qPsxHdQDmLqY2LYu/33mWnQ=",
           "py3"
         ]
       }
@@ -76698,6 +76724,14 @@
         ]
       }
     },
+    "0.12.1": {
+      "wheels": {
+        "mse_lib_sgx-0.12.1-py3-none-any.whl": [
+          "fRy/+2I/tB3+5vy6ruRFRX2jgOfTINKbGnh27XfApIk=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "wheels": {
         "mse_lib_sgx-0.2-py3-none-any.whl": [
@@ -105262,6 +105296,30 @@
       "wheels": {
         "pss_pywaapi-1.0.0-py3-none-any.whl": [
           "QsTfdtNBderQIZo+iclrDQH+cQHEDYkaBaSV6akeiaU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "kOi6B+9YgCYO83dbHHLT/uLV8LvKCquQQawJM2GakJg=",
+        "pss_pywaapi-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pss_pywaapi-1.0.1-py3-none-any.whl": [
+          "GCpzaCPXOIYdR22X8y4901a1Xh41kHS1vCZZMTKT+EU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "zzo7+D6KaU3iARGCxDIOh6VqNx1EyUmCRGSJvKI8ZVE=",
+        "pss_pywaapi-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pss_pywaapi-1.0.2-py3-none-any.whl": [
+          "gDQE3qScosuX6HJIEG4g4smH4deVpQCmaQXCO/6u0i4=",
           "py3"
         ]
       }
@@ -141557,6 +141615,46 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221219": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "KFAIso+5+uo8OU9NjfGETgNIu7MpUBSaybsVGNLFNS0=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "9tJxlKtql1a/PHW0w5Y9qhR+1kudYChM0r+IBwM/eGk=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "XFvkYYFfOh9R9zt956ehrNc71vFKqYSLQwuDY1zFbz4=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp38-cp38-manylinux2014_aarch64.whl": [
+          "0YTAEI6og/UIezyebIRAjjxQS0+uOQ5JZJJPuU/MMGc=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp38-cp38-manylinux2014_armv7l.whl": [
+          "KiLezixy2uGLEy7smuPXkTyEBDPd44PSO1b6eJNmAGE=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp38-cp38-manylinux2014_x86_64.whl": [
+          "WRTDqbLLAdew9bmOhbG36Me6+i4SuBaQ8xyd02sIGuo=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp39-cp39-manylinux2014_aarch64.whl": [
+          "2k0O/h3iShBMqt7YkcZ1/5e/Mh03LaHKfdGEtVOPTk8=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp39-cp39-manylinux2014_armv7l.whl": [
+          "YyB1/R52yKXY74UqoyXTj1ZMbAMbEUnPkuEdQQbtDNo=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221219-cp39-cp39-manylinux2014_x86_64.whl": [
+          "hGKBC6mx7aVk27oWFfMXfXhRE5btJgMlaoQ6vcIxPzs=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfset": {
@@ -154616,6 +154714,18 @@
       "wheels": {
         "weaviate_client-3.1.1-py3-none-any.whl": [
           "k+UoHXA+9AXu2u5Io8RElruR9mVrEG/TE7xZD3JJPeY=",
+          "py3"
+        ]
+      }
+    },
+    "3.10.0": {
+      "sdist": [
+        "53HwrqR/tw1syF4QGq++ZyyiQlXF58cGWfiSLQAIFjA=",
+        "weaviate-client-3.10.0.tar.gz"
+      ],
+      "wheels": {
+        "weaviate_client-3.10.0-py3-none-any.whl": [
+          "sv4+Tnm7CmbEBsto/qnRwgaRmfBRapn/j8S8YrClWCk=",
           "py3"
         ]
       }

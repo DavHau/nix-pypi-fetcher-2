@@ -71370,22 +71370,6 @@
     }
   },
   "ndp-app-deployment": {
-    "1.0": {
-      "wheels": {
-        "ndp_app_deployment-1.0-py3-none-any.whl": [
-          "j/SHIZ47KRFPra6wdjS1uRy1tczCyvIsNNq3w1DIw8M=",
-          "py3"
-        ]
-      }
-    },
-    "1.1": {
-      "wheels": {
-        "ndp_app_deployment-1.1-py3-none-any.whl": [
-          "aO3y0kOB9GbdTAHpBKhU9P+rDTr4ZReeOj55hRtiK9o=",
-          "py3"
-        ]
-      }
-    },
     "1.2": {
       "wheels": {
         "ndp_app_deployment-1.2-py3-none-any.whl": [
@@ -95955,6 +95939,18 @@
           "py3"
         ]
       }
+    },
+    "2.2a6": {
+      "sdist": [
+        "OkIseJwuPjuhzOCe8j3dLbZfH/dZomLm/JVgYNkKqsc=",
+        "pydraw-2.2a6.tar.gz"
+      ],
+      "wheels": {
+        "pydraw-2.2a6-py3-none-any.whl": [
+          "8pRwpkIedg5h1BQcNbVW1eszzX5Bvylg8Gttr4t1QLI=",
+          "py3"
+        ]
+      }
     }
   },
   "pydron-dataflow": {
@@ -119676,6 +119672,18 @@
       "wheels": {
         "seqio_nightly-0.0.13.dev20221219-py3-none-any.whl": [
           "U/cdtleu/Jijo9x94xdt7aWIKYpwY8se2ZKo1MSqXaI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13.dev20221220": {
+      "sdist": [
+        "WAowhqP5LjfG11M+Hupg/ag52iNPQtQSi/mM3+FN+RQ=",
+        "seqio-nightly-0.0.13.dev20221220.tar.gz"
+      ],
+      "wheels": {
+        "seqio_nightly-0.0.13.dev20221220-py3-none-any.whl": [
+          "NL9h2hUPE1PXW+x3Qnbz0iGikTu+FWCjMNWPOBsIVBU=",
           "py3"
         ]
       }

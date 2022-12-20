@@ -16558,6 +16558,18 @@
         ]
       }
     },
+    "1.30.6": {
+      "sdist": [
+        "v60FaWroVrIZcQi6b/jUh1brb/czpDHjccosywso33M=",
+        "cdk-monitoring-constructs-1.30.6.tar.gz"
+      ],
+      "wheels": {
+        "cdk_monitoring_constructs-1.30.6-py3-none-any.whl": [
+          "rSMDNW/IwzOWO/htIJBBS4eeyVVTng5O66QLQewXpkI=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "ix8syEBFIijgdmUmCrLKlIH073q0ylaL0k89bKz+njE=",
@@ -43908,6 +43920,18 @@
         ]
       }
     },
+    "1.2.7": {
+      "sdist": [
+        "RiRMFLCx9ifuA9ekZ96Mj1G4qRHQ8rRHxAvO56JV6ug=",
+        "flytekitplugins-kfpytorch-1.2.7.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_kfpytorch-1.2.7-py3-none-any.whl": [
+          "M9EzAMWcRJUC5p8ZpSMz0tteKx8t+v1qsC86pyJUX24=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0b0": {
       "sdist": [
         "mb8QJr7GlZ7LiRWdsiLdaStV3zgfp4nRJQd0/VMXgGA=",
@@ -43940,6 +43964,30 @@
       "wheels": {
         "flytekitplugins_kfpytorch-1.3.0b2-py3-none-any.whl": [
           "Xkpq7Qgwyl5mJOh5AUJCVZCzAgDQ6Ue/PYAOxw8vNYA=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0b3": {
+      "sdist": [
+        "palWf0cNHibu8KP5OT3r2/aosGRIFW1Uhwfn6ASeAmg=",
+        "flytekitplugins-kfpytorch-1.3.0b3.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_kfpytorch-1.3.0b3-py3-none-any.whl": [
+          "sFRC7JTGzWBTD7HWqHL0d/tugjtOMvxhezG4kNHGCFg=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0b4": {
+      "sdist": [
+        "nURvQabwXCApJ8+oAZRDK3kJwyGelqBOfUOYoYUDAHQ=",
+        "flytekitplugins-kfpytorch-1.3.0b4.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_kfpytorch-1.3.0b4-py3-none-any.whl": [
+          "VESYou6qJ19nrocLH9MyYr8XkQNJlciGnftJNbjKO40=",
           "py3"
         ]
       }
@@ -84414,6 +84462,30 @@
         ]
       }
     },
+    "0.24.30": {
+      "sdist": [
+        "PbcxX+CvnnwU5oUnCh5d3TWyEUTsyOfFTqZJqlaA6Eg=",
+        "notecoin-0.24.30.tar.gz"
+      ],
+      "wheels": {
+        "notecoin-0.24.30-py3-none-any.whl": [
+          "GqoxjQaFkQJDS4XuAUiYv13MtI9gvFiZ6qyOfV1KPYc=",
+          "py3"
+        ]
+      }
+    },
+    "0.24.31": {
+      "sdist": [
+        "JBbxV4bcA3wIBO63QHiUvXa+jk+lajpLDxl5W3zRew0=",
+        "notecoin-0.24.31.tar.gz"
+      ],
+      "wheels": {
+        "notecoin-0.24.31-py3-none-any.whl": [
+          "am0GD5gcDRML0NYyk2nABK8QroXLQVxIifRYg5omwDA=",
+          "py3"
+        ]
+      }
+    },
     "0.24.4": {
       "sdist": [
         "u5DQValsO/Dpo5XMAEGbhrgTxSsex9fxen0aHlW0nQY=",
@@ -84482,6 +84554,54 @@
       "wheels": {
         "notecoin-0.24.9-py3-none-any.whl": [
           "no60viRyb7RVvnYCmFhCeTRMWJ+FwXh/ez79Bdpu9Pk=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.0": {
+      "sdist": [
+        "S8Sgt0rPG+yseRJFwdVW6z+cPRLNp97aOlxoCz8i+jg=",
+        "notecoin-0.25.0.tar.gz"
+      ],
+      "wheels": {
+        "notecoin-0.25.0-py3-none-any.whl": [
+          "JbV57qLmRGxFIBBQJ9+iS0kR1BAzw5xXRvqWiy5Yc1w=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.1": {
+      "sdist": [
+        "UQvPg8QICEMBJJNsoIeIqVxVlLJjgjC9/RTU0rcWg08=",
+        "notecoin-0.25.1.tar.gz"
+      ],
+      "wheels": {
+        "notecoin-0.25.1-py3-none-any.whl": [
+          "qCUlvO6hPZzs/rlzUXx8paMGiWSio7Fn2zLIyy0Sw1s=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.2": {
+      "sdist": [
+        "05M2utWpVNZhnsrB1//kw728rx9iUUh979sQq3ya8eo=",
+        "notecoin-0.25.2.tar.gz"
+      ],
+      "wheels": {
+        "notecoin-0.25.2-py3-none-any.whl": [
+          "DIoegxmBDZ3VYX3UVzOL+0zXtKNu91V5zgGx63h67Qs=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.3": {
+      "sdist": [
+        "Q3U3pO1sBNq6wNeX/XUmhNNkFUQYaTMI4qhgGKZWlEM=",
+        "notecoin-0.25.3.tar.gz"
+      ],
+      "wheels": {
+        "notecoin-0.25.3-py3-none-any.whl": [
+          "LZPdBRJQS+u3dm+iSSpEkMEIenDWb9TGYSlFC0mGvoY=",
           "py3"
         ]
       }
