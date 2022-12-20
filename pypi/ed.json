@@ -3355,6 +3355,20 @@
       }
     }
   },
+  "arcml": {
+    "0.1.0": {
+      "sdist": [
+        "/lH+VH52II5r7elqkEwkshNy0LfBIuPEfrmGZQS9SbM=",
+        "arcml-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "arcml-0.1.0-py3-none-any.whl": [
+          "08ugY9cXrPU52xtznQv8wR9wX18YmKX+zx8tbJcfCdo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "argi": {
     "0.1": {
       "sdist": [
@@ -104421,6 +104435,12 @@
         "vXGjHuLRJGfcJJpkrQ+9GAdYaTo0b//IFAmA+wLc3Jk=",
         "omjlcomps-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "6PICImiJZSIUptqFpbb1Q+zU1gBVhELM18kz7WShHQ4=",
+        "omjlcomps-0.1.5.tar.gz"
+      ]
     }
   },
   "one-py-sdk": {
@@ -107946,6 +107966,18 @@
         ]
       }
     },
+    "2022.12.19": {
+      "sdist": [
+        "x4SUah4faiz6TU3E355GcKI0UTGaXi1BFebWHRGot9E=",
+        "parsl-2022.12.19.tar.gz"
+      ],
+      "wheels": {
+        "parsl-2022.12.19-py3-none-any.whl": [
+          "MaFLozlbeOPk68CeOpbmktmv19uHLbZ2GytUd9E9fqY=",
+          "py3"
+        ]
+      }
+    },
     "2022.12.5": {
       "sdist": [
         "0DQDbm7qytkgHapQrLl3ygUbwEz2j7tESaJNAO5Atl8=",
@@ -108690,6 +108722,30 @@
         ],
         "PennyLane_Lightning_GPU-0.27.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Dr8Mouaq/MlqYapYPS9FDGiuvoY9VfNj969Z1rfU6fM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.28.0": {
+      "sdist": [
+        "R8kJCvY5bEM9KJSwu5eP/rNaRAlHCMK97MPnxQXApJk=",
+        "PennyLane-Lightning-GPU-0.28.0.tar.gz"
+      ],
+      "wheels": {
+        "PennyLane_Lightning_GPU-0.28.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1vdUMeXqGod17/iG+VgEq0XGOTr5DYlnBCl9eqvhmQ4=",
+          "cp310"
+        ],
+        "PennyLane_Lightning_GPU-0.28.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0Un+C60nsLU/hmaFoeZQtnImZxAQZW1uhXkZE+U7/fI=",
+          "cp311"
+        ],
+        "PennyLane_Lightning_GPU-0.28.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ehT0HP3vpSsPbW0Rm55KfWhX3qF5qYPT3yxqaAPxmT4=",
+          "cp38"
+        ],
+        "PennyLane_Lightning_GPU-0.28.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cIuOZMvm0pG4YcwujQxqyFFTxhoNkzyPrOreWqXPCCk=",
           "cp39"
         ]
       }

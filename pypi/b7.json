@@ -108757,6 +108757,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.8": {
+      "sdist": [
+        "fLhfwIg57sUhMo5txqDA0K6BgDn7kAoGmtsU0oxBvfY=",
+        "PyQuantimClient-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "PyQuantimClient-1.0.8-py3-none-any.whl": [
+          "CjQN0MDBhIXQpozVb/6tbVC/Mjg21vQ+n4V7NjpgSXg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "vZDZ2YEI0nr9dn6wB0IlpZr5R7Slzbec+WRJbnl2Un8=",
+        "PyQuantimClient-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "PyQuantimClient-1.0.9-py3-none-any.whl": [
+          "TT16AMxYLpvXvVPdo83uL7k7JdZg7u47bkaOfWV3Z/g=",
+          "py3"
+        ]
+      }
     }
   },
   "pyradios": {
@@ -114764,6 +114788,34 @@
           "TcdMdaP5wjiwBPeCdSSyM1S0BWFmq0Pidz2LpdUfSNc=",
           "cp310"
         ],
+        "rectangle_packer-2.0.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "iFULPhhMUMtx82VnhVfpR94uakPx50nv3TH0QdpUe0k=",
+          "cp311"
+        ],
+        "rectangle_packer-2.0.1-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "xsBAf6EPv1eS3fc8OyvN5ho3mU9uOT1+bc0ZWbM0SPk=",
+          "cp311"
+        ],
+        "rectangle_packer-2.0.1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DcgJ+4hwk7qtu+XAvlWG2EohFTDr5mkqmBS4o6FIhAE=",
+          "cp311"
+        ],
+        "rectangle_packer-2.0.1-cp311-cp311-musllinux_1_1_i686.whl": [
+          "whaPQLJz8D3uI0dVzAQhET3hwhvA1dhBlEWY2FmCcVM=",
+          "cp311"
+        ],
+        "rectangle_packer-2.0.1-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "3TaLNE4Gxkhng4MFj2pvgsdPuzD+iWKSyRWDx8zZADQ=",
+          "cp311"
+        ],
+        "rectangle_packer-2.0.1-cp311-cp311-win32.whl": [
+          "bKOog7BDPbp7YhpvIC4T7ZEcoYDervbdX3rDXWFx+/E=",
+          "cp311"
+        ],
+        "rectangle_packer-2.0.1-cp311-cp311-win_amd64.whl": [
+          "WGxHZSp4AVsIbD/rWwJ2Yu/DFEIZ++YGsPwnlBd86wM=",
+          "cp311"
+        ],
         "rectangle_packer-2.0.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "L9uzKshYxreKT+pog9UydR/oaP0tNo0oVArPymZLHEY=",
           "cp36"
@@ -114882,6 +114934,22 @@
         ],
         "rectangle_packer-2.0.1-cp39-cp39-manylinux2014_aarch64.whl": [
           "tEdndVV8KGGfHQybdGOqoIo8RvvioL69K8oq1nwLuLY=",
+          "cp39"
+        ],
+        "rectangle_packer-2.0.1-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "4LGF/iavwrxJtB6gTsInpSQR6hjsd8gLXE8KP/t9TIo=",
+          "cp39"
+        ],
+        "rectangle_packer-2.0.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LMx4msguGaiK4ocPaodXYlEES6tcoeeo+tCCcMNyOa8=",
+          "cp39"
+        ],
+        "rectangle_packer-2.0.1-cp39-cp39-musllinux_1_1_i686.whl": [
+          "doVCW/cHLD8Cr9B3GwiMwDIvmmbosGihBFUtbhk7Ujw=",
+          "cp39"
+        ],
+        "rectangle_packer-2.0.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "/CMe2q/uaGkNL3N4jj5e/juTrI+hIa6LBz8CaWT1Yl8=",
           "cp39"
         ],
         "rectangle_packer-2.0.1-cp39-cp39-win32.whl": [
@@ -131136,6 +131204,32 @@
       "wheels": {
         "textfy-0.0.3-py3-none-any.whl": [
           "KkyEpbFWXJ5TTxCXPFLUaeIkhWIDwVcK/wpLNg0rdRY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "texthandler": {
+    "0.0.2": {
+      "sdist": [
+        "NmEc+J7nCuKTK3y+6sBZFyFGS3Q4ZLcluq30+Jv/ehY=",
+        "texthandler-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "texthandler-0.0.2-py3-none-any.whl": [
+          "y5Nz1497AEibKsiQv45JcxqyRuxNNATaM3Tl3D66tCU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "it78WYzqooGcWSpd2OCHVpRA1lJsK6H83PeThfCST70=",
+        "texthandler-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "texthandler-0.0.3-py3-none-any.whl": [
+          "X5pfdNE+Zm4/aKA5uVKVWe0ma/VjZQRRQIfnqntjd4I=",
           "py3"
         ]
       }

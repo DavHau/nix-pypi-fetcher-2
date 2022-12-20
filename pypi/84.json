@@ -18734,6 +18734,18 @@
         ]
       }
     },
+    "2.0.188": {
+      "sdist": [
+        "gD23GU9oiddhQnqufwCch4HU2PET/SZwSMoxGUeUpf4=",
+        "cdk-tweet-queue-2.0.188.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.188-py3-none-any.whl": [
+          "/pjX4CaklCgZ7iP+RM0/ynWA6hJXLAbIISY+Zw5ci18=",
+          "py3"
+        ]
+      }
+    },
     "2.0.19": {
       "sdist": [
         "IC7H+FOT0/gR6gi4Grr3UoG3Xs2ouJEUOyltt4p5G3s=",
@@ -20504,6 +20516,18 @@
       "wheels": {
         "ckanext_geodatagov-0.1.18-py3-none-any.whl": [
           "3d9/If2baS/sq5D9ZNa/blMQolHTEAmctIePnMgQaiY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "rSQ8OpcCTaFTiLdqpibTJ7wemFMEaY0OvjRVUNhq8xc=",
+        "ckanext-geodatagov-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_geodatagov-0.1.19-py3-none-any.whl": [
+          "TNRsaIzEYWG6c6/KrsSBH5QYt9ewumt/fH7PFghuv/4=",
           "py3"
         ]
       }
@@ -48674,6 +48698,22 @@
         ],
         "graphscope_client-0.19.0a20221218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "aYaIR6LB7+bKtHl20uYVbyjzFohIZLL3geYxkc8acEY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221219": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221219-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yTNLMUNITzX/Zt0MBRo1r6seMJMTAWtIq5U56milrDM=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221219-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SbHujKKy1pW6XNJHEh8C+rSakvNJzGzLcejY6RY1K+8=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221219-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8EZa2B1UXTyTMlaUfBD7eZEA0pkz+p9JXd8n/K3jIaA=",
           "cp39"
         ]
       }
@@ -87585,6 +87625,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_base_delivery_carrier_label-16.0.1.0.0.3-py3-none-any.whl": [
+          "cgVUwKob5LOTe66PaB61wPwvt6o9yE8eVvF0AIodJcU=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-companyweb-payment-info": {
@@ -106343,6 +106391,14 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "wheels": {
+        "pysui-0.5.0-py3-none-any.whl": [
+          "F4BF5NFX/LczUOjAnQcAD0Fe93TCxxzIlVcaNNlgqpI=",
+          "py3"
+        ]
+      }
     }
   },
   "pysundials": {
@@ -113116,6 +113172,14 @@
       "wheels": {
         "scales_nlp-0.1.7-py2.py3-none-any.whl": [
           "gYD1rgHAFBjwjNm067HfzKHKxyoDUDqFThRFazXe+6s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "wheels": {
+        "scales_nlp-0.1.9-py2.py3-none-any.whl": [
+          "heLYotfIh6L5WjOQ1DJD5+RN4skzhmS/liQe7kC2PdU=",
           "py2.py3"
         ]
       }
@@ -157033,6 +157097,20 @@
         "Atw8UjWKobgStb7jihPp5yIxX/UjUmuqlfEGkvWLr7A=",
         "zhpy-1.7.4.zip"
       ]
+    }
+  },
+  "zibanu-django": {
+    "1.0.0a1": {
+      "sdist": [
+        "ZFaENfiCuVwBx/r1wUZgvTaR7SoS4RpDbdY0sVh/+2w=",
+        "zibanu-django-1.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "zibanu_django-1.0.0a1-py3-none-any.whl": [
+          "p9Wg3fC6BoVmbuufJhv6JyotzVuW+bA7WyZV5B7liT4=",
+          "py3"
+        ]
+      }
     }
   },
   "zipapi.us": {

@@ -8661,6 +8661,56 @@
       }
     }
   },
+  "bk-precision-1900": {
+    "0.1.0": {
+      "sdist": [
+        "HYTAH2cTnGT4FbjkQVHktJaz1AxgSerBj0fN+ixf7g8=",
+        "bk_precision_1900-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "bk_precision_1900-0.1.0-py3-none-any.whl": [
+          "giX7KPLAhS6jAay95My/NWfhPDa9nNqc/ub6rURDhvg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "H+EO7NlOkIsPwWfL30gLVmsK8yRZkjWVbbXjV2n3pQ8=",
+        "bk_precision_1900-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "bk_precision_1900-0.2.0-py3-none-any.whl": [
+          "IukIQt1ZXGXhOzuKJLNb006MJb02WGylJgmJPvDKyQI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "qAKCbwPBK1v8/LLX4DuIACTc0w/0cgRScgELG7KdHWU=",
+        "bk_precision_1900-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "bk_precision_1900-1.0.0-py3-none-any.whl": [
+          "RQHFyTomKpch9l70/cxaTeSzpy73Hbfu4o0NUWC1fWk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "k/vV+iVyCS52nN6Wz+A/o7Lj0omtx5gsdBmuJDs6agk=",
+        "bk_precision_1900-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "bk_precision_1900-1.0.1-py3-none-any.whl": [
+          "pgWFvSyQwC2NnITpYSkT0JWyVSYwKqevMygV+yehF1E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "blackerz-wrapper": {
     "0.0.19": {
       "sdist": [
@@ -48696,6 +48746,18 @@
       "wheels": {
         "GOUDA-0.5.7-py2.py3-none-any.whl": [
           "7GKy31n4HWFSjxL86sGDUZLbEYh16uNXgHwxsQ4Zcs8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.8": {
+      "sdist": [
+        "HhHNDQuu8TyPN6qynLFbiXhZeNYFJRehtjXgDShV7Uo=",
+        "GOUDA-0.5.8.tar.gz"
+      ],
+      "wheels": {
+        "GOUDA-0.5.8-py2.py3-none-any.whl": [
+          "ty+aYkxVJGjnDpbTncsw6XS+KkiOthjchpxBcCU4b+8=",
           "py2.py3"
         ]
       }
@@ -99809,6 +99871,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "CIkj8age4nYx6IMUxgm/4isz2KQScbXwLob5lvg3/jE=",
+        "proxmoxer-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "proxmoxer-2.0.1-py3-none-any.whl": [
+          "utswlVB+SGt239p1F3VF3YXaYIo674WQ02KQElPxBXY=",
+          "py3"
+        ]
+      }
     }
   },
   "proxytools": {
@@ -111662,12 +111736,20 @@
           "nHFVDb+a2D9XfdvpskzjHrOJRXl3o0PVrEVfS4Uc3SQ=",
           "cp310"
         ],
+        "pywry-0.1.0-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "QziYI2O6BoIoVWqcME0jM4BZWpaXlEQZHCujPiR5Flk=",
+          "cp310"
+        ],
         "pywry-0.1.0-cp310-none-win_amd64.whl": [
           "7H5WXWihAkEoeitPRx/gH+FeWPmQtuIXUZZhIB1WRm0=",
           "cp310"
         ],
         "pywry-0.1.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
           "/kLrE5aR3mMpxwguwz8rNCIzO08/mrYHdzOzUQzUEbY=",
+          "cp311"
+        ],
+        "pywry-0.1.0-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "hMXn/W4ZHOXQa3jbGI4r77aHrlPrsbkEH+OGUO7FbOI=",
           "cp311"
         ],
         "pywry-0.1.0-cp311-none-win_amd64.whl": [
@@ -111678,6 +111760,10 @@
           "WKCCUbBRAzXvxRt/a2pcAfh4AqOWlfeG72XUkbAVxjo=",
           "cp38"
         ],
+        "pywry-0.1.0-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "+EQ7pCrxP8lx5tFWym2hQm+q0xmj305f81AaPk6pvmw=",
+          "cp38"
+        ],
         "pywry-0.1.0-cp38-none-win_amd64.whl": [
           "nOxt1K3QvWQ0Zj2PT+AwYSl9AQs31igJR8RWrLTbHw4=",
           "cp38"
@@ -111686,9 +111772,21 @@
           "QB437P3maXE+YFK5Ihy3zNGDhzYkY0jf4fiJwSudn+8=",
           "cp39"
         ],
+        "pywry-0.1.0-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "qxntErvsHT4vabkOIys+cUyv2YTDUWOeNLFT3gB1Lr0=",
+          "cp39"
+        ],
         "pywry-0.1.0-cp39-none-win_amd64.whl": [
           "UamuKb1hywAIhiRZWo58mJrpatCVCq0qi5EVGJyCt+0=",
           "cp39"
+        ],
+        "pywry-0.1.0-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
+          "p18FSpukyEbXlaKqNIhSUGIiYNZDNTrp5NE08QYUfGU=",
+          "pp38"
+        ],
+        "pywry-0.1.0-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
+          "44xYdIew0B8K/J3BDFNZfRVsboB8DW8HZuRf3Q6UGyQ=",
+          "pp39"
         ]
       }
     }
@@ -139304,6 +139402,18 @@
       "wheels": {
         "whoogle_search-0.8.0-py3-none-any.whl": [
           "lJLtdshHodjZDfQ5HyTzWPUhbDBt3Sn3JFYvNz+m7J8=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "M4CNXD2gzxttiR3uCLk/++2DkDFA+Nk+UkSlxYdYE88=",
+        "whoogle-search-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "whoogle_search-0.8.1-py3-none-any.whl": [
+          "rKBynRzGYUVcJOHCkofUAeH/xOtnnWmHeuEmEOkRr4E=",
           "py3"
         ]
       }

@@ -7451,6 +7451,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "wheels": {
+        "autowalk-1.2.0-py3-none-any.whl": [
+          "pqMJ/uRamNDodtP3GI4IzxcNx1Zdu7T8ZVt7A/bLb0U=",
+          "py3"
+        ]
+      }
     }
   },
   "avast.betterproto": {
@@ -64526,6 +64534,18 @@
         ]
       }
     },
+    "1.2.11b1": {
+      "sdist": [
+        "QTcHphitdVLw613jHWyKOF7VqAq9LBcT/AFO28QDJsg=",
+        "martin-binance-1.2.11b1.tar.gz"
+      ],
+      "wheels": {
+        "martin_binance-1.2.11b1-py3-none-any.whl": [
+          "q0UV44mDrnglPzKX+DQ9txJsJZ2ouafXEpUV0hRY1S8=",
+          "py3"
+        ]
+      }
+    },
     "1.2.2": {
       "sdist": [
         "nLY/BEpnhw1ti3HcdV4LP1A+iCDVNsKyTdsy4tIy83w=",
@@ -83862,6 +83882,14 @@
       "wheels": {
         "odoo_addon_website_sale_product_detail_attribute_value_image-15.0.1.0.0.3-py3-none-any.whl": [
           "d2qpeiK/C93RvdABt9Y+vbzMEuDoYWj7Jq0ZVcUoqEI=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_website_sale_product_detail_attribute_value_image-15.0.1.0.0.5-py3-none-any.whl": [
+          "kZn9uuX5KM0W8wBPYLBIoW3AenM+i+onTOZtm0Ggvmc=",
           "py3"
         ]
       }
@@ -130009,6 +130037,20 @@
       }
     }
   },
+  "temper-core": {
+    "0.0.3": {
+      "sdist": [
+        "DL1kwHVUPjTAUaQm4dMTz/XBa65KLyAIKpjk1v3Yg+I=",
+        "temper_core-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "temper_core-0.0.3-py3-none-any.whl": [
+          "K1VWmX29oHq9qG1JpCrKCBfsFGjOYwAso5i8hcLLMEc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tencentcloud-sdk-python-billing": {
     "3.0.251": {
       "wheels": {
@@ -144607,6 +144649,62 @@
         "Hb1zvWoCSn3DpoxSzHGE8q7liJv0R1AL+rlcxd+LkNE=",
         "thumbor-7.3.0.tar.gz"
       ]
+    },
+    "7.3.1": {
+      "sdist": [
+        "LUU1UmLAKCBE1p9II/5BQRRVeLDECW2D/qTQWkmYlP4=",
+        "thumbor-7.3.1.tar.gz"
+      ]
+    },
+    "7.3.2": {
+      "sdist": [
+        "4MOLtnOh+tWygbh0oElSuURkyes5/+Kbp0Au1VPI374=",
+        "thumbor-7.3.2.tar.gz"
+      ]
+    },
+    "7.4.0": {
+      "sdist": [
+        "M6P9wZQq5hTbDRSKvtjhWWcVjf4YAV2t1wXRmXWljSw=",
+        "thumbor-7.4.0.tar.gz"
+      ],
+      "wheels": {
+        "thumbor-7.4.0-cp37-abi3-macosx_10_9_universal2.whl": [
+          "6ouQtHFrg4Q5t7agUisq4x1ZMzRWgJ35aJhCgZfYhbY=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-macosx_10_9_x86_64.whl": [
+          "PJ5Rv6FDhtwVptcFVVKkYZ4GctDGKXILZTRoiRI/Mr0=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-macosx_11_0_arm64.whl": [
+          "QKP9hSA1UBQsOURhtGO+fhJ+SXNAwB8+0Tu+MOjhQIQ=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "NbupmoyXyBN3tgl8mCrYC7z8JQYMIeN337JxxUOe0x0=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LKQFI/IVNUxZdXX3fToqpwTEmim3C5azGI+y9EzDzLc=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "I2UCw9kAMn4gRnQtp75ep9+8AfOcQ7zj+6Wb9A71VMc=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-musllinux_1_1_aarch64.whl": [
+          "jrw9c+Mv6qRcmCBZVTcm6ygw98WFGobsqgHQPeZn06c=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-musllinux_1_1_i686.whl": [
+          "PEY3lTHFK6nuCplu+dHBOJ+WZDspnmCDNjz4U++8NyE=",
+          "cp37"
+        ],
+        "thumbor-7.4.0-cp37-abi3-musllinux_1_1_x86_64.whl": [
+          "jyB+ZgLaU50xnjk4a6oTfTVyy4JUC3I0re0lONcG5aE=",
+          "cp37"
+        ]
+      }
     }
   },
   "thumbot": {

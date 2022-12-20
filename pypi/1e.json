@@ -6013,6 +6013,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0": {
+      "sdist": [
+        "wYzSAvo3K+vEH6qe1XZGdb2+NkL6L2+vKpXepOT+sD4=",
+        "arelle-release-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "arelle_release-2.3.0-py3-none-any.whl": [
+          "fs2yN3JMvBkv3Ae3gv8+QAMHGnmLyKDRo7kkPj8+dF8=",
+          "py3"
+        ]
+      }
     }
   },
   "arg-cat": {
@@ -20389,6 +20401,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "cherab-phix": {
+    "0.2": {
+      "sdist": [
+        "lQ4vLvijHJAIyQMut2qeMwbAdl6zV8qYGX6DiqBy6I4=",
+        "cherab-phix-0.2.tar.gz"
+      ]
     }
   },
   "chess-python-nightly": {
@@ -37412,6 +37432,20 @@
       "wheels": {
         "eficheck-0.0.1-py3-none-any.whl": [
           "cLVN8KVESyTdIcsTZ9pQCucopxHVVc7kkvcGADVXjaA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "einshape": {
+    "1.0": {
+      "sdist": [
+        "U1ONdd0Jn06tSk94b6/csLcpu1h+Czr+yiXO7xjJrBQ=",
+        "einshape-1.0.tar.gz"
+      ],
+      "wheels": {
+        "einshape-1.0-py3-none-any.whl": [
+          "QtpMLeo6J/h+5Fp87lBypja5fLGEuwe/XWQSug/3uWU=",
           "py3"
         ]
       }
@@ -106040,38 +106074,50 @@
         ]
       }
     },
-    "0.6.0": {
+    "0.6.5": {
       "sdist": [
-        "Mry9CkQXt0/hZeb3L6Ydm5VT4tSzPl6WN6WeeWLCMjM=",
-        "pymino-0.6.0.tar.gz"
+        "0U1m8knB24bZJN0Mzl1Wixyp5YJcxU/bWOVqOMkjUf0=",
+        "pymino-0.6.5.tar.gz"
       ],
       "wheels": {
-        "pymino-0.6.0-py3-none-any.whl": [
-          "suFK0ABnid8JsfLWj2QiX7EW/NVGB4/VZk9NWb7zdhY=",
+        "pymino-0.6.5-py3-none-any.whl": [
+          "alb3oWWofuuH/FEZw0t8m8/pM1s7PmxkhC0bEffe9lo=",
           "py3"
         ]
       }
     },
-    "0.6.2": {
+    "0.6.6": {
       "sdist": [
-        "oAKXJ00qmuXx+7gFqCj6gZRUgpU3kx/tfAplBlWLVY8=",
-        "pymino-0.6.2.tar.gz"
+        "t2XWtvslCFFfqia9QATdmGG4IY58DMizbI/RsdrOtsQ=",
+        "pymino-0.6.6.tar.gz"
       ],
       "wheels": {
-        "pymino-0.6.2-py3-none-any.whl": [
-          "VSp4MGJxmiMi0ojrSpDYu24DQQ+W0tljWjU+vyndhm0=",
+        "pymino-0.6.6-py3-none-any.whl": [
+          "zsx4vqCDq8imNjk98nG6xIDkNMq6XHFAQYxbbic9ibQ=",
           "py3"
         ]
       }
     },
-    "0.6.3": {
+    "0.6.8": {
       "sdist": [
-        "8EG+UXYqXEuAbCfreTM963C0p4MZeiDV/jDpD8HZcUQ=",
-        "pymino-0.6.3.tar.gz"
+        "UkxnkWxnwsaiFipGvwWwrzOCK/qdq7StNjjfM0xpCf0=",
+        "pymino-0.6.8.tar.gz"
       ],
       "wheels": {
-        "pymino-0.6.3-py3-none-any.whl": [
-          "ThML4kqgFZ9aeOIRlFI1k1/ZCmztJEB3nhHWH/9cHYc=",
+        "pymino-0.6.8-py3-none-any.whl": [
+          "DHVqwW7PitpdfI4JfZ+8RvNIdRo6h0bwdxxoteyrxHE=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.9": {
+      "sdist": [
+        "pg7tSu//LGpXBbhiV9iPxIYX+KgU7vK9/cSvBHbBhVQ=",
+        "pymino-0.6.9.tar.gz"
+      ],
+      "wheels": {
+        "pymino-0.6.9-py3-none-any.whl": [
+          "HOncRN5m+L1MOu26qObuIXj+z073Nlczr6+W4ZD4OE4=",
           "py3"
         ]
       }

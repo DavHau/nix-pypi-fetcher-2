@@ -35995,6 +35995,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.1": {
+      "sdist": [
+        "XbE3hoBvMnHtS/T5Kx1WqEveD9Bs+s2mPC56CI/+X6o=",
+        "demisto_sdk-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "demisto_sdk-1.8.1-py3-none-any.whl": [
+          "T5Lvq+gq10utLro36tSod5YNws9dw0BRJmMXYOfU0ZE=",
+          "py3"
+        ]
+      }
     }
   },
   "demo-kanchan": {
@@ -38200,6 +38212,18 @@
       "wheels": {
         "django_declarative_apis-0.24.0-py3-none-any.whl": [
           "bH1TAPlTVpF/XRFdQ1/+poedlRBrmACe+PnLh8URyQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.1": {
+      "sdist": [
+        "6WIU0kSI5dECiogHguzjYicip3FT7R3/cS/zpZC3HBw=",
+        "django-declarative-apis-0.25.1.tar.gz"
+      ],
+      "wheels": {
+        "django_declarative_apis-0.25.1-py3-none-any.whl": [
+          "rZb8vEL73xxo9UdB4HCOe8o3b4QqOtIKNdusKZl/rFU=",
           "py3"
         ]
       }
@@ -83062,6 +83086,18 @@
         ]
       }
     },
+    "1.0.10": {
+      "wheels": {
+        "navconfig-1.0.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KVmo6rWlWwKP2Z4V9c9i/Nrr73wK+6PGtzKbqKNF7Gg=",
+          "cp38"
+        ],
+        "navconfig-1.0.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zZJmi0z6lAr202uNHj7NTE8AUxTTp/3U98avIlgITBI=",
+          "cp39"
+        ]
+      }
+    },
     "1.0.2": {
       "wheels": {
         "navconfig-1.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -113989,6 +114025,14 @@
           "py3"
         ]
       }
+    },
+    "0.4.9": {
+      "wheels": {
+        "relenv-0.4.9-py3-none-any.whl": [
+          "IReqBhI6TmnaKkTdRP6tkDh8QOCpWwjv+US/SDH7JtM=",
+          "py3"
+        ]
+      }
     }
   },
   "remoteexecutor": {
@@ -125820,6 +125864,18 @@
         ]
       }
     },
+    "0.1.130": {
+      "sdist": [
+        "inCIss+azXCbGvt64FLYXrBRxh7y+PPbwrF0Pq1mBIs=",
+        "state-machine-semaphore-0.1.130.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.130-py3-none-any.whl": [
+          "T5LAm4f1YctIFJPizcF8JynvZKXKoORXN6wIqDg9M24=",
+          "py3"
+        ]
+      }
+    },
     "0.1.14": {
       "sdist": [
         "sdxOWtV2s9g/dNThY/BBZcn3psTFXbpgvpEXpHanwW4=",
@@ -128148,6 +128204,22 @@
         ],
         "stonemark-0.2.12-py3-none-any.whl": [
           "XXOw0R6tCYuzeqVJlOLaCOGTDtAFEpHnY575R8fG4Ng=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.13": {
+      "sdist": [
+        "mLtv2EgOxOQBUk1mP9CptIyT8id4uYmyhxL7dI2ZocM=",
+        "stonemark-0.2.13.tar.gz"
+      ],
+      "wheels": {
+        "stonemark-0.2.13-py2-none-any.whl": [
+          "mSd2us4JNP1KuLjmVBPc1oQZt3s6NOoqNtWkYM02mu8=",
+          "py2"
+        ],
+        "stonemark-0.2.13-py3-none-any.whl": [
+          "s7T1AtzpbzliGuCTIhBdFFWe+rGDOeOOCHELNj6PAqg=",
           "py3"
         ]
       }

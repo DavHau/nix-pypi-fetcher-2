@@ -14827,6 +14827,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221220": {
+      "sdist": [
+        "ASQshAkwI3Ns+7oDTNikIpgiAkcm3OBSGxRzqsd6rHQ=",
+        "bigdl-dllib-2.2.0b20221220.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221220-py3-none-macosx_10_11_x86_64.whl": [
+          "PqywwYQj5zFd1BN2jzFZA5Tg7L7dZRl+ddvNIqNCoiY=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221220-py3-none-manylinux1_x86_64.whl": [
+          "sqbStn2r1tTkDaCi6uzgQZR0YJE8VEHqRpl89dSwB+c=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -73000,6 +73016,18 @@
         ]
       }
     },
+    "19.2.0": {
+      "sdist": [
+        "FHCYWSgZH7fpchiA+M+Pxp03B4RT9E9K+dQ0+040mk0=",
+        "nextstrain-augur-19.2.0.tar.gz"
+      ],
+      "wheels": {
+        "nextstrain_augur-19.2.0-py3-none-any.whl": [
+          "pXyXteR+60TfbaTWVki0EbjEW3QG3barxaUjhWuXXI4=",
+          "py3"
+        ]
+      }
+    },
     "3.0.0.dev3": {
       "sdist": [
         "81QzwX7GMWKC8gnA68+rBM52GT6zXCV19CcCINX3WAs=",
@@ -83930,6 +83958,54 @@
         ]
       }
     },
+    "0.0.116": {
+      "sdist": [
+        "M0Qa+XXmO9ZOOHJuhWz8zcmD4xG1pak09PQvqQdsw7I=",
+        "pepperize.cdk-github-0.0.116.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.116-py3-none-any.whl": [
+          "InTCZ5tuj9YDCKKtFAaPOEL6xT41ndCm1axDJme2i/A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.117": {
+      "sdist": [
+        "QFpTBR/TpgRFIs3FDc744U8dAj6iLOfb65ltpvwblz8=",
+        "pepperize.cdk-github-0.0.117.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.117-py3-none-any.whl": [
+          "JLhrl39yizYhAmjGHkUdGOMrSZ7gqbMqmfPQiQjvr9g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.118": {
+      "sdist": [
+        "4mjvhBIf9eHGQXl4ScSVN8yyr8ZGnfrp/rGPEKNb9j8=",
+        "pepperize.cdk-github-0.0.118.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.118-py3-none-any.whl": [
+          "yyTZ3AS5pWsvVjz45WLxCpy4xoyG4nZUQK0SAt4+jGo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.119": {
+      "sdist": [
+        "5pMsA5cXYrnhE0uvLEn3GJTOb8/I2rYv+5ZKeW4xZSs=",
+        "pepperize.cdk-github-0.0.119.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.119-py3-none-any.whl": [
+          "ZV8trDC0EWQreC3LRhkHnSsxTqVX3BUwHZyJla69pb4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.12": {
       "sdist": [
         "FBZDGY+61sDDHXMgkctbaGStwLhxw79XL6IF5NoBZlE=",
@@ -83938,6 +84014,18 @@
       "wheels": {
         "pepperize.cdk_github-0.0.12-py3-none-any.whl": [
           "vveT8vWdanCkuf9aSVeurcnrI7IC8H15IYvyboUJuMY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.120": {
+      "sdist": [
+        "J9EoVLd/wpzQZfBBZAUXAYEpm3/nZcafQO7zwrb28mA=",
+        "pepperize.cdk-github-0.0.120.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.120-py3-none-any.whl": [
+          "Jfb3oLmM1Eg7V4JhPARM9YfNEBdU9vNei55Dmn+nOZo=",
           "py3"
         ]
       }
@@ -138660,6 +138748,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221218-cp39-cp39-win_amd64.whl": [
           "wmGd9+kEBuC9156TtIB6QoNEzL34AZoSSoYWcE0l4y0=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221219": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221219-cp310-cp310-win_amd64.whl": [
+          "33nh1ts71TMajZXaHPblyfNK1Omtif1JUTZFIBB9d8s=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221219-cp38-cp38-win_amd64.whl": [
+          "gAnu3mHWyJhCequQ0F3wWBaeNyqkMHSDzo9SfohGaCI=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221219-cp39-cp39-win_amd64.whl": [
+          "i1UYY9ifJyuBUEJSA8L17PKU8AUTRzXBOpjh7tXMfA0=",
           "cp39"
         ]
       }
