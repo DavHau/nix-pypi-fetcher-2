@@ -16327,6 +16327,12 @@
         "0jcI6o0dQsYJf+B5AZ+d6Q6cg3hB7GkcWcPpNf1wDYg=",
         "blackjax-nightly-0.9.6.dev20221220.tar.gz"
       ]
+    },
+    "0.9.6.dev20221221": {
+      "sdist": [
+        "ujxCwgoEWtZqC+JWHyEn2PL8Hivcqmb+IkxewqAO4hk=",
+        "blackjax-nightly-0.9.6.dev20221221.tar.gz"
+      ]
     }
   },
   "blazar-nova": {
@@ -40809,6 +40815,44 @@
         "KhXOyWS7ZKY16l8xs+ISEuKXhUsJ4F3kli32yKS35zs=",
         "dsnd_distributions_nsaenzz-0.1.tar.gz"
       ]
+    }
+  },
+  "dumcure": {
+    "0.1.0": {
+      "sdist": [
+        "vQrSHocUN6ykBmetIvuufcwj6hkYssTtIBCJ4tjVTVY=",
+        "dumcure-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dumcure-0.1.0-py3-none-any.whl": [
+          "tVIeYCB16qTHUJIcB81//YzSPN3p0QcJ4bttufTXb7c=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "rDPMje1tI22v0MSKZfSgZ3NRn5PQOEIjSC5YfWznOqQ=",
+        "dumcure-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "dumcure-0.2.0-py3-none-any.whl": [
+          "7hQCkDI88mvkB43UpG1fsN+LLnZluuVq2ikUaombFBs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "HfqUc4iCahbZJXH6t7OdpiO20BKogZToj9aoglUaBJw=",
+        "dumcure-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "dumcure-0.2.1-py3-none-any.whl": [
+          "udkLQr0L6BtLspCHXbBKsrKOc22WNDOiF99a5Sgu66U=",
+          "py3"
+        ]
+      }
     }
   },
   "dummy-prop-library": {
@@ -87876,6 +87920,18 @@
       "wheels": {
         "mypy_boto3_route53domains-1.26.0.post1-py3-none-any.whl": [
           "UJ/bGpzInRWO9AM4DGRlwhLyShgtpTPoIiUi6Hrjmqg=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.34": {
+      "sdist": [
+        "oQa5KIiOqpXVBHFLGJKBfnBIb3pRui74iiM12+43mBk=",
+        "mypy-boto3-route53domains-1.26.34.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53domains-1.26.34-py3-none-any.whl": [
+          "krtMX1JGtJy5NW8PkYQ2kcLBWR/jJDwsTJbpe8lQGv8=",
           "py3"
         ]
       }
@@ -141945,6 +142001,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.798": {
+      "sdist": [
+        "2IfzDi5W2ew95bfNEYYwoH8iMQ85QcxvUxa7yHvB1+Y=",
+        "tencentcloud-sdk-python-gaap-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_gaap-3.0.798-py2.py3-none-any.whl": [
+          "Erjx29wIQzEfc2e9PFhsYsr/LR1U9hOiS9J1C6H3UWA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-vpc": {
@@ -148196,6 +148264,18 @@
       "wheels": {
         "tencentcloud_sdk_python_vpc-3.0.797-py2.py3-none-any.whl": [
           "mbMEYrPjcdZl1sOzcf6kreQ9GyUJ5+VS7lJYLnBdNbI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.798": {
+      "sdist": [
+        "QA1WN/4hW6qSpi+qbbXagygcEGfRXaLq05eo9ZyWLeg=",
+        "tencentcloud-sdk-python-vpc-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vpc-3.0.798-py2.py3-none-any.whl": [
+          "v2N0f9SSTsbXUCqQALBON5IPh3uRIK7xKpBfSfGGyGA=",
           "py2.py3"
         ]
       }

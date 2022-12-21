@@ -24558,6 +24558,12 @@
         "DeepCell-0.12.3.tar.gz"
       ]
     },
+    "0.12.4": {
+      "sdist": [
+        "ZgU6Tv0PApkDLl/DZu9faD08HEbT/Qtq2IJjyGwMQbQ=",
+        "DeepCell-0.12.4.tar.gz"
+      ]
+    },
     "0.8.0": {
       "sdist": [
         "PsPVMEs8gOdFKPB/fbic3nexxHlsFnnRtqyjgb3kh7w=",
@@ -89796,6 +89802,18 @@
         ]
       }
     },
+    "3.2.0": {
+      "sdist": [
+        "fD5v5E7rXLYO/X2rhvbcJvB/reYws09a0QbKVRFdCmo=",
+        "pybricks-3.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pybricks-3.2.0-py3-none-any.whl": [
+          "5Q1B+crz0m7tywnYe9nRTBGr/VF2AL93OiwgJB/o6dc=",
+          "py3"
+        ]
+      }
+    },
     "3.2.0b1": {
       "sdist": [
         "BFgByTLdAxg2mn5RlZvFSyUv9KyFYqUFkETDNBeKOgk=",
@@ -96018,6 +96036,12 @@
       "sdist": [
         "t4B9/j0ZR1w4lgK0H9PFBVa9OHCtqVZyDCVPwfaoEso=",
         "pyrfuniverse-0.6.3.tar.gz"
+      ]
+    },
+    "0.6.3.1": {
+      "sdist": [
+        "38nZTI+pA5WSmN00FipeVSdYn8le5t/5AQdIp7XvA3g=",
+        "pyrfuniverse-0.6.3.1.tar.gz"
       ]
     }
   },
@@ -131527,6 +131551,12 @@
         "JCDUV7RiIfw322fLxSU7wu71RjQ1vNYClf71Bn+Ti9Y=",
         "unstructured-0.3.2.tar.gz"
       ]
+    },
+    "0.3.3": {
+      "sdist": [
+        "qYmPmzy8Uz9OCr8qBl3agbBHcSV0v1uwbrycFK+3WjE=",
+        "unstructured-0.3.3.tar.gz"
+      ]
     }
   },
   "upysize": {
@@ -157614,6 +157644,34 @@
         ],
         "xia_fields-0.2.24-cp39-none-win_amd64.whl": [
           "pDnNrIbLosKvLJLQY2vEubFC5daD2l/47DlXusq4RDM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.25": {
+      "wheels": {
+        "xia_fields-0.2.25-cp310-none-macosx_11_0_x86_64.whl": [
+          "FXcvE3jvEFGGtbY072oG90luExl+i1G+NUh+BHbWH9Q=",
+          "cp310"
+        ],
+        "xia_fields-0.2.25-cp310-none-manylinux1_x86_64.whl": [
+          "vEUH+yxtnzi8eVHUykFXn6fFd0owUfL+fuYjdQ/SivY=",
+          "cp310"
+        ],
+        "xia_fields-0.2.25-cp310-none-win_amd64.whl": [
+          "jIKEIJw6gStV4jEzykoHiWfglsjigv1BEstIEwWOms0=",
+          "cp310"
+        ],
+        "xia_fields-0.2.25-cp39-none-macosx_11_0_x86_64.whl": [
+          "DTScQDbWlcg7H6DJEzh0h3Mk+o6cliIivrKlN76waEY=",
+          "cp39"
+        ],
+        "xia_fields-0.2.25-cp39-none-manylinux1_x86_64.whl": [
+          "RZ97TLV41gBaQ4/BHah8y2FNV3Drs2cZPxMWiAbnHIM=",
+          "cp39"
+        ],
+        "xia_fields-0.2.25-cp39-none-win_amd64.whl": [
+          "tyM2pR7k5HIfq8v6Y6mIkNPSqH0t+C6yxsREtwJM28s=",
           "cp39"
         ]
       }

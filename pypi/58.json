@@ -1801,6 +1801,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "+R/HqOmp0serln9XWZrtW4iuMU93DQYTNbJUf393f/Y=",
+        "aiohttpx-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "aiohttpx-0.0.5-py3-none-any.whl": [
+          "AOfTnrqx+PhJhYZSrDF3IJGf5EZuaw6r8J08HTqDvRU=",
+          "py3"
+        ]
+      }
     }
   },
   "aiomyorm": {
@@ -19348,6 +19360,18 @@
       "wheels": {
         "compsyn-1.0.1-py3-none-any.whl": [
           "1wmO3QRADxT8BzOKDsZrpPws4mywoEC3BvkEeyBiiw8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "oNIwUP0uLYjONi6S9Zvtu94Mo28SICtuHP0/pFfUkPM=",
+        "compsyn-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "compsyn-1.0.2-py3-none-any.whl": [
+          "/sPqnV9NRqaqdUHVxqEm1xxZvn4sBJrCSHWa4oH1Ji0=",
           "py3"
         ]
       }
@@ -116880,6 +116904,18 @@
         ]
       }
     },
+    "1.1.18": {
+      "sdist": [
+        "8/OYX9OqS0tDAvF6DoBJ5KWEKufopRpTmw7A4fcRA+c=",
+        "SigProfilerExtractor-1.1.18.tar.gz"
+      ],
+      "wheels": {
+        "SigProfilerExtractor-1.1.18-py3-none-any.whl": [
+          "eZFuDtMma7dAuehQ0EXE2EyJ53/mqlKOv2eI0soT5c0=",
+          "py3"
+        ]
+      }
+    },
     "1.1.2": {
       "wheels": {
         "SigProfilerExtractor-1.1.2-py3-none-any.whl": [
@@ -136363,6 +136399,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.798": {
+      "sdist": [
+        "Cu82Ti0XN9pWFYGDq74FOzvv0Q2QFdRKNMQc43Y+SSw=",
+        "tencentcloud-sdk-python-billing-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_billing-3.0.798-py2.py3-none-any.whl": [
+          "QNpikEvGQkYl0Hm+68T/gusEY7/BfENn5T4KbC4mPsQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-sqlserver": {
@@ -142653,6 +142701,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.798": {
+      "sdist": [
+        "kv5PewIwSRqTB0Zrsf5X78z6PCNn9u6xL9rHsuuEhcM=",
+        "tencentcloud-sdk-python-sqlserver-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sqlserver-3.0.798-py2.py3-none-any.whl": [
+          "V9CqjQD8WtQA0IEZwJqHoQ8imm+Xm/UpIzHt0xjw4CM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-pricing": {
@@ -144722,6 +144782,50 @@
         ],
         "thumbor-7.4.0-cp37-abi3-musllinux_1_1_x86_64.whl": [
           "jyB+ZgLaU50xnjk4a6oTfTVyy4JUC3I0re0lONcG5aE=",
+          "cp37"
+        ]
+      }
+    },
+    "7.4.1": {
+      "sdist": [
+        "I2jXzRQI/7AOqlDYIkFpySBS6vNs49KHpZfX1b9WEU0=",
+        "thumbor-7.4.1.tar.gz"
+      ],
+      "wheels": {
+        "thumbor-7.4.1-cp37-abi3-macosx_10_9_universal2.whl": [
+          "QXOlAT4twFm+AwWePE7GI5nZ4FeIfb5Csocx/SvbZEY=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-macosx_10_9_x86_64.whl": [
+          "cOX+MwPYuPT75QMQ0f0cqR33FVT4SrPHB+LUip1NOlo=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-macosx_11_0_arm64.whl": [
+          "2bicWGzEU+3L7uW0yPz+42JXu95kr17sEqfmCNH4EEo=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "KVfCneEqDRFyFzvD0nrDFhq0b5eJEjy7hP0YyKmY5yM=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wRL4hPdZrFcAqgdyqagWvIbncTxEXZkF60pffy9tXRs=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "rmXrvxIYml6lC4j4n6Rpwcd4J/6TDJtCDZRPeN0E7u4=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-musllinux_1_1_aarch64.whl": [
+          "1WLoe5yIgNw70wuOncM/UWInjOCHgyjn+duQZjJcl4g=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-musllinux_1_1_i686.whl": [
+          "MlV0IhOz52EXIF/i3wGnZ5tmzCPSMAtCA/vAS2aHekA=",
+          "cp37"
+        ],
+        "thumbor-7.4.1-cp37-abi3-musllinux_1_1_x86_64.whl": [
+          "URAOJgTLF+MLjjfr9J606bjdAknFyCYq5TnA3KSq9ZQ=",
           "cp37"
         ]
       }

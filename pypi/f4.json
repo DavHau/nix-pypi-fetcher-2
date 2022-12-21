@@ -21993,6 +21993,12 @@
         "YXsvjkyLrNfP6h8ihVEvOHxruTaUJlnKhahlQs9qxGE=",
         "cvnets-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "uu/7BuwJFqi0iOMkEox+mqHCNBmzjhKpxptn/mby4wU=",
+        "cvnets-0.1.2.tar.gz"
+      ]
     }
   },
   "cybox211": {
@@ -30016,6 +30022,30 @@
       "wheels": {
         "django_q2-1.4.6-py3-none-any.whl": [
           "6riBOwPJcNbhMl6efc5FvqnnyHxfowGSaShvL1A3SsI=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.7": {
+      "sdist": [
+        "CB/kYFHuWITh+5egiT0mgWYXRKByzpQ3aeec5fMy5ZY=",
+        "django_q2-1.4.7.tar.gz"
+      ],
+      "wheels": {
+        "django_q2-1.4.7-py3-none-any.whl": [
+          "uPNQgQzPl59+ehleZxYVqlNjJermUIXHpWUMGNlMVG8=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.8": {
+      "sdist": [
+        "5uFJNrmUIPpoE3rvun0+O6IXICR75NRm6Njkp660wlc=",
+        "django_q2-1.4.8.tar.gz"
+      ],
+      "wheels": {
+        "django_q2-1.4.8-py3-none-any.whl": [
+          "BzlEr05fmUzzSjDaXzMxxIWxP1KcypCnf68aR4qrWY8=",
           "py3"
         ]
       }
@@ -38412,6 +38442,18 @@
       "wheels": {
         "farm_haystack-1.12.0rc1-py3-none-any.whl": [
           "P/YUxz79MbWZWKmz7eVGeoss1mR2nCwhvp8zu8ZL8nY=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.0rc2": {
+      "sdist": [
+        "NLzNIH8D2iP+rz6qmmTMjU7C5gJ0BUWuK7Jpz878dz8=",
+        "farm_haystack-1.12.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "farm_haystack-1.12.0rc2-py3-none-any.whl": [
+          "qBUFqy+L0oonrFjgi4vs2d14DL79UUJvyPLyrNFzpec=",
           "py3"
         ]
       }
@@ -51648,6 +51690,18 @@
       "wheels": {
         "homealone-0.0.21-py3-none-any.whl": [
           "L7cotvT4L8IV7eD1cDI4vxF0VzW1OvscoMdaTQDNb5U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.22": {
+      "sdist": [
+        "OhZs4KUuQQ5eSBpQqqB0NR5RdilviQ2+ObQcz3Ms3oo=",
+        "homealone-0.0.22.tar.gz"
+      ],
+      "wheels": {
+        "homealone-0.0.22-py3-none-any.whl": [
+          "jw9/osTV1KFF4VRKiyYPZbf2Mb6DSMv4EFDO4jTp7GY=",
           "py3"
         ]
       }
@@ -65216,6 +65270,18 @@
       "wheels": {
         "measure_incremental_development-1.0.0-py3-none-any.whl": [
           "uF/o0jyziBA61NxQtw61ha5yvY8aj+5zaAAVcMzki4s=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "xAVH6j8SIVmNUwfoJx/uAneaJ9WTw5OvaIYWv6088PY=",
+        "measure_incremental_development-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "measure_incremental_development-1.0.1-py3-none-any.whl": [
+          "IHMKVQwKnVlOs1kJF7/GzhdwM5Ji2SDJzS59yfhJts8=",
           "py3"
         ]
       }
@@ -119779,6 +119845,42 @@
           "py3"
         ]
       }
+    },
+    "9.0.1": {
+      "sdist": [
+        "hkVLs7fc/rDbYIqrcKbXdCkQtvp/2UxwhHA7Ea45/ks=",
+        "rubx-9.0.1.tar.gz"
+      ],
+      "wheels": {
+        "rubx-9.0.1-py3-none-any.whl": [
+          "5Xbq7p/h0SOUa3eh2o9d5tVtmxnn40T1+ilbjZv+Gdc=",
+          "py3"
+        ]
+      }
+    },
+    "9.0.2": {
+      "sdist": [
+        "8LI8R+iy5MAFxXmAaOAMLf1bK78HeMqddmWtcLMh3JU=",
+        "rubx-9.0.2.tar.gz"
+      ],
+      "wheels": {
+        "rubx-9.0.2-py3-none-any.whl": [
+          "e+XAdHA2xFg5MMijyT1X9TCyU/pEaGQI1rI83Wv4U4o=",
+          "py3"
+        ]
+      }
+    },
+    "9.0.3": {
+      "sdist": [
+        "QlHK+WBkfnd2wBijLk9wm3y636YX/qKL/bhZsK751bA=",
+        "rubx-9.0.3.tar.gz"
+      ],
+      "wheels": {
+        "rubx-9.0.3-py2.py3-none-any.whl": [
+          "ecA7MIENJ6aDtlBPCLQTNIWMQ63FejuhNXOyUXq0g7U=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "rubysmellbear": {
@@ -137612,6 +137714,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dnspod-3.0.797-py2.py3-none-any.whl": [
           "x4cYll99/S44V3zujJQcDtBif5UDXZTOki5tPLGjsMA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.798": {
+      "sdist": [
+        "z9MGDjNBGx4zw/riwEWORf+U2Rci7wjKNqIsCQ7PQt4=",
+        "tencentcloud-sdk-python-dnspod-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dnspod-3.0.798-py2.py3-none-any.whl": [
+          "bToN0hZxwiotXV0nRE1SvSKJBD2n7vjMBuxIHOLZxkg=",
           "py2.py3"
         ]
       }

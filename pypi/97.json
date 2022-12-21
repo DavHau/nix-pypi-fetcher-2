@@ -60255,6 +60255,20 @@
       ]
     }
   },
+  "getfilepath": {
+    "0.0.1": {
+      "sdist": [
+        "JFy2V7tuOY5QFB72ML+zAFLLTbkQrspyr1AdVSdkFDk=",
+        "getfilepath-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "getfilepath-0.0.1-py3-none-any.whl": [
+          "bKGAYWquqx0kgadZpPC64j5Ey5NtmjN8fle+xmG0dEU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "getlatesttinderbox": {
     "0.1": {
       "sdist": [
@@ -99378,6 +99392,14 @@
       "wheels": {
         "odoo_addon_hr_holidays_public-15.0.1.1.0-py3-none-any.whl": [
           "UIsJr43GnNnnVOJHLiFX1Y4/tYYJlhhLtk6B5hHEQbk=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.1.0.1": {
+      "wheels": {
+        "odoo_addon_hr_holidays_public-15.0.1.1.0.1-py3-none-any.whl": [
+          "MICwrSMVdYh+p+WD0snpc5z8twmjvSzo7pah+WwHtrk=",
           "py3"
         ]
       }
@@ -140681,6 +140703,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1.dev1671562133": {
+      "sdist": [
+        "Aa+St/lLVEVwZXahKKesbvNkxoKUju7AwTF9fD1c3KQ=",
+        "sparrow-cvat-0.1.1.dev1671562133.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_cvat-0.1.1.dev1671562133-py3-none-any.whl": [
+          "wtEvw3MYfoFdKwjPzZJoeGPCDxbeyuPEZYZ36qpON5Y=",
+          "py3"
+        ]
+      }
     }
   },
   "specular": {
@@ -160766,6 +160800,206 @@
         ],
         "zeroconf-0.44.0-pp39-pypy39_pp73-win_amd64.whl": [
           "ZDaqZsGKgrm5Z+FkQnSRZaflpIDImfdVon+7jdQHYPg=",
+          "pp39"
+        ]
+      }
+    },
+    "0.45.0": {
+      "sdist": [
+        "7deSzGLWla+nZmaPbcqky7n8FeQxYSUoXDkgh/5OKjA=",
+        "zeroconf-0.45.0.tar.gz"
+      ],
+      "wheels": {
+        "zeroconf-0.45.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "dxiKldRixb94TskKm7VkdF1hVLbIGLO6Uw/yVk17ZkI=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp310-cp310-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "+cC9OriqdLBtx69yWJ2cSVVdDXXisNM0UabmPx2okbc=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uFoTwD/Rn1hg3yGY75ygGGVs9EpnCENaZP+pRuPbxSo=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp310-cp310-musllinux_1_1_i686.whl": [
+          "RhmLZvX2Az+fupGtmv+G9d6pp1voEiaCjTnr8Rwd/Us=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "QaXn4T5/cVPbNPvFO0ciVGgQlT2HuIk2glzpCD7BZDI=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp310-cp310-win32.whl": [
+          "1sbc9qxAHzSAIO6ucUdeMK+kW+vJlDLRILz4wiJuP/4=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp310-cp310-win_amd64.whl": [
+          "xRbL5TqrVM2KlS7IblOkZWhcNxw4Mg6EYA+mWdn/rZA=",
+          "cp310"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "7Z/ir83CuHiALh1Myhx14ppQq8VBU7B/J86qNBa9d0w=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "IgjhmQZj8ejU7ZhwZ20W6o+7J902w1bZE77URDVmpBc=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "APG8/LfMOuagpZpwmPpqfawx69qBX9/YcNdriJt8XfA=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-musllinux_1_1_i686.whl": [
+          "vlpsc+Prrkw1PazuHZFlHxOufGNGkXFe9Y3BWD1cMCg=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "i8rV7QEBucE8t7h4fKcnmteudLidEiDQjazPswZQ7Uc=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-win32.whl": [
+          "cYhN7dj782iUpTvyHYwEJffB89rBBFN5hVfqEt1kNe8=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp311-cp311-win_amd64.whl": [
+          "53H3PF12Lg/aZRzBAIc7J26lwbulo+HIV2uF1W0E8Ss=",
+          "cp311"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "9+wWROYyrQ5AD+WjyILJONcjj3gqUEqFxHUAOUHTqjk=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "lMZCKfwRtgzq+lbl7St37vSbrw9AuBFNgHx9X0Ksd84=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GD4id8FACw+CFCwCA+jpVldypygoXSuxl4wrRVbas5o=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "wemOQeJqE5dWWitqt5tsCOxa1LkGDpuC7iE42jiEjq8=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "royxggV8cd/SVbYyaksuVQ87LJLwe81k8ltU1zCPGxA=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-win32.whl": [
+          "BpbvT0Z3SFkXRyjTpdFcEVPhC+zJy3hgQW3pHl8LwKI=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp37-cp37m-win_amd64.whl": [
+          "ttvtIDUL8LB2XPDT1WvEJEQPUPj4KBfbOtXblTbDDJ8=",
+          "cp37"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "hIGksvLehgykxRf/2RrvYnFoJHs5Dh/fV2y79M1VywE=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "1ptb0wCRAv7z1AHVoXPKsAaTJ5sDsP9YMSiThPu30+s=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ugGm8U3mtSmMFGrGfR63fRkSpfp7uKlI5aCvYF+PcKA=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-musllinux_1_1_i686.whl": [
+          "oGTf270sMUDUH/eCcACM1VvcdAIeUom94Dgor5C7KlI=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "+lsH+ZmjagUhty/3nnycZGEqyGy42LxTRiVxwQ0DxAM=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-win32.whl": [
+          "g+b4/GUczMm5PCLnI0iG4QqUPpGR6M3WnkdY+9vo5nY=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp38-cp38-win_amd64.whl": [
+          "tCuNrZ6yVlDtQWgvqOV539MC4m9Zh0bzYQKRIMxEVwE=",
+          "cp38"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "6eyglGoDhVUJRkNB7lORz07lgRsiTEhONAT4TCVSIVQ=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "ys8hdfcMNFV0j0mLDjz18JJWAKtQ2IL8sD53sRkBE38=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jGKLSvS1Y42O6QMWtaG0RMRRC+yOsAnHaKDKTbkDIWc=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "rNgz3BZ1yFDsUYXocjVZSHn2B5ffNabaV9Z6OyyGdC8=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-musllinux_1_1_i686.whl": [
+          "CGM4JdlBvCoMaK6HHRqWrxoKJLOk6zkZwj67HgADLwY=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "dcQGgz08b7MiLo4CzonRYoS0KuyRGJ8qhk46JIW7uVE=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-win32.whl": [
+          "n46S1ZHq2MJZ9d4MN6imJVsSHnjb+tp6J9oeZVTylsQ=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-cp39-cp39-win_amd64.whl": [
+          "XXXPLdz7nVI6fB9S8XJmReSEo4qLFAZf9zekhMwG8vg=",
+          "cp39"
+        ],
+        "zeroconf-0.45.0-pp37-pypy37_pp73-macosx_11_0_x86_64.whl": [
+          "PlS7RheVAk/hD2bc9Mt1VkksuyDOdwX8XNHspEmCOc4=",
+          "pp37"
+        ],
+        "zeroconf-0.45.0-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "sdZ6qb62PeeIAm/uLbbDZ1FgU8OL1HXrvPH21l5Z3To=",
+          "pp37"
+        ],
+        "zeroconf-0.45.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t52ZR0AcLEtid9VCM1RVBtXrbQCUNrM0srreeXENVoI=",
+          "pp37"
+        ],
+        "zeroconf-0.45.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "5dxO+ICQXN0rIQ3cnT5B1JpHGWdhl9oIfomrY2FpjxE=",
+          "pp37"
+        ],
+        "zeroconf-0.45.0-pp38-pypy38_pp73-macosx_11_0_x86_64.whl": [
+          "IChg1KoNlOJPgrYmeNjiGxbfdRv5+ZauC01saizDhGk=",
+          "pp38"
+        ],
+        "zeroconf-0.45.0-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "Sz9+sOGghKF8Rcw2IiB9tFbpLb9zfF8k9+e4MZDkBRY=",
+          "pp38"
+        ],
+        "zeroconf-0.45.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Dv5LLlxs39Fls5YdGJ6aB6Zyw+kBa16o3VCOC1x9K60=",
+          "pp38"
+        ],
+        "zeroconf-0.45.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "29NwgWgW8h1CgUZO48Jto79zGR27U9l1n9M1nv9qdxA=",
+          "pp38"
+        ],
+        "zeroconf-0.45.0-pp39-pypy39_pp73-macosx_11_0_x86_64.whl": [
+          "BTn/1f5RMbOX7Ce7ffp4Y5oXU/yg6BhjxzB0S2gVTjw=",
+          "pp39"
+        ],
+        "zeroconf-0.45.0-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "drRGCGBOitd/MXrV80ek326pppK7/FJm/XnvRa8z9qQ=",
+          "pp39"
+        ],
+        "zeroconf-0.45.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4ugnx01Ke4RAAw4iKk5oZasW9K2qv7ypNZJcp9QTJEQ=",
+          "pp39"
+        ],
+        "zeroconf-0.45.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "zq9ErmDbke++uNb5WKZwRjpSH+bJfrS3DFmQZArrFq0=",
           "pp39"
         ]
       }

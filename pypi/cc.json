@@ -9622,6 +9622,18 @@
         ]
       }
     },
+    "2.2.36": {
+      "sdist": [
+        "BwVHOtA4rln/ueCtIv+yzLIMee0uf0+lWbSr3JgOpDo=",
+        "aws-cdk.asset-awscli-v1-2.2.36.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.36-py3-none-any.whl": [
+          "tN67S7NeV1+mwb6J9krnGexRQ8LKsoh7c52xS4Oj5v0=",
+          "py3"
+        ]
+      }
+    },
     "2.2.4": {
       "sdist": [
         "F0OMrUquUga2VPilibwAwcSl3HEgPnz9BoZUeFmTkmc=",
@@ -93197,6 +93209,78 @@
           "cp39"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "CWP3dQgSbTXc9845M9D95bjgEjA2C88M4TButA6zLig=",
+        "psygnal-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "psygnal-0.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wbPLzn6L7bfeuFfLTWPxJke3JXqyEKuRo53D8pWLH7Y=",
+          "cp310"
+        ],
+        "psygnal-0.7.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "AGmQCdhLBmtIb+DFtMiLZ5AZ5hD7j5uNRgcii0fy++k=",
+          "cp310"
+        ],
+        "psygnal-0.7.0-cp310-cp310-win_amd64.whl": [
+          "s088DbB9j2ftC4EiN1LnsY9x+YFS9o/D9qtfuwuDFcw=",
+          "cp310"
+        ],
+        "psygnal-0.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "H6/WPME80vfiGXlQjdzZmeTUFgmw8EZr2ENFDHQk1Kk=",
+          "cp311"
+        ],
+        "psygnal-0.7.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "l5tkvKosmzNeUGNiLNZlnmyPPjJ2qMbA8TzpqY+tevU=",
+          "cp311"
+        ],
+        "psygnal-0.7.0-cp311-cp311-win_amd64.whl": [
+          "jvhvfFyAjmBzM76h8Twtcz/8wWfqKIEDNi88nlm6kl4=",
+          "cp311"
+        ],
+        "psygnal-0.7.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OeAC9fwnJHkO2IQP4JGwZy26m82peY9ML/TgWw57EVs=",
+          "cp37"
+        ],
+        "psygnal-0.7.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "nsu6An3JEfX5KSvR1s79FRHKbWj+BcoJtlGNhGCvvVc=",
+          "cp37"
+        ],
+        "psygnal-0.7.0-cp37-cp37m-win_amd64.whl": [
+          "aX7Qjs1kJcE1CFBkdR0vGJytSPBQYYtq+Q787FlTCM4=",
+          "cp37"
+        ],
+        "psygnal-0.7.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4zdJ3x2XJ2pw63C/LVnpTDPz8PsFYh8JcwQIJcNO6ec=",
+          "cp38"
+        ],
+        "psygnal-0.7.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "/754lFnwkzTqzXlGwY5kIp4HYfLa85yxngysXLO8RWY=",
+          "cp38"
+        ],
+        "psygnal-0.7.0-cp38-cp38-win_amd64.whl": [
+          "y3B/SjVgS6CThes2pJCqxKVGZLWQOkY22yGbq69RmcE=",
+          "cp38"
+        ],
+        "psygnal-0.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z2TJJ/NVt+DJA9k6UWue8/cPAgzMcWaC/1ENep+/EtE=",
+          "cp39"
+        ],
+        "psygnal-0.7.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "DRvbKdobFTpaRs7CyD9Ks9L8ZDuFv1Pjek7JGj/nI6Q=",
+          "cp39"
+        ],
+        "psygnal-0.7.0-cp39-cp39-win_amd64.whl": [
+          "PPDXWOPU5F38cPtJ7+JyJEte1Xcc2FAIZDqpGHSFVwo=",
+          "cp39"
+        ],
+        "psygnal-0.7.0-py3-none-any.whl": [
+          "UFHBkRdt2rgOBONziBTG9eSHlFnfGghUeNuAnDX4Lpc=",
+          "py3"
+        ]
+      }
     }
   },
   "pulathisi": {
@@ -130016,6 +130100,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tia-3.0.797-py2.py3-none-any.whl": [
           "b76X8yzsIIRDcHk5GLEjxrdyx9klWhXnIjnbXlEifdM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.798": {
+      "sdist": [
+        "1pP59WOCSRCrqvLFJJXUNp8US6bfYmjjgGDQ7FHFL2A=",
+        "tencentcloud-sdk-python-tia-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.798-py2.py3-none-any.whl": [
+          "nacZH4MXPJa4CtkrUrRkM+h2mRVbKI0SIEO0H9Yu/90=",
           "py2.py3"
         ]
       }

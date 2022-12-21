@@ -14843,6 +14843,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221221": {
+      "sdist": [
+        "rjteKWRA9edsvWNi8D2VfO9y4G/dS0FdxDEggobonrg=",
+        "bigdl-dllib-2.2.0b20221221.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221221-py3-none-macosx_10_11_x86_64.whl": [
+          "SgoWuEE+L83vx+P733MUvkrUtDFQtgu/eQttliJCOgs=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221221-py3-none-manylinux1_x86_64.whl": [
+          "q6C3xTqCL7JvjtMTWXTCq2n0+rH0gUkBKoHEEIXdpjU=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -55843,6 +55859,32 @@
       ]
     }
   },
+  "labelbase": {
+    "0.0.1": {
+      "sdist": [
+        "WKdsYZ6XOGkU1kh0QntN1lgeR03LMJEMQ8050ZC/h80=",
+        "labelbase-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.1-py3-none-any.whl": [
+          "2e4Vni6wS9ZXJ/9131BogNzQM8KlQRrL/kNZccAB4YM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "alNGlBOWVljg9x7Zrf3pSk1C14xyXD1FfT/khTzY1S4=",
+        "labelbase-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.2-py3-none-any.whl": [
+          "5ahnWv+xN6KJJIymmcwEtEqLv91dynKh9d0dXF/RzoI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lambdata-vgrams05": {
     "0.0.1": {
       "sdist": [
@@ -84038,6 +84080,42 @@
       "wheels": {
         "pepperize.cdk_github-0.0.120-py3-none-any.whl": [
           "Jfb3oLmM1Eg7V4JhPARM9YfNEBdU9vNei55Dmn+nOZo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.121": {
+      "sdist": [
+        "qHbEC0YEGwaJrKtHKluXrD7gj4gL1+qFyBseHtA9Yec=",
+        "pepperize.cdk-github-0.0.121.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.121-py3-none-any.whl": [
+          "517j26m+b/ch1zeYRM2GlOwVka3YHjLA2jaZMbFixfA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.122": {
+      "sdist": [
+        "rsZknox4rKrvC2Y1zYM+7eaO+bA+3HiL8Uu6BsB2T1s=",
+        "pepperize.cdk-github-0.0.122.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.122-py3-none-any.whl": [
+          "Nz2i+/xAKWpY63FE7dSx375CRvfNu/i7ZLn1yWDF0kE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.123": {
+      "sdist": [
+        "pfhaAePHSo5vbV3hxAioELGoAJGXkn69dFTg7bDCVuE=",
+        "pepperize.cdk-github-0.0.123.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.123-py3-none-any.whl": [
+          "mhsw6kTANTJUPtfdZvXENpxFIgILlLxgqqwmof1bDFM=",
           "py3"
         ]
       }
@@ -133881,6 +133959,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.798": {
+      "sdist": [
+        "xAkILhUWkEslwRXv3eLKSpmyjf0FveQyIybsey5Hw88=",
+        "tencentcloud-sdk-python-tds-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tds-3.0.798-py2.py3-none-any.whl": [
+          "9DrfVeUwlnnvpoRsqVdIBfJsPrwSWnVnP6q2iRPSP3Q=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-connector-mq": {
@@ -138776,6 +138866,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221219-cp39-cp39-win_amd64.whl": [
           "i1UYY9ifJyuBUEJSA8L17PKU8AUTRzXBOpjh7tXMfA0=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221220": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221220-cp310-cp310-win_amd64.whl": [
+          "Xtl+QKma/Ty5yHeUeJeJqC+U8IitWWdiiQPoDTTXBOM=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221220-cp38-cp38-win_amd64.whl": [
+          "tcB5YiYw1Pxve8h2BnA+RFx7REgETFQuQFaj2LZ1RSs=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221220-cp39-cp39-win_amd64.whl": [
+          "JPA4DavflBtA/kBoJVNBFs/evNS7Ir9BYYslJ486jB0=",
           "cp39"
         ]
       }

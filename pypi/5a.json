@@ -10449,6 +10449,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221221": {
+      "sdist": [
+        "0aJOrx52GXDuw5BsBvdPmfIA+Unkq5shhfBah0l49UI=",
+        "bigdl-dllib-spark3-2.2.0b20221221.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20221221-py3-none-macosx_10_11_x86_64.whl": [
+          "QDv138x26Oz4G0xRs1+r+Z9rYIIOGKOUmxHC4JTOhnw=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20221221-py3-none-manylinux1_x86_64.whl": [
+          "V1APteUoyVFTu3nzvyE+y4Pa7tsUGBv1KWKaNuxZFvI=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -22960,6 +22976,18 @@
       "wheels": {
         "devolo_plc_api-0.8.1-py3-none-any.whl": [
           "2kHh2LXJlsArFUbpo7AjG3oDxYpG4n745aKcvVp7XOw=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "BJShDjtl79Q09ZwkLDCN/xEbrZ5+ymcu2MuiThfFIYk=",
+        "devolo_plc_api-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "devolo_plc_api-0.9.0-py3-none-any.whl": [
+          "c587LeI/hLpofQPb3inVeM4REjTPbsttnpmEPCXR7EQ=",
           "py3"
         ]
       }
@@ -69265,6 +69293,14 @@
       }
     }
   },
+  "molalignlib": {
+    "0.1.0": {
+      "sdist": [
+        "btBHQv0L8s3fDByJqEGrSUM6dlZKpJqoYM2EUVp/LEE=",
+        "molalignlib-0.1.0.tar.gz"
+      ]
+    }
+  },
   "moltin": {
     "0.9.0b1": {
       "sdist": [
@@ -97250,6 +97286,18 @@
       "wheels": {
         "osism-0.8.0-py3-none-any.whl": [
           "3LVINT2fzFfwIreADZ6t1Kpwo225g2oAzKp9XVmzVQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "vBD7NhYB+4Pxhek1J2rCWzu9ap1HxCfmE2F2/1MYy5M=",
+        "osism-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "osism-0.8.1-py3-none-any.whl": [
+          "vfiAIPIb7FAyaI5pcCZl7vCRz42Q6bUF0Ek0rHgycYY=",
           "py3"
         ]
       }
@@ -130379,6 +130427,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "l3j6xNH1VzWVWFsepKKwVDnZGZfTLX4JOM6XY1TYqQM=",
+        "shareloc-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "shareloc-0.1.4-py3-none-any.whl": [
+          "c8YQjZgpRVhi4FNLiIsGJQCtGo3J0buL9L80rmft4OQ=",
+          "py3"
+        ]
+      }
     }
   },
   "shashasha": {
@@ -133402,6 +133462,18 @@
       "wheels": {
         "sparrow_tool-0.8.1-py3-none-any.whl": [
           "vVh9SWBrJBnSVGxVOuNAMvz9ki1FcyZ7Rwa2JomhgAs=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.2": {
+      "sdist": [
+        "GkyWyveVgRVuhWo5TDZYg11xgb8r7tcQsxMMMSa7Rhg=",
+        "sparrow_tool-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_tool-0.8.2-py3-none-any.whl": [
+          "TsHH7Qcl4Iqu3PdSJRRTRaxHhpoI6N8n3xaUmNCoN3M=",
           "py3"
         ]
       }
@@ -139850,6 +139922,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcbr-3.0.797-py2.py3-none-any.whl": [
           "fHvURNPtyt1Pvr+diIx3DqcuEkz/5jzCLSn5/QC+eSc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.798": {
+      "sdist": [
+        "jJtty06KJZlShxccTpdKAms25XjjbIKFpG5RNlESfeo=",
+        "tencentcloud-sdk-python-tcbr-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcbr-3.0.798-py2.py3-none-any.whl": [
+          "3DRqQvTahOqJ+vHtGNGstaCSKimcluN9Exgxd6Eq6Zk=",
           "py2.py3"
         ]
       }

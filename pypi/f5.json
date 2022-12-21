@@ -109409,6 +109409,30 @@
           "py3"
         ]
       }
+    },
+    "0.9.1": {
+      "sdist": [
+        "AYe0YWm6CI6203exEol1gYgcdG9PoZLnh4awBbtrmuU=",
+        "prpc_python-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "prpc_python-0.9.1-py3-none-any.whl": [
+          "HqJ3ZA1fSxD6kioYbMn8tQFsN4313e6Y5+Ca+H/Cy38=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "uOkth1BSOhqD9ykg7Mq/AlBM/2cP509SlVcktyME8GE=",
+        "prpc_python-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "prpc_python-0.9.2-py3-none-any.whl": [
+          "HFH5f3U/KtR95olICfO/2TepBRclGWVB5dVYoTfHEOA=",
+          "py3"
+        ]
+      }
     }
   },
   "psu-authorize": {
@@ -146193,6 +146217,20 @@
       }
     }
   },
+  "volttron-bacnet-proxy": {
+    "0.1.1a0": {
+      "sdist": [
+        "WRLcVr7AeEu8/g6+/0zcG59t8XFmi123NgQRlC+1JaU=",
+        "volttron_bacnet_proxy-0.1.1a0.tar.gz"
+      ],
+      "wheels": {
+        "volttron_bacnet_proxy-0.1.1a0-py3-none-any.whl": [
+          "wEtVagljhxZRnzSIphUMSRgRyW/8TMBFaytwdwy+HVQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "vonage": {
     "2.5.2": {
       "sdist": [
@@ -149184,6 +149222,18 @@
       "wheels": {
         "yessql-0.2.2-py2.py3-none-any.whl": [
           "HTGK268AOVIYxwnfwSylk4/2Oa0qeVwXCVfClDe8a00=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "00FLJSfWaRz0adr/vO2UzAVfm6y4ziJbJGi+POGBhP4=",
+        "yessql-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "yessql-0.2.3-py2.py3-none-any.whl": [
+          "flWCn9BDeJjWRYWHxeYAwLrIegZT/jV4WeF2mMa26ro=",
           "py2.py3"
         ]
       }

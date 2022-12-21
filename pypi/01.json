@@ -6250,6 +6250,18 @@
         ]
       }
     },
+    "1.43.0": {
+      "sdist": [
+        "y9SEeJwjm58BnJ0Fw/IRqFRlzNeyq2zgf9revJshVek=",
+        "aliyun-python-sdk-dms-enterprise-1.43.0.tar.gz"
+      ],
+      "wheels": {
+        "aliyun_python_sdk_dms_enterprise-1.43.0-py2.py3-none-any.whl": [
+          "VNtDU2IsfVqiaaTMIzrrot9ZmliRBYYjfrL3LHjaiuc=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "vZe/8Mj/Oo9i0p+afRleqZ+qRsBidQlYApcGM1zsY2A=",
@@ -24828,6 +24840,18 @@
       "wheels": {
         "crazy_thursday-2022.12.20.1-py3-none-any.whl": [
           "f53x/ahvtUtuPzNffKruiX5zisi00OVfIkxL/uYQQxg=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.21.0": {
+      "sdist": [
+        "h1w1x4M/TBLTYlq+WWo/46EsDIoB1QFZkLBq4NOI4sM=",
+        "crazy-thursday-2022.12.21.0.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2022.12.21.0-py3-none-any.whl": [
+          "3UlcCFntpWIgEa3jkry4SSf/7mIDsb3rqbQj6vvNCrM=",
           "py3"
         ]
       }
@@ -87873,6 +87897,18 @@
           "py3"
         ]
       }
+    },
+    "22.12.21": {
+      "sdist": [
+        "Xc7S6dHJ9ZTuS7AoOXRt8R0N8i+n+iE37TgkSZNMXMI=",
+        "nonebot_plugin_apex_api_query-22.12.21.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_apex_api_query-22.12.21-py3-none-any.whl": [
+          "oWuSWzOCMDfNDXt1n0n/MrVgT92qQGpNrKgyEr9fIAo=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-msgqq": {
@@ -104144,6 +104180,18 @@
       "wheels": {
         "proactive_jupyter_kernel-13.1.0.2212200241.dev0-py3-none-any.whl": [
           "3Q9VhuhqDDrN4yBc5WnSs/4CvNRIbaQoJqg1qph69j4=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2212210241.dev0": {
+      "sdist": [
+        "Hr8QNC39dbZ1vJl5j5E8zgBGLr7F/2JeNBSDhK/HPMs=",
+        "proactive-jupyter-kernel-13.1.0.2212210241.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2212210241.dev0-py3-none-any.whl": [
+          "p0UMqQjsYEvgcfBfJCXeFmPohK1Zxc/ZYkIgvuwFOM0=",
           "py3"
         ]
       }
@@ -120618,6 +120666,26 @@
         ]
       }
     },
+    "1.11.1": {
+      "sdist": [
+        "QGYfsK8AohT2gemz4lKJkfp41H/evGy/hdmt/Iq9oY8=",
+        "riptide_cpp-1.11.1.tar.gz"
+      ],
+      "wheels": {
+        "riptide_cpp-1.11.1-cp310-cp310-win_amd64.whl": [
+          "/rd+3ctV4Ae7Tvk/0XHpCsIsiIsgJlVCmycF8CXM1lY=",
+          "cp310"
+        ],
+        "riptide_cpp-1.11.1-cp38-cp38-win_amd64.whl": [
+          "8y9PaI8KG2zW7PS1U4yuQWWXy2iw4h/nlKwhiF/W+xo=",
+          "cp38"
+        ],
+        "riptide_cpp-1.11.1-cp39-cp39-win_amd64.whl": [
+          "1OgsAPEkKdHnn1XAnbbIVnCrilrD7sk+raCnpGLlMSg=",
+          "cp39"
+        ]
+      }
+    },
     "1.6.11": {
       "sdist": [
         "5RA2UUVr2d/qoiXwlBAI0SK+anyNRBUpih5uhlvlvvs=",
@@ -128657,6 +128725,30 @@
           "py3"
         ]
       }
+    },
+    "1.4.1": {
+      "sdist": [
+        "z3k4jR8ulreNNdVmJderZhndI02QhwUroRwJlK1/q3I=",
+        "sns_toolbox-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "sns_toolbox-1.4.1-py3-none-any.whl": [
+          "jfz55yy0yJJrgunw7f72cCEXUd2mC+ndr3XwIIrlLis=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "CYgSJ9ug3F+gRbuLJjCX5tuYNOE15DKejLG0sEYobf0=",
+        "sns_toolbox-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "sns_toolbox-1.4.2-py3-none-any.whl": [
+          "IAfxx4Y5X+sP+/ONZX2voW0HY49+fmj+HMCxfnZ/AaY=",
+          "py3"
+        ]
+      }
     }
   },
   "soccerpredictor": {
@@ -131716,6 +131808,14 @@
       "wheels": {
         "stix_shifter_modules_alertflex-4.0.12-py2.py3-none-any.whl": [
           "fGw2qMNAYMqRQft+XgKnzBcAOKtZquRpN19I3rMLu9g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.13": {
+      "wheels": {
+        "stix_shifter_modules_alertflex-4.0.13-py2.py3-none-any.whl": [
+          "KyZmkl7cSZotRh+dSO4TyyAeqExVtUJ3hvMw+RV8SiI=",
           "py2.py3"
         ]
       }
@@ -139419,6 +139519,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.798": {
+      "sdist": [
+        "jTabYuWPk5KJ/6xKaW46Pid3htDx1kdqp+Rm9VhcVTY=",
+        "tencentcloud-sdk-python-irp-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_irp-3.0.798-py2.py3-none-any.whl": [
+          "8cyPcSgov9N10T5mKIvVZOgjHBF0Y87V26MJZUkGigQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendenci-committees": {
@@ -143896,6 +144008,12 @@
       "sdist": [
         "mRrZybAWIkJMYhHg+OSMaqV4EBEhX0JGpHPrfdwwfY8=",
         "tuxedo-1.0.8.tar.gz"
+      ]
+    },
+    "1.0.9": {
+      "sdist": [
+        "ebUHGoB3pbhhFir5xtHlokS1QIWpUSUPn0RWOZ1D9X4=",
+        "tuxedo-1.0.9.tar.gz"
       ]
     }
   },

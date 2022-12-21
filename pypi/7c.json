@@ -16556,6 +16556,18 @@
         ]
       }
     },
+    "0.0.13": {
+      "sdist": [
+        "9XD81NIrTZo+QAHC2nYgUL6vbWuJgHSsjEjk5c4YJP0=",
+        "cdklabs.ecs-codedeploy-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.ecs_codedeploy-0.0.13-py3-none-any.whl": [
+          "f/0T39yXTVoyC6Rkj8EiD6dwOTHBDXPzxtli4DSVA9g=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "+86TMurOVJDgNXSV5mmLVM1k+XcYWto9z7ix1yH6swU=",
@@ -32708,6 +32720,12 @@
       "sdist": [
         "PJ82wyKgUnFt/TbEVDZLNc9Ho7ZOx9IgYYydygG0Lm0=",
         "DeepCell_Tracking-0.6.3.tar.gz"
+      ]
+    },
+    "0.6.4": {
+      "sdist": [
+        "/Lj7m2rPOEy4l//xMdxU1nf6JEmz9SiRKJ8EBHwNcBs=",
+        "DeepCell_Tracking-0.6.4.tar.gz"
       ]
     }
   },
@@ -60095,6 +60113,20 @@
       }
     }
   },
+  "iulia-balan-own-package": {
+    "0.1.0": {
+      "sdist": [
+        "nbsxcv/h/fpYYb4a7EiKHrdiOMqRuzRUyHR9clz8msw=",
+        "iulia-balan-own-package-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "iulia_balan_own_package-0.1.0-py3-none-any.whl": [
+          "+er4fQ0UFT4vcFmWuqvuKQq8YtTnQq6xDbOLg33Xyoc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "iunets": {
     "0.1": {
       "sdist": [
@@ -72110,6 +72142,18 @@
       "wheels": {
         "meliora-0.1.2rc55.post1-py3-none-any.whl": [
           "N0egiOYvLwwC4yDFUxYpeOUvweoLy4VFu/ae8hoozPE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2rc65.post1": {
+      "sdist": [
+        "QAwAkeeCDg4zfUgztP0eEmV2ihOJyCVHdLOiw7zK17k=",
+        "meliora-0.1.2rc65.post1.tar.gz"
+      ],
+      "wheels": {
+        "meliora-0.1.2rc65.post1-py3-none-any.whl": [
+          "11aLZEB8/KUKLqgAGyXAhiPFZxNuU3avaXDymDHF5ZU=",
           "py3"
         ]
       }
@@ -90286,6 +90330,14 @@
       "wheels": {
         "odoo14_addon_fieldservice_account_analytic-14.0.1.0.1.dev10-py3-none-any.whl": [
           "qHXhVKIlU3VFQBxd8GqGpy0a8D7pwye31tRlFG+j/AY=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev11": {
+      "wheels": {
+        "odoo14_addon_fieldservice_account_analytic-14.0.1.0.1.dev11-py3-none-any.whl": [
+          "rChgDcrK5dOiG6tSC8C1QW29J1pxewPoaeyKPlaPiPM=",
           "py3"
         ]
       }

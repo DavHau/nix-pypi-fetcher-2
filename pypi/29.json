@@ -14881,6 +14881,26 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221221": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221221-py3-none-macosx_10_11_x86_64.whl": [
+          "wFkfDR6rn/dSHoBrQmnvXglmo7Oer1RXKHNpQTE6VVM=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221221-py3-none-macosx_11_0_arm64.whl": [
+          "XwJKHemkeqtbB7xA/inFDPM1YeH1wGG3TTbSuB7fTjA=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221221-py3-none-manylinux2010_x86_64.whl": [
+          "S+DPOa1FxcjK1TJkpD5HxUqqEr13M4qVOtn5emCUTxY=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221221-py3-none-win_amd64.whl": [
+          "ox4+g+EiRpMJ25NY5KI0mZZ+pKjmgj4MtnsO7nR6Igs=",
+          "py3"
+        ]
+      }
     }
   },
   "billojwt": {
@@ -36452,6 +36472,14 @@
         ]
       }
     },
+    "0.19.9": {
+      "wheels": {
+        "determined_deploy-0.19.9-py3-none-any.whl": [
+          "RsaP7XFaZQwzUKr2cw5WDDlwGpGinaF7saw8GajS/Q8=",
+          "py3"
+        ]
+      }
+    },
     "0.19.9rc0": {
       "wheels": {
         "determined_deploy-0.19.9rc0-py3-none-any.whl": [
@@ -36464,6 +36492,22 @@
       "wheels": {
         "determined_deploy-0.19.9rc1-py3-none-any.whl": [
           "hOJPsQmlTP/LDe0XaKx/i632h/QrKeCNK7kygQXL41k=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.9rc2": {
+      "wheels": {
+        "determined_deploy-0.19.9rc2-py3-none-any.whl": [
+          "G6sNH1RTIvfAHPupZXqNwd0dOci6t/RoF8ZYVOB4tfw=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.9rc3": {
+      "wheels": {
+        "determined_deploy-0.19.9rc3-py3-none-any.whl": [
+          "mne0t8MoqXbCjPKmQN780fQxaUvpiAD531VXKJzFLRY=",
           "py3"
         ]
       }
@@ -44194,6 +44238,32 @@
       "wheels": {
         "enmity-0.2.0-py3-none-any.whl": [
           "iZZkMivH6X9SGqnzcNXCpw6zGg9Lji6td+pj+wvUlXI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "enstelco": {
+    "0.2": {
+      "sdist": [
+        "Ol03EExVrI2csiSKy0HYY2N0XFb2/P9VtV6xJ/1D8ts=",
+        "enstelco-0.2.tar.gz"
+      ],
+      "wheels": {
+        "enstelco-0.2-py3-none-any.whl": [
+          "CdGW7mOEK/w6a/kqnG9k/leQ/ly86l3eWYv5/rI1zC0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "tO4FmJnPdubc6DBI/y1NCSiZbRft+uMLSY2D0SV4lrs=",
+        "enstelco-0.3.tar.gz"
+      ],
+      "wheels": {
+        "enstelco-0.3-py3-none-any.whl": [
+          "Oaak/5EurP+4OqDzS9VCJQH/N2ZZBIHi0q0WAD75HoU=",
           "py3"
         ]
       }
@@ -127593,6 +127663,20 @@
       ]
     }
   },
+  "recap-core": {
+    "0.1.0": {
+      "sdist": [
+        "Fg6uGaZ9TMufceXvEXopwut4Dv7zztbGxx8mkhnbGgk=",
+        "recap-core-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "recap_core-0.1.0-py3-none-any.whl": [
+          "HcJMq5Rh4CWWQf3u4Sliq0C/ET0obrozCDJgPodOW7A=",
+          "py3"
+        ]
+      }
+    }
+  },
   "redsolutioncms.django-server-config": {
     "0.1.0": {
       "sdist": [
@@ -146526,6 +146610,18 @@
         ]
       }
     },
+    "22.12.1": {
+      "sdist": [
+        "YbU18uPtW2T5UJRIipX7wX+0Q5DteMVHkHvAmjafOXU=",
+        "timetagger-22.12.1.tar.gz"
+      ],
+      "wheels": {
+        "timetagger-22.12.1-py3-none-any.whl": [
+          "RhwCaSLWH+Gp3FU9Hkqkpj06r0FZkoZJk81fI2UEA4g=",
+          "py3"
+        ]
+      }
+    },
     "22.2.1": {
       "sdist": [
         "VGFdT39zTvjQ4C8w+FBsOmn6iyTTHmGWQnd0Y+ieV8E=",
@@ -157350,6 +157446,18 @@
       "wheels": {
         "xraylarch-0.9.65-py3-none-any.whl": [
           "D0H9o9dsKvdu11EgrQqbUmgl0DtCbdtPSDJyk7LFcgI=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.66": {
+      "sdist": [
+        "eVmc0PwktjYpGaSJK/0vZVgAprMXOs3t4MWCc1E+Ohs=",
+        "xraylarch-0.9.66.tar.gz"
+      ],
+      "wheels": {
+        "xraylarch-0.9.66-py3-none-any.whl": [
+          "fFUJaaBbMQNgA1aTPfWnx8jEwSBK+6hduvf5lWUhwfU=",
           "py3"
         ]
       }

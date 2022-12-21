@@ -127254,6 +127254,14 @@
         ]
       }
     },
+    "4.0.13": {
+      "wheels": {
+        "stix_shifter_modules_aws_athena-4.0.13-py2.py3-none-any.whl": [
+          "oEdCvFDh+TzQeCwaQOtFguVX4sfzkN/nT38P/lPRFOs=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.2": {
       "wheels": {
         "stix_shifter_modules_aws_athena-4.0.2-py2.py3-none-any.whl": [
@@ -136925,6 +136933,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.798": {
+      "sdist": [
+        "cx/GOZ0mEp/xpcnPMZgBm6ctVbkBiyw3tJ8LhMyHX4c=",
+        "tencentcloud-sdk-python-mariadb-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mariadb-3.0.798-py2.py3-none-any.whl": [
+          "ExLu9bwlrd2iOQlskvSTkaIM0BHG1riGx0vuiXhlChE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-ssm": {
@@ -143248,6 +143268,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ssm-3.0.797-py2.py3-none-any.whl": [
           "rWhtphI7adhl5hsIUPXcGIaQ1Y/UuQVXEdXwwQqnovE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.798": {
+      "sdist": [
+        "ruCqCV9ZlPZMZSnCuwZyc5UL9BvPd/vmSySsC+dq5rg=",
+        "tencentcloud-sdk-python-ssm-3.0.798.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ssm-3.0.798-py2.py3-none-any.whl": [
+          "NW2kZf4pX5cxh3SWGNDsbx04GB8HS1XDf4cwGG/pOP0=",
           "py2.py3"
         ]
       }
@@ -151563,6 +151595,16 @@
         "NFs4fFvkH137PXdM/84nDANH274fWarP0r288qxXzZk=",
         "wcag-zoo-0.2.6.tar.gz"
       ]
+    }
+  },
+  "webuiapi": {
+    "0.0.1": {
+      "wheels": {
+        "webuiapi-0.0.1-py3-none-any.whl": [
+          "DEeuxwYcF68U3dOj3Gd90vJnTn6zFpu5ISSzxqP/joI=",
+          "py3"
+        ]
+      }
     }
   },
   "weibo-sofa": {
