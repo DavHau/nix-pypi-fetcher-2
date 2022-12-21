@@ -12880,6 +12880,18 @@
         ]
       }
     },
+    "2.14.0": {
+      "sdist": [
+        "owEhE+9k44WaL+sfEb63r7Z9i3FrBQUSIHBkYeU2ro8=",
+        "barbell2-2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.14.0-py2.py3-none-any.whl": [
+          "4R7UcNmJaQGdeahLQ6ewHFvWK0j29LUjfweIWgPIRmw=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "s4uQUebD4OW3udyGs0mixzlEqm4v8XOBiUDqv4v2qTQ=",
@@ -20493,6 +20505,22 @@
         "lQ4vLvijHJAIyQMut2qeMwbAdl6zV8qYGX6DiqBy6I4=",
         "cherab-phix-0.2.tar.gz"
       ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "eXV2PZ2Wc/0HeEc2Kk9HZuVPfOUot7BswhGWKQot9Uk=",
+        "cherab-phix-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "cherab_phix-0.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "t2nnSkMkusGqQCYoduICX0vvkaZS7uihkWsYkhgFajA=",
+          "cp38"
+        ],
+        "cherab_phix-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "/TlFSsFy/jnipBRpknVltgeiumaJ1d1fLU1GYhx57m8=",
+          "cp39"
+        ]
+      }
     }
   },
   "chess-python-nightly": {
@@ -86159,6 +86187,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.0.0.7": {
+      "wheels": {
+        "odoo12_addon_sm_partago_user_rest_api-12.0.0.0.7-py3-none-any.whl": [
+          "HWIh4WiDElkF4bdOmGlE/5X3B6bZ8xy/Qsb8X+3t8Sw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-stock-orderpoint-procure-location": {
@@ -106238,6 +106274,42 @@
       "wheels": {
         "pymino-0.7.1-py3-none-any.whl": [
           "QRUh4/EiIym5a5JqxJf/0uQn5fxfRDlVy8Hx9SI0Diw=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "/m6AbeeTrG46TVTXLbgEJam1BzdGAZcENFCfGB9rc00=",
+        "pymino-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "pymino-0.7.2-py3-none-any.whl": [
+          "ljAvj9ZNlV1S1Ihr4xgMcPUWOWdwGJSsSROlZ+GtBiE=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.3": {
+      "sdist": [
+        "heYvvcCOzXGzSFC7s+qVWl9URRKF8qbOrZ35QCcGy8w=",
+        "pymino-0.7.3.tar.gz"
+      ],
+      "wheels": {
+        "pymino-0.7.3-py3-none-any.whl": [
+          "jM9jWtNEYPd6Sk1DN1iCt91aIi3vBvk5sT9u97oOQTc=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.4": {
+      "sdist": [
+        "5SpFjgo0GkrNBj9yCRiTnZcE7wTjLPTtLfDYibM4hMs=",
+        "pymino-0.7.4.tar.gz"
+      ],
+      "wheels": {
+        "pymino-0.7.4-py3-none-any.whl": [
+          "Rp+iujmfqARQ+MiDazI9ZhSE43z4XALkHemQO6wRjJY=",
           "py3"
         ]
       }

@@ -34093,6 +34093,30 @@
           "py3"
         ]
       }
+    },
+    "1.9.0rc1.dev1337": {
+      "sdist": [
+        "nMzMZGPc8eP15wF45d4JYTFSLutB4B1wFfO9CSbuRC0=",
+        "dapr-dev-1.9.0rc1.dev1337.tar.gz"
+      ],
+      "wheels": {
+        "dapr_dev-1.9.0rc1.dev1337-py3-none-any.whl": [
+          "U3S5P0PpsjqDMb5mCEFDWzqhZfgEHBwaAuUKAdChgAs=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.0rc1.dev1342": {
+      "sdist": [
+        "4QB8xp3looc5J5MEr1tjHWMeWzC62NjeG44DSFxgsXQ=",
+        "dapr-dev-1.9.0rc1.dev1342.tar.gz"
+      ],
+      "wheels": {
+        "dapr_dev-1.9.0rc1.dev1342-py3-none-any.whl": [
+          "i3dRQ0juE/P2TLGPtxk7l4vJMt0mGcAeHjTPEvjFmCI=",
+          "py3"
+        ]
+      }
     }
   },
   "darkswarm": {
@@ -92515,6 +92539,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.5.0": {
+      "wheels": {
+        "odoo_addon_account_financial_risk-15.0.1.5.0-py3-none-any.whl": [
+          "43BYuQ5q2rBbrIeI+k91vFV5Dc37Z1wej0VcRgEDWVk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-delivery-carrier-info": {
@@ -102298,6 +102330,18 @@
         ]
       }
     },
+    "0.0.165": {
+      "sdist": [
+        "aMIVtJpg8RViXRh1bPBvb4ldnck3gmTiYKT+vKz1dR0=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.165.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.165-py3-none-any.whl": [
+          "rLbBe6Q4fgyP1EbeFXYZblQpefrUMigP7KB+SlB6JPI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.17": {
       "sdist": [
         "V5qLqGUnFslb4jJTQvIqiSCtXSDh00E2mSEWP78dOXk=",
@@ -106868,6 +106912,18 @@
       "wheels": {
         "planetmint_transactions-0.4.2-py3-none-any.whl": [
           "fZfQRZ21HTJmtyigwWNXBHo+wiq6x0w64oslKQVg8Fk=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "5mEvHCKNOFT6DM5kl530+JRePMNbyG93hd/0u2rtlPg=",
+        "planetmint_transactions-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "planetmint_transactions-0.5.0-py3-none-any.whl": [
+          "t03oRBnTmoAETPr+YAY3QWmDqhg7l0DhfrlSnia7xgc=",
           "py3"
         ]
       }
@@ -115678,6 +115734,20 @@
       "wheels": {
         "pysmps-1.5.6-py3-none-any.whl": [
           "sU/l/8aGjzuk3uVpTk5A4TVjaI8ANgSCALo/4vCmw1E=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pyspark-factories": {
+    "0.0.1": {
+      "sdist": [
+        "TUNe2NA5iON4R9NUzdEy4i3xJtgfZuWUMpMZMxL6hvY=",
+        "pyspark_factories-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyspark_factories-0.0.1-py3-none-any.whl": [
+          "flPDzoXXHsfmNA60j4zfSp+r8fmUdfo+FPf8mMQ+Rkk=",
           "py3"
         ]
       }
@@ -125480,6 +125550,18 @@
       "wheels": {
         "robotoff-1.15.1-py3-none-any.whl": [
           "GVS8Y8HM1l5hODSmpmCq+rJW22TI7FsIymjb92xdiTU=",
+          "py3"
+        ]
+      }
+    },
+    "1.15.2": {
+      "sdist": [
+        "LV6Y768ArobVByty8ku+SsVA+pNu4EIWWM1BOUaAoW0=",
+        "robotoff-1.15.2.tar.gz"
+      ],
+      "wheels": {
+        "robotoff-1.15.2-py3-none-any.whl": [
+          "nmoz2oBNP5b3YCV0iyKfpG0K9XCoX0L8Xo9h81kXZhY=",
           "py3"
         ]
       }
@@ -137860,6 +137942,14 @@
       "wheels": {
         "tf_model_optimization_nightly-0.7.3.dev20221220-py2.py3-none-any.whl": [
           "2YOpPdXSr08c2fWY9oDZKOw6yO3k8QBjZbQNRCWeCsg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.3.dev20221221": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20221221-py2.py3-none-any.whl": [
+          "VQT1DzK5NOus2AjfmlslGXm+o+K3TrRIui42azP0x7g=",
           "py2.py3"
         ]
       }

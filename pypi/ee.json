@@ -5344,6 +5344,26 @@
         ]
       }
     },
+    "0.12.dev27": {
+      "wheels": {
+        "apache_tvm-0.12.dev27-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qw5TREik8gop+nkCFlu0kLPavik8vvogawHFJaIJFCg=",
+          "cp310"
+        ],
+        "apache_tvm-0.12.dev27-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9+fO3AmNR1D8qUSkP/gZsfO1dfkJHXgC8/TcwZOcQFY=",
+          "cp37"
+        ],
+        "apache_tvm-0.12.dev27-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ry6jLmDKHSml+b8u2g3pKtbJmPk4OsEErTK9wMQ2V60=",
+          "cp38"
+        ],
+        "apache_tvm-0.12.dev27-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Oh4JlAEU1j7uafh5GtKPeihpf5iPpSvH51DUfIyucyk=",
+          "cp39"
+        ]
+      }
+    },
     "0.9.0": {
       "wheels": {
         "apache_tvm-0.9.0-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -57206,6 +57226,18 @@
         ]
       }
     },
+    "0.29.2": {
+      "sdist": [
+        "W4XL7TfN6n1aUueg0tpGPTthNREldhAq7Nsj6Gf671I=",
+        "km3io-0.29.2.tar.gz"
+      ],
+      "wheels": {
+        "km3io-0.29.2-py2.py3-none-any.whl": [
+          "AV3LPJ9jTV6/1ryk9uc2zePAfSqb+rDo+1Sg/PMZF7s=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "J3fVLBBYnf9biTz5RJPFYReQHR1h8z1rdh7vKny9cOY=",
@@ -83413,6 +83445,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_mgmtsystem_review-16.0.1.0.0.5-py3-none-any.whl": [
+          "YaituS+6NUhJ/hT58MkBdHfuqdauqn/o2tmhyWVJDOI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-partner-company-type": {
@@ -83454,6 +83494,14 @@
       "wheels": {
         "odoo_addon_purchase_discount-15.0.1.0.2.1-py3-none-any.whl": [
           "Fl86d5VayEuX38XfJig3l9PpVbBf5wcjLEe0BiaDvcw=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.2.2": {
+      "wheels": {
+        "odoo_addon_purchase_discount-15.0.1.0.2.2-py3-none-any.whl": [
+          "qbyyUBqzmL3DFZXYnjzjQ2fleckhXVj/ppfolP2kmuA=",
           "py3"
         ]
       }

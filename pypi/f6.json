@@ -16246,6 +16246,18 @@
         ]
       }
     },
+    "0.2.10": {
+      "sdist": [
+        "hjyPzy6n8KE9KrLALr5gND0hjX26ypGP3DBFS07sEvA=",
+        "bionumpy-0.2.10.tar.gz"
+      ],
+      "wheels": {
+        "bionumpy-0.2.10-py2.py3-none-any.whl": [
+          "VABV5aSLBMdpAGewUdFOhPtgQ/D0+ShcqdRkbi0nqWc=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "fRkjB3yS+jXMKdd+zKxBC/5kU2hGuyplUNLXwdHYrrA=",
@@ -81855,6 +81867,16 @@
       ]
     }
   },
+  "nemo-periodic-table-question": {
+    "1.0.0": {
+      "wheels": {
+        "NEMO_periodic_table_question-1.0.0-py3-none-any.whl": [
+          "nuunxd7sgoeIouh9R7xK+g0keG8ZiUqDGyAjhumGG4c=",
+          "py3"
+        ]
+      }
+    }
+  },
   "neolite": {
     "0.7.2": {
       "sdist": [
@@ -97636,6 +97658,18 @@
       "wheels": {
         "pip_requirements_parser-32.0.0-py3-none-any.whl": [
           "qmZHgeafguzv2lQtUhCqWw9lM76VrqOaVFOUPbCTWe0=",
+          "py3"
+        ]
+      }
+    },
+    "32.0.1": {
+      "sdist": [
+        "tPo6egvjgkMSPPnR81GNoQxRvbFlorKYVWYkf5FVp9M=",
+        "pip-requirements-parser-32.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pip_requirements_parser-32.0.1-py3-none-any.whl": [
+          "Rlm8KmZ3g+ehXRkPb8z4skhmhbbbpMGcOHYxR2nFdSY=",
           "py3"
         ]
       }
@@ -122904,6 +122938,154 @@
         ]
       }
     },
+    "1.9.10": {
+      "wheels": {
+        "segyio-1.9.10-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "n/VRL/gT0IFH3gazJy9iY+U3fdEehcGREXP/fq4Hzpc=",
+          "cp310"
+        ],
+        "segyio-1.9.10-cp310-cp310-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "bP/Fz4UoYBJHpZm7qmVa1DpX7ckWHF5OgIYkERCL6m4=",
+          "cp310"
+        ],
+        "segyio-1.9.10-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "k0n+8J+/86Xe0QomEYfrdXtnUXNDecpOV72klJDSJ00=",
+          "cp310"
+        ],
+        "segyio-1.9.10-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "siHy6iYGEiJLp6EYDnEV1tp305+fVV3F4D8MwijD0tw=",
+          "cp310"
+        ],
+        "segyio-1.9.10-cp310-cp310-win32.whl": [
+          "4Pxk+8cqios6FUDHQ5WCp1T1j1Uf7h/2rIbWS9e6Tak=",
+          "cp310"
+        ],
+        "segyio-1.9.10-cp310-cp310-win_amd64.whl": [
+          "s3nIgcgMzN6wfbG4ls5i4yVkL9T9WXM7DEX9pFp7Gt4=",
+          "cp310"
+        ],
+        "segyio-1.9.10-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "+ChXZ3mW4Cqde8SQCtXR+qgGV72BSUxUxdHW8ocjTTk=",
+          "cp311"
+        ],
+        "segyio-1.9.10-cp311-cp311-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "1Dm6OPlm8qbQyU7IyD2RgrCdnRqOSDYL8U/gLp2Kf5c=",
+          "cp311"
+        ],
+        "segyio-1.9.10-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "QXkFpHvKUSvzi8nFbWVNKjguHlgMgdaWsZJaxSbq2BY=",
+          "cp311"
+        ],
+        "segyio-1.9.10-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "x1+1mAxe2Yug4CihWFqN9F7EibWQmPO7Cjv4QfJ0SoA=",
+          "cp311"
+        ],
+        "segyio-1.9.10-cp311-cp311-win32.whl": [
+          "j1ENGbM5NuZdYFwbbWbEiPyHdu6gOlnPTBS0uTO8Yko=",
+          "cp311"
+        ],
+        "segyio-1.9.10-cp311-cp311-win_amd64.whl": [
+          "G/W2XIna2s8E+L0KfN43F2EtvSlKuas3TYU7auX+348=",
+          "cp311"
+        ],
+        "segyio-1.9.10-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "VNzAlw7Wf99urMRaPmwyYLFfge1tScxYC4Vbn8xMrCo=",
+          "cp36"
+        ],
+        "segyio-1.9.10-cp36-cp36m-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "tHrCHaOfJpHHoUA6SdLvsM4naZHFn6/O2XGgsTeWMgg=",
+          "cp36"
+        ],
+        "segyio-1.9.10-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "VX+iPHts/11yjG40HNiSLnEtvTLqbapXGJ0Hf/LlUCw=",
+          "cp36"
+        ],
+        "segyio-1.9.10-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "KUPQmsFmjRMQk/FJNIUGLf9lO8hYafxxRx/Yl1951fc=",
+          "cp36"
+        ],
+        "segyio-1.9.10-cp36-cp36m-win32.whl": [
+          "acUhnbVkf6MjcmwtiesJayWmvX8u2k3B4yD8vJmR5vM=",
+          "cp36"
+        ],
+        "segyio-1.9.10-cp36-cp36m-win_amd64.whl": [
+          "hHe/AZRgOdbmIYpLcajMhTrdJCrfCJAfvTzE4MSdzfk=",
+          "cp36"
+        ],
+        "segyio-1.9.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "G3xsVqeMARrJmhawcjIvn4/9nJx/+ULZu084G/uuViw=",
+          "cp37"
+        ],
+        "segyio-1.9.10-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "XIyezVYH40cQMP+wx9+9ZsMzNWSnL9iUPvhGASkmUv8=",
+          "cp37"
+        ],
+        "segyio-1.9.10-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "IIod8QlGC/rA1j+ku8H5oaPBHQZUgpCTgApQ/akZeMA=",
+          "cp37"
+        ],
+        "segyio-1.9.10-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YaEwqcmJ2DiqNN6mzyWNWBRfv/AmZFgZAuveccBHLwQ=",
+          "cp37"
+        ],
+        "segyio-1.9.10-cp37-cp37m-win32.whl": [
+          "jWr3q9FopTn28sZaDPcfuWjIIOmz/ULqI94f3j2L5ng=",
+          "cp37"
+        ],
+        "segyio-1.9.10-cp37-cp37m-win_amd64.whl": [
+          "u0lzJ875k/8C5mb+tIIQUK40Jiuh5TMLqwTyWDrZStQ=",
+          "cp37"
+        ],
+        "segyio-1.9.10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "NdwzZcCxpV1Z2RSUzBKT2Y/VhQ0gAKGlQcDXEZdn57E=",
+          "cp38"
+        ],
+        "segyio-1.9.10-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "XjIegHIHp3hOVWccWGje3OwPVIxsnC/XyaImeLfOX94=",
+          "cp38"
+        ],
+        "segyio-1.9.10-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "KQ8GiXu0PRoaxgITVLnVpB7UbAjJjXp8CPekfe1QUP4=",
+          "cp38"
+        ],
+        "segyio-1.9.10-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "kMJlVFl6mJM/9LBJLSrzgaFSFQiFteMaRbAKP8+S+Z0=",
+          "cp38"
+        ],
+        "segyio-1.9.10-cp38-cp38-win32.whl": [
+          "/4RbF9XMZF2CaRlgvTnsPB/tEGcJ97TPHgSePyPZKjM=",
+          "cp38"
+        ],
+        "segyio-1.9.10-cp38-cp38-win_amd64.whl": [
+          "GkFXb7rTAG+BHLc0DrNkIIcu3/CB1EQEQcWiSwMCVmk=",
+          "cp38"
+        ],
+        "segyio-1.9.10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "yiQog4hTuIosrxbsy9SS8WhZNZOpxXjspN6lXVEH8+I=",
+          "cp39"
+        ],
+        "segyio-1.9.10-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jHxRKrYTQBlGbvzKna2xNOTp/QLBN0yGVJ9hMk6kXFI=",
+          "cp39"
+        ],
+        "segyio-1.9.10-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jWBI+S06P51cQMBcr9wqYvyuOFvYlHfm9Tu2+D4NZuk=",
+          "cp39"
+        ],
+        "segyio-1.9.10-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bzA7gItpMYV8m2wqigwlHvUYmBiroFqqOiIKDPPT3Zw=",
+          "cp39"
+        ],
+        "segyio-1.9.10-cp39-cp39-win32.whl": [
+          "s+ofiNVZ2w2+YJUFAh/ZtoIxLWxNEcgH9Cuy05pNsFM=",
+          "cp39"
+        ],
+        "segyio-1.9.10-cp39-cp39-win_amd64.whl": [
+          "Cpt+9M6m25mopNFvDX9xq2abDOx1puuZgqw95NDbs+E=",
+          "cp39"
+        ]
+      }
+    },
     "1.9.1a1": {
       "sdist": [
         "HSs58BYB6dRe2LzopPSzy2C/rmIlOqKUC2qulr2f/y0=",
@@ -137551,6 +137733,18 @@
         "towncrier-21.9.0rc1-py2.py3-none-any.whl": [
           "kwRUq4baJargG/DzeSflZdk2axK5SNX1M8fHZB26exY=",
           "py2.py3"
+        ]
+      }
+    },
+    "22.12.0": {
+      "sdist": [
+        "nEnX519kaprqAq6QTAvBY5yP0UoBKS0rEjuNMHVkA00=",
+        "towncrier-22.12.0.tar.gz"
+      ],
+      "wheels": {
+        "towncrier-22.12.0-py3-none-any.whl": [
+          "l2eomaTWhWlQ81mKzZ6PCNomY8Sf3NpeoPnmuir8juo=",
+          "py3"
         ]
       }
     },

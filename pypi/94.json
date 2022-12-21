@@ -11403,6 +11403,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "ceXjhOYEqrFf5GfBk0Mb3Mu0xVgwD8yGG7KyUfSwxgc=",
+        "bsimport-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "bsimport-0.1.1-py3-none-any.whl": [
+          "T5jKlYKRbscSqk1wUURhPLcFJuqJe73S7ziTEJk6+1M=",
+          "py3"
+        ]
+      }
     }
   },
   "bunalabpy": {
@@ -21332,6 +21344,30 @@
       "wheels": {
         "datayoga_core-1.31.0-py3-none-any.whl": [
           "2Qyb1es0Ch4anGEutfbgql8FzOX55xXuem4+aRUUDto=",
+          "py3"
+        ]
+      }
+    },
+    "1.32.0": {
+      "sdist": [
+        "khNA0krwMcSN4YGUsmTtlVfde2OTpt/eNobnIMoVqrg=",
+        "datayoga_core-1.32.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.32.0-py3-none-any.whl": [
+          "GHWUWvmK+AiC5Z1T6Epb8NEo8GOrgBPbun4riu658No=",
+          "py3"
+        ]
+      }
+    },
+    "1.33.0": {
+      "sdist": [
+        "hyy7EpYfqMoj49M6UnNV55hBPVzf9Yf6zZTr6FpVnzc=",
+        "datayoga_core-1.33.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.33.0-py3-none-any.whl": [
+          "fQnTApnZ0x0MOStdOxRH/FGZXbxzjc8880V7SGCdK84=",
           "py3"
         ]
       }
@@ -36540,10 +36576,10 @@
     }
   },
   "face-package": {
-    "1.1.25": {
+    "1.1.26": {
       "wheels": {
-        "face_package-1.1.25-py3-none-any.whl": [
-          "SX9r3SxRw99IDrEQyrjXnuYb0dVdhXx1TzC1kMQyu6A=",
+        "face_package-1.1.26-py3-none-any.whl": [
+          "OiiM2c9QTmi1MyUDhc9Alwsy151FZWB4N8DA3ujYF/o=",
           "py3"
         ]
       }
@@ -64588,6 +64624,12 @@
       "sdist": [
         "f/tc/eEqJTaH3W0l2jizj+0PWWmComf8L27TW53z+nU=",
         "localstack-ext-1.3.2.dev20221220223003.tar.gz"
+      ]
+    },
+    "1.3.2.dev20221221143435": {
+      "sdist": [
+        "JtFJvXX5FFyCKoHf2hsqL/BhmXJJpAwhCOROShAP4ys=",
+        "localstack-ext-1.3.2.dev20221221143435.tar.gz"
       ]
     }
   },

@@ -35767,6 +35767,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.6": {
+      "sdist": [
+        "B1h5BbCzkGTxESt61AOPob7M2bVtEupJt1IRTBSng/4=",
+        "fcmaes-1.5.6.tar.gz"
+      ],
+      "wheels": {
+        "fcmaes-1.5.6-py3-none-any.whl": [
+          "p7n1UewCib3W412W9tXaR70q2nmLQvVvIZAQh/3fRHc=",
+          "py3"
+        ]
+      }
     }
   },
   "fdnutil": {
@@ -44530,6 +44542,30 @@
       "wheels": {
         "inels_mqtt_new-0.0.30-py3-none-any.whl": [
           "zPTvD83chPOGW5anIomFg6BlblQ0Ujz1GJq9KkYHBE4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.31": {
+      "sdist": [
+        "0MSanuo5Xo0r4FY09mytWy9NRIaZcdtwo87F5yP4gMw=",
+        "inels-mqtt-new-0.0.31.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.0.31-py3-none-any.whl": [
+          "thFV8GAcRG98prk2J4QfYur8y4D+9ihGiE7p8yk5BJU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.32": {
+      "sdist": [
+        "bvUWZn6mT/xX8YHu/ksuKTvQ/omZs0cfvGy29YukGjQ=",
+        "inels-mqtt-new-0.0.32.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.0.32-py3-none-any.whl": [
+          "tkoNzdyePhKAQcLUaPRgDcfcsQGW1Q5vg5MOKHj4s6w=",
           "py3"
         ]
       }
@@ -100425,6 +100461,20 @@
       }
     }
   },
+  "recsyspy": {
+    "0.0.3": {
+      "sdist": [
+        "4iTXcBs47bBeUx9/7MLRnz/rZXJKBKyd8wWO2fpHmRg=",
+        "recsyspy-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "recsyspy-0.0.3-py3-none-any.whl": [
+          "RW/CFFEKol+P9xsgcO/jwKcQwfxwDvcY2Veo0WlRl2I=",
+          "py3"
+        ]
+      }
+    }
+  },
   "reddit-extract": {
     "0.1.5": {
       "sdist": [
@@ -134404,6 +134454,12 @@
       "sdist": [
         "fBaI4QbNwxvUV7vq82CSbk+sOQ2T5WC1ezHztSuEyds=",
         "wrainfo-0.9.1.tar.gz"
+      ]
+    },
+    "0.9.2": {
+      "sdist": [
+        "xSMf5jR0glu8vbJScdCgjssO3QF8RMnQjYg9oPb3AS0=",
+        "wrainfo-0.9.2.tar.gz"
       ]
     }
   },

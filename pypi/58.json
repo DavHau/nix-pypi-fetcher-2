@@ -3571,6 +3571,20 @@
       ]
     }
   },
+  "ansys-pythonnet": {
+    "3.1.0rc0": {
+      "sdist": [
+        "hav8s09BOP/NCsXDCAEFvVUCq36M/TLeqNaIgfVfFhw=",
+        "ansys-pythonnet-3.1.0rc0.tar.gz"
+      ],
+      "wheels": {
+        "ansys_pythonnet-3.1.0rc0-py3-none-any.whl": [
+          "kAan1itPvvqz19Wf7MzN90qlZx7vC/zR22ZAYa7E300=",
+          "py3"
+        ]
+      }
+    }
+  },
   "antchain-ak-2fdfc04b2afb4da9ac403531af8942a9": {
     "1.0.0": {
       "sdist": [
@@ -13698,6 +13712,18 @@
       "wheels": {
         "bowtie_json_schema-0.57.2-py3-none-any.whl": [
           "wMjYg9z8hb9yI6iKyaoNu0WEJKlDzaa+LKSwRlhehnk=",
+          "py3"
+        ]
+      }
+    },
+    "0.58.1": {
+      "sdist": [
+        "E3acxy6ekFl+KDG5grWS7fKtjiZtyddV//UmufPkfmk=",
+        "bowtie_json_schema-0.58.1.tar.gz"
+      ],
+      "wheels": {
+        "bowtie_json_schema-0.58.1-py3-none-any.whl": [
+          "JcsXONAuCMhGitJIP+KcBuCkky8hc220eqMduTPrHm4=",
           "py3"
         ]
       }
@@ -82124,7 +82150,25 @@
       "sdist": [
         "3veMpKtH6vEDAV2XlJZUZOkbG9fa/IL3LgVnsOpE7fI=",
         "nonebot_plugin_charpic-0.0.3.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "nonebot_plugin_charpic-0.0.3-py3-none-any.whl": [
+          "/aRuA2tE9BCoTX7UrIxYGQCOY+7ZuE9F7IklU6j+9uk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "j4ohW3aQkGuMfJgfVG5a6JWRp7lO1BdBP//ADJ/51Jw=",
+        "nonebot_plugin_charpic-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_charpic-0.0.4-py3-none-any.whl": [
+          "C+nAD92e/oSCp3313rJS6nFCLDhnM0O3eewUo84d4Ec=",
+          "py3"
+        ]
+      }
     }
   },
   "nornir-sql": {

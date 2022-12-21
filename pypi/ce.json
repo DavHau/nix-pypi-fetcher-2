@@ -19570,6 +19570,14 @@
         ]
       }
     },
+    "0.14.0": {
+      "wheels": {
+        "deepomatic_oef-0.14.0-py3-none-any.whl": [
+          "uKPnDDWLIBMqirbSG5cSTv82D2xQEmU/DWtqTNsZC4Q=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "hCOXD+VRiWDc7+6CorG5TZQW8+V9+Vw5c/P0RfSIb6M=",
@@ -43527,6 +43535,20 @@
       }
     }
   },
+  "gwapandas": {
+    "0.0.2": {
+      "sdist": [
+        "GFuqv78RkEZd65dTXNWD6UF7jCyEs/EUNAVX9sTPSXY=",
+        "gwapandas-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "gwapandas-0.0.2-py3-none-any.whl": [
+          "CFUcpdJhnrwaLj4DfzAfHWVeSXMU03qo06pWT9h9VCg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gwdatafind-server": {
     "1.0.1": {
       "sdist": [
@@ -58018,6 +58040,18 @@
       "sdist": [
         "BwWZvuQ3r4otKwOShvMh4s6unC/9lz16jQ++B02V8Y8=",
         "libs3tl-0.1.34.tar.gz"
+      ]
+    },
+    "0.1.35": {
+      "sdist": [
+        "CYgbTRtSOfTfNMI1Ss66shH1aOL1QP2pBWeu2S1p6bo=",
+        "libs3tl-0.1.35.tar.gz"
+      ]
+    },
+    "0.1.36": {
+      "sdist": [
+        "a/0G0K7fjB0cRzaPMH9jmMRNDnc6gItrlvZDGohPmWY=",
+        "libs3tl-0.1.36.tar.gz"
       ]
     },
     "0.1.4": {
@@ -84977,6 +85011,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "oldfartsfinalproject": {
+    "1.0.0": {
+      "sdist": [
+        "Ab96GbCK8uITt39EtckALlRCeWbFbUzob0BCLLLOWOQ=",
+        "oldfartsfinalproject-1.0.0.tar.gz"
+      ]
     }
   },
   "one-easy-protocol": {
@@ -120931,6 +120973,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "myWlcNHNzg+c5FH15kFGENFTe3yqIyHG6cMU0RsoZHE=",
+        "smartcitizen-connector-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "smartcitizen_connector-0.2.0-py3-none-any.whl": [
+          "oGNgoXkcTDfl8Jga6+/C0Ii4FeuVJUK2WO0bDyI0HbI=",
+          "py3"
+        ]
+      }
     }
   },
   "smarthyesdash": {
@@ -142138,6 +142192,46 @@
         ],
         "vineyard-0.11.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "iH4PA/NPtZCk467/y7EfEsS34VfijrHVocZcArNOjr8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.11.2": {
+      "wheels": {
+        "vineyard-0.11.2-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "1YH9k6ER1+15IfwrZguQtzXFddJrMutU7MRbVSFq8IY=",
+          "cp310"
+        ],
+        "vineyard-0.11.2-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "BN4a7xltgS1/pAFY+7wF5FtRRLtpEt0VSw33pts2uls=",
+          "cp310"
+        ],
+        "vineyard-0.11.2-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "c7I1ZR23Vv075dGKzOGIwT+OVsK6HyaQ90d0cCeFg8M=",
+          "cp36"
+        ],
+        "vineyard-0.11.2-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "oMKveiY1HR7lx/Z3Bsd43QBfQKBGDFoF7aSQ8bspAUY=",
+          "cp37"
+        ],
+        "vineyard-0.11.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "gNOW9VKm+v8KOoMsvZx5pJ8Un3XH9EPRdC+4JraB4DU=",
+          "cp37"
+        ],
+        "vineyard-0.11.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "eN7+67HZaIsOhRlcPJKV0DCdBp+rbRnjQcGCK48O9jc=",
+          "cp38"
+        ],
+        "vineyard-0.11.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "uuFwb8l6YlZmk+kiPkLjI6zETA17hyixdjFYuaSQrs0=",
+          "cp38"
+        ],
+        "vineyard-0.11.2-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "pvERmYs9M9ZVX21wBH5T+IHMydffHwBa/Dd13uCRMkQ=",
+          "cp39"
+        ],
+        "vineyard-0.11.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "zwRkEkgeeizKs51XaUpJgAkHXlRHcQdMAWyl3j0dNo4=",
           "cp39"
         ]
       }
