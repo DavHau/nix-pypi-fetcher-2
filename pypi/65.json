@@ -52192,6 +52192,18 @@
         ]
       }
     },
+    "1.0.15": {
+      "sdist": [
+        "uv9ZYfUPRdJ12czft058pX+aMjFDeXShZTLYW7bXiC4=",
+        "fastapi-analytics-1.0.15.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_analytics-1.0.15-py3-none-any.whl": [
+          "T826ypCHtn1JsF7PJBS/aJS3owKaLVuXN5i+2TOyXe0=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "rMP5C8HIGQd98GyK/iDMBx83Ye3et2tLdHEoDXbKzro=",
@@ -124563,6 +124575,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.2": {
+      "sdist": [
+        "o2SlNAEeus3vtUH54EG4sD0GcRJwnuM1tyNh/vqP7t0=",
+        "resoto-plugin-k8s-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "resoto_plugin_k8s-3.0.2-py3-none-any.whl": [
+          "VJJGkz47j+0Vvrfh69O1KUsNYCN3GnPRZO4sWQEpAbo=",
+          "py3"
+        ]
+      }
     }
   },
   "revns": {
@@ -126926,6 +126950,18 @@
       "sdist": [
         "leExi4l/HyLpUXQvXT0FEwXAeavA3ol5MnIS/59gmfs=",
         "salure_helpers_salureconnect-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "WguEnmfNXo3AN8h3ENV79kNxOptLwR7sVta+Z+Si8lg=",
+        "salure_helpers_salureconnect-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "NuNGVv3BcTVB4kS3gIPdXx7U9ZjeofeHEquZlKpYJUQ=",
+        "salure_helpers_salureconnect-1.0.3.tar.gz"
       ]
     }
   },
@@ -137271,6 +137307,54 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "HeU3s+WQ2ivUra/kGA1s+K0fYzwvvNvYLyQJYEaNUss=",
+        "TDBRecord-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "TDBRecord-1.0.4-py3-none-any.whl": [
+          "/BIxhqDFUQFEhEy86v6XLUJYdyaOn+kYIfWPFJ2El6o=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "EMFluBJncR0opCddQso0pV3UeoZyHn5ZMwhMQ/JoesU=",
+        "TDBRecord-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "TDBRecord-1.0.5-py3-none-any.whl": [
+          "nkA4v1Du5Fc8bNSXvikAMQZDFs78VydgYXQXlMPNUHM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "4/s2EjKFYiNTx6MtYsl+GGQZzk/Yy7nxVRWf7z4PfhE=",
+        "TDBRecord-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "TDBRecord-1.0.6-py3-none-any.whl": [
+          "4w4ioHgC/4cmDYf3PjJd0oM/Mw5rTedewLcR61DyHE8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "fE/XuWqJjclwCpw8NBzXpgRiSyO6ssTSeD6S9fHolh4=",
+        "TDBRecord-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "TDBRecord-1.0.7-py3-none-any.whl": [
+          "EWOYrxCA016z2v3mSSDzQICAgOCN5vemEvP1EHGRKqI=",
+          "py3"
+        ]
+      }
     }
   },
   "tdwew": {
@@ -143394,6 +143478,34 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221221-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "PooOKZPbMcFzbzXWGM4OVRIncSA5gGZWBKTYg3jJNtY=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221222": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221222-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "uoIv/I1ghkocBJJHNhnYRYimfPspuIZoUvJXzi/J5hw=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221222-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6JqgCD4lVY/LvuSoG8xgz9frU3ouFF3CZqb+LK42dVA=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221222-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "kaqhstJqlTfFqN1NEU7IK7/QOk/atf5GBPYmlAGwlFI=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221222-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jHLtAl4Tg+5TzAj8CgPJ4HE8/AxV6jQaDhWjlvvKjAc=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221222-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "QaNaULaWwxQasBrGq6FTQ4BWp1bZxffCxPD3nifmBRI=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221222-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aJ3LsZFF689+pXNp2PXAS57ReAaVherJPdiaYfBqtbk=",
           "cp39"
         ]
       }
@@ -157690,6 +157802,22 @@
       "wheels": {
         "ypkpathway-3.0.1-py3-none-any.whl": [
           "ahNAyTU0cwKb5Ai55kKo3nM5KWLfT3GDALVTeX6wQKs=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0a10": {
+      "wheels": {
+        "ypkpathway-4.0.0a10-py3-none-any.whl": [
+          "VW/wMYgLz0x4Dv8hacoRAENY4iIGB3bx/hEv/L8tUhE=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0a11": {
+      "wheels": {
+        "ypkpathway-4.0.0a11-py3-none-any.whl": [
+          "gbXC6NYdn+CMoDWy3Mx8pbmorvSx6p2PcjhG0mWsavI=",
           "py3"
         ]
       }

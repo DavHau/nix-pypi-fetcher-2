@@ -22437,6 +22437,18 @@
         "U2Nchk0oBZeMUIu0CwGiCDDgxCZNtxiN0u/yTCRNSuc=",
         "calib3d-2.7.0.tar.gz"
       ]
+    },
+    "2.8.0": {
+      "sdist": [
+        "w3GH4d21riWq166TM8aUZ0A7RFB/FBJFXodNQAmwY+o=",
+        "calib3d-2.8.0.tar.gz"
+      ]
+    },
+    "2.8.1": {
+      "sdist": [
+        "GpBxfdOd34VwdU5vAljYfI3TcWaoD+mpNZfpEfHxp68=",
+        "calib3d-2.8.1.tar.gz"
+      ]
     }
   },
   "camtones": {
@@ -53220,6 +53232,18 @@
     }
   },
   "graphcode": {
+    "0.1.4.10": {
+      "sdist": [
+        "NeyewaVE9IUrKQeXfjxa0bLG22zhE/Sy+X+/CgBVJ6g=",
+        "graphcode-0.1.4.10.tar.gz"
+      ],
+      "wheels": {
+        "graphcode-0.1.4.10-py3-none-any.whl": [
+          "Vzj3F057uxg11dMHL3ZrGX/J+uhq5SQXmaDxgCh1VQA=",
+          "py3"
+        ]
+      }
+    },
     "0.1.4.8": {
       "sdist": [
         "vvgeSuIc9cDFh2TphTz/aXvDktLsUlsi49tCVs9LFoQ=",
@@ -56498,6 +56522,14 @@
         ]
       }
     },
+    "3.1.18": {
+      "wheels": {
+        "huaweicloudsdkecs-3.1.18-py2.py3-none-any.whl": [
+          "Dgd6QnjrNUPWORAKBwkV7npicUPQXIP2ZBznEqMghos=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkecs-3.1.2-py2.py3-none-any.whl": [
@@ -56920,6 +56952,14 @@
       "wheels": {
         "huaweicloudsdkief-3.1.17-py2.py3-none-any.whl": [
           "oRiBhF8bZMRqf3eOUIBmXSkg6qMWJxhoK4eEs3YiwXA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.18": {
+      "wheels": {
+        "huaweicloudsdkief-3.1.18-py2.py3-none-any.whl": [
+          "s8VL+wpieSnRQJkWemwN4IukwIJyQdeBa5yamCAO3eo=",
           "py2.py3"
         ]
       }
@@ -77451,6 +77491,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.0.2.dev4": {
+      "wheels": {
+        "odoo14_addon_base_changeset-14.0.2.0.2.dev4-py3-none-any.whl": [
+          "GhTcEzrJD+W4iz5D8MtGbGmlrfU4OQpMAIp30sohX0Y=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-hr-employee-document": {
@@ -86966,6 +87014,18 @@
         ]
       }
     },
+    "0.4.12": {
+      "sdist": [
+        "tC/Glf5Y+6TBmfHTLIouUjeoTV+HWOXBIcu/Z2QJXrI=",
+        "pinotdb-0.4.12.tar.gz"
+      ],
+      "wheels": {
+        "pinotdb-0.4.12-py3-none-any.whl": [
+          "WZnvdUnFhzCQ+aPCuYw2NowPp9FnEAmAefji/oeD/lM=",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "UongBK2/Kco8ljDQHIIN3FYay/95OQpoUbRxsjkO6GM=",
@@ -87872,6 +87932,18 @@
       "wheels": {
         "polars_lts_cpu-0.15.7-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "yuosbSLZF5lj2G/ff7DGEfjVrFU9iZ11QgJ9e6W7AGI=",
+          "cp37"
+        ]
+      }
+    },
+    "0.15.8": {
+      "sdist": [
+        "VACBscvf/IC6F+sF08+IXloFuVxB5zKiWKNVAxEZb6U=",
+        "polars_lts_cpu-0.15.8.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.15.8-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LUTkvlmUyQpGRjGutxISLIXcIfRU0wwBNgY46Ly/VVE=",
           "cp37"
         ]
       }
@@ -89660,6 +89732,18 @@
       "wheels": {
         "prismacloud_cli-0.5.0-py3-none-any.whl": [
           "MawVsQPR04nZQTfInzrkuoWnR+1r+toboi4V6XBESrQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "L5UMjVhV9Qtj+1fb9/5M5r3jyXpowJ+W8S4vuqjm0m4=",
+        "prismacloud-cli-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "prismacloud_cli-0.5.1-py3-none-any.whl": [
+          "7EpHZ2UlfptFwkqWg9Hk3sZsFtKohGnTBVboEe/yuEA=",
           "py3"
         ]
       }
@@ -102223,6 +102307,18 @@
           "py3"
         ]
       }
+    },
+    "6.1.0": {
+      "sdist": [
+        "x0qcYSIyYFucW+qnYysOsf6nq9DGzwVg78PMTRqAo6k=",
+        "reahl-mailutil-6.1.0.tar.gz"
+      ],
+      "wheels": {
+        "reahl_mailutil-6.1.0-py3-none-any.whl": [
+          "O1echRmk7TC+6mOokUIRh27T1+S3UAiBpOfVPKyN63o=",
+          "py3"
+        ]
+      }
     }
   },
   "realex": {
@@ -112524,6 +112620,14 @@
       "wheels": {
         "spark_sdk-0.4.13-py3-none-any.whl": [
           "xix3a8ojU9gbPtBdJge9WTG85530S0JTnZdhqwqSiaU=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.14": {
+      "wheels": {
+        "spark_sdk-0.4.14-py3-none-any.whl": [
+          "eMxBKP2BWHbehg+Q85nMeVK7zkJVwu6w2vQmb7hYI4A=",
           "py3"
         ]
       }
@@ -127199,6 +127303,20 @@
       ]
     }
   },
+  "toydl": {
+    "0.1.0": {
+      "sdist": [
+        "d38UJ9Mjb9DTHAmApyb1jdypsle7kqdJMZOZcr0R4/k=",
+        "toydl-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "toydl-0.1.0-py3-none-any.whl": [
+          "+FpNZsfBIfZmyHeRsqYVIykeUPrxxHt9XbUqfPr4msk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tracincludepagesmacro": {
     "0.1": {
       "sdist": [
@@ -137352,6 +137470,34 @@
         ],
         "xia_user-0.0.10-cp39-none-win_amd64.whl": [
           "t6+nSlxiOcXnSqdmw378ad4A8U0NEhiBggau5XAFa14=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "xia_user-0.0.11-cp310-none-macosx_11_0_x86_64.whl": [
+          "GEKDsV5legTdRUyvR2x/fKVEgeUWNbYtrDFtEm4vnss=",
+          "cp310"
+        ],
+        "xia_user-0.0.11-cp310-none-manylinux1_x86_64.whl": [
+          "4mzOCHXx47ZvsTkp0KI9fcpbOKoIUSGxkdeZzqQfvVM=",
+          "cp310"
+        ],
+        "xia_user-0.0.11-cp310-none-win_amd64.whl": [
+          "KOX2M+8UlmCb+tA6d65+3UBl7WKJryDuNbPHm1/OYII=",
+          "cp310"
+        ],
+        "xia_user-0.0.11-cp39-none-macosx_11_0_x86_64.whl": [
+          "ksfF3dZpxrvd6eeYrHu7oounqxUpYZveIvUHcJOPCSM=",
+          "cp39"
+        ],
+        "xia_user-0.0.11-cp39-none-manylinux1_x86_64.whl": [
+          "DDzlJlbTovmx/fu/RKVNqZHmCor6zUpVrDji0iAg3jQ=",
+          "cp39"
+        ],
+        "xia_user-0.0.11-cp39-none-win_amd64.whl": [
+          "z2Sh2t6d76GjzRSprd621Ltl0i00RCaz3iKJUzo+lp8=",
           "cp39"
         ]
       }

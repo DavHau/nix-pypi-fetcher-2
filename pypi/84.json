@@ -11313,6 +11313,58 @@
           "cp39"
         ]
       }
+    },
+    "0.2.1": {
+      "wheels": {
+        "biometeo-0.2.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "aCfv74XHtUsJBvte4afRQMW86ZFoEZO2SruvhhqPBcA=",
+          "cp310"
+        ],
+        "biometeo-0.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3jKCuNrXnBp9KGbnOPRFGpl36wHo9+Hl0QnxyvHITaQ=",
+          "cp310"
+        ],
+        "biometeo-0.2.1-cp310-cp310-win_amd64.whl": [
+          "eDkZI2Ntk8922SrnKnaQeZ8kzNS4TyVXCY1loZOVDRE=",
+          "cp310"
+        ],
+        "biometeo-0.2.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "BlUL9mvaZYqPfder6sa+gQy4ImGnQ62nZnRrcvxpJew=",
+          "cp311"
+        ],
+        "biometeo-0.2.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SQQ37nSB8XDx4WjCDH0G+p9winPNZiKhMwMrFQXzRjk=",
+          "cp311"
+        ],
+        "biometeo-0.2.1-cp311-cp311-win_amd64.whl": [
+          "JQ6ORfV+z3mbdagx+Gnm6z6DfR70jvNwJOZLouYz8OQ=",
+          "cp311"
+        ],
+        "biometeo-0.2.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "nGG5jrwr3+avQ1U/DLd3m+n+F5EUPH3NyS2wHzjWWVY=",
+          "cp38"
+        ],
+        "biometeo-0.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iadP78x3PzGNGo3ARoPsi+pW5vnzYC5xxVvGzVYxZ78=",
+          "cp38"
+        ],
+        "biometeo-0.2.1-cp38-cp38-win_amd64.whl": [
+          "dDmV9z+Uzn9KKr0eX1Zpvmy0Aa3B5wyMSKudvmm3xXY=",
+          "cp38"
+        ],
+        "biometeo-0.2.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "8e4A1CZgRueFNoxoLyhhTtaeWVAs1Yjxu+OsNUv+bQU=",
+          "cp39"
+        ],
+        "biometeo-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uXOkxLhGZffHuORvbBnamft7O4vucWeMZPuyLufCsds=",
+          "cp39"
+        ],
+        "biometeo-0.2.1-cp39-cp39-win_amd64.whl": [
+          "MOh7XFBQMavSAhmdnecSIgs7Svq/7S7b2N/QhQhyadU=",
+          "cp39"
+        ]
+      }
     }
   },
   "bitcoin-spv-py": {
@@ -46530,6 +46582,18 @@
       "wheels": {
         "geograpy3-0.2.4-py3-none-any.whl": [
           "wvLECJoWlrg/2gvvcgtwItknMQ/4j0IfwTEr5wbYARg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "e7u6fMJJY4+W5w5iWwzBEo2T5AVlMoDXE2s4N7qD/7M=",
+        "geograpy3-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "geograpy3-0.2.5-py3-none-any.whl": [
+          "acPAoL2B6V1Bx5IKIuvXeSv57UDF3qUkf7BJ43HfG74=",
           "py3"
         ]
       }
@@ -134416,6 +134480,14 @@
         ]
       }
     },
+    "2.12.0a20221222": {
+      "wheels": {
+        "tb_nightly-2.12.0a20221222-py3-none-any.whl": [
+          "etsLDnrem+AvHSQAQqxEEhu5ZhtmV1qrPp5n+/zzYQM=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20191207": {
       "wheels": {
         "tb_nightly-2.2.0a20191207-py2-none-any.whl": [
@@ -145722,6 +145794,18 @@
       "wheels": {
         "tuxbake-0.0.9-py3-none-any.whl": [
           "9FnANbx0I4JYrs1W5b6cApMvIU60yMzq+O7WCzUiHhs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "TgQNhz+VSieaImo+fgDY4ZKOnEJLpOAAko1Z3JZHGNE=",
+        "tuxbake-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tuxbake-0.1.0-py3-none-any.whl": [
+          "Odjg5hhhAwrbZc4SspZROTnELV+sUEPtpKaT3ijzHeY=",
           "py3"
         ]
       }
@@ -157476,6 +157560,18 @@
       "wheels": {
         "zibanu_django-1.0.0a1-py3-none-any.whl": [
           "p9Wg3fC6BoVmbuufJhv6JyotzVuW+bA7WyZV5B7liT4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a2": {
+      "sdist": [
+        "M6jP351EIgQ9YAWrXAIcF1JWqJiN/QYE1VI2ymr+aQQ=",
+        "zibanu-django-1.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "zibanu_django-1.0.0a2-py3-none-any.whl": [
+          "gkKjOoRL/Qw8CL7Scm1ksKyHFOHlFmkNBqUqpmuiV7E=",
           "py3"
         ]
       }

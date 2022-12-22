@@ -29988,6 +29988,18 @@
         ]
       }
     },
+    "0.6.15": {
+      "sdist": [
+        "UuNbhcT25+U6YKcEWoaNb7usG2cLLN8hdwqr3ei/wNs=",
+        "cloudstructs-0.6.15.tar.gz"
+      ],
+      "wheels": {
+        "cloudstructs-0.6.15-py3-none-any.whl": [
+          "z7s3YCm+LnpxDQ2xm6S3kWsReqiBlNcClxy4uSZj7A4=",
+          "py3"
+        ]
+      }
+    },
     "0.6.2": {
       "sdist": [
         "1jl5gOXfqxyhBPN39xVtqlvo2v+YR+uGLYiFMPa2wfs=",
@@ -43023,6 +43035,18 @@
         "jw9paDday+m5Sdp7+cqedPTksrJKUeYp+3x4l8q3BzI=",
         "dsmr-parser-0.9.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "Xhh/dQniuafdefXPEYop+lRFEqckNSa5SGDiz8a0MR4=",
+        "dsmr-parser-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "dsmr_parser-1.0.0-py3-none-any.whl": [
+          "s+8iNFz1wYilSrC6r4x0RJPC+ljlRDDAS7yGQHYpmk4=",
+          "py3"
+        ]
+      }
     }
   },
   "dsnd-probability-6212019": {
@@ -60849,6 +60873,14 @@
           "cp36"
         ]
       }
+    },
+    "0.7.0.dev1671696678": {
+      "wheels": {
+        "hybridbackend_tf115_cu114-0.7.0.dev1671696678-cp36-cp36m-manylinux_2_27_x86_64.whl": [
+          "9tM7fmJF2Hi664oSOvjzgiqdk1Q7uiALh6jyDeZnNKo=",
+          "cp36"
+        ]
+      }
     }
   },
   "hybridlfpy": {
@@ -64816,6 +64848,90 @@
         ],
         "itk_topologycontrol-1.0.0-cp39-cp39-win_amd64.whl": [
           "W19RsNoTWPhLBzLmiWCk5O3lF98ntgJ5Zmm1BCQuhuU=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "itk_topologycontrol-1.0.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "sBefP/ntz4YM/sbkvaavZTaBWmUOtvDQ1jTuQblExFg=",
+          "cp310"
+        ],
+        "itk_topologycontrol-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yDgpZlgmqxb04wJcv/mxknDuoGTmORwBaQcY99sTAZw=",
+          "cp310"
+        ],
+        "itk_topologycontrol-1.0.1-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "RcSoJ+qPkHj0lMLQXbAqpduUqPUW4SUWrXqeP3D8YGw=",
+          "cp310"
+        ],
+        "itk_topologycontrol-1.0.1-cp310-cp310-win_amd64.whl": [
+          "Ch8M9+3qoDiGnrC9KzWeb6ENZtHWhBEZsAobh9wmYUM=",
+          "cp310"
+        ],
+        "itk_topologycontrol-1.0.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "HmCsTr9WnxSDMWCIxXtNxGyrM39xt29w7BUJCxm0eAo=",
+          "cp311"
+        ],
+        "itk_topologycontrol-1.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ex30OLwVdaxNiyLWNXkQJJZ3pAhxHoz9QtD+xoWcYE8=",
+          "cp311"
+        ],
+        "itk_topologycontrol-1.0.1-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "C8dLCyPan95Vx0ct8QrQSoRnYAiOnA2512COdrqiXSI=",
+          "cp311"
+        ],
+        "itk_topologycontrol-1.0.1-cp311-cp311-win_amd64.whl": [
+          "R7op8Pbl59L3oIPIq/FxOa/LjTIKy6xtV1Wka0UwTUk=",
+          "cp311"
+        ],
+        "itk_topologycontrol-1.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3tZgcuvVrDBxewTuuzUUC8/IuXB7THR6gbkG3oOfncg=",
+          "cp37"
+        ],
+        "itk_topologycontrol-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y5eqGevreGjPDOc+5zXB1eCljPZIu7QUJaaP76Wq1eE=",
+          "cp37"
+        ],
+        "itk_topologycontrol-1.0.1-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "2/qzAFNhWaP2tXDcFTkT8QBfTW3cOzek1d+zXVj+3P8=",
+          "cp37"
+        ],
+        "itk_topologycontrol-1.0.1-cp37-cp37m-win_amd64.whl": [
+          "z4LLuyOpqk4WKyvFnAiS7vmR9nAgqta4PhaoRJANffU=",
+          "cp37"
+        ],
+        "itk_topologycontrol-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "s7AOR9/zZfc5m7z1H06l/cZk3gH0Vyk6pDeUMmeuCvs=",
+          "cp38"
+        ],
+        "itk_topologycontrol-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/XHlIAba4muEkKx7VN/NOeGIxUaE2ym8f/YDTyWYKHw=",
+          "cp38"
+        ],
+        "itk_topologycontrol-1.0.1-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "vEG1mlUDYswoC+K12lRSEcrl+6nr4fao4xcXNjTEQC4=",
+          "cp38"
+        ],
+        "itk_topologycontrol-1.0.1-cp38-cp38-win_amd64.whl": [
+          "qffjmGhkV1k4Gcxiste5uJdgFOYh/WyB7mtobkfZpNU=",
+          "cp38"
+        ],
+        "itk_topologycontrol-1.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "aLddCQYSUJj4e5zbSaJu5qXtaa8DJzU0kIz7hxd88CU=",
+          "cp39"
+        ],
+        "itk_topologycontrol-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JEc1QUOWbEiK0Us96AMK+/vKPcbvw5YZ/FxMQOSW9OI=",
+          "cp39"
+        ],
+        "itk_topologycontrol-1.0.1-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "Sl8FfRss2tUohWPgB6msdp4T+2wm3b9iLQV4pGDqfpg=",
+          "cp39"
+        ],
+        "itk_topologycontrol-1.0.1-cp39-cp39-win_amd64.whl": [
+          "X08rOw5LR1O+/AIJw86P/s9mOLrsseekm+IeGeTatWo=",
           "cp39"
         ]
       }

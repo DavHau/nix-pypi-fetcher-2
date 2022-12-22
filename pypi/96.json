@@ -4867,6 +4867,32 @@
       }
     }
   },
+  "api-snitch": {
+    "0.1.10": {
+      "sdist": [
+        "AfH62Qk/bGkAibPKrVvLqerLmEARlyWIvnt2NqNZF8Q=",
+        "api_snitch-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "api_snitch-0.1.10-py3-none-any.whl": [
+          "8b8AwtgBVErJpI1/kHHeGjOZOmuNJg9L5KdHzGVc8aI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "T2diO5PyyvU1Q7AUpLswr16HR9AhjkSqAYHDPHRMSTc=",
+        "api_snitch-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "api_snitch-0.1.11-py3-none-any.whl": [
+          "5P8bkeH61MjS55vWRV9GVsQv1oQkRCA7v2MNKUEN2ts=",
+          "py3"
+        ]
+      }
+    }
+  },
   "apimas-django": {
     "0.4.dev2": {
       "sdist": [
@@ -13840,6 +13866,38 @@
         ],
         "bluesky_simulator-2022.12.21-cp39-cp39-win_amd64.whl": [
           "Yex9Go17MzXGjKSLsq8lIMCgtrhRZLw10f8Zwa0rnhk=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.12.22": {
+      "sdist": [
+        "WWjWKIBYFGqD03Uaot/dJkWERKuOgSazBc22BsTHUBs=",
+        "bluesky-simulator-2022.12.22.tar.gz"
+      ],
+      "wheels": {
+        "bluesky_simulator-2022.12.22-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "fcOn+uGXe/9T+bdyllXol8oT+kW50VyFPFsAhh/f6Ug=",
+          "cp310"
+        ],
+        "bluesky_simulator-2022.12.22-cp310-cp310-win_amd64.whl": [
+          "ZAgYqFNxWL1wAYa7nJz7FOgWwZ0joW4QCmEWTh7qnko=",
+          "cp310"
+        ],
+        "bluesky_simulator-2022.12.22-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "jtBzPFCrZLKHy217WSLQAcrUOcKZ7Ke05IjMp9/8AKA=",
+          "cp38"
+        ],
+        "bluesky_simulator-2022.12.22-cp38-cp38-win_amd64.whl": [
+          "nMK5J0UMLIdj7NpmXDa4kr6G8BsG4KWK4Dja6lHnSIw=",
+          "cp38"
+        ],
+        "bluesky_simulator-2022.12.22-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "62UTs4MbVJj4rjgJMlSMO6arI8TuEGuADov+bvzD+54=",
+          "cp39"
+        ],
+        "bluesky_simulator-2022.12.22-cp39-cp39-win_amd64.whl": [
+          "oCjOQhfecE9XXsANFUYLJ/BxpOIvlawrS0UwHPJT4qA=",
           "cp39"
         ]
       }
@@ -93429,6 +93487,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.1.0": {
+      "wheels": {
+        "odoo_addon_sale_planner_calendar-15.0.1.1.0-py3-none-any.whl": [
+          "/eBBuuw6vv4/Gqa6jNTUqiAfPqDyfjjZHJ+U1Jbq5iI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-l10n-ch-fds-upload-sepa": {
@@ -119496,6 +119562,18 @@
       "wheels": {
         "renovosolutions.aws_cdk_control_tower_lifecycle_events-0.1.164-py3-none-any.whl": [
           "1zJLREi6EbA1+/koYRV/ij+xyYTb1zY0miWIfQfmctU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.165": {
+      "sdist": [
+        "CWwF4PSbhaPROD7GsFGltEDQyM205UilF3Dd9ykL3UM=",
+        "renovosolutions.aws-cdk-control-tower-lifecycle-events-0.1.165.tar.gz"
+      ],
+      "wheels": {
+        "renovosolutions.aws_cdk_control_tower_lifecycle_events-0.1.165-py3-none-any.whl": [
+          "brNDZmDUGO1+fdDgrhwipH7qPH3Z+DPafR2xfLz+oWA=",
           "py3"
         ]
       }
@@ -154580,6 +154658,18 @@
       "wheels": {
         "vsscale-1.3.4-py3-none-any.whl": [
           "vaXZUQ8QNzU5korIgWwMNYrIVlZemj+6J38iBIz3XUM=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "nUz6npOIlBY8YycAav3q2ZUF/5XLhE1RBU6k01Mr3u4=",
+        "vsscale-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "vsscale-1.4.0-py3-none-any.whl": [
+          "hyEbY711FbgMsZOT9z7oeZ39JvjgMy+7ehDD340mFdY=",
           "py3"
         ]
       }

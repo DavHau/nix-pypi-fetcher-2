@@ -9698,6 +9698,12 @@
         "aws_service_catalog_puppet-0.213.0.tar.gz"
       ]
     },
+    "0.213.1": {
+      "sdist": [
+        "Y/yWPnCiM8oeWuWG48F7MdBL2h5VDR7qU4i+Py+DHy0=",
+        "aws_service_catalog_puppet-0.213.1.tar.gz"
+      ]
+    },
     "0.22.0": {
       "sdist": [
         "wsB9ZTeRB/g+czGCwnP8hL6Al/2cbcD0FGXSjJBWgGQ=",
@@ -19600,6 +19606,12 @@
       "sdist": [
         "b9DZ+Y7Fc7eR2A1KxUOChosHoybW9kdyoMg3umHfrEE=",
         "CausalPy-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "i+qJX0mZh64a/5EKkWC9S5BFilCKKSIKtpnvjme8xw4=",
+        "CausalPy-0.0.7.tar.gz"
       ]
     }
   },
@@ -86421,6 +86433,16 @@
       }
     }
   },
+  "odoo14-addon-mrp-unbuild-subcontracting": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_mrp_unbuild_subcontracting-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "MbCq4hie/DBLZFbP0tHMgJev8AxhBiHJMFslL25+sjY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-quality-control-mrp-oca": {
     "14.0.1.0.1.dev2": {
       "wheels": {
@@ -121493,6 +121515,18 @@
           "py3"
         ]
       }
+    },
+    "6.1.0": {
+      "sdist": [
+        "mlSDIeYePrd7FJnMQhquZ/jtbnQNc1C61iOZUCykOrw=",
+        "reahl-web-declarative-6.1.0.tar.gz"
+      ],
+      "wheels": {
+        "reahl_web_declarative-6.1.0-py3-none-any.whl": [
+          "jYMgwZDcNQBECKU37btWvwaMtbeNVAQNwEpjgdM1tQc=",
+          "py3"
+        ]
+      }
     }
   },
   "reccd": {
@@ -145832,6 +145866,30 @@
       "wheels": {
         "trappist-0.5.0-py3-none-any.whl": [
           "QxVYrG0bTWkEiQE2fU0WS4f9t62r5EIvbPHzNAmwUJM=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "hLuRkCIMHVaoYKl5+Ey6rHUaEp2JQotyitvCiDqzNGY=",
+        "trappist-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "trappist-0.6.0-py3-none-any.whl": [
+          "zjBz7mAkQAFKylCByuy99qjdylrz5IatZjb1zBn1nLg=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "pnMpRQ88b4SbfXaFSKn7q3BQamMnG5aQ3wapey3Q6+A=",
+        "trappist-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "trappist-0.7.0-py3-none-any.whl": [
+          "bTFp7J1j7S2GinIdJvXX2BFhWZJ4WHsd7qQ08StzELU=",
           "py3"
         ]
       }

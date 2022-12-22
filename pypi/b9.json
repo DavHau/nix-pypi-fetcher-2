@@ -45629,6 +45629,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.18": {
+      "wheels": {
+        "huaweicloudsdkmas-3.1.18-py2.py3-none-any.whl": [
+          "/pTUstxGSYF4+a+JhSsDt78gbqub3HhQsQDy8oTzKkw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "hub-kinesis": {
@@ -69296,6 +69304,12 @@
       "sdist": [
         "KLnN+XZFf4zPz+d08amMtdKf4MPLVm+Bo0RLKEo/gks=",
         "nonebot-plugin-sky-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.10": {
+      "sdist": [
+        "spMaOnKyVQL9ZdjExNxs5aIryZcwykHthQ6/FuPIkVk=",
+        "nonebot-plugin-sky-1.2.10.tar.gz"
       ]
     },
     "1.2.2": {
@@ -109311,6 +109325,12 @@
         "TvFizfXl3WAUt7k5iHbXzgmF/O7VsZOXvdeyPP3U9rA=",
         "salure_helpers_sqlserver-1.0.1.tar.gz"
       ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "WW894ztLKNF+wmScV6C2Ckc0j/z+dVGDPd8ItpP4nrQ=",
+        "salure_helpers_sqlserver-1.0.2.tar.gz"
+      ]
     }
   },
   "samp-pypi": {
@@ -110114,6 +110134,18 @@
       "wheels": {
         "sanic_motor-0.6.0-py3-none-any.whl": [
           "hT2gvRXbUJ5QJjaPXg7F+iGjOTPaiCjzbITm0qv4CQA=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "qt39ulQ23ZpUL9/hr+sK2RNqBOHVJWuplcFHQV7kURI=",
+        "sanic-motor-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "sanic_motor-0.7.0-py3-none-any.whl": [
+          "50L3ei9Vcxy4O43TobYyXx1Doy15AUITv/mspuJ1ztk=",
           "py3"
         ]
       }

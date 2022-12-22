@@ -16827,6 +16827,14 @@
       }
     }
   },
+  "client-chat-pyqt-september1": {
+    "0.2": {
+      "sdist": [
+        "q52s8IyAPTEo8N2Y8X3nDT3nDviEe/cK+QbjFYDGHlg=",
+        "client_chat_pyqt_september1-0.2.tar.gz"
+      ]
+    }
+  },
   "clinterface": {
     "0.1.0": {
       "wheels": {
@@ -21648,6 +21656,18 @@
       "wheels": {
         "DateTime-4.8-py2.py3-none-any.whl": [
           "t9Fz++FcEKU1dfVtJXC26VbAqV5L4DR5UXoAeRsZkX0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.9": {
+      "sdist": [
+        "KdNGvz7K1e4arXT6LrA95V+imENOLyfbbcqhKkQ4VoE=",
+        "DateTime-4.9.tar.gz"
+      ],
+      "wheels": {
+        "DateTime-4.9-py2.py3-none-any.whl": [
+          "7RFPFh17jsBLhPOY3j/DuXOytyc/gSqhCe5kNYoB22Q=",
           "py2.py3"
         ]
       }
@@ -50718,6 +50738,14 @@
         ]
       }
     },
+    "3.1.18": {
+      "wheels": {
+        "huaweicloudsdksfsturbo-3.1.18-py2.py3-none-any.whl": [
+          "8605lAHVGjYNMIji4kvFCLukQ+ANCGza9S0R8e7bSwk=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdksfsturbo-3.1.2-py2.py3-none-any.whl": [
@@ -72629,6 +72657,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "VXGglpn2DSbvFapdsA4SlHVb9V/m3P0d7c/mFkIegvo=",
+        "mimicpy-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mimicpy-0.2.0-py3-none-any.whl": [
+          "y2X74jVYGSHwkB3p+Yw1UQcmzELiEa8BPKd775Lz+jc=",
+          "py3"
+        ]
+      }
     }
   },
   "minchin.pelican.plugins.image-process": {
@@ -75834,6 +75874,18 @@
       "wheels": {
         "moon_coverage-0.9.1-py3-none-any.whl": [
           "saBGzLCloYCtFejJk/zcnIYEmDPdmpkksxm3g1EW7aU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "Y+SG7+s3aSA7ofux6t/XldAqn51eKuu1eOAjpmYimcA=",
+        "moon-coverage-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "moon_coverage-1.0.0-py3-none-any.whl": [
+          "VTO7/U4rxahIp1ZwBTj4F3NRUnHlPYJedN/MHLu7tUo=",
           "py3"
         ]
       }
@@ -89065,6 +89117,24 @@
       }
     }
   },
+  "opti-napalm-mos": {
+    "4.0.1": {
+      "wheels": {
+        "opti_napalm_mos-4.0.1-4-py3-none-any.whl": [
+          "/3bwTv04EEFj7zUIjySat/FqJCIIpSyF1c+hEsbWwQk=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.3": {
+      "wheels": {
+        "opti_napalm_mos-4.0.3-10-py3-none-any.whl": [
+          "LqcygqnMpNva8AdzR1JLkJYMRYTpsS6jt+jGt2XzSKI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "optimization-lib": {
     "0.0.5": {
       "sdist": [
@@ -98528,6 +98598,14 @@
       "wheels": {
         "py_template_creator-1.0.8-py3-none-any.whl": [
           "Da++YkXOGbS70vqrhvBXIHnee4Rfw4VU4yOtFe1o9f4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "wheels": {
+        "py_template_creator-1.0.9-py3-none-any.whl": [
+          "VtVWoNtS91AZjyTtDcLCpzuMYU9yMWztOoCyWTICXag=",
           "py3"
         ]
       }

@@ -5407,6 +5407,22 @@
         "arcana_core-0.8.0-py3-none-any.whl": [
           "fYxOptjxhwgnegOwcGcNJE1/gKSkRHTMCTNvOgP/UvU=",
           "py3"
+        ],
+        "arcana_core-0.8-py3-none-any.whl": [
+          "be/b4nodYfOmcHUqpaJBmoyvtGa5DIbdJ1tlkgV6hoE=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "/Y5b/PxIRS/R9sgIk6EJBhgDTTe2WwrrojkSZxFYV1A=",
+        "arcana-core-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "arcana_core-0.8.1-py3-none-any.whl": [
+          "ZQbupTweVdZR8O9WSgl3DZuG4pAH/o5zY62/MurdMfk=",
+          "py3"
         ]
       }
     }
@@ -82485,6 +82501,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.8": {
+      "sdist": [
+        "KsniSrkBTcD3G4DMnSKvhKYCKckd0AfWcBptFxaGjoQ=",
+        "pandas_eda-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "pandas_eda-1.0.8-py3-none-any.whl": [
+          "Voaxf9f9eBWfMhcAhy3kbUM9JvXS7oOo4m9ib5K9sEk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "tRqP58ohO2can7gtdaZ4det4y4pPT4wcQbft33EfCqg=",
+        "pandas_eda-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "pandas_eda-1.0.9-py3-none-any.whl": [
+          "k6B5GxDp8F84tIWhCtYEKjzDjtw/CaK73CmkEBCkAY0=",
+          "py3"
+        ]
+      }
     }
   },
   "pankoff": {
@@ -104614,6 +104654,18 @@
         ]
       }
     },
+    "4.9.11": {
+      "sdist": [
+        "BhPkTlCr83Xn8jGUrtq00fHHiwMcp/bvtQcwU/FYFCo=",
+        "pytest-sbase-4.9.11.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sbase-4.9.11-py3-none-any.whl": [
+          "Z96qBEuGyp0C6+2C481sY6LQT/tVSaTgRKrDldxkCJA=",
+          "py3"
+        ]
+      }
+    },
     "4.9.2": {
       "sdist": [
         "QrEnoUGAmKrPtLSRNjow4byYEjos51rlbsOm22BNhBE=",
@@ -115520,6 +115572,18 @@
       "wheels": {
         "schedula-1.4.3-py2.py3-none-any.whl": [
           "5hkEUZ2Hs6u1T2wxPD3iJ1E4meHEcA+NvA7p2CwIyPY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.4": {
+      "sdist": [
+        "TMpH5oPFo1hvUTJm3Hy8i654sd8mqNMXZkmcyxYUn80=",
+        "schedula-1.4.4.tar.gz"
+      ],
+      "wheels": {
+        "schedula-1.4.4-py2.py3-none-any.whl": [
+          "KtMv1dSaWl3s2TicMpoVFQuBYAMeEZHGcTb6lIyqfKg=",
           "py2.py3"
         ]
       }
@@ -139042,6 +139106,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221221-cp39-cp39-win_amd64.whl": [
           "DfNo/VRDfKeFLhiCTzfQ5HrpgNxbR4PEvISxiX9/Or8=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221222": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221222-cp310-cp310-win_amd64.whl": [
+          "G8eiWX6Mopx6QJ6ycY8PEgVzVAO9Nrnej1UUUsJFj54=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221222-cp38-cp38-win_amd64.whl": [
+          "R+wq22FX3JxCFTPCc6rxtUSsvcMs8y+Rq483/LyDOQQ=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221222-cp39-cp39-win_amd64.whl": [
+          "J5/tKPDYN/ofdZuVx4IhpeBMePdQzHXm0Of0kYZTt5k=",
           "cp39"
         ]
       }

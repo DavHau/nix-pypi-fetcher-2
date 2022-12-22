@@ -13847,6 +13847,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.1": {
+      "sdist": [
+        "Zeah8jUMDky16AxJI5pInTiVn0JqsmepbdMblD3TP2s=",
+        "bai2-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "bai2-0.9.1-py3-none-any.whl": [
+          "VfScroSNhnh0uWE3zNM4ZJ0ha+I4yAiBZW8N287y0hs=",
+          "py3"
+        ]
+      }
     }
   },
   "barrels": {
@@ -22434,26 +22446,14 @@
     }
   },
   "cfhl-oasis4": {
-    "1.0.0a10": {
+    "1.0.1": {
       "sdist": [
-        "3LYrHVgwkqSgbltZjfSu776YgC3ZNHzH9d747jiL6+E=",
-        "cfhl-oasis4-1.0.0a10.tar.gz"
+        "7jZJvQm0Ek94999EsDs929GmcksgudakKHI9MhfOo2I=",
+        "cfhl-oasis4-1.0.1.tar.gz"
       ],
       "wheels": {
-        "cfhl_oasis4-1.0.0a10-py3-none-any.whl": [
-          "rPPZHqFEWVTzyRgUDM2WgZ5BSjI+SoEZV1dU3UxBDMQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0a9": {
-      "sdist": [
-        "nyq2r2lVQcgXWnp30xYx1tjfiqmFYU/4Q8JPSFlBUhU=",
-        "cfhl-oasis4-1.0.0a9.tar.gz"
-      ],
-      "wheels": {
-        "cfhl_oasis4-1.0.0a9-py3-none-any.whl": [
-          "JJEajEkgPx9Jkp7pFcuT/G12H7cv3jUi05W4GGDND6E=",
+        "cfhl_oasis4-1.0.1-py3-none-any.whl": [
+          "w37aFbHo4iWyh5WQQWBOSyGyE28DzA5wC9Ol4ZB9FE0=",
           "py3"
         ]
       }
@@ -117267,6 +117267,42 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "IxcEZeV8jke8uIemltr9giIijgfZbrx1qO4AT/7U4HQ=",
+        "pysumreg-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pysumreg-1.0.4-py3-none-any.whl": [
+          "KOzInrwIk9sj9XAGMAVuLPolqFBhv3pr4PUCeFGxviE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4rc1": {
+      "sdist": [
+        "9Eex2utO6UYS9xlqD0cJ+L5yONJQbUwnptL2hERsrC4=",
+        "pysumreg-1.0.4rc1.tar.gz"
+      ],
+      "wheels": {
+        "pysumreg-1.0.4rc1-py3-none-any.whl": [
+          "CojcFWHAwgQSpSzwQKRxgpJkv52yXycIfypadAxJveQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4rc2": {
+      "sdist": [
+        "CDqSZ+ZruF2zCkUd7EN+0euJRtauUlkTkkEC6Or+fzg=",
+        "pysumreg-1.0.4rc2.tar.gz"
+      ],
+      "wheels": {
+        "pysumreg-1.0.4rc2-py3-none-any.whl": [
+          "7jhc5f2ijY3pS43p7FFKBrYCU/qOwrS7ccAYrnpvzsU=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-sa-pg": {
@@ -123050,7 +123086,25 @@
       "sdist": [
         "jZsj2yCaDX7YBB87gmOMTXYLBguHoDDBcsWWpqXrHys=",
         "rmlst_api-0.1.4.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "rmlst_api-0.1.4-py3-none-any.whl": [
+          "jPEQDcwuG6R9Pth7e7TNUck94WcDOA6pgBClBnBmIqc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "AIxeuEfZJwLyxt2BnGsA/ayX2XNP/6LyAz3iPcEqXKM=",
+        "rmlst_api-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "rmlst_api-0.1.5-py3-none-any.whl": [
+          "sgVEzNRu6i/C39mVczcEuik3iM0IXxowMWLJ4kowsXc=",
+          "py3"
+        ]
+      }
     }
   },
   "roblox": {
@@ -129178,6 +129232,14 @@
       "wheels": {
         "sitreps_client-1.0.2-py2.py3-none-any.whl": [
           "h7ERmNM1IGyKlcdyihz1lroO2xVndXuvsZ8oH8naOww=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "wheels": {
+        "sitreps_client-1.0.3-py2.py3-none-any.whl": [
+          "OsOKMzUJVrVadGwiajXo5t0PECIN9QII6oZ7+18LtpY=",
           "py2.py3"
         ]
       }
@@ -148376,6 +148438,18 @@
       "wheels": {
         "vsdeinterlace-0.2.1-py3-none-any.whl": [
           "vXFB/HGRxk4tuCjqmjp2xRC7EVWGVKNB3orxD3NCuWI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "FItl6iyUdoX8lKaT7kinOzaj8usqlcljTcFXhfRJmNQ=",
+        "vsdeinterlace-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "vsdeinterlace-0.3.0-py3-none-any.whl": [
+          "qFOpWG5uDv+OlaaPTrcP9QTQprXXeEPiewpHkDuoGKg=",
           "py3"
         ]
       }

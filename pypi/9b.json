@@ -54701,6 +54701,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.5": {
+      "wheels": {
+        "gravity_auto_exit-1.2.5-py3-none-any.whl": [
+          "TcnpNCIRiaygIbuI+Q/FYixT5M3RjMW4shHyQnrvJWc=",
+          "py3"
+        ]
+      }
     }
   },
   "graystruct": {
@@ -57128,6 +57136,14 @@
       "wheels": {
         "huaweicloudsdkdli-3.1.17-py2.py3-none-any.whl": [
           "v7ETpXwb1x8b6Rtgl0q8aOSZOdCfCuOkW25i+wEqS6g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.18": {
+      "wheels": {
+        "huaweicloudsdkdli-3.1.18-py2.py3-none-any.whl": [
+          "SEU4/F79e5ozvzY/5rKjDR0BUP6KoNXpi9ZK25F6r2I=",
           "py2.py3"
         ]
       }
@@ -75473,6 +75489,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "lx+zbpR2BSAcSFnz5Dzuqg7WbYJ9J0iGoM5SV+eTajM=",
+        "microSWIFTtelemetry-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "microSWIFTtelemetry-0.2.2-py3-none-any.whl": [
+          "Ng3bJSldDG3nSXJAB9z75pO7aID3/WtIRYyO/AnAxv4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "TIzIN1Rr6XZCpcApvlewAsPLD0lLGz+3zRPxX8vvppc=",
+        "microSWIFTtelemetry-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "microSWIFTtelemetry-0.2.3-py3-none-any.whl": [
+          "5lJC8bqb4//2YiWi9eIMy9WCVa9/KoOPk2gTI1h49h8=",
+          "py3"
+        ]
+      }
     }
   },
   "migraine": {
@@ -76870,6 +76910,14 @@
       "wheels": {
         "mse_lib_sgx-0.12.1-py3-none-any.whl": [
           "fRy/+2I/tB3+5vy6ruRFRX2jgOfTINKbGnh27XfApIk=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.2": {
+      "wheels": {
+        "mse_lib_sgx-0.12.2-py3-none-any.whl": [
+          "ooculFeWIeVO/srfl//m1ZaFK1776qwPzUcRHEiycGc=",
           "py3"
         ]
       }
@@ -83666,6 +83714,22 @@
       "wheels": {
         "odoo14_addon_helpdesk_mgmt-14.0.1.13.2.dev1-py3-none-any.whl": [
           "W3duMRSM5/sv13pQD6FgI63Waj9dGYB8rNo35aAh2Jo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.14.0": {
+      "wheels": {
+        "odoo14_addon_helpdesk_mgmt-14.0.1.14.0-py3-none-any.whl": [
+          "UZ3pqUWwmdv/SjVq5LDTrBAB3CiKHtKJPZEq+eTjiNo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.15.0": {
+      "wheels": {
+        "odoo14_addon_helpdesk_mgmt-14.0.1.15.0-py3-none-any.whl": [
+          "61K+iriCjmpqfuXT0cWpXOXBtqU3OBV4gDzQh7V4dfQ=",
           "py3"
         ]
       }
@@ -112725,6 +112789,18 @@
           "py3"
         ]
       }
+    },
+    "1.1": {
+      "sdist": [
+        "55XMPGQxS8axH5pToKJJqPF6YG6dTWalf4eiQUzMB8s=",
+        "PyPyd-1.1.tar.gz"
+      ],
+      "wheels": {
+        "PyPyd-1.1-py3-none-any.whl": [
+          "NecYQGYaV9/v8w5AVTNgc52Bhxb54lN3G0jmLA0mwZM=",
+          "py3"
+        ]
+      }
     }
   },
   "pyqueued": {
@@ -114318,6 +114394,18 @@
       "wheels": {
         "pytest_homeassistant_custom_component-0.12.35-py3-none-any.whl": [
           "NGyqdTztb87TEedl8MrN5AsWc7VmGWCkGrWsbqRSsY0=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.36": {
+      "sdist": [
+        "Ka7jftER+Kx1SvSkHCff44XC1lRaI0Gi7/bHhUFX2o8=",
+        "pytest-homeassistant-custom-component-0.12.36.tar.gz"
+      ],
+      "wheels": {
+        "pytest_homeassistant_custom_component-0.12.36-py3-none-any.whl": [
+          "mErltwrQg7C+yljTpAyVYbjF61uHum0cK3Oz+SSX0hE=",
           "py3"
         ]
       }
@@ -141847,6 +141935,46 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221221": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "cTX9ncJGijO7O644dqdHPMOuVQWeDha3Szv7VRCnbqU=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "s/6Rf9hV9cbwT4hKIY9ZjoB2CrPoHZfFMlM+AHbXmBg=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "eurNi8NJlBwBgmrYXPuKsFYlaATqQKjXguRQhUeuL48=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp38-cp38-manylinux2014_aarch64.whl": [
+          "WccTcOH1eDOTiAgz2F7M5aXIceCJJuH4I4L03aTlSz0=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp38-cp38-manylinux2014_armv7l.whl": [
+          "Df+76t1YCug2zgv825xFb8gFSH/yIi2clzdX3HgwotI=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp38-cp38-manylinux2014_x86_64.whl": [
+          "o72QSDA663azLQpDk2nFlz/hchAk6nqKYsP10yRAqXg=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp39-cp39-manylinux2014_aarch64.whl": [
+          "OeQngILJ1tWf62MKRvbPHmEVIh/DnAH84WvwKwmmty0=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp39-cp39-manylinux2014_armv7l.whl": [
+          "YrinW1nViJtXXYUThT6mmU5ros9uSFCPQmsVibhoStY=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221221-cp39-cp39-manylinux2014_x86_64.whl": [
+          "tRwKQZbKv+zS0g8fMbPV5sa754NimGZXn+og9KbH7AY=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfset": {
@@ -156758,6 +156886,18 @@
       "wheels": {
         "wedge_lib-2.0.9-py3-none-any.whl": [
           "2t7DiSnE3z/1IsimRDe4M1WjdLiP7gkkmNR2tfe0Xrc=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "tlpm7UteMBgY2Ny9Q/UnP1hPfY/rVduXmz0J95QHbUo=",
+        "wedge-lib-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "wedge_lib-3.0.0-py3-none-any.whl": [
+          "y4F4HtZlo6X7TyKFLtsSTk3B9usCciGHpkdWmi+vCNo=",
           "py3"
         ]
       }

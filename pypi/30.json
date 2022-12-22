@@ -24518,6 +24518,12 @@
         "collective.accordionviews-1.0b1.tar.gz"
       ]
     },
+    "1.1": {
+      "sdist": [
+        "a8d8iIpUgbKufmx533z6kTXCijVx42cmDZWk5R97PtA=",
+        "collective.accordionviews-1.1.tar.gz"
+      ]
+    },
     "1.1b1": {
       "sdist": [
         "miqiqIB0rCOP17Aq14imHoqWqEV3qvQPpttfNOF1NTw=",
@@ -33740,10 +33746,28 @@
     }
   },
   "dsapy": {
-    "0.0.3": {
+    "0.0.42": {
       "sdist": [
-        "RlrDMRDF7IOh8fbjVjlaNT0aMHa/nM6VsCR+22kgoq8=",
-        "dsapy-0.0.3.win-amd64.zip"
+        "q0JKloZ82SN4fHU8k1umdcalAWe0jNBIk1V09J2Xk5M=",
+        "dsapy-0.0.42.tar.gz"
+      ]
+    },
+    "0.0.420": {
+      "sdist": [
+        "03g1Ii6AX5A/EAJIIBJPzmOUqfoUXc9ou1kzyMKwjRI=",
+        "dsapy-0.0.420.tar.gz"
+      ]
+    },
+    "0.0.421": {
+      "sdist": [
+        "NfErb4MrQBASAmbBp5JhbmsoGZkpd7R5CEsquu8YcV0=",
+        "dsapy-0.0.421.tar.gz"
+      ]
+    },
+    "0.0.69": {
+      "sdist": [
+        "77dd+SxgQhshQS2CHpYOLhb3D5oF2fkO5UiJ4+q1wiI=",
+        "dsapy-0.0.69.tar.gz"
       ]
     }
   },
@@ -51876,6 +51900,14 @@
       "wheels": {
         "huaweicloudsdkbcs-3.1.17-py2.py3-none-any.whl": [
           "OFFhQB2ErwB709MXjE04FZHuGKuXoSfn++61ELFX0zE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.18": {
+      "wheels": {
+        "huaweicloudsdkbcs-3.1.18-py2.py3-none-any.whl": [
+          "yiEcXlWU9marp4V3yzVn6g0Ds3M47Bn8QXXVGR8ehPo=",
           "py2.py3"
         ]
       }
@@ -79232,6 +79264,14 @@
       "wheels": {
         "nafigator-0.1.6-py2.py3-none-any.whl": [
           "f8QwVbrP7wgKxkatWnZHVAXqthqpClv/UHBBLd9unIs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.60": {
+      "wheels": {
+        "nafigator-0.1.60-py2.py3-none-any.whl": [
+          "piSqqf9p1sQMUHCNdCgvC7OmQ2MZIUoT9U7xvOKz3F4=",
           "py2.py3"
         ]
       }
@@ -115029,6 +115069,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.2": {
+      "sdist": [
+        "tY7ul/RYbA9ebqrGgfU6PWxqT0jDmqWnyJitVEUYAH0=",
+        "resoto-plugin-dockerhub-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "resoto_plugin_dockerhub-3.0.2-py3-none-any.whl": [
+          "ZPihaNEKjElSGeMa7b6VeUQ7yRjXSefg/rngW3/HVYE=",
+          "py3"
+        ]
+      }
     }
   },
   "respo": {
@@ -140055,6 +140107,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "BcF2lO9B31U8T1BvvUlgSn+fdT3zynNoYVE9WbOINYQ=",
+        "tgc-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "tgc-1.0.3-py3-none-any.whl": [
+          "tH8rxxUhxFFdDUBo5p6oV4gYiIZXgUjb2HNVN/TvFJQ=",
+          "py3"
+        ]
+      }
     }
   },
   "the-sims-freeplay-hack-get-free-simoleons": {
@@ -152594,6 +152658,14 @@
       "wheels": {
         "yxspkg-6.14.0-py3-none-any.whl": [
           "g9tm9sWPtPTPuadeS/UA5XS9rwle4AcCCLg/vqs9Ils=",
+          "py3"
+        ]
+      }
+    },
+    "6.14.1": {
+      "wheels": {
+        "yxspkg-6.14.1-py3-none-any.whl": [
+          "y3YF36hCJZKa9qdjgNktgfoAVOT76Fpm8G1CEDLoypc=",
           "py3"
         ]
       }
