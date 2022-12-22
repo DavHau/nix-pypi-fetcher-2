@@ -7826,6 +7826,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "pqOOH/FdS/cKO6AwvMJRYpOvbcqqva4qN6ce2vLPH7c=",
+        "aws-cdk.aws-sam-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sam-1.184.0-py3-none-any.whl": [
+          "TDH5GddnJHSQrAYqZGs6YzvK2dNsdPFVXsgafUxxtIg=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "agQY8LU48blF114kou8VuBcJY6E6n9ohnQjyb7166Jo=",
@@ -9864,6 +9876,18 @@
       "wheels": {
         "aws_cdk.lambda_layer_kubectl_v24-2.0.64-py3-none-any.whl": [
           "Ss8MT8JikjB0VGBSpjUtapLS4FzzY75hlh4e49pUxIc=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.65": {
+      "sdist": [
+        "95i0L43qyf1Ol71P/gwZYPMHEBno4bKRYDWVi8BU5zw=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.65.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.65-py3-none-any.whl": [
+          "eZeK+Jugahz2Ge+ysWwBEYWM6eoBpkp8UFT39yxoFVU=",
           "py3"
         ]
       }
@@ -97834,6 +97858,12 @@
         "pairef-1.3.0.tar.gz"
       ]
     },
+    "1.3.10": {
+      "sdist": [
+        "b+TGZJdZNCHcqkQRsd3HJjhXhzBzvrOB0F0c0/IHLsU=",
+        "pairef-1.3.10.tar.gz"
+      ]
+    },
     "1.3.7": {
       "sdist": [
         "oFr9rymF5oNTeeemmKctxplIoyHtBEDCykaaKpqvqcg=",
@@ -98114,6 +98144,42 @@
       "wheels": {
         "PaLM_rlhf_pytorch-0.0.32-py3-none-any.whl": [
           "HyXTdfXY8dsBB/xYTwX0gpcJDvZyhcMHBL96QLNYDb4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.33": {
+      "sdist": [
+        "jQd2Md5ismwgCic9qnQo0nF3l2scmGCRDNtqobdoxoo=",
+        "PaLM-rlhf-pytorch-0.0.33.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.33-py3-none-any.whl": [
+          "zbaU7DH2+6Ardha70RS+YbZ+bI5L+GTWiAYdFNyYcYI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.34": {
+      "sdist": [
+        "wajowEZPUD5CSQxm1NgswUVRI9Lyi/FaAZBKaoXLCeY=",
+        "PaLM-rlhf-pytorch-0.0.34.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.34-py3-none-any.whl": [
+          "NQHYCwXg6S3XRjX0tdBj+ayBCoiePg11HXjB7ZeuKHw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.35": {
+      "sdist": [
+        "sToVpb6bVHpTK0jbrZDICDkuzXa7AkdINEs9eGWFAC4=",
+        "PaLM-rlhf-pytorch-0.0.35.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.35-py3-none-any.whl": [
+          "4n3fJl4nfj/w5hm00ffxIndRNonYZE2JKee53Npsj14=",
           "py3"
         ]
       }
@@ -138583,6 +138649,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "EyODZW2LaVlTtSbk3GJtYauC6vBsZ1T6WKxVkYZrJhk=",
+        "tencentcloud-sdk-python-advisor-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.799-py2.py3-none-any.whl": [
+          "Sg6ahD9DRbadK/r+79Z9HlO5LhFT9ESF/UCw51fm7n0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -140154,6 +140232,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.798-py2.py3-none-any.whl": [
           "7NOsFYgRoYSQRU6fAdmKJGzm7ku04r139zBTkLANi30=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "cmXzi3+HzSnKo++mIQPRpTzwkunIvd8FWfsdrrXQOyw=",
+        "tencentcloud-sdk-python-mmps-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.799-py2.py3-none-any.whl": [
+          "+o5kO3cYc8rGO1b8qrV9jJDrRg4JM/5czo8GAPIn6xY=",
           "py2.py3"
         ]
       }
@@ -142954,6 +143044,24 @@
       "sdist": [
         "P1KCiZ0DzLHsJFZp7wgmAptevZbuAAhJIgUrwMBbXlM=",
         "TUIFIManager-1.3.3.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "pUxZ5f+jyH+mLD34YyG5fyqahywCfLPckqwCrWjUVPU=",
+        "TUIFIManager-2.0.0.tar.gz"
+      ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "SYmGTEjCOENT7xcakUWXOg+1lTxIerDSlul7u76klV0=",
+        "TUIFIManager-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "pjN26Jz1Lh0SrPHSJ+txHOFsGd+mG65PeeNmPmq9gAM=",
+        "TUIFIManager-2.0.2.tar.gz"
       ]
     }
   },

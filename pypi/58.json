@@ -1813,6 +1813,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "0SeuNxObEVdUzh5/pDCy22AbOiqDMG1xCo1SjO3LEiY=",
+        "aiohttpx-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "aiohttpx-0.0.6-py3-none-any.whl": [
+          "gZRVRvgHWPEsmYamR06RX7UHymiutUnxXbIxH0q3fc4=",
+          "py3"
+        ]
+      }
     }
   },
   "aiomyorm": {
@@ -109886,6 +109898,18 @@
         ]
       }
     },
+    "0.10.0": {
+      "sdist": [
+        "UXT5wt/lu9li4Ef9PNs0c7uZ4wzm0DLjIDzf0D2m2ck=",
+        "ravenpy-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "ravenpy-0.10.0-py3-none-any.whl": [
+          "yZW+tknHcainJBc7Z5yUTjPgVjjdiAZtJ/MyeWE2a7o=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "k4bBCJLDh3djGPeY/GSY1NnIPA113U/COYmeXdszB9Q=",
@@ -136455,6 +136479,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "hHj2oxKxDE8gmZUfXsh3RQRNfJngCtiYy43W7y16nu4=",
+        "tencentcloud-sdk-python-billing-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_billing-3.0.799-py2.py3-none-any.whl": [
+          "flyCOusEaV3x8dx9TugPF9q4Yxt/fq1PzHIPrd1NAl4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-sqlserver": {
@@ -142757,6 +142793,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "oNF44++slBKZb29ziZh5VT8otdZDNOQur2tBhIinRIo=",
+        "tencentcloud-sdk-python-sqlserver-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sqlserver-3.0.799-py2.py3-none-any.whl": [
+          "Pegr895fLiEwJLMh3oeRjJDaw1gZkDW7+miZO7RksVQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-pricing": {
@@ -144870,6 +144918,50 @@
         ],
         "thumbor-7.4.1-cp37-abi3-musllinux_1_1_x86_64.whl": [
           "URAOJgTLF+MLjjfr9J606bjdAknFyCYq5TnA3KSq9ZQ=",
+          "cp37"
+        ]
+      }
+    },
+    "7.4.2": {
+      "sdist": [
+        "Ul38RktkYIgAkFCuR9Ku7T/ZCMDqN4DpL6fsWb3jbhw=",
+        "thumbor-7.4.2.tar.gz"
+      ],
+      "wheels": {
+        "thumbor-7.4.2-cp37-abi3-macosx_10_9_universal2.whl": [
+          "Dw745nlmjzmTuMXfBF/DAOAro511IVsjebjQ5UkFCMQ=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-macosx_10_9_x86_64.whl": [
+          "G2hCYAqJHv1FWnnBdLsaR68YyScjndXrddUc+YmwF7g=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-macosx_11_0_arm64.whl": [
+          "qKvMCY1rk1i9TJEFvsFbLkCIFVEsL43TR8k2lwFUnfU=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "S2+D4tKpq8P1IFfjrqiU4QwnIbGyjHpft5/Ymhs6QNo=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OCs3boa8lz0NA4hwMvvE0v3yFhPRBFBvnhhf5nYGoHM=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Ymt6gQvoxiNSvLGlPRDoNaP0p4ajaNS7Rq8XDwRM/t0=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-musllinux_1_1_aarch64.whl": [
+          "rIJISoneQ4LpQforYwtoHxncpZz/4Pis1HektbK0AtI=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-musllinux_1_1_i686.whl": [
+          "Z4hq/oZnnJJiznpu9EjAq/RjclJxZwU2yNbD5tKPmfw=",
+          "cp37"
+        ],
+        "thumbor-7.4.2-cp37-abi3-musllinux_1_1_x86_64.whl": [
+          "lynL8ILRS1en97Q9VPKcNtfQdmSDjp9gJZMmJnS6At0=",
           "cp37"
         ]
       }

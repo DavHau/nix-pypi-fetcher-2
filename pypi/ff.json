@@ -11164,6 +11164,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "DdECU02GlRNv5Tl7JjkiRrAXg0Np3JQn7f8UQx/qyVw=",
+        "aws-cdk.aws-kinesis-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.184.0-py3-none-any.whl": [
+          "mNOtwsPi6rE8U3D/sWSDZKShYyZxFN0jnNyVFy5uTvM=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "23skCIWQ+VAJ889AsSIB8lUrKLVFKY2ISxgKoyFqX1A=",
@@ -23950,6 +23962,18 @@
       "wheels": {
         "cdk_iam_floyd-0.465.0-py3-none-any.whl": [
           "mNviAfBaWTxhLxEhAQmQtbORzZWpa3BDDC/FoaSO2VI=",
+          "py3"
+        ]
+      }
+    },
+    "0.466.0": {
+      "sdist": [
+        "tq/PHJpDf/Sied5+JgG01E3LmVbTCv9BcNzrVfkgBpA=",
+        "cdk-iam-floyd-0.466.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_iam_floyd-0.466.0-py3-none-any.whl": [
+          "5elHj5+rfE0VJ1aUTJscwc2LQce3pBSYHrNPIQNdzBI=",
           "py3"
         ]
       }
@@ -137767,6 +137791,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "9gCblGyCNkkQ/exh79/09cdILaAI/0/3A7hAM3Tc4SM=",
+        "tencentcloud-sdk-python-ckafka-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.799-py2.py3-none-any.whl": [
+          "09PqvZzO5pK2AMLpUU1BWXzDO9ArrmjxKAe+0QcAYe4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -149464,6 +149500,34 @@
         ],
         "xia_api-0.0.32-cp39-none-win_amd64.whl": [
           "sH4KFGoueZi4yKX769lDHAZYe5J1yC4i5eDlE0W3knI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.34": {
+      "wheels": {
+        "xia_api-0.0.34-cp310-none-macosx_11_0_x86_64.whl": [
+          "X0mFjsgPxc4ACWrc78xZHgczzyQq9LsS+MiiPsZruw0=",
+          "cp310"
+        ],
+        "xia_api-0.0.34-cp310-none-manylinux1_x86_64.whl": [
+          "Wp58tQ2zW0WAuskrK4g7leSTeAVxv8UZpipgQKlhCkc=",
+          "cp310"
+        ],
+        "xia_api-0.0.34-cp310-none-win_amd64.whl": [
+          "GBkt/mCpymyWkoPK2PnNZj+dUDDAJDNsfSAkNzeq/hA=",
+          "cp310"
+        ],
+        "xia_api-0.0.34-cp39-none-macosx_11_0_x86_64.whl": [
+          "8kREzy8SBtoMLdXR/ztx+yrvkiONqlHL8Am6c54Ieq0=",
+          "cp39"
+        ],
+        "xia_api-0.0.34-cp39-none-manylinux1_x86_64.whl": [
+          "i67yepLxWxOJGS8dq3rcsiPjAiFLLIW/NWxKpGVBkt4=",
+          "cp39"
+        ],
+        "xia_api-0.0.34-cp39-none-win_amd64.whl": [
+          "dCGzgm9LsRHUbmXY4V2WrdDZfcLDcqHZie4JPqK0X4g=",
           "cp39"
         ]
       }

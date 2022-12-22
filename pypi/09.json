@@ -6796,6 +6796,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "UcGkIwquZUiSggkP249B7mqwL4YmubetzpMY3meKQy4=",
+        "aws-cdk.aws-docdb-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_docdb-1.184.0-py3-none-any.whl": [
+          "D7nlaUBIexn4gkK0iGhW6qbeVCV6J7wG4O5fCIhOuKQ=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "ZEWPy320+E8FUd4RbY6TwcAAP6hjLN1ffyu098mTaak=",
@@ -8669,6 +8681,18 @@
           "py3"
         ]
       }
+    },
+    "1.184.0": {
+      "sdist": [
+        "gehwSu4d019zjpTVCjMeP0kpCgLDKOsfPeLox1kMWlo=",
+        "aws-cdk.aws-forecast-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_forecast-1.184.0-py3-none-any.whl": [
+          "t7N2WKCy8r3rGj5TmNh5w9BBjAqsTQpMFGUUiq99qT8=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-iam": {
@@ -10204,6 +10228,18 @@
       "wheels": {
         "aws_cdk.aws_iam-1.183.0-py3-none-any.whl": [
           "SZYIzXKQmHJpyNkpBqlB/nobj1jAZ0akuU3RuBUqavs=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "vl1xph2Bar5op5BEFMM8/TeUcRbqiBuvnoIUQFo0He4=",
+        "aws-cdk.aws-iam-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iam-1.184.0-py3-none-any.whl": [
+          "wWMd2/Ff4S1dkZ7Vh/iDr59oobHGfro10tkmG9g2tS8=",
           "py3"
         ]
       }
@@ -12618,6 +12654,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink-1.183.0-py3-none-any.whl": [
           "RAK5wwzbq8THMXjWKPc6OlSYbIs/pW4MOZ7PU16r67o=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "a7ovj7vLxd0Vu4F/7UTOGrKRhAdPzqpaJCGyStKQfQw=",
+        "aws-cdk.aws-kinesisanalytics-flink-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink-1.184.0-py3-none-any.whl": [
+          "BeUsxw+YVm1Mmj7cyYEw1TF3hBb+ZdmHtdDHFqvui+U=",
           "py3"
         ]
       }
@@ -25589,6 +25637,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "dash-alert": {
+    "1.0.0": {
+      "sdist": [
+        "YPI7IqVLt087MMSFSN/L3WQxT22FqlJSp8G2R8KxmJ8=",
+        "dash_alert-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "ZqqKgL4OSVUCa0vxXxNyFSxeLXeFyF+0pQLeloIBKKQ=",
+        "dash_alert-1.0.1.tar.gz"
+      ]
     }
   },
   "dash.py": {
@@ -90613,6 +90675,12 @@
         "63ut194Q+OjCsp16F7DQ269UOpFOKsDQF+dPMgSjsZc=",
         "pufferlib-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "IzGAeLkQMFN/HWSmE5ZGHsEn44iLJBV3e6nzJnfti9Q=",
+        "pufferlib-0.1.2.tar.gz"
+      ]
     }
   },
   "pug": {
@@ -138530,6 +138598,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ciam-3.0.798-py2.py3-none-any.whl": [
           "5VTQcaDxpT9EY1BvRvC06wx85Gni17fprA8qWlehJhY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "56j5cgvEy1R9sEcjfcL2OWO06jor/ODXpGOhv9l+3Jc=",
+        "tencentcloud-sdk-python-ciam-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.799-py2.py3-none-any.whl": [
+          "Zdfu6dwgwSe2SLVA9/F/c1u3QbWtL7PucWFuuSw4D1s=",
           "py2.py3"
         ]
       }

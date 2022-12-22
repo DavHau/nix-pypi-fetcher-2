@@ -9678,6 +9678,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "+1NG/iVB059fV6cvOr7gHKIp8TmoD+lbEbiqzvT11xI=",
+        "aws-cdk.aws-directoryservice-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_directoryservice-1.184.0-py3-none-any.whl": [
+          "uXexdwg+pLOJihf9y8lko/Y1LJgJJ2KakAml9C2PSwI=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "jg2mtwC7Z/3urkh3FxWp2kM0sL4ctwxdKCmCQxBREC8=",
@@ -19930,6 +19942,42 @@
         ],
         "cao_lang-0.1.86-pp38-pypy38_pp73-win_amd64.whl": [
           "nF4fbI6FHSsh1csAqWLvs+mC148e8Yl6fJmFFbKnyM0=",
+          "pp38"
+        ]
+      }
+    },
+    "0.1.87": {
+      "sdist": [
+        "VqaVjgFerg5GkiNMkmIsq060yLGs6XgCu8twBGmJNr4=",
+        "cao-lang-0.1.87.tar.gz"
+      ],
+      "wheels": {
+        "cao_lang-0.1.87-cp35-abi3-manylinux_2_24_x86_64.whl": [
+          "L9c9d63FrAaiGdPUawMSODR/zP3K2HhX1BbSEQwd0uk=",
+          "cp35"
+        ],
+        "cao_lang-0.1.87-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "Jy7sntahvaGxIen5oqVwqGrmpQnzGwMU852jg2goEJU=",
+          "cp39"
+        ],
+        "cao_lang-0.1.87-cp39-cp39-win_amd64.whl": [
+          "kcIEVafE+MHZ83dODYY6lRiXtDgpcUSvCPeEj0bhydg=",
+          "cp39"
+        ],
+        "cao_lang-0.1.87-pp37-pypy37_pp73-macosx_11_0_x86_64.whl": [
+          "gY3NOWd1xqdSV6SybdWXVbnChbpRd+4unKBkRmdy6W4=",
+          "pp37"
+        ],
+        "cao_lang-0.1.87-pp37-pypy37_pp73-win_amd64.whl": [
+          "BxZguvsSFNv2ZhENuWtmq0FFyzJUytW9GDcOmkFkMOs=",
+          "pp37"
+        ],
+        "cao_lang-0.1.87-pp38-pypy38_pp73-macosx_11_0_x86_64.whl": [
+          "2KkzNFlDaMODXSH24SIEuu5Gx8wH2CJ2UCSUcYG7bQ8=",
+          "pp38"
+        ],
+        "cao_lang-0.1.87-pp38-pypy38_pp73-win_amd64.whl": [
+          "LAVfHOYQs3gcO5sLpjUorgmmxqkqC5ds4y+JkYVzjaQ=",
           "pp38"
         ]
       }
@@ -70928,6 +70976,30 @@
       "wheels": {
         "luminesce_sdk_preview-1.12.120-py3-none-any.whl": [
           "QFyEq40DI7uV1jj1F/9jfvWlvi7dOWQaH4rbyYkv+l0=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.121": {
+      "sdist": [
+        "TBIJAJu+QWT0XN5uaQamCbhdS0hRctV3NvlEBZEVraQ=",
+        "luminesce-sdk-preview-1.12.121.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.121-py3-none-any.whl": [
+          "aIfBhD190MPnVpqPGP54to25TLx6bDbKDNhXH3KAkRw=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.122": {
+      "sdist": [
+        "T/w+5bmPB0+GbGgq4V53lbnQ+J9bq5EjqRQTZvzS9XU=",
+        "luminesce-sdk-preview-1.12.122.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.122-py3-none-any.whl": [
+          "+MZqEaeizKNe3hd1VxdVDQ4E+tHW3SVtmjQfhnoVzNc=",
           "py3"
         ]
       }
@@ -122877,6 +122949,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "p8sIia8x8lftvIuA9l9HrkrI3wpYRc3KBypMl5ljUiA=",
+        "shelflet-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "shelflet-0.1.1-py2.py3-none-any.whl": [
+          "HGjFWjLT7HqhMbLYRHL9N20jsa9M52rnQJKl3kpsNv4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "shell-scripter": {
@@ -147194,6 +147278,30 @@
       "wheels": {
         "wipac_rest_tools-1.3.9-py3-none-any.whl": [
           "ZirZ17Ra2DxoAFcMVOjrqXqlEy9pNTaVPiYrbMHAfyQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "USYj+Q2lN7P8OvgaCjlEoWxcbnqkEqhMp3uh1OMYyNM=",
+        "wipac-rest-tools-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "wipac_rest_tools-1.4.0-py3-none-any.whl": [
+          "M5+fOOw41dwhrS+YQMpAhmRMIJe5J2e8SCLKI/1urg4=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "A7FWXpqYR10UKHqqdV0IBA/KN/qRQLpWqaUGKRGNNiQ=",
+        "wipac-rest-tools-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "wipac_rest_tools-1.4.1-py3-none-any.whl": [
+          "16gre0BL7X/ejK4JWj0mSIPgIHnybinsLtO01CJ6+5Q=",
           "py3"
         ]
       }

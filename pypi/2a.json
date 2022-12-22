@@ -15244,6 +15244,18 @@
         ]
       }
     },
+    "2.56.0a0": {
+      "sdist": [
+        "Ew5/G+tkqgS4sOh7Rly9monPgcp8PRLnFdGjffGXbAE=",
+        "aws-cdk.aws-glue-alpha-2.56.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_glue_alpha-2.56.0a0-py3-none-any.whl": [
+          "YqaRkfLPsTXwl26EpPuv7LTHHV/ibYaA+1MIG3fS3fw=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "X4deVO0JBCbpuOM3rBoCUniUWobzPvKS+4SMrh2c6jM=",
@@ -16022,6 +16034,18 @@
       "wheels": {
         "aws_cdk.aws_panorama-1.183.0-py3-none-any.whl": [
           "wTDRuP/GLFh6aRexq6BvzRsaMxAsc/+sH6SzcubsBA8=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "hUCc70dEqIwoRpwiwbHOyukpt8kZs9q3djKPE20mCoQ=",
+        "aws-cdk.aws-panorama-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_panorama-1.184.0-py3-none-any.whl": [
+          "jrSEo+ASqH69Ok0Df3mJ33a+pWStC9A1HR06Yfv9Xtk=",
           "py3"
         ]
       }
@@ -17476,6 +17500,18 @@
       "wheels": {
         "aws_cdk.aws_pinpointemail-1.183.0-py3-none-any.whl": [
           "/LP1G79V9QNj/29t0hYJsVsDut+XwCa2wVTKKXQ+wYM=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "jB8xL2BuSINibxftF8fzg0oqPFkkKq97gi0ZCBUgbeY=",
+        "aws-cdk.aws-pinpointemail-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_pinpointemail-1.184.0-py3-none-any.whl": [
+          "OdjdO6ZU4AE5Uz1/BvzqS/41oFlOJqe28dwr63SfMIs=",
           "py3"
         ]
       }
@@ -75293,6 +75329,20 @@
       }
     }
   },
+  "graphst": {
+    "1.1.0": {
+      "sdist": [
+        "sFDVqWr9nSIno4jL4k+8qOr1GAgJTUpzTU7uxxDsRSg=",
+        "GraphST-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "GraphST-1.1.0-py3-none-any.whl": [
+          "+wut2NNOF2yX4nsuexuWRFKhA0Nt+rqTgELNZ7n8lZE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "greport": {
     "0.1.0": {
       "sdist": [
@@ -99758,6 +99808,14 @@
       "wheels": {
         "odoo14_addon_l10n_ro_dvi-14.0.1.5.0-py3-none-any.whl": [
           "82MaBeauJ0S9ENa6vOiytuH5l1VFka46LcNArGWD/bU=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.5.1.dev1": {
+      "wheels": {
+        "odoo14_addon_l10n_ro_dvi-14.0.1.5.1.dev1-py3-none-any.whl": [
+          "dxoeGhXd/cG6emMRYtFirnER6jjhngjq5h7Jh9l87b0=",
           "py3"
         ]
       }
@@ -152170,6 +152228,18 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "IarqACfmYxfECo5diF0yY8h7E2THnAQq64sUS8uwZqA=",
+        "UII_GA_IMG_Classification-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "UII_GA_IMG_Classification-0.0.15-py3-none-any.whl": [
+          "CJTPAacRklkWIsdx4ql3qOtDC0M4YIBwDrpFjzTPREg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "plK1hJdSo+5Gr48eCLA3d7tsNnMoMK/jWig0RC1vgkU=",
@@ -157786,6 +157856,30 @@
       "wheels": {
         "vollseg-5.9.9-py3-none-any.whl": [
           "oJ8+ov/GOVIdzXOBtoFsFkcg15lDx5RrHEdKfTPz+OI=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.0": {
+      "sdist": [
+        "jgP0IAIGmVA9af7Y2tyLe6eW4IT4d1JSMhF0oZR8Jus=",
+        "vollseg-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "vollseg-6.0.0-py3-none-any.whl": [
+          "Ep9U+BOVhz8JypnP7kpx8vE/MlxByyCqn8IB04EyO4Q=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.1": {
+      "sdist": [
+        "v8FwBZDHMFy8oUMTwXfN11eoHe16w6zTtQw4ekDGi4I=",
+        "vollseg-6.0.1.tar.gz"
+      ],
+      "wheels": {
+        "vollseg-6.0.1-py3-none-any.whl": [
+          "qJW4ToGplKVwTzXqVihof0Kp8dl+l3bI1to5zf3cAhk=",
           "py3"
         ]
       }

@@ -8471,6 +8471,18 @@
           "py3"
         ]
       }
+    },
+    "1.184.0": {
+      "sdist": [
+        "qej72o81ECEXrjPJoF0Ene775r9mtR8sfUby6/CoV/8=",
+        "aws-cdk.aws-opensearchserverless-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchserverless-1.184.0-py3-none-any.whl": [
+          "dANMICa6GGgOHuHz2StQ3vueTK921/wT+0hP6iepTJM=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cloudtrail-events-schema": {
@@ -94553,6 +94565,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "vuH4ZRkz+XtDUKCUgCeZVE8yCiX3TLOZglDeJx5a59U=",
+        "pydantic_aioredis-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pydantic_aioredis-1.2.0-py3-none-any.whl": [
+          "HjHBV5lpmvvUUE5x1ohDBaaC2rqmLbXmxr44vMnDHVU=",
+          "py3"
+        ]
+      }
     }
   },
   "pydatalogger": {
@@ -94942,6 +94966,170 @@
         ],
         "pyfamsa-0.1.1-pp39-pypy39_pp73-win_amd64.whl": [
           "JQn7PFdEmFgscFN8S4HXF+Hufu/ulxDpbmtRvT1wq6c=",
+          "pp39"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "JrBKcJ1ctzF8iRQefW7cLg068W9MACsuWeM6sUXRmd0=",
+        "pyfamsa-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyfamsa-0.2.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "16IhtCQL6vJKJs/NA/OgdVjSUB4ZXx8aRFxpoUnkMmI=",
+          "cp310"
+        ],
+        "pyfamsa-0.2.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "jDggeaYyt6WdSmNu3DzaqtTa4vLSwuXKZrALllR0qjQ=",
+          "cp310"
+        ],
+        "pyfamsa-0.2.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "AcldJds45AzSJFnj29h+V+dgV43DjBIFBY1CXmAiT3o=",
+          "cp310"
+        ],
+        "pyfamsa-0.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B5nHIsYDI2F6XecX1rdI/1mpdxeKrtJv0A2lkAUoCFY=",
+          "cp310"
+        ],
+        "pyfamsa-0.2.0-cp310-cp310-win_amd64.whl": [
+          "YMcEOMcWv/06jdb9yKWgljotZ/21jReis4AYb+XdIxk=",
+          "cp310"
+        ],
+        "pyfamsa-0.2.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "HShlZEr+wR6OQY4EBpwQUHpokC0JUb7R2msZqLan4EM=",
+          "cp311"
+        ],
+        "pyfamsa-0.2.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "zqYUvx62CE2tG1FSoMY0HBY4pygQMi5rTQSiMpqSOwM=",
+          "cp311"
+        ],
+        "pyfamsa-0.2.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "GJ8vJwPCUfA3sDmoDAsr6U2W7ummdedTa6QL4h+6/tE=",
+          "cp311"
+        ],
+        "pyfamsa-0.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Q0a2L+vi3kY9w5M2+4luVps2mmKnRQBBwIpk24YsDfo=",
+          "cp311"
+        ],
+        "pyfamsa-0.2.0-cp311-cp311-win_amd64.whl": [
+          "NJdHGQ7S1e+83zgEoRU9vOoI1LIXoB2EJ+TvuHLo08A=",
+          "cp311"
+        ],
+        "pyfamsa-0.2.0-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "zEIf3s8FSgIhlaSIcns1cfyvMYkmTzbcJ+M4gS4Rcd0=",
+          "cp36"
+        ],
+        "pyfamsa-0.2.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O6t6nMeJQMX136dixR6hYjdUEv7qCKx6r6JnOoCEnmQ=",
+          "cp36"
+        ],
+        "pyfamsa-0.2.0-cp36-cp36m-win_amd64.whl": [
+          "YwTH6xZrPgljf9YlWBhb3M6wTTu9HlERrGNIIM+b3EI=",
+          "cp36"
+        ],
+        "pyfamsa-0.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "tT76etiDcdGHWIAZqfqwiK6rdIsb/xR4KVgJUMYjzwo=",
+          "cp37"
+        ],
+        "pyfamsa-0.2.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fmBlmmTcHW0ZyMZVH8WgaerSNnUpAnzEEaTBFj++GDc=",
+          "cp37"
+        ],
+        "pyfamsa-0.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AvRuJRW8QDxM0HGKu5n2l9eXBLrlI6Vz1QAEzmkipsc=",
+          "cp37"
+        ],
+        "pyfamsa-0.2.0-cp37-cp37m-win_amd64.whl": [
+          "ZiAa9mrbutDCG2J83DB6+DiulUqaEeYWf/n/XT0zODA=",
+          "cp37"
+        ],
+        "pyfamsa-0.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "V679fYLB3obwdFTGO054tDwMUYQsS26N1wpjDDyeEZs=",
+          "cp38"
+        ],
+        "pyfamsa-0.2.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "vyoKFrV2fC/IIsfpeu3wtFOVewhmvqQ68BJX/UQyIaM=",
+          "cp38"
+        ],
+        "pyfamsa-0.2.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rjWZH0BuEgrT9C3fntDcFaC4tIG/Lcgr+86VHtkK3Ck=",
+          "cp38"
+        ],
+        "pyfamsa-0.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pzpAPOUU3f2SGBfjd4fON8XYnK8cxd4SUk/mBLCYdDs=",
+          "cp38"
+        ],
+        "pyfamsa-0.2.0-cp38-cp38-win_amd64.whl": [
+          "/9l5DilFSa8ral+Hfvr4jSz4fE2pq5g8fbLSJ97SZJc=",
+          "cp38"
+        ],
+        "pyfamsa-0.2.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JJVZ04t3krL79wwC0rljvPEMOqUQkHjrfyUkTqzWEfY=",
+          "cp39"
+        ],
+        "pyfamsa-0.2.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Nm4fDFqnZJdQp99w57S5RW2bsvT3eaudbPt3YfYJvsY=",
+          "cp39"
+        ],
+        "pyfamsa-0.2.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rHFcIPnzeMI4Ufh1TLLU4rhbj75TGbfQeX1zZWV2TXk=",
+          "cp39"
+        ],
+        "pyfamsa-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t0TRMnn/klICui2GIN4jFsAxGF32jeFmVx/IdYm4Wyw=",
+          "cp39"
+        ],
+        "pyfamsa-0.2.0-cp39-cp39-win_amd64.whl": [
+          "Hp9h6SZm5ZVNlT9eFi2sbadjVz9EDIZvjq5cM7GxII0=",
+          "cp39"
+        ],
+        "pyfamsa-0.2.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "mPlwgmsYuC2QzsFhRFjYAUMWvqutGC8xu+wE40ytWtk=",
+          "pp37"
+        ],
+        "pyfamsa-0.2.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bTBM4kWl9rtneP4+ys9gLLObK+dT/vLx5qercLKUiRQ=",
+          "pp37"
+        ],
+        "pyfamsa-0.2.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cz3NQ8ph2v6ChOj2IgcHcla0fY58NIkwo52Y0GHzdFk=",
+          "pp37"
+        ],
+        "pyfamsa-0.2.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "oaxb97MtjYaUQpWBOyTcqBlYMBuwagrdZSd9j/Q9Mts=",
+          "pp37"
+        ],
+        "pyfamsa-0.2.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "LlKAhr+duwOO12CR3/E7RYxqnZMAcmOgGbz7d40pndY=",
+          "pp38"
+        ],
+        "pyfamsa-0.2.0-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "6O0m7UHrJRLWWJ94v/y7Dq1nyxNh3go/U/GaqEFebuY=",
+          "pp38"
+        ],
+        "pyfamsa-0.2.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O3KvEkWMifA9uGMSbrgkr12/KWQuT7I5QC4Qphiy0cw=",
+          "pp38"
+        ],
+        "pyfamsa-0.2.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "7C1MFA7GvzswbX/zX4Us5jJA7lgjDfcdN1+Ubr1fDIg=",
+          "pp38"
+        ],
+        "pyfamsa-0.2.0-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "pWy+2bq6Yo2QwHWGMbR8A1xXNHWyNa8i7euUE+8V4Dg=",
+          "pp39"
+        ],
+        "pyfamsa-0.2.0-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "2PEBbqW9n+czWEytvJsgopmJyQ16EZNEnPY9ambW+1g=",
+          "pp39"
+        ],
+        "pyfamsa-0.2.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/PpTrtimduNt4RQozDwlQgqmX48EJ15xZqyfXIqnFG8=",
+          "pp39"
+        ],
+        "pyfamsa-0.2.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "0eHkloP/ca3yzd0Pqvolw110Yxq6DWc7XcGCY5e42Rk=",
           "pp39"
         ]
       }
@@ -135083,6 +135271,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "ipw3TA6iob59eJSZvpbku2vLv7dyk/GhEZlgx1vIkoo=",
+        "tencentcloud-sdk-python-vm-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vm-3.0.799-py2.py3-none-any.whl": [
+          "sY5W0OLd2p67l5P/9DB1dqQ5V73GW42nuBC4W+H47ZE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendenci-case-studies": {
@@ -137737,6 +137937,12 @@
           "cp39"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "VF87zYuLJJ8hw5SmfH7RtUoVyKz6nLbhNoqjAvmnHvc=",
+        "tmu-0.6.1.tar.gz"
+      ]
     }
   },
   "toloka-kit": {

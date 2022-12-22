@@ -7448,6 +7448,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "bzcPn7oD3Kc4l/2cWjD5kc8BbZT3sQVSmHRC8TDBK0Q=",
+        "aws-cdk.aws-ivs-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ivs-1.184.0-py3-none-any.whl": [
+          "5tlzCDZ+XsChpOM9KwgQIp0Xm/PC+JBS2K4YpokBK7c=",
+          "py3"
+        ]
+      }
+    },
     "1.74.0": {
       "sdist": [
         "17u8AafTfehQvr22PHnAQI6CdtyoQaCVMUPfa2d40FE=",
@@ -14404,6 +14416,12 @@
       "sdist": [
         "ZhP6eG9oaqNsajdroETEfrD29/VvCpsf0VxnbXqDLWE=",
         "bingads-13.0.14.zip"
+      ]
+    },
+    "13.0.15": {
+      "sdist": [
+        "Qulz2L307HIGFihdZEZMjT02l3/R18gLqWSYGewJnSg=",
+        "bingads-13.0.15.zip"
       ]
     },
     "13.0.2": {
@@ -48163,6 +48181,18 @@
           "py3"
         ]
       }
+    },
+    "0.dev20221222": {
+      "sdist": [
+        "8d3k4mIf98Jbrp6sRARguCc4pBxzXIyGtFDtR2Mml10=",
+        "jaxkern-nightly-0.dev20221222.tar.gz"
+      ],
+      "wheels": {
+        "jaxkern_nightly-0.dev20221222-py3-none-any.whl": [
+          "FWTsz6AG5ZkTruyG2TRosfB/bvTXjLPVCOJgKx7ZNsI=",
+          "py3"
+        ]
+      }
     }
   },
   "jdm-distributions": {
@@ -53386,7 +53416,13 @@
       "sdist": [
         "d28vhl5Z/eVkkKVrzGdztpFzZrzgwmfGDuiq8aCVmGk=",
         "livereload-2.6.3.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "livereload-2.6.3-py2.py3-none-any.whl": [
+          "rUrG9TstYrts4aXm6W8fAJdqMjSK/ty0ttaN8qHTRuQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "lizard": {
@@ -132999,6 +133035,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "MDJsAla1iNCqB+CJWEq890eu09JnTntqE9D3LmqJ+E0=",
+        "tencentcloud-sdk-python-aai-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_aai-3.0.799-py2.py3-none-any.whl": [
+          "rLS3cTKLhIkLn5cWJ7mr7PulNCOLicaRzistBhpZ/Mk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-cloudstudio": {
@@ -133694,6 +133742,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cloudstudio-3.0.798-py2.py3-none-any.whl": [
           "zqdO3J/kB9PG7jHyCOwroaq/amzQ9IFUWTIuuc6Famg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "Sq5Sesyx2hZBpMu+54krF+KBY7IQh9PHYqNA2pN9KZQ=",
+        "tencentcloud-sdk-python-cloudstudio-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cloudstudio-3.0.799-py2.py3-none-any.whl": [
+          "T7P/l8DzxsOLdBZdAEDJoeacWotJ8OUSs0asyuR5zhk=",
           "py2.py3"
         ]
       }
@@ -139996,6 +140056,18 @@
       "wheels": {
         "tencentcloud_sdk_python_nlp-3.0.798-py2.py3-none-any.whl": [
           "T0duujILlXKtmJ15mmPDRevUn7lwuh7wv7eNYl9zBtI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "0yadBh0KtgmMYWwpH1j9R2QW2t9LZpc46SJ1BOKafZk=",
+        "tencentcloud-sdk-python-nlp-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_nlp-3.0.799-py2.py3-none-any.whl": [
+          "NTiYYWca1vvo59TkV8LHGmHiHt3ye6pYowTrFH/7z1w=",
           "py2.py3"
         ]
       }

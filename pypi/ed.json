@@ -7428,6 +7428,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "5aGGBgvpYs8O+2my+wHYgRKmHPc0gURuOkr5zgHDgQs=",
+        "aws-cdk.aws-config-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_config-1.184.0-py3-none-any.whl": [
+          "LnFX3WnW0Nlzsfx3BiHpqC1eP/G5oVIuiEYhZMkImAk=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "XdMkWJDOIhnYpSipQmy9Tm9dqh0tyvpC1jj++21I7Mw=",
@@ -10234,6 +10246,18 @@
       "wheels": {
         "aws_cdk.aws_elasticbeanstalk-1.183.0-py3-none-any.whl": [
           "Yiq7G7WNh9H7hg3WenlSf66KRNpUZSB7qQ1FtwLdbJU=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "BFWK8kMlo/SCbLMVtjzZ4iOzaQAs3zxNttPsocOwjW4=",
+        "aws-cdk.aws-elasticbeanstalk-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticbeanstalk-1.184.0-py3-none-any.whl": [
+          "mVW6C90IfZ59WXTClDuNv/EyzZp6ymt1P4gqDzG8xoI=",
           "py3"
         ]
       }
@@ -13076,6 +13100,42 @@
       "wheels": {
         "better_ffmpeg_progress-2.0.6-py3-none-any.whl": [
           "/pBMzNx4RV3C8FDa+sZXaXgbacUtYNa5aV/vLirYefY=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.7": {
+      "sdist": [
+        "7azFmxXL6bMXyG/8gTlY3D0DQQfSIHOGXCijSOb9D84=",
+        "better-ffmpeg-progress-2.0.7.tar.gz"
+      ],
+      "wheels": {
+        "better_ffmpeg_progress-2.0.7-py3-none-any.whl": [
+          "ALZCWUTi0Lzf6cGCikn3zypP5+Pcr5CfoFFj43Gqw4M=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.8": {
+      "sdist": [
+        "qF9hPV0RuSyeb4C7UHadoPCnEpxv6Qk16r1aOnVYwnM=",
+        "better-ffmpeg-progress-2.0.8.tar.gz"
+      ],
+      "wheels": {
+        "better_ffmpeg_progress-2.0.8-py3-none-any.whl": [
+          "85hACXLakYp99DqtDa8nO+hPHUlbB9fSme7nqnOYP9Y=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.9": {
+      "sdist": [
+        "xItSsJPl9HPFqnu9Lil1Y2WuIDoeFrt9Ej6qsocrYwk=",
+        "better-ffmpeg-progress-2.0.9.tar.gz"
+      ],
+      "wheels": {
+        "better_ffmpeg_progress-2.0.9-py3-none-any.whl": [
+          "VKPXv3yEa6sNTZyXmshS6/uNEbuF4vTpRFP1i4duYgc=",
           "py3"
         ]
       }
@@ -72275,6 +72335,32 @@
       ]
     }
   },
+  "labelpandas": {
+    "0.0.1": {
+      "sdist": [
+        "EilHrmN9QvFRc6y9CY8/shCITzfAvtXgI4UerluPOjw=",
+        "labelpandas-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.1-py3-none-any.whl": [
+          "bjrbDUZ0bBbsw14I1kWiRGyH5++4MaJ1C3CSti6HQhw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "cBF9EthIKOwk9HsFW1J+RdAau3USU45CjtB4AUKhOg4=",
+        "labelpandas-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.2-py3-none-any.whl": [
+          "FTnuPkmg4zA53tgnrrGON4f/TQiEsHSle0Y7wAv0r/M=",
+          "py3"
+        ]
+      }
+    }
+  },
   "labml-helpers": {
     "0.4.0": {
       "sdist": [
@@ -103867,6 +103953,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20221221.0": {
+      "wheels": {
+        "odoo14_addons_oca_bank_payment-14.0.20221221.0-py3-none-any.whl": [
+          "sHbGam6sQBLFqYwzxeUzUk7hpCA+NMcYF+ObtVZdrSU=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addons-oca-l10n-iran": {
@@ -126695,6 +126789,12 @@
         "jjZK10yp5zeqaMOnue+U40MVJ8oQF3LvFye77AmzZ3U=",
         "sagemath-environment-9.8b5.tar.gz"
       ]
+    },
+    "9.8b6": {
+      "sdist": [
+        "nToFivNyaYCa44db/UEpE91ynpku+EUeYBDRq3bm3jY=",
+        "sagemath-environment-9.8b6.tar.gz"
+      ]
     }
   },
   "sagiri": {
@@ -144320,6 +144420,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dayu-3.0.798-py2.py3-none-any.whl": [
           "t0MZ9LX1mdwUrc8qryrQemhOTbeqQ28tNyHuoGuG4Uw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "kdbGjo2M2LW3Xi2CLBM622GCF/5akniJ7p1FyVx/pgA=",
+        "tencentcloud-sdk-python-dayu-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dayu-3.0.799-py2.py3-none-any.whl": [
+          "ZwC/c4AFHVvGpVhEQ9ZGYp5zgq4WIn9KRDPUdw3zezE=",
           "py2.py3"
         ]
       }

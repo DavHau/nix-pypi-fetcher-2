@@ -6766,6 +6766,12 @@
         "automation_rest_server-3.3.18.tar.gz"
       ]
     },
+    "3.3.19": {
+      "sdist": [
+        "pIjd1Eow0ioMu8d60xohbWt8u2iC4fEtJ2t7EDZbQk8=",
+        "automation_rest_server-3.3.19.tar.gz"
+      ]
+    },
     "3.3.2": {
       "sdist": [
         "zRoiYFMLwP1p0NqJWKmICRrN59aEEq6afMtgEGeF3KI=",
@@ -11278,6 +11284,10 @@
           "hR7pY1iq10jlOP3x/d5VyTOvh7I5xAi+Cts7MPI9Urw=",
           "cp310"
         ],
+        "biometeo-0.2.0-cp310-cp310-win_amd64.whl": [
+          "fYr7Gy3A8PSKkEXvOExxUCu/2/aob2anaRtocpe0uN0=",
+          "cp310"
+        ],
         "biometeo-0.2.0-cp38-cp38-macosx_10_15_x86_64.whl": [
           "WIPINw3TPzmuO4HEbPgyuux6DRuAItBvlpn22/9hc3o=",
           "cp38"
@@ -11286,12 +11296,20 @@
           "gV9lgeoSrp9S4lvG/v2RutcMgLJd4fshXP6h00bBedA=",
           "cp38"
         ],
+        "biometeo-0.2.0-cp38-cp38-win_amd64.whl": [
+          "iGhpTzWJUy4XQviM/YGYJOrXbgnL/GBtXCoc0UY6S7w=",
+          "cp38"
+        ],
         "biometeo-0.2.0-cp39-cp39-macosx_10_15_x86_64.whl": [
           "2wvuO7OzW296O64BGWzHEYYiOACqi5QUHRJ68+FciOQ=",
           "cp39"
         ],
         "biometeo-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "dwQr61eMk/VdTA/TvDg69W5qRYjIh8PDXgCxREXYsNk=",
+          "cp39"
+        ],
+        "biometeo-0.2.0-cp39-cp39-win_amd64.whl": [
+          "XfI9UO96UHDltLOLtTtq/6mGIO9DR0JROUKdOaDDQhU=",
           "cp39"
         ]
       }
@@ -18766,6 +18784,18 @@
       "wheels": {
         "cdk_tweet_queue-2.0.19-py3-none-any.whl": [
           "c3Oavs4m/HsvlweBhL7mVsgFarnOMIPgu1a3TUl9x+s=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.190": {
+      "sdist": [
+        "szd6Pq8OU2Vo0m6eho0lxEc1IooG1ypcQve5Kul4W/g=",
+        "cdk-tweet-queue-2.0.190.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.190-py3-none-any.whl": [
+          "SwWpYIB8I8V+f8B9Z7p19oDsPeuZBuLXOttACGy9vNs=",
           "py3"
         ]
       }
@@ -47277,6 +47307,18 @@
           "cp39"
         ]
       }
+    },
+    "0.1.0": {
+      "wheels": {
+        "glip_object_detection-0.1.0-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "cpECtji6EL5AaP3NNn/HVW6e+fYSx8Kvr/hikGy4RVc=",
+          "cp38"
+        ],
+        "glip_object_detection-0.1.0-cp39-cp39-manylinux_2_27_x86_64.whl": [
+          "0EtkDAJ9m6so8Wg5h8kgODL9roCZSPH6Mb+FeFgRxDk=",
+          "cp39"
+        ]
+      }
     }
   },
   "globee": {
@@ -48850,6 +48892,22 @@
         ],
         "graphscope_client-0.19.0a20221220-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "EM2N8IaIk4UtHYyhHY7CYUnMjdnDWKuVxu/WezHv61Y=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221221": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221221-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Eq+TS30vuyRncxmr9oOWf8LWs07UIt4i9PTzQVHIwXY=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221221-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CWK6kZmkvQQ2pl/jwPPySlnzoqr6Qci5uQ3u2Lx6cd4=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221221-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "N7kOs6/nboFFmEq1av7TvifEl8CAl7Ah2uO2DkzSauQ=",
           "cp39"
         ]
       }
@@ -83866,6 +83924,18 @@
         ]
       }
     },
+    "1.26.35": {
+      "sdist": [
+        "qj1bB4lea0kyCMvg0TTgVmgy0B57gqP1chv7q+4hUgU=",
+        "mypy-boto3-ssm-1.26.35.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ssm-1.26.35-py3-none-any.whl": [
+          "DNk+EFEZtCgZaAftYybARqkV16ykqn6cAAVCD3Qwf68=",
+          "py3"
+        ]
+      }
+    },
     "1.26.4": {
       "sdist": [
         "sjxlozoK1AJ28l0Z0oCR3EFc9/TN+LRVDxA5mSiBXx4=",
@@ -114332,6 +114402,18 @@
       "wheels": {
         "sdss_kaiju-1.3.0-cp39-cp39-macosx_11_0_x86_64.whl": [
           "3qqB6cSJLnqiH+gAhAI7uaum7883I6hLVpmLK7oMiVA=",
+          "cp39"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "EnJ4bLmfijkTyiB0wOWTGBfzZ5PvzvCeiuSz6B9Z9b0=",
+        "sdss-kaiju-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "sdss_kaiju-1.3.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "Fj87gDCG6LC/9Mig6ncnOYsTZEyWoyZ6gFIefkOKr1M=",
           "cp39"
         ]
       }

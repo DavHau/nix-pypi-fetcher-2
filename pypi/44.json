@@ -8416,6 +8416,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "jLRPQw7xrYtenqyoWcuNg7DaPBCxvdcpa7ij2n8h2j4=",
+        "aws-cdk.aws-ce-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.184.0-py3-none-any.whl": [
+          "DlrDnWk29GGx7FPHcMnnvg9SBqfB776nC2M7y6Rma70=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10286,6 +10298,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.55.1a0-py3-none-any.whl": [
           "EKlHlT8htCSFBOAlUGKHGmX/hazRXZCtxv+TYBpaKH4=",
+          "py3"
+        ]
+      }
+    },
+    "2.56.0a0": {
+      "sdist": [
+        "2m4RVp0jOsXVRvZPkxhMezsRQShhXx2FkrXx1jGFtvc=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.56.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.56.0a0-py3-none-any.whl": [
+          "ImhiMF0/yknwZbC5r37gbZGSKjau0iAS14r0lXASpaQ=",
           "py3"
         ]
       }
@@ -25977,6 +26001,18 @@
           "py3"
         ]
       }
+    },
+    "4.0.4": {
+      "sdist": [
+        "cZw2LG/BQ+uqJDUd+UpPDCMp56hSKAUIoItP8TLOeOQ=",
+        "cdktf-cdktf-provider-google-4.0.4.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_google-4.0.4-py3-none-any.whl": [
+          "eOMii/h9et9kAzZj5wMIK1eUfjTt+EE/mJC3hfTF4Qg=",
+          "py3"
+        ]
+      }
     }
   },
   "census-consumer-complaint-ineuron": {
@@ -41502,6 +41538,42 @@
       "wheels": {
         "django_reusable-7.2-py3-none-any.whl": [
           "3r1Sjkae2bX3sPZoqMJH3kLyphqKHJyB4rRriLtiets=",
+          "py3"
+        ]
+      }
+    },
+    "7.3": {
+      "sdist": [
+        "8zvpkh0v4gpMQ0B89/ve1b6oGa2/G9z/ctlwC379Aqg=",
+        "django-reusable-7.3.tar.gz"
+      ],
+      "wheels": {
+        "django_reusable-7.3-py3-none-any.whl": [
+          "HXp5vDeV30XyD/ZVqjOnMu88VQuAWPU7PV3weptDUJU=",
+          "py3"
+        ]
+      }
+    },
+    "7.4": {
+      "sdist": [
+        "ILjjfReEzLtLGpUF/AV4RFweTl3l1YZvZnfISyo9Ias=",
+        "django-reusable-7.4.tar.gz"
+      ],
+      "wheels": {
+        "django_reusable-7.4-py3-none-any.whl": [
+          "aiUKKIVFfwJjmIcF1FE0ZB5bfGc/1qq10EAFff8M8yw=",
+          "py3"
+        ]
+      }
+    },
+    "7.5": {
+      "sdist": [
+        "jhGZZvBmEt/zVq5QFfQcxmsYtLKFqQFK24Av1hDWog4=",
+        "django-reusable-7.5.tar.gz"
+      ],
+      "wheels": {
+        "django_reusable-7.5-py3-none-any.whl": [
+          "8BwghuDG7xb/16bckdAN6SGpcAdihPPe2wnMwoDKo8U=",
           "py3"
         ]
       }
@@ -75996,6 +76068,20 @@
       "wheels": {
         "mypy_boto3_lexv2_runtime-1.26.0.post1-py3-none-any.whl": [
           "aR2oEWO2jNP1hWK2H+BrF1r8vmWOaQF+A9C/oQUqGL4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mypy-boto3-license-manager-linux-subscriptions": {
+    "1.26.35": {
+      "sdist": [
+        "zOd4R+x2bA8HHRm+snCbxssQED8m7D+qP5WaM+NMmIE=",
+        "mypy-boto3-license-manager-linux-subscriptions-1.26.35.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_license_manager_linux_subscriptions-1.26.35-py3-none-any.whl": [
+          "eFDzTNi5e1xw8WpsP0Kw+wRAWBW1SG42zmaZ+rYaI6U=",
           "py3"
         ]
       }
@@ -118457,6 +118543,12 @@
         "yNCbpVZw8Q7P1PjEzcv2ugwwP/wYHDMGKfD6SE8yt58=",
         "sagemath-standard-9.8b5.tar.gz"
       ]
+    },
+    "9.8b6": {
+      "sdist": [
+        "AeXvPTZG77CPs0MOGcYnXSz+py+1RQ7hACHTeGmZmfY=",
+        "sagemath-standard-9.8b6.tar.gz"
+      ]
     }
   },
   "sail-monitor": {
@@ -132920,6 +133012,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.797-py2.py3-none-any.whl": [
           "glqJaJl453rUkYisUCjAzXdo2w6Tpb3OhZqIUYBwoII=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "7GC0u4x5abqKfqZB/Yxy0y1sfNQhSyzmA/lP5/Q5QJw=",
+        "tencentcloud-sdk-python-mna-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.799-py2.py3-none-any.whl": [
+          "Y3gmN6xbU/gMtYHP0Hwr8tUIWSAS1nFJ9eLK5sIL++s=",
           "py2.py3"
         ]
       }

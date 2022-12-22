@@ -16341,6 +16341,12 @@
         "ujxCwgoEWtZqC+JWHyEn2PL8Hivcqmb+IkxewqAO4hk=",
         "blackjax-nightly-0.9.6.dev20221221.tar.gz"
       ]
+    },
+    "0.9.6.dev20221222": {
+      "sdist": [
+        "tDhUth/iXinf9b59BLXksCzfpCsek2wNZgItxg/P39Q=",
+        "blackjax-nightly-0.9.6.dev20221222.tar.gz"
+      ]
     }
   },
   "blazar-nova": {
@@ -142119,6 +142125,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.799": {
+      "sdist": [
+        "9AaEhXGTPOdZndBXSnZRq5/o7twg8A1xnOGh9gIxfYc=",
+        "tencentcloud-sdk-python-gaap-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_gaap-3.0.799-py2.py3-none-any.whl": [
+          "KiyEvfvIqXp+reWRNsaSCaBueIpCSGiN/PS0qyYBdc8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-vpc": {
@@ -148382,6 +148400,18 @@
       "wheels": {
         "tencentcloud_sdk_python_vpc-3.0.798-py2.py3-none-any.whl": [
           "v2N0f9SSTsbXUCqQALBON5IPh3uRIK7xKpBfSfGGyGA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "f2BwzNRp1cMlGvWIKKzmTSuAV2QkUwHbEi1cRBhUH7I=",
+        "tencentcloud-sdk-python-vpc-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vpc-3.0.799-py2.py3-none-any.whl": [
+          "UFs9zQAhHpjyI+VQMCjS51zgHhe9nqqAs2zoma2LWTg=",
           "py2.py3"
         ]
       }

@@ -7600,6 +7600,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "4Eprli72JHQctsRDNYKamo0B8ZFDEyXIflZsdjb2mL4=",
+        "aws-cdk.aws-neptune-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_neptune-1.184.0-py3-none-any.whl": [
+          "8RgZcCGp7Rw7oQrszY8f70eUVPrzJlvODCIRAjg7ctw=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "CL2E/Hi+krzlcabV3GObDxgf1g8PNwrSpneIv9J7s+A=",
@@ -11952,6 +11964,30 @@
       "wheels": {
         "bleak_retry_connector-2.10.2-py3-none-any.whl": [
           "bsHxGOcVKYc3hF53rBQTiJnaBPEi6U6cE9bzmF2hDQs=",
+          "py3"
+        ]
+      }
+    },
+    "2.11.0": {
+      "sdist": [
+        "2MJ2o1jRmNSKXTmDVDgm77HpUQgWDQZbhBD5SnxO2nE=",
+        "bleak_retry_connector-2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "bleak_retry_connector-2.11.0-py3-none-any.whl": [
+          "049maN3q/U0vNbC36N532cmA1VRENGTLwBAuCGCbCYg=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.0": {
+      "sdist": [
+        "aHkBOKIgY3an1TXb9u7qYU+hd1mrfcu16jAjQfte6sk=",
+        "bleak_retry_connector-2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "bleak_retry_connector-2.12.0-py3-none-any.whl": [
+          "3cHah4fVPxfVcCsDCM40tkO6w9JH/eD7Z4HkxDsi7/k=",
           "py3"
         ]
       }
@@ -30073,6 +30109,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.9": {
+      "sdist": [
+        "D48XrdO4lxLjkA45yzxT9N2mD2ZF62CnN2ljBnsPwrw=",
+        "django_q2-1.4.9.tar.gz"
+      ],
+      "wheels": {
+        "django_q2-1.4.9-py3-none-any.whl": [
+          "pKHDLB7b6eKH6yp2oGkjyWZe/c9SaIw0EwLbsjs5cRs=",
+          "py3"
+        ]
+      }
     }
   },
   "django-qc": {
@@ -38490,6 +38538,18 @@
       "wheels": {
         "farm_haystack-1.12.0rc2-py3-none-any.whl": [
           "qBUFqy+L0oonrFjgi4vs2d14DL79UUJvyPLyrNFzpec=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.1": {
+      "sdist": [
+        "PS+JnGWoNTwIN5RysuC7LYSYqiaD/NW+Ls1aHVx1Gx8=",
+        "farm_haystack-1.12.1.tar.gz"
+      ],
+      "wheels": {
+        "farm_haystack-1.12.1-py3-none-any.whl": [
+          "R/po9zPaawExnz9zflzNnDkOw9lYfSo8XmHgJ1BQ6jc=",
           "py3"
         ]
       }
@@ -125855,6 +125915,106 @@
           "cp39"
         ]
       }
+    },
+    "0.1.2": {
+      "wheels": {
+        "sonicpy-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5XCxc9NyiZKZEGiErc93emeH7eN8wJI3Lz2BukmXq+Y=",
+          "cp310"
+        ],
+        "sonicpy-0.1.2-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "tWodi/hlDItcoeND6q2f3Gufz99EZ6Nr8XxyiP3QphI=",
+          "cp310"
+        ],
+        "sonicpy-0.1.2-cp310-cp310-musllinux_1_1_i686.whl": [
+          "YNVkLJfHMM20KqAPhOAYUU/MJ+2H8kMgCVsTE2xqJDg=",
+          "cp310"
+        ],
+        "sonicpy-0.1.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "jNtt6ED3Y5GSWdUYv6hm3b+24/3+xvXkmllVfMYzeiQ=",
+          "cp310"
+        ],
+        "sonicpy-0.1.2-cp310-cp310-win32.whl": [
+          "oqJDm2d2WCJdDe5ckDm2Uemz5Z+MEXNm09j5trbulFQ=",
+          "cp310"
+        ],
+        "sonicpy-0.1.2-cp310-cp310-win_amd64.whl": [
+          "DlC+U7eTCvifqM8OjaH88/dIX6RcYhxkEAvWnR3Zsus=",
+          "cp310"
+        ],
+        "sonicpy-0.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nZCTEzIDipRNmoI2fbjLd4nuRASPHCS+iVBhxkBSHxY=",
+          "cp37"
+        ],
+        "sonicpy-0.1.2-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "baCMifhTTxsGbebpxdpy6DrVf6VFANU1aDHfFDp2/FE=",
+          "cp37"
+        ],
+        "sonicpy-0.1.2-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "PH1x8FtOUJtFxxDFrsMKxUFmP5tlFKtZS+7gwPQ4+B0=",
+          "cp37"
+        ],
+        "sonicpy-0.1.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "fV0KI55ntXo2762UKAijIijU1O5IjVci/GmgtwzSlrU=",
+          "cp37"
+        ],
+        "sonicpy-0.1.2-cp37-cp37m-win32.whl": [
+          "aoj2Ky7r40ytr656DfNYTEKY7n/x2jUG8x6kKpoqdGM=",
+          "cp37"
+        ],
+        "sonicpy-0.1.2-cp37-cp37m-win_amd64.whl": [
+          "L9OpdR7xWVzBILELfoWBUXJAe0MxZ2SXSKRBBG/oaRQ=",
+          "cp37"
+        ],
+        "sonicpy-0.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Si1np372SnPtSJ23wW6/1kzGG9HpglwadP6zRpEZ9oE=",
+          "cp38"
+        ],
+        "sonicpy-0.1.2-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ZwXwDV+8JopX3+uNSaKQJD0YXGSMHEYJR9wvR8nulo0=",
+          "cp38"
+        ],
+        "sonicpy-0.1.2-cp38-cp38-musllinux_1_1_i686.whl": [
+          "JEqQeeiISW6hFp/qHGTT8QYK5D7M1ZvkMhiRpfQPIRQ=",
+          "cp38"
+        ],
+        "sonicpy-0.1.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "RVY/fW33b1EebOeSuS96htB3npGzCebLAvNMTmiCgyk=",
+          "cp38"
+        ],
+        "sonicpy-0.1.2-cp38-cp38-win32.whl": [
+          "DoZ7oF9w9E+uwR6w0cUe3mvhBCfXDj8wWuyRsg03Kd4=",
+          "cp38"
+        ],
+        "sonicpy-0.1.2-cp38-cp38-win_amd64.whl": [
+          "G/QANP2S4jHhe6PcSdDp1v9U3wOj4QhLFW7enicsIAw=",
+          "cp38"
+        ],
+        "sonicpy-0.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0in0nnNkL+d/axEzVTTbfKCKrpNKyP6H1RThixwD/xw=",
+          "cp39"
+        ],
+        "sonicpy-0.1.2-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "/NxuL+/XOFv2kDscX7HQX86OlsCQ7jbSIe5YHotXBKA=",
+          "cp39"
+        ],
+        "sonicpy-0.1.2-cp39-cp39-musllinux_1_1_i686.whl": [
+          "lH1IyT+qaceywKBA0b98zDSY9Adv1TcfiJq8zDlEBuM=",
+          "cp39"
+        ],
+        "sonicpy-0.1.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "2Jp8gztP9aChPdLP7DRL2uw3FcYNtJFKAn1gNCj9kQs=",
+          "cp39"
+        ],
+        "sonicpy-0.1.2-cp39-cp39-win32.whl": [
+          "5PsF8L8bd3PUeTBVlSI96JmTr0+WjUT2E57MOFmwd/8=",
+          "cp39"
+        ],
+        "sonicpy-0.1.2-cp39-cp39-win_amd64.whl": [
+          "Ub++Xqz7sJEwUFLkamLQpoNGrxQ+3qLFlaWvDG4ZWTw=",
+          "cp39"
+        ]
+      }
     }
   },
   "sos-rq": {
@@ -137834,6 +137994,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dnspod-3.0.798-py2.py3-none-any.whl": [
           "bToN0hZxwiotXV0nRE1SvSKJBD2n7vjMBuxIHOLZxkg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "UvACZQ1qFQz6YJs3OvLeE/VDJrLJqD8hGedbr3Pkkc0=",
+        "tencentcloud-sdk-python-dnspod-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dnspod-3.0.799-py2.py3-none-any.whl": [
+          "3DPUNw2+x2cKvwNL3IbLciiwMMCtPXbSDSG/DXdN5+4=",
           "py2.py3"
         ]
       }

@@ -8955,6 +8955,18 @@
           "py3"
         ]
       }
+    },
+    "1.184.0": {
+      "sdist": [
+        "q5KuzldF3l/A0E9GT8wkjbsmvX/sHXwzhJuH7Ej40Ug=",
+        "aws-cdk.aws-frauddetector-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_frauddetector-1.184.0-py3-none-any.whl": [
+          "AYcfhT84wTNYet5btixB1FiukUGRF0+L6ak/feR86dc=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-wafregional": {
@@ -10490,6 +10502,18 @@
       "wheels": {
         "aws_cdk.aws_wafregional-1.183.0-py3-none-any.whl": [
           "ehgk5Dh0ydT3dmll3vZyXW6Gy76eFtDezXzyBKpi21Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "2vWCeX2hTR5f6F4iZV6RbDiEwHQWcfnp5fdKQ4+4S40=",
+        "aws-cdk.aws-wafregional-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_wafregional-1.184.0-py3-none-any.whl": [
+          "Q7PQkfRn5+hsT9E8ujVplIo55not++P4Ff05JBUzezg=",
           "py3"
         ]
       }
@@ -19858,6 +19882,30 @@
       "wheels": {
         "cloudzero_uca_tools-0.6.3-py3-none-any.whl": [
           "B69UvHOia0WT/in8Fe8Tp060xW2HvWGI6CCEg7pLPHI=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "2hst0xufBbCfByBtwkV/WhfDZApLmEjrmXC5ZifiZi0=",
+        "cloudzero-uca-tools-0.7.0.zip"
+      ],
+      "wheels": {
+        "cloudzero_uca_tools-0.7.0-py3-none-any.whl": [
+          "j1Vf17Ja5V1lPkiqP5dAso7zqvDS75dEAaGSQH+oU9g=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "s2/q+pv5LcJ3wJ4//ulia882HyHFYyH9z0sGA2svB58=",
+        "cloudzero-uca-tools-0.7.1.zip"
+      ],
+      "wheels": {
+        "cloudzero_uca_tools-0.7.1-py3-none-any.whl": [
+          "saWpsdyDIx+fq/MRM5r9iWZ3ft1Li4jBiM/Ny4X/xL0=",
           "py3"
         ]
       }
@@ -129469,6 +129517,12 @@
         "dZR2Br1vc8Q17Hl0FstX2k6XR5opQEpMMRRoWLM+2Wc=",
         "sage-conf-9.8b5.tar.gz"
       ]
+    },
+    "9.8b6": {
+      "sdist": [
+        "kGhKwtK/SujU0x9LPnDXZS3d8HeDH3SerMfGzNswpIY=",
+        "sage-conf-9.8b6.tar.gz"
+      ]
     }
   },
   "sangreal-db": {
@@ -130893,6 +130947,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "OlZ6f6GYJer820+yij8P57k/T+zVlF773BBYmO7axSI=",
+        "serpentarium-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "serpentarium-0.4.0-py3-none-any.whl": [
+          "AM9c7zFXGxjCtW04uNKtY79GiI5hmRwKCDMT/CkRzro=",
+          "py3"
+        ]
+      }
     }
   },
   "setuplibcore": {
@@ -131166,6 +131232,18 @@
       "wheels": {
         "sfu_torch_lib-0.0.28-py3-none-any.whl": [
           "dGvjnnRKDYgvjq4ngiIRUGqJpp+rtyxS9yaKbQtZ4WU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.29": {
+      "sdist": [
+        "aYQSvLF5+NFT9CHPFUer+72rsGzzGDzvR+rnnwSUEJU=",
+        "sfu_torch_lib-0.0.29.tar.gz"
+      ],
+      "wheels": {
+        "sfu_torch_lib-0.0.29-py3-none-any.whl": [
+          "cx6LBRh1cQDGdqmkH7+IUGV4u21bvo6TJ2GCFmXH34s=",
           "py3"
         ]
       }
@@ -136106,6 +136184,14 @@
       "sdist": [
         "JVYl2Io5r0bidGAJPqTjxAxIv2rtlQ67eQCPvS/LFfU=",
         "std-err-override-1.0.tar.gz"
+      ]
+    }
+  },
+  "stookwijzer": {
+    "1.0.0": {
+      "sdist": [
+        "JM8F4W1JRmwfhWzW939d6re/pQc+EQO4MgFoFXDcNOI=",
+        "stookwijzer-1.0.0.tar.gz"
       ]
     }
   },
@@ -147286,6 +147372,22 @@
       "wheels": {
         "voicehelper.py-0.1.5.2-py39-none-any.whl": [
           "3gWWL//ZHJg6rCb0vswWSmJQDwK6i9CDcWQubFU/XMw=",
+          "py39"
+        ]
+      }
+    },
+    "0.1.6": {
+      "wheels": {
+        "voicehelper.py-0.1.6-py39-none-any.whl": [
+          "6pqwhU0SLr5NEacC27WC6pUgM6aSbib1wGweI4aYi8k=",
+          "py39"
+        ]
+      }
+    },
+    "0.1.7": {
+      "wheels": {
+        "voicehelper.py-0.1.7-py39-none-any.whl": [
+          "Yo40A+c4klkiUVxzt9q00Bd3TVgGM4OOXOd/vOAYmjs=",
           "py39"
         ]
       }

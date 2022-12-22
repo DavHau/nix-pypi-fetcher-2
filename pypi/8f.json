@@ -10094,6 +10094,18 @@
         ]
       }
     },
+    "1.184.0": {
+      "sdist": [
+        "cgpRJnWMSj1LH5LKttU4YK0Fcj5s0I867d2LEBcvMIE=",
+        "aws-cdk.aws-greengrassv2-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrassv2-1.184.0-py3-none-any.whl": [
+          "ID6znNkrm5C5Z88fITPSbFoLrehfPDZowJyicP7CBUo=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "smfhhigCImRyGZoUoKdt5YoAdjFavkIENPc/pZTxEak=",
@@ -10428,6 +10440,18 @@
       "wheels": {
         "aws_cdk.aws_identitystore-1.183.0-py3-none-any.whl": [
           "9vJn6pmRVoohmln+Elf+G2fcS6IxnmfvPU2u+EsZLDw=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "erfSv/UCKJRWFVzmvsSc3Yq4GFCMTrOfH3mEHJ0UF48=",
+        "aws-cdk.aws-identitystore-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_identitystore-1.184.0-py3-none-any.whl": [
+          "ShGuGzvMVkOYCkw7Mi7Fn0I2B3mb7Dp3LBMxhQkoF1c=",
           "py3"
         ]
       }
@@ -86930,6 +86954,18 @@
         ]
       }
     },
+    "0.4.11": {
+      "sdist": [
+        "rDnJF1kiphX0lcPc5VoU4JxlY1Ai/GC913mzIoNtNcI=",
+        "pinotdb-0.4.11.tar.gz"
+      ],
+      "wheels": {
+        "pinotdb-0.4.11-py3-none-any.whl": [
+          "lxVQKuBS2d5LE0GuOtcUBl6pxLwvDSQpXV4eHaMBtJM=",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "UongBK2/Kco8ljDQHIIN3FYay/95OQpoUbRxsjkO6GM=",
@@ -107436,6 +107472,14 @@
       "wheels": {
         "season-2.0.8-py3-none-any.whl": [
           "gmfoi8XCeBVQVXsfNPwdcQWMhDvHhP68Ql9H2nWY7R0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.9": {
+      "wheels": {
+        "season-2.0.9-py3-none-any.whl": [
+          "Cx75iWKTiH0BPmsfIRjWDUXL6AkNEdgo6MVWhRqoFiA=",
           "py3"
         ]
       }
@@ -137280,6 +137324,34 @@
         ],
         "xia_user-0.0.1-cp39-none-win_amd64.whl": [
           "SJx2GDx68s+ZKMXmJQCzYtOvuE8bQ7Ke3xysGJddWIo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.10": {
+      "wheels": {
+        "xia_user-0.0.10-cp310-none-macosx_11_0_x86_64.whl": [
+          "dJJTHp47yr8ADAe8loOiRj3kD+GG2QzoExLyn3qDqF8=",
+          "cp310"
+        ],
+        "xia_user-0.0.10-cp310-none-manylinux1_x86_64.whl": [
+          "FvjMwOy67tfTOuCIzOaafVTtSsJPeRL08NQ+hR2ETpI=",
+          "cp310"
+        ],
+        "xia_user-0.0.10-cp310-none-win_amd64.whl": [
+          "MwQG5Rw5Z2gyonbzn5IGST4X97H2WRPpgwOpL+4WJgg=",
+          "cp310"
+        ],
+        "xia_user-0.0.10-cp39-none-macosx_11_0_x86_64.whl": [
+          "VPQ54yhwYZCqM2gxy/C7aggvyQabsERReW8C90olfV4=",
+          "cp39"
+        ],
+        "xia_user-0.0.10-cp39-none-manylinux1_x86_64.whl": [
+          "BmOYJo6ylfeJo/r8J/vTWqw6bsT/Np5bxGdA+gH8Sso=",
+          "cp39"
+        ],
+        "xia_user-0.0.10-cp39-none-win_amd64.whl": [
+          "t6+nSlxiOcXnSqdmw378ad4A8U0NEhiBggau5XAFa14=",
           "cp39"
         ]
       }

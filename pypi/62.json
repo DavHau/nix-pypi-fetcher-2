@@ -6979,6 +6979,18 @@
           "py3"
         ]
       }
+    },
+    "1.184.0": {
+      "sdist": [
+        "0a9H876e9dDzXhZ6m+JTFTmR0s5uoESbkYhMg2BAw/M=",
+        "aws-cdk.assertions-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.184.0-py3-none-any.whl": [
+          "19QNBDPwg174w2OfjzMX/lv1ZuLqyZGKMvRt7YUuoJA=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks-legacy": {
@@ -8118,6 +8130,18 @@
       "wheels": {
         "aws_cdk.aws_eks_legacy-1.183.0-py3-none-any.whl": [
           "35ZUaWMKNgMHGdYoKQibvICTuTkQKbP0xRDbjyrBzHA=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "36aYGoNAbwHiwzhv+HxJs/O2H9YFGjUQwgkD0YW1Koo=",
+        "aws-cdk.aws-eks-legacy-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.184.0-py3-none-any.whl": [
+          "uhHsqt6hycZRm3lnS+FTagfwZdqFx1JKp3uiyHLLSn0=",
           "py3"
         ]
       }
@@ -9632,6 +9656,18 @@
       "wheels": {
         "aws_cdk.aws_emrserverless-1.183.0-py3-none-any.whl": [
           "9svNywrwDExlIXiXSDhYZvfiEhFKGBQal6eGI1pGXk4=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.0": {
+      "sdist": [
+        "DBHQF7JFWSxzFemuKnYT1M8JDiMWUq3Va1+CRZ7b6lE=",
+        "aws-cdk.aws-emrserverless-1.184.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.184.0-py3-none-any.whl": [
+          "6UbHIjC7FGSDKvEPY++BvPCpIUm3mBT+tTGG94z6Uwk=",
           "py3"
         ]
       }
@@ -30668,6 +30704,30 @@
         ]
       }
     },
+    "3.6.41": {
+      "sdist": [
+        "YpLn5pPYk15qY9HgreyXfJgy4k0idxnm30n40iUZh+4=",
+        "cyberdrop-dl-3.6.41.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.41-py3-none-any.whl": [
+          "lL2NP8NcdrhLm6GP/oQ8TE7gIYZttjoWE80L5chzKB0=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.42": {
+      "sdist": [
+        "tpcGbjx8ghWNMIZeyNRtWDkU5T+I7t+OweiLhtSzfUY=",
+        "cyberdrop-dl-3.6.42.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.42-py3-none-any.whl": [
+          "buDin4iwyhzOpUptGzmwTBCff0AMNn0XrpdGjC8nu2Y=",
+          "py3"
+        ]
+      }
+    },
     "3.6.5": {
       "sdist": [
         "3QBfVyWyoYLbZ1QNbTww0YfX6zNdRvrhJUkBhOLZAfA=",
@@ -44967,6 +45027,12 @@
         "JhEsFCPivEbx0Nqp1X40D/GiceK+AsSgO2Z2DiMshvA=",
         "evshell-0.0.8.tar.gz"
       ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "MEuCWt61a/4O0mCYHn4MLlSVIluPUb3c0O5pKFp5aXs=",
+        "evshell-0.0.9.tar.gz"
+      ]
     }
   },
   "example-pkg-aditi": {
@@ -47772,6 +47838,30 @@
       "wheels": {
         "flamewok-1.1.0-py3-none-any.whl": [
           "/rUojo3wM1LaVEeghz3QAAkq2KnMthXQEM2n54YHPbQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "byvfSFN87GBdrUt62pEw+s2szFo6TpXBaefRTb0la1E=",
+        "flamewok-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "flamewok-1.2.0-py3-none-any.whl": [
+          "YrWyDUknh1erHHYka/Q4qIsZ+Kg0Ag4B7eJlB6i2mtQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "D+RTyBlc443Pb0u8QSv6Btz0l0dsH2g1ojRKyPvlKfE=",
+        "flamewok-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "flamewok-1.2.1-py3-none-any.whl": [
+          "lc90u/qh6T2/ySx9JBeFVmNKz3CIy4y5/y13B4Bb33g=",
           "py3"
         ]
       }
@@ -86488,6 +86578,14 @@
       "wheels": {
         "odoo14_addon_partner_multi_company-14.0.1.0.1.dev2-py3-none-any.whl": [
           "QYEcBdw3WnRFfPBYcfs3Ua5zEsdsb8t0E/MlByT8vH8=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo14_addon_partner_multi_company-14.0.1.0.1.dev4-py3-none-any.whl": [
+          "PWZ5mA2rGMVxZXcPVTFU6XBbF1g1eVcOIIp0HXnXU/c=",
           "py3"
         ]
       }
@@ -127184,6 +127282,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.798-py2.py3-none-any.whl": [
           "sO6XSfyoHKN1vcJkIIL/q3DhSyXdAlCJzDf2Mdki89g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.799": {
+      "sdist": [
+        "MNzgzs2uKZiAOWeysHtoBOGph3GV+JHQAo4f7p9Oc68=",
+        "tencentcloud-sdk-python-cynosdb-3.0.799.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.799-py2.py3-none-any.whl": [
+          "UX5/lFyhEwc9A9TuW1rlalvIE68bSuWsqpQkYHxcuCE=",
           "py2.py3"
         ]
       }
