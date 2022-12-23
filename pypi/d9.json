@@ -23851,6 +23851,12 @@
         "YR6pxxFJkS2uZvA15x6yXQFF7Mn8oYxuX/dzsLTTTRI=",
         "devopstestor-0.6.linux-x86_64.tar.gz"
       ]
+    },
+    "0.7": {
+      "sdist": [
+        "gXkRP4qhxej8f09TRXV8jRaZOWMs1hhWQFeZTPuV3qs=",
+        "devopstestor-0.7.linux-x86_64.tar.gz"
+      ]
     }
   },
   "diarypy": {
@@ -76839,6 +76845,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.4.3.0": {
+      "wheels": {
+        "odoo14_addon_l10n_ro_vat_on_payment-14.0.4.3.0-py3-none-any.whl": [
+          "npHrh0OxQXP6zuQz5rOYhoQ/UhPOloaoxngBxFPwLZw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-purchase-commercial-partner": {
@@ -120552,6 +120566,78 @@
         ],
         "tables-3.7.0-cp39-cp39-win_amd64.whl": [
           "PCNQ8AR2hfWTL7CvCYBu0AidBC1VApL/HmjXltoNkPs=",
+          "cp39"
+        ]
+      }
+    },
+    "3.8.0": {
+      "sdist": [
+        "NPP6I2bOILGPHfVzp3wdJzBs4fKkHZ+e/2IbUZLqh4g=",
+        "tables-3.8.0.tar.gz"
+      ],
+      "wheels": {
+        "tables-3.8.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "AeguQPmEX3HeE3tEciEJCeNcRAu80IWL3ShxcV2u9Mc=",
+          "cp310"
+        ],
+        "tables-3.8.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "2xhdhVr9Raclnd0LU+Xy+Jk7sTSzcAAsbBlTLyfOkqw=",
+          "cp310"
+        ],
+        "tables-3.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cKNYWiaL7ubQ5xv8mr7JjahNFoGC81Ci/6GuXkJ5jBg=",
+          "cp310"
+        ],
+        "tables-3.8.0-cp310-cp310-win_amd64.whl": [
+          "EXzw9z7ipculwrBOSso3V3muxmBFqmMSjgQ9xgjyAjs=",
+          "cp310"
+        ],
+        "tables-3.8.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "KGHNPvnrle6tdTDk3kn9EwlUhx5+bS4ogBJ5fLnXwug=",
+          "cp311"
+        ],
+        "tables-3.8.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fpvb++AltsdRl2OCEjxfXL2Pq2lWrtd2sOjIiWaekNM=",
+          "cp311"
+        ],
+        "tables-3.8.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8IIQBwSPKvjBoh6z2DIHIEbF3zZuOVh6fH5K+tFOc/w=",
+          "cp311"
+        ],
+        "tables-3.8.0-cp311-cp311-win_amd64.whl": [
+          "uTcMKk3ABRqta3HeTx+bC4tg0wtmLfXHQkNPK1xqAF4=",
+          "cp311"
+        ],
+        "tables-3.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4ZaG+tTo9akcPcHrS36pKIOOhv76R0xjxXh6El6nn8c=",
+          "cp38"
+        ],
+        "tables-3.8.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "I58V+piBwle1wNn7TLiDJ3ivHFyMHbb2ciRm+PJlQeI=",
+          "cp38"
+        ],
+        "tables-3.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yDp0ysPAYpoOg1cNRl+IhD7zYJ71ao75pJ7oWrO48C8=",
+          "cp38"
+        ],
+        "tables-3.8.0-cp38-cp38-win_amd64.whl": [
+          "pcy4BlHF+tasdE4qdWsoz6x46rO4UD9KIyDuZlOzvuk=",
+          "cp38"
+        ],
+        "tables-3.8.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "M3W/r8bPMF0TYXpXKrP//FH64vvg9u/OlAekH3mXC2I=",
+          "cp39"
+        ],
+        "tables-3.8.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "JUpNXCAJx+vkKTsCuNkepgg3v/haPApAzQdbjxKx5sM=",
+          "cp39"
+        ],
+        "tables-3.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2jyWRWxHP7l3z228qeiJcQrAIN8fpbnrt/Z26DmWM30=",
+          "cp39"
+        ],
+        "tables-3.8.0-cp39-cp39-win_amd64.whl": [
+          "ctqUBAlO+Cd79i/OiHPo3BQc7pqHY+yOcICy0N4gYJQ=",
           "cp39"
         ]
       }

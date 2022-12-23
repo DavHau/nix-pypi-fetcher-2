@@ -59523,6 +59523,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "nlrGkfA8nbfwNKIi2q+Yae0KCTo9MIH7EWIcCrzvnCc=",
+        "klldPinger-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "klldPinger-1.0.7-py3-none-any.whl": [
+          "pGt6+nVl0hU5O7D+ZD6DFJveBft9BZKQV+1MvgOyC6g=",
+          "py3"
+        ]
+      }
     }
   },
   "komtet-kassa-sdk": {
@@ -82354,6 +82366,34 @@
         ],
         "OctoBot_Trading-2.2.9-cp38-cp38-win_amd64.whl": [
           "0rJNv/1WGRGTC9YnhWegABvoIICZq2DaSiUPpzRmx1E=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.0": {
+      "sdist": [
+        "oacKV52iEhWymwxhX529U26l4eyBeDocUXE6cs2+Z2s=",
+        "OctoBot-Trading-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "dLb51mC2tzZ7yQzJzC5EADfGrqVw9ff4JNSLwRt76Yc=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1RTuqAyEF3NkhpkXAbzS1ia9Yo6jkDsFQ5fi98r+seg=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+IDaYhF4VS4Dc8n1RZeOBhk3CUqStn63jbOxt4ruaoA=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2V4ZG1EG6OumnabE2G64a9YtlRFaS2rTdEkSygHAPXM=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.0-cp38-cp38-win_amd64.whl": [
+          "w2tgefdCUK2pRQMdXb2W/6B3YlpLc9512lkBYYWd5NE=",
           "cp38"
         ]
       }
@@ -141478,6 +141518,62 @@
         ],
         "xia_engine_bigquery-0.0.6-cp39-none-win_amd64.whl": [
           "ZaSBRC2w2CVmXOLVq+xl8fKymurzIvMU29I8u4ZoXYE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.7": {
+      "wheels": {
+        "xia_engine_bigquery-0.0.7-cp310-none-macosx_11_0_x86_64.whl": [
+          "KMT4GIr6k+mp8HycgHDRCvGKUbr+utA45T2k5/vjIdg=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.7-cp310-none-manylinux1_x86_64.whl": [
+          "olL7UZFmChJtDMnjC8ud8j91XK4pGkGn9FhItNtBOjs=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.7-cp310-none-win_amd64.whl": [
+          "n4Y0yGqRJh6k0KuuMP/gLu3mkA8sdMXXgnRuGuKirLI=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.7-cp39-none-macosx_11_0_x86_64.whl": [
+          "CDk+jAwG0aWKIlnaBuZ/RENO3F9090Y+NOGzaycZ8uw=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.0.7-cp39-none-manylinux1_x86_64.whl": [
+          "qrKgdqpypdavpdP3Rya9YE+nAUnfoKeeWlp0lUCZEh0=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.0.7-cp39-none-win_amd64.whl": [
+          "f5q9lIMpvRKUeZbSRf6STmubSoI/Qpby6O5155s7+u4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.8": {
+      "wheels": {
+        "xia_engine_bigquery-0.0.8-cp310-none-macosx_11_0_x86_64.whl": [
+          "BJpORSN4sdKwCmXGdxL2UBP1eNiOJYK4rm49/SJt/vI=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.8-cp310-none-manylinux1_x86_64.whl": [
+          "9h5b2OAA337wacWvfSfcm25PJErsjWXTFTViPpUoZOE=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.8-cp310-none-win_amd64.whl": [
+          "I5sxae9UfwWb1T9L8UGo1BoB3tT3zcGfnOIxtbkTeuA=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.8-cp39-none-macosx_11_0_x86_64.whl": [
+          "tGsdN+Yd8zLoHp8NG1yCn2NIkTRA1jIMRe0izz7utNM=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.0.8-cp39-none-manylinux1_x86_64.whl": [
+          "0InQTYSC8hKi5jP0IQsEvztXtt2KMR5teyhOSJkUcvA=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.0.8-cp39-none-win_amd64.whl": [
+          "70qXeceLzqt2BnG5ad1YQWWolmdPj38HnBxXs1ZgVZc=",
           "cp39"
         ]
       }

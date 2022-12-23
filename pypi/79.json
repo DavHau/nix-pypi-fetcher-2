@@ -16848,6 +16848,30 @@
         ]
       }
     },
+    "1.4.4": {
+      "sdist": [
+        "jPFPzwJNsqAROmCP0eYFCFSewTLkoJuHs18fD0fuMpw=",
+        "c2cciutils-1.4.4.tar.gz"
+      ],
+      "wheels": {
+        "c2cciutils-1.4.4-py3-none-any.whl": [
+          "mgppxB9O1BfdFEpZpPG2okixSGpw/IPMrti10B+YHtc=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.4.dev6": {
+      "sdist": [
+        "t5zMVBKHSfoUVUiTLHNx8MaILCrHVFdIsZRWxMXkiGQ=",
+        "c2cciutils-1.4.4.dev6.tar.gz"
+      ],
+      "wheels": {
+        "c2cciutils-1.4.4.dev6-py3-none-any.whl": [
+          "sjeT5JhbqNzv8UxkD0BtybVmHj0lPJf21ULspR9Oca0=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0.dev11": {
       "sdist": [
         "x9gwd5NmG+HvQ+PBPH0fOc+JRfU/D8Oj7u5p9ML/e5I=",
@@ -17084,6 +17108,30 @@
       "wheels": {
         "c2cciutils-1.5.0.dev52-py3-none-any.whl": [
           "x0xJOe0LcrvmGfREalVVTckm1AIly3EAabcJKfXK2bo=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.dev57": {
+      "sdist": [
+        "tZhWo8hduqH1jvozNoYMT3hGjeKAJlczrTC8dVgFWJM=",
+        "c2cciutils-1.5.0.dev57.tar.gz"
+      ],
+      "wheels": {
+        "c2cciutils-1.5.0.dev57-py3-none-any.whl": [
+          "8kO15qSEPcvoraNDNeV9KV4shP2cWB2hkDdVlKRTuuc=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.dev59": {
+      "sdist": [
+        "okGDee6hHjRECAClfwyv05Aj75PiauscqxWsOAi/YSw=",
+        "c2cciutils-1.5.0.dev59.tar.gz"
+      ],
+      "wheels": {
+        "c2cciutils-1.5.0.dev59-py3-none-any.whl": [
+          "kQ+Ymb8R++w8Vo25cqHAAo/+8YbQU6fjMBGJLzuXhCo=",
           "py3"
         ]
       }
@@ -30012,7 +30060,13 @@
       "sdist": [
         "X04oYtohUxkxzfh8ivvddFd+LZDa8KVDd0edA5ujUJs=",
         "dfvfs-20221223.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "dfvfs-20221223-py2.py3-none-any.whl": [
+          "UMiEyHeWkmdGNgeiNUhAxyy8iV8uHKXeb5wgZdNRE7I=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "diazotheme.bootstrap": {
@@ -41433,6 +41487,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "USV5MApx8ko3bOh3ggWCmjm2V6reHAj9bTGieH7I6PQ=",
+        "ezyquant-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "ezyquant-0.4.0-py3-none-any.whl": [
+          "cWchLWndCihV7ezzFMEgJqkxhWSf7L4iMKyjuXiJK0k=",
+          "py3"
+        ]
+      }
     }
   },
   "f1-telemetry": {
@@ -50470,6 +50536,18 @@
       "wheels": {
         "fastestimator_nightly-1.5.0.dev202212221307-py3-none-any.whl": [
           "68yS4IK+WglhEEUZrD0H7JHSsudDS597pj5m1yxiTh0=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.dev202212231318": {
+      "sdist": [
+        "CXol/i/6KqF/FFcssDtcdC4VBdemzVitUasUELSXUJQ=",
+        "fastestimator-nightly-1.5.0.dev202212231318.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202212231318-py3-none-any.whl": [
+          "gecBMeYEQlzmtki61vNnVW6jVlFC+fEpnTJoXuj/HPA=",
           "py3"
         ]
       }
@@ -63718,6 +63796,18 @@
       "wheels": {
         "izitoast-1.0.9-py3-none-any.whl": [
           "PyFhSYnuIQp+WvFAYoa3Zym4Olsi/y3oogARBjMAHss=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.9": {
+      "sdist": [
+        "Vc/1RC1yV2WFvJUYBbh7InsjHzwzGrCmKiiMnenrTVc=",
+        "izitoast-1.1.9.tar.gz"
+      ],
+      "wheels": {
+        "izitoast-1.1.9-py3-none-any.whl": [
+          "2aBCpXRumNyZfrW8bMIq4TfXMM8meqKQDHo9By+qorE=",
           "py3"
         ]
       }
@@ -91240,6 +91330,14 @@
       "wheels": {
         "odoo13_addon_stock_barcodes-13.0.2.2.6.dev1-py3-none-any.whl": [
           "/CoEp5PeMbZdXsom5bjudElKjUOZhlQQh8L15HynchQ=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.3.0": {
+      "wheels": {
+        "odoo13_addon_stock_barcodes-13.0.2.3.0-py3-none-any.whl": [
+          "xhAJQQ5/DNxBcHQvLLoxKJD8vMeWj0JMBE+tn3KZVdQ=",
           "py3"
         ]
       }

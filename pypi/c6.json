@@ -3210,6 +3210,18 @@
         ]
       }
     },
+    "1.1.22": {
+      "sdist": [
+        "bI1gOOJLfkJOtN6CBwD0jbKV3uNntGZNfEACDf4DsK4=",
+        "alibabacloud_dataworks-public20200518_py2-1.1.22.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_dataworks_public20200518_py2-1.1.22-py3-none-any.whl": [
+          "MJQCvi6Btkj+eiJw7U5VyBcX1znOUbAb4ClDBtGichU=",
+          "py3"
+        ]
+      }
+    },
     "1.1.3": {
       "sdist": [
         "+kbAH2T9t5G32nnXolbnfsKsnkWmggki2ec3tbA47Gg=",
@@ -25959,6 +25971,12 @@
         "HL5E8OEduL2/p9tRhqbA7z2w/Vi9z8LnGJQIYh5bTQg=",
         "datapress-client-0.3.2.tar.gz"
       ]
+    },
+    "0.3.3": {
+      "sdist": [
+        "jaZVcaKUamuDoTqy5btOd6kkVaCajMqhHTz8i0E5j5M=",
+        "datapress-client-0.3.3.tar.gz"
+      ]
     }
   },
   "datasette-yaml": {
@@ -40762,6 +40780,18 @@
       "wheels": {
         "dwave_networkx-0.8.12-py3-none-any.whl": [
           "KRUjvzrE9qRIH78HmyQpI54mG+1BH/l0VflaLP61gpA=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.13": {
+      "sdist": [
+        "ASR8LOY/nmCXSXMzlodXzgl9KAm4H9n1aGZSpWZ06Ww=",
+        "dwave_networkx-0.8.13.tar.gz"
+      ],
+      "wheels": {
+        "dwave_networkx-0.8.13-py3-none-any.whl": [
+          "T1Gf2BR4BALrF6X8oJMzeHqcSHh9t4x65HWQ7XVLjpo=",
           "py3"
         ]
       }
@@ -72897,6 +72927,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_account_journal_general_sequence-16.0.1.0.1-py3-none-any.whl": [
+          "ksQDPIhm+xqRDabn5SMBcMARs8Yv49oceD7TGX2c1xE=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-base-rest-demo": {
@@ -85042,6 +85080,18 @@
         ]
       }
     },
+    "0.0.302": {
+      "sdist": [
+        "fnn4+1M4qHQAgm40bUkGcnaP6RkFuVb54mh5ZPcrgLU=",
+        "pepperize.projen-awscdk-app-ts-0.0.302.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.302-py3-none-any.whl": [
+          "Q/cHGSPPnTngxpNM4rBrrtDHHVR5gGgkieKFyoSX8O0=",
+          "py3"
+        ]
+      }
+    },
     "0.0.31": {
       "sdist": [
         "rQs2Z5g0pyocbeuZWUI7k4tFZ0FbbEzk5wsgbcmKxl0=",
@@ -93405,6 +93455,30 @@
         "0MHHCD1DdTtxd1X+EYjmB0bTBkJFVvDIhdN69zbJKqE=",
         "pygarmin-0.8.tar.gz"
       ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "+1PBcKm3TTvLD97YkYf2bkio5on7ypA/jnY+g+eDkig=",
+        "pygarmin-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pygarmin-1.0.2-py3-none-any.whl": [
+          "RFC8p+ui7R1MRs8jXUHMM4oQ3hwYvwvn9RnCs2x8USI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "oKn6C5fN40kfbMLufZhMV5W8mhDsLSlYnOa1FaGrVX8=",
+        "pygarmin-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pygarmin-1.0.3-py3-none-any.whl": [
+          "fAt7Ysg0Ssq+N2ClatUYOPzeJyRcQHAIME9/tcJo5Ds=",
+          "py3"
+        ]
+      }
     }
   },
   "pygeomesh": {
@@ -119613,6 +119687,26 @@
           "py3"
         ]
       }
+    },
+    "0.0.2.8": {
+      "wheels": {
+        "tesla_web-0.0.2.8-py3-none-any.whl": [
+          "xCxDWE1iWeWXQBsX7938AwPZ0oE9qrGKSyBNnCk4p+s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2.9": {
+      "sdist": [
+        "S+1E9z/MlumKes/x9XUeA+7FHqxFyFkb79A6ITAZ3RM=",
+        "tesla%40web-0.0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "tesla_web-0.0.2.9-py3-none-any.whl": [
+          "Jvlgh4+dprD8342H4oOs7KDA3JSh8w9s0w3w0LGwuBU=",
+          "py3"
+        ]
+      }
     }
   },
   "test-package-tlqb": {
@@ -121628,6 +121722,14 @@
       "wheels": {
         "tno.mpc.encryption_schemes.utils-0.10.4-py3-none-any.whl": [
           "CFpKevaafU3TOtiKsS/j0oHEQLrFNDyPE0N3drwsuks=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.6": {
+      "wheels": {
+        "tno.mpc.encryption_schemes.utils-0.10.6-py3-none-any.whl": [
+          "KMKMPQIcpdTVSlgeyrmS90n8sZZR7mfHE4gkke1M4os=",
           "py3"
         ]
       }

@@ -28207,6 +28207,20 @@
       ]
     }
   },
+  "depair": {
+    "0.0.1": {
+      "sdist": [
+        "vTEEsmKcL7S0fNZHVLAMRcBUI3y5+21lIAlL+jJyPfc=",
+        "depair-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "depair-0.0.1-py3-none-any.whl": [
+          "0EzDjiPon89ik+a9nPoK1hOwCR0g2wvilYqP3XrcUDQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "deprecator": {
     "0.1": {
       "sdist": [
@@ -112529,6 +112543,18 @@
           "py3"
         ]
       }
+    },
+    "1.2": {
+      "sdist": [
+        "kRGMBtLBlQTRuN0BNqjsEnW2sagt9j3yGNoOJ5SG6D8=",
+        "PyPyd-1.2.tar.gz"
+      ],
+      "wheels": {
+        "PyPyd-1.2-py3-none-any.whl": [
+          "NzeS7sQamlUQzdnQDWo8tB25cP9WYBY8ftX5Q28I8cQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pyqueued": {
@@ -125068,6 +125094,30 @@
       "wheels": {
         "segmentation_mask_overlay-0.3.2-py3-none-any.whl": [
           "uDIoRvBItzEMPbTsZYYp71diTsLSn7eop6ZTTx4kwZ8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "/ZX6QceTtq8W3IhlacaOgnTpFY+9W9hrIyWCbc2PKjw=",
+        "segmentation-mask-overlay-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "segmentation_mask_overlay-0.3.3-py3-none-any.whl": [
+          "LIoVSrwysdkaxb0gupXF8yUEb/SnMItTML3LBmHGQNs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "GyeZ9jxn/ufyFd/1ncHZtlOUrTmyrOzzslqICLpp9h0=",
+        "segmentation-mask-overlay-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "segmentation_mask_overlay-0.3.4-py3-none-any.whl": [
+          "V0bkwl+QO5aj7woGiuScS0B6Jx0MUYwxMsgJPBt3riY=",
           "py3"
         ]
       }
@@ -141700,6 +141750,46 @@
         ],
         "tflite_runtime_nightly-2.12.0.dev20221221-cp39-cp39-manylinux2014_x86_64.whl": [
           "tRwKQZbKv+zS0g8fMbPV5sa754NimGZXn+og9KbH7AY=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221222": {
+      "wheels": {
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "YJpCCuyw/qBdwtu3Y+UwDxbKYQQknUupFNR8D+bxyJk=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp37-cp37m-manylinux2014_armv7l.whl": [
+          "p5gQZxRmkgJoWNqDrvgRYlp1tOr7pffuBKcGYj029Kk=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "lJyrIq/Xf+k7P87/zGTAbdUM1ZNH+yigAa8Jq7sH+84=",
+          "cp37"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp38-cp38-manylinux2014_aarch64.whl": [
+          "PZX0GlUj9hK28tmhsqdv+yX6ZvmgIY7jQHhJqxxy6Qo=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp38-cp38-manylinux2014_armv7l.whl": [
+          "3oj04ip/LSPMoCAqS6tH/13Zz6LuAlq2J8Q1banhrl4=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp38-cp38-manylinux2014_x86_64.whl": [
+          "zgyopTt1kyUDVGp9n4ORrHVOSkrSG//8yQS8SuJ8gss=",
+          "cp38"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp39-cp39-manylinux2014_aarch64.whl": [
+          "7TLQ5E61263kQrpWb7g0OnIFkufiJMDkgIjwdVES+dU=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp39-cp39-manylinux2014_armv7l.whl": [
+          "iLYAZqc1pQT7sk4AlTK1AacWNnUMFDJsjXPvou+yavo=",
+          "cp39"
+        ],
+        "tflite_runtime_nightly-2.12.0.dev20221222-cp39-cp39-manylinux2014_x86_64.whl": [
+          "VgHt2avkQiiGYGrremNserBeMFbu0CGGzf8Em202O9k=",
           "cp39"
         ]
       }

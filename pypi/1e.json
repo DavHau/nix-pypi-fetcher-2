@@ -12952,6 +12952,18 @@
         ]
       }
     },
+    "2.19.0": {
+      "sdist": [
+        "jTKiSucd36BnMtnSXiVQg1ykO0dZOPKc9nhg1g9Sb9E=",
+        "barbell2-2.19.0.tar.gz"
+      ],
+      "wheels": {
+        "barbell2-2.19.0-py2.py3-none-any.whl": [
+          "4ABPXLuIk8S16OKvw5NubqMKErF0r68F8R71/uVPUUE=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "s4uQUebD4OW3udyGs0mixzlEqm4v8XOBiUDqv4v2qTQ=",
@@ -43096,11 +43108,13 @@
     }
   },
   "flatland-rl-optimised-code": {
-    "3.0.18": {
-      "sdist": [
-        "qgC5DR98CysEclZHqujhznxSU+2eZ0lCXwIlz0oCNC8=",
-        "flatland-rl-optimised-code-3.0.18.tar.gz"
-      ]
+    "3.0.16": {
+      "wheels": {
+        "flatland_rl_optimised_code-3.0.16-py2.py3-none-any.whl": [
+          "TzQwyxFzKMsS4O0tWheQiQOhPIEu7/djLT4YZZReXXc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "flatqube-client": {
@@ -124391,6 +124405,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "6o3pVH8CzQ5krr3NhDk6TrNnaeUFs+4O3oCOupDt/Mk=",
+        "secimport-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "secimport-0.6.0-py3-none-any.whl": [
+          "Ph+uvZ25yAIjiwvzwKUt6ZBSsoBuQAlahNOz1EmpQpc=",
+          "py3"
+        ]
+      }
     }
   },
   "secpip": {
@@ -124513,6 +124539,20 @@
         "rz6wyQXo0E12ht0aIlteMmfPjILWlK4ZavJoPnDaWvI=",
         "SereneRegistry-1.0.0.tar.gz"
       ]
+    }
+  },
+  "server-chat-pyqt-december": {
+    "0.0.1": {
+      "sdist": [
+        "02scPH8g6oTggB7tBnNLHdgjQ9trX6lOJ4OfJ6twFb0=",
+        "server_chat_pyqt_december-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "server_chat_pyqt_december-0.0.1-py3-none-any.whl": [
+          "BjwKhGKhGck2y+H0hPcY2qiDZhDfuOcx3+6yg6LWqMQ=",
+          "py3"
+        ]
+      }
     }
   },
   "serverless-flask": {
@@ -135054,6 +135094,18 @@
       "wheels": {
         "superannotate-4.4.8.dev1-py3-none-any.whl": [
           "wJspq0C9eoWiJ3gv3nKISW1+0IbsPgSFBK//SCQ+WPw=",
+          "py3"
+        ]
+      }
+    },
+    "4.4.8b1": {
+      "sdist": [
+        "Ja+aXyfDdVGh6b9uj2H9Nq51iWnbenbKTiXajnmepX8=",
+        "superannotate-4.4.8b1.tar.gz"
+      ],
+      "wheels": {
+        "superannotate-4.4.8b1-py3-none-any.whl": [
+          "TAjMRytJc0nUB04pLhDvmBqGJvQlTuC/SgyUCp6BBTA=",
           "py3"
         ]
       }
@@ -149384,6 +149436,12 @@
       "sdist": [
         "6z+QimZIzBOLVbNiBuwr5yP4O+RlIx59woTWiZ12vd8=",
         "uberduck-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "pfk4OqH52JM8ku9FDlbnbX9Ntv1HCeiY625ThBmUEnI=",
+        "uberduck-0.0.3.tar.gz"
       ]
     }
   },

@@ -3771,6 +3771,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.1": {
+      "sdist": [
+        "tpJYGtOUashMyz+fYoCwDJ98gQSRm4GNd+eIah9NKU0=",
+        "apache-sedona-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "apache_sedona-1.3.1-py3-none-any.whl": [
+          "fV5s1IhCzSpzP45LhVTicbrjNaBsat+P7+pSpfGQi78=",
+          "py3"
+        ]
+      }
     }
   },
   "ape-alchemy": {
@@ -134578,6 +134590,14 @@
         ]
       }
     },
+    "2.12.0a20221223": {
+      "wheels": {
+        "tb_nightly-2.12.0a20221223-py3-none-any.whl": [
+          "brLwNIt+m6eptP9TTROWsv4GJdvqD8uTE4x+nhr8D0k=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20191207": {
       "wheels": {
         "tb_nightly-2.2.0a20191207-py2-none-any.whl": [
@@ -140754,14 +140774,14 @@
         ]
       }
     },
-    "0.4.12": {
+    "0.4.13": {
       "sdist": [
-        "VjuEoBTZswu0vfRJppf9rTDsYMz6vRzIhpxT0/DKVxg=",
-        "tee-output-0.4.12.tar.gz"
+        "cxX7vg9D430XyL47Rhhh1WiqTgGg3f24wrw1TGimZAg=",
+        "tee-output-0.4.13.tar.gz"
       ],
       "wheels": {
-        "tee_output-0.4.12-py3-none-any.whl": [
-          "RNfSm11XgOXr3JIg2j5fXxQzluPKJdS3HkzynKDRfw0=",
+        "tee_output-0.4.13-py3-none-any.whl": [
+          "YxbRK8rMSYxqWFiZTckwP/dpQtz6qmwp7iZgBoiKhYE=",
           "py3"
         ]
       }
@@ -151686,6 +151706,110 @@
         ],
         "vl_convert_python-0.5.0-cp39-none-win_amd64.whl": [
           "KX7fgmygYc18kD9SONjxrwGi9YRpBSrv0XIVIV/nA3s=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "8cfLm5BxcSUZwZsm4IFXCbeC2Xrjy2lT4kCpG3CKAeE=",
+        "vl_convert_python-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "vl_convert_python-0.6.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "oXTaoAFjHIA8umKFJD6K+5gEXZLQKdkO2VZLbwW34pI=",
+          "cp310"
+        ],
+        "vl_convert_python-0.6.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "MVvyyBBa/cq65Xtw/dlKEqsHRR0dudaxpyKLCIp1ha4=",
+          "cp310"
+        ],
+        "vl_convert_python-0.6.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "E2yQrFbJ73DNZD4G1IYuOK5KklBHyez02sOjTKHc3ng=",
+          "cp310"
+        ],
+        "vl_convert_python-0.6.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+8okuI1mde05mRCL7pB4Xb0vEt1cW4aT+CwfklDo2rE=",
+          "cp310"
+        ],
+        "vl_convert_python-0.6.0-cp310-none-win_amd64.whl": [
+          "2Intrj/TJrpUcDFwzd0YPNs4vYUwkFTvNaZiy9fIyqQ=",
+          "cp310"
+        ],
+        "vl_convert_python-0.6.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "YL1ygxWPYFY8vhCQGiqBXpJ43a1rPZQ6SPRfrN9nd4w=",
+          "cp311"
+        ],
+        "vl_convert_python-0.6.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "hY95UlVSy+oWD4M+zNcOEKhCTmAldXO9Rxg1xflO+Js=",
+          "cp311"
+        ],
+        "vl_convert_python-0.6.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "s1eHLsPooraiGF/hzbc4MPE5yoDuPpDlOV+boDxYRnw=",
+          "cp311"
+        ],
+        "vl_convert_python-0.6.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cxiZD9MgGQEpCZS9giFb5f62Ley/SVD2AqmuG03hbpM=",
+          "cp311"
+        ],
+        "vl_convert_python-0.6.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "jqEmeE4sNUZap67MaGndns8a+yJ26KPPmUuKOVyqZuA=",
+          "cp37"
+        ],
+        "vl_convert_python-0.6.0-cp37-cp37m-macosx_11_0_arm64.whl": [
+          "QMio0sNIQDcPecEvK1qVexkPCTR8d0BmTL16HP4iSGk=",
+          "cp37"
+        ],
+        "vl_convert_python-0.6.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hDDLLyaFgnQ9AmdDeXrrqb6pO+FalAVYmzhnjYxLgbI=",
+          "cp37"
+        ],
+        "vl_convert_python-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "M34TEuUTCU9rii8EDnGc0+wfzH0Gequ8/RBAtQtI+7o=",
+          "cp37"
+        ],
+        "vl_convert_python-0.6.0-cp37-none-win_amd64.whl": [
+          "Fe1q6Dg8oBVsYVmX65S3Elgs3T0IOtNwwI0WubS2Av4=",
+          "cp37"
+        ],
+        "vl_convert_python-0.6.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "cehp8iYZmJWUDfxn239tfJFtFVP3/gCnPxAUY6MdOVQ=",
+          "cp38"
+        ],
+        "vl_convert_python-0.6.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Py/U9M7MN7g4MJ4UCAxClIQKSgtOtTpoF+dYy3Tsiwg=",
+          "cp38"
+        ],
+        "vl_convert_python-0.6.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "NYrloY+tY9ZOtH41cpgdLwQjhXkxqtlN6wyblFVtgrg=",
+          "cp38"
+        ],
+        "vl_convert_python-0.6.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eRzzvRQVFghf+HDxWjAmMoP5w57GLJ5sOpmMpP8XwcM=",
+          "cp38"
+        ],
+        "vl_convert_python-0.6.0-cp38-none-win_amd64.whl": [
+          "9BnWbhC5pRDvDLpvywhkb/eeNxJkGZSBbQ9QH2/Meig=",
+          "cp38"
+        ],
+        "vl_convert_python-0.6.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "Tan5FVakhpZEaFo0EFGu7pI+A49Jl7xjyuUVVviwOxY=",
+          "cp39"
+        ],
+        "vl_convert_python-0.6.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "i0bIoIgMXpx0b5wKttGmPMDjgNnHOKWS4iYGadOfrSY=",
+          "cp39"
+        ],
+        "vl_convert_python-0.6.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "IoDseXXyWo5+AqkYLM7hfx1UEuhojKGl4AN9Xn74vPU=",
+          "cp39"
+        ],
+        "vl_convert_python-0.6.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7W36kcaYKPYvK2psnFhZY/TXP9sTqF4GvC2vzXP8T10=",
+          "cp39"
+        ],
+        "vl_convert_python-0.6.0-cp39-none-win_amd64.whl": [
+          "Ki8Yd5mXxjLSexC1Stuukk6etDE+MsFxbR2dNBrJnko=",
           "cp39"
         ]
       }

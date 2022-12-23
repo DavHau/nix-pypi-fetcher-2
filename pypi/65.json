@@ -24065,6 +24065,46 @@
           "cp39"
         ]
       }
+    },
+    "1.2.3": {
+      "sdist": [
+        "ZNYOMCRK23CzEo7xCDBLzPybNveFzDxiajMFlYHAlcg=",
+        "compressai-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "compressai-1.2.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "DfBTl4swnKgQDuIXe/69UetZQmmAGRxNtwpMrx1BXm4=",
+          "cp36"
+        ],
+        "compressai-1.2.3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MkUIgJsQ+f4GAvS5pYk9pTN0FR9idYv2iEBqlLPhF5w=",
+          "cp36"
+        ],
+        "compressai-1.2.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "nwfeMWR6NUjfOGvCRLN3qLQYTYl+kJ7dal+V9Ajxlus=",
+          "cp37"
+        ],
+        "compressai-1.2.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YIi0cVU/8f0+Wka+7rNnsdJUYs0csvqVWftx1oW2eHw=",
+          "cp37"
+        ],
+        "compressai-1.2.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "vq3/MaqZh6hW0LJNOdjyrkiMnVFt3ps3Sov7UnrUoog=",
+          "cp38"
+        ],
+        "compressai-1.2.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nwMId+nzDb/g3lWvTGvjLxGsc/94Jup62d1zZC8ycBE=",
+          "cp38"
+        ],
+        "compressai-1.2.3-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "YXZYXriQ9JIuHRulYwLUCKd7tZlcpzoD4+V1MZweRn8=",
+          "cp39"
+        ],
+        "compressai-1.2.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UxepMp4gzjdQNRbZF05xVPaYWyAqR2qh9TolHegDr/Y=",
+          "cp39"
+        ]
+      }
     }
   },
   "compressed-segmentation": {
@@ -127561,6 +127601,18 @@
           "py3"
         ]
       }
+    },
+    "3.3.4": {
+      "sdist": [
+        "3Fb2Wc3erLlSGdaU2bQ6UiGQiRVO6ZDTb0sC2qF84oQ=",
+        "scipion-em-chimera-3.3.4.tar.gz"
+      ],
+      "wheels": {
+        "scipion_em_chimera-3.3.4-py3-none-any.whl": [
+          "pM/D0fvULgIIMk0xl09Q2Fvwo3j9aUldHU0XRa+i/ew=",
+          "py3"
+        ]
+      }
     }
   },
   "scom": {
@@ -156560,6 +156612,54 @@
       "wheels": {
         "xklb-1.19.75-py3-none-any.whl": [
           "0DU7kydKreK2v/2cYbF/Ha7fjZUpeC5TqmzhfJPPkFA=",
+          "py3"
+        ]
+      }
+    },
+    "1.20.1": {
+      "sdist": [
+        "lFjZpl5POFqqSCKgPptXgF0ZTo/CZ/D8C2aqPSLxme0=",
+        "xklb-1.20.1.tar.gz"
+      ],
+      "wheels": {
+        "xklb-1.20.1-py3-none-any.whl": [
+          "ph1gBid/hgpy8JGvvjl0BNtuBfj4mJ89dKyBLQ/aDBg=",
+          "py3"
+        ]
+      }
+    },
+    "1.20.2": {
+      "sdist": [
+        "HChYFGJVMKnUfILIiznk+G0FdC77WqWtncxgT4AmWzY=",
+        "xklb-1.20.2.tar.gz"
+      ],
+      "wheels": {
+        "xklb-1.20.2-py3-none-any.whl": [
+          "6WqjxB20xxfuyB/9MCrtlCTZCcepE/dlX0HP6xAY0xk=",
+          "py3"
+        ]
+      }
+    },
+    "1.20.3": {
+      "sdist": [
+        "bbtdaaz6BHBcQKz/dtPP8J5oCg0Zc19CviccLDHOnso=",
+        "xklb-1.20.3.tar.gz"
+      ],
+      "wheels": {
+        "xklb-1.20.3-py3-none-any.whl": [
+          "Y6KMeD84yU42ryzYed4nQ0pxOM/YYK4NB2Ck8/sQDN0=",
+          "py3"
+        ]
+      }
+    },
+    "1.20.4": {
+      "sdist": [
+        "IQyFVwXo9Q57m1fTfLcM6SavNEKlZQsUhhirzh8lJN0=",
+        "xklb-1.20.4.tar.gz"
+      ],
+      "wheels": {
+        "xklb-1.20.4-py3-none-any.whl": [
+          "YlfYK6XYyKVnGGcBb48wenkhOZjm/HdbgVEeig9grY0=",
           "py3"
         ]
       }
