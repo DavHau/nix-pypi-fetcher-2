@@ -15934,14 +15934,14 @@
     }
   },
   "b2cloud": {
-    "0.1.0": {
+    "0.1.1": {
       "sdist": [
-        "RiAQbhF9vLB22z5JGLtbdcaB/Uq6iSP0LSu60Nkedes=",
-        "b2cloud-0.1.0.tar.gz"
+        "R/QZY5mR5B+9ydL0OQUqIOGmBZaIT9VJAhzteTgo5Cs=",
+        "b2cloud-0.1.1.tar.gz"
       ],
       "wheels": {
-        "b2cloud-0.1.0-py3-none-any.whl": [
-          "xy7seWwAHslaQ39OeOtdIllnRyUrrvPKnaje1khX52M=",
+        "b2cloud-0.1.1-py3-none-any.whl": [
+          "QKjmM1pdbainwlynnDfldoAyVlU+pwZdUzjgvwVjENQ=",
           "py3"
         ]
       }
@@ -72881,6 +72881,32 @@
       }
     }
   },
+  "linkmaths-quarto": {
+    "1.0": {
+      "sdist": [
+        "DRwUi90/3NHEU3QLou2sYYOhhthNvvxb1aTOfjkZyMo=",
+        "linkmaths_quarto-1.0.tar.gz"
+      ],
+      "wheels": {
+        "linkmaths_quarto-1.0-py3-none-any.whl": [
+          "SVXeqBjXKLo+EqUKbsXOoHBhNHHtxFYGOAi3jqnqNt4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "RwHTjU/gx3nqzmZB9lp9rCxTlO5WgPovZutHuHCGP+I=",
+        "linkmaths_quarto-1.1.tar.gz"
+      ],
+      "wheels": {
+        "linkmaths_quarto-1.1-py3-none-any.whl": [
+          "7iN0no81iAIv1Ccql9hZkwxIoc7s4ASRfdIms68nJf4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lino-voga": {
     "17.10.0": {
       "sdist": [
@@ -95946,6 +95972,18 @@
         ]
       }
     },
+    "1.26.36": {
+      "sdist": [
+        "hkkUqnm0WeMIWOiYjaDNQqPMz3nZBMVunNVWVjpPaGI=",
+        "mypy-boto3-rds-1.26.36.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rds-1.26.36-py3-none-any.whl": [
+          "GeFPkUAWZmjdioo4xVmx5m52Bhbz0Y9sZ/6TSwusxdE=",
+          "py3"
+        ]
+      }
+    },
     "1.26.9": {
       "sdist": [
         "iDEB6ZHfgDc30aVrssGz6auVJKwjL5XFQ+ZFyeKf7IA=",
@@ -102868,6 +102906,14 @@
       "wheels": {
         "odoo13_addon_currency_rate_update-13.0.1.2.1.dev1-py3-none-any.whl": [
           "jNyWBA5t1w6bBtgQrpjtXJgKdYx0QzpajEchV7HLaqs=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.2": {
+      "wheels": {
+        "odoo13_addon_currency_rate_update-13.0.1.2.2-py3-none-any.whl": [
+          "S3Zohfr6YAhepcI+CojDqhEeV+UyH4eHqFg4YToSkbY=",
           "py3"
         ]
       }
@@ -120618,6 +120664,54 @@
       "wheels": {
         "pyjami-0.1.2-py3-none-any.whl": [
           "WC21XIP6XDykQRX5dl2vJZIGqh4HsPESZ1sjOQQ9DAo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "7qFymHGWa2gTF7G5VYzRWRp72arw0Hx+cTDncSNGIzU=",
+        "pyjami-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pyjami-0.1.3-py3-none-any.whl": [
+          "c6asNm+uRIZj6/F8osz0wlCQAG24IE3Ga0Q11zOrBBc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "CctiI0ZkXzRt4hNdkYY5VF+moxZnKbhyBt9rmPZsucI=",
+        "pyjami-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "pyjami-0.1.4-py3-none-any.whl": [
+          "l6rJdQzIP2Gsw7gTknA7pq3fLgWGJuzdFz6KMrTgW1M=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "Ads3CGfmwQyDy8dn+mSlDDRZVINUKzzT1otmSoTU4r8=",
+        "pyjami-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pyjami-0.1.5-py3-none-any.whl": [
+          "Ts83eN5DUKcMRy8y4oU269p9rZoEypR8ICxXIU38ZJM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "Uf8t3YkXvwOQAU76BnINmqY6DJYcP2aoYoinUBkfO7s=",
+        "pyjami-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pyjami-0.1.6-py3-none-any.whl": [
+          "3yfShINto1mVhxD+CYm/IUSb2zvmU0QXPmlIrfHYmos=",
           "py3"
         ]
       }
@@ -151016,6 +151110,18 @@
       "wheels": {
         "types_aiobotocore_lookoutvision-2.4.1-py3-none-any.whl": [
           "f7Pmvk4/OnnSHcROPGtzbyEaXoZetD4uux9Evd9JZTY=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "aSeVOCSRAWrtLLNsB2YJG5EBdEvz1M5WPs2pdDgZB9s=",
+        "types-aiobotocore-lookoutvision-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_lookoutvision-2.4.2-py3-none-any.whl": [
+          "x605/8t1P8hJ/geS6YPC3S3H7o+Kw/PSIDPbYsjmUMk=",
           "py3"
         ]
       }

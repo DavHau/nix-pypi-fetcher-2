@@ -14973,6 +14973,26 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221223": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221223-py3-none-macosx_10_11_x86_64.whl": [
+          "DXQ3YBDErycMqnIdy5gMyyvIHWbNE9jT4l6dfwBVUEY=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221223-py3-none-macosx_11_0_arm64.whl": [
+          "vOofMoyDy0n1qZb51NpXRRFX72Ui3tqz6ea0bqjFafI=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221223-py3-none-manylinux2010_x86_64.whl": [
+          "8FHvSTHtidK3nNOR/0psc+yQABHRMF4Cf8SZlNP6eag=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221223-py3-none-win_amd64.whl": [
+          "5GSPgUKx3M+TDHT3qL6jwaflQ7cuMNUEp3wI9aELn30=",
+          "py3"
+        ]
+      }
     }
   },
   "billojwt": {
@@ -120745,6 +120765,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "uh4ZoOU6l7XCmeaNNPZrd3DIWVp+Rbe1gwWLU2B3Rpw=",
+        "pyreptasks-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyreptasks-2.0.0-py3-none-any.whl": [
+          "XkUUhEDLAlIzibSRT4Pg6nOLTfuDjOj1T74qqrTcWK8=",
+          "py3"
+        ]
+      }
     }
   },
   "pyreto": {
@@ -142343,6 +142375,32 @@
       }
     }
   },
+  "streamlit-image-coordinates": {
+    "0.1.0": {
+      "sdist": [
+        "gyVZcPJXwbSoIIYddqSLjs6IS6Z24O8DtiyfW4eUU6o=",
+        "streamlit-image-coordinates-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_image_coordinates-0.1.0-py3-none-any.whl": [
+          "sBBa507r/23KEhBrWTAUatzUGgZNwTLYAf8HYPxpbaI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "/xAwWayRcGIsejCilIhJQcGS9y3m9bRQS6Ep0dNrAiU=",
+        "streamlit-image-coordinates-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_image_coordinates-0.1.1-py3-none-any.whl": [
+          "sbGuFh6EHY2nOoGzYqSgt+b+Lbwy/9KYuLYLQlfKx9Y=",
+          "py3"
+        ]
+      }
+    }
+  },
   "streamlit-pandas": {
     "0.0.1": {
       "sdist": [
@@ -150586,6 +150644,18 @@
       "wheels": {
         "types_aiobotocore_inspector2-2.4.1-py3-none-any.whl": [
           "9oz4chdQ/94pMlmuiz6gM2SCYO+OVaTBvqj3+oDiu6s=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "6mcrA3dDcBkBx2aXl8Az3KK/mZ/HIEzgKRoo+DEWxPo=",
+        "types-aiobotocore-inspector2-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_inspector2-2.4.2-py3-none-any.whl": [
+          "nrOB8ths4O8c8eYgrKSOr2T0BvboXF1diBiXc6Fs8PU=",
           "py3"
         ]
       }

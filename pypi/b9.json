@@ -14107,6 +14107,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221223": {
+      "wheels": {
+        "bigdl-2.2.0b20221223-py3-none-macosx_10_11_x86_64.whl": [
+          "/Aqc1FXGxdddY5ecf3MdPhOoLNF1XlPnhHt17ok8DxU=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20221223-py3-none-manylinux1_x86_64.whl": [
+          "/BxgC8wWQYYq9I5Hyi11YZQFqbG5N3TJ6GJ9Kmixu6U=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -72170,6 +72182,14 @@
         ]
       }
     },
+    "15.0.1.1.0": {
+      "wheels": {
+        "odoo_addon_payroll-15.0.1.1.0-py3-none-any.whl": [
+          "iVfOtmIYAw3rcQ/U88XpXBGbKHQYnb2O37Aw5U22aC0=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.0.2": {
       "wheels": {
         "odoo_addon_payroll-16.0.1.0.0.2-py3-none-any.whl": [
@@ -110309,6 +110329,12 @@
         "LYQsuKQ8zafYurL/nWveS7zvnrYPv+qLyLgERWZOmXM=",
         "ScalableWriter-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "9uyyJkCiAGiuJg8oXMy1l9Lj4jxlb4sPiX/pGVgl2JU=",
+        "ScalableWriter-1.1.0.tar.gz"
+      ]
     }
   },
   "schoolyourself-xblock": {
@@ -133079,6 +133105,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.800": {
+      "sdist": [
+        "ZweA/5FeOwbImRd4DpMBooFb23k4DlFEga33JCeN2Cc=",
+        "tencentcloud-sdk-python-aai-3.0.800.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_aai-3.0.800-py2.py3-none-any.whl": [
+          "keQI07Dd/HGfBL8jzrTYTh/RFDpVs5CeFhsIH1hK33M=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-cloudstudio": {
@@ -133786,6 +133824,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cloudstudio-3.0.799-py2.py3-none-any.whl": [
           "T7P/l8DzxsOLdBZdAEDJoeacWotJ8OUSs0asyuR5zhk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.800": {
+      "sdist": [
+        "M74U0s+Iz6OgSdjOAJupiYTuHQUEQ9fLnWZ+wozPtpU=",
+        "tencentcloud-sdk-python-cloudstudio-3.0.800.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cloudstudio-3.0.800-py2.py3-none-any.whl": [
+          "t5YZI22K6UJRsXLC/Bi47JKNqC0c/T3aomvimZVsm6s=",
           "py2.py3"
         ]
       }
@@ -140103,6 +140153,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.800": {
+      "sdist": [
+        "8Udf3rP+7NZtEW9HYZU5ZVLPQ5ByCeqFnhSvJ3ZotSQ=",
+        "tencentcloud-sdk-python-nlp-3.0.800.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_nlp-3.0.800-py2.py3-none-any.whl": [
+          "O6drBPZUYrWI7P+tUisgSHa8WhtRi/L3ufp/n21WIH8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-lattice": {
@@ -143943,6 +144005,12 @@
         "tni22bxog3Qm5r5L9Fmk25PyRteUzzMwzpTcaoPdF7E=",
         "transpose_decoding_sdk-1.0.2.tar.gz"
       ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "m6fRLPiyi65vX1GNMCdLqEfDIetfzv1ZdAWi9WqbEuk=",
+        "transpose_decoding_sdk-1.0.3.tar.gz"
+      ]
     }
   },
   "travis-deploy": {
@@ -145845,6 +145913,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2": {
+      "sdist": [
+        "xAxWF9Rz11qntRaclWflIkRVPuemu1pVScC9SwdweE0=",
+        "types-aiobotocore-mgh-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mgh-2.4.2-py3-none-any.whl": [
+          "8CORR+gpfpheyimQgbqYpIbbuLrBUugwi1lMY91wUBw=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-pinpoint-sms-voice": {
@@ -146060,6 +146140,18 @@
       "wheels": {
         "types_aiobotocore_pinpoint_sms_voice-2.4.1-py3-none-any.whl": [
           "Py1C/MFkhXYwzvtnri62XvGQ3pO/4U/5x19bf9ZAxc4=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "hbncowCf2xD5TXM5BXCG1mHAQ2K0kwB07KbtQDxtA/c=",
+        "types-aiobotocore-pinpoint-sms-voice-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_pinpoint_sms_voice-2.4.2-py3-none-any.whl": [
+          "+vTVJYFU3BLVe1AWYRPVKenaXiasXsiNOg+VDHjVJdg=",
           "py3"
         ]
       }

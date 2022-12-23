@@ -18852,6 +18852,18 @@
         ]
       }
     },
+    "2.0.191": {
+      "sdist": [
+        "2QtQpKJHlcN6sqg+wNVRA4pUSmwxyjy03Bf2EwoRgO8=",
+        "cdk-tweet-queue-2.0.191.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.191-py3-none-any.whl": [
+          "U3nTrm5K/TRGenq+lssv9WZT+V+QCCSBSMUf+RuBSw8=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "wR0sGbRRdjlJzHUmtcNg8WHByLJsKpdbpOXAf0BWwRI=",
@@ -48972,6 +48984,22 @@
         ],
         "graphscope_client-0.19.0a20221221-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "N7kOs6/nboFFmEq1av7TvifEl8CAl7Ah2uO2DkzSauQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221222": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221222-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jsxbsKR5LEXbj27u+HL1+VV34goOPwkl/UZP1qUoIA8=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221222-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "N0yNpiJTMu0ZEwUlqHlwL7DXsKau0Ne0afHsDw7Ldhc=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221222-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bJJeRYstdVf34o8tXUl840Oqk81cHlhYKloWlo2ezxM=",
           "cp39"
         ]
       }
@@ -97463,6 +97491,56 @@
       }
     }
   },
+  "prettify-py": {
+    "0.2.0": {
+      "sdist": [
+        "FcmdiP9lZQCaFkzCy1/CMnF6cR/tIaYedFZD9tFtcuE=",
+        "prettify_py-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "prettify_py-0.2.0-py3-none-any.whl": [
+          "FofjptBivq5PNfgum2ML40m791lqU+wo6q9A4IIpU2Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "G3FXSwFIQZhcy2zPpgvhtETzF5VQgZaS9fkPcPSaHL8=",
+        "prettify_py-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "prettify_py-0.2.1-py3-none-any.whl": [
+          "7aPwLtFNG2lsa5+Ahiv3CFWKNWKIjF47PDR9iEmsXQg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "RODU7DK2nXvXZ/cgxS/LD1Wx3xFszWT0B3Fm+SAO3zQ=",
+        "prettify_py-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "prettify_py-0.2.2-py3-none-any.whl": [
+          "D0G3O/oiaTLaWZ3AFvuHZI13k/33oj14IyTOOj2wSkM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2.1": {
+      "sdist": [
+        "TjDD/RdEdnlh76wwjDCk+DvaNMLzKJgiSvUQ1QzBqHs=",
+        "prettify_py-0.2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "prettify_py-0.2.2.1-py3-none-any.whl": [
+          "5UlgrUgUmBMveHesh+odLftXw7A0UKO7R8S234olX/s=",
+          "py3"
+        ]
+      }
+    }
+  },
   "printlist2333": {
     "1.0.0": {
       "sdist": [
@@ -124953,6 +125031,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.7": {
+      "sdist": [
+        "YsIC3ARJ149h/yOGhUR9UPopaR5E+pfXw89Tb3/+1Fo=",
+        "sym-cli-0.4.7.tar.gz"
+      ],
+      "wheels": {
+        "sym_cli-0.4.7-py3-none-any.whl": [
+          "TTR0BV4iffxBE/0sj8qo88mVW781ktn7GPDMePzQ/iY=",
+          "py3"
+        ]
+      }
     }
   },
   "synapse-ldap-password-provider": {
@@ -140640,6 +140730,42 @@
         ]
       }
     },
+    "0.4.10": {
+      "sdist": [
+        "w+6JLiTR4oLz921y0aWZ/5q2IlbsEmIv8IVWRFAIUkA=",
+        "tee-output-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "tee_output-0.4.10-py3-none-any.whl": [
+          "z74s/NljR5SvmJnfhlC3LggjOe8XQGT7Suf2GL8wkzo=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.11": {
+      "sdist": [
+        "ymvc8xMBPeloShPeZSlwlF3Z/akH6pUkNmsEZQeke/M=",
+        "tee-output-0.4.11.tar.gz"
+      ],
+      "wheels": {
+        "tee_output-0.4.11-py3-none-any.whl": [
+          "5o1Bx5MmD9jsmssTDnI7AryWqgYQXwtRlNpWGVCvmt4=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.12": {
+      "sdist": [
+        "VjuEoBTZswu0vfRJppf9rTDsYMz6vRzIhpxT0/DKVxg=",
+        "tee-output-0.4.12.tar.gz"
+      ],
+      "wheels": {
+        "tee_output-0.4.12-py3-none-any.whl": [
+          "RNfSm11XgOXr3JIg2j5fXxQzluPKJdS3HkzynKDRfw0=",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "TQiPuUD76Eagv+VdkDIL6Qq88YT5/JzJcZ3v8jygO3M=",
@@ -140720,6 +140846,18 @@
       "wheels": {
         "tee_output-0.4.8-py3-none-any.whl": [
           "/yIJ8Qb3eq4v8ibBezwPO6OyXUXuhj5gyXq/rRMUPEQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.9": {
+      "sdist": [
+        "nAd+tVHACZv3rO+LEisj/xjz/NvFIcoqY6vn+xqZhQw=",
+        "tee-output-0.4.9.tar.gz"
+      ],
+      "wheels": {
+        "tee_output-0.4.9-py3-none-any.whl": [
+          "WMTWNB8Dwp7c4TISA7vB3VBuZFrZ4Z+ckDvYk2v370o=",
           "py3"
         ]
       }
@@ -146590,6 +146728,18 @@
       "wheels": {
         "types_aiobotocore_managedblockchain-2.4.1-py3-none-any.whl": [
           "QEQbTjT3uOn5F+AQP7AkDTYhWaAuumK2xs3dqjUUnoE=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "YDApyQfACb/MjHyalixDdTTK6GRSeX5cJlw07ih54Sc=",
+        "types-aiobotocore-managedblockchain-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_managedblockchain-2.4.2-py3-none-any.whl": [
+          "zFxjXaQ7aZ+FRGEAv2n+Jpig9truN1RdUo7kSfZuQ+E=",
           "py3"
         ]
       }

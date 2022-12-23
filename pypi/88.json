@@ -328,6 +328,12 @@
         ]
       }
     },
+    "0.15.23": {
+      "sdist": [
+        "NK+I7pwIScQNhcQiFktQIstHGMvzLho4sN2IKJhAbJU=",
+        "AcraNetwork-0.15.23.tar.gz"
+      ]
+    },
     "0.15.4": {
       "sdist": [
         "3I55ovCfqKurBtOancsX2iTTbybZykuXAoqdLYPsuM8=",
@@ -9338,6 +9344,30 @@
       "wheels": {
         "Blender_Renderer-1.1-py3-none-any.whl": [
           "awzh9OPRd34dO6XMw1QnzTkvQR8wzuAFIxOLYBPpzeY=",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "uqQZxc+C+8XyXlu4ONv/qia8p6TvN2gka1EhhMnhhxU=",
+        "Blender Renderer-1.2.tar.gz"
+      ],
+      "wheels": {
+        "Blender_Renderer-1.2-py3-none-any.whl": [
+          "fz2vuWWGh5wczqbX9WYIINGwHvKR54DPAZ4Zh8q6854=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "0sSCdsBK62jbyhhJGL2+cRo31ps0525iJSQDYC3bj6A=",
+        "Blender Renderer-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "Blender_Renderer-1.2.1-py3-none-any.whl": [
+          "1UP9VplEt4AvZM14bLcF0aEoAZGGSm7L5tjoSaoZvsc=",
           "py3"
         ]
       }
@@ -45669,6 +45699,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.1": {
+      "sdist": [
+        "8a2J01J5qNhhd5YJkFqtQBIH1PuOXoy7mho21uFDu/k=",
+        "genomad-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "genomad-1.3.1-py3-none-any.whl": [
+          "qlLYNLS9SEtXuBEobZZCLLdvjaywtcLc32JM8pDETa4=",
+          "py3"
+        ]
+      }
     }
   },
   "genomeworks-cuda-11-1": {
@@ -51490,6 +51532,12 @@
       "sdist": [
         "HPOx26xZoYlUSl5NOJw037nPqmztH+r4uj3/fWq2d+A=",
         "icikt-1.1.3.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "W9MZvgUkoeJFKm/Q3RAkDO3hsZHxJkgklULEvcvhDoY=",
+        "icikt-1.2.0.tar.gz"
       ]
     }
   },
@@ -88538,6 +88586,34 @@
         ]
       }
     },
+    "1.7.37": {
+      "sdist": [
+        "PPBWKCoF07I/887AE1xXNLnI02g/ycI8s7ULAYLoeWM=",
+        "OctoBot-Commons-1.7.37.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.7.37-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "AY6XHbOd0O65e/U7/eug76wB1qRgZ+mhY37oUFyg4H8=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.7.37-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "AZ5Twu3H6DQhXMlfVeqoyYIdxCVYohZ6omymwJdQs8c=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.7.37-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TqwJPbAZHuFyYET+3th4RqBUlLaC3xa5NJyEuIs30hs=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.7.37-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "O683lcKbuWy2yQxoaz0Eb+PCT7MljlXRJS18f/ss8h4=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.7.37-cp38-cp38-win_amd64.whl": [
+          "342IJJaQHqv/0UNcgLwshG8gy3ShCPPNCNVLhJ18d1k=",
+          "cp38"
+        ]
+      }
+    },
     "1.7.4": {
       "sdist": [
         "lhN74IbKWoirKbrGn/on4ha7BdiT3SDoy3IxyEtfxUY=",
@@ -88702,6 +88778,34 @@
         ],
         "OctoBot_Commons-1.7.9-cp38-cp38-win_amd64.whl": [
           "juyH2E03VFNtoEPeCjjSwDglSAIvNIwpFHvT/HxGz64=",
+          "cp38"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "pb9nzqmMQ/e9T6YSzcPlJLGvclv2FC3G6+eT+a0MfCA=",
+        "OctoBot-Commons-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "B36gLglwtpZ4hZXPjWybnRwS62qvWtctwS3LSY/r9Tw=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "U9+lJNp/6+cJ4xpD2uxPEoCjFi5jaGjxHVzCoboLEG0=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pEhHfwLB6ou4Q4egyEUVDcssbZlnNsZIMt3wACVUpjA=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "N6ibNWipf+Xa7BAByha+OnSWneNq6f74Qzcvc/hpt04=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.0-cp38-cp38-win_amd64.whl": [
+          "KXemxlT48tCGynw4ILRRy+KO6X7/4hhe3KW+5XBdl3I=",
           "cp38"
         ]
       }
@@ -139398,6 +139502,54 @@
       "wheels": {
         "weni_rp_apps-1.0.35a0-py3-none-any.whl": [
           "BjFaP/eRZ0v19eU+qlMSkK4QnPPKd6Op/Mb2xi8+BYI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.35a1": {
+      "sdist": [
+        "cAaAI2uKIVqb8m0f2Yd5EbJkMvDnGAmu1m5BFe1B3so=",
+        "weni-rp-apps-1.0.35a1.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-1.0.35a1-py3-none-any.whl": [
+          "DYn8dHxOLUwqAGHBmqn4HAOjmbRkCF7g4gD9nPDhOS0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.35a2": {
+      "sdist": [
+        "sgpbBXNJafDEpSI744KCCyUNBC+Fc8ArGbLpSHGyI0w=",
+        "weni-rp-apps-1.0.35a2.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-1.0.35a2-py3-none-any.whl": [
+          "38CGt6QAXioOgKdbJF47mIokfFbeu+Neps1Q6Pdpcao=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.35a3": {
+      "sdist": [
+        "5JFOFvt1ZMIqNeK7Pl3TFLV0xjCPlot8dC0GzkG91Ag=",
+        "weni-rp-apps-1.0.35a3.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-1.0.35a3-py3-none-any.whl": [
+          "e75suFUwkwITWacQO9NN4fgCWQDjgbFzCK3DSRezJIU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.35a4": {
+      "sdist": [
+        "ap6pNO1xp+3x28z3BvCwTwCz45m5wwxp/9l8P9K4qNk=",
+        "weni-rp-apps-1.0.35a4.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-1.0.35a4-py3-none-any.whl": [
+          "O0q5pc5O7KZ1gVrORiU4QziAnYZRwaSwvRkxWZuUnko=",
           "py3"
         ]
       }

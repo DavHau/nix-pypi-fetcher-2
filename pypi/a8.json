@@ -18830,6 +18830,14 @@
         ]
       }
     },
+    "1.26.36": {
+      "wheels": {
+        "boto3-1.26.36-py3-none-any.whl": [
+          "i9X91SgmDE2j4HDABGjP1KUK11Vw6BpAmXDESQ/e5Fg=",
+          "py3"
+        ]
+      }
+    },
     "1.26.4": {
       "sdist": [
         "JE/Qd2/B9pw+0081nbepCmEINySGq8mZzoUVp5u/yG4=",
@@ -24970,6 +24978,18 @@
         ]
       }
     },
+    "0.0.19": {
+      "sdist": [
+        "IXUQo0DEDfWWPms5KRMvd/mMKMBelQijIF4X3/xGHNE=",
+        "cakework-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.19-py3-none-any.whl": [
+          "ZiWZj3SUKU7SThuRIT66ta8W9+TJTH5yoRIp08GnlMY=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "3NlWNIOakF17V50iK/mvGxGtLzU+UYCn/HTEUTGcmAI=",
@@ -24978,6 +24998,30 @@
       "wheels": {
         "cakework-0.0.2-py3-none-any.whl": [
           "dGG9Zrrs1Y2OopLHEIbmovbktnOqkYelHkKjZHposUg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "sdist": [
+        "vFapwM2af+5FrzphBAV3ZAzznli8RiOEH7XrOoRA10M=",
+        "cakework-0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.20-py3-none-any.whl": [
+          "xyJamqVXSw8FVBROu0mfPM8CrPW2hvPg4zI/yqGbFIw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.21": {
+      "sdist": [
+        "hBUXNVLDJL5Fr1VsdPHjLThPUOd1o9qBi2sYj4urqM8=",
+        "cakework-0.0.21.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.21-py3-none-any.whl": [
+          "iWQijTWogDcx+/2tDNiPb7nZr/PbRMMUKk72Wx55ZR4=",
           "py3"
         ]
       }
@@ -65671,6 +65715,16 @@
       ]
     }
   },
+  "jonahtesting": {
+    "0.69": {
+      "wheels": {
+        "jonahtesting-0.69-py3-none-any.whl": [
+          "ygCqEStIifFvTRM4DJFj4tCMp6OzNv8O2JDQF514Q6k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jotform": {
     "1.0": {
       "sdist": [
@@ -72319,6 +72373,32 @@
         "gGtY8bGP/h0YNtBr3iRy6uTy36cZGV2sBIdRMKVDHO4=",
         "metapensiero.sqlalchemy.asyncio-1.0.tar.gz"
       ]
+    }
+  },
+  "metropro-dat-reader": {
+    "0.1.0": {
+      "sdist": [
+        "S+13ll6su0ZpXqDZ3cNZ7Yh/6jFg0sLh5S8EKeltcHY=",
+        "metropro-dat-reader-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "metropro_dat_reader-0.1.0-py3-none-any.whl": [
+          "XY4dahFLmSUK25TalV/hXyndkUQ/xOQ0z9qbrnbL5Yc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "OZe4FEvBNajVnfCsn5WuhxqUOTOHfFCsNvlQdyRvQvw=",
+        "metropro-dat-reader-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "metropro_dat_reader-0.1.1-py3-none-any.whl": [
+          "JRl+55DVVK5qDQlzCIpjC8KjdKeba9lwrWdtPsEZwNo=",
+          "py3"
+        ]
+      }
     }
   },
   "mhelper": {
@@ -128593,6 +128673,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.1a2": {
+      "sdist": [
+        "rQpTbx2wUL3HpIqYOjkHeB9XBn4sJ4ZFkJqSo1bFLyY=",
+        "sigstore-protobuf-specs-0.0.1a2.tar.gz"
+      ],
+      "wheels": {
+        "sigstore_protobuf_specs-0.0.1a2-py3-none-any.whl": [
+          "+WgRif3DHhm2Uq34fJpcGVACvBxCHtLp75eYkjCt2Rg=",
+          "py3"
+        ]
+      }
     }
   },
   "sigur-gate": {
@@ -144795,6 +144887,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2": {
+      "sdist": [
+        "gZWSqSfN8HZ0i9TxcVgQ9deoDcIS7rPLJp8VU9QZAdA=",
+        "types-aiobotocore-docdb-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_docdb-2.4.2-py3-none-any.whl": [
+          "6s15j2XHvIEgVBJwXBQWgZJ/ZwkU2/8UjYemQ+ZUo84=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-forecast": {
@@ -145010,6 +145114,18 @@
       "wheels": {
         "types_aiobotocore_forecast-2.4.1-py3-none-any.whl": [
           "Hf6JXtG5n/+MMgrbJXziWmfmbDSg+GZKsUG3EfGqp/c=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "GdaC+It7f6MNUnfsqlnTprwGxVd48lQ4zIlb4L4fXnU=",
+        "types-aiobotocore-forecast-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_forecast-2.4.2-py3-none-any.whl": [
+          "M7CdqkIar+xWHlmOqdAsgOLOwTeH8kTIRxdciCi+atw=",
           "py3"
         ]
       }
@@ -145231,6 +145347,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2": {
+      "sdist": [
+        "ZiPWc6LOHUwT6+ncdI1iMh7qBR7m3+UY+aPxAUefszQ=",
+        "types-aiobotocore-honeycode-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_honeycode-2.4.2-py3-none-any.whl": [
+          "mh+RGHtDMSJalhZMpkXuHxB6dTtNgUAHDh714pIpSTs=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-robomaker": {
@@ -145446,6 +145574,18 @@
       "wheels": {
         "types_aiobotocore_robomaker-2.4.1-py3-none-any.whl": [
           "gqfQGgA5KcvfO4sGr4CW5pkqWLROodJsGXzmbqi2/lQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "TsLsi5gPY5ufhJU5BiopbWTs4ALw24zgq6chfHDXVsQ=",
+        "types-aiobotocore-robomaker-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_robomaker-2.4.2-py3-none-any.whl": [
+          "5AAgCjYiCZ5M0sHKMgMQqz8bIAxQzbNtQU6J0vI8qAs=",
           "py3"
         ]
       }

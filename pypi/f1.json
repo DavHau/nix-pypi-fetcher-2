@@ -44728,6 +44728,12 @@
         "fiduswriter-3.11.4.tar.gz"
       ]
     },
+    "3.11.5": {
+      "sdist": [
+        "1m1j/Qgw4ab/VYHHrQ76o0HKhBc+sxui9ZiWw1w4IDI=",
+        "fiduswriter-3.11.5.tar.gz"
+      ]
+    },
     "3.7.0": {
       "sdist": [
         "tOQOwesshO4ctsn1jH/kTQVEdJcm3wLmhBnrh9XwO4k=",
@@ -54948,6 +54954,18 @@
       "wheels": {
         "hackle_sdk-3.1.0-py2.py3-none-any.whl": [
           "WD6f8o4MshrWFaX3BJVDIKIgOubf7pRLIcxb8Z3qkPw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2.0": {
+      "sdist": [
+        "cE4PF9oZRXcimOGUOMMjlqiQ2cB+rTeD4g10oSFBe5A=",
+        "hackle-sdk-3.2.0.tar.gz"
+      ],
+      "wheels": {
+        "hackle_sdk-3.2.0-py2.py3-none-any.whl": [
+          "d2ZiP556Vl8p/LxRoh695uv7X24nvJNL7pF2vutNRJ8=",
           "py2.py3"
         ]
       }
@@ -66322,6 +66340,18 @@
       "wheels": {
         "knifes-0.8.27-py3-none-any.whl": [
           "YlJAaKMaWZSjNeIn6YbGqcQMbRApGPpzM4cGFbF2bmA=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.28": {
+      "sdist": [
+        "ghM7BWk3QoeqA7+QMLSYj83z0vvHYe/BkAEmcPLYQbs=",
+        "knifes-0.8.28.tar.gz"
+      ],
+      "wheels": {
+        "knifes-0.8.28-py3-none-any.whl": [
+          "Nimvur+H3Y4zzXLZq1fKwhui8U4vG1aAvor30UOW4T4=",
           "py3"
         ]
       }
@@ -123557,6 +123587,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "pPSnsLvNat/5/3J9ywHg/H5ru9pMmrXeC5gLbqm05x4=",
+        "segal-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "segal-0.1.3-py3-none-any.whl": [
+          "3Tjo22YAQYz4MNVXx1XdQubN0yN9/2pzTTTGJGexCuM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "IdpnCiP4fR1me2kGRJZj3SqSDlgKykGdQM+lY7SpTLI=",
+        "segal-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "segal-0.1.4-py3-none-any.whl": [
+          "dSB2aeWENUaqWKUu2OP+qvGqt07ObD7F4VOZ4PGqGyU=",
+          "py3"
+        ]
+      }
     }
   },
   "segy-lite": {
@@ -130529,6 +130583,12 @@
         "il3qVMgT5/7e1ZhKp82mMZz0td5PKJsy7IFynAfujVo=",
         "stytch-6.0.2.tar.gz"
       ]
+    },
+    "6.0.3": {
+      "sdist": [
+        "7pc0sF6fnkDtkxG3eqnTcS3Nq2oyHGHeTRc5JFDrJk8=",
+        "stytch-6.0.3.tar.gz"
+      ]
     }
   },
   "sudio": {
@@ -136205,6 +136265,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2": {
+      "sdist": [
+        "BdAK8O4PwenhsS/1V0lUJrSC7r/5bGaD97bOJMLtOy4=",
+        "types-aiobotocore-elbv2-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_elbv2-2.4.2-py3-none-any.whl": [
+          "Vw8sLadM4C93A42NHzKW72vn7RBNXPqy3WRieepMNLQ=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-snowball": {
@@ -136423,6 +136495,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2": {
+      "sdist": [
+        "LfRJHfJqBqGJrSSFZ7M/fIFzCzQ9kakR+Qc2br1x7xg=",
+        "types-aiobotocore-snowball-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_snowball-2.4.2-py3-none-any.whl": [
+          "mcLNBdhnsnw3rBjIHaGcq7XKh2v9sXhXF2VK8Skr2kE=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-voice-id": {
@@ -136638,6 +136722,18 @@
       "wheels": {
         "types_aiobotocore_voice_id-2.4.1-py3-none-any.whl": [
           "cjwbFutVKyCYgRyax8QLxIHvuzM+WoVz7YAmBQ0RxKI=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "ElzC8Qbu58kBfUR2FL6muqDRYmS+lHcQ8lKs2ojYtg4=",
+        "types-aiobotocore-voice-id-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_voice_id-2.4.2-py3-none-any.whl": [
+          "nMffWzkul62FM6SM5NeuAmxEvMeQ8uKadyP2bVnjiVg=",
           "py3"
         ]
       }
