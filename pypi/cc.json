@@ -16537,6 +16537,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "G4fcWeYFpKIBtA27ZzgLw3CcOQICdGbxjs7wLjE8Xms=",
+        "catholic-cli-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "catholic_cli-1.0.0-py3-none-any.whl": [
+          "UKoDojHN5WRBZnadPTuAFZb2W4O2CyOqjMAY6tOTBtY=",
+          "py3"
+        ]
+      }
     }
   },
   "cbp-smf": {
@@ -42011,6 +42023,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "JguKdd7Po+HRZYyRMotjpBw/c7IYJmMIWkJ14rYL9ww=",
+        "f1_22_telemetry-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "f1_22_telemetry-0.1.0-py3-none-any.whl": [
+          "nN3Vp8zMOJ+OabyDVsdDw4BCe2ELf2T7nKQcrpe2RCs=",
+          "py3"
+        ]
+      }
     }
   },
   "fabriclassed": {
@@ -58454,6 +58478,12 @@
       "sdist": [
         "mzrDXEepR6aB8LE2GTZOVl4p/tagHlYFkelwiAumMUM=",
         "jupylet-0.8.8.tar.gz"
+      ]
+    },
+    "0.8.9": {
+      "sdist": [
+        "h9MLP6TnuXQ27TeDhAhcw4H8K5ZRoGErYsGwZ3f0Myk=",
+        "jupylet-0.8.9.tar.gz"
       ]
     }
   },
@@ -132616,6 +132646,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20221212-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "bP6yv/m8h9hmZ3BvzZ8f7EyvNypodpe77jy3BNQVQzE=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221224": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221224-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "w+59C2kVSMVUKyttitzn0v8HUlxfEcV1/h0W+HTSisg=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221224-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "uDxJCTko97FjRwY+GBGD57+KTZD6tBebPmEMyaUa/74=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221224-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "uSMvB4OFmPbRNkn0IleuPTPMi9yCpH5ze16OdYMntxE=",
           "cp39"
         ]
       }

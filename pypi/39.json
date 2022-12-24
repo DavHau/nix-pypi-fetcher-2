@@ -15051,6 +15051,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221224": {
+      "sdist": [
+        "vHubo6wNYdFmmDjn0Yhg9TryEAqv4yJR6infoOeUGLM=",
+        "bigdl-dllib-2.2.0b20221224.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221224-py3-none-macosx_10_11_x86_64.whl": [
+          "1z1oz6wlFAEwt+e1zZYBqleT5GtwD/nD8aXI6miDxCg=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221224-py3-none-manylinux1_x86_64.whl": [
+          "kwTT4THaEC539mwwvpJ3/hOHa2Gxq1W8wJK/7lt0OVE=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -56093,6 +56109,78 @@
           "py3"
         ]
       }
+    },
+    "0.0.24": {
+      "sdist": [
+        "i84fQOkXTvNZxzMbz+6cMkHNU+qmcToKywLMHflRBcU=",
+        "labelbase-0.0.24.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.24-py3-none-any.whl": [
+          "msTrHgM6IrfvmoAwPyERDGV0AFz6nFmBpJNxXzpfPMw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "sdist": [
+        "ebu4efSZERhgq90JUPCMstTr1Xt+JarHl/LsaOz1WGw=",
+        "labelbase-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.25-py3-none-any.whl": [
+          "bACbHTfJRsJ3KCplqnMpdmlyQtxf0Pr82Zjj1ptmtpA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.26": {
+      "sdist": [
+        "tHpGyntVKvnUpL3LWvZlfPCMbsnlYdhrHLwSrIKJpDM=",
+        "labelbase-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.26-py3-none-any.whl": [
+          "ZvhAznLyWqxZdzbrnN52G8kHUL0Np2Az2tBeoRIdnZI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "gTPduO3J3+wrvWkSPE7Y0OFMw0CwM6OSew9mzaUrhrc=",
+        "labelbase-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.27-py3-none-any.whl": [
+          "99bN+koNwxn7WZw1hfcEZUFyItF3rPM33PyzS5tahZU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.28": {
+      "sdist": [
+        "g2Fvj23SB7KCwbHSReJQ4L7iFu5hb+jd4t5QCs1CcUo=",
+        "labelbase-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.28-py3-none-any.whl": [
+          "88CCjQurJGpP8GNtZhA8GM7xJ9YF8uQZGBcBKun4dJQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.29": {
+      "sdist": [
+        "Xn6yNeYlsfkgEenlmevUejdV4Mq6sdv2POnz697pRcU=",
+        "labelbase-0.0.29.tar.gz"
+      ],
+      "wheels": {
+        "labelbase-0.0.29-py3-none-any.whl": [
+          "dx5fAtfbT6zZu2d7IAn+kjWoSWiId8x9wZCKfR16w1I=",
+          "py3"
+        ]
+      }
     }
   },
   "lambdata-vgrams05": {
@@ -59393,6 +59481,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "mathx2": {
+    "1.0.0": {
+      "sdist": [
+        "75HAGR9HIjdX4E4CfNgZm8zytMjxkxvxuG529m8I6fQ=",
+        "mathx2-1.0.0.tar.gz"
+      ]
     }
   },
   "matrix2latex": {
@@ -93035,6 +93131,20 @@
         "u05/bhK4jtl+HiNrsLxiYG8/iAhYniQFNj9snCutoaI=",
         "py-json-rpc-0.0.6.tar.gz"
       ]
+    }
+  },
+  "py-quizlet-cram-stepthree": {
+    "0.1": {
+      "sdist": [
+        "KH981bALhhJQheJCZLzCvFyGw1sKJMS/w8CLLw4kaY8=",
+        "py_quizlet_cram_stepthree-0.1.tar.gz"
+      ],
+      "wheels": {
+        "py_quizlet_cram_stepthree-0.1-py3-none-any.whl": [
+          "DoorxzTRcfqefiE4YLyo7sDa6AS8lOfNvD2m0BFYZSo=",
+          "py3"
+        ]
+      }
     }
   },
   "py-test-client-chat-358": {
@@ -139565,6 +139675,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221224": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221224-cp310-cp310-win_amd64.whl": [
+          "TfR5LjCvEh7A/l2fA+QfBoVatef2dCzHpWAEEdI9gk8=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221224-cp38-cp38-win_amd64.whl": [
+          "17m6EK7WwwLbU1oAm8emGkDjEb8NLSa7rgXZ5nOfzxg=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221224-cp39-cp39-win_amd64.whl": [
+          "ZbOPeZZUMAdO9f6JYU0reTy62tpdaCJlgCbINBWrzn4=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -143466,6 +143592,14 @@
       "wheels": {
         "tsx-0.1.0-py3-none-any.whl": [
           "PxWYgsrqi9Jk2RlbOMLRbbPcOFPQ8DSwe/NL/LGQCe8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "tsx-0.1.1-py3-none-any.whl": [
+          "6iI/aTbKq5BeDhANlAcTuwE/hEuaagZMeBh7c/fndN8=",
           "py3"
         ]
       }

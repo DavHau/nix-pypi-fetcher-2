@@ -68447,6 +68447,30 @@
           "py3"
         ]
       }
+    },
+    "2022.12.24": {
+      "sdist": [
+        "mNo9CpmFmJSBKhsRP2yK6bYlM3xHbWEaU7XW2tzx5a8=",
+        "kvhot-2022.12.24.tar.gz"
+      ],
+      "wheels": {
+        "kvhot-2022.12.24-py3-none-any.whl": [
+          "BvDGsi+dC3xytT02pkzXPSs3VgQBQnMS0V+QRiIfP28=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.25": {
+      "sdist": [
+        "nh9la2ALfgVyJUhOk+MSWpCNlsMyZ6fJz/V5AIwBOOc=",
+        "kvhot-2022.12.25.tar.gz"
+      ],
+      "wheels": {
+        "kvhot-2022.12.25-py3-none-any.whl": [
+          "+SmX7TEe1qu1xq+69bM6X6kzWG6/R3nuqMi/WX0tbZs=",
+          "py3"
+        ]
+      }
     }
   },
   "kwik": {
@@ -73574,6 +73598,74 @@
         ],
         "lalsuite-7.11.1.dev20221223-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "1G/gzHyw01pA0bw6virucmbdKVq8I0LZTaaZxdtr7m4=",
+          "cp39"
+        ]
+      }
+    },
+    "7.11.1.dev20221224": {
+      "wheels": {
+        "lalsuite-7.11.1.dev20221224-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "hvqW61VgdhiaTcRSrc0SKE1s4gIGtrwB3y8ljkiYdWE=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp310-cp310-macosx_12_0_arm64.whl": [
+          "nRZT9I3VJgba3ohSQfPJzTK/2aTRuFl2YyXwF864muQ=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "4KoQwTsVK7GPSgSZ1iOC3g3zwtjM8mGXe8LuZg0YQfE=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FgVHOx1LxFYDvvr6ZAYNmicA/ef2YSp7H/lXgx7s410=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "H2BpL/qn+Jrk3J8DNh9bmvsHIsrahGmSQtXbL47mHR0=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp311-cp311-macosx_12_0_arm64.whl": [
+          "/BCOwkU6Tzj2HUZNUzPablpc/s/BaUe4ORQ2G7QGvxY=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vz+GKQ0l2nElIykj5+H1PIlGNPOU5gd9exEkjp+wRaA=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6SO5X6VsymfBW+R3HSWyG+LIc7z2knzckZ+dkOi5CBM=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "8T/BDvfNZeGc7s7mQA3zo4KEZgT98JgDtWB6s3L0ybI=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp38-cp38-macosx_12_0_arm64.whl": [
+          "fX/lcF2dRXPUVxjToPtnSSfbadc0mEii1qFHE21Hk0s=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Z/RU9labziU4HEtW9Es4CmIo4MIiPDh1oG5FhoYz2E4=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KZKwfiM9HUyVv4f974WPDDbIzB75BbHWMm/CN/wQfDI=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "GOMwRWSVz581dIyK7W+t080dC8HnF7yKAjKg59gq29k=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp39-cp39-macosx_12_0_arm64.whl": [
+          "3LszohezUqe7NpuM1RDbWOFjcmMOTnaxfy8UukU08yk=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "uLR7+NGXlA5njjNkSrT0Cd76DHRUT7un/8r/i+HWDvw=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221224-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iZSTcH/izMxEXjfXg6oPA6ZyuiyQ2/U3KockVyNyYLM=",
           "cp39"
         ]
       }
@@ -78870,6 +78962,18 @@
       "wheels": {
         "mimo_keras-0.1.10-py3-none-any.whl": [
           "0m1Dac7uZWRo64qw7WtjKEvjG194oawzIch5rtCIF3M=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "N62RniMHoP/wiFHkkNAXk+NLksqYlDvJrmy9PJZXyWs=",
+        "mimo_keras-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "mimo_keras-0.1.11-py3-none-any.whl": [
+          "5aMsVmC+ahWgRCQJHoKOxAlja/pqJlzEiIOid6zHHFU=",
           "py3"
         ]
       }

@@ -137262,6 +137262,18 @@
     }
   },
   "tcw": {
+    "0.0.10": {
+      "sdist": [
+        "nZCtEY5VqrkQQrmOG9zSsHF7vujl5X5l/qa/zTNQP54=",
+        "tcw-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "tcw-0.0.10-py3-none-any.whl": [
+          "Qx695Z7wGcUpoh8RWcqN6zTPEk9K4bu/QBm1KH4mY0U=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "2doLN/CbogNpP5ZjvX9DuRwE0On5VW6SjU7DWSHBBqs=",
@@ -143594,6 +143606,22 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20221222-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "aJ3LsZFF689+pXNp2PXAS57ReAaVherJPdiaYfBqtbk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221224": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221224-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JnK3IxHVf37N5WsFCleclCGgaRWAYCSIXVLFq+R5/4I=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221224-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RQ4uGfHDjFeWwNNbvtz1IOMphMR7zgmR7e5PRH7y7N8=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221224-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3KH7VzuH7VmItC51ogQhy4IyJPgMNc8N5WEpzhv8hIg=",
           "cp39"
         ]
       }

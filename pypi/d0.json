@@ -604,6 +604,18 @@
         ]
       }
     },
+    "0.0.12": {
+      "sdist": [
+        "d6myQJyr5AbtNXJ8uM4kk8O1qKMANKyoichdu3Jb8GY=",
+        "adjacent-attention-pytorch-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "adjacent_attention_pytorch-0.0.12-py3-none-any.whl": [
+          "acnQcCNDRlZiVw7LIpONdxzwTis8FZXx7wno6mP0C/Y=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "LmhsGNi6JvL7EZn0kAHaoz7iTvHTxbMrEqnqkAVpvYU=",
@@ -23063,6 +23075,20 @@
         "8c6YUTYEqyzXO9cxC+YacBBrcFlU/cG2Cgh5W3ZLLy0=",
         "cython_compiler-1.0.2.tar.gz"
       ]
+    }
+  },
+  "cz-github-convention": {
+    "0.1.2": {
+      "sdist": [
+        "34HEL8VhLyxrAS9Oj0TnT6ZvOhzyms1mjIz7fhqxMw0=",
+        "cz_github_convention-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "cz_github_convention-0.1.2-py3-none-any.whl": [
+          "43uMTSlkyWfnfOJjwoE4eeDfCH0TOCK8Hm0Sllyw6Mo=",
+          "py3"
+        ]
+      }
     }
   },
   "d2d": {
@@ -112952,6 +112978,14 @@
       "wheels": {
         "tf_estimator_nightly-2.12.0.dev2022122309-py2.py3-none-any.whl": [
           "2qe4yLu5k9N9ODMGjXhBLTSrkXJ29wNlbJnl6myNu2Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.12.0.dev2022122409": {
+      "wheels": {
+        "tf_estimator_nightly-2.12.0.dev2022122409-py2.py3-none-any.whl": [
+          "H7qXI9ysQy9umz6AaKjDEnwO6Gp8wiH33VLhox/pZtc=",
           "py2.py3"
         ]
       }

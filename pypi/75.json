@@ -127435,6 +127435,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.0.0b7.post2": {
+      "sdist": [
+        "gtGMSws0v9MhfekqqJqvoW47RzB3PPHR8cw7Bd9Uktk=",
+        "robotpy-commands-v2-2023.0.0b7.post2.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_commands_v2-2023.0.0b7.post2-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "Dbk+/zEjDL5ediG+Sxx3kPp9EnHF/rHXYRNWWhp7Hy4=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "IzWxkQc8FS4SF6H5wGJ9H+wNsi9Aqq4T0AWVz6/slso=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp310-cp310-win_amd64.whl": [
+          "E/ooDH2u5crMavboj0RMmKfKbUrzk3yvfwrCavyjAh4=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp311-cp311-macosx_11_0_universal2.whl": [
+          "k1uWv4rKW1NxGWVHYv3TDsaYPg1bUnvp/VTXmBnI/Ys=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "Df69b+RAO9l4DmtF+QPlo7VhWxGDcdNlacBi61ld9WA=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp311-cp311-win_amd64.whl": [
+          "6eYntJvH07SkyHCuQ3GB63T/EBrzyH2FjwBsPulEsGU=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "pnQmrQZoF+AW6sRkGSRyEw5Sb8bbnKtz/AN/dszD9No=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "415RFqn17tHBVxaMJ6TkdlktAdavsRL/HSEbKcQeDnA=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp37-cp37m-win_amd64.whl": [
+          "PIx/w1biVrwEIDV3EK5RZ1/xqEgwtYi9FlSrPo7JspI=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "TaC247sSdfdyx5BVqchTlXjfvX0Qh1oIkg+u3pHADdk=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "/S07bfY0TptWalvOCk9RhtbY2+LdPMpJQl/eGvOeE+Q=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp38-cp38-win_amd64.whl": [
+          "KCMMZfcwpm2iZOxn48bzPoMZpQ3hH1wOAmvRGv5XfOE=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "NHGG7FfVwgDKoq8wNy1ZIJxxJfYuMcJfpSMh6IS3je0=",
+          "cp39"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "CFcYyCwuaEFfMFkHCvvbravVxZ2g6qzYEVdpgmYUR54=",
+          "cp39"
+        ],
+        "robotpy_commands_v2-2023.0.0b7.post2-cp39-cp39-win_amd64.whl": [
+          "t6ZUY1RW2zshwRcEuLp5pTvV+jZHF3gyZryTFeh8TzI=",
+          "cp39"
+        ]
+      }
     }
   },
   "robotraconteurcompanion": {
@@ -149212,6 +149280,32 @@
       "wheels": {
         "VQGANModels-0.1.1-py3-none-any.whl": [
           "u5KntUlc89KEd39zpDeBuO1B228K/i+E3nDI7N6/YMs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "vs-rename": {
+    "0.1": {
+      "sdist": [
+        "X+BOPezBUo6IWjT90XTZ+U5iPaoy5Gy/Z0iCJ/2HeBU=",
+        "vs-rename-0.1.tar.gz"
+      ],
+      "wheels": {
+        "vs_rename-0.1-py3-none-any.whl": [
+          "2LVOFU3N4r0D1dmRKCDxgHrpok7H5wARyhwcMayeA7o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "rscsLi+Vptz04RXjEQnqXE9t0oT3fi94p3UgrLiOpd0=",
+        "vs-rename-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "vs_rename-0.1.1-py3-none-any.whl": [
+          "7+FrmAeucMg4NfGmG2Zl0Z2kk8Mk4hbPTXV6r/ftOGo=",
           "py3"
         ]
       }

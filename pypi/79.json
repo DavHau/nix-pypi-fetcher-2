@@ -30101,6 +30101,18 @@
           "py2.py3"
         ]
       }
+    },
+    "20221224": {
+      "sdist": [
+        "IxkoXVDUztPKf+m3UxLLxneUuPgTBvkikTyButPIKeA=",
+        "dfvfs-20221224.tar.gz"
+      ],
+      "wheels": {
+        "dfvfs-20221224-py2.py3-none-any.whl": [
+          "T45f25YjMFX/lvAk3VMhPqOtDphjvs1V1Nuf2LvloeI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "diazotheme.bootstrap": {
@@ -50582,6 +50594,18 @@
       "wheels": {
         "fastestimator_nightly-1.5.0.dev202212231318-py3-none-any.whl": [
           "gecBMeYEQlzmtki61vNnVW6jVlFC+fEpnTJoXuj/HPA=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.dev202212241318": {
+      "sdist": [
+        "koHk3LxnfyO25/uKS27q+iMscRIhCmWNFZ/PJMEFTbg=",
+        "fastestimator-nightly-1.5.0.dev202212241318.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202212241318-py3-none-any.whl": [
+          "t9F9aMCt/wlXNRQLXRnzbiowbBoSHk4NT7+Apohk5vg=",
           "py3"
         ]
       }
@@ -91401,6 +91425,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.2.3.1.dev1": {
+      "wheels": {
+        "odoo13_addon_stock_barcodes-13.0.2.3.1.dev1-py3-none-any.whl": [
+          "fLoYTnH+9vAK1XoXFuIkMLbw5SOW6Lk8VmfOMW1zphI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-stock-storage-type": {
@@ -114114,16 +114146,32 @@
           "mb/WtwM38S1th0iQbUOha7E8vJ/Z9XimWoujE0xqKCw=",
           "cp310"
         ],
+        "QCustomPlot_PyQt6-2.1.1.1-cp310-none-win_amd64.whl": [
+          "tCtpRHm33lLeJ8thnIp/F8VE17oCG3Sh80zS0gaIWMs=",
+          "cp310"
+        ],
         "QCustomPlot_PyQt6-2.1.1.1-cp311-cp311-manylinux_2_28_x86_64.whl": [
           "bpmawcWxvwdVWdsupqLJKSWiWMI1v/fjy4mTgsEpnVk=",
+          "cp311"
+        ],
+        "QCustomPlot_PyQt6-2.1.1.1-cp311-none-win_amd64.whl": [
+          "6z1oN8stNxuJTpCf4iN3Umt7OnJZUjzx4GytegNYbGM=",
           "cp311"
         ],
         "QCustomPlot_PyQt6-2.1.1.1-cp38-cp38-manylinux_2_28_x86_64.whl": [
           "xqzuRD9iSa+F1+JseM65BlFTsKSS/mqqKSNzQwsh3dc=",
           "cp38"
         ],
+        "QCustomPlot_PyQt6-2.1.1.1-cp38-none-win_amd64.whl": [
+          "QgNZ/jeZU72tuvJR4UERmZ8V0so4j6morc8YZXOd1mc=",
+          "cp38"
+        ],
         "QCustomPlot_PyQt6-2.1.1.1-cp39-cp39-manylinux_2_28_x86_64.whl": [
           "8VrGVFDCp0sQvsNk9IofwOegLMTsu52oP0c6hCwAscU=",
+          "cp39"
+        ],
+        "QCustomPlot_PyQt6-2.1.1.1-cp39-none-win_amd64.whl": [
+          "GL7Xm7GA4X5WmxFRiEWsellBJJ9e6RUfgkKbCSd/Obw=",
           "cp39"
         ]
       }
