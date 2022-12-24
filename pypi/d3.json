@@ -10408,6 +10408,18 @@
         ]
       }
     },
+    "1.184.1": {
+      "sdist": [
+        "oGdI1XJpKs9JRma9JHbc9GzVBBnGg7EyDmsChXFZ2vU=",
+        "aws-cdk.aws-fsx-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_fsx-1.184.1-py3-none-any.whl": [
+          "Z5nQeIzDnqIEwuCWAm6QRM9fCWux3KBt/K6uW0ufHbE=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "9BoO92eQHmotbPVv2cqQ7mkJSyI7APoisgs6BVTs5Jw=",
@@ -29727,6 +29739,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.93": {
+      "sdist": [
+        "1mkCnSRc9wmV7hmIZouB4VXC84YBSDldKTpm9H3fSps=",
+        "cortex-data-product-sdk-0.3.93.tar.gz"
+      ],
+      "wheels": {
+        "cortex_data_product_sdk-0.3.93-py3-none-any.whl": [
+          "g4PQMw5OBBaHfpnntjbF7oHytgHjbJMxbYNCpRBtWJ0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.94": {
+      "sdist": [
+        "Hx7Mo9dEaFOWKhOa4ewaIUHCIGDMGFTad7dnYJAIYTM=",
+        "cortex-data-product-sdk-0.3.94.tar.gz"
+      ],
+      "wheels": {
+        "cortex_data_product_sdk-0.3.94-py3-none-any.whl": [
+          "Ln80cmIeFMp1WxhCOl8lpI+z1/rHfFg+4LYmU+kr4+4=",
+          "py3"
+        ]
+      }
     }
   },
   "cosmicpy": {
@@ -43300,6 +43336,122 @@
         ],
         "dbus_fast-1.82.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
           "OO+roBBqRJ57k02GR1HkDl4pISQfFkRpQ1t3/oF5C9M=",
+          "pp39"
+        ]
+      }
+    },
+    "1.83.0": {
+      "sdist": [
+        "ahqWcl8ckRV/q5SrC/Kl3f3w7V+2hRCYBpjYGA9RyEg=",
+        "dbus_fast-1.83.0.tar.gz"
+      ],
+      "wheels": {
+        "dbus_fast-1.83.0-cp310-cp310-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "Qf1m7ZKYhp8TXEOm8i83kNS3Zaalk/tBUyLk2r5vVFI=",
+          "cp310"
+        ],
+        "dbus_fast-1.83.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3t++3nx/w9AmAU5e7a9ntYyRgGyG5DWJbDcGDZr6xsQ=",
+          "cp310"
+        ],
+        "dbus_fast-1.83.0-cp310-cp310-musllinux_1_1_i686.whl": [
+          "NEXy4zd/MNLSTee13TeNGM5xJj7JbJMs0avqU5ZECio=",
+          "cp310"
+        ],
+        "dbus_fast-1.83.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "QBiaX1ePypIlG/7LSibaP3dS8NtStrz/l4RAfUUjLS4=",
+          "cp310"
+        ],
+        "dbus_fast-1.83.0-cp311-cp311-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "gi5Yx9UwuLTceaVP4XGM2nj+q51k6PZiPzoLR3tkQ6M=",
+          "cp311"
+        ],
+        "dbus_fast-1.83.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/FxIrERy7FugWaKelTKNBuIksD1bDV8eHNcYITqjJNA=",
+          "cp311"
+        ],
+        "dbus_fast-1.83.0-cp311-cp311-musllinux_1_1_i686.whl": [
+          "ykqteS3R/OkrxNo1P0JNsxlb1fh1DhyYwn7Um+wPZQs=",
+          "cp311"
+        ],
+        "dbus_fast-1.83.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "1CizS91ut7s1qcp1BTDo72deBW3irUVRvFaFAmThjTU=",
+          "cp311"
+        ],
+        "dbus_fast-1.83.0-cp37-cp37m-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "sFPEwvLKTA8PaSg0a2IfLKx38IwDqM7VMNR8L6pGQIs=",
+          "cp37"
+        ],
+        "dbus_fast-1.83.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8sz5Vjtqkm1G0LVG5XUmVWwkhIEn6Zl6ho540W8VApc=",
+          "cp37"
+        ],
+        "dbus_fast-1.83.0-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "p5wn7Yu3HInFVzmLYbtT1g9NHeHFLDM4a4UE7GWwopk=",
+          "cp37"
+        ],
+        "dbus_fast-1.83.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "lMnsizY5zulGkeV4jW22pbUCg0loiI8ai+OP0MSAbnw=",
+          "cp37"
+        ],
+        "dbus_fast-1.83.0-cp38-cp38-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "XKieQruolU917KUqPy0ePs9rvxnxfFQ94SLM+C2rtls=",
+          "cp38"
+        ],
+        "dbus_fast-1.83.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6ch6sVRqOLWitBcPue7i5A74KWG3FO76RmdPBmslX/E=",
+          "cp38"
+        ],
+        "dbus_fast-1.83.0-cp38-cp38-musllinux_1_1_i686.whl": [
+          "coP/ZHsd/4zb2Y7dqNc8huTWGfd0rVdMcvuMgFa6rfo=",
+          "cp38"
+        ],
+        "dbus_fast-1.83.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "H5tuqXf+64FvXXRXjWescTqBNHJiVxEmk+1oXpdVhdM=",
+          "cp38"
+        ],
+        "dbus_fast-1.83.0-cp39-cp39-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "WxLwGNb+3w/7o9ji0lofQ2xLEAyV2SXmzqjCrOtHX+0=",
+          "cp39"
+        ],
+        "dbus_fast-1.83.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "w0keOOWLwcSuq2eZS1u6bWY8DYmZ06H1quI6/jktYJk=",
+          "cp39"
+        ],
+        "dbus_fast-1.83.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "Qwa4f4hUbZZFtrHM3IY+QQeYwcGtcxLtayEKqKGyPd4=",
+          "cp39"
+        ],
+        "dbus_fast-1.83.0-cp39-cp39-musllinux_1_1_i686.whl": [
+          "Rj6icsNsxV3E07PVXRdzj9BsH4cMXZ8tVyfFBVRGGqU=",
+          "cp39"
+        ],
+        "dbus_fast-1.83.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "bwuedOGQoQqTo4Mckbcom+281R3CCqQybucj6JvxLCY=",
+          "cp39"
+        ],
+        "dbus_fast-1.83.0-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "9sgrwVmBf03tRpynWveb2xuUaZVGIy6otDyAnLGxV8I=",
+          "pp37"
+        ],
+        "dbus_fast-1.83.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "L7nq7Rr5OwIeRea03sD7u6erfeZxDIkN9Iapqi3hhRs=",
+          "pp37"
+        ],
+        "dbus_fast-1.83.0-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "zOJRt+frvbyFirwurteBvaRJmexh7XfGN9oDhOt0oKA=",
+          "pp38"
+        ],
+        "dbus_fast-1.83.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UHKRkf+QRVZvlgFCwbfvKEF4kk/FFNcfkuWpSG2DJn0=",
+          "pp38"
+        ],
+        "dbus_fast-1.83.0-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux_2_5_i686.manylinux1_i686.manylinux2014_i686.whl": [
+          "SkwbygDHt/3kty5PhVPD1C2EWdz0dflKf/2Oq1bmrps=",
+          "pp39"
+        ],
+        "dbus_fast-1.83.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iGl/exYWqpgOWWSNRp7bowpGOTojFVwyRtfipyJLu9Y=",
           "pp39"
         ]
       }
@@ -75130,6 +75282,18 @@
       "wheels": {
         "laygo2-0.5.2-py3-none-any.whl": [
           "HegavXELCbMQ2ug1y2Oloz41RVdDa8K7C6Lr8N1INkE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "sdist": [
+        "mbh6n1ssX1sZOvDTQqICZPC65nuTewAyP2PP+Q1aLU8=",
+        "laygo2-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "laygo2-0.5.3-py3-none-any.whl": [
+          "EOPhEnByBswLyLzYVEHsjdDaQAt06Z/USQyO82cd07w=",
           "py3"
         ]
       }
@@ -144975,6 +145139,32 @@
         "Oupt51+mSrKADQIIdFHdgfTQK+0qvvdeKtkfniUsHgI=",
         "treecompare-1.0.tar.gz"
       ]
+    }
+  },
+  "trendhunter": {
+    "0.0.1": {
+      "sdist": [
+        "mkDezUoMiWm16yM1xuhK+mtvTcTXtwd4DGRCmhGyjck=",
+        "trendhunter-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "trendhunter-0.0.1-py3-none-any.whl": [
+          "iAnYhcsRZuurSirWQ7LgtRXlFuE6i3bUJp+PLcucupk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "ey2rrAOK7oA/IWuU3lP7s0ZnJtLYVwAcPV/0f8DvvCI=",
+        "trendhunter-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "trendhunter-0.0.2-py3-none-any.whl": [
+          "bOoiVKFjot/0MroG3tcfXRT2mgxDudPv3iDPQ9ReLR4=",
+          "py3"
+        ]
+      }
     }
   },
   "trhub": {

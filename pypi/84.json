@@ -18876,6 +18876,18 @@
         ]
       }
     },
+    "2.0.192": {
+      "sdist": [
+        "E+e9ZbuYaDp7hzCtDczphyJ4MzC8BRjsYmcjB7dK2dY=",
+        "cdk-tweet-queue-2.0.192.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.192-py3-none-any.whl": [
+          "2SYupOP8c40vRkv4bvx+llbq/sQDDhOXBq+YQ9kQ7mM=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "wR0sGbRRdjlJzHUmtcNg8WHByLJsKpdbpOXAf0BWwRI=",
@@ -49012,6 +49024,22 @@
         ],
         "graphscope_client-0.19.0a20221222-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "bJJeRYstdVf34o8tXUl840Oqk81cHlhYKloWlo2ezxM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221223": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221223-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mgCmzJdKow3bG8UoygGdW5r46kAhswu6HANSoxjUc8s=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221223-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qKjzICyD9kuA21nbSmBcniIiIWPsSo0/f5u+tsKrleM=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221223-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ajRfVOTtzc5V6eFFWuuyDGnTjDoky0CxOBHVrMilPEY=",
           "cp39"
         ]
       }
@@ -140782,6 +140810,30 @@
       "wheels": {
         "tee_output-0.4.13-py3-none-any.whl": [
           "YxbRK8rMSYxqWFiZTckwP/dpQtz6qmwp7iZgBoiKhYE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.14": {
+      "sdist": [
+        "ytWpoL5pm4JjbVstuymh2mtyBPFe9jLOb2WEhnT0gMY=",
+        "tee-output-0.4.14.tar.gz"
+      ],
+      "wheels": {
+        "tee_output-0.4.14-py3-none-any.whl": [
+          "mFURPkT/2yovKLiVaHBqaS1DksF1xTNSWFb0iJTtbec=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.15": {
+      "sdist": [
+        "NfSQ42JS8URmuXIv0TnR40wAy5jo80SNveOQFYRG5J0=",
+        "tee-output-0.4.15.tar.gz"
+      ],
+      "wheels": {
+        "tee_output-0.4.15-py3-none-any.whl": [
+          "UC+rBkuOFuBNPbzvUWJeW6Ljw2mUHQMd5mvqwJ6gfOM=",
           "py3"
         ]
       }

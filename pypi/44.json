@@ -8428,6 +8428,18 @@
         ]
       }
     },
+    "1.184.1": {
+      "sdist": [
+        "8kzr4W0P27xOjTDCqvjTZUUHHabfon3eM+OvAZTDvtQ=",
+        "aws-cdk.aws-ce-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.184.1-py3-none-any.whl": [
+          "qsLpjwExElDa5EBR4BLN6c4W2J2bF3PVvkqieNrEbwU=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10310,6 +10322,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.56.0a0-py3-none-any.whl": [
           "ImhiMF0/yknwZbC5r37gbZGSKjau0iAS14r0lXASpaQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.56.1a0": {
+      "sdist": [
+        "MCOQw38poYp4M05+OAb0XkaciqKpNADIK0lW9Ph9Ghs=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.56.1a0-py3-none-any.whl": [
+          "ZunHYYkvtI/APngBxyW+P0si1GSW84Tpw79wljQ4LxA=",
           "py3"
         ]
       }
@@ -137116,6 +137140,44 @@
       "wheels": {
         "ts2python-0.6.5-py3-none-any.whl": [
           "h25baA4lCMkBuZsiqa3sHAlu6Tqip/eklEikZfYk1N4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tstring": {
+    "0.0.1": {
+      "sdist": [
+        "bD+XrCxkle0jhnL7foIedp7bGU7TkYvZ9M2bDI+SbXI=",
+        "tstring-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tstring-0.0.1-py3-none-any.whl": [
+          "EcGnIU8G6zspeoGG4Ab4ZuRHMp3zx4+wHkJcFE8Jp/Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "12HzHuAlHWtOaH7abqKxTfTfaLICfHRpPsZVN8opcHQ=",
+        "tstring-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tstring-0.1.0-py3-none-any.whl": [
+          "f0Cv9xhIxdmSyIQDUjF6U/NH8NLRmh0we1QZ13o4khU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "W+/TfmSENnzGLyJXik6dMz4ZRnYrraJ4305p0eSBLMM=",
+        "tstring-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tstring-0.1.1-py3-none-any.whl": [
+          "yXtor1aJmv9/Ibs9skTEKXsYNsUhlcNHqqgOHYiGg7U=",
           "py3"
         ]
       }

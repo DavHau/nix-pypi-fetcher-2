@@ -7849,6 +7849,18 @@
           "py3"
         ]
       }
+    },
+    "2.56.1a0": {
+      "sdist": [
+        "BUYVo1zpIzs6rV/3ZUMN088qAnbPBxT7KR6WtJg8vwI=",
+        "aws-cdk.aws-s3objectlambda-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3objectlambda_alpha-2.56.1a0-py3-none-any.whl": [
+          "fD6n2C/sgE5qk8m1kv1F70/fZoRmIQZyrM2syXi9pDw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdkaws-sns-subscriptions": {
@@ -34286,6 +34298,16 @@
       "wheels": {
         "djatex-0.1.9-py3-none-any.whl": [
           "6xA6rOdPv22ySaGP0PZz5bxhudHvbOMNL3XnteTI5gQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "djongoforeign": {
+    "1.3.6": {
+      "wheels": {
+        "djongoForeign-1.3.6-py3-none-any.whl": [
+          "IpDh+HjpatlwVlGAPS2/fwYX+Y0glDS+pWnRAZ2aOwo=",
           "py3"
         ]
       }
@@ -86453,6 +86475,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo14_addon_mrp_unbuild_subcontracting-14.0.1.0.1.dev4-py3-none-any.whl": [
+          "4lraTSuTIuWfF6TW3Kls1FTqruQMssAOY13ibmO+nxo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-quality-control-mrp-oca": {
@@ -128993,6 +129023,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a2": {
+      "sdist": [
+        "zkM2dSE5C9zVxK6Qf+E5LMQZqP91y38dZIuAAO4+f6c=",
+        "sneks-dev-1.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "sneks_dev-1.0.0a2-py3-none-any.whl": [
+          "9AcPGn6mJ16bRYkK6liq0eZ9iL29Ifp+WbA9ge/indU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a3": {
+      "sdist": [
+        "OC5kQBiHfHppAuJvz8r9R2Vaf2tdesSJ9QqAo1hZMHM=",
+        "sneks-dev-1.0.0a3.tar.gz"
+      ],
+      "wheels": {
+        "sneks_dev-1.0.0a3-py3-none-any.whl": [
+          "EbuUG+nbPuxx2AfyFwiQj8YAtXSo5abW55NdeGVg2Ts=",
+          "py3"
+        ]
+      }
     }
   },
   "snf-simple": {
@@ -139902,6 +139956,14 @@
       "sdist": [
         "WXZZpjMKUxTU+dERbMsikb+1L99I+iLZifS1LHUVfHQ=",
         "tensap-1.2.tar.gz"
+      ]
+    }
+  },
+  "tension": {
+    "0.2": {
+      "sdist": [
+        "9OfPWpi5L+qIWnQdL0ltTUDX83MMsZ1B8wV7YCZQQu8=",
+        "tension-0.2.tar.gz"
       ]
     }
   },

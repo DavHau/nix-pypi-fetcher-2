@@ -6453,6 +6453,18 @@
           "py3"
         ]
       }
+    },
+    "1.184.1": {
+      "sdist": [
+        "YgwmoaSsNcZdtSghBxAr6YsTdVjTGv0+TcsbRmT2aUI=",
+        "aws-cdk.aws-iottwinmaker-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iottwinmaker-1.184.1-py3-none-any.whl": [
+          "HAuZQaOLsbm2jI5EpEb6GKTGk/T5GlktRXAkPy9um08=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoverycontrol": {
@@ -7364,6 +7376,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoverycontrol-1.184.0-py3-none-any.whl": [
           "LALiZn83z+nrvvmLvsiHBW/EcBRImzDimjnzKthmjSM=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.1": {
+      "sdist": [
+        "P2D/Ik0DK6jloatUEmeUQh4cyjY2+2jdhi1oMWxjJus=",
+        "aws-cdk.aws-route53recoverycontrol-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoverycontrol-1.184.1-py3-none-any.whl": [
+          "t2o0TKVdXdCMzBWwDLErnIm4AyMy8GahaG7pQI7MvKI=",
           "py3"
         ]
       }
@@ -125025,6 +125049,20 @@
       }
     }
   },
+  "sanitary": {
+    "0.0.1": {
+      "sdist": [
+        "thfUEPzM9I4Zja8dLDQYLw6LP5+ZAjzrsz2EOPvzpeM=",
+        "sanitary-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sanitary-0.0.1-py3-none-any.whl": [
+          "VMHELZpYWyCL7lq+ZRHpI8+f5OnO1vJYz/7Gtd1TSnI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sanshisantiao-xiongxing-lingxiufa": {
     "2022.8.13.0": {
       "sdist": [
@@ -125112,6 +125150,12 @@
       "sdist": [
         "aadFOF2xmc+8pYXECXJZmnSeVF++m/QhEYFFQhNRKRo=",
         "satnogs_webscraper-1.3.4.tar.gz"
+      ]
+    },
+    "1.3.5": {
+      "sdist": [
+        "J4Y3c8dt0LNZWIPLoFmbRat1JXFw5CK5v+qDmbH60YQ=",
+        "satnogs_webscraper-1.3.5.tar.gz"
       ]
     }
   },
@@ -133395,6 +133439,20 @@
         "ldReM2HZoMta/D8Ebyev03NTWfYZeiRcGJyxPx2eAaA=",
         "sswrap-0.0.4.zip"
       ]
+    }
+  },
+  "stable-diffusion-sdkit": {
+    "2.1.0": {
+      "sdist": [
+        "LmxNm+Joz4h/H5NG6X5vtsRw3grnUNB5x/BD31S+C7w=",
+        "stable-diffusion-sdkit-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "stable_diffusion_sdkit-2.1.0-py3-none-any.whl": [
+          "cAlFKZ4dz0eNatjwoBSeweYyUB4658OjTRGE9RaZzDM=",
+          "py3"
+        ]
+      }
     }
   },
   "stackq": {

@@ -7747,6 +7747,18 @@
           "py3"
         ]
       }
+    },
+    "2.56.1a0": {
+      "sdist": [
+        "YO/9qtSej9YUcPqesFk34Q/AErLVMDQ5dcQGoXYo4xA=",
+        "aws-cdk.aws-sagemaker-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.56.1a0-py3-none-any.whl": [
+          "a+xvUT7MPnlXKq7ERbeU1I3jhyLhuKZDXTx5nGXdY+E=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -9294,6 +9306,18 @@
       "wheels": {
         "aws_cdk.aws_workspaces-1.184.0-py3-none-any.whl": [
           "Ng1Eq18hHRTwOME9dWVR05UMazdjP3ehuKxFE59VMmI=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.1": {
+      "sdist": [
+        "0lsF07AsUlDttdxn4cgDcZjP8q7ohBWD0Gdv87VQxG4=",
+        "aws-cdk.aws-workspaces-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.184.1-py3-none-any.whl": [
+          "o6y4E0HQ8r4AVwLFxlr81Pa5pkQa3+pk20sMHOpEY6c=",
           "py3"
         ]
       }
@@ -59558,6 +59582,14 @@
       "wheels": {
         "imutil-0.3.3-py2.py3-none-any.whl": [
           "HkRkDJUG1LEEmfxrZaiKLVFBtghNCoop8xKYNXUVZIM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "wheels": {
+        "imutil-0.3.4-py2.py3-none-any.whl": [
+          "2MgATDN+UeFZ7VLkMED57NMs/OsK1u/o+M9dixAg1LY=",
           "py2.py3"
         ]
       }

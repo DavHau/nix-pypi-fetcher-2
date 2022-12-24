@@ -8568,6 +8568,18 @@
         ]
       }
     },
+    "1.184.1": {
+      "sdist": [
+        "ZqVtOnepTUV0PHY7Z8EWKBctto0ynoIHFgloYUsLxwA=",
+        "aws-cdk.aws-appmesh-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appmesh-1.184.1-py3-none-any.whl": [
+          "IC8WkcAWdwHLEH6J7una0dMrfsAUprp0+yxF8V5I0WM=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "vSvYOfs8x1Af8zcnT+OOdJ+tLdgudC1YlBvkeYBKJ8A=",
@@ -105513,6 +105525,46 @@
           "cp39"
         ]
       }
+    },
+    "0.2.8": {
+      "wheels": {
+        "pylance-0.2.8-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "buPF5AKhGHI0sW8LpT15W4jV0dryaLEjbVyQjNHl+ZA=",
+          "cp310"
+        ],
+        "pylance-0.2.8-cp310-cp310-macosx_11_0_arm64.whl": [
+          "i06cKGLb5fVTb6NNSnCr9f/Lf1SPWxJt96KfWKaOd+M=",
+          "cp310"
+        ],
+        "pylance-0.2.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t6PlY0RoTfToPawDuQ9lymMh488IIILsIrzVBBwegDg=",
+          "cp310"
+        ],
+        "pylance-0.2.8-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "jsqW+m0caL9dLlbLh7w7sDZYIEEXto55XBkt7EvAzQk=",
+          "cp38"
+        ],
+        "pylance-0.2.8-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Ky91WmdvyzoeYkQuREQfui7UE6lkfs8GK4HI6sNIMCw=",
+          "cp38"
+        ],
+        "pylance-0.2.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2+L4raM6vRVI89tmmOXfIyyrWkYeAEdB/yi1DxXrMsc=",
+          "cp38"
+        ],
+        "pylance-0.2.8-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "QDJ/3maifz2exfv14wASwmqW6L9RyeY55rz8cNpai1w=",
+          "cp39"
+        ],
+        "pylance-0.2.8-cp39-cp39-macosx_11_0_arm64.whl": [
+          "hKf3HXI2oTrOPtoxTfUDcYp5jLIjBkZJ6XxNw4axvuI=",
+          "cp39"
+        ],
+        "pylance-0.2.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/h7LWAmNGrlDyYltEFsTOhjNCYE82FkVjCYISadlok0=",
+          "cp39"
+        ]
+      }
     }
   },
   "pylibsass": {
@@ -129988,6 +130040,18 @@
       "wheels": {
         "sqlglot-10.2.10-py3-none-any.whl": [
           "0aXZIuFPpxGzOlYetU6Xq6rSlDa28EjiVNXnCR1uFc0=",
+          "py3"
+        ]
+      }
+    },
+    "10.2.11": {
+      "sdist": [
+        "LvsE5ixcS6o0sSgbvTFbhJqsvVaQK/kDBKXKiTN3+sQ=",
+        "sqlglot-10.2.11.tar.gz"
+      ],
+      "wheels": {
+        "sqlglot-10.2.11-py3-none-any.whl": [
+          "ZWonvwVEnUM5vCVZ4/xcNefeFJ0udBWFgSrdbO6RXv0=",
           "py3"
         ]
       }

@@ -14777,6 +14777,30 @@
           "py3"
         ]
       }
+    },
+    "99.2": {
+      "sdist": [
+        "wAvPFTFlAlqzPw1lY+bii7vmmW0yXQvSUxFLkwf71Vk=",
+        "always_updates-99.2.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-99.2-py3-none-any.whl": [
+          "sFEA3S/yrrDn06T63keaP4QNoQZ2tV5qPbQ7qyPfQdk=",
+          "py3"
+        ]
+      }
+    },
+    "99.3": {
+      "sdist": [
+        "U3u8ADrEYuCCqS5UnOxhAoXXTCFho1Fjlicn9Q83zzs=",
+        "always_updates-99.3.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-99.3-py3-none-any.whl": [
+          "zGIcRWnqH+UevMoLxdolhD+LmaVQJ+PEe/tmZXgpkXk=",
+          "py3"
+        ]
+      }
     }
   },
   "amr-crypto": {
@@ -19832,6 +19856,18 @@
       "wheels": {
         "aws_cdk.aws_applicationinsights-1.184.0-py3-none-any.whl": [
           "xtWk2Tam3KIW3VPm1Qp8lZbW+ncRcem8MPVRVWaS4Ek=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.1": {
+      "sdist": [
+        "QGUxiWQccSBuQXs5RdeQj/PpBQ8OxWr87Kj+RMVGBUM=",
+        "aws-cdk.aws-applicationinsights-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_applicationinsights-1.184.1-py3-none-any.whl": [
+          "nS+ckRZig0ZpF/W9J5zP7oW5NIMt2eRKxDuZJTtbgag=",
           "py3"
         ]
       }
@@ -25756,6 +25792,18 @@
       "wheels": {
         "boto3_stubs_lite-1.26.36-py3-none-any.whl": [
           "361GGmOOP21rxjPbkU9LbEe2h9bX01dKwF8bqFFGfEw=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.37": {
+      "sdist": [
+        "wPqzmCplmX4H+52bAEzlJQfjQnXe0m5WSq/syU1GIKY=",
+        "boto3-stubs-lite-1.26.37.tar.gz"
+      ],
+      "wheels": {
+        "boto3_stubs_lite-1.26.37-py3-none-any.whl": [
+          "PnUp4nqPOMCHSI2KPAD+0icUf72HCY4uFaz8GVcr6f4=",
           "py3"
         ]
       }
@@ -40913,6 +40961,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1b1": {
+      "sdist": [
+        "Dn45wQUfZcFNAleSl6kaPQpW1QczjFIfqtpPTN7LxMY=",
+        "djangocms-zb-organizations-2.1.1b1.tar.gz"
+      ],
+      "wheels": {
+        "djangocms_zb_organizations-2.1.1b1-py3-none-any.whl": [
+          "Sr7qB9f4jJd/NiT/Tx1dciddqyHJzvLnHAXC0CACJXM=",
+          "py3"
+        ]
+      }
     }
   },
   "djangoctl": {
@@ -43519,6 +43579,20 @@
         "bpE+q0fDz+cYqENSwdjurXY50Wmj+kUN3yvOC4tX3Yo=",
         "dstream_excel-0.4.6.tar.gz"
       ]
+    }
+  },
+  "duty-board": {
+    "0.0.1a1": {
+      "sdist": [
+        "JzibHH/L0+mWpI+LgTJH2EF0GiZavqlh//aZifwgLfg=",
+        "duty-board-0.0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "duty_board-0.0.1a1-py3-none-any.whl": [
+          "VtTOqxpKWDkHrzB7eUUbGQwJdRh8llIUs8qYzPiSiBo=",
+          "py3"
+        ]
+      }
     }
   },
   "dwave-samplers": {
@@ -88319,6 +88393,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_brand-16.0.1.0.1-py3-none-any.whl": [
+          "Z8JlxD7qbWSy0O8ZNHSnoHV8uOaV3JTIYbz2TIO5cUk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-connector-jira": {
@@ -116108,6 +116190,30 @@
       "sdist": [
         "JZRFXsul1P0WqV56jJis7BLB87bQt73mUrre3MyNtQk=",
         "robotframework-Datum-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "qUVsI2kVXMYYW+ItdcIdRviYxMCpIKY9XPMizsPMV6U=",
+        "robotframework-Datum-1.0.6.tar.gz"
+      ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "cjIeom72WEHlZXYDNYVsuIEtImfs7G6w5S7AjUoOzxM=",
+        "robotframework-Datum-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "wQNbPB+22DhQ5bo5SemXLRVl7KTfJ80LcNz7vT9J/rE=",
+        "robotframework-Datum-1.0.8.tar.gz"
+      ]
+    },
+    "1.0.9": {
+      "sdist": [
+        "QcZ//6zd1c6fx27rENipkgmRdfNGWX4YC7tlqey6QHA=",
+        "robotframework-Datum-1.0.9.tar.gz"
       ]
     }
   },
@@ -148636,6 +148742,12 @@
       "sdist": [
         "vg5xdc50qkkybXlLQ9gu9fkVN+N7TWNLvglTXHJcUtk=",
         "xtable-1.1.2.tar.gz"
+      ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "m2hiF+Z29zYA8dYbGM5SfHMD2Zu5h4dm0x3hlkQa6Tc=",
+        "xtable-1.1.3.tar.gz"
       ]
     }
   },

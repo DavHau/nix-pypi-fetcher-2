@@ -6306,6 +6306,18 @@
         ]
       }
     },
+    "2.56.1a0": {
+      "sdist": [
+        "D1Sz0HF2DqeZU5aTqfFt1ML4pCmdPsh8JpLg7/NNo0Y=",
+        "aws-cdk.aws-apigatewayv2-integrations-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations_alpha-2.56.1a0-py3-none-any.whl": [
+          "vLD0sfhWD5p2GmWqaOFUumd1AJRj9lQ3A5nkhq5BIjs=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "l5XPOm2FEuGBFG/NdqBBkMNj1jgzQkmSjDy/O6JrZ2k=",
@@ -7900,6 +7912,18 @@
       "wheels": {
         "aws_cdk.aws_dms-1.184.0-py3-none-any.whl": [
           "dWXT2wiU8UVanWRn24I/cwxFESv3grj4Bo1OI6KQ62g=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.1": {
+      "sdist": [
+        "l01d5+SJN+anO8Vl5u8fX9fQ8oKyoECNuKuTYI7D3xw=",
+        "aws-cdk.aws-dms-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dms-1.184.1-py3-none-any.whl": [
+          "g8pYR4nhuhwrMPDqWL56U/5+9HammOkme1hIS/8Ma7I=",
           "py3"
         ]
       }
@@ -71955,6 +71979,20 @@
       }
     }
   },
+  "musicgenerator": {
+    "0.1": {
+      "sdist": [
+        "2mABS6rL1tzqWaHlAH67pFnk2NJsITrYnmYGawLoeZI=",
+        "MusicGenerator-0.1.tar.gz"
+      ],
+      "wheels": {
+        "MusicGenerator-0.1-py3-none-any.whl": [
+          "nnywADg3M0iZhpfiCCokp4xSt9mOBiEftrX5mU+e1xc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mutwo": {
     "0.1.0": {
       "sdist": [
@@ -80101,6 +80139,34 @@
           "cp39"
         ]
       }
+    },
+    "1.164.0": {
+      "sdist": [
+        "WVB2TeqmKQHTLaQI1NberD82X/8u9rTSk2Vy5mc8YcI=",
+        "nautilus_trader-1.164.0.tar.gz"
+      ],
+      "wheels": {
+        "nautilus_trader-1.164.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "3UiXLKOTfQwAjrEXXkQOfGK8gCPegMj0jvYhfe3NGCU=",
+          "cp310"
+        ],
+        "nautilus_trader-1.164.0-cp310-cp310-win_amd64.whl": [
+          "v6HmUBI6+rvy//o8GiMNrMqdycKqa49Y0iH/OMNzJmU=",
+          "cp310"
+        ],
+        "nautilus_trader-1.164.0-cp311-cp311-win_amd64.whl": [
+          "A7WeiLGkh1gPr1ugOLKfDePOK6q192/q3V6ft5LlBaw=",
+          "cp311"
+        ],
+        "nautilus_trader-1.164.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "5AYIryJeXVyn7LvTHgalb0wF7kPkbQqGiSD9joGCTrY=",
+          "cp39"
+        ],
+        "nautilus_trader-1.164.0-cp39-cp39-win_amd64.whl": [
+          "QZBXhQ4VHb/lITH6TJpKI55lRq9SM+y2Fjx9/fknoOg=",
+          "cp39"
+        ]
+      }
     }
   },
   "nb-code-formatter": {
@@ -83547,6 +83613,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "XtNuzw7BVy6WwOP7KhPwDsEJJHZyxIvZ19AU1F9r5Rw=",
+        "nomadnet-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "nomadnet-0.3.1-py3-none-any.whl": [
+          "cltwF9YNSfpEpCUIbEqscd4hQY33c1w++muYc3/rQGo=",
+          "py3"
+        ]
+      }
     }
   },
   "northstar-epe-planner": {
@@ -84356,6 +84434,14 @@
       "wheels": {
         "odoo_addon_maintenance_plan-15.0.1.2.0.1-py3-none-any.whl": [
           "5VNgMU53f+K036+bb8M+brTZD8ltxd+OgoPO11Qv0Dg=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.2.0.2": {
+      "wheels": {
+        "odoo_addon_maintenance_plan-15.0.1.2.0.2-py3-none-any.whl": [
+          "3GZzZMKjxo22JeiQ/KqUCRIpI8V0hqAesUMMxXP5JZ0=",
           "py3"
         ]
       }
@@ -140207,6 +140293,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "IO4lnJpEp0i8hAqu+RN4JFw5KXqhGRpx/CH2YcKdlpg=",
+        "tgc-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "tgc-1.0.4-py3-none-any.whl": [
+          "sKH/rTVXfo8HpCt9jZdcKBXJmKOSBkD8ItGrGleMQ98=",
+          "py3"
+        ]
+      }
     }
   },
   "the-sims-freeplay-hack-get-free-simoleons": {
@@ -153398,6 +153496,32 @@
       "wheels": {
         "zensols.mimicsid-0.0.1-py3-none-any.whl": [
           "1c5Gvlr3J6c4tzTCdCLb2fM8Wb7JQ5ets43NKREdkoc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zeversolar": {
+    "0.1.0": {
+      "sdist": [
+        "6kSghy9qAlMNMRbi0qb/HoiyU2mEcbOL7BZ+iBYUzfM=",
+        "zeversolar-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "zeversolar-0.1.0-py3-none-any.whl": [
+          "8j+Ueb7bYFnL8WFioxzcCSIyd41qaR1pmcsxcCFTblk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "uQNrGTvOHELSq1bJFJ5PwSBsE+f+q+McVQsiq2LfI98=",
+        "zeversolar-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "zeversolar-0.2.0-py3-none-any.whl": [
+          "dWqZHXcnPiJPrl5ncbxUtUID+Os2Uunc38Xt6zr+lns=",
           "py3"
         ]
       }

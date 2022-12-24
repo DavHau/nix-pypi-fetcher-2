@@ -11368,6 +11368,18 @@
         ]
       }
     },
+    "2.56.1a0": {
+      "sdist": [
+        "B8VkqA4uDPdIAxEIzB2KRVkwAEw8Nch/nXc+waLlLMc=",
+        "aws-cdk.aws-apigatewayv2-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_alpha-2.56.1a0-py3-none-any.whl": [
+          "lZ+HP90m2Hc/u6DoUP4PPHFmHM5cDoWkjNCY0XJ+5Lw=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "bjK8z9JHA9oJa7tP2FjSRziPM5wjT7FAdGNih6RYAf0=",
@@ -12338,6 +12350,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisfirehose_destinations-1.184.0-py3-none-any.whl": [
           "YfViDQC88VNOGij00CvisWcsR+OO+ixwCFOrK4XX5lU=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.1": {
+      "sdist": [
+        "mLj2/vw7nbqR8M9uNPReqDrNEEnAu1XlN5MLgjfzNUM=",
+        "aws-cdk.aws-kinesisfirehose-destinations-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose_destinations-1.184.1-py3-none-any.whl": [
+          "F10aQh2bbN7VsmNBhUSL6ukxjGfBG6M9QX07GagnGgE=",
           "py3"
         ]
       }
@@ -19766,6 +19790,18 @@
       "wheels": {
         "cdk_fck_nat-1.0.84-py3-none-any.whl": [
           "KNsCQaIaGjwfStnchIuJ/CBzhEZ1Iu2B7HBxLAIfg5s=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.85": {
+      "sdist": [
+        "J4JqsPpmZn+NZClH4w7neYejOnmdQvb5JBN9ViY2nK8=",
+        "cdk-fck-nat-1.0.85.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fck_nat-1.0.85-py3-none-any.whl": [
+          "6P/ETE2Oas8Ru5WEbULxuKIjIrMA+4o1tdiGXjCwmNU=",
           "py3"
         ]
       }
@@ -27664,6 +27700,18 @@
       "wheels": {
         "cdk_nag-2.21.40-py3-none-any.whl": [
           "fEtNX4vjkOnqRqIUxd+C96n3R3PHR+ctfU+FEMrqAjw=",
+          "py3"
+        ]
+      }
+    },
+    "2.21.41": {
+      "sdist": [
+        "9HtLLdlajZxH+XfJBODa/sIKQA17oav5Khj+mj+UNFk=",
+        "cdk-nag-2.21.41.tar.gz"
+      ],
+      "wheels": {
+        "cdk_nag-2.21.41-py3-none-any.whl": [
+          "GbRjnXYmXflBuFrn4NLe/Nc2Om7pfSf86Wq8zCF6Vug=",
           "py3"
         ]
       }
@@ -65856,6 +65904,18 @@
       "wheels": {
         "gmprocess-1.2.2-py3-none-any.whl": [
           "wt1wcFoWjUDfZqLoA2aea6c5llvZL7mrup+yg849fHU=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "nJeGqsZgPbPCnZZKNdVRs/PM44TfeoycmtHj0BivJrI=",
+        "gmprocess-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "gmprocess-1.2.3-py3-none-any.whl": [
+          "cwNTXrXqAJXgRhIaKX/o2I9cwG7Qcuugc/46qbU6cVw=",
           "py3"
         ]
       }
@@ -111119,6 +111179,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.9": {
+      "sdist": [
+        "JVmQA3rrRCjBSURKV3TIAIJieXzDf40Ph85LJWVEAjU=",
+        "npgcs-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "npgcs-1.0.9-py3-none-any.whl": [
+          "hRfqyuXUCEBpSoofb0kRNdbC7d0hylQ6u980uxz1qSw=",
+          "py3"
+        ]
+      }
     }
   },
   "nplusone": {
@@ -143085,6 +143157,18 @@
           "py3"
         ]
       }
+    },
+    "1.2": {
+      "sdist": [
+        "NfcpqoiE8zfGDz7qduyvs7ekJ38ECENl4mVIr2H3IB0=",
+        "skodaconnect-1.2.tar.gz"
+      ],
+      "wheels": {
+        "skodaconnect-1.2-py3-none-any.whl": [
+          "tGhXRwbPSlwJ37q5AwigsNB340WZhy3vL4MWKpK1llY=",
+          "py3"
+        ]
+      }
     }
   },
   "skoopy": {
@@ -146344,6 +146428,12 @@
       "sdist": [
         "l39pHAir0UxImONrbfdzzk2aA+WglMqsiocQ+dl+gjc=",
         "surfa-0.3.6.tar.gz"
+      ]
+    },
+    "0.3.7": {
+      "sdist": [
+        "3f2C+wLdKOut6CsQ2lMgJWqY7idNXF6abXRIb6LwyaY=",
+        "surfa-0.3.7.tar.gz"
       ]
     }
   },

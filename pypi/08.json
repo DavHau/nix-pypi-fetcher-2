@@ -5693,6 +5693,18 @@
           "py3"
         ]
       }
+    },
+    "1.184.1": {
+      "sdist": [
+        "0lKhjS9obmLmurYnpjmzLXYesovxqAEfcS+Lhh+T8uE=",
+        "aws-cdk.aws-connectcampaigns-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_connectcampaigns-1.184.1-py3-none-any.whl": [
+          "AjeG3AlREkiBv03nqnX6+HduxWrInawrcfqD8/hC2o4=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-synthetics-alpha": {
@@ -6688,6 +6700,18 @@
       "wheels": {
         "aws_cdk.aws_synthetics_alpha-2.56.0a0-py3-none-any.whl": [
           "6K3G0BOg16qNLUM/DSL6u22MYGvxOgtCalZjBx9Vxfw=",
+          "py3"
+        ]
+      }
+    },
+    "2.56.1a0": {
+      "sdist": [
+        "xIHMuWTsaL+QtJn++C3H0cv8h2m5CSCRLUFg8Kaa9+o=",
+        "aws-cdk.aws-synthetics-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_synthetics_alpha-2.56.1a0-py3-none-any.whl": [
+          "QKl4XTdtz+5wh11EX+WJ7KY5tL5YyeZOezGPyizWr48=",
           "py3"
         ]
       }
@@ -30028,6 +30052,18 @@
       "wheels": {
         "cdktf_cdktf_provider_docker-4.0.1-py3-none-any.whl": [
           "wDBFMPWvND++IUlOygMaoF0n7Xdt0DKfs4mVxP28PUM=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.2": {
+      "sdist": [
+        "s1LYtN3VHGI+2ANpBn95XEXe3pDqt/EMYLlGadqgoyk=",
+        "cdktf-cdktf-provider-docker-4.0.2.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_docker-4.0.2-py3-none-any.whl": [
+          "eQVzThaB6c70GRpkMThx6TOMQrmkfGzCc05xqjGQBV8=",
           "py3"
         ]
       }
@@ -55081,6 +55117,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "a9AhJ6fAIADTCi5n3gJeleSc2Eqlw5Mm9L0PVCbtkbU=",
+        "forensicface-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "forensicface-0.0.4-py3-none-any.whl": [
+          "jELueenw4b1VeZpVph8VmXxpNr0Rs17DGqN9VJQMbpU=",
+          "py3"
+        ]
+      }
     }
   },
   "frarch": {
@@ -68799,6 +68847,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "sK6z9ktMC9CxbK1am1I7cWQJEn6BuYFaMwtQmGwK3ek=",
+        "jtree-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "jtree-0.2.1-py3-none-any.whl": [
+          "VK2Di0yWM0+HNBKOiU+auxhH8ws5pdUX/EPFtevP/hY=",
+          "py3"
+        ]
+      }
     }
   },
   "juice-client-capacity-async": {
@@ -74574,6 +74634,18 @@
       "wheels": {
         "light_the_torch-0.5.0rc0-py3-none-any.whl": [
           "zidrJTt3vut8geM8NuXKN8tfpIlA7MWKLwkerh6DOL4=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "dFrCoUxHfLwVX6zNm/BZ3oV99rFWo4eW9N7r1UAm26A=",
+        "light_the_torch-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "light_the_torch-0.6.0-py3-none-any.whl": [
+          "DD0fPeGRcZR8MSlJWW+55kYQJTHHkQz2NHdqRBxN4Ps=",
           "py3"
         ]
       }
@@ -131165,6 +131237,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.2.5": {
+      "sdist": [
+        "NHYbrhojxYGSKBpRFfsH+/IsmwEzwIFmvv/HD+0+vBI=",
+        "supervisor-4.2.5.tar.gz"
+      ],
+      "wheels": {
+        "supervisor-4.2.5-py2.py3-none-any.whl": [
+          "Lsrt4y/CWvgUaWN0t55CZE7KulwJSUxRAW/9qWAtDwg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "surprise": {
@@ -132210,6 +132294,20 @@
       "wheels": {
         "tasks-2.8.0-py3-none-any.whl": [
           "lLaiCyeQcXEC4ZTYri2lqE7gz1CVifN9QZIygjepBTo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "technology-note": {
+    "0.0.1": {
+      "sdist": [
+        "3r2T7xzT+NI3UzqbwilbEtgf/kPXoxzALFneOdKZk34=",
+        "Technology-Note-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Technology_Note-0.0.1-py3-none-any.whl": [
+          "kelyLHHa1O+MTRNfow5c7u98fCQu4CakqigooU4mA1s=",
           "py3"
         ]
       }

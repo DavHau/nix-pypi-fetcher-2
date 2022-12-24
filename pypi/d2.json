@@ -19330,6 +19330,18 @@
         ]
       }
     },
+    "2.56.1a0": {
+      "sdist": [
+        "HBj5GLYmuTbr6dXnKHSH9XUknMHhubkSsRdsvuBTXRk=",
+        "aws-cdk.aws-lambda-python-alpha-2.56.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_python_alpha-2.56.1a0-py3-none-any.whl": [
+          "miczApO1C3HWuZO7LqT6ZY46wJzzCjyyy+dF95Lazk8=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "0/whI2HuU435oTCAjfa2VTtbT4ldc+C69NXL88xCx3c=",
@@ -20480,6 +20492,18 @@
       "wheels": {
         "aws_cdk.aws_xray-1.184.0-py3-none-any.whl": [
           "lcsDH96xTlXT2PlJc5Ry+PnpGVU+3lywG7sFsIkCbfw=",
+          "py3"
+        ]
+      }
+    },
+    "1.184.1": {
+      "sdist": [
+        "VUugqa3E/FQUW9b1/1vqz1ChJcmQjHXAHAUOfcYeK3M=",
+        "aws-cdk.aws-xray-1.184.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_xray-1.184.1-py3-none-any.whl": [
+          "p6ZrdZNJtpX1Onr1/JKl+eE7CSbCmLRoTDX0YLOKoYg=",
           "py3"
         ]
       }
@@ -43613,6 +43637,12 @@
         "IoW2FMGjdJ3bWAAD4yyF1wbxGgwIzPCDh5c5yF51+H0=",
         "dtiplayground-0.5.3b2.tar.gz"
       ]
+    },
+    "0.5.4b1": {
+      "sdist": [
+        "NFFhKzHH6FKPEmIpQ0J4BOCd/CUbIsxUt+PFOmhnMK4=",
+        "dtiplayground-0.5.4b1.tar.gz"
+      ]
     }
   },
   "dulwichtest": {
@@ -53904,6 +53934,14 @@
       "wheels": {
         "gitlab_api-0.1.1-py2.py3-none-any.whl": [
           "jbtnPn5F7rmH36f/w+y7Riy7Oobin/btBqkYpZTrL0c=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "gitlab_api-0.1.2-py2.py3-none-any.whl": [
+          "RtC6EoFrcaJGfCH6AgSC9ioCNV2N+PAPh1EAobRQQuM=",
           "py2.py3"
         ]
       }
@@ -92643,6 +92681,16 @@
       }
     }
   },
+  "odoo-addon-mrp-bom-attribute-match": {
+    "15.0.1.0.0.9": {
+      "wheels": {
+        "odoo_addon_mrp_bom_attribute_match-15.0.1.0.0.9-py3-none-any.whl": [
+          "Lnl2azBaMSfn6cU3XAj0F6mF6ia0E+LvnnBCL0TLNV8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-account-banking-sepa-credit-transfer": {
     "10.0.1.0.0": {
       "wheels": {
@@ -108242,6 +108290,18 @@
       "wheels": {
         "profit-0.5rc0-py3-none-any.whl": [
           "AF2SFQWQAtUhsJVZc1D4q9Aa/mjDtiUNtkpxkRPhFX0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6": {
+      "sdist": [
+        "ki506mroNKS8GL+570ZpcLqYGlh5HP2m06cxWJ5y1Mk=",
+        "profit-0.6.tar.gz"
+      ],
+      "wheels": {
+        "profit-0.6-py3-none-any.whl": [
+          "iSyhDLiSMlvgaL/6qqVm/6mS7/0MK2BS0YnrG9+rQBE=",
           "py3"
         ]
       }
@@ -132644,6 +132704,18 @@
       "wheels": {
         "rsack-0.7.0-py3-none-any.whl": [
           "ePguSPihN6HLnF1hB6bWQXf3OZXleneCBIdp21IuCio=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "82bVqpzH/k7uVwB16Z8OqWvukgprakZdzh9eZ/iKy34=",
+        "rsack-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "rsack-0.7.1-py3-none-any.whl": [
+          "RxKXj8sxs+61oouWSyGUh8gyiswG+kt3l5MpY51V6fM=",
           "py3"
         ]
       }
