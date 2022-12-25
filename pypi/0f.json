@@ -2045,6 +2045,12 @@
         "QpeQFEupgxLduEgKYklnldCQJvi2NZYOWg85EnWUr9U=",
         "aiothornode-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "+cWaGo55Ou6ApmT+0S9n8rFnEVdlWNfF6H55IDw/Ms8=",
+        "aiothornode-0.1.5.tar.gz"
+      ]
     }
   },
   "aiowatcher": {
@@ -92073,6 +92079,16 @@
       }
     }
   },
+  "odoo-addon-pos-payment-terminal": {
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_pos_payment_terminal-16.0.1.0.1-py3-none-any.whl": [
+          "vi/BQsvOhZ86yDQALAqO4HCMo9YQFYmMabn8xRcwc+U=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-account-asset-management-method-number-end": {
     "10.0.1.0.0.99.dev2": {
       "wheels": {
@@ -127376,6 +127392,30 @@
       "wheels": {
         "sdss_drift-0.4.5-py3-none-any.whl": [
           "rdphh5epzKL1DsRs8kbWLdpguPsN7ENuFQYH98jRAxA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "1Fk1RDJ5dnjN3U9pvEsd4R7Vkl+uVtJCAV5N/akJVJA=",
+        "sdss_drift-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sdss_drift-1.0.0-py3-none-any.whl": [
+          "2sMtrn76xbZX5dqrHFr5h0Mk+pv1txFubbg1wGUiYL0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "kLCTuAy1kEH/GYdaoPUD7+9cBoEX1A1ITctofMuE5OU=",
+        "sdss_drift-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sdss_drift-1.0.1-py3-none-any.whl": [
+          "CFEZ6rzmCuWoSNAcm5GAspmI+FfBf0VKarBK7RRv6Vo=",
           "py3"
         ]
       }

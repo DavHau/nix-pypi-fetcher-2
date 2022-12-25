@@ -43661,6 +43661,18 @@
           "py3"
         ]
       }
+    },
+    "7.0": {
+      "sdist": [
+        "5ZzR6gmm8soi4UY7t93QkvYFpqJMtprNIho+nZGOeJk=",
+        "exonwebui-7.0.tar.gz"
+      ],
+      "wheels": {
+        "exonwebui-7.0-py3-none-any.whl": [
+          "1HODyfvYVVJzvzezW8Qs56ugJZLJHEiiPKZalZl+b04=",
+          "py3"
+        ]
+      }
     }
   },
   "external-data-structures": {
@@ -50712,6 +50724,18 @@
       "wheels": {
         "galactory-0.7.0-py3-none-any.whl": [
           "mGOSMR69vT4eKgrS3VrtRfoh+csIht0JLHX8YYL9eBM=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "AW1sp0NK1ELGDwIxh4DutsQOInaaiYyZw71im33cno4=",
+        "galactory-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "galactory-0.8.0-py3-none-any.whl": [
+          "KSBl1/dgotZ79gKvXvwjPgztAWNSZjjR1KboNREzao0=",
           "py3"
         ]
       }
@@ -136103,6 +136127,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.7": {
+      "wheels": {
+        "webezyio-0.1.7-py3-none-any.whl": [
+          "PSMl+rRb/CL650JkJeW3QDN+w4wsMLntJxInVqO2IxI=",
+          "py3"
+        ]
+      }
     }
   },
   "webmon": {
@@ -137636,6 +137668,34 @@
         ],
         "xia_user-0.0.12-cp39-none-win_amd64.whl": [
           "S+1kKYM25B9e8su1C0epsUGRZCh5zIxJtTnbj8cdasM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.15": {
+      "wheels": {
+        "xia_user-0.0.15-cp310-none-macosx_11_0_x86_64.whl": [
+          "8BBS3v0QVmHqdppnGZXZFDDlpRiv6hTymaRolyuKuGg=",
+          "cp310"
+        ],
+        "xia_user-0.0.15-cp310-none-manylinux1_x86_64.whl": [
+          "ONSi0BF+KoxT3U6sKsLZd4wbxBkW72942KqgVVLU4Fg=",
+          "cp310"
+        ],
+        "xia_user-0.0.15-cp310-none-win_amd64.whl": [
+          "whUA6YHbE0maV2o9G+GySdNyTrUqnCVcb1V3h9xFe7g=",
+          "cp310"
+        ],
+        "xia_user-0.0.15-cp39-none-macosx_11_0_x86_64.whl": [
+          "fG5hSZRZ9k9hO1JYUpC/L3xNoOC9NBDgW7HmWXsItVk=",
+          "cp39"
+        ],
+        "xia_user-0.0.15-cp39-none-manylinux1_x86_64.whl": [
+          "SZVRzbmDMHBNcmdIkyXlARYiVox/GzxGOBgGKUFeflw=",
+          "cp39"
+        ],
+        "xia_user-0.0.15-cp39-none-win_amd64.whl": [
+          "qrev1Bdm/TWkm16GfJYFSbK8k2jcTNa7U/CeNCJy5EM=",
           "cp39"
         ]
       }

@@ -4693,6 +4693,44 @@
       }
     }
   },
+  "apg-py": {
+    "1.0.0": {
+      "sdist": [
+        "TB5S5HAR0C4enrfSwLBCnS6jyR++DIc9noa5Oi8Z4ZI=",
+        "apg_py-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "apg_py-1.0.0-py3-none-any.whl": [
+          "EDoI2cI155wezHzqjU9/p7/A35RtdGbAtmrgnnvNf3c=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "a0vSu4zf9w5oKUQargq26Gdb7tx5+lKbv3kt94+vwZQ=",
+        "apg_py-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "apg_py-1.0.1-py3-none-any.whl": [
+          "A2eJfreFbeokcL6tqfEIEzfbqtyulEEPwX9K4jhigC4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "FhPl1U6o6LtZfPvKmLM9lpL+o0gb82fAQbglYIQAN4k=",
+        "apg_py-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "apg_py-1.0.2-py3-none-any.whl": [
+          "007We3o33DrJMvc8J7RWiY9E5hJct7a5rUVaDke/Ilw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aptiviti-odbc": {
     "1.0.0": {
       "wheels": {
@@ -56474,6 +56512,42 @@
         ],
         "dlib_bin-19.22.0-cp39-cp39-manylinux2010_x86_64.whl": [
           "KXfU+Gp7nt/nD+qh61/fLv8oHe1n25XhaMJDxxw4Ab4=",
+          "cp39"
+        ]
+      }
+    },
+    "19.24.0": {
+      "wheels": {
+        "dlib_bin-19.24.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "z0nvEXcnoUn9TDvOJyj4J7qPudZISNOX9cWhB7qNMQ0=",
+          "cp310"
+        ],
+        "dlib_bin-19.24.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tll51RVBLsObjDSyZM+zmt36UMhZqIbIS5r+bT9qqz8=",
+          "cp310"
+        ],
+        "dlib_bin-19.24.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "MfGMEqNhIqrEY3YVU8Hsnuscd7i5vDywMxI/9V6qTWg=",
+          "cp37"
+        ],
+        "dlib_bin-19.24.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KdmXcVI6Ue5FOKTJQUB9RYzy+KbSm7E88QJMVpgMVfQ=",
+          "cp37"
+        ],
+        "dlib_bin-19.24.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "C9dgFhkP9GASDfEXFa8Y6o+F9h+0aonFoqCQI2fDmDQ=",
+          "cp38"
+        ],
+        "dlib_bin-19.24.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pD8n7V7dD+sWcboeiA6hdNVHv9SDydB3nSuFBunsA/w=",
+          "cp38"
+        ],
+        "dlib_bin-19.24.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Ud31Qju8E7S/a5uHmBbMNOjEKLgxe9hxGNFHjC7EjxU=",
+          "cp39"
+        ],
+        "dlib_bin-19.24.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EEcyyW9cWfTC+QGj2zybZGYyT+DDfgJiPsk3LzsA/rM=",
           "cp39"
         ]
       }
@@ -116281,6 +116355,66 @@
           "py3"
         ]
       }
+    },
+    "0.5.4": {
+      "sdist": [
+        "vDWCmXJL/DmoluHgb7TG46S2YFr8tQwh9b3arY3xrzI=",
+        "pysktb-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "pysktb-0.5.4-py3-none-any.whl": [
+          "6GRbzQ2z2sQdJE5tvG9We6deWyshs/15xzs+UWb117E=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "5UPOJT9MsEtuYIUTeDVJPWO6DMAz0d0JMj36Yd27Ef4=",
+        "pysktb-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "pysktb-0.5.5-py3-none-any.whl": [
+          "15sP5fOsOeJKmfbpgVj8xsfylIwoX6nkRaR3jmp56Vs=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.5.2": {
+      "sdist": [
+        "YaQ0yrX8PIMtiQzoRYkoS74vZ9tlSyIMCaOKuE9dtY0=",
+        "pysktb-0.5.5.2.tar.gz"
+      ],
+      "wheels": {
+        "pysktb-0.5.5.2-py3-none-any.whl": [
+          "bQpBEgoMYboO1z8UKc3tVN7FnncHdr4ag5+jkP5iUHc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.5.3": {
+      "sdist": [
+        "bc49II3e5DZ9ZfoKg23/XHGp8u284gZsSNyL8IUC014=",
+        "pysktb-0.5.5.3.tar.gz"
+      ],
+      "wheels": {
+        "pysktb-0.5.5.3-py3-none-any.whl": [
+          "msXhvWBPIbKNBd+fseOPE0edRDmYvtey0ObdWu/8DBk=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.6": {
+      "sdist": [
+        "fung32N9+TopQEa2RUFfNZA8SBX/LI/8j9AnDb+K3Yc=",
+        "pysktb-0.5.6.tar.gz"
+      ],
+      "wheels": {
+        "pysktb-0.5.6-py3-none-any.whl": [
+          "Bmm6Ca5bMJwL/jjoHdCnT7zzn9diAKl1AgtYZA2rit8=",
+          "py3"
+        ]
+      }
     }
   },
   "pyslic": {
@@ -162712,6 +162846,26 @@
       "wheels": {
         "wyvern-0.0.4a0-py3-none-any.whl": [
           "j3/azUWsjZ2ugwdWjT6H1cBTW66lpe3w12/gb6O8Qm8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "wheels": {
+        "wyvern-0.1.0-py3-none-any.whl": [
+          "/0s6B6y7282Dv/GgWj1BVChRaTyv6/sq9OTVvwqmjZs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "fuEQ5tq/HXdyL9NZ5Q6Xrf+hVBA2QFDpmJaMxdDCkEY=",
+        "wyvern-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "wyvern-0.1.1-py3-none-any.whl": [
+          "VX216g8/bdB+gjvyDPCg+/+WypgUfSMxnxRtZ1R10QE=",
           "py3"
         ]
       }

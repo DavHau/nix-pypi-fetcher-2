@@ -47615,6 +47615,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.1": {
+      "sdist": [
+        "2yBgzPEga22ro4POBPqAwdL0A3oq10jR4ruvqkH8txo=",
+        "etask-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "etask-1.2.1-py3-none-any.whl": [
+          "xeYP8w8tjQo7gfwUyO+2KD7BbjuefnTLcWUDqI58Ln0=",
+          "py3"
+        ]
+      }
     }
   },
   "ethereum-ipc-client": {
@@ -75672,6 +75684,18 @@
         ]
       }
     },
+    "0.10.14": {
+      "sdist": [
+        "etG4n/sQYx9946RUaY8i+4FKWZhAGEsA+zWhoDqqeUc=",
+        "munet-0.10.14.tar.gz"
+      ],
+      "wheels": {
+        "munet-0.10.14-py3-none-any.whl": [
+          "zWGg8rQJRK7PfSQmQ3xEqln24LANcuKosXTUll66Tgw=",
+          "py3"
+        ]
+      }
+    },
     "0.10.2": {
       "sdist": [
         "usg9YLl3xNfa+y1aWW3SjOLqrfzBp5sov9RO9GaouR0=",
@@ -83802,6 +83826,14 @@
     }
   },
   "odoo14-addon-fieldservice-geoengine": {
+    "14.0.1.0.1.dev10": {
+      "wheels": {
+        "odoo14_addon_fieldservice_geoengine-14.0.1.0.1.dev10-py3-none-any.whl": [
+          "Ga8flmC9U/bDFILuAmCYYiLRkSAhWbjPitUBekq/bFI=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev6": {
       "wheels": {
         "odoo14_addon_fieldservice_geoengine-14.0.1.0.1.dev6-py3-none-any.whl": [
@@ -150344,6 +150376,34 @@
         ],
         "xia_api-0.0.42-cp39-none-win_amd64.whl": [
           "a9g/sMvA+vxT2CKIes5cYWiURNSBiTTwlZG1/eBTDKY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.43": {
+      "wheels": {
+        "xia_api-0.0.43-cp310-none-macosx_11_0_x86_64.whl": [
+          "aoZ4xUSU3yEQyAjy12HlLNGZCMRpwy+DN0c/KD3Nkd4=",
+          "cp310"
+        ],
+        "xia_api-0.0.43-cp310-none-manylinux1_x86_64.whl": [
+          "7CjLaBA/UcVB+LPNoAjLWcFyQJvVbpX9ylShfYRNODs=",
+          "cp310"
+        ],
+        "xia_api-0.0.43-cp310-none-win_amd64.whl": [
+          "p2aInT2s1xxL2UXOFmVd0yFZMYGCmr4zFiX8KX7cJDY=",
+          "cp310"
+        ],
+        "xia_api-0.0.43-cp39-none-macosx_11_0_x86_64.whl": [
+          "IoIimgk5z7EriA0LsLltHq3j00hV0XIsxaRp2ENzi6g=",
+          "cp39"
+        ],
+        "xia_api-0.0.43-cp39-none-manylinux1_x86_64.whl": [
+          "fZ+JA5BVXga2KzBGvwYWVrpkwWMAORtWstv8cep54xE=",
+          "cp39"
+        ],
+        "xia_api-0.0.43-cp39-none-win_amd64.whl": [
+          "Dt0/McOB2vxk1wlfXsjEG6F/L3+H78Yi4C5+xWpUk8I=",
           "cp39"
         ]
       }

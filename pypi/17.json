@@ -59852,6 +59852,10 @@
           "/4PIvWw6pMTcmPIstX0CO8dcWYp/ozDr9aRVvzukbII=",
           "cp311"
         ],
+        "imagecodecs-2022.12.24-cp311-cp311-win_arm64.whl": [
+          "JeAcBMBZB/37AB5hrm0u5MLdec+PbLaJVlTviKMVylg=",
+          "cp311"
+        ],
         "imagecodecs-2022.12.24-cp38-cp38-macosx_10_9_x86_64.whl": [
           "joERZPbGT/7o8vpXONqyVBES3xOvgR+aKiq2wpYy+tU=",
           "cp38"
@@ -84443,6 +84447,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "TWe+luq1DT+6mTF10mNp5PygI7bytEX2fLOf56cPVqs=",
+        "np_config-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.2.1-py3-none-any.whl": [
+          "yPnr7OhvKY2sgO4aT9r4fXvBe+MoTMRNWisiWqgjluE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "houL8I+hn3Hj+9lziakX8DTzmEG+SfF30mFrvz4fAsU=",
+        "np_config-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.2.2-py3-none-any.whl": [
+          "bSD3wapr/O85Vqw1g9jhCUsciwTDPQUuVcpoJD6Gxp0=",
+          "py3"
+        ]
+      }
     }
   },
   "npjx": {
@@ -84744,6 +84772,14 @@
       "wheels": {
         "odoo_addon_base_bank_from_iban-15.0.1.0.1-py3-none-any.whl": [
           "/Y7XalVx6MJBxxJ9YM92CMjBwouxICdP/O74FdyVqYw=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.1.1": {
+      "wheels": {
+        "odoo_addon_base_bank_from_iban-15.0.1.0.1.1-py3-none-any.whl": [
+          "eQ0/oYmt6QWECWKulhF5iifyDVupUxwrzfxJgtgr2bc=",
           "py3"
         ]
       }
@@ -94716,6 +94752,12 @@
       "sdist": [
         "suwD3gbkENnk4rxY8f1CIjqGpV0fKD5ArM8Ctrm9S7Y=",
         "proactive-13.1.0.2212240238.dev0.zip"
+      ]
+    },
+    "13.1.0.2212250241.dev0": {
+      "sdist": [
+        "EU8ZpGfEUtOftrHI1Ae2AbVrvnTDzqJCfwmSD7l37aE=",
+        "proactive-13.1.0.2212250241.dev0.zip"
       ]
     },
     "13.1.1.2212182207.dev0": {
