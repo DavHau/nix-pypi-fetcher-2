@@ -132677,6 +132677,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221225": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221225-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wOGsTrZns9YzarfEH6tY6jBnU9T+E/3lsYzblxr7v+Y=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221225-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "d6C2eu6B72dKhqLpGbULZ4OONB+Adm9UTzFCPbSOEJc=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221225-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yYGMBDm4r5KMhqLmlEDUdaq3gi5mLa86QwcRf9Zutro=",
+          "cp39"
+        ]
+      }
     }
   },
   "tffm": {
@@ -135879,6 +135895,18 @@
           "py3"
         ]
       }
+    },
+    "0.7": {
+      "sdist": [
+        "nEMOwJdoaXM6txYIVXyng/IfXoc1tlMbnXpqC5F3aBY=",
+        "toobuk-0.7.tar.gz"
+      ],
+      "wheels": {
+        "toobuk-0.7-py3-none-any.whl": [
+          "QCQ8JuLlGCDamKvA7GnUB+PvX0SnImD21VRwiB7HpxY=",
+          "py3"
+        ]
+      }
     }
   },
   "tootroll": {
@@ -136178,6 +136206,18 @@
       "wheels": {
         "torch_ecg-0.0.25-py3-none-any.whl": [
           "1dIie2+fBdte0m8cpHfY6p+xfNuh6DL8FE8MIoJw7IM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.26": {
+      "sdist": [
+        "4FUVkDUqJDy+URktKX/uL7bMAQXgoJnNfIsnX/BkIj4=",
+        "torch_ecg-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "torch_ecg-0.0.26-py3-none-any.whl": [
+          "OCxHnWb0baeOQf5HsuOrqqO+Lq9spHskb2L3bZmTSV8=",
           "py3"
         ]
       }

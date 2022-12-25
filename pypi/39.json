@@ -15081,6 +15081,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221225": {
+      "sdist": [
+        "mbyAbnqd8VghtWfF1C8HuUyfar3IvPBta+GoS8Uj+qg=",
+        "bigdl-dllib-2.2.0b20221225.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221225-py3-none-macosx_10_11_x86_64.whl": [
+          "/O9/Wz/Z/xhO5hxksMJwoTc+gAW1ENjFcPeo9TGzS8s=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221225-py3-none-manylinux1_x86_64.whl": [
+          "CWN/mjc6YvbuXu2uuDkhcrJR+RpKjFLpTOez9AwSvdw=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -92511,6 +92527,20 @@
       }
     }
   },
+  "py-betawi": {
+    "0.0.1": {
+      "sdist": [
+        "ObLoJ0nYKkGLkA4Ne5yfNoO3Ym9TC1dqqDhdYgXwQmk=",
+        "py-Betawi-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "6+BIPNV72odBhOExErDPbm1yA15CHSvn3iiBmnqCUFQ=",
+        "py-Betawi-0.0.2.tar.gz"
+      ]
+    }
+  },
   "py-canberra": {
     "0.0.1": {
       "sdist": [
@@ -139720,6 +139750,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221224-cp39-cp39-win_amd64.whl": [
           "ZbOPeZZUMAdO9f6JYU0reTy62tpdaCJlgCbINBWrzn4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221225": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221225-cp310-cp310-win_amd64.whl": [
+          "9WVO91AaFS2O1BpKIUovVqTp3TBm+9CBr7sTb9E5mvc=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221225-cp38-cp38-win_amd64.whl": [
+          "YAU1aDF8HnKRXUAW9b7mbxTfNsoLyGnXxOp66nGUH9E=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221225-cp39-cp39-win_amd64.whl": [
+          "3vDRtR6xpwDoISmR0FC2OiEbqYxuwexbsoika1612hw=",
           "cp39"
         ]
       }

@@ -15025,6 +15025,26 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221225": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221225-py3-none-macosx_10_11_x86_64.whl": [
+          "DXkv3kGyM2mJuEKVIIhF+c1ZbcJHwWzX7XLfQl2ogu8=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221225-py3-none-macosx_11_0_arm64.whl": [
+          "YW/IHGpIQABNlVpdm+0GDgTqJiU2hnZuunVjpG8YVsQ=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221225-py3-none-manylinux2010_x86_64.whl": [
+          "Qjo3YzPF6RarvvCT3k5yDiKTzNn+mSC1K2kc523Yp88=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221225-py3-none-win_amd64.whl": [
+          "BmEG0pe5BKMFqWaa9yRd++StyE7+n8gK8UxQkPnSMh0=",
+          "py3"
+        ]
+      }
     }
   },
   "billojwt": {
@@ -27418,6 +27438,114 @@
         ],
         "CT3-3.3.0b0-py2-none-any.whl": [
           "bSGkR8pVDburMS9HPDzEwotJv4KNgvbsKJHtjwvg5Uc=",
+          "py2"
+        ]
+      }
+    },
+    "3.3.1": {
+      "sdist": [
+        "HJ9SX37MNOBPCI9piyGiEMJpc1rPfgm6ROFGfKvaZsg=",
+        "CT3-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "CT3-3.3.1-cp27-cp27m-macosx_10_14_x86_64.whl": [
+          "7S7jrrR4hAJVI/60EO1dalvcrOryT7gV+DZoxTC+Hv8=",
+          "cp27"
+        ],
+        "CT3-3.3.1-cp27-cp27mu-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "FVBGJ43o3bUnsIfSqJm5ZOwYXxjqvMTJD5WPORJRhtU=",
+          "cp27"
+        ],
+        "CT3-3.3.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "JJ8dpmi2gwOXyQ2GTizhmt7B5E7NM1K3HkzeGo975vQ=",
+          "cp310"
+        ],
+        "CT3-3.3.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "WbQwt4P5cqSzqAgVkPPDx7vgAJuQZ+85GMotrVMsFLA=",
+          "cp310"
+        ],
+        "CT3-3.3.1-cp310-cp310-win_amd64.whl": [
+          "uxmtDvwnTe/mbqm7HzccLq//NL5rqCo1Yr5Ozwz9oqA=",
+          "cp310"
+        ],
+        "CT3-3.3.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "asW1VmcH0uYMmBhLVXtT2zoDLuZls60l6LwdHvfAh3o=",
+          "cp311"
+        ],
+        "CT3-3.3.1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "m8xts6omDeA1VAT1q5/bByyRl9tdNsW53s1MIyE6Ax4=",
+          "cp311"
+        ],
+        "CT3-3.3.1-cp311-cp311-win_amd64.whl": [
+          "Bjr7IBSExsraBjkUsM4I859kmX5uJEWN0NXbOLJWI24=",
+          "cp311"
+        ],
+        "CT3-3.3.1-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "9BMO++/wwiK9iIt9xvs2zSgQhcmjWKUOSRPJo/Zy2Yc=",
+          "cp35"
+        ],
+        "CT3-3.3.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "kHyh7rvOokJCEVbLFHSNJrqycwpl14MdkOOil0Sw79k=",
+          "cp35"
+        ],
+        "CT3-3.3.1-cp35-cp35m-win_amd64.whl": [
+          "xOvdoyz57nGb1ztFa6HVOEaom72nZGqrgyuLQylv1Mk=",
+          "cp35"
+        ],
+        "CT3-3.3.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "x+XfXLE4BvFEUodo2w1XUqzqTsXSvUoaGvkhzs6PQzs=",
+          "cp36"
+        ],
+        "CT3-3.3.1-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "zttwCRvtuBvLoEs/f7tOYKU+ShxEDRdoRjSTU5yP2H0=",
+          "cp36"
+        ],
+        "CT3-3.3.1-cp36-cp36m-win_amd64.whl": [
+          "mFiC/3K88zhfYATY0NZNg8LIS8S9yhQIaiUrjcJSdL8=",
+          "cp36"
+        ],
+        "CT3-3.3.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "WqU8uM87YROhagooIcOvllUQeM3BPXARCOKYY7VyazM=",
+          "cp37"
+        ],
+        "CT3-3.3.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "Sc2+s8hWXlgxnBScWg9iae1+OcSXqS7SuKFWo/Rm9ps=",
+          "cp37"
+        ],
+        "CT3-3.3.1-cp37-cp37m-win_amd64.whl": [
+          "ecv8PVYHYg4aHsU/31CIoxNIjEzq1UUnFZn2e3p8HMM=",
+          "cp37"
+        ],
+        "CT3-3.3.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "IAYKQjZoWbjJtDIvdTBfTtyUwn69nxPSuD9SdfmgEhE=",
+          "cp38"
+        ],
+        "CT3-3.3.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "9CQYNwCGx4SYNv29+vAz4ry2u7KPqArZNpvHTcOjdcI=",
+          "cp38"
+        ],
+        "CT3-3.3.1-cp38-cp38-win_amd64.whl": [
+          "ePub9GHgU/Tv5rPD/xKA2SLX0CmsgqNWB9WcGUAHZT8=",
+          "cp38"
+        ],
+        "CT3-3.3.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "o5k5r025JxeSto8f4MKL45zezIeskWWpxS0hz8Sh70A=",
+          "cp39"
+        ],
+        "CT3-3.3.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "FhiuT8ULh6hxtWPIw5KJZfFyQOmzGnCwimW8pY/Ycnw=",
+          "cp39"
+        ],
+        "CT3-3.3.1-cp39-cp39-win_amd64.whl": [
+          "efPNwa3JbxLNnsSCfvmf72vpUTFnWv0Jpbjq2jnK75w=",
+          "cp39"
+        ],
+        "CT3-3.3.1-pp37-pypy37_pp73-win_amd64.whl": [
+          "Yg+D3uH05VYwuePqBihBFf6cYGwATWbcwr0QJE/rixQ=",
+          "pp37"
+        ],
+        "CT3-3.3.1-py2-none-any.whl": [
+          "ZgdWMDk8hrNJi4cSLNFN8sEHh3PR4RWSKLQ15jJqU0g=",
           "py2"
         ]
       }
@@ -66370,6 +66498,12 @@
       "sdist": [
         "S8cH7rFnHg7L+8UwftrbF09UQCaPqM6yEt6ykNc/CcE=",
         "huawei-lte-api-1.6.1.tar.gz"
+      ]
+    },
+    "1.6.10": {
+      "sdist": [
+        "HcFmJFKH6R/XZRpsYGxhL0Hyyuc1NvAMefO+IrWX4Rk=",
+        "huawei-lte-api-1.6.10.tar.gz"
       ]
     },
     "1.6.3": {
