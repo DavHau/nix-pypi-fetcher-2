@@ -50739,6 +50739,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.1": {
+      "sdist": [
+        "f/TYvkTy5VfjIRAbIYbeOqKKt8BdpA8JuTJuPL2avYE=",
+        "galactory-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "galactory-0.8.1-py3-none-any.whl": [
+          "2zSZU32gSVqJNjUzRzyKlS9R2PVjcLelDY5hkyz19ak=",
+          "py3"
+        ]
+      }
     }
   },
   "gameit": {
@@ -53662,6 +53674,18 @@
       "wheels": {
         "groot_ansible-0.4.2-py3-none-any.whl": [
           "tBuR63hAhEtwDLrcZs/zUy2/zmbbXyU1TwKYiUIOlS0=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "OWHBnmpVF32zN/6cs84GHvxanAs1tcfH8xYHa83+hqU=",
+        "groot_ansible-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "groot_ansible-0.4.3-py3-none-any.whl": [
+          "51eHBsbhWR/5Tdnp7QUXwYQBhhvneXg3varOzAoyo84=",
           "py3"
         ]
       }
@@ -71055,6 +71079,18 @@
         "Ac5uInJr2t/HyDHrXr1rhdqpH1tbBl3b5hClbeEGvsc=",
         "mp3toolsce-1.0.7.tar.gz"
       ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "mNKiycL6FTE8WRZKEb4efE5B+v+I6SEpRPIgutkzT+4=",
+        "mp3toolsce-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "mp3toolsce-1.0.8-py3-none-any.whl": [
+          "hBOiZngZzHMs1/NIo167/O8fIJYz/c5wDtYNV1kqREk=",
+          "py3"
+        ]
+      }
     }
   },
   "mqtag": {
@@ -94603,6 +94639,44 @@
         "pylibjpeg_openjpeg-1.3.0-cp39-cp39-win_amd64.whl": [
           "OeJ42giv0FFzwe6L68yS2S70hcs4z0cJZZTkCdrPTJ8=",
           "cp39"
+        ]
+      }
+    }
+  },
+  "pyliveofcode": {
+    "0.0.1": {
+      "sdist": [
+        "ATndttcfac9tR+K1l2o6pkfM3reLfiGmr84TNMZyB/Y=",
+        "pyliveofcode-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyliveofcode-0.0.1-py3-none-any.whl": [
+          "SzUN2vWurto5HNT20rEfpIJ6IElyxK/02NFiZQY3Vi0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "bbo1znZRi61ASDrizzlNbtCPigIWkjll893v8mdAhrQ=",
+        "pyliveofcode-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyliveofcode-0.0.2-py3-none-any.whl": [
+          "ZAmJhcr1BwfMkIituUPc5pu/3dPlRiNEfBn+g7dNw20=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "rZYF94bmwlvr3af/Vb097NTvUzPwjxyo+lf2BmKmQhc=",
+        "pyliveofcode-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyliveofcode-0.0.3-py3-none-any.whl": [
+          "IJQ2uK8gvugGwv80XMfPtv1iGb4YYoXQ2i3WH7tL7Kg=",
+          "py3"
         ]
       }
     }
@@ -124190,6 +124264,18 @@
         ]
       }
     },
+    "3.7.0": {
+      "sdist": [
+        "t7/ocFJf85BeIsYVVrhqnzSE08sZQFxvL5KSlwMlaB4=",
+        "testwizard.android-set-top-box-3.7.0.tar.gz"
+      ],
+      "wheels": {
+        "testwizard.android_set_top_box-3.7.0-py3-none-any.whl": [
+          "BSYvEtsDhLHCS0F3mmmn2thm9QnVsEu+kSSgs83nhvU=",
+          "py3"
+        ]
+      }
+    },
     "3.7.0b1652": {
       "sdist": [
         "aaQjb8eyv6+QmFTdTPYbrIsDcRVHMnFlvtaIKxNuuY0=",
@@ -137696,6 +137782,62 @@
         ],
         "xia_user-0.0.15-cp39-none-win_amd64.whl": [
           "qrev1Bdm/TWkm16GfJYFSbK8k2jcTNa7U/CeNCJy5EM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.16": {
+      "wheels": {
+        "xia_user-0.0.16-cp310-none-macosx_11_0_x86_64.whl": [
+          "GZ9NcGsMj3g8b8cMYRPa3oJA+0cvuWC7Yz4s7P6XL4M=",
+          "cp310"
+        ],
+        "xia_user-0.0.16-cp310-none-manylinux1_x86_64.whl": [
+          "S9f00+RxgJT2l+G9QvnPeL3vfP/KLhVBhqMcXAKQs8g=",
+          "cp310"
+        ],
+        "xia_user-0.0.16-cp310-none-win_amd64.whl": [
+          "nCFySwFGFPfjXENJDQ3F65bfal/lXTlyCVsorakOyFs=",
+          "cp310"
+        ],
+        "xia_user-0.0.16-cp39-none-macosx_11_0_x86_64.whl": [
+          "Yo4dUJptNGCBfDzXAGS7rOOTkCzdL2S/O6I9hCsW4kg=",
+          "cp39"
+        ],
+        "xia_user-0.0.16-cp39-none-manylinux1_x86_64.whl": [
+          "TS1yAppr97ZJOZbt8AJfOeJkUNu8fdFnf02SGBrnSlE=",
+          "cp39"
+        ],
+        "xia_user-0.0.16-cp39-none-win_amd64.whl": [
+          "VmizWisdc4Mc2FtValNxdVVyQdbh0h3C5BPqF3I/eF8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.17": {
+      "wheels": {
+        "xia_user-0.0.17-cp310-none-macosx_11_0_x86_64.whl": [
+          "JGe7hjRGjv0xQjD+67ChZ4tmtCUlDPIPR6MsS3104hY=",
+          "cp310"
+        ],
+        "xia_user-0.0.17-cp310-none-manylinux1_x86_64.whl": [
+          "hcVPMXMFBxbA0ZKbgOWnfaMy5sMt+dv8mFqIt40jX3g=",
+          "cp310"
+        ],
+        "xia_user-0.0.17-cp310-none-win_amd64.whl": [
+          "ElVleBn8jwKZosGtX/khI319/0loj6HFbFA0S7T8PRk=",
+          "cp310"
+        ],
+        "xia_user-0.0.17-cp39-none-macosx_11_0_x86_64.whl": [
+          "6nrUwv5NIe+dmd+fJmGfvNzpzk+ynH4HXtoznN0Flx8=",
+          "cp39"
+        ],
+        "xia_user-0.0.17-cp39-none-manylinux1_x86_64.whl": [
+          "Alwe61V5bN4zWCGlIYlqoLQBrUwbeL8aM4zt5/iYxQ0=",
+          "cp39"
+        ],
+        "xia_user-0.0.17-cp39-none-win_amd64.whl": [
+          "7y3CZRaZEol+AObg9QvmqNPbs4DaJs6Mye0v0UYsl2A=",
           "cp39"
         ]
       }

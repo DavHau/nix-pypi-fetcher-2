@@ -6159,6 +6159,14 @@
       }
     }
   },
+  "autorequirements": {
+    "0.1.0": {
+      "sdist": [
+        "93j8KRnpXzc9HTtz30qS05rKuS8mN9eHN4b2hDDVes8=",
+        "AutoRequirements-0.1.0.tar.gz"
+      ]
+    }
+  },
   "autoxlsx": {
     "0.1.0": {
       "sdist": [
@@ -9958,6 +9966,18 @@
       "wheels": {
         "aws_cdk.lambda_layer_kubectl_v24-2.0.68-py3-none-any.whl": [
           "kyrx9iVlIFSXlkKQUtGmSOFx/5FbhS69RJVWD+OBFk8=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.69": {
+      "sdist": [
+        "WJf6uWnU4L6nAR7dAhH3W9SGBezzhs5nkoTqTsfY370=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.69.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.69-py3-none-any.whl": [
+          "TBZTpuNOtG4VPSQITN+j6S6qOsadPyIwarzfZnkctiE=",
           "py3"
         ]
       }
@@ -64301,6 +64321,20 @@
         "5HPbJ9FIiSzW5gnjVyT9tGIdla9xUees/ex3GbMh1g8=",
         "ifs_etc-0.0.6.tar.gz"
       ]
+    }
+  },
+  "ig-me": {
+    "0.0.0": {
+      "sdist": [
+        "Qo3nPNim4QXKzEjlrUjTooLBgLu+Eh0TXwhVW9lXq3A=",
+        "ig_me-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ig_me-0.0.0-py2.py3-none-any.whl": [
+          "0FyqJlydQWex9ZZ2RhXbGRGUyDQNek1MS6Ih91AUksQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "iglu": {
@@ -139175,6 +139209,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.801": {
+      "sdist": [
+        "a8oJ5gwmXa0bUYVVglm+6lI8INyH/2oolJaW5mfW1bw=",
+        "tencentcloud-sdk-python-advisor-3.0.801.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.801-py2.py3-none-any.whl": [
+          "ENFF6ibhICiEKBzubyJ/K15mt/vv2SLKa4uyMP7INmk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -140770,6 +140816,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.800-py2.py3-none-any.whl": [
           "TQhDwQc7sd4cFhF2sFlPGLXpxuR2PBh4UBTBYt7Xqj8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.801": {
+      "sdist": [
+        "J8qkOfQlmUltckKxqJBPBJdaY+h59hWJ96xDHd7LFCM=",
+        "tencentcloud-sdk-python-mmps-3.0.801.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.801-py2.py3-none-any.whl": [
+          "sQ4H8a61fJHejf/sSebwL16bBC63VyPPng/LpPqnOg4=",
           "py2.py3"
         ]
       }
