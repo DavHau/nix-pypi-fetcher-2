@@ -78936,6 +78936,18 @@
         ]
       }
     },
+    "1.3.10": {
+      "sdist": [
+        "aQ3x6DKffGELTbLxoEG2s8lVntm8szdRElrfhAdiQ5A=",
+        "nodezator-1.3.10.tar.gz"
+      ],
+      "wheels": {
+        "nodezator-1.3.10-py3-none-any.whl": [
+          "W/oy3agJGR0wXlCwdIrZjSD0rKC3mMdqNFwVButrjQY=",
+          "py3"
+        ]
+      }
+    },
     "1.3.2": {
       "sdist": [
         "+AxFoweYgbJ3KopVPHfvoIIQylDsLZGVQEdF2cImVqQ=",
@@ -132726,6 +132738,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20221225-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "yYGMBDm4r5KMhqLmlEDUdaq3gi5mLa86QwcRf9Zutro=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221226": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221226-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "uQeL2+mU4fDNVzT/0W+gALlZcif2MMYjGP3O9qjpJls=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221226-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gSxO3ax+sUkx1oFqUz9FQPJyGTdyMZdzxCcUCptTOK8=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221226-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "s9WtT0waC21Bpixy8hApigtOg89qusr+q6DAXmj43GQ=",
           "cp39"
         ]
       }

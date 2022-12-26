@@ -68153,6 +68153,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "7rIwufAPp4siQqm/0dJV9wjTkpel0GCPj6vQxfNR5Z0=",
+        "misp-galaxy-parser-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "misp_galaxy_parser-0.1.2-py3-none-any.whl": [
+          "PVL4bF9q9G+RGr6ABPiN+wRwpG79fpqmw3MXTwQ20c4=",
+          "py3"
+        ]
+      }
     }
   },
   "misty2py-skills": {
@@ -110498,6 +110510,106 @@
         ],
         "pulsar_client-2.9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Gnelk26HtHiPCNNDhh62KU9R5V+UCeJTfComSiPJnXc=",
+          "cp39"
+        ]
+      }
+    },
+    "3.0.0": {
+      "wheels": {
+        "pulsar_client-3.0.0-cp310-cp310-macosx_10_15_universal2.whl": [
+          "zMXs1CnKJtzGRDbDmvNn5F/56E431a5etTJ4wgMlToQ=",
+          "cp310"
+        ],
+        "pulsar_client-3.0.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "umuNfXUUHt7rWEal0SpG7kXvrvQYtjjKkOCzW37fQpg=",
+          "cp310"
+        ],
+        "pulsar_client-3.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BWn+77orHTGbZyOEPdExyqEqpN8rD1zp7SavNwZ//Gs=",
+          "cp310"
+        ],
+        "pulsar_client-3.0.0-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "BBP6N+1DWsZUinhpOgfgsZ7j8CbytN1K1ac7s06lMos=",
+          "cp310"
+        ],
+        "pulsar_client-3.0.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "AXF1HXPiVmvFCIuYd/t4IVq4TWG2lAcsesZq673eMhE=",
+          "cp310"
+        ],
+        "pulsar_client-3.0.0-cp310-cp310-win_amd64.whl": [
+          "Y+db1lrh63axCNNLjhwRa/ZBvkEvCU9YmMq02WB6kBw=",
+          "cp310"
+        ],
+        "pulsar_client-3.0.0-cp37-cp37m-macosx_10_15_universal2.whl": [
+          "JTS0P7KG5tC3QHVcOg2tgKPB47SqM5jiI3YKVefbdqw=",
+          "cp37"
+        ],
+        "pulsar_client-3.0.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "an8U2Glyts9QNl0o/jQD2mmINxvcqd21lJNRUOE392g=",
+          "cp37"
+        ],
+        "pulsar_client-3.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+FXetsFP5H+4PnSgSHQnkoJ/+OQqIszj1hZMp5ojjkQ=",
+          "cp37"
+        ],
+        "pulsar_client-3.0.0-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "uNO3a7oNiGN8AZMcHz9vze31XS62U7WWDX8Wqt9SF5c=",
+          "cp37"
+        ],
+        "pulsar_client-3.0.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "V1WJYAp+W/xbZWt4IDpQE0RJnxfG/s5uGosMgQcHIOY=",
+          "cp37"
+        ],
+        "pulsar_client-3.0.0-cp37-cp37m-win_amd64.whl": [
+          "Wj1B8SddmNEuG7njng8h83EyNVGyr4rZCtlSqY02dV4=",
+          "cp37"
+        ],
+        "pulsar_client-3.0.0-cp38-cp38-macosx_10_15_universal2.whl": [
+          "9WlS+vSxMC2SPy8LL2V+jRYXpFZVUAPgrkRjC5AkDEY=",
+          "cp38"
+        ],
+        "pulsar_client-3.0.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "jesBeExuOC9G+p0Up4uJtSxRbe6sBc1f50SGUDhHQD0=",
+          "cp38"
+        ],
+        "pulsar_client-3.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yt62FxE/uQ//vnlT56r44L+faODW15TcCf8cr95agGE=",
+          "cp38"
+        ],
+        "pulsar_client-3.0.0-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "HC5W2dlu4pgmPCu3UTHIWj5+fqIxsriG+tt+kZ9SvaE=",
+          "cp38"
+        ],
+        "pulsar_client-3.0.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "LcHYdYT01UmaNPzG12lM+A+iMitWAcLnnc10IwjMwd0=",
+          "cp38"
+        ],
+        "pulsar_client-3.0.0-cp38-cp38-win_amd64.whl": [
+          "C+qyeU2jU9nzjD6bMFEFAgdppEDe8PRy4zVuFovqBoo=",
+          "cp38"
+        ],
+        "pulsar_client-3.0.0-cp39-cp39-macosx_10_15_universal2.whl": [
+          "yfTJs1VIcFHYA1UC9JVsIBsQIl1wuVTvH+kjLEeq1E4=",
+          "cp39"
+        ],
+        "pulsar_client-3.0.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "W2PznRZxc56w4jrGxexjPLW9DPSWhLtODLbxwue3SW0=",
+          "cp39"
+        ],
+        "pulsar_client-3.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AmVVgKcOwtxYbg3B8xLsl2/HNoGKJQZg/jtKxGyRuZo=",
+          "cp39"
+        ],
+        "pulsar_client-3.0.0-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "Fa8IUdCh2ue6kUgSqyT5Ra/co93mzGhrKOL2C3UVm+E=",
+          "cp39"
+        ],
+        "pulsar_client-3.0.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "jk4+xlzBBuObGzpOTKdr1/AY37GJ3mmCXL1O6D9mO+U=",
+          "cp39"
+        ],
+        "pulsar_client-3.0.0-cp39-cp39-win_amd64.whl": [
+          "f7L7bWRezl/PQlu/xfmD3EvvhELmFJbdVHfdb2rqPHI=",
           "cp39"
         ]
       }

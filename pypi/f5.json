@@ -16114,6 +16114,18 @@
         ]
       }
     },
+    "1.13": {
+      "sdist": [
+        "CKeYvLEn5R6DjQgrckxOfC8xkqvjPM/AreMIYkWs/kU=",
+        "cbmshell-1.13.tar.gz"
+      ],
+      "wheels": {
+        "cbmshell-1.13-py3-none-any.whl": [
+          "8IRmSS4bdNohSJIJld34xRXjcp1QdjC6jSnDdbentTI=",
+          "py3"
+        ]
+      }
+    },
     "1.2": {
       "sdist": [
         "9d2husAnS/+OCgghPt/hEUX7sB8CYYkD2orkrO7Uvxw=",
@@ -19329,6 +19341,32 @@
         "96ciS0aLxoKwQ0I5HHgJjEhT/qsqlE3dhu+w1lCsj7Q=",
         "chat_server-0.0.8.tar.gz"
       ]
+    }
+  },
+  "chatgpt-mixin": {
+    "0.1.0": {
+      "sdist": [
+        "BfE0fIr7mylI84i/A9sbZVgadJUDqlKAC8xiRXPjEUU=",
+        "chatgpt-mixin-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "chatgpt_mixin-0.1.0-py3-none-any.whl": [
+          "MMo+TMQtMwYaL6gZ/yHOZUuk43qekPMQZOfG86GwUkw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "nZV2loUvLNyfoY9Pao/bsH2DU78e8HHvkiEkCL1sRFw=",
+        "chatgpt-mixin-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "chatgpt_mixin-0.1.1-py3-none-any.whl": [
+          "hROTl53omxZL/UVrNSqn9PUzP/tZweY+wIOWGCmaQPo=",
+          "py3"
+        ]
+      }
     }
   },
   "checkfiledup": {
@@ -55386,6 +55424,14 @@
       "wheels": {
         "huaweicloudsdkugo-3.1.18-py2.py3-none-any.whl": [
           "kqUUM9zYSqRZJwvbM1T0QBPhp1/JIMMlqHkTdolrKkE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.19": {
+      "wheels": {
+        "huaweicloudsdkugo-3.1.19-py2.py3-none-any.whl": [
+          "WLMmXXDB0DJ+FT58MO7rRErhl/J4H1FtkcaNAgKR+/8=",
           "py2.py3"
         ]
       }

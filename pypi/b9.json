@@ -14167,6 +14167,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221226": {
+      "wheels": {
+        "bigdl-2.2.0b20221226-py3-none-macosx_10_11_x86_64.whl": [
+          "7JLv6WWLYeEpO4SdLunQzpqRfU/5I0Djl7UHkh7rQjo=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20221226-py3-none-manylinux1_x86_64.whl": [
+          "uAwLOOr4kj3SZsKQfGB0xgc3h3SF5zE2SdssQGwrx+8=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -28717,6 +28729,32 @@
         "django_dynamic_views-0.1.1-py2.py3-none-any.whl": [
           "hvOaYUmwuTU+r2WAdnwp03bklvSVgyAm4rGCfMyORYI=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "django-editorjs-field-next": {
+    "0.1.0": {
+      "sdist": [
+        "17qZ/mf2mfvdkyKpzaM/Snte3fgcDsE2s7zI4p8EH9o=",
+        "django_editorjs_field_next-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_editorjs_field_next-0.1.0-py3-none-any.whl": [
+          "zmdaU71vflRTK+CRwAat80cB11riN64QY+ff9K8os/s=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "/fazBoI9puGxLHbQk8UsvhVT8aIfSC1VVqgnG8gphAk=",
+        "django_editorjs_field_next-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "django_editorjs_field_next-0.1.1-py3-none-any.whl": [
+          "pozWip8DMi9/eamx/VUy3qUm7UmCYf/IzKZwWBBneew=",
+          "py3"
         ]
       }
     }
@@ -45694,6 +45732,14 @@
       "wheels": {
         "huaweicloudsdkmas-3.1.18-py2.py3-none-any.whl": [
           "/pTUstxGSYF4+a+JhSsDt78gbqub3HhQsQDy8oTzKkw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.19": {
+      "wheels": {
+        "huaweicloudsdkmas-3.1.19-py2.py3-none-any.whl": [
+          "lbHo8KeZAFgmOsDEgjNj2C70qK1A48lqezmzO5ertrU=",
           "py2.py3"
         ]
       }
@@ -152746,6 +152792,18 @@
       "wheels": {
         "xj_thread-1.2.70-py3-none-any.whl": [
           "Fbmfc6//+1cwjjeeHzRTx/giVW0UYtkuvFuMr5ZH+Rk=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.71": {
+      "sdist": [
+        "00Jm8EF7GRiywYcz0vXN5b4l8Q/SPBx7lk38pHz6+f8=",
+        "xj_thread-1.2.71.tar.gz"
+      ],
+      "wheels": {
+        "xj_thread-1.2.71-py3-none-any.whl": [
+          "nVueM6W9ImUjin3i1dZdq6az8dB5b+/Xry6NfBor/PY=",
           "py3"
         ]
       }

@@ -15097,6 +15097,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221226": {
+      "sdist": [
+        "zmv1Pq6iULtbaLZdxXs/CkhKLEXAOdSBhdrLhWHA2rQ=",
+        "bigdl-dllib-2.2.0b20221226.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221226-py3-none-macosx_10_11_x86_64.whl": [
+          "mm7csrsO0889btYkuDlXugaQeKg3V4/pFcLvj7hIfHg=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221226-py3-none-manylinux1_x86_64.whl": [
+          "I2dUHF4s9K13Ij/SUBzNv6aKnS338+Agaj32wiLbzT0=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -62582,6 +62598,66 @@
         ]
       }
     },
+    "0.1.19": {
+      "sdist": [
+        "pn2qCRCJ7es8bWkjXGhmfr8Wa23eUsS95ZILEvruXM0=",
+        "mltz_base-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "mltz_base-0.1.19-py3-none-any.whl": [
+          "cnqXMrMBjjAZIXu6lJp/p3XCQH8hrYXyTXureQ4zPcM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.20": {
+      "sdist": [
+        "Vs+SrKGnA2Mii6TSC/4ngV/rMr8zgucSRbQn+MPL1o8=",
+        "mltz_base-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "mltz_base-0.1.20-py3-none-any.whl": [
+          "FCi/9npjG5q1FPdPw3XLS8tJ3t0VZbdHMIOckN5QTCI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.21": {
+      "sdist": [
+        "iZSMc5isdQMNtE/mcCZFtd05/J44YLh/B6MIcuyqzSo=",
+        "mltz_base-0.1.21.tar.gz"
+      ],
+      "wheels": {
+        "mltz_base-0.1.21-py3-none-any.whl": [
+          "EGfLTty+ONpjW14Vr5A2NUt3Wd86isQ/YWNQA1d+x3A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.22": {
+      "sdist": [
+        "PHiPLKZ+PFgqOzA7k+1DLoyzsMfVfjJcEsKbIigN1OE=",
+        "mltz_base-0.1.22.tar.gz"
+      ],
+      "wheels": {
+        "mltz_base-0.1.22-py3-none-any.whl": [
+          "oegxek0IZxgyHJf2iAIIeLj04DRdLG3Fi7U9x++ZRHg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.23": {
+      "sdist": [
+        "ypQJjSO4wKvi5SNFWbolLH855pX9A6wfyYOEcBbVpAk=",
+        "mltz_base-0.1.23.tar.gz"
+      ],
+      "wheels": {
+        "mltz_base-0.1.23-py3-none-any.whl": [
+          "dBxwTfPsNEYrNfUvLAoBRHWdmcmF2v8npZQz8/mQMP8=",
+          "py3"
+        ]
+      }
+    },
     "0.1.4": {
       "sdist": [
         "Xqk6+4Qi95uVU9YE8tJwTGR/wqaFYhrAO5iX0NQu8iE=",
@@ -91619,6 +91695,14 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "wheels": {
+        "pulser-0.8.0-py3-none-any.whl": [
+          "mCt5Ap4bfU4UseZ9dkND7ZN4pyuJjFtvT59CibcbLbU=",
+          "py3"
+        ]
+      }
     }
   },
   "pulumi-postgresql": {
@@ -107953,6 +108037,18 @@
           "py3"
         ]
       }
+    },
+    "4.0.0": {
+      "sdist": [
+        "2B1TutpFCBVPk9FmfzYVA7DoaNsBmWYoo7PEJsy5ViM=",
+        "pyuploadcare-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyuploadcare-4.0.0-py3-none-any.whl": [
+          "OOQnYzX3j9saRICEP/vCKzycV7DMYwqJ5qjTsskHpGQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pyuptimekuma": {
@@ -123780,6 +123876,18 @@
       "wheels": {
         "starlite-1.46.0-py3-none-any.whl": [
           "7LMQYfAotndTEV/V/ArHL0bausZ9kyLuL66NVZ2JjyU=",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "ScL4SilnLtSVIEMPCGH8TCVUZJCRIzTLJNegkxxQWk0=",
+        "starlite-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "starlite-1.47.0-py3-none-any.whl": [
+          "bKCaIqJTcpdtMYD4iRYDdz5AnsiA/ALhoz09TzxCqIw=",
           "py3"
         ]
       }
@@ -139834,6 +139942,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221225-cp39-cp39-win_amd64.whl": [
           "3vDRtR6xpwDoISmR0FC2OiEbqYxuwexbsoika1612hw=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221226": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221226-cp310-cp310-win_amd64.whl": [
+          "9pa8LgeS4OB1v9AVLvO6U37wjKkKnh/39K86Lyg+Y1I=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221226-cp38-cp38-win_amd64.whl": [
+          "vYVHbusaEJ7r0ynQQ7JC/vHnMtYbPFF5zrXkxI0aKMg=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221226-cp39-cp39-win_amd64.whl": [
+          "APIHSnjktD0v+CTy31T+hYgb6x1jFsPF+2UyOKOINoU=",
           "cp39"
         ]
       }

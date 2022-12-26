@@ -53555,6 +53555,20 @@
       ]
     }
   },
+  "infrasonar": {
+    "0.1.0": {
+      "sdist": [
+        "MRGayxu6TzNZj+dwEkG6/q3bKEdHdWZgKaZUIBTQWVo=",
+        "infrasonar-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "GXtaNq+NQlrntsQkOwOcxCWwIlxu2c4EYbw/NeKjIkQ=",
+        "infrasonar-0.1.1.tar.gz"
+      ]
+    }
+  },
   "insdcalculator": {
     "1.0.0": {
       "sdist": [
@@ -88933,6 +88947,34 @@
           "cp38"
         ]
       }
+    },
+    "1.8.1": {
+      "sdist": [
+        "WLJno9HxoRBs8skZkEK5pQJtuPkHiAuA3BN/z1pyYyY=",
+        "OctoBot-Commons-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "xNGvZCzGuKk49SXsicOGvMTJD1l5ZlPbI0sDQgFdxy8=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "5CfP0O4sIv/Eg/kwlX2u9f0cqeK8WCpN3PlfJSuC3tw=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oNOWhaV1TYiEYjGllODYQjHLjXhHMuXiV2ybCLauEXg=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.1-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "zFBeZvptiD3dJb8AP9Pxd2CJ6/OJZTT8lCTY07QiJ+0=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.1-cp38-cp38-win_amd64.whl": [
+          "3xn8n2GBDgmIUAPdWfzLyJwlVIjRjPDxAmW6l4KbJ8g=",
+          "cp38"
+        ]
+      }
     }
   },
   "odinweb.flask": {
@@ -89108,6 +89150,14 @@
       "wheels": {
         "odoo_addon_mgmtsystem_nonconformity_type-15.0.1.0.0.2-py3-none-any.whl": [
           "v/h6QLTqGskUW6kT5UaaEP8BmtLJ6sdYqP2Kdc0RglE=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_mgmtsystem_nonconformity_type-16.0.1.0.0.2-py3-none-any.whl": [
+          "zCqyEY0wEIoB8gdxT3lfLsUnWv8H/VXXxz/x0md+8Yk=",
           "py3"
         ]
       }

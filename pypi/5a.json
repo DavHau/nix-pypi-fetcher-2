@@ -10529,6 +10529,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221226": {
+      "sdist": [
+        "WEr5kEzMf7wyZHVqoBr3E45HBylEgejBUMwHZ0Jm4eg=",
+        "bigdl-dllib-spark3-2.2.0b20221226.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20221226-py3-none-macosx_10_11_x86_64.whl": [
+          "w9XIVLXcEeHlRZsdcEC6igWGQ49h/984U5Ic7XydZu8=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20221226-py3-none-manylinux1_x86_64.whl": [
+          "iSncPyp3FffesEt8SpHJzpiFGdqEMJ24L8cSYt1c+O4=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -50364,6 +50380,14 @@
         ]
       }
     },
+    "3.1.19": {
+      "wheels": {
+        "huaweicloudsdkcloudide-3.1.19-py2.py3-none-any.whl": [
+          "jY99ZAHpE9JIdOjyeXEFTkhe0dd2L3adU07HoDKPWAo=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.2": {
       "wheels": {
         "huaweicloudsdkcloudide-3.1.2-py2.py3-none-any.whl": [
@@ -50970,6 +50994,14 @@
       "wheels": {
         "huaweicloudsdkddm-3.1.18-py2.py3-none-any.whl": [
           "FrTjpOOAW38jPgoUVfvtJtdOGGXfRHPy27iZuhciEo0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.19": {
+      "wheels": {
+        "huaweicloudsdkddm-3.1.19-py2.py3-none-any.whl": [
+          "+MnEUmTO8ufz7iro+dD4lu7RBYDbUubz/u5mDenkZ8w=",
           "py2.py3"
         ]
       }
@@ -66608,6 +66640,18 @@
       "wheels": {
         "mdast_cli-2022.12.0-py3-none-any.whl": [
           "SrU9fBAq4LM9faSMDTPA0pwqo/NYv8brqb1Ms3gpLps=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.1": {
+      "sdist": [
+        "uveg1vdserkVe8EWUgQP3lfJdu8BZJkj0sGMBZ3wzB4=",
+        "mdast_cli-2022.12.1.tar.gz"
+      ],
+      "wheels": {
+        "mdast_cli-2022.12.1-py3-none-any.whl": [
+          "eD6m4wsfkVtN1duGNftnwpJoWj+lejoKuKfKIezHMo0=",
           "py3"
         ]
       }
