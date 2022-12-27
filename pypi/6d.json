@@ -629,6 +629,20 @@
       }
     }
   },
+  "adbkit": {
+    "0.11": {
+      "sdist": [
+        "S+sik4PrAHvHe6lEpAARB8EvvR/TNcOshrh1ENDGHLQ=",
+        "adbkit-0.11.tar.gz"
+      ],
+      "wheels": {
+        "adbkit-0.11-py3-none-any.whl": [
+          "tDBoaAJU+b+DtiicqiiRPO123MNmWiLgaO+SJ1lnqXQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "adux": {
     "0.0.1": {
       "sdist": [
@@ -118066,6 +118080,18 @@
         ]
       }
     },
+    "0.21.2": {
+      "sdist": [
+        "f/RPoK8nSHpo2kbgIw3UjcymoZPP7P3QehL6TBPkgoc=",
+        "pyclesperanto_prototype-0.21.2.tar.gz"
+      ],
+      "wheels": {
+        "pyclesperanto_prototype-0.21.2-py3-none-any.whl": [
+          "K77XW3wZbPgE++lSyHmh8DdhmqwIKZTEO88hYAYk1ng=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "sIMAkS6tstQY24fOwwZu1OnqU84ZzAvembKZ8kipZWk=",
@@ -137161,6 +137187,20 @@
         "shove_lmdb-0.1.0-py2-none-any.whl": [
           "pUSaRWgTKyMfSvss7v0OIkKID2zJg+Tx5Obyxbj1p9I=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "shurjopay-plugin": {
+    "0.1.1": {
+      "sdist": [
+        "Uee38EQN54or9j8iOUvn6Ywvm9FU8x9Ez5oONuQ7c1g=",
+        "shurjopay-plugin-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "shurjopay_plugin-0.1.1-py3-none-any.whl": [
+          "ciqSSEPiH2JNoxTyq6E0WGyqgXarBLOnCUdRljq8igU=",
+          "py3"
         ]
       }
     }
@@ -157670,6 +157710,174 @@
         ],
         "xlwings-0.28.6-cp39-cp39-win_amd64.whl": [
           "Stiq9F4bzMTg5bF3vZQnso1jdMl44vWsGOJfdvk8H8U=",
+          "cp39"
+        ]
+      }
+    },
+    "0.28.7": {
+      "sdist": [
+        "snT76U9b02bWV8j3DVMZ+RmEA3MddShApxr5/dNwZh4=",
+        "xlwings-0.28.7.tar.gz"
+      ],
+      "wheels": {
+        "xlwings-0.28.7-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "12FCvxaK014lXOA82/JkX1FH4bAe4DLeuIJPtOwD0Ts=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-macosx_11_0_arm64.whl": [
+          "u1esU0ssY7QSilrYi1LqglwlD1TDDNKeXpHMTwim6gc=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "zuBs3E2z43OGB1RiwATvuQf0hLE+674cezYOkrLPhQ8=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "A5WOpeoBGf7664sehithJURWPYDpEzxN0JZ2HfFvD9E=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NeLzRtT9mJVXBM275QN4KbpXRJxrWjPalB8JTelHG8k=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "wgeA/dhYJwuSGMBakDJ6gplptT3MKftIo7vLmbQ3/QU=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "/ccZzATrT1uniHqtU17LI5RTnQOjNtzpUiJw9k7hGGE=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp310-cp310-win_amd64.whl": [
+          "SPkv7KG1x78sGEkMV76881ixsS7Q1K4NWDFLvbwd19A=",
+          "cp310"
+        ],
+        "xlwings-0.28.7-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "d6NPOn/6tle6PmXIFoi8HI2KwsxQ0uCKtoYQRIuvg8k=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-macosx_11_0_arm64.whl": [
+          "fjrDxNr1VQc9z6XIYsN26v3jPel7045kjslLGcMY568=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xiO3jfT7TrHU0c6B1p62zTHZxRB7mBoVsOQLoarekWM=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "P8u5/tzCPlfqLtKHHtDHsY1M+ZUcxBJDh9/+3afc/yM=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dP6T/ks2PmiuIFb0I+vB2amyGdifF6fsaNon158oSwU=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "1C/XznAU8zyIaFDibeDlo75BfCENEel2MFrfs9bHMRA=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "2SsfJyr0kVMPuJbnBJ4TU2PIFDjZcJISqg3aBhBkgOo=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp311-cp311-win_amd64.whl": [
+          "EcUL2Lop/M9HA5pWReUZG0K6/0kkRC61ZKQLBPSwr9Y=",
+          "cp311"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "v5Dp33cOdZH3gko2oE71iYHw6nA8Zv/nNYiS/wlnxuY=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-macosx_11_0_arm64.whl": [
+          "/ONTvCmyuG3Bzggy0pm+kUCJPNAOqVy8a1zAX29dk4c=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "3MbhWfWITbjZxDyQ1fQVTquB9zyfDheaEwZrYgGcjLI=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "BmlyDgDueCeZdlm8kuAQC0jUjZCLbpNxJRKxA7t6EJg=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n9HZfeY76fPZ26YFzhO7CNm0KPxvheZFZN2Y8HW9mfo=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "vnqTmZeVQIOqUYRNj5BFnL0ftA/xr3QScaCrH3/40yg=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "Bk+IKD7i4k+D+7LuohL5Fi50Qs9bUdzFbfVxVbaBlsA=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp37-cp37m-win_amd64.whl": [
+          "DPy7JQaeVPHqDVpHSG3KhceyEj51T2ZI08Q0ic8+UFY=",
+          "cp37"
+        ],
+        "xlwings-0.28.7-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "tuZJwNAtztJqM5Gtg0dRZt9iNOPrJ1fhLatiq5q9mlQ=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-macosx_11_0_arm64.whl": [
+          "eg8zMAH1PEwyhgEZTdAePDpMkb96NIgQxgA+e6VUlK8=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "61Vwtqu1W37Knjg9vvmk+sLGdvE+ffDmlZq0+K6AP7c=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "HeQIhCGff+eJj78gf9jBvVuZPk7aAl09f9EP7H+wiSA=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R7XhY3Kk/CeCH7KZQigLCPHpI+gojVCElmDevbe4RbI=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "ZQiuhErfUsO6T2MaAbFVa8/ooFEjSTCsou3xj/E2twY=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "1n12wJE3OIOs9ppuNvG6/SpK3If/sLaVJiJbPuTyjg8=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp38-cp38-win_amd64.whl": [
+          "59n6M2dPEE84UKY6lF6/z8c5B/yG+TaKb4OpU79Xfos=",
+          "cp38"
+        ],
+        "xlwings-0.28.7-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "VNWm5/1lLsKHalY/Vrt50uHRswmHULG3P5s6kZ6tkms=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-macosx_11_0_arm64.whl": [
+          "6ebxzecW1knonFLjkuucyz/67JhVLvr6oraP03aWtqs=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "X5SVjvLHZOQJn1CiST4bbTr/Reu7gzNymyUnPMCMwS4=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "T5ZSNs35stIAQHNDJJOkMxQgt1ZPZcJdIba4mYQqv9E=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Vloyn8xPsoE3fjUgP97la2gepaBCxK2z6nTIuz0RLuM=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "QL1IC4he26yEUdr1ziULUN/CBNCcR1wW6KUevHqDlKQ=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "yRIBOVPrXMZmivJmMafMn/KQjQX1qhFe6ORDgscA9Zk=",
+          "cp39"
+        ],
+        "xlwings-0.28.7-cp39-cp39-win_amd64.whl": [
+          "lqa4GVZr1Q6NKyUgYt2voEwq1H0iVIcbBADtg3MuAw4=",
           "cp39"
         ]
       }

@@ -66519,6 +66519,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "E+eEq+NYpNqAahTxlh7b9nTE1FzIoZzO0Wh4iC2snZg=",
+        "manifoldpy-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "manifoldpy-1.1.1-py3-none-any.whl": [
+          "534M4fJhzjpYKBjo4q1rnJMB1zOF6CLdpaIeSxwv6Z4=",
+          "py3"
+        ]
+      }
     }
   },
   "manual": {
@@ -92065,6 +92077,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "JJn0thnRDoP4V73wqQoR/lPwIqVV/g5XW39ZUl9VvQY=",
+        "NREL-sup3r-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "NREL_sup3r-0.0.7-py3-none-any.whl": [
+          "yvn+agTghB9aVcAyufg6/YqdDUU5BSO1jzcCyId/kyI=",
+          "py3"
+        ]
+      }
     }
   },
   "ntrprtr-fs-forensics": {
@@ -102514,6 +102538,18 @@
         ]
       }
     },
+    "0.0.169": {
+      "sdist": [
+        "r03upt0YAaN74gr4A1qun7RD5+f8qb9zSMhR5Pt6suI=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.169.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.169-py3-none-any.whl": [
+          "l+MzxKx6Tabl9l5StokFc0GsPqCTrAvqB6JP+FXdK44=",
+          "py3"
+        ]
+      }
+    },
     "0.0.17": {
       "sdist": [
         "V5qLqGUnFslb4jJTQvIqiSCtXSDh00E2mSEWP78dOXk=",
@@ -102522,6 +102558,30 @@
       "wheels": {
         "pepperize.cdk_ssm_parameters_cross_region-0.0.17-py3-none-any.whl": [
           "NHuCsYZNKjJcTTs34H7QZGuAfEi4AOdf8QIhy5JRipg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.170": {
+      "sdist": [
+        "N9fZHJE5+KHpLUgMGsDTcIT5WAjR6JO88YNQUF4JH+Q=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.170.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.170-py3-none-any.whl": [
+          "zupbHY0wax8LGK/X46cqjnPn+d7GqjSozGSr0xP/M/k=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.171": {
+      "sdist": [
+        "EIak/f8FQnDAOv46GOsy4OaMQS9DmJMRmwTMQc0/eEA=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.171.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.171-py3-none-any.whl": [
+          "aihBVT0UOMbNIYPNJLQAr/RY2exDRt7P2jmdDIt7gLU=",
           "py3"
         ]
       }
@@ -125838,6 +125898,42 @@
         ]
       }
     },
+    "1.16.5": {
+      "sdist": [
+        "Clf+lIKWBJusIBLH7qm9xgh4RVKEQPslyEKyG+livZ0=",
+        "robotoff-1.16.5.tar.gz"
+      ],
+      "wheels": {
+        "robotoff-1.16.5-py3-none-any.whl": [
+          "gTjPZ6TO/Viuxp86ObmRzUpVMaLXzc8xXwRtzi4/Su0=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.6": {
+      "sdist": [
+        "veVR32uRk/Ipu9Orot4AmjUgIVQag2/+QNx1rJeDIb8=",
+        "robotoff-1.16.6.tar.gz"
+      ],
+      "wheels": {
+        "robotoff-1.16.6-py3-none-any.whl": [
+          "JtRkeFBcfniVg1A9ecCTVPwuGorLuxyCWpgBDTBHXjo=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.7": {
+      "sdist": [
+        "Yei5wdIss1gQXA1dwe16DdSHCPkNPEgZlEXyMxporpk=",
+        "robotoff-1.16.7.tar.gz"
+      ],
+      "wheels": {
+        "robotoff-1.16.7-py3-none-any.whl": [
+          "u8VQ5jVLInCwQH2JQM2l328/x8iIBY2mZ1YmfFXaWM8=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "ttzNzRNI2sZTEq9fFPeIrwOsbuzv5PLPrgiipg00F+o=",
@@ -138410,6 +138506,14 @@
       "wheels": {
         "tf_model_optimization_nightly-0.7.3.dev20221226-py2.py3-none-any.whl": [
           "6ndVzSSyQHEvO2RrtFufOk8ykp2N04EnDrpDWkeY228=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.3.dev20221227": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20221227-py2.py3-none-any.whl": [
+          "M85unNnKUHuGNxVkgP95nY6OCvO5H+jHFSY8t5yLxO0=",
           "py2.py3"
         ]
       }

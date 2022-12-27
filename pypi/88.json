@@ -88975,6 +88975,34 @@
           "cp38"
         ]
       }
+    },
+    "1.8.2": {
+      "sdist": [
+        "pCmQBwqpfL4iegt/X8w8mS+JVl3TNso1m+gw6XAhhvU=",
+        "OctoBot-Commons-1.8.2.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "Ye82wM77qjrcGkSpO3WblkErE+eNjtja/Ck390tj2vE=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "EBNmxGsNTzAKYH4uAM2E2DeFOM1gQ7YchaZI3Gaz7MI=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X0AnwIulsYe9nnkozJ5TV3GOaouCQI0DYY6/wGPfZf0=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.2-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "CHV89nmyr5xi/XYccmKnC3qxJEmcB/QURheg1WdzDyU=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.2-cp38-cp38-win_amd64.whl": [
+          "sMrUF77XkKCQ4K0HStjPqv+YpEZ/249n3acWKjIaM2Y=",
+          "cp38"
+        ]
+      }
     }
   },
   "odinweb.flask": {
@@ -89158,6 +89186,14 @@
       "wheels": {
         "odoo_addon_mgmtsystem_nonconformity_type-16.0.1.0.0.2-py3-none-any.whl": [
           "zCqyEY0wEIoB8gdxT3lfLsUnWv8H/VXXxz/x0md+8Yk=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_mgmtsystem_nonconformity_type-16.0.1.0.0.3-py3-none-any.whl": [
+          "qN3lFh+pVj9f/fh7oJDTimNs8K0mpUtxOBqB2YYsy58=",
           "py3"
         ]
       }
@@ -139860,6 +139896,18 @@
       "wheels": {
         "weni_rp_apps-2.0.1a1-py3-none-any.whl": [
           "CdAH8UvybM2sJ2bAxXdwYHJOqWnNoOzeMFh8/g0VIAU=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1a2": {
+      "sdist": [
+        "3fNSvTj0nzLmSm9BkQT0ddDofMl9sXWxPS8mZLL5M7U=",
+        "weni-rp-apps-2.0.1a2.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-2.0.1a2-py3-none-any.whl": [
+          "ZAxgY9YWf77330mP6DH+IlvScP1EZJ4uoFDTz0EfHSM=",
           "py3"
         ]
       }

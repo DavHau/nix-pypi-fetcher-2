@@ -33275,6 +33275,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.4.1": {
+      "sdist": [
+        "247RKkI13kp6gjsqvRM69ZmUWlMGqAjt+FUxhJDS9CM=",
+        "cluster_experiments-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "cluster_experiments-0.4.1-py2.py3-none-any.whl": [
+          "sg+MJrnjWQ1FXbAljgXmnyorZYkW7hR5mM5/6a+pooc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cmsplugin-articles-ai": {
@@ -36666,6 +36678,10 @@
         ],
         "daal_include-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
           "YLwkC9zR5Hnjx29g9AqZ3bX71c1IgwZFgdma7DL+gho=",
+          "py2.py3"
+        ],
+        "daal_include-2023.0.0-py2.py3-none-win_amd64.whl": [
+          "YgM6Z88SF1NEI33muZtbk+GWf0Rvj+kOeRv3qrHcgMQ=",
           "py2.py3"
         ]
       }
@@ -115305,6 +115321,32 @@
       }
     }
   },
+  "reddit-multimodal-crawler": {
+    "1.1.0": {
+      "sdist": [
+        "cFzfY6AaqxD0l3Y+RjmEZjaMNjgpc1hrfofkd8OeiGk=",
+        "reddit_multimodal_crawler-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "reddit_multimodal_crawler-1.1.0-py3-none-any.whl": [
+          "EeYq5Td+t8VVWO3kWzBoP06QsUSEIiDVNlEddyMb6CU=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "rXiFtbN6QaDutfcTpn60+nX+1IW/lKBiLVSn9kY1mgY=",
+        "reddit_multimodal_crawler-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "reddit_multimodal_crawler-1.2.0-py3-none-any.whl": [
+          "9VY95HT4YtrQ3fvph39cpVKDBKE5TMIbOH8f0WjrLLI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "reeee": {
     "0.1.0": {
       "sdist": [
@@ -146539,6 +146581,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "unumposit": {
+    "0.0.2": {
+      "sdist": [
+        "7UZj9zRQUVq0Kc2vARdtmEDakxFm+ACEye3c0s8jdW0=",
+        "unumposit-0.0.2.tar.gz"
+      ]
     }
   },
   "uploadabletest": {

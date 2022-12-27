@@ -9481,6 +9481,20 @@
       }
     }
   },
+  "beets-filetote": {
+    "0.3.1": {
+      "sdist": [
+        "K772zuYQ11m5+7fRL6y92bRWFQ/HJHGRWGKKl9Wnq7I=",
+        "beets_filetote-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "beets_filetote-0.3.1-py3-none-any.whl": [
+          "5aa/MSk0waK/gvh+dKK+LV6CIknFnjTPGBt5cOBM4f4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "behave-plain-color-formatter": {
     "0.0.0": {
       "sdist": [
@@ -64802,6 +64816,12 @@
       "sdist": [
         "XwLb5vJU9sz3bDC42YYoUTiF/vrfZdvuAK+GAsRsX/Q=",
         "localstack-ext-1.3.2.dev20221223181031.tar.gz"
+      ]
+    },
+    "1.3.2.dev20221227131145": {
+      "sdist": [
+        "2qynrJnBHFJ9t5nqK4DyMG9WiBU1n2EJrP4rs+3u6hM=",
+        "localstack-ext-1.3.2.dev20221227131145.tar.gz"
       ]
     }
   },
@@ -142368,6 +142388,62 @@
         ],
         "xia_api_flask-0.0.25-cp39-none-win_amd64.whl": [
           "NyzCDk1wjPlcT3VU4Mstbd1ZPbs1YIwpiKSUfpK6Y6w=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.26": {
+      "wheels": {
+        "xia_api_flask-0.0.26-cp310-none-macosx_11_0_x86_64.whl": [
+          "t+Nz3vec+0Gx3UgzuzcYLbE/b8va5ZyiFFbEeqyoZOo=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.26-cp310-none-manylinux1_x86_64.whl": [
+          "6zoVggWtu3qweC30cnlguNs4zY9wFpnc6/8lfip88sc=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.26-cp310-none-win_amd64.whl": [
+          "aPJE/HrLF2aGsepP9xQA7DK48I2jpkcNF406ADg04cE=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.26-cp39-none-macosx_11_0_x86_64.whl": [
+          "Zi8PTTOCMoFByrdGXUAwFByN58TMULb6tKPv9CL3nis=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.26-cp39-none-manylinux1_x86_64.whl": [
+          "XiA1jVWuK4H5o8SOgsWae0/CfeRivCWyxtNsgzQZtPc=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.26-cp39-none-win_amd64.whl": [
+          "U6m2qzOL9FQzRNZnSklQI+3QxMW8vjdiBPbXlGcp+wo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.27": {
+      "wheels": {
+        "xia_api_flask-0.0.27-cp310-none-macosx_11_0_x86_64.whl": [
+          "oG8fKgq8PiZlZGFxNL3skteIPZyHzcXmBDVvGbtO0Ko=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.27-cp310-none-manylinux1_x86_64.whl": [
+          "xxLbW2Qwdm93NjVxOYxHwMvqUmY3A7L/NW+FY0oqdK0=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.27-cp310-none-win_amd64.whl": [
+          "RTG51ixPiJ5ZA/th6gDhSHjNSiBEy1Hof8q1NNgspDs=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.27-cp39-none-macosx_11_0_x86_64.whl": [
+          "RtBUV6vl4NBJBGSx+extTHjRc3fDw2RmeU5gydaQvSs=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.27-cp39-none-manylinux1_x86_64.whl": [
+          "WI+5d0sgSa+faF1k00tQUS1oavEFvFVApUKY7SAvBtM=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.27-cp39-none-win_amd64.whl": [
+          "nVvf+T7VsxmEN9I/ctwXAsB7RcWoZQJh4FH/f0GswJw=",
           "cp39"
         ]
       }

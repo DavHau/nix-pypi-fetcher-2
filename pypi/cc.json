@@ -25535,6 +25535,10 @@
         "daal-2023.0.0-py2.py3-none-manylinux1_x86_64.whl": [
           "k1Fqi01A3B/2srMNui7To37Ed26gCwuFLnQGrqLSGJY=",
           "py2.py3"
+        ],
+        "daal-2023.0.0-py2.py3-none-win_amd64.whl": [
+          "FbPxhHCbGjMxZmLbqy5FwQTiUoU0c06ANZeoctO7H0o=",
+          "py2.py3"
         ]
       }
     }
@@ -42068,6 +42072,18 @@
       "wheels": {
         "f1_22_telemetry-0.1.0-py3-none-any.whl": [
           "nN3Vp8zMOJ+OabyDVsdDw4BCe2ELf2T7nKQcrpe2RCs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "Q4Mrmy+gdexlqTtY8QvARrWfiCx9hf2pG5AlolLkf3w=",
+        "f1_22_telemetry-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "f1_22_telemetry-0.1.1-py3-none-any.whl": [
+          "Tzf6IaCZsTzLCJM13Tx/YUDIpEa8kHJU1toqGSkjrUo=",
           "py3"
         ]
       }
@@ -104135,6 +104151,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "WRrHCbOBh1QfPIqnFOir1mu+eP7W/TspMN2soHCBy3A=",
+        "quantile-scatter-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "quantile_scatter-0.1.0-py3-none-any.whl": [
+          "PwMuG2n267DOJkg+kKktgJZ+V836QQ8sXalo2r4Q8d0=",
+          "py3"
+        ]
+      }
     }
   },
   "quartet-masterdata": {
@@ -132778,6 +132806,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20221226-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "s9WtT0waC21Bpixy8hApigtOg89qusr+q6DAXmj43GQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221227": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221227-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wz4UdHzYEkDlnNVjnUJMHr2Heo2HPNtPV1lgcNJK9Bg=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221227-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Hk3/JNCWI5N0377p12Y4EBhgnb2G5hkPCAJYDBRcNmc=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221227-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "o/6ErXMArSi2IASWVouuNAkckrwJejZ/nyinAQWimNk=",
           "cp39"
         ]
       }

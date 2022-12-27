@@ -15609,6 +15609,18 @@
           "py3"
         ]
       }
+    },
+    "3.9.0": {
+      "sdist": [
+        "rtN0haDWoT2zU/PPzXQXzr/K3I1mstfhts7r30RvIiQ=",
+        "biobb_vs-3.9.0.tar.gz"
+      ],
+      "wheels": {
+        "biobb_vs-3.9.0-py3-none-any.whl": [
+          "p7OS8y+jxKE9/pzL4oK7wrT8eht6lkAFwf9hMyIuCxo=",
+          "py3"
+        ]
+      }
     }
   },
   "biop": {
@@ -87151,6 +87163,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.0.1.dev5": {
+      "wheels": {
+        "odoo13_addon_account_invoice_alternate_payer-13.0.1.0.1.dev5-py3-none-any.whl": [
+          "df+ICp4PvfUFgp3wF5td0C1qfDUk5BQXKtLhSAQE0Bg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-maintenance-equipment-contract": {
@@ -87582,6 +87602,14 @@
       "wheels": {
         "odoo14_addon_hr_attendance_modification_tracking-14.0.1.0.1.dev5-py3-none-any.whl": [
           "PzciOCv/Ziz+bgrxw2JQF2Ys8XxQ7MVistzfouLzyLM=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.2": {
+      "wheels": {
+        "odoo14_addon_hr_attendance_modification_tracking-14.0.1.0.2-py3-none-any.whl": [
+          "0fgpHJc+PDdQTbUL3ioMogncIvOHwHBKYeLo49WBdy4=",
           "py3"
         ]
       }
@@ -147907,6 +147935,32 @@
         "tld-0.9.8-py2.py3-none-any.whl": [
           "gKrCEwMq/ptPKfYFFU6lyg4ynSwpnNhEhTB1ogHPCSE=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "tls-client-for-chatgpt": {
+    "0.1.6": {
+      "sdist": [
+        "KAL2OcL1Unk3AgapCJ++rGvdtoFSCoKMQXjaSlR3cBc=",
+        "tls_client_for_chatGPT-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "tls_client_for_chatGPT-0.1.6-py3-none-any.whl": [
+          "ZfE/5lsThPYRdILW0wKRU5nET9E4jJfklKGbxirqE3Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "82p621glRXCTV+gL1FfWPG2wf3j+1ONKKiWzvlnRzlI=",
+        "tls_client_for_chatGPT-0.2.tar.gz"
+      ],
+      "wheels": {
+        "tls_client_for_chatGPT-0.2-py3-none-any.whl": [
+          "CeqXW2jWv1hkmykAS3trXftOU1oeVP3Hgr+o+WDz578=",
+          "py3"
         ]
       }
     }
