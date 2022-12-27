@@ -41425,6 +41425,32 @@
       }
     }
   },
+  "ghapi-client": {
+    "0.1.0": {
+      "sdist": [
+        "2nZxwJm8jU7FLNXY5NRc/PeF/+YVib7hDmZH0Vaou2k=",
+        "ghapi-client-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ghapi_client-0.1.0-py3-none-any.whl": [
+          "RqWg5qB8db82wokc3K7j5w6J42nFdx3P+fGvKlQi2bk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "vyOQmQ8UYTZ+96MVsKtHqIsgAXVd8ocZjyJZUM+aaDc=",
+        "ghapi-client-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ghapi_client-0.1.1-py3-none-any.whl": [
+          "QGmsh2L4zla5bCzWe1dSgPmCg4k/DIFNwQ5Ui7IaupU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ghpick": {
     "1.0": {
       "sdist": [
@@ -64348,6 +64374,12 @@
         "mixalime-2.2.13.tar.gz"
       ]
     },
+    "2.2.14": {
+      "sdist": [
+        "OmXcKWHgL5eDvIschX3CU9hMPUGXGBZ9AB3F6BUIP4o=",
+        "mixalime-2.2.14.tar.gz"
+      ]
+    },
     "2.2.2": {
       "sdist": [
         "cpV43ABuMhe/fc6c9KRvvsqBpOIXpicgD5h88VZ38/Y=",
@@ -73311,6 +73343,12 @@
         "ywZom/lRFlvyuN1v0UQjvCmR4N6U5ZTmFsOfyxA9l8k=",
         "mwcleric-0.8.6.tar.gz"
       ]
+    },
+    "0.8.7": {
+      "sdist": [
+        "s56QCmgq4JKQMVZ2B6v8nB1+3JaYh5eoJfL9hO7BYWM=",
+        "mwcleric-0.8.7.tar.gz"
+      ]
     }
   },
   "mypdfconverter": {
@@ -82032,6 +82070,14 @@
       "wheels": {
         "odoo_addon_account_analytic_sequence-15.0.1.0.1.1-py3-none-any.whl": [
           "Cq6zUyl6ebUNwCLg2l3s998u6ltvDHGqUxx2Wo9w9Wo=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.1.2": {
+      "wheels": {
+        "odoo_addon_account_analytic_sequence-15.0.1.0.1.2-py3-none-any.whl": [
+          "ikq8ldTZ8XsGxGuuT9z2/nBGYQq2DXX3x0qKFxq1kTI=",
           "py3"
         ]
       }
@@ -142382,6 +142428,46 @@
         ]
       }
     },
+    "0.11.3": {
+      "wheels": {
+        "vineyard-0.11.3-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "yRmjDY9amsrH00vmMMrIt5wD7xDXPKJ8kkjaKMq4fWg=",
+          "cp310"
+        ],
+        "vineyard-0.11.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Kv7jQL7uEvf00G8FEpSW3pij3Qt3KVs5g6KuBQkhaiA=",
+          "cp310"
+        ],
+        "vineyard-0.11.3-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "/ovgiMDgHoKvF59c0hA9pHz/29faGK35CORKLrklk8g=",
+          "cp36"
+        ],
+        "vineyard-0.11.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "7L1aiwmkPzlMZbI/ZJHr3GJMMZlPuLfKzBvJZAg4Btk=",
+          "cp37"
+        ],
+        "vineyard-0.11.3-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "HzFjRaTUOZ+HjonGFnbr2KXSganTVmLRumMdOTamxEs=",
+          "cp37"
+        ],
+        "vineyard-0.11.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "Mj/irNRnBw9chWSAXz5Pjoytme95p2DOdoL5a2nlZGI=",
+          "cp38"
+        ],
+        "vineyard-0.11.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "u1FRFZfZbgxqQdANzY6l1/TUAv6um7ZB72qrsJVshQs=",
+          "cp38"
+        ],
+        "vineyard-0.11.3-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "WB0aTAAvjunN9wpOorHgvSDZtjOgFynYBkV7rw6w22g=",
+          "cp39"
+        ],
+        "vineyard-0.11.3-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "cqCgg6V4pBtGJNOE7hc+SFLUmxPwd4wDzuGbFe0z3vg=",
+          "cp39"
+        ]
+      }
+    },
     "0.2.0": {
       "wheels": {
         "vineyard-0.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -149726,6 +149812,18 @@
       "wheels": {
         "yolov5tospace-0.0.2-py3-none-any.whl": [
           "X/iF+8CFoFeR6xvnpT7AWOARWUaptRr7hBhymcVWrZo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "KFk/lXZSSdBRL0h8RVdH8BmAV+B/Ce5WR/uWoANEl0M=",
+        "yolov5tospace-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "yolov5tospace-0.0.3-py3-none-any.whl": [
+          "hLxErWrBtmVw4IIPuZblq2PSAVNrA9ceqmQB+Yqdq+Y=",
           "py3"
         ]
       }

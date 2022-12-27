@@ -9994,6 +9994,18 @@
         ]
       }
     },
+    "2.0.70": {
+      "sdist": [
+        "oX+PbLvPPoQBMXxzwtxxEQC3Fzwbq1a49gWGv+YM1nc=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.70.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.70-py3-none-any.whl": [
+          "pUtVbkaPv6t3bXLEDmysZNfe6lNuqsTXU33UhaPQnrg=",
+          "py3"
+        ]
+      }
+    },
     "2.0.8": {
       "sdist": [
         "GdboVpw7dvGw6khN2NFqyCXDmo6tcTpZH2Y5q7/aBmw=",
@@ -98690,6 +98702,18 @@
         ]
       }
     },
+    "0.0.38": {
+      "sdist": [
+        "jyfLZkB7vGL1bwmXCp/HzfyXEc6f0ZRSnlwgN8Af34c=",
+        "PaLM-rlhf-pytorch-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.38-py3-none-any.whl": [
+          "i+05hvXrBd+h42g71xdRMscLi0N9+3CA05QyKwNVMxA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "T0buCDoUeW2YrI+DR1B/MnyP39lCNvtDhad5hEJNdWI=",
@@ -106879,6 +106903,20 @@
         "tkM2D7K/j+h9fcVmxCajQXv8CWFreZZgkvoOz6vpLoM=",
         "py_w3c-0.3.1.tar.gz"
       ]
+    }
+  },
+  "py4xml": {
+    "0.0.1": {
+      "sdist": [
+        "0IzMtyr/dvgcWmnHLyCrjMUrvmtVfw59fCCNYc/uzDs=",
+        "py4xml-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "py4xml-0.0.1-py3-none-any.whl": [
+          "w4t+CV7mCTdzx+U/8xL+Kh0s4yuY74Wpi4nOPbL84pg=",
+          "py3"
+        ]
+      }
     }
   },
   "pyanywhere": {
@@ -139274,6 +139312,18 @@
       "wheels": {
         "tencentcloud_sdk_python_advisor-3.0.801-py2.py3-none-any.whl": [
           "ENFF6ibhICiEKBzubyJ/K15mt/vv2SLKa4uyMP7INmk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.802": {
+      "sdist": [
+        "6aBNBkbeYHUzsij3qaLTUD780+Al1jusmWkCYM3lb48=",
+        "tencentcloud-sdk-python-advisor-3.0.802.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.802-py2.py3-none-any.whl": [
+          "6fjpXRFdxEEWFekk7ss4XqFfNzpl9e79bFhaESW7yAw=",
           "py2.py3"
         ]
       }

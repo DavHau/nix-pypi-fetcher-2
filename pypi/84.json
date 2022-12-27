@@ -18912,6 +18912,18 @@
         ]
       }
     },
+    "2.0.195": {
+      "sdist": [
+        "ismnb9TsuNmDYJJ/rdDX4W26Yr+GbklZgEe5pfllBRU=",
+        "cdk-tweet-queue-2.0.195.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.195-py3-none-any.whl": [
+          "g7/Y0ud5bX1TDUyjQmKGxUQeNLShouvGErgUgKHWYd8=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "wR0sGbRRdjlJzHUmtcNg8WHByLJsKpdbpOXAf0BWwRI=",
@@ -46223,6 +46235,32 @@
       }
     }
   },
+  "geography-guessing": {
+    "0.0.1": {
+      "wheels": {
+        "geography_guessing-0.0.1-py3-none-any.whl": [
+          "K99VSuw4gelvpp5f2ZQ1iSeW3GyN42AwOqvXyhO+8L0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "geography_guessing-0.0.2-py3-none-any.whl": [
+          "rLr04ryy6xmDh/FCqZ45evIlr22JswlpDxKEhg49hc8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "geography_guessing-0.0.3-py3-none-any.whl": [
+          "PxshkJm0tDg/bOlukwql3QcqoUWTL13iCG+AMKkrcb8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "geograpy": {
     "0.2": {
       "sdist": [
@@ -49120,6 +49158,22 @@
         ],
         "graphscope_client-0.19.0a20221225-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "lbOHv0onKQxGDYABCDHPxUSRhzHn4tBGETbGPtrKbQE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221226": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221226-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wH2MD8bs/ZGyFJ7e1Zk1h8lza/ddZ2ISoSs+ZtOqzyU=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221226-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZTQiaT8c/l8AR6tN5P6yd9Sd1l/jL2ZNn404qWebQqg=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221226-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5x2r3moEhNaDsMxviKR9crc4IMWV4L4A17AOFZcy6JA=",
           "cp39"
         ]
       }
