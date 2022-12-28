@@ -23909,6 +23909,20 @@
       ]
     }
   },
+  "cprints": {
+    "1.0.0": {
+      "sdist": [
+        "UDOBIcmrFHc4dm2nO1nA5H810ua2/ikHQZ9ysrgnAug=",
+        "cprints-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cprints-1.0.0-py3-none-any.whl": [
+          "YvB3yNjjpyqJphyM8MV3aA4+gHtA/A+W35/rV6i3lzI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cqe-jdsu": {
     "0.1": {
       "sdist": [
@@ -61196,6 +61210,30 @@
       "wheels": {
         "kraken_std-0.5.6-py3-none-any.whl": [
           "GtkI2G/Q+atRrRK8WBp3A31LvB7c+p5Ki+dzR0Er/ew=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.7": {
+      "sdist": [
+        "L2ulJD3wAF1h0B+u24GmH0qMYzBcqRXCPXOJ7rYaoJU=",
+        "kraken_std-0.5.7.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.5.7-py3-none-any.whl": [
+          "yDErPahXaMazG2BtsCB5R6z7gQ4nxcFRoxeW3kAg95k=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.8": {
+      "sdist": [
+        "Sq75awOC1UAYTcsVVB5hnikxV+wZ9XbGyC67r0t40eE=",
+        "kraken_std-0.5.8.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.5.8-py3-none-any.whl": [
+          "GgOci9/qxqAnYlXHMJrinsKR6y+AY0hcsq3YFu6+hW4=",
           "py3"
         ]
       }
@@ -130589,6 +130627,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.803": {
+      "sdist": [
+        "AXsFf/oNIWkEKYBJDuBq9qJsR4PcrTUlgFV+89pwQxc=",
+        "tencentcloud-sdk-python-tia-3.0.803.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.803-py2.py3-none-any.whl": [
+          "ZTT/+yH+SS/ttzafCm3eyFqWzWlqRh96RR2+ghxv6Wk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tentaclio-databricks-pyodbc": {
@@ -132858,6 +132908,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20221227-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "o/6ErXMArSi2IASWVouuNAkckrwJejZ/nyinAQWimNk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221228": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221228-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nxebrP85qO6lMsuVIcwZTL8QC58dLLLeAgeengR1+so=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221228-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZMkXFBqUXy40im2sMHFoXLgaLzp7Y0jBM95v6X/hmZ8=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221228-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "V3RPH8YK4yhH0mFb9AF13Qn7Hi4IQYqVoAXw8/+3MXQ=",
           "cp39"
         ]
       }
@@ -139728,6 +139794,18 @@
       "wheels": {
         "vctoolkit-0.1.11-py3-none-any.whl": [
           "/o/swK8JbvmelVMOpjT0Q/eCd5i1PQWzAuG6BUM5AEk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "F4eN7923pd6hcfPU/NxVMOcJBVf5HrnnitEWuEDglHU=",
+        "vctoolkit-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "vctoolkit-0.1.12-py3-none-any.whl": [
+          "eHIh2C42bNDU1FoxB09lzyXSq5f5K8E095N57mcg6T8=",
           "py3"
         ]
       }

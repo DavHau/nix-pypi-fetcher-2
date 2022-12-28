@@ -7940,6 +7940,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "IKfaKIT1KTDMpwhDm+00glfcxE1uAtqfutDqO0FCo84=",
+        "aws-cdk.aws-dms-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dms-1.185.0-py3-none-any.whl": [
+          "tyVNfPzgk83Y4pIT4P5xyVZxjBvY8LhUy5vdy7cFrVA=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "sKuR4p5rDLG/iGuQBvZBbk7SsFfxN2ENoLhSdXBlQ+g=",
@@ -40809,6 +40821,14 @@
           "py3"
         ]
       }
+    },
+    "0.9.4.post0": {
+      "wheels": {
+        "fastdatasets-0.9.4.post0-py3-none-any.whl": [
+          "f87wmgoX27qujmWMTtsQzUW30YQZKgHgWqicw/uoDwA=",
+          "py3"
+        ]
+      }
     }
   },
   "fastdl": {
@@ -55746,6 +55766,20 @@
       "wheels": {
         "jsonpkt-0.0.2-py3-none-any.whl": [
           "VZf68p8tA6bsHN40R1AxmO8Q2zOCGcwrdu0O6weEL24=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "jupyter-gcp": {
+    "0.0.2": {
+      "sdist": [
+        "qoQ97/84CUgfFtIMRyddwO0qEjVAQYL83KOKOiUY/jg=",
+        "jupyter_gcp-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_gcp-0.0.2-py3-none-any.whl": [
+          "vZKg7lf/LVp6QnAWZNjhJeH4F0FY1ulPvnUo8mvQycA=",
           "py3"
         ]
       }
@@ -153012,6 +153046,14 @@
       "wheels": {
         "yxspkg-6.14.3-py3-none-any.whl": [
           "ZUDiR/afEzrjxfzhY0ob3GHyTxuB309XxgO1QCcrI3I=",
+          "py3"
+        ]
+      }
+    },
+    "6.14.4": {
+      "wheels": {
+        "yxspkg-6.14.4-py3-none-any.whl": [
+          "1g/ZNAx/aVCSJXCqexqMq8NvL+Q6rJ6DziGWFPM8Rx8=",
           "py3"
         ]
       }

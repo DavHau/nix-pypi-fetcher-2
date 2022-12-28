@@ -6217,6 +6217,18 @@
           "py3"
         ]
       }
+    },
+    "1.185.0": {
+      "sdist": [
+        "I0At1TmK+rRhhaKIFnbdd66xdGiPTDXIZ+Kcn89GhA8=",
+        "aws-cdk.aws-nimblestudio-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_nimblestudio-1.185.0-py3-none-any.whl": [
+          "dvOX8SJsxnxl3AMNMXseUNXhSR+60vW7297a1rQmhac=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoveryreadiness": {
@@ -7140,6 +7152,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoveryreadiness-1.184.1-py3-none-any.whl": [
           "IflTbJxKIs/dRUeny1pYcBCh5RsqtLl3rHi8tbKIuko=",
+          "py3"
+        ]
+      }
+    },
+    "1.185.0": {
+      "sdist": [
+        "ulUyuu1BW0S1bcuPadv/sDUYbV0qzkzel7zf0oBGgbE=",
+        "aws-cdk.aws-route53recoveryreadiness-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoveryreadiness-1.185.0-py3-none-any.whl": [
+          "NvGfoeMdV+dn+4FBK5d50mi+6/lJpo2fktc/dvIGFow=",
           "py3"
         ]
       }
@@ -10950,6 +10974,32 @@
       "wheels": {
         "base2lines-0.0.9-py3-none-any.whl": [
           "EFv/7ZNsfeoJIK2Ip0Zy+K240mOZqCFCVh126wKfre8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "basearr-py": {
+    "0.0.1": {
+      "sdist": [
+        "4SCup3BKOR0i3v+Li0mQiXJIEZwH4VVtcvTigMrDFek=",
+        "basearr-py-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "basearr_py-0.0.1-py3-none-any.whl": [
+          "hNGbm2OA78PsviJ0YIYlbOzuGdHv+T7iLS0IlH9A1Mk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "vDp+XUQIDUWy5273/7V2YdagWM/m2we6zEEeqSs9iU0=",
+        "basearr-py-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "basearr_py-0.0.2-py3-none-any.whl": [
+          "dl6ZPlWRpAuVIV+SvwaEcwZB5aTc+/YN55rlekzLPjI=",
           "py3"
         ]
       }
@@ -144030,6 +144080,14 @@
       "wheels": {
         "tencentcloud_sdk_python_iotvideo-3.0.802-py2.py3-none-any.whl": [
           "gYnCxRp7UD/LgrFEEge+mkn2+z0aNQBoj2Qp7Vk9q94=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.803": {
+      "wheels": {
+        "tencentcloud_sdk_python_iotvideo-3.0.803-py2.py3-none-any.whl": [
+          "ASNKZxL89PRSMK5U7W5WSXmla8TRtgHgkILoUdrGq9Y=",
           "py2.py3"
         ]
       }

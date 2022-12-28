@@ -9992,6 +9992,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "rEzgN8rcf9+A9MKZwRAMvkM3QtwlveTLqUbDfwbtzeY=",
+        "aws-cdk.aws-backup-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_backup-1.185.0-py3-none-any.whl": [
+          "qVsTxl4tsmMjz/mHG9LdC4ZSQPunFT5GLP03mJOewtw=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "UBpeoB1UVhGevFq8ucXgSEqDRG7rwX5rt61OiWns+Y4=",
@@ -57589,6 +57601,50 @@
           "py3"
         ]
       }
+    },
+    "0.3.0.dev968": {
+      "sdist": [
+        "RB5dcxWHrUQ6GmKI8vMVMHIkLiQmxAtvjnI6V80iyNE=",
+        "flet-0.3.0.dev968.tar.gz"
+      ],
+      "wheels": {
+        "flet-0.3.0.dev968-py3-none-any.whl": [
+          "JXf20tClQGRDVxkRIu3On9bCgsDubxGFUGKnZJRy/2E=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-macosx_10_14_x86_64.whl": [
+          "fjfTx3iuS3/mG6j7YTDFCeE45B4/MI539dw0/W38NRI=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-macosx_12_0_arm64.whl": [
+          "JtqQwJWArsJjMO8OlZgrBsLUW6IJ4Nhb0IMjJcqAFOk=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "klqcfKo+FnIABvTrBTT3aUOCPyZVblHL05829ozeuMY=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "cOk5iBtXb/+pqhtQLTsG2I3gdlIaNCqQHp6gXLBIGQc=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZKtNKleqvMz+jIEmkRR7fClbrd/oCHecGSBJqw8I/vU=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-musllinux_1_2_x86_64.whl": [
+          "56agX0pkO8CFB0tJnp2QHhSl3d9eMDHxigdXfHUQ4LU=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-win32.whl": [
+          "s1b5GwyG3HHUvA9KhCgQ0RGzzBeiaSiAnm0FqTtRSdU=",
+          "py3"
+        ],
+        "flet-0.3.0.dev968-py3-none-win_amd64.whl": [
+          "TpFZgWxJdOszAv+H6DFWInm+B2NXRW2x0gzdoo/FhX0=",
+          "py3"
+        ]
+      }
     }
   },
   "foamgen": {
@@ -57681,6 +57737,20 @@
         "1+oT5PBbtc8K0Rv57mOXZfXjYgBno1r/dZD6YxUutKQ=",
         "forever-0.8.8.tar.gz"
       ]
+    }
+  },
+  "formatslackmessage": {
+    "1.0.3": {
+      "sdist": [
+        "8sP4I4rhNRc2YXiS/Agd+F5580XO2gTRJzwiJgy7Pro=",
+        "formatSlackMessage-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "formatSlackMessage-1.0.3-py3-none-any.whl": [
+          "81cuzREv4C1axAX9GbiY0IjnFoGkljM01HGZ+moyhXY=",
+          "py3"
+        ]
+      }
     }
   },
   "fortnite-vbucks-generator-no-offers-2022-v-2143": {
@@ -96418,6 +96488,14 @@
       "wheels": {
         "odoo13_addon_mgmtsystem_audit-13.0.1.1.1.dev11-py3-none-any.whl": [
           "9gA+wyR98FWQoN1WEQOwXpdmGju4DeYnEr6+6/+Cnco=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.1.dev12": {
+      "wheels": {
+        "odoo13_addon_mgmtsystem_audit-13.0.1.1.1.dev12-py3-none-any.whl": [
+          "WbO5wixp1grqCVa72/ZZc939D5qA70FSGSEnj+hguJA=",
           "py3"
         ]
       }
@@ -145998,6 +146076,12 @@
     }
   },
   "tencentcloud-dlc-connector": {
+    "1.0.0": {
+      "sdist": [
+        "QaNU0mNbSMUk+u2DndffdxxUeUvUNleFKmphsH50aoo=",
+        "tencentcloud-dlc-connector-1.0.0.tar.gz"
+      ]
+    },
     "1.0.0a0": {
       "sdist": [
         "co/bI2aYli0LFnhdfQvQ9ROFbIcBKCRsB455KQg1YUY=",
@@ -148396,6 +148480,30 @@
       "wheels": {
         "tweetrelay-0.3.1-py3-none-any.whl": [
           "baw2skKDzB8if1pRNEEVSASkCuuh8yd4CY0cNp8OtsE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "9TU8Z4ivJ7vuyKOdwLt45O70ATAM426UXD5NlgaOR8k=",
+        "tweetrelay-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "tweetrelay-0.3.2-py3-none-any.whl": [
+          "pHM5NrMl9Slw26QCsIJ1A164lGU5j2fzMyn8tnVT+m4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "iIgRpYEF6VfrbkDSWDjCceg9rsYt7B8nZzvAjmEU0f0=",
+        "tweetrelay-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "tweetrelay-0.3.3-py3-none-any.whl": [
+          "iSK9sQmGxquAF+HIQ6GulWPUvypDZR412R3LepCZZjg=",
           "py3"
         ]
       }
@@ -152756,6 +152864,22 @@
       "wheels": {
         "vmn-0.7.12-py3-none-any.whl": [
           "JUgmcR9bgLbX6LxETo7noXV3xv7VZ16x3fNde9OdIUM=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.13": {
+      "wheels": {
+        "vmn-0.7.13-py3-none-any.whl": [
+          "SygUkCp5LML0s374A5qLvqxYXKTtIAu2qWuO2ofK+FQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.15": {
+      "wheels": {
+        "vmn-0.7.15-py3-none-any.whl": [
+          "fqNHD0rXhT07bq9ECbd0jOAAhouOjBp2jw6qUdhGpnQ=",
           "py3"
         ]
       }

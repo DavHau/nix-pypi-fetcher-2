@@ -8692,6 +8692,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "0ktEC4+nv3QXi8NWezqP0UE+8sKgFIcxg/9nUuKf3kg=",
+        "aws-cdk.aws-cloudfront-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront-1.185.0-py3-none-any.whl": [
+          "yH9Plxv0v+tSKkg2XVf026oyhWeFaXBX1D7+HhG0xrY=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "4ib6kNVsqVdm79BGpKAxnbjdXGOBMQcs2Mcbc+/K96c=",
@@ -93069,6 +93081,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev7": {
+      "wheels": {
+        "odoo14_addon_base_name_search_improved-14.0.1.1.1.dev7-py3-none-any.whl": [
+          "9O8AeMjyJcZ4DdilMQCI32mSKRn64Hafrk5Luk5VDMk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-base-rest-datamodel": {
@@ -138994,6 +139014,18 @@
       "wheels": {
         "tencentcloud_sdk_python_organization-3.0.802-py2.py3-none-any.whl": [
           "KlRSN0bPHeR05cW7QALsmRhLRnFZtsHlg7rwDkZ9EnM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.803": {
+      "sdist": [
+        "agodGNl+YaSRbC+sFgxPyRBuEJtQt156nuK3cdKcGJI=",
+        "tencentcloud-sdk-python-organization-3.0.803.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_organization-3.0.803-py2.py3-none-any.whl": [
+          "WsITDyx7llCdrPlhTq3RcZmHZjgyCyAkEpMKMaayGjE=",
           "py2.py3"
         ]
       }

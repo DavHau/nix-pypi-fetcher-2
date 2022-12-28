@@ -8820,6 +8820,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "LBfEVil6oiKUx73JAjd4Vvtnrll+3lGI3BXbXwDPQgQ=",
+        "aws-cdk.aws-resourcegroups-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_resourcegroups-1.185.0-py3-none-any.whl": [
+          "9cYzltJXuGBtUVnXkSskqQsqYsHawkC4MyoGAvIP+4U=",
+          "py3"
+        ]
+      }
+    },
     "1.32.0": {
       "sdist": [
         "t/TICJlx0XQWNHt8Sa8B8GBIreQmVRMCNttN6ymPMLI=",
@@ -11254,6 +11266,18 @@
       "wheels": {
         "aws_cdk.custom_resources-1.184.1-py3-none-any.whl": [
           "QVD8AOLvesuik9jRA2RPhz6kWlOeU3plYPjNvRnDd4U=",
+          "py3"
+        ]
+      }
+    },
+    "1.185.0": {
+      "sdist": [
+        "VgrhZbsisBFzzLG2Hcs52DvXCgGC3QvAg6W+S2Y3oeE=",
+        "aws-cdk.custom-resources-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.custom_resources-1.185.0-py3-none-any.whl": [
+          "gysxR3lHdAbdrB4oCDHurkMilHCnJU5CJWQGMy3TMRE=",
           "py3"
         ]
       }
@@ -15174,6 +15198,22 @@
         ],
         "bigdl_dllib-2.2.0b20221227-py3-none-manylinux1_x86_64.whl": [
           "U2ixm0qenJshhvd/HdbN3nK02dGbyOkCbyw6NAFRUwQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0b20221228": {
+      "sdist": [
+        "mLTvtP3sZPIIqoYSqhOl8G5D+WdDRes5xe8qwHtBFpc=",
+        "bigdl-dllib-2.2.0b20221228.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221228-py3-none-macosx_10_11_x86_64.whl": [
+          "PWyKcWPenp2cSoshnqOGJGH3YyH5KahiW8ELGel3r/I=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221228-py3-none-manylinux1_x86_64.whl": [
+          "GzYCeEB/voF8pAdc6VLri0sChEaNesSsiC9hrhQUhQo=",
           "py3"
         ]
       }
@@ -83183,6 +83223,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "pB00WtUsDK7rKw0KTFTVU2JZCLheMojDbnQ5x2vGkqg=",
+        "pandas_eda-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pandas_eda-1.1.0-py3-none-any.whl": [
+          "uZpob8AxfafW6DgfgMmiMN7i7ZaGh4QkWAbOQQA5JCc=",
+          "py3"
+        ]
+      }
     }
   },
   "pankoff": {
@@ -135187,6 +135239,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.803": {
+      "sdist": [
+        "GQo/O8uAU8aJ0ZA+fLoD6ygYyfiHvFDPD26zXCCglRM=",
+        "tencentcloud-sdk-python-tds-3.0.803.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tds-3.0.803-py2.py3-none-any.whl": [
+          "+2xGUrkPkMcYPRdnEUJHmM7+RFsxPTeL7agCdQlmWEs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-connector-mq": {
@@ -140194,6 +140258,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221227-cp39-cp39-win_amd64.whl": [
           "8ssECOBXzkKrvbI8h3653X0iPFHvBRGicP2ij7bBGns=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221228": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221228-cp310-cp310-win_amd64.whl": [
+          "t91vaNss5r+OlGQM/vGkQyueyYRkFhxOXJeJNA8i1vw=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221228-cp38-cp38-win_amd64.whl": [
+          "lzo3MUXY4krYQLD4xj28JxHbUtS45FEJnOru0B6dEp0=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221228-cp39-cp39-win_amd64.whl": [
+          "61s5IX4M6U9KEiaNy1tdauo/SC+KDX/ldD7C3E4Hn8A=",
           "cp39"
         ]
       }

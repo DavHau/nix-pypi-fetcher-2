@@ -10200,6 +10200,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "CNiZoIoNe0AUBqMAAFe72wEaZGIL9p/qz0KyWy4Vd2c=",
+        "aws-cdk.aws-appsync-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appsync-1.185.0-py3-none-any.whl": [
+          "uqDhO5aJSjBhpESv6c8xNTLobUJOwyy2kRzMKc2I7dU=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "HIPstBwtWUK+zlwC3xWyItQxHHNzJLoxJN9CQqninVs=",
@@ -12686,6 +12698,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "n1X+DfrTFL/Pkw5A3gIiCmYg9GFM5kEZK+QS5+D7J3w=",
+        "aws-cdk.aws-codestarnotifications-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarnotifications-1.185.0-py3-none-any.whl": [
+          "v8Nn/AzcBQM9YR0FenIgMMH/LEhtpCguhm6i109+GAU=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "/zBP5wHuqJXgYYjN7zDL+4DNPkIj0zTMjvtuNbiNn+8=",
@@ -14864,6 +14888,18 @@
       "wheels": {
         "baseweb-0.0.9-py3-none-any.whl": [
           "Gp5O+ouqOBH88Rdm/aF6gpygS2JlmCVEt3HD4PsqP64=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "rKWKgqi4bE1+tXF6L08ACqTjjJcmjt0SJ6gjbrNMg/I=",
+        "baseweb-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "baseweb-0.1.0-py3-none-any.whl": [
+          "llG7C2PlWwf8AHHJkzUSmNSRkxq57SrDDtus9A0n9Ug=",
           "py3"
         ]
       }
@@ -47110,6 +47146,74 @@
         ],
         "fast_query_parsers-0.1.0-cp38-abi3-win_amd64.whl": [
           "AuHJNFRmuDxOrcrVWlLseu98XfQQo9D9ATcu0BGaoEE=",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "OgEF3D9cOb7+iarrWsDnHgL5hU91/Qm0sTd1CFvkSrU=",
+        "fast_query_parsers-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "fast_query_parsers-0.2.0-cp38-abi3-macosx_10_7_x86_64.whl": [
+          "T3IZ4dx0gDB6MvrgAEcMK4l5hJo0OV13h4mNoj59an4=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "MBFUNgo5sdw0fpqeDLNXjIh39ju5Y2fVToASuBpAB7M=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "sVVrerZhRSXVaX6fRr1WIA3lBeZCPumd84+IFj33BT0=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "/exoE47TJ/G4k+CngVaosvz8B1PMJuoo2lPVeIAe+G8=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "l2SDnERMAlqq0RQ3Ppsebq/RbjIyFmOocIETWPnWXxg=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "A1ILqIis/YomoaTPpgxJninbXU0v3NGo85PHhq1JPRM=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "6dhsngnx7rtvoWF5L2VluLSCEhHvWPBU8xg8IQrAGiE=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "P/rwzeVmUsK0DskpK0q9ecKnag8JX/si2+rWEp9HIJ4=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "hicFKSsAPTwfDQIZvodLWG5xo+m8RirSRJPH3j18pTs=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-musllinux_1_2_aarch64.whl": [
+          "UTNf/tLYNeX2efjwHFk+hHeyGm5ryQoMqp4etmAW5TM=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-musllinux_1_2_armv7l.whl": [
+          "jlXBKvYjXQTNHtDd+8+Vm9EmWwv2qPpbFIH0f+tEvtc=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-musllinux_1_2_i686.whl": [
+          "Ml8mcBM4i5AvnQqVqEoSjDrrLxslJJTn9Rbf1DPH5ag=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-musllinux_1_2_x86_64.whl": [
+          "KRbn/lC5HJ8Fdq98awZnfmY0pwF5Z/49LpAwqGplCvo=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-win32.whl": [
+          "pdJicJ4vCKX5UwcBYOq+fKPJCZhQJrAO48fUXQv5udY=",
+          "cp38"
+        ],
+        "fast_query_parsers-0.2.0-cp38-abi3-win_amd64.whl": [
+          "Gg2LNDWmq1GsjrOpbquPxxWwnn4ZbsdK9IrEsSbz1Lw=",
           "cp38"
         ]
       }
@@ -85923,6 +86027,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "W5TN80Jp6PZUGbShXpQBt1Uq3NyKYfOJGoecLQfg4gs=",
+        "mosartwmpy-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "mosartwmpy-0.5.0-py3-none-any.whl": [
+          "JIbXFSuX92F/krUE3YEw0dex6se8ExBEuO//MDp+ANg=",
+          "py3"
+        ]
+      }
     }
   },
   "mosek": {
@@ -105240,6 +105356,14 @@
       "wheels": {
         "odoo11_addon_website_form_recaptcha-11.0.1.2.1.99.dev8-py2.py3-none-any.whl": [
           "WbQFo72a1Y1qvD7AqfrHwxHqWM2izUmOhQCaMaNFpNE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.2.1.99.dev9": {
+      "wheels": {
+        "odoo11_addon_website_form_recaptcha-11.0.1.2.1.99.dev9-py2.py3-none-any.whl": [
+          "nAoTqLUysxXwcAb54Zi96fIauJYc15hEx/oGmfLBLQI=",
           "py2.py3"
         ]
       }
@@ -137184,6 +137308,12 @@
       "sdist": [
         "sPthoj4IfaxB368hZ6w36tUcKWoNg6mh8mifYzzzdYA=",
         "sdtbu-acm-tool-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "36WTQi636bU1J5PAzW5EMP1gbwfT2Kb8ZMa/VbqLr2A=",
+        "sdtbu-acm-tool-1.0.5.tar.gz"
       ]
     }
   },

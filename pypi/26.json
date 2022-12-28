@@ -9334,6 +9334,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "6G04LTXHtGf/as81/VRKXwKfg8je8YkuKlzUKG32/VY=",
+        "aws-cdk.aws-workspaces-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.185.0-py3-none-any.whl": [
+          "NmgRb54/s2ZSyfXp30r/xeHdDnz7UcBFexsvFz72dU0=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "L/y2Dcn1059J233xQwMJa3jitEuSGiKLbeZv4ms/qwc=",
@@ -114668,6 +114680,12 @@
         "pythonagent-0.0.20.tar.gz"
       ]
     },
+    "0.0.21": {
+      "sdist": [
+        "cECXvNvsrpSFUh+Iej57koBFw9uINi7LaEv6hD5+WZU=",
+        "pythonagent-0.0.21.tar.gz"
+      ]
+    },
     "0.0.5": {
       "sdist": [
         "Zg/1Q5N182spcrkbtu9yTgDt91Cgg5bqYl51XM9fCeI=",
@@ -129050,6 +129068,18 @@
       "wheels": {
         "streamlit_cropper-0.2.0-py3-none-any.whl": [
           "ezbL6kvNkblHTaBFgR6cBn4MHLeIWzJXJEDu7Ga2JgQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "KbmXAaViFDYRPxLWQwTou0AvjeMpWNE6bul3LjNIUrA=",
+        "streamlit-cropper-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_cropper-0.2.1-py3-none-any.whl": [
+          "SBy/t6Zu+QvXriTO1PyYgYrxkwGdeV5TX0i1s1MmE5o=",
           "py3"
         ]
       }
@@ -143800,6 +143830,110 @@
         ],
         "wdmtoolbox-13.0.0-cp39-cp39-win_amd64.whl": [
           "y9D4aLk3ViSd986H5o+JeuP8SVPpyl6KCDCk/aaAlgc=",
+          "cp39"
+        ]
+      }
+    },
+    "13.0.1": {
+      "sdist": [
+        "0sYAbtLDgUnuDUfJamWC1/xVVjqH77sh/LrcMc/OzUI=",
+        "wdmtoolbox-13.0.1.tar.gz"
+      ],
+      "wheels": {
+        "wdmtoolbox-13.0.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "z484FsbTMedDpe7yLEfXTWEpy7BFAsPafdSdxtGHh38=",
+          "cp310"
+        ],
+        "wdmtoolbox-13.0.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "y4TNhbFUHXxMClNxczSrGMZcaHnf8RVLqyUuPn0l4ls=",
+          "cp310"
+        ],
+        "wdmtoolbox-13.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n5t3zHrDp0RKAIQZS21sAU3uQlS1R1psvxfaT3HUsc4=",
+          "cp310"
+        ],
+        "wdmtoolbox-13.0.1-cp310-cp310-musllinux_1_1_i686.whl": [
+          "7MVQN7HGV/mUaT1tu1MlYW9UfZnKGMIZZHi2i22XBQM=",
+          "cp310"
+        ],
+        "wdmtoolbox-13.0.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "UByXs8mGwJrI72flBSTaGV32kh8AezCWEb39Hibm07s=",
+          "cp310"
+        ],
+        "wdmtoolbox-13.0.1-cp310-cp310-win_amd64.whl": [
+          "scMXoffde3Wb+L+6hXAx++tCwCtt2e/RC+jH/mMYqBg=",
+          "cp310"
+        ],
+        "wdmtoolbox-13.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "XuqaI9YraBDjPfiHMvpWF8+zs0hH0PH0KilQgnYHtSc=",
+          "cp37"
+        ],
+        "wdmtoolbox-13.0.1-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "Vf2pmpbNSGQHE6ni8fbonHqI76P2lR+T6LQsZa1R4l4=",
+          "cp37"
+        ],
+        "wdmtoolbox-13.0.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "z4yATy6pXO8DzWcVrgRATn8uDcXsa7YaKRJpvGmX8BY=",
+          "cp37"
+        ],
+        "wdmtoolbox-13.0.1-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "1OUNa1x/g48YyaqTk6S2LnG+KV1EtQUa7QhSNlXTO5E=",
+          "cp37"
+        ],
+        "wdmtoolbox-13.0.1-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "y6PcNq9xFd0XWBMTIXE4PU1M+uKWJehJkfdRNXhfDbM=",
+          "cp37"
+        ],
+        "wdmtoolbox-13.0.1-cp37-cp37m-win_amd64.whl": [
+          "ZyeGAms+rIPkU4asMTQxF+9CMekdLqAobh5KUfaIdfk=",
+          "cp37"
+        ],
+        "wdmtoolbox-13.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "a4vX6SQwDqZb3w5qZuqsxfn4gHi6tUvuRDI8Qbrtbt0=",
+          "cp38"
+        ],
+        "wdmtoolbox-13.0.1-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "K7fTFDx89H04/x8hix7pPQ8hMll4/dsio67WGAhg2Rg=",
+          "cp38"
+        ],
+        "wdmtoolbox-13.0.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ZJyQIk10mt1eHHwIxd3h9y3ye8cIIMM8Uhx1NAI0ybE=",
+          "cp38"
+        ],
+        "wdmtoolbox-13.0.1-cp38-cp38-musllinux_1_1_i686.whl": [
+          "larBotvw+Mv+wqEHicfvHpIk35dSeGeAhPlJqgkWRPM=",
+          "cp38"
+        ],
+        "wdmtoolbox-13.0.1-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "MN0Igk6sIQgFmC37qr+wWfrtcuLFZZFqGsTwbVB/hIU=",
+          "cp38"
+        ],
+        "wdmtoolbox-13.0.1-cp38-cp38-win_amd64.whl": [
+          "oX0Xq9sXgvOaPJeH65ve561LgmfEO1aDg4MJ38Imffg=",
+          "cp38"
+        ],
+        "wdmtoolbox-13.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "SOziP2Zun55hcjS9SuHmcHHHK9XfCXDpeUAZGoW6d3M=",
+          "cp39"
+        ],
+        "wdmtoolbox-13.0.1-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "yPv9trkbPJ92DfRrjYMGKJVn8tlcsaMscNVLNUk1Meo=",
+          "cp39"
+        ],
+        "wdmtoolbox-13.0.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mGVmEZVbzAf/e5eChTu6MzZ/MoSaNrmYhv89bcnyJkE=",
+          "cp39"
+        ],
+        "wdmtoolbox-13.0.1-cp39-cp39-musllinux_1_1_i686.whl": [
+          "kVjV0Ui/GlyJngX7I0AUjOpyANmilhZP6hZsFQsCfxk=",
+          "cp39"
+        ],
+        "wdmtoolbox-13.0.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "4WbdEoNcTKUqY4qgPqBRZIxhtcSiR4/dMpT29SnN610=",
+          "cp39"
+        ],
+        "wdmtoolbox-13.0.1-cp39-cp39-win_amd64.whl": [
+          "2OA5VzcqXZqaWfzxd1GejDzLj99maeFtRFBx7VhaEwA=",
           "cp39"
         ]
       }

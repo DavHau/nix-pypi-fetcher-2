@@ -5183,6 +5183,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "0FgILK3VIKYPom9qdJolwuUZiDt9GR4kx+e6vF/vqHE=",
+        "autoembedder-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "autoembedder-0.2.2-py3-none-any.whl": [
+          "oWpXb/KB5FD3mMQFBykAtjaJcekYJMWgZ8vdGA05i3E=",
+          "py3"
+        ]
+      }
     }
   },
   "automationapi": {
@@ -6816,6 +6828,18 @@
       "wheels": {
         "aws_cdk.aws_docdb-1.184.1-py3-none-any.whl": [
           "6UYRW2cihnYeT7CXj3S5PW0frOWmqJkTtENZr0O9JsA=",
+          "py3"
+        ]
+      }
+    },
+    "1.185.0": {
+      "sdist": [
+        "8p3BzNxiYNG46NSQzNI0Jcv6En2XwHLCMsHDSNGNLzA=",
+        "aws-cdk.aws-docdb-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_docdb-1.185.0-py3-none-any.whl": [
+          "0EyLzLNRTCy7Gv1F8fCVfwWBrmy/RqSurws1a7CMSuk=",
           "py3"
         ]
       }
@@ -8717,6 +8741,18 @@
           "py3"
         ]
       }
+    },
+    "1.185.0": {
+      "sdist": [
+        "tERTwKv0dW/94dAFj3WhgAo60fHaM5GwknU5t7HWXog=",
+        "aws-cdk.aws-forecast-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_forecast-1.185.0-py3-none-any.whl": [
+          "xJW0V/qRYEIwfK2iAFLJnJFX4dLfVdWS5GC36qiSufk=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-iam": {
@@ -10276,6 +10312,18 @@
       "wheels": {
         "aws_cdk.aws_iam-1.184.1-py3-none-any.whl": [
           "iEGsiBMZgkZUatZVdOMZN57TCNq5fbaRr09pqdgIqvI=",
+          "py3"
+        ]
+      }
+    },
+    "1.185.0": {
+      "sdist": [
+        "paDHFoSmxzYc+FFJEVfhK267qT7I+UWbvw5kDVvDjTE=",
+        "aws-cdk.aws-iam-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iam-1.185.0-py3-none-any.whl": [
+          "AEDR0O4HVCMnVw2HI55vGMI4ONp8aU/98uvwt7THCEk=",
           "py3"
         ]
       }
@@ -12714,6 +12762,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink-1.184.1-py3-none-any.whl": [
           "v2JV2MIpHhICNqAlj/7Z5rxcPrRKw3mWAQvinNpv9X8=",
+          "py3"
+        ]
+      }
+    },
+    "1.185.0": {
+      "sdist": [
+        "HfU4LPrcnA9XAMR8U1tDnpXe/4VBM+V/GvlPMy3p6OI=",
+        "aws-cdk.aws-kinesisanalytics-flink-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink-1.185.0-py3-none-any.whl": [
+          "Rri9b7M5qkQSL5khY3JDxJgwHW5vZrJVNgc+hTKy0fQ=",
           "py3"
         ]
       }
@@ -77601,6 +77661,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.2.dev5": {
+      "wheels": {
+        "odoo14_addon_mgmtsystem_hazard-14.0.1.0.2.dev5-py3-none-any.whl": [
+          "MXKlNj8rHZhinxgXKfclxSF5blkkE8/vV/kS6Bhwg9w=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-sale-commercial-partner": {
@@ -120346,6 +120414,18 @@
         ]
       }
     },
+    "0.0.13.dev20221228": {
+      "sdist": [
+        "bvS0b0W+WlY4Az8Zy67MeBJ8z4EScqMXsFZ7J5TVo3s=",
+        "seqio-nightly-0.0.13.dev20221228.tar.gz"
+      ],
+      "wheels": {
+        "seqio_nightly-0.0.13.dev20221228-py3-none-any.whl": [
+          "0vGB0LUmJX5IE6D8dIosBEkxTipf8XkNnf2amQPlYVM=",
+          "py3"
+        ]
+      }
+    },
     "0.0.7.dev20211103": {
       "sdist": [
         "kNZOayVWFdG+gZZ05DQyq5xrzV6zxBNK8i9qgTF/BRY=",
@@ -139223,6 +139303,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.803": {
+      "sdist": [
+        "zY/bKarL+LUWmpABD8JD/qaqM5N4j2jETGfx+wrGfU4=",
+        "tencentcloud-sdk-python-ciam-3.0.803.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.803-py2.py3-none-any.whl": [
+          "KCEGdSEnpHQnBO1zpQ+dweSeATa3r+sq0QlKyNTQZn8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenyks": {
@@ -153370,6 +153462,34 @@
         ],
         "xia_flask_api-0.1.7-cp39-none-win_amd64.whl": [
           "8LAJllYVSNpKdYvLSYRT00b8GkQwprFt6fsVXgS3Z4k=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.8": {
+      "wheels": {
+        "xia_flask_api-0.1.8-cp310-none-macosx_11_0_x86_64.whl": [
+          "5mtLtYqt3d5JAKOO7DWf5rUMNtzgOd6sHqLF/1JtIlM=",
+          "cp310"
+        ],
+        "xia_flask_api-0.1.8-cp310-none-manylinux1_x86_64.whl": [
+          "bj4akmr1enlGzQ0FysYaFBXdkf7WoXTNDzh5nJFzsG8=",
+          "cp310"
+        ],
+        "xia_flask_api-0.1.8-cp310-none-win_amd64.whl": [
+          "htfPE0kVGQxpwYeef6/9LEUEvHAoG+uum0dIyaY61KU=",
+          "cp310"
+        ],
+        "xia_flask_api-0.1.8-cp39-none-macosx_11_0_x86_64.whl": [
+          "1Q8fDQekZaPAEHhzi9PsCUhrVqs4oCN05QLfIgSPg5Y=",
+          "cp39"
+        ],
+        "xia_flask_api-0.1.8-cp39-none-manylinux1_x86_64.whl": [
+          "ZfHMe6yqlopx2gaTqhg0Fa64Sn42pPzKwVG3XKGhr7w=",
+          "cp39"
+        ],
+        "xia_flask_api-0.1.8-cp39-none-win_amd64.whl": [
+          "7Ge8CevP/ur4tkFBeRgEMubFNwY9YGtZ7R2g9rhmOhI=",
           "cp39"
         ]
       }

@@ -7166,6 +7166,18 @@
         ]
       }
     },
+    "1.185.0": {
+      "sdist": [
+        "V1ujbvHHLc/g2q6XNO7dc6cKvD4VkvG72WWk8fTIlXc=",
+        "aws-cdk.aws-ec2-1.185.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ec2-1.185.0-py3-none-any.whl": [
+          "VIBiU6vKaWrOMTEQanbQsYSP7k18LR8XNIe/I28VhEo=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "2pdEwctrDp1GVzxhJD61qWiSqu156W55LmydNrrKHdI=",
@@ -13852,6 +13864,18 @@
         ],
         "bigdl_friesian_spark3-2.2.0b20221227-py3-none-manylinux1_x86_64.whl": [
           "9OkHoCf7IBd7G460elyO3N5F4BG7RGaLp2MiW0/Pt0I=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0b20221228": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20221228-py3-none-macosx_10_11_x86_64.whl": [
+          "OCfoiOc7bhovQuajVyuR8ai08Lr0k9Nfo+yTsa3cEx0=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20221228-py3-none-manylinux1_x86_64.whl": [
+          "pefE5UrW/UfTrOjG7U2wUAJfMHz5SOLj7dP6D/knKWc=",
           "py3"
         ]
       }
@@ -46888,6 +46912,30 @@
       "wheels": {
         "gardener_cicd_libs-1.1934.0-py3-none-any.whl": [
           "1LgZvDUyeLqAZwC6Smju5Q1I3vTGbMNh71eXpUtUYFs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1935.0": {
+      "sdist": [
+        "mAs2dW2nykBnYQJVt8Sm+JJ7LJt5gR0DSlNT2N7oZb4=",
+        "gardener-cicd-libs-1.1935.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1935.0-py3-none-any.whl": [
+          "ANxksgUBceezx5BKkEWksuXCr8e9zcRx2nSD5wtPp+A=",
+          "py3"
+        ]
+      }
+    },
+    "1.1936.0": {
+      "sdist": [
+        "pg00bqPSSLbg+WiCJ8DOoLECYb5gB2CEkOC8GiYPtwY=",
+        "gardener-cicd-libs-1.1936.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1936.0-py3-none-any.whl": [
+          "/0Q07Kw125PxTkV0DWndRcIwTFBPCeEMhlV4Xywb5Wc=",
           "py3"
         ]
       }
@@ -87007,6 +87055,20 @@
       }
     }
   },
+  "ocsp-responder-server": {
+    "0.1": {
+      "sdist": [
+        "OzcFClOvAxgLPgdgay7xOLz+iI9ZBKTVEwxoQIcUxtk=",
+        "ocsp-responder-server-0.1.tar.gz"
+      ],
+      "wheels": {
+        "ocsp_responder_server-0.1-py3-none-any.whl": [
+          "j1v46zOgRcrKqZhgRWyak0wQHs+NFkyTKuuVPsWRPKQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-edi-backend-partner-oca": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -89152,6 +89214,16 @@
       "wheels": {
         "odoo13_addon_sale_order_invoicing_queued-13.0.2.0.2.dev1-py3-none-any.whl": [
           "1UO3my8N9JfRbgt4r5zyoTtKNcMOfERJclPLcLZ12oQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-sale-procurement-group-by-commitment-date": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_sale_procurement_group_by_commitment_date-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "Qzn4VzW20MyEhkz9ckFdhNBtDx3b7C3259e+xe4x3lQ=",
           "py3"
         ]
       }
@@ -129447,6 +129519,42 @@
           "py3"
         ]
       }
+    },
+    "0.3.3": {
+      "sdist": [
+        "zGUFbq0WCVhf5BvSObL3W2vl6Gi3G5XKtXvSyCQ7VDc=",
+        "spoor-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "spoor-0.3.3-py3-none-any.whl": [
+          "CSfFiGmesdj2LIfF6doI7jJSCy2EOCFT7YX0lWbiXPI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "Sm6I6kgsUg7sXrcE7V6F1vFza7Lv0pSoxLFm5RylrEI=",
+        "spoor-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "spoor-0.3.4-py3-none-any.whl": [
+          "HSWEDz0kdsAeVG91AfaHyyBWQCQEJKPMgf48dvYLp+8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "v47IM0/dzho00LL/rS7rxw6i8ufNqZbxWpF8OemWYd8=",
+        "spoor-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "spoor-0.4.0-py3-none-any.whl": [
+          "wTjstc2xPH9LFEheT0KEIzx461bgq1/5FrLH4aVFZhc=",
+          "py3"
+        ]
+      }
     }
   },
   "sq-oauth2client": {
@@ -145030,6 +145138,18 @@
       "wheels": {
         "yaiv-0.0.1-py3-none-any.whl": [
           "Ve/YbdtrH7TY+ixo85+GPjlHQvJFkvrLE0BVGurTbQk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "ezYHL9fkKCxHRBDd+yXm1xjYWHo2dGuZ40qcYKJsw84=",
+        "yaiv-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "yaiv-0.1.0-py3-none-any.whl": [
+          "D2Ju67ykJl3LGhnzeN9ShopPqdKAhbFTMyeVpSIeqWA=",
           "py3"
         ]
       }
