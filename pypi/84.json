@@ -18976,6 +18976,18 @@
         ]
       }
     },
+    "2.0.196": {
+      "sdist": [
+        "hrK5TKdDGEXfAm6P5NHTnUt+t6BCQUtEmAla8ALffWM=",
+        "cdk-tweet-queue-2.0.196.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.196-py3-none-any.whl": [
+          "jOygXVOSZC/G9qarLjZJ/jkJ7IRLwEXZA3VcKeFwfZc=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "wR0sGbRRdjlJzHUmtcNg8WHByLJsKpdbpOXAf0BWwRI=",
@@ -49226,6 +49238,22 @@
         ],
         "graphscope_client-0.19.0a20221226-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "5x2r3moEhNaDsMxviKR9crc4IMWV4L4A17AOFZcy6JA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221227": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221227-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "onNsmUp52k+z40ix8XcW7DEoHSKVXM/XbPeSFebQUYM=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221227-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fMjTu11lEL4f8qNZIWpPmMBtoFrFDzsmi8JQpGGAhbk=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221227-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7yor4btf0UnfqcYpAumtB6PHZTP2Fp3bx8BYvJVoKCw=",
           "cp39"
         ]
       }
@@ -90566,6 +90594,14 @@
       "wheels": {
         "odoo14_addon_auditlog-14.0.1.3.2.dev1-py3-none-any.whl": [
           "KiBRHyyDxveCcgYUtChsJEmVozwqLqUNhsbV3XNXiBg=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.0": {
+      "wheels": {
+        "odoo14_addon_auditlog-14.0.2.0.0-py3-none-any.whl": [
+          "rE7SWsSn22lh/MlAi8yUY4Zpcr2Xkg0XXVijPmC0cEY=",
           "py3"
         ]
       }

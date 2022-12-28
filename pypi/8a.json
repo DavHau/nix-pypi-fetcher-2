@@ -2673,6 +2673,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.6": {
+      "wheels": {
+        "amiyabot-1.2.6-py3-none-any.whl": [
+          "VGI+WH4F2auy57d82jh31lZxAo854DOwPZbBFlRCPww=",
+          "py3"
+        ]
+      }
     }
   },
   "aml-uallu-greetings": {
@@ -116184,174 +116192,6 @@
     }
   },
   "rembg": {
-    "2.0.14": {
-      "sdist": [
-        "OUyxVbmsWjzjEeQ1QmdL9YbP8SYdX6+mrZYV0ib3Pns=",
-        "rembg-2.0.14.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.14-py3-none-any.whl": [
-          "vWHuK+pnEjYiCIM6QQmvG51sEweAFEXVh+uEzXjPYR0=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.15": {
-      "sdist": [
-        "bxVtlSDRjVJqkCeOx2R5LOLyGE9FjYh/o+HHYlei0lw=",
-        "rembg-2.0.15.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.15-py3-none-any.whl": [
-          "n0nmrLK8xvCyBhNTcSf2ngUxyI/hiHIQEx9olQU6/88=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.16": {
-      "sdist": [
-        "LTZLuDG1XlRdX+TP9oJrgKNXA2AWh1KY5LXIGCx2ptY=",
-        "rembg-2.0.16.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.16-py3-none-any.whl": [
-          "THHI+JBdw/uyXr1C/zVkh17+2UdU+wKUSCS50egIJXg=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.17": {
-      "sdist": [
-        "kgRZ5teew7tgO8B3MeFbPdjcmTjJMuo8osGr46i0qpw=",
-        "rembg-2.0.17.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.17-py3-none-any.whl": [
-          "oKTiexKIb8RtzHwii5HoqIm2zjxhYRJD+5hGo9uWvlo=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.18": {
-      "sdist": [
-        "qnMmIsYMvIwpRk6Uh1dA9jJ1IDo+3jMA91VC/j5DxHA=",
-        "rembg-2.0.18.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.18-py3-none-any.whl": [
-          "K1mUgrZcRPQvkJ180IfBP2v66r89GwlN7Dybnn+HpmA=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.19": {
-      "sdist": [
-        "rOol2jSlmc/t2vVbYj6y/qIeYX/vhKUonCQ9Ugo3d9I=",
-        "rembg-2.0.19.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.19-py3-none-any.whl": [
-          "MqFmOtndnbxvyDUFXUgrqQxaaDzB+iBmnaIWfRTUXVI=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.20": {
-      "sdist": [
-        "45esSPYldc9DON6xRiVK2fEHBg5cKI2GNpiUZyB0Qt8=",
-        "rembg-2.0.20.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.20-py3-none-any.whl": [
-          "WJj8PBQFYrN2tN2tzes3jX/0A7hXrhoq84FBP/I1uoQ=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.21": {
-      "sdist": [
-        "Ek+JyMj0qJvB6ee8tTKFnwJ3i1cjkuF/cNxN1y9IkFA=",
-        "rembg-2.0.21.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.21-py3-none-any.whl": [
-          "jZEUczcjS8Ofaxyf1UFyxjZ4suUBfTdDXF0nGcz1rt8=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.22": {
-      "sdist": [
-        "OyEOMiXRjZx70yHigpCbk1se/VofuGGan87lkWtPKZA=",
-        "rembg-2.0.22.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.22-py3-none-any.whl": [
-          "hND1Cff9YqkKKzt5CAkcJMMAZ5nlqB3xJ1cBzUcRh50=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.23": {
-      "sdist": [
-        "sXmUakfaPe1aAl352PnVkQJcaRQKmm9GOqY9Ez26P7w=",
-        "rembg-2.0.23.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.23-py3-none-any.whl": [
-          "/PavgW9b2gnG2MOaUHV+7VhP2+SzLYlEtHAGbW+ePxk=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.24": {
-      "sdist": [
-        "GILxvuClg4dUUFeK4eqPkiL/JBo9bCGGKuVBqtlLh04=",
-        "rembg-2.0.24.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.24-py3-none-any.whl": [
-          "7AM0uU39BlrZACz6gbX2H8O9B/OozMATdNPnYyhGG9I=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.25": {
-      "sdist": [
-        "rpxMQoN1znjs7duDhzXRrjBvj6e941cGx98+BX1i0ng=",
-        "rembg-2.0.25.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.25-py3-none-any.whl": [
-          "KdI/AC81u50vise7r5orH1c1m0K2I3JsYNLzGAQ2Ii8=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.26": {
-      "sdist": [
-        "p6oqqNm5wHUOMbkdBpb9TnpDDwtQgOZRhTwSnSbERvo=",
-        "rembg-2.0.26.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.26-py3-none-any.whl": [
-          "z5jSv7voSjmVZyoRniVQROWdX6DImWFJOsW1hYm596M=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.27": {
-      "sdist": [
-        "HiEeu4uQ5huEEn/NJKkg6q544jwCwCIcME+GkEK1bqw=",
-        "rembg-2.0.27.tar.gz"
-      ],
-      "wheels": {
-        "rembg-2.0.27-py3-none-any.whl": [
-          "xAlTlp0puTBIzGSaIpcKof4nNvyMZavBUqiDza0q024=",
-          "py3"
-        ]
-      }
-    },
     "2.0.28": {
       "sdist": [
         "d7YEPvBsOV4g1WCdjsLeNnC0y4kN4tOMXVC2BEm4fJU=",
@@ -143130,6 +142970,14 @@
       "wheels": {
         "yowasp_nextpnr_gowin-0.4.post25.dev361-py3-none-any.whl": [
           "sLvkrFvculTK48u4UtuaYMBmcW1qgtSW1pdgXfeH1q0=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.post79.dev377": {
+      "wheels": {
+        "yowasp_nextpnr_gowin-0.4.post79.dev377-py3-none-any.whl": [
+          "SvIPH8H94+5shDFCq32RxFKKD7BmDDNMh5G9oMOll84=",
           "py3"
         ]
       }

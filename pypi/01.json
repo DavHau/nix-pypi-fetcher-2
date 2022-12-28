@@ -20619,6 +20619,12 @@
         "2fz4NABN9SeBl7+QjfShUbvJdUuswk1/boAnVAjvxj0=",
         "cm-cluster-on-demand-aws-9.2.7.tar.gz"
       ]
+    },
+    "9.2.8": {
+      "sdist": [
+        "yXqnwHo26QsqAGxXuyziPeKVoE11fnQWnJ28jUmpyeM=",
+        "cm-cluster-on-demand-aws-9.2.8.tar.gz"
+      ]
     }
   },
   "cm-rgb": {
@@ -25046,6 +25052,18 @@
       "wheels": {
         "crazy_thursday-2022.12.27.1-py3-none-any.whl": [
           "+hpttw3PDN/9RCb1KTjTEKF0IgLWlKQO1vGmcubFAfY=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.28.0": {
+      "sdist": [
+        "dqPvG/Vc38J5mlZo5zN1QxEcAVUD9a9wq9AkUHlr4cE=",
+        "crazy-thursday-2022.12.28.0.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2022.12.28.0-py3-none-any.whl": [
+          "U/Y87CMnjG3lyM5hGbATV4w6cpxu2feHfhusc7GX8eA=",
           "py3"
         ]
       }
@@ -104716,6 +104734,18 @@
         ]
       }
     },
+    "13.1.0.2212280242.dev0": {
+      "sdist": [
+        "WX+/Cf3DWdm5279ZAL7/rqx2ZFvWsKEJGolyutCbM0o=",
+        "proactive-jupyter-kernel-13.1.0.2212280242.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2212280242.dev0-py3-none-any.whl": [
+          "V4gboNUoLSP7zCbruaNicCbclvjR+2cbx6S9k5PQUqk=",
+          "py3"
+        ]
+      }
+    },
     "13.1.1.2212182209.dev0": {
       "sdist": [
         "mOfk6JYkzS4YitisaGAXF39YlBH9tB16cm+BaTt2yjk=",
@@ -138622,6 +138652,18 @@
       "wheels": {
         "telenvi-4.0.4-py3-none-any.whl": [
           "LJzKjzUQKWvVP6QmFKAQL0VoAAjTii08+fYnPiZJZUU=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.5": {
+      "sdist": [
+        "XX9tbIcrTQwp2JVL0KH7IzBcShIQIFU/tB8zEafn52w=",
+        "telenvi-4.0.5.tar.gz"
+      ],
+      "wheels": {
+        "telenvi-4.0.5-py3-none-any.whl": [
+          "v7AfYeY2kUhkRov6PsTWiMPCq6ruVRkIpllEKWhWiFw=",
           "py3"
         ]
       }

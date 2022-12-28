@@ -17575,6 +17575,12 @@
         "SU5FWWFWUUuNYhheXBdFeQ8BGpodNLnA3uNucmAwW0M=",
         "cm-cluster-on-demand-azure-9.2.7.tar.gz"
       ]
+    },
+    "9.2.8": {
+      "sdist": [
+        "Rh/dzoRm/VSypYIelo4qiRYa2Q+9jO29dgsEqeaonnQ=",
+        "cm-cluster-on-demand-azure-9.2.8.tar.gz"
+      ]
     }
   },
   "cmail": {
@@ -25595,6 +25601,20 @@
         "django_measurement-3.2.4-py2.py3-none-any.whl": [
           "stQLi1a06CdxMKKoy8HwH1l1iaY24Op9+8TkwF1FjO8=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "django-migrate-middleware": {
+    "1.0.0": {
+      "sdist": [
+        "BReaZzWCqR0a14BJThzys04cLG4G1tIpghxSq0GGHVs=",
+        "django-migrate-middleware-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_migrate_middleware-1.0.0-py3-none-any.whl": [
+          "RMK1RHbeHqMPEYn0Iy14MSSCc4oXfn+R1cVRiai4YwQ=",
+          "py3"
         ]
       }
     }
@@ -119100,6 +119120,18 @@
       "wheels": {
         "stream_unzip-0.0.75-py3-none-any.whl": [
           "d1y6eVkQQUpG/oMMx/v0UzFY2moNFFTnSEkqD+k9Uu4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.76": {
+      "sdist": [
+        "uUFMXgYQXCrzy2LqIhVuUCtXTlR35Y+HMQzgSdDrNe0=",
+        "stream-unzip-0.0.76.tar.gz"
+      ],
+      "wheels": {
+        "stream_unzip-0.0.76-py3-none-any.whl": [
+          "tzbQlrAdTays4/Y27LBWaEkmfGY30UoMlJwbjNzhowc=",
           "py3"
         ]
       }

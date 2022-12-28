@@ -7511,6 +7511,18 @@
           "py3"
         ]
       }
+    },
+    "2.57.0a0": {
+      "sdist": [
+        "28ptc+Mr+fAt10wRi92tXOQyNP2K1FZoc/WNapkUmzk=",
+        "aws-cdk.aws-location-alpha-2.57.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.57.0a0-py3-none-any.whl": [
+          "E0T2sRUdRIw7t7VE8NWRfbgMfz6wNflN4QTb1aoOZho=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-glue-sessions": {
@@ -122482,6 +122494,42 @@
         ]
       }
     },
+    "0.0.11": {
+      "wheels": {
+        "testing202212-0.0.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bdK6BUCmKXHNAU1jlfvgCMri1PsDnmPyFGPW/vrHKUE=",
+          "cp310"
+        ],
+        "testing202212-0.0.11-cp310-cp310-win_amd64.whl": [
+          "6HKLgFJZY43Zmb+a59riCwsZ3uQhzsSpB7GEC5/LNjY=",
+          "cp310"
+        ],
+        "testing202212-0.0.11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zZjxUkaIYVYjHFEGczK8iFMo3s7bGUSxr0iUP324+ek=",
+          "cp311"
+        ],
+        "testing202212-0.0.11-cp311-cp311-win_amd64.whl": [
+          "Ka9C5R1zCA9wm5bIEdTJnJ900A2OAV3piHewHY1QrGU=",
+          "cp311"
+        ],
+        "testing202212-0.0.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8TvlFYsgb+Ul+uWK8aLuOPkevtljMPsjir+R8HnCcM0=",
+          "cp38"
+        ],
+        "testing202212-0.0.11-cp38-cp38-win_amd64.whl": [
+          "FW2q7OkoLEz4BF9D95jInZJfYqBwfgLFMbW6DztVzSk=",
+          "cp38"
+        ],
+        "testing202212-0.0.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bkSdsXwbIm8qGMZY9Jzshp5HtcdQb0XG96+1M7mEwKE=",
+          "cp39"
+        ],
+        "testing202212-0.0.11-cp39-cp39-win_amd64.whl": [
+          "i7lX9WZ2J6dF5WhNURI7wn0Ja5wJDLSghjkivB3CJKU=",
+          "cp39"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "fooS/3Jlr7p9cfC/GXS/SbRLFxHR75F0PJ3CTOsRkXo=",
@@ -124264,6 +124312,32 @@
       "wheels": {
         "timething-0.0.9-py3-none-any.whl": [
           "4LsHThvoLtXV3fIYMaR7iQk6K9XHoeCVKg2tES4Ezcs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tinavi-medical": {
+    "0.1.0": {
+      "sdist": [
+        "HPkQxGku4FBysAglNNdk0LAMp2mNXVMQjGcyi3iNfwM=",
+        "tinavi_medical-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tinavi_medical-0.1.0-py3-none-any.whl": [
+          "aM1OwAQnty3Mg3G6nA38c2Xyi0BlLRZhsp8I3a2UTHQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "qSueNfhI+tGF/Y+kQ6gtmsr9MhWfOc20rQ4oj0+52S4=",
+        "tinavi_medical-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tinavi_medical-0.1.1-py3-none-any.whl": [
+          "12u2PeDB8e5m6phHijzLgga9rH4Av12gPOxZdPVWe7A=",
           "py3"
         ]
       }
@@ -136596,6 +136670,14 @@
       "wheels": {
         "yowasp_nextpnr_nexus-0.4.post25.dev361-py3-none-any.whl": [
           "ZK/054iGcrDzE4qwiPQWcmTtrFYwVG64rTxsJq22ZXs=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.post79.dev377": {
+      "wheels": {
+        "yowasp_nextpnr_nexus-0.4.post79.dev377-py3-none-any.whl": [
+          "YDObuQGpiE757dWaMXDiDkBoRaAelgpDu7VkQl6S1RM=",
           "py3"
         ]
       }

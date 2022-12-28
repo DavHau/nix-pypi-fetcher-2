@@ -25487,6 +25487,18 @@
           "py2"
         ]
       }
+    },
+    "8.12.0rc1": {
+      "sdist": [
+        "Dj1EPK5haj0tQlUb6cTDoIfP/wqec0IeO4peMp1Nnmw=",
+        "clarifai-8.12.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "clarifai-8.12.0rc1-py3-none-any.whl": [
+          "MPM7b2zI1jRHhs2dSa5BV0sq4swoBXdoNVLm9rT5pXQ=",
+          "py3"
+        ]
+      }
     }
   },
   "classidgraph": {
@@ -97146,7 +97158,13 @@
       "sdist": [
         "+xpFG9Sf1ro4J27CvWEmzcBwvw4vv2HXO9FgKtCtQjQ=",
         "precisenumbers-0.0.2.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "precisenumbers-0.0.2-py3-none-any.whl": [
+          "bsx2/A+CU++S2A+l5+Hi0AzSSbD9Qzt5eKG/a6CO21U=",
+          "py3"
+        ]
+      }
     }
   },
   "predict-test-v5": {
@@ -104888,6 +104906,18 @@
       "wheels": {
         "pyprql-0.5.11-py3-none-any.whl": [
           "QAQB0MCBYSRFeMcfd6UgkRSey3XNJzDSzJ2YB1Pa3oE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.13": {
+      "sdist": [
+        "iGoVrUxzGElG9whQgJ4LY4OsmpiSIeupllJJwxKWbTM=",
+        "pyprql-0.5.13.tar.gz"
+      ],
+      "wheels": {
+        "pyprql-0.5.13-py3-none-any.whl": [
+          "JL47XoCBNpooqS9K+uKgOb+kna+/br+S0xmx9tzrSaA=",
           "py3"
         ]
       }
@@ -116132,6 +116162,68 @@
       "wheels": {
         "sice-0.0.0-py3-none-win_amd64.whl": [
           "AiAMxJHN/K5+HvIKq/9G0PYK7LnWBNyda6pvHdbIEMo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sideshiftpy": {
+    "0.1.0": {
+      "sdist": [
+        "Lpi2nkkNY4IdCFwXriyxUNqljESS8456Is1Uvuw7mWI=",
+        "sideshiftpy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "sideshiftpy-0.1.0-py3-none-any.whl": [
+          "ykBEQqyMiQcbh2hNJFtHaNZ5RrL7t0ny7EnRDCB6t6s=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "GhMevi+p6mVIHxyoekQojjHIG+fV+7VZU7otrhSaANs=",
+        "sideshiftpy-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sideshiftpy-0.1.1-py3-none-any.whl": [
+          "LSyjcSvcHSk/mGGsqVkxrefZKGR/27F6liKgS04hLpE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "hXlNmplu78u3HHCHMC8bxBx4gglxwOXNm1/MQLff7MU=",
+        "sideshiftpy-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "sideshiftpy-0.1.2-py3-none-any.whl": [
+          "8mqqxSc637/kxcO/qQDHIoQkyoZQS0gG+nt6OCpGdwE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "CJQsrN1c3SX0OiPRG1aqApQvMM+VhY9Btu6Gk263Hgs=",
+        "sideshiftpy-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "sideshiftpy-0.1.3-py3-none-any.whl": [
+          "zujzxId7wu1jXxcFbHUKdGWWxUvM9Dj+/K493miE3Sk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "8zuVl3e/xKy72yg1I2UO5YntDu2+UNhRbU1YXyB7uwo=",
+        "sideshiftpy-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "sideshiftpy-0.1.5-py3-none-any.whl": [
+          "sPVp2+Z0/+Mj4Zbfm9/DbzPBX1hSSN5PmflC0uK6Wfo=",
           "py3"
         ]
       }

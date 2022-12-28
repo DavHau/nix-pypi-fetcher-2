@@ -24597,6 +24597,18 @@
         "nbFuCqN6RoM/N2ygxmpVK05BUPMjK0vDuxfpHWX2+xs=",
         "cs.app.svcd-20210316.tar.gz"
       ]
+    },
+    "20221228": {
+      "sdist": [
+        "+X9Tx7NkOho3TnaPanbezok0v+44umoHk57UDj80iUo=",
+        "cs.app.svcd-20221228.tar.gz"
+      ],
+      "wheels": {
+        "cs.app.svcd-20221228-py3-none-any.whl": [
+          "fb7e4HeW9QWi9RqrQa4poIEvErpQULdHTTun8PFmMGs=",
+          "py3"
+        ]
+      }
     }
   },
   "cs.i18n": {
@@ -85014,6 +85026,42 @@
         ]
       }
     },
+    "0.0.137": {
+      "sdist": [
+        "X9fhrNop3C8LIqyEfTVox8JX0lHBQcw/YaarNr8Hkfc=",
+        "pepperize.cdk-github-0.0.137.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.137-py3-none-any.whl": [
+          "g8fo+ar7Un+CHzlLsV4s2w4ruFii/utnfNTDJ++UF6g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.138": {
+      "sdist": [
+        "3WEuvSkAUVWa/eBVMHPJSiB4CclbNMOjcTXkFlyLoNQ=",
+        "pepperize.cdk-github-0.0.138.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.138-py3-none-any.whl": [
+          "E/MuAhs8F/nXbPhadCWzd7hfghW89l9WyoNL+lEggOs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.139": {
+      "sdist": [
+        "5wLmCoVOXST6yQvKica8Ae8R6o9DCHQ518aPXFuLbNo=",
+        "pepperize.cdk-github-0.0.139.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.139-py3-none-any.whl": [
+          "vap1jFUk9VkofsJjzSsSB+gh2CXdaBXDcTHaQwy1Gr4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.14": {
       "sdist": [
         "LxbLmUM3XhqrYcvNQ6Em8z1pZo3UvbCjWoi3klhHPn8=",
@@ -140130,6 +140178,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221226-cp39-cp39-win_amd64.whl": [
           "APIHSnjktD0v+CTy31T+hYgb6x1jFsPF+2UyOKOINoU=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221227": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221227-cp310-cp310-win_amd64.whl": [
+          "TTrrMkeGMo3a8hDxWDEXBPBEflH3YfmZ7PEB2MJdP7Y=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221227-cp38-cp38-win_amd64.whl": [
+          "WIVSnp/oQAEqpFa0La0m6kIG58RplFifpwOLJ5chU0k=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221227-cp39-cp39-win_amd64.whl": [
+          "8ssECOBXzkKrvbI8h3653X0iPFHvBRGicP2ij7bBGns=",
           "cp39"
         ]
       }

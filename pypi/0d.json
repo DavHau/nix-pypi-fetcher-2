@@ -46006,6 +46006,12 @@
         "energinet-ml-sdk-0.10.1.dev249.tar.gz"
       ]
     },
+    "0.10.1.dev250": {
+      "sdist": [
+        "40PnwaJT+ad/oSflSkMx8p49hg5qffd44AJMvNItprk=",
+        "energinet-ml-sdk-0.10.1.dev250.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -79633,6 +79639,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.2": {
+      "sdist": [
+        "Aa7Ep3T1vxBaoe5hmU55BFnkrMbTRKn7eZ2TIGcqhtk=",
+        "modern-greek-inflexion-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.2-py3-none-any.whl": [
+          "8RERTgky3JRCBLwZMgHiMSC+86oDqR5iCXhXS8NwGuM=",
+          "py3"
+        ]
+      }
     }
   },
   "modularconfig": {
@@ -89226,6 +89244,22 @@
       "wheels": {
         "odoo14_addon_l10n_br_nfe-14.0.5.3.2-py3-none-any.whl": [
           "3Dd7qjkVW5Fk69GcGzBMuAoGSD3StVrcMCMejZVFTX0=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.6.0.0": {
+      "wheels": {
+        "odoo14_addon_l10n_br_nfe-14.0.6.0.0-py3-none-any.whl": [
+          "39ILvGS1Ib5O0DMCzL3lFJazoijJSVISbtMh5s45LpM=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.6.0.1.dev1": {
+      "wheels": {
+        "odoo14_addon_l10n_br_nfe-14.0.6.0.1.dev1-py3-none-any.whl": [
+          "1wOIRX85jJD8eyIhf+T55ZazmekfqqrmxegecwO3Jg8=",
           "py3"
         ]
       }
@@ -120116,10 +120150,34 @@
         ]
       }
     },
+    "3.3.29": {
+      "wheels": {
+        "ScriptCollection-3.3.29-py3-none-any.whl": [
+          "eljPrP/sI8AD2Vxv3iUahB5zLNkWr5t4Fn90evouiEs=",
+          "py3"
+        ]
+      }
+    },
     "3.3.3": {
       "wheels": {
         "ScriptCollection-3.3.3-py3-none-any.whl": [
           "+DUO+hMOmMQpt4QkV8ycW21BocXDIYqTZE7izD82+hw=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.30": {
+      "wheels": {
+        "ScriptCollection-3.3.30-py3-none-any.whl": [
+          "fARwEzMxCgjDh4v5OTHRPJM/ekk+53QeBJeuWrhcr8c=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.31": {
+      "wheels": {
+        "ScriptCollection-3.3.31-py3-none-any.whl": [
+          "Adb8tBqPoCGTP1p3A4jRpvE23ZN/aevN2q0qY5V84B8=",
           "py3"
         ]
       }
@@ -126424,6 +126482,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.137-py3-none-any.whl": [
           "suqgHRwQZ3RC3mpoq+yWrEochX3SsIEcpDMXW0r0KoI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.138": {
+      "sdist": [
+        "8iQ9OIzYLIBX9QrMlfoPb6omADcRuY0FZYzOYWOjElc=",
+        "state-machine-semaphore-0.1.138.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.138-py3-none-any.whl": [
+          "lpkIInvEbSqMm+nbyXT+s5NvKMM3PzBZJL0tNft48Ik=",
           "py3"
         ]
       }
