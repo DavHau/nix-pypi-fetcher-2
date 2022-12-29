@@ -7952,6 +7952,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "p+MyR50fDimIrxTv1Xh9ztiCnayRaqXDGGwB2lVH46o=",
+        "aws-cdk.aws-dms-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dms-1.186.0-py3-none-any.whl": [
+          "o8LhXfSRPDGLo+Y+O6sv78F8py5+rCqQmAQCaLRSmM4=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "sKuR4p5rDLG/iGuQBvZBbk7SsFfxN2ENoLhSdXBlQ+g=",
@@ -9428,6 +9440,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_wafwebacl_appsync-2.29.0-py3-none-any.whl": [
           "X9yZtRy0ipgXFrRS7CJONR8RZ8v86T/Q4mkpcz3KBj0=",
+          "py3"
+        ]
+      }
+    },
+    "2.30.0": {
+      "sdist": [
+        "3aOfBFTypaFJmge4m/TDBKrCRT6dh0x8xkW/5PigKvA=",
+        "aws-solutions-constructs.aws-wafwebacl-appsync-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_wafwebacl_appsync-2.30.0-py3-none-any.whl": [
+          "VR/+MiSFrGakXclfCDS4wqwrL1nkPlMgAgrp37i8AxM=",
           "py3"
         ]
       }
@@ -84551,6 +84575,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.2.0.3": {
+      "wheels": {
+        "odoo_addon_maintenance_plan-15.0.1.2.0.3-py3-none-any.whl": [
+          "ZrqHv+XcDgzmMh7EY1Wg6iQ7lNRd+RVeOEi1L6k9kQs=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-mass-editing": {
@@ -139128,6 +139160,18 @@
       "wheels": {
         "tencentcloud_sdk_python_bpaas-3.0.802-py2.py3-none-any.whl": [
           "/+0Ap5UCgSd8isBRfulEG0VWYK8gFYBEDqPkDwS/dpk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "LC6f/NrQTyfTbqvehHaucYBgA/hxvpwzH3PhDMQ/njs=",
+        "tencentcloud-sdk-python-bpaas-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bpaas-3.0.804-py2.py3-none-any.whl": [
+          "LT0qLC+pp/7GK0BRnaCrMK8Ut/rH9SohALQnzKAGlgw=",
           "py2.py3"
         ]
       }

@@ -8476,6 +8476,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "Hvi/nsX2ayOeHYKwrQIDWh4XIkkXk6g0mVWgllznmKM=",
+        "aws-cdk.aws-ce-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.186.0-py3-none-any.whl": [
+          "2mVJq7VsPp0lzO8brqmyqxLv8iPcMreWM8IHJa2AUOQ=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -86725,6 +86737,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.3.dev8": {
+      "wheels": {
+        "odoo14_addon_mgmtsystem_action-14.0.1.0.3.dev8-py3-none-any.whl": [
+          "LmKvQIywwIEAcdEyAyh6fKCANnnmhdGLJxjYrGrKr/Y=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-purchase-tag": {
@@ -114841,6 +114861,32 @@
       }
     }
   },
+  "repl-streamlit": {
+    "1.16.1": {
+      "sdist": [
+        "3Y+tM68ttEcMuPaVlSE6izanxX+pvM7Xi0zs+mmIZ2Y=",
+        "repl_streamlit-1.16.1.tar.gz"
+      ],
+      "wheels": {
+        "repl_streamlit-1.16.1-py3-none-any.whl": [
+          "hlIhyykgOMuhSOJf5FNY7KwOL5kWucG+Exaxn1I5fwM=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.2": {
+      "sdist": [
+        "hRJm0kZkg3U5GQ4QSx156jKFO/KArm9KwMRIEfCM20I=",
+        "repl_streamlit-1.16.2.tar.gz"
+      ],
+      "wheels": {
+        "repl_streamlit-1.16.2-py3-none-any.whl": [
+          "gnPMsgxMLnDm/WxLE0FgBnv31zsljPJiNFsHS5dZbIY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "replicat": {
     "1.0.0": {
       "sdist": [
@@ -133293,6 +133339,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.804": {
+      "sdist": [
+        "TCwIOlN/IN60mkBViy0Uk8OgXU5pq8B2jIRIrgCBCko=",
+        "tencentcloud-sdk-python-mna-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.804-py2.py3-none-any.whl": [
+          "lYEk/RSOCehNS3/vPz6c4W1DhkjDxaDEJH59z/m5bys=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -144344,6 +144402,50 @@
         ],
         "xlOil-0.15.4-cp39-cp39-win_amd64.whl": [
           "l1bvMvDupOqImcjDfN/OPgnf1RG4F7E/O+6g92FEhhU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.16.0": {
+      "wheels": {
+        "xlOil-0.16.0-cp310-cp310-win32.whl": [
+          "QoTMCSHLDLcc+r5WKK3LM8+XJzqxuf+EQKYFho4sFYM=",
+          "cp310"
+        ],
+        "xlOil-0.16.0-cp310-cp310-win_amd64.whl": [
+          "qC4deRHPW9qsH+61sdMaF+H3GY2YiwKuo1y1XvtDXCY=",
+          "cp310"
+        ],
+        "xlOil-0.16.0-cp36-cp36m-win32.whl": [
+          "dW5UaIpOtNpm62wQWmwRAF3ZZgoEMBKM55yX+gj7bpg=",
+          "cp36"
+        ],
+        "xlOil-0.16.0-cp36-cp36m-win_amd64.whl": [
+          "i8pDj4D2nz/VEPCwdUouGcXZeAnm280oDvNV+WRJCSo=",
+          "cp36"
+        ],
+        "xlOil-0.16.0-cp37-cp37m-win32.whl": [
+          "pKlvVcXLBsdxDBuQjAgsQ3mNeT5TvMos0nH/J3x9GQY=",
+          "cp37"
+        ],
+        "xlOil-0.16.0-cp37-cp37m-win_amd64.whl": [
+          "2gat4WkJ9z4YsltFR/jCbXYTO0WYm3aEb/yJYiA9OBo=",
+          "cp37"
+        ],
+        "xlOil-0.16.0-cp38-cp38-win32.whl": [
+          "Z/fPhUvKVSxu79BenHhS9CTxM0X8R4JZrMV58QoSE7I=",
+          "cp38"
+        ],
+        "xlOil-0.16.0-cp38-cp38-win_amd64.whl": [
+          "fsfFRrnyh40mMqigKuqHK2CmM/11EM1eQx14UIdxeXM=",
+          "cp38"
+        ],
+        "xlOil-0.16.0-cp39-cp39-win32.whl": [
+          "VB9q0HpHQJey+3mT43AlDrHSGuqJ1CcW2xdcQgA8RKs=",
+          "cp39"
+        ],
+        "xlOil-0.16.0-cp39-cp39-win_amd64.whl": [
+          "YQinufYCvBOSAllW3K45CTtXtlyn+bDVuJkF8yGNGKs=",
           "cp39"
         ]
       }

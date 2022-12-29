@@ -4105,6 +4105,20 @@
       }
     }
   },
+  "ansible-workspace": {
+    "1.0.2": {
+      "sdist": [
+        "6fKA/w5+hwCxgQI2maQXkPMssrGdoU1tfFuWn0QJ8ow=",
+        "ansible_workspace-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ansible_workspace-1.0.2-py3-none-any.whl": [
+          "CJn9JC6Cq3Y+H8olGcqyPTHJbCjcj9NRo+99nI+KXj4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "antsibull-core": {
     "0.1.0": {
       "sdist": [
@@ -5714,6 +5728,18 @@
       "wheels": {
         "aws_cdk.aws_connectcampaigns-1.185.0-py3-none-any.whl": [
           "2/ZIVxucSHK9pNGzROBkjSScF1fdOMPgseci+mqoUK4=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "vFpqcncBiV5Tn164XvXqIEaUaS06LS5LCu40T19ea3o=",
+        "aws-cdk.aws-connectcampaigns-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_connectcampaigns-1.186.0-py3-none-any.whl": [
+          "Eo2QPz9Itbn5pj4ZMapJn4E0XjrG1x9UyinUgMhtLGs=",
           "py3"
         ]
       }
@@ -59241,6 +59267,20 @@
       }
     }
   },
+  "graphpro": {
+    "0.0.2": {
+      "sdist": [
+        "jdKTg60SyM0TM+Fv8mYCsXNhrI6vpGR29EtVQifCi9w=",
+        "graphpro-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "graphpro-0.0.2-py3-none-any.whl": [
+          "mLdauhXv80zS+JW9OpsRoZejcGCWPO/lx/akp4VkbTo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "graphql-core-promise": {
     "3.2.3.post1": {
       "sdist": [
@@ -87387,6 +87427,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.3.0.2.99.dev4": {
+      "wheels": {
+        "odoo12_addon_account_invoice_margin-12.0.3.0.2.99.dev4-py3-none-any.whl": [
+          "RuoJOlWXyBOxhn71VzAujmUjla+J8YjNO9/JMqos/j0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-account-mass-reconcile-ref-deep-search": {
@@ -88168,6 +88216,14 @@
       "wheels": {
         "odoo13_addon_mgmtsystem_nonconformity-13.0.2.0.1.dev2-py3-none-any.whl": [
           "Im6BhkYVV+fWtDTgxEjFqe/HrNa8tiSCz5BFHgdSVvE=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.0.1.dev3": {
+      "wheels": {
+        "odoo13_addon_mgmtsystem_nonconformity-13.0.2.0.1.dev3-py3-none-any.whl": [
+          "SkTZze/q6vnw5cPM3r8QHvrRuED+vNiUlv4nYXnqE6I=",
           "py3"
         ]
       }
@@ -117043,6 +117099,12 @@
         "xm6F2FlLzY17tJ27NzwkASEr5VMUIi6t5GL7sYsScV0=",
         "rhodb-5.1.5.tar.gz"
       ]
+    },
+    "6.0.0": {
+      "sdist": [
+        "GH+e8PAO47CICsmKCaJrT369MAxFQnk201AIL56FWPs=",
+        "rhodb-6.0.0.tar.gz"
+      ]
     }
   },
   "rigger-plugin-framework": {
@@ -122930,6 +122992,18 @@
       "wheels": {
         "scHash-1.0.2-py3-none-any.whl": [
           "imZYpDKusQE60xaR9wUHIAon/oj9SoWwgy0Tfk+1XM4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "eziaMm1lOVSn0yKnOMA3JgjCOKprRHu33DgDR1NugF4=",
+        "scHash-1.1.tar.gz"
+      ],
+      "wheels": {
+        "scHash-1.1-py3-none-any.whl": [
+          "cnKeF6nOaXywliPQo2ME6nojUZGzPkVB8KqfAIW5AH8=",
           "py3"
         ]
       }
@@ -142042,6 +142116,18 @@
       "wheels": {
         "tencentcloud_sdk_python-3.0.803-py2.py3-none-any.whl": [
           "x3UDG0hlf+Ur3+jst6ZjC9lZ174eTkdU7YHegsC9fL4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "KMLfJ3RX4xRwXocozfW69xrt58/Hby5p/I9d3aEsJ0w=",
+        "tencentcloud-sdk-python-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python-3.0.804-py2.py3-none-any.whl": [
+          "eeiZWUJ3C4WGupsr/X5luGIyNCKZUE78SZxyYW5Viho=",
           "py2.py3"
         ]
       }

@@ -9482,6 +9482,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "D6PPiF4MStsL4//OGPfxWLvEBWKXxNFHQ1ptEq/2FrU=",
+        "aws-cdk.aws-greengrass-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrass-1.186.0-py3-none-any.whl": [
+          "HFZTAhCWJElmjRQseIpD/FqCRQO8xwLlf5CqTDuOSgg=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "0bQ6Ci8KqJx0WN4JcWQJAdztx3+SJefNOSdFK0F3jPM=",
@@ -10897,6 +10909,20 @@
         "Hp43Y0iT4tZO2UpJOOJRaT9UuNR5J+2I3QJoVTuqzzA=",
         "AWS-OpenAPI-Lint-0.2.2.tar.gz"
       ]
+    }
+  },
+  "aws-solutions-constructs.aws-fargate-kinesisfirehose": {
+    "2.30.0": {
+      "sdist": [
+        "mtl7FwtBXGHwC5jlLSvSAsjdRHI9s8FCPSjfbapWy+k=",
+        "aws-solutions-constructs.aws-fargate-kinesisfirehose-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_fargate_kinesisfirehose-2.30.0-py3-none-any.whl": [
+          "cr+rnRM/+NjwbUxxeRc4BzcfGt2uc2eVc4qbNYiGFUw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-systems-manager-toolkit": {

@@ -8126,6 +8126,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "QjGl22NUOZVNVOda3qm57wWl+3a3qU2E3Ss10QhtOEQ=",
+        "aws-cdk.aws-mediastore-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_mediastore-1.186.0-py3-none-any.whl": [
+          "gDHW8eTRCH9aWkeQvz4+4SLcTLBcnuuSdAZprDVJzcg=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "g5dtlfG0C4VS3w3b5CeYdF8p5TMzEyn3J4PIdw5C73E=",
@@ -19298,6 +19310,14 @@
       "wheels": {
         "chesstothedeath-0.0.4-py3-none-any.whl": [
           "rwFh7diQEYvvEyTSiczdOVbgi7JjNsoIXaObayE7sO8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "chesstothedeath-0.0.5-py3-none-any.whl": [
+          "hN3wwNiRY/Ft7TWr85giH+owpXu+mzMxQJwlLVLmlOo=",
           "py3"
         ]
       }
@@ -45942,6 +45962,18 @@
       "wheels": {
         "gpt_repl-0.4.20-py3-none-any.whl": [
           "3jxjUDmEMA9yvAQhC9+5PqJ3WaGg8Ww4f0koTPmUTW4=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.21": {
+      "sdist": [
+        "LAqPmNCwtDy04wZSDbX3svnbvlOWRG2u2SczBIeulHg=",
+        "gpt-repl-0.4.21.tar.gz"
+      ],
+      "wheels": {
+        "gpt_repl-0.4.21-py3-none-any.whl": [
+          "ElVTSnFJLsIKfluUE5ULjwh6fu29Qc4/kJxfiGLT0FY=",
           "py3"
         ]
       }
@@ -86833,6 +86865,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.1.dev5": {
+      "wheels": {
+        "odoo13_addon_sale_order_margin_percent-13.0.1.1.1.dev5-py3-none-any.whl": [
+          "DrNAAO0+waYsiIfmKjUBYvdtjB4ROqQi5s34+4QWoVc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-shopfloor": {
@@ -115100,6 +115140,18 @@
         ]
       }
     },
+    "0.0.12": {
+      "sdist": [
+        "p2WLVlmUoJiNYGUDMqEwSIheug0bCA5K0vqZySxFLJM=",
+        "PyMoCapViewer-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "PyMoCapViewer-0.0.12-py3-none-any.whl": [
+          "UBXzZuRhaJFYi2i73eSn8eXVMVXK8eTB3H5zZoN8Db8=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "+MdFZkvgce5hXFOHRmw+kfHuR0t0CDzATkOHIer8UsM=",
@@ -119283,6 +119335,32 @@
         "4q/bIb1qEnBywMERmvYSbHTko9nTzSef4A/Sj5Jjccg=",
         "python-rexster-0.1.1.tar.gz"
       ]
+    }
+  },
+  "python-search-space": {
+    "1.0.0": {
+      "sdist": [
+        "x3Sb/lVXACjmQSD+dbs3BJ++rswoDAFj4EBEOgwQ/Uk=",
+        "python-search-space-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "python_search_space-1.0.0-py3-none-any.whl": [
+          "3ZTyjO81B18EUxoUhkPllIJmd+ncIvCsHS93MVN2lak=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "r8dvVCeQBjqAiJklixmIfsulq2H2SziTq/Hn5/AXBm4=",
+        "python-search-space-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "python_search_space-1.0.1-py3-none-any.whl": [
+          "Z+hOzy6l96ohR6gTp6McZv7dukuYoGjlvhfzZFSK4ik=",
+          "py3"
+        ]
+      }
     }
   },
   "python-steam-api": {
@@ -145723,6 +145801,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.804": {
+      "sdist": [
+        "tk+fG/FLmlc/Nhv6UB2Valsp3LyBc+XIdeqrN6gtROs=",
+        "tencentcloud-sdk-python-ft-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ft-3.0.804-py2.py3-none-any.whl": [
+          "v4SsWRSKaKawE2FoHqE/FofoVfNhPAYYdby7Xih5Jfo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tender": {
@@ -146492,6 +146582,12 @@
       "sdist": [
         "lzW3z3NrWrpuqkidcTY8u0DZXBZoA7Dpw/YvqLhKdfc=",
         "tfswin-3.2.1.tar.gz"
+      ]
+    },
+    "3.2.2": {
+      "sdist": [
+        "Bt90BqRzwi/mCyRKEYAJF5pPk6xwR4FD2EwIk1Bbpyk=",
+        "tfswin-3.2.2.tar.gz"
       ]
     }
   },

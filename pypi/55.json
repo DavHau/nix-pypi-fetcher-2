@@ -16074,6 +16074,18 @@
         ]
       }
     },
+    "2.30.0": {
+      "sdist": [
+        "4R7Dkndpn3V8A/bSTemWxQwvb3dj4dvjWX4PuJLxvKg=",
+        "aws-solutions-constructs.aws-fargate-secretsmanager-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_fargate_secretsmanager-2.30.0-py3-none-any.whl": [
+          "1G3+K8QN0CagBTBn5YpXekFvwVVeU6L4fOB2UVH2dnY=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0": {
       "sdist": [
         "qDIR/vjjjRCfofSppqOU1A4pkDHOUuh5bm2pP31kukI=",
@@ -84159,6 +84171,18 @@
           "py3"
         ]
       }
+    },
+    "6.1.2": {
+      "sdist": [
+        "tfXKyeGXt48oh20DN+FUYDXRI7ut78lWkea1gS3wSw8=",
+        "openrpc-6.1.2.tar.gz"
+      ],
+      "wheels": {
+        "openrpc-6.1.2-py3-none-any.whl": [
+          "5+F6sD8Klo6R6XuMnwZYZBKXNbK2TGdNfTW+qiROJK8=",
+          "py3"
+        ]
+      }
     }
   },
   "opentelemetry-instrumentationasyncpg": {
@@ -84292,6 +84316,18 @@
       "wheels": {
         "openzeppelin_cairo_contracts-0.5.1-py3-none-any.whl": [
           "dRCotgINAeblySmzQca+/jeoGlRsg8YvZHfQydM4Va4=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "YzpLk8mFfaguNXBMaq8VeQ1BQrxSRdGCYCOw2Y1glYg=",
+        "openzeppelin-cairo-contracts-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "openzeppelin_cairo_contracts-0.6.0-py3-none-any.whl": [
+          "9ZQ3qVvmjH7B5+diU/LFtpa1Rb3MlRyThQ7p4HBQ56o=",
           "py3"
         ]
       }
@@ -84911,6 +84947,20 @@
         "8QybyRl4rrs4xQg1AtQteEY7YX1KmgXZqL3ERVDeMrg=",
         "osm-login-python-0.0.4.tar.gz"
       ]
+    }
+  },
+  "osmrdf2023": {
+    "0.4.0": {
+      "sdist": [
+        "k+5BC4tnlYXZMeyCh6lratK1pD4XmCudEEGrlxdbVEE=",
+        "osmrdf2023-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "osmrdf2023-0.4.0-py3-none-any.whl": [
+          "28Yu2tsCDHRhZrCaHUQ04rD6Ckw7INnQLSVREOpWh0I=",
+          "py3"
+        ]
+      }
     }
   },
   "osu-cleaner-cli": {
@@ -98098,6 +98148,30 @@
       "wheels": {
         "pyelectroluxconnect-0.3.7-py3-none-any.whl": [
           "hZ00njimJiTzXg1uTQ47xgzQB95AeZ+rNviOyHQKqV8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "5JJi0XGMjgo0oUSEv6ZAHWjwVW1BTW4Y+SYoNdtjSvQ=",
+        "pyelectroluxconnect-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "pyelectroluxconnect-0.3.8-py3-none-any.whl": [
+          "gMbxowBwVX/CsYIC46KCMnYkPn6btKCuqacUHxVWRpo=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9": {
+      "sdist": [
+        "Z1w7SGM2XnWVfdVG+k1tjE9X2eufDwx30YOa/wB3N50=",
+        "pyelectroluxconnect-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "pyelectroluxconnect-0.3.9-py3-none-any.whl": [
+          "6nOtscmG5ULcpQ3TTe9nhwJIiw5P7DK97VsDCPeH2vU=",
           "py3"
         ]
       }
@@ -118209,6 +118283,12 @@
         "I85psYnZuT/sUik0FddyOqYI57/6Gd6rO1XfovlYd/4=",
         "sfepy-2022.3.a1.tar.gz"
       ]
+    },
+    "2022.4": {
+      "sdist": [
+        "gpUhsiuRcBK8eMW/5AfYGtfMBrq0U3UGivYNWRu+b/k=",
+        "sfepy-2022.4.tar.gz"
+      ]
     }
   },
   "sgfmill": {
@@ -132374,6 +132454,18 @@
       "wheels": {
         "tencentcloud_sdk_python_pds-3.0.803-py2.py3-none-any.whl": [
           "J6/gTOcbRAi8zfvAbCd/RDEeccOIvKdnIrQdwRNzVk8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "RP75FPYR34dSfpKFBDix24Y1AtUojs6pa020p1UyLCo=",
+        "tencentcloud-sdk-python-pds-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_pds-3.0.804-py2.py3-none-any.whl": [
+          "zuRRIBdRvYuHN18/6aa6zEhFBufN++pAYHPJKpsurRw=",
           "py2.py3"
         ]
       }

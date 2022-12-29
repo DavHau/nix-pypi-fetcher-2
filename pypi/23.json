@@ -10306,6 +10306,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "oi0ELo5jEqhK52az3I1cKlZj7rWN8/S5JvrxhchNYsM=",
+        "aws-cdk.aws-managedblockchain-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_managedblockchain-1.186.0-py3-none-any.whl": [
+          "HtDdlEG57FG/TxL7IdOwbIfiyFPmIzwXVm2rXi1+wS4=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "phzgpbV6FZ0Bok4HqB8rFDzicnVLkDNYSSO78YCGJSY=",
@@ -13750,6 +13762,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_cloudfront_apigateway-2.3.0-py3-none-any.whl": [
           "jFBv0WA3l7Cmn/1xmXHPKbYJRWbgWkRwVp+XF0cNisY=",
+          "py3"
+        ]
+      }
+    },
+    "2.30.0": {
+      "sdist": [
+        "a6zRNrKkI2TD70SIAzOn0/SLFO5kgSZFvk0pFnjnp9Y=",
+        "aws-solutions-constructs.aws-cloudfront-apigateway-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cloudfront_apigateway-2.30.0-py3-none-any.whl": [
+          "QnlUfkVZ5S3m2ihMzoFqcA08x18DqaX1hVPr2zemsaU=",
           "py3"
         ]
       }
@@ -36911,6 +36935,20 @@
       }
     }
   },
+  "copy-progress": {
+    "0.1.3": {
+      "sdist": [
+        "b4wEYvhvkmO/ZN7hxRTp+/JakQ7AE4qxLTTOu+5rwGA=",
+        "copy_progress-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "copy_progress-0.1.3-py3-none-any.whl": [
+          "WSzKBKQAFGeWqupOt1yHlEckgZedxQ2e+CaqVpWZZqs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "corona-my-boy": {
     "0.0.1": {
       "wheels": {
@@ -40350,6 +40388,14 @@
       "wheels": {
         "devcontainer_contrib-0.0.10-py3-none-any.whl": [
           "Zv5ePrlhdw6qTfBAtjBb+2oV4M/lLaEy/Sq11xpYvIE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "devcontainer_contrib-0.0.11-py3-none-any.whl": [
+          "U4Yzm9VjAPqkcfKSCqaJUzQJUjxb9MDTLBeBfj2BeOw=",
           "py3"
         ]
       }
@@ -137416,6 +137462,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mariadb-3.0.803-py2.py3-none-any.whl": [
           "HHpMX9ZHdbvCm4pNfVZYdfMRULUSTxiseb7eFqNVpWs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "0ZTLrx58bEvaHUp9BBIV+fCObmsf+KKG86BU6CkDeV4=",
+        "tencentcloud-sdk-python-mariadb-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mariadb-3.0.804-py2.py3-none-any.whl": [
+          "Y8SKpnCtRwFoj3GkP4rBMMz3UOpp0X6DP01BTn/Ip34=",
           "py2.py3"
         ]
       }

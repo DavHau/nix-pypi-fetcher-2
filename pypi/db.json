@@ -8704,6 +8704,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "iv18PncImFF5WcLy8ZSI1GpXT++h96sRsI2RpbhG1rA=",
+        "aws-cdk.aws-cloudfront-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront-1.186.0-py3-none-any.whl": [
+          "DN3iixlUqOHaVd7v1oVuTZw+ae/XmBIyu/bY0R7QYok=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "4ib6kNVsqVdm79BGpKAxnbjdXGOBMQcs2Mcbc+/K96c=",
@@ -12148,6 +12160,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-2.3.0-py3-none-any.whl": [
           "CrOdIuFy5H9Lu3oKhXLyFoAG978957HURbKayrUQ4qQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.30.0": {
+      "sdist": [
+        "3rhk4A9qk+U8iQwf3/VsgiY5XJ394SgLYRg6nWiHHYw=",
+        "aws-solutions-constructs.aws-iot-kinesisfirehose-s3-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-2.30.0-py3-none-any.whl": [
+          "tybSawnt0OPTXkq8y2Cepks9njvS+j2p5U61IZvht4c=",
           "py3"
         ]
       }
@@ -84171,6 +84195,70 @@
           "cp39"
         ]
       }
+    },
+    "9.0.dev1245": {
+      "wheels": {
+        "NEURON_nightly-9.0.dev1245-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "D0xM0o/9I9xz4fJ/ZSDCZup5PIW83Fy/q8OPiiXjAqQ=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/f+XTOX5/Eba4ScIA1JuGyZOC8FYhXg7uuoZhohivDw=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "F9AMtuHwuAqeHLYW/kcbAZSOs/d7NwKy/SyWJwXR/gc=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "bE+egEeCAVIYPwMK7UkCp4V0E0OdXg/hL89iETgKCz4=",
+          "cp311"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xEhnwFxB8VgxEsg1+y86FBqP6lumIAF29zdoaCZsARU=",
+          "cp311"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n5bHa0dtiMTR81lKVFdPBHbxm9r5MMZ+ktVj+w6mf+0=",
+          "cp311"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "67sp/ETjTbhom7IQYFRT86ABXMic4bMfBecLkWgeWc8=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "a2/LoO2ioe8nanydFc2nvuQDAcT/hMQyqZoUk6HTp2g=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Lh4XOBbsYRWPXsquikXIC0wFywwCF3Ip9nUFdJ10f6A=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "Nb5X+HDmmujOWpqnEqLy13C4m8yzjAYKkpUyDNzSAHM=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qRGYYRIiQrY6YNm5XPSIkcOgAOti/AbaNu0+ZsB47/U=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TwK7LA/biG1pBgTYXE9kJg6pNFgstqlrMgH0zWS6ATs=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "LTarqxobGqadtqwcxJ9yF8Uhw7GtcK4w7f/yUusuABg=",
+          "cp39"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "tidOZyE/46Jgp23YJvLiyN+J+echXyVK0lX9S1+ZD0Q=",
+          "cp39"
+        ],
+        "NEURON_nightly-9.0.dev1245-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fkaRgKS2T3Jzyq1z01ClCl2ZrLlj2mch3tbPPyt40Mo=",
+          "cp39"
+        ]
+      }
     }
   },
   "neuropod": {
@@ -144524,6 +144612,18 @@
       "wheels": {
         "torchdatasets_nightly-1672187586-py3-none-any.whl": [
           "cVgQosCQlTEUFNjMDFzQybzouyq1qyJ2I6gs3GQ+j2Y=",
+          "py3"
+        ]
+      }
+    },
+    "1672274097": {
+      "sdist": [
+        "wrP+cubwCcPA2lisw46w4afuiw1RxaYVlUijmZgi0bM=",
+        "torchdatasets-nightly-1672274097.tar.gz"
+      ],
+      "wheels": {
+        "torchdatasets_nightly-1672274097-py3-none-any.whl": [
+          "dXCTDyCEn4ZJOjaf5g6RUqlSK9ZUcz1xDIQ9a9Lw7jc=",
           "py3"
         ]
       }

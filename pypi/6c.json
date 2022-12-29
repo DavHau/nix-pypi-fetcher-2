@@ -14837,6 +14837,18 @@
           "py3"
         ]
       }
+    },
+    "99.7": {
+      "sdist": [
+        "tAoAiT+HBf/AAcA7cbOyqxunsoZRtvAbbTejOQFXwj8=",
+        "always_updates-99.7.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-99.7-py3-none-any.whl": [
+          "dMf4mSSbhpqCVnFxriynx8IwHHyeXYrU2ffJmDVYKvI=",
+          "py3"
+        ]
+      }
     }
   },
   "amr-crypto": {
@@ -19916,6 +19928,18 @@
       "wheels": {
         "aws_cdk.aws_applicationinsights-1.185.0-py3-none-any.whl": [
           "gaVL1K1nmcMoJx77u4ZoGWArBN652Qsl2+P9NbZBuTg=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "EgD6j2iH1zmgNQUN8YMDT2JgaLiBNXsDfEE1AhuPZlU=",
+        "aws-cdk.aws-applicationinsights-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_applicationinsights-1.186.0-py3-none-any.whl": [
+          "74UPrFwlYr+szoipFcq81fkX2eQml4aqoHHovqi3StU=",
           "py3"
         ]
       }
@@ -25864,6 +25888,18 @@
       "wheels": {
         "boto3_stubs_lite-1.26.38-py3-none-any.whl": [
           "9kArzDKGZ+83RHNoUu3cPLJon6hCY62TRZiJwBJ5aIo=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.39": {
+      "sdist": [
+        "X4OT0jDzbp6OXdkSTor6G1Uajr8V2sfpsoc+cwhx2uI=",
+        "boto3-stubs-lite-1.26.39.tar.gz"
+      ],
+      "wheels": {
+        "boto3_stubs_lite-1.26.39-py3-none-any.whl": [
+          "Gn9f5i7pCbwwnrx1zPyVYQ/UL8eaXiJmAlkN1hvCJqI=",
           "py3"
         ]
       }
@@ -39112,6 +39148,18 @@
       "wheels": {
         "django_oauth_hub-0.0.4-py3-none-any.whl": [
           "TjZvOuhu4HZh2aWB1BTsouLc/A6StO+lJqWqFlXvys8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "VAU64IJ4burzwX3fK5s4Czf1Y9pez2fmTK1/fzbyliM=",
+        "django_oauth_hub-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "django_oauth_hub-0.0.5-py3-none-any.whl": [
+          "BkuCJvWtWd8wbirKXNkxbcVLACOlQuNflNXlBuea8hc=",
           "py3"
         ]
       }
@@ -57801,6 +57849,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "hm2obj": {
+    "1": {
+      "sdist": [
+        "F2LdtmsrAoExOC2H46LYfVs8fVpgG1Ir+1WuuPQVp6s=",
+        "HM2OBJ-1.tar.gz"
+      ]
     }
   },
   "holehe": {
@@ -88585,6 +88641,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.2.1": {
+      "wheels": {
+        "odoo_addon_brand-16.0.1.0.2.1-py3-none-any.whl": [
+          "0Q6FhaDcM2VlmR/2GzcWhc6tqgAcYSGPrCJdJGc+bW0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-connector-jira": {
@@ -90486,6 +90550,14 @@
       "wheels": {
         "odoo14_addon_l10n_it_fatturapa_out-14.0.2.4.3.dev1-py3-none-any.whl": [
           "O1B7oVCm6d0bhfh83kEamauWkmtBq7DZIefg15WD/aU=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.4.3.dev2": {
+      "wheels": {
+        "odoo14_addon_l10n_it_fatturapa_out-14.0.2.4.3.dev2-py3-none-any.whl": [
+          "2hmykZZC0dq9/WtfcFuPmwthwR05/+bUTgP7pbL7APw=",
           "py3"
         ]
       }
@@ -144941,6 +145013,32 @@
       }
     }
   },
+  "videoconcat": {
+    "0.10": {
+      "sdist": [
+        "jwAhJ7alPmHpNOR4YegGgsrSuzysQtrsBBN6QTkT+Yo=",
+        "videoconcat-0.10.tar.gz"
+      ],
+      "wheels": {
+        "videoconcat-0.10-py3-none-any.whl": [
+          "YzJ2h95Q7eOH5GxxCfvWMqAUkwLjUMl8LTIz4XDBRPc=",
+          "py3"
+        ]
+      }
+    },
+    "0.11": {
+      "sdist": [
+        "qyihd0g2mc2Y5ignx+bK5+TeI7pYFq6ajYRMjSmrc34=",
+        "videoconcat-0.11.tar.gz"
+      ],
+      "wheels": {
+        "videoconcat-0.11-py3-none-any.whl": [
+          "HPd2OxqfXLn9t0mAueURcRrKu3xpx5G+kWE4NsqNhw4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "videocrawler": {
     "0.0.1": {
       "sdist": [
@@ -146801,6 +146899,32 @@
         "EcAqecLI/UtoGF0p08+SUuLd+93CGZP2ZK8hxKyZ8+Y=",
         "wenna_pypi-1.0.0.tar.gz"
       ]
+    }
+  },
+  "wfdserver": {
+    "22.12.28": {
+      "sdist": [
+        "Ll/xN7ND57fKH0nnAijPlRPO5gkQn08N5P6/ouGeZW8=",
+        "wfdserver-22.12.28.tar.gz"
+      ],
+      "wheels": {
+        "wfdserver-22.12.28-py3-none-any.whl": [
+          "ItFagThvBSGF4QEeqi7z8ddxuJbJ2QyDucViY4mmIbQ=",
+          "py3"
+        ]
+      }
+    },
+    "22.12.28.1": {
+      "sdist": [
+        "AsyluwOKJikI/mZ0qWDzrXWhmOX99/UrSnuTmtw+0UI=",
+        "wfdserver-22.12.28.1.tar.gz"
+      ],
+      "wheels": {
+        "wfdserver-22.12.28.1-py3-none-any.whl": [
+          "DpJsDTXZQlAayTNSLQ6z961VXGVuI/qP/NkIcYmBxTA=",
+          "py3"
+        ]
+      }
     }
   },
   "wfsim": {

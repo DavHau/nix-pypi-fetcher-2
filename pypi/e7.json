@@ -2075,6 +2075,12 @@
         "ko5FYYX4a9wdeHGCHK476k1CIRMsZ7ivwAgXI0niu5o=",
         "aeppl-nightly-0.0.50.dev20221228.tar.gz"
       ]
+    },
+    "0.0.50.dev20221229": {
+      "sdist": [
+        "P3UsV0t6jUrDYLpuLKzkdjgxV9RoXzQXltBIbRqNceI=",
+        "aeppl-nightly-0.0.50.dev20221229.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -10666,6 +10672,18 @@
       "wheels": {
         "aws_cdk.aws_batch-1.185.0-py3-none-any.whl": [
           "UpDUMqfcyvh/MrXoV5tSVrjFeDrkxVUi9nqOUyp7Zys=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "NDa70uvAGOQ9PX8NFnxnWvNwpQs2rqTZ5XyEvxuRplU=",
+        "aws-cdk.aws-batch-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_batch-1.186.0-py3-none-any.whl": [
+          "VUeqptizlZxmlVxc5FMCZJr3LTzlZj4UX4KrlT5bXAw=",
           "py3"
         ]
       }
@@ -78730,6 +78748,18 @@
         ]
       }
     },
+    "1.26.39": {
+      "sdist": [
+        "psBLGij3gJxFSi50avDVmQV0RUGmlIsvs9WrJvjyXJw=",
+        "mypy-boto3-elasticache-1.26.39.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elasticache-1.26.39-py3-none-any.whl": [
+          "KQkH6gFyTtmfch5sZpKJe3G4335Kx95Y64pP9XnSv1U=",
+          "py3"
+        ]
+      }
+    },
     "1.26.4": {
       "sdist": [
         "7tTe/tgP6UuvCkuvcRoiPE7PP1niewRtMYnC7RUl/mA=",
@@ -94054,6 +94084,34 @@
         ],
         "open_aea-1.26.0-py3-none-win_amd64.whl": [
           "VWVf+YOSdc2I9sygky6KMxVb3zK5zUKc4/9q5pL2iF4=",
+          "py3"
+        ]
+      }
+    },
+    "1.27.0": {
+      "sdist": [
+        "smfpZpuQ2QlukZHhV2KwLIVONVR/0EtsNAUAlFVCaNU=",
+        "open-aea-1.27.0.tar.gz"
+      ],
+      "wheels": {
+        "open_aea-1.27.0-py3-none-macosx_10_9_x86_64.whl": [
+          "PhkooFc+9tgmZpRcaqio7FISy6el4OQF8PUkoLGW1gs=",
+          "py3"
+        ],
+        "open_aea-1.27.0-py3-none-manylinux1_x86_64.whl": [
+          "vn+QaB8OiRB2KNfEsJEZpnzxrwGj/ItWhXHt+hkeTWM=",
+          "py3"
+        ],
+        "open_aea-1.27.0-py3-none-manylinux2014_aarch64.whl": [
+          "CG4ZczyyA8au1qtryB/XgCNOJiRcFxp7Zo4cXi3sqaQ=",
+          "py3"
+        ],
+        "open_aea-1.27.0-py3-none-win32.whl": [
+          "WYN8A/QTM35kL+BD4oS1imWld8nb7rSXWy/Ghg0ZiMc=",
+          "py3"
+        ],
+        "open_aea-1.27.0-py3-none-win_amd64.whl": [
+          "56BrI1+oksdL1UaQ2gqsv25vRwpzD2mwMrEf77k8oTM=",
           "py3"
         ]
       }
@@ -139291,6 +139349,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.804": {
+      "sdist": [
+        "SjY39Cux6llAOMKggjjBcmT2z1FmtjP82WHEA3i0C0M=",
+        "tencentcloud-sdk-python-ses-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ses-3.0.804-py2.py3-none-any.whl": [
+          "FuhLIADAHg7DsFf5AkmImM8eYCx7Fy3AX6Q4AHvdrcg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tentaclio-s3": {
@@ -146964,6 +147034,18 @@
       "wheels": {
         "timeplus-1.0.1-py3-none-any.whl": [
           "zUWTcP1Nb4sDXKhHWCHl+UT1EHzrzwAsOKUS1x6/a6M=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "QpWGiCp1iY4KEMM3w6ljvfTX7jI3P4lzMZ8xXIETBfE=",
+        "timeplus-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "timeplus-1.1.0-py3-none-any.whl": [
+          "iUL9TU4iGWiwQarcW+SpqvSXz732Dsbks9vqEkl56o8=",
           "py3"
         ]
       }

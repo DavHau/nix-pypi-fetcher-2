@@ -6863,6 +6863,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.15": {
+      "sdist": [
+        "7nI9ep/0o425HQlXhoC88vgdO8fRBvAnF6Xz68AC54A=",
+        "alibabacloud_dingtalk-1.5.15.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_dingtalk-1.5.15-py3-none-any.whl": [
+          "jiCaTioNfGpZ49hBXc0e7WAg8HEgIZlgtm1VqBDdOGs=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-ververica20220718-py2": {
@@ -12434,6 +12446,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisfirehose_destinations-1.185.0-py3-none-any.whl": [
           "an4ChlTQX5+Tuie/tT3/YhktonQDt8Ymr3PweuKzWtI=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "5WPUtSENu+CNjEGC2GL65Y0yAEGGKAizZhhgbL2dysM=",
+        "aws-cdk.aws-kinesisfirehose-destinations-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose_destinations-1.186.0-py3-none-any.whl": [
+          "zoGFTugXQwKX1g5dnDCUaOJLpaMc2QmIwSGDXZJiLro=",
           "py3"
         ]
       }
@@ -19996,6 +20020,18 @@
       "wheels": {
         "cdk_fck_nat-1.0.90-py3-none-any.whl": [
           "q0RO0xolfpADIAHY6h2HCcZDMdawe1Tewy/vBXbTIT8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.91": {
+      "sdist": [
+        "WHwKJ8PO1Avz/AAlhkYSHBIySXd4v1JPOdfu44jmKe0=",
+        "cdk-fck-nat-1.0.91.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fck_nat-1.0.91-py3-none-any.whl": [
+          "4rGO5UGUip2ggxczALx/zt93rto17i2NzHntjxWJMFo=",
           "py3"
         ]
       }
@@ -27930,6 +27966,18 @@
       "wheels": {
         "cdk_nag-2.21.44-py3-none-any.whl": [
           "7bqpdF1FX29RfxBkRkuAKH8ISXYpxIV2GvfJFYvpqJs=",
+          "py3"
+        ]
+      }
+    },
+    "2.21.45": {
+      "sdist": [
+        "S7gLeivbvuO6k4rphEyvxfH4yrlUO89zNza6Htoqt/U=",
+        "cdk-nag-2.21.45.tar.gz"
+      ],
+      "wheels": {
+        "cdk_nag-2.21.45-py3-none-any.whl": [
+          "HF7ueONdq0E2Kxg7fQ7LoUf+MN9E8ipUHprzd2mF/Xs=",
           "py3"
         ]
       }
@@ -42790,6 +42838,18 @@
       "wheels": {
         "dataplane-0.0.18-py3-none-any.whl": [
           "WFUsTZH2+8Lo2+61iI+6m/mqcBTRdWaqRTjBJjZ6f0o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.19": {
+      "sdist": [
+        "mXYpo7C25zGDqkc/HqLvaC+erystn0C/FfOuzM/qvlQ=",
+        "dataplane-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "dataplane-0.0.19-py3-none-any.whl": [
+          "PfWSsryODh4B8sZuLLV8YS5py8m/wKo6Z96kp0okcYA=",
           "py3"
         ]
       }
@@ -80909,6 +80969,20 @@
       }
     }
   },
+  "lightcone": {
+    "0.0.1": {
+      "sdist": [
+        "gVOtbFKVjFeHHEt+dxwPXPJTyqDOpvSIrGsj5DhFTeg=",
+        "lightcone-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lightcone-0.0.1-py3-none-any.whl": [
+          "mzW0PfzBQ+7jEaErWsZvMqDw9icnPkzxKqbeQV4BPTU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lightweb4py": {
     "0.1.0b1": {
       "sdist": [
@@ -113424,6 +113498,14 @@
         ]
       }
     },
+    "12.0.1.0.0.99.dev11": {
+      "wheels": {
+        "odoo12_addon_assets_management-12.0.1.0.0.99.dev11-py3-none-any.whl": [
+          "mMuGkz/4I8Frma+Dx+kGnDwjw5Ijyjuf+zw6UfCiSyY=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.0.99.dev4": {
       "wheels": {
         "odoo12_addon_assets_management-12.0.1.0.0.99.dev4-py3-none-any.whl": [
@@ -128613,6 +128695,14 @@
         "pykeepass_rs-0.1.15-cp35-cp35m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "LsoOpJ5XYIZSqtgc8lWSD6L7bjvofkk1Eu/EUyKeQho=",
           "cp35"
+        ],
+        "pykeepass_rs-0.1.15-cp38-cp38-manylinux2014_aarch64.whl": [
+          "xhO+nlUFaaNaf+ettrPSaf0+lHzA4uQ0DaK2YeoTy7A=",
+          "cp38"
+        ],
+        "pykeepass_rs-0.1.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XaWIaV1yWSRAVOS/KL4gv6y4FLFubkLEUrk1dyi2lXs=",
+          "cp38"
         ]
       }
     },

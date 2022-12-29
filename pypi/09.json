@@ -6844,6 +6844,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "YDONbVZ5xvOvIrr8VfMDgR91WE2olkcYIQpgUjVoY30=",
+        "aws-cdk.aws-docdb-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_docdb-1.186.0-py3-none-any.whl": [
+          "uFS5F5T+t1MFG3ykFkFuT/8isGRIWG8LkWRULGaXbjk=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "ZEWPy320+E8FUd4RbY6TwcAAP6hjLN1ffyu098mTaak=",
@@ -8753,6 +8765,18 @@
           "py3"
         ]
       }
+    },
+    "1.186.0": {
+      "sdist": [
+        "OoY65LIVUHkJKaYXiHySxFZYavV+WqJQhZTlznBEbpg=",
+        "aws-cdk.aws-forecast-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_forecast-1.186.0-py3-none-any.whl": [
+          "piO7jwtGTNttBDel31CI0xzubUfEH0ZGKPFhFetFluw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-iam": {
@@ -10324,6 +10348,18 @@
       "wheels": {
         "aws_cdk.aws_iam-1.185.0-py3-none-any.whl": [
           "AEDR0O4HVCMnVw2HI55vGMI4ONp8aU/98uvwt7THCEk=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "knQZd2jMCLUvGwNwwAeigLcougRIVITXWjf1jo3SBUM=",
+        "aws-cdk.aws-iam-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iam-1.186.0-py3-none-any.whl": [
+          "xwMBtM5yBWgHm6VUDgEbPC+7usZecfR36RRGOy410YQ=",
           "py3"
         ]
       }
@@ -12774,6 +12810,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink-1.185.0-py3-none-any.whl": [
           "Rri9b7M5qkQSL5khY3JDxJgwHW5vZrJVNgc+hTKy0fQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "o2r+XuJUOZ9LUk5iQ6Vxnt2H7Hp+DJ5Y58FsdPIzvMg=",
+        "aws-cdk.aws-kinesisanalytics-flink-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink-1.186.0-py3-none-any.whl": [
+          "Vu5uWfL7Xv79ujI3+FbpcPCDfxM4v5Xd7tJV1syRDKk=",
           "py3"
         ]
       }
@@ -55244,6 +55292,54 @@
         ]
       }
     },
+    "0.2.11": {
+      "sdist": [
+        "sCgAb3kidmfWZUQp4NonkBp1gbAb73UHonnSClBtOu0=",
+        "jockmkt-sdk-0.2.11.tar.gz"
+      ],
+      "wheels": {
+        "jockmkt_sdk-0.2.11-py3-none-any.whl": [
+          "LEM38jE0bMoeM4kWY561XS0iqKs+ElbBw8OyZVss6k0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.12": {
+      "sdist": [
+        "qbVv+PP8OJFi7oAufIq+vK4+smEYJqeFtZdW/oFiiz8=",
+        "jockmkt-sdk-0.2.12.tar.gz"
+      ],
+      "wheels": {
+        "jockmkt_sdk-0.2.12-py3-none-any.whl": [
+          "LC/7iuT9YyJ90uK3JL1xrR2jyX/e9A1Oabp+XyU7QSk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.13": {
+      "sdist": [
+        "FBdaTWisohK1oBxud0Dlk9ypbPEf2c2FNzQ7h6nwGzk=",
+        "jockmkt-sdk-0.2.13.tar.gz"
+      ],
+      "wheels": {
+        "jockmkt_sdk-0.2.13-py3-none-any.whl": [
+          "/rUOhvEMbNe/L2bdQUyGFHhTb5Xx0I9CwrUQV1H3f5Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.14": {
+      "sdist": [
+        "mk8RFEe9pB1Te8Q5TuvSsQaXbyW14nHCKdFrQn4J1vs=",
+        "jockmkt-sdk-0.2.14.tar.gz"
+      ],
+      "wheels": {
+        "jockmkt_sdk-0.2.14-py3-none-any.whl": [
+          "S1jxKEmGjcH8j0owTUrNIIQo+tHu+jT9pTuo4gwwod0=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "s+zN2Bcq81h55MKG+RxfYFct2eEEBDqkWD9z6lSchFU=",
@@ -75584,10 +75680,26 @@
         ]
       }
     },
+    "15.0.1.2.0.2": {
+      "wheels": {
+        "odoo_addon_document_page_tag-15.0.1.2.0.2-py3-none-any.whl": [
+          "4CUjlIyTpqTbeqUDMD3acrbnJgqSZCp4cHdm4uIx0+k=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.0.2": {
       "wheels": {
         "odoo_addon_document_page_tag-16.0.1.0.0.2-py3-none-any.whl": [
           "6yvWPWNUFgkviMkjx3nyFwgo0dZYGu5KpErVNTNPLmM=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_document_page_tag-16.0.1.0.0.3-py3-none-any.whl": [
+          "RMqdsFea7QVnARgCzL8koQCKCoyynvnxGhqLjlvJyC8=",
           "py3"
         ]
       }
@@ -112237,6 +112349,92 @@
       }
     }
   },
+  "repl-openbb": {
+    "2.1.1": {
+      "sdist": [
+        "KtQFoF9nMFD3tuhvdOecFjE3zTtXz8OlHgfxQ7e1w6A=",
+        "repl_openbb-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.1-py3-none-any.whl": [
+          "rFryry/Hlu66dwTDgn214BH+/KryQD4cUcof8OPgkDo=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2": {
+      "sdist": [
+        "10JoCHuvvY1QX2TCEvfCaaBIWgH+L84qsQd9GdpFuZg=",
+        "repl_openbb-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.2-py3-none-any.whl": [
+          "8pWrsYtV7G+1d4Ml0I377aH4eeEknIe+jzq+1HqJan4=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.3": {
+      "sdist": [
+        "rYPKh0F3ZX4VUPRh0PKP/nhFKpkEYNVhnikDJUEqGOU=",
+        "repl_openbb-2.1.3.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.3-py3-none-any.whl": [
+          "oRtzQlOB9RNfRsIzKDCbiZETKekR+Wa4s8osZb9dku0=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.4": {
+      "sdist": [
+        "ZAcrA4iVzt0Jj3F3BT8p00atIYXHgVqavjApeduC0vQ=",
+        "repl_openbb-2.1.4.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.4-py3-none-any.whl": [
+          "b4Gfa1Lr9rmnboDROreqXX+cw8NB5yPcByE9nGXQ14A=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.5": {
+      "sdist": [
+        "dL3Kwq8+InrdmX5srgOHotNdwEBt/A8jumT6U6Anhp0=",
+        "repl_openbb-2.1.5.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.5-py3-none-any.whl": [
+          "SrMRZiDE+ph21nODn7dGvkb85v1rPeSZtSqWtd6r1ZM=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.6": {
+      "sdist": [
+        "cyGDFM57p2FXGrSjGJSq3M58cuscxkT/BlLBj/xZnbY=",
+        "repl_openbb-2.1.6.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.6-py3-none-any.whl": [
+          "6IgMOJEvkUCnD/6b3nBKFwc9ZAAyVpXIgiC2w775Hls=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.7": {
+      "sdist": [
+        "FUDbIZeGWcqKeriWwFm0o8c7uDtVc5856N188r1tm1s=",
+        "repl_openbb-2.1.7.tar.gz"
+      ],
+      "wheels": {
+        "repl_openbb-2.1.7-py3-none-any.whl": [
+          "jkKSJSPAXdKqnbhjoIOq8Uah3g59pG2Nzg3JtQuHZNY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "replapi-it": {
     "0.0.1": {
       "sdist": [
@@ -139312,6 +139510,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ciam-3.0.803-py2.py3-none-any.whl": [
           "KCEGdSEnpHQnBO1zpQ+dweSeATa3r+sq0QlKyNTQZn8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "8YBJJwAJc69lWC/mA2tSjuYsvrcp9twizlYua/l1aEw=",
+        "tencentcloud-sdk-python-ciam-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.804-py2.py3-none-any.whl": [
+          "YBarVR239pBfWLy0+C/iM6K521hEZQkC0a459Mw+p6M=",
           "py2.py3"
         ]
       }

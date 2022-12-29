@@ -8064,6 +8064,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "0B6V2WJUcpGuAaTaMLTU3hZxorGnq3FP3O7fJTV6aIE=",
+        "aws-cdk.aws-lambda-destinations-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.186.0-py3-none-any.whl": [
+          "/73dvUuGlr2XGM3WyVx6NcEgsHh1e1Y5UAgZoAFoJmI=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "eESL+fYShgN0GJ/NF95gzLcubYsQeTRrK5+gESbJ3JE=",
@@ -10798,6 +10810,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.185.0-py3-none-any.whl": [
           "Rakzw3wySF9X6fKqZq9l6ylngW4nPUM1JcyPf2LR1pg=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "/p2kzDMPAxVhYM+a76tD+ABXd2VKzyp2N0UIVze7soE=",
+        "aws-cdk.aws-rds-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.186.0-py3-none-any.whl": [
+          "pYJB2ufpbie7QY/VCMiCsOIPSSrNTqa4ES4+7XLFq2M=",
           "py3"
         ]
       }
@@ -45652,6 +45676,34 @@
         ],
         "eyes_universal-3.1.0-py2.py3-none-win_amd64.whl": [
           "s7TJzv56pEnyoAhn92Jd/XHbQIi3uqI8rmJYfIgQwkI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2.0": {
+      "wheels": {
+        "eyes_universal-3.2.0-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "EuwEvPInuYQOLP/ch4MLUbUSrzgJ5N6o+UbGwDfntE4=",
+          "py2.py3"
+        ],
+        "eyes_universal-3.2.0-py2.py3-none-macosx_11_0_arm64.whl": [
+          "07F4BurcuaDNkXrXGA/O3zWod6+rAV9ZJZnh9kjyiww=",
+          "py2.py3"
+        ],
+        "eyes_universal-3.2.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "g6vClprMHgkqliNhBGIp+prSET6FPw+3P9OvAJw7YQ8=",
+          "py2.py3"
+        ],
+        "eyes_universal-3.2.0-py2.py3-none-manylinux2014_aarch64.whl": [
+          "3xMCmIpGkdudDRTFmDkt3fe3Y0WKMvlxlodj5mJXSQ8=",
+          "py2.py3"
+        ],
+        "eyes_universal-3.2.0-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "ZZPciCTm3G7sYun98GH821QzEzN3naTWpKYqROFHJBs=",
+          "py2.py3"
+        ],
+        "eyes_universal-3.2.0-py2.py3-none-win_amd64.whl": [
+          "ELsU7fOVlEjEVWV3wEb4vQPuBmDKtz1Kg+Ig4loXio0=",
           "py2.py3"
         ]
       }
@@ -94619,6 +94671,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_project_risk-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "k4dm5pjAEuan9/1ghKYmRKHX07HZBnkKp9QJ8CHgrZE=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-test-base-time-window": {
@@ -137135,6 +137195,30 @@
         "WqNqTlP5J7Ow8HznI6NQPS+rfEE1drIPfKaMuHJn1q8=",
         "swick-0.1.tar.gz"
       ]
+    },
+    "0.2": {
+      "sdist": [
+        "j7wwEBC/trfhCS0CY/5AyWMwscMHMDDtaxJpgZkYcKc=",
+        "swick-0.2.tar.gz"
+      ]
+    },
+    "0.21": {
+      "sdist": [
+        "qEMcfqJk7yCmCB90n6GwjSZiN5U1gV8F0UH4thwqqwg=",
+        "swick-0.21.tar.gz"
+      ]
+    },
+    "0.22": {
+      "sdist": [
+        "YdV0nyPh1S7FtgER0QEZvXSMJUpMuTDTBLGghFaTKX8=",
+        "swick-0.22.tar.gz"
+      ]
+    },
+    "0.23": {
+      "sdist": [
+        "LuZleF4ZwY4mBuA01JXidTiAoJGREz8r/CktSGGcmTE=",
+        "swick-0.23.tar.gz"
+      ]
     }
   },
   "sync-my-tasks": {
@@ -148981,6 +149065,14 @@
         "detxGgXx246eq9VTg2INu/OwgKytcAkwXiXrhpAaU0M=",
         "verbecc-1.7.1.tar.gz"
       ]
+    },
+    "1.8.1": {
+      "wheels": {
+        "verbecc-1.8.1-py3-none-any.whl": [
+          "aNXktmMjDQz1fvgfwVGjlPvCMkguvBO6e6TxIep9Ac8=",
+          "py3"
+        ]
+      }
     }
   },
   "verifai-sdk": {
@@ -152353,6 +152445,16 @@
         "xbox_remote-1.0.5-py3-none-any.whl": [
           "cjvUFJC9c8OC7dmdbm6kXgJZmdEftjjtu7oPXgKqknE=",
           "py3"
+        ]
+      }
+    }
+  },
+  "xdyn": {
+    "6.2.2": {
+      "wheels": {
+        "xdyn-6.2.2-cp310-cp310-manylinux_2_31_x86_64.whl": [
+          "zg7IeM13tSk5UY6k0wmbGHx1A4TP2lIenIrMG8wx2rU=",
+          "cp310"
         ]
       }
     }

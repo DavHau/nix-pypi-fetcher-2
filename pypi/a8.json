@@ -5878,6 +5878,18 @@
         ]
       }
     },
+    "1.186.0": {
+      "sdist": [
+        "AmS51kHTnzXXtA0+tOSBzNrMPlJOAtUOJwsDOjUa4Dw=",
+        "aws-cdk.aws-appconfig-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appconfig-1.186.0-py3-none-any.whl": [
+          "R656eUagTqaH4Yfc6J+RYrvAgh5qT4qZOMFEYqz8O7A=",
+          "py3"
+        ]
+      }
+    },
     "1.24.0": {
       "sdist": [
         "vZBbW11I5GVIPlu2ZIyMgITfIEck5Ax9VjZke4Kgoos=",
@@ -18898,6 +18910,18 @@
       "wheels": {
         "boto3-1.26.38-py3-none-any.whl": [
           "7nh+NvHQJDTrWnV7umQPkGY0OPQguwbNn4H/MBiMpls=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.39": {
+      "sdist": [
+        "cxnYn9f5AetjFjmLK//j9xmkg5AcaXBThcz/bzj+spE=",
+        "boto3-1.26.39.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.39-py3-none-any.whl": [
+          "ne90T2Y9VW/B1iIrik7r1CYwCuI2XL6qHRU7PnI7cVY=",
           "py3"
         ]
       }
@@ -100313,6 +100337,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.3.2.5.dev2": {
+      "wheels": {
+        "odoo14_addon_rma-14.0.3.2.5.dev2-py3-none-any.whl": [
+          "YvBLeIuTSy45Eq3UKm0fMDFb8UULjZUI7ZWPJq3PW0A=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-available-to-promise-release": {
@@ -113143,6 +113175,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pyjs8call": {
+    "0.1.0": {
+      "sdist": [
+        "pWWSaUBor18qQDvtW8JMjuGXsllC5EVo/NVc6N1befw=",
+        "pyjs8call-0.1.0.tar.gz"
+      ]
     }
   },
   "pyjslint": {

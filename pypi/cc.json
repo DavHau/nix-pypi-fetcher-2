@@ -9778,6 +9778,18 @@
         ]
       }
     },
+    "2.2.44": {
+      "sdist": [
+        "rNSFS8tqE2Rz4R+WpGsof6Tt62IKOwZWhxRwSdehs/Y=",
+        "aws-cdk.asset-awscli-v1-2.2.44.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.44-py3-none-any.whl": [
+          "Z7Wk2fKo3fm/Q1D2ZlL99JyPuMnlAPLk7S+OemUiwl0=",
+          "py3"
+        ]
+      }
+    },
     "2.2.5": {
       "sdist": [
         "TtdN51o5ggP2XX04N4jBALsmZIuuxiZYEU2bPnMHy0k=",
@@ -11280,6 +11292,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_alb_fargate-2.3.0-py3-none-any.whl": [
           "yO+Mu2mq25gyedHgdW3JNctwMOdxumvgBrbLKiBNOYU=",
+          "py3"
+        ]
+      }
+    },
+    "2.30.0": {
+      "sdist": [
+        "85Er4esM8V42bFPR5CIe7kYiWBqxqOODJuQ1UTdy/kk=",
+        "aws-solutions-constructs.aws-alb-fargate-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_alb_fargate-2.30.0-py3-none-any.whl": [
+          "LcknXKJh+XZFk3G3PwoDhRtFqXHc57U1r6R2SFkY3J8=",
           "py3"
         ]
       }
@@ -23910,14 +23934,14 @@
     }
   },
   "cprints": {
-    "1.0.0": {
+    "1.0.4": {
       "sdist": [
-        "UDOBIcmrFHc4dm2nO1nA5H810ua2/ikHQZ9ysrgnAug=",
-        "cprints-1.0.0.tar.gz"
+        "5IYgAhIv6+NcRMkaVzZd8jocSyugoul62Zd1hd7BK4A=",
+        "cprints-1.0.4.tar.gz"
       ],
       "wheels": {
-        "cprints-1.0.0-py3-none-any.whl": [
-          "YvB3yNjjpyqJphyM8MV3aA4+gHtA/A+W35/rV6i3lzI=",
+        "cprints-1.0.4-py3-none-any.whl": [
+          "oMSnEk2yhuML4bmDA6XFZlkJM4A8epkBpTFyDr/O204=",
           "py3"
         ]
       }
@@ -102935,6 +102959,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "WAfq/oeU+l/V95I/Ys2/ZN/FR/MESp3TKytZ/ym15Ks=",
+        "pyutmodel-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyutmodel-1.3.0-py3-none-any.whl": [
+          "/puqjqsZHEabQJni+CMK+FQqYVPWCDWeP671/k5g/CE=",
+          "py3"
+        ]
+      }
     }
   },
   "pywned": {
@@ -130636,6 +130672,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tia-3.0.803-py2.py3-none-any.whl": [
           "ZTT/+yH+SS/ttzafCm3eyFqWzWlqRh96RR2+ghxv6Wk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "4A9DqzBX0C0nDZtlYTghsKeBFUFP0MBHBfZejNaEpqs=",
+        "tencentcloud-sdk-python-tia-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.804-py2.py3-none-any.whl": [
+          "vBs0wE4aOBoyDTQN38bXeof8tm+cWkeYPXK3TPqZvF4=",
           "py2.py3"
         ]
       }

@@ -6229,6 +6229,18 @@
           "py3"
         ]
       }
+    },
+    "1.186.0": {
+      "sdist": [
+        "6yp8lxuQ2+j3MZIKeqmS1U4kLxVIWTifzcVsvaC6yqk=",
+        "aws-cdk.aws-nimblestudio-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_nimblestudio-1.186.0-py3-none-any.whl": [
+          "WkONsyJ0u6dF+d1kNlFSEB1yDUNgDyjEFawwVLqHBMw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoveryreadiness": {
@@ -7164,6 +7176,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoveryreadiness-1.185.0-py3-none-any.whl": [
           "NvGfoeMdV+dn+4FBK5d50mi+6/lJpo2fktc/dvIGFow=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.0": {
+      "sdist": [
+        "wBkqYcWSz3M88NDmv0dRvbQc5mhRx0OESJI62/cCpFQ=",
+        "aws-cdk.aws-route53recoveryreadiness-1.186.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoveryreadiness-1.186.0-py3-none-any.whl": [
+          "Zi5Hv0ELlGjz8yMO5zQ1O4J12ozxBTkkvgHpofsWTt8=",
           "py3"
         ]
       }
@@ -9892,6 +9916,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_route53_apigateway-2.3.0-py3-none-any.whl": [
           "OHbzycK4wIJWViZ/6h+DrFDq2l2FAntTS8y/YXU9EUQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.30.0": {
+      "sdist": [
+        "C4ZbLLgHQ7StYvz4iZ3pBqh3F7WvpXbCjtxlAflogJA=",
+        "aws-solutions-constructs.aws-route53-apigateway-2.30.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_route53_apigateway-2.30.0-py3-none-any.whl": [
+          "RoEWRush1LRx0OnfgrKsLs0YELGHvmo/gYCVZEj9pNs=",
           "py3"
         ]
       }
@@ -65247,6 +65283,12 @@
         "Rcy0QHt/Nqtl2dNmkk1pjEdL9SmCmXSjKvCFmBLv69k=",
         "jamstats-0.3.3.tar.gz"
       ]
+    },
+    "0.3.4": {
+      "sdist": [
+        "kB9U6vIjxIbOfIbjtPvxsmdb98QFxowUrfp98GQZev4=",
+        "jamstats-0.3.4.tar.gz"
+      ]
     }
   },
   "janitor-osp": {
@@ -81214,6 +81256,18 @@
         ]
       }
     },
+    "1.10.6": {
+      "sdist": [
+        "pIZC6k3igjAkFm/8SXPd8GmQmT2FCWm+HgZMozJKBmY=",
+        "namer-1.10.6.tar.gz"
+      ],
+      "wheels": {
+        "namer-1.10.6-py3-none-any.whl": [
+          "hsIYGwolU9Rydoq8M8mqQcOfPt1GIGnrXcJca6EswwE=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "oRgTdT9ACOhx6nlJknRco3Fbd9iBFvZns5A/1klOfe8=",
@@ -87960,6 +88014,14 @@
       "wheels": {
         "odoo9_addon_delivery_carrier_deposit-9.0.0.1.1.99.dev4-py2-none-any.whl": [
           "18JAjO26LDP0zpIObeJ+pJzaf36bi1TfsG+Bn4kALZ4=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.0.1.1.99.dev5": {
+      "wheels": {
+        "odoo9_addon_delivery_carrier_deposit-9.0.0.1.1.99.dev5-py2-none-any.whl": [
+          "bAwyuoZ7UwVR0hXxJGbOSJzPrhMqO+aIoUc9TNdu6Co=",
           "py2"
         ]
       }
@@ -144085,9 +144147,25 @@
       }
     },
     "3.0.803": {
+      "sdist": [
+        "OxFRR8mQWzCjb9xkiCDlBMVjXFk9QCSEe6KGMwfBnsI=",
+        "tencentcloud-sdk-python-iotvideo-3.0.803.tar.gz"
+      ],
       "wheels": {
         "tencentcloud_sdk_python_iotvideo-3.0.803-py2.py3-none-any.whl": [
           "ASNKZxL89PRSMK5U7W5WSXmla8TRtgHgkILoUdrGq9Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "rBTqp4m2diegZ081Sdi8r1sJ+2vJnptqe1r0ejLvXbM=",
+        "tencentcloud-sdk-python-iotvideo-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_iotvideo-3.0.804-py2.py3-none-any.whl": [
+          "xUPV7IbZujabwUVxIEonIsFnHOq2bnGnZAFBwYs43Mc=",
           "py2.py3"
         ]
       }
