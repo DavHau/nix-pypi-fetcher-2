@@ -34587,6 +34587,32 @@
       }
     }
   },
+  "codeprocessor-reader": {
+    "1.2.0": {
+      "sdist": [
+        "EI+0E7HHGh2ZfPlH7QJmdQH96a9xsXnFvtJziK9Zxnc=",
+        "codeprocessor-reader-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "codeprocessor_reader-1.2.0-py3-none-any.whl": [
+          "W1NXAyXfBjH9SK+2St7OfDCeJWzGacJu223kDYTjij0=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "oxGzEyoAW2EJAGBSTNr4kxd5EGHFLuTMzdX66SmKo4Y=",
+        "codeprocessor-reader-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "codeprocessor_reader-1.4.0-py3-none-any.whl": [
+          "sYPyX1iF/03NgHqw7+vYkSDYifnP+C38SEVAYzhtS1Y=",
+          "py3"
+        ]
+      }
+    }
+  },
   "coffea": {
     "0.5.0": {
       "sdist": [
@@ -72570,6 +72596,14 @@
         ]
       }
     },
+    "1.0.52": {
+      "wheels": {
+        "lumigo_opentelemetry-1.0.52-py3-none-any.whl": [
+          "14M9mcCgRLihJvWB6axvWU/Uc2bN8Hgc2WuxTidt5sg=",
+          "py3"
+        ]
+      }
+    },
     "1.0.6": {
       "wheels": {
         "lumigo_opentelemetry-1.0.6-py3-none-any.whl": [
@@ -78164,6 +78198,18 @@
       "wheels": {
         "ms_toollib-1.4.0-cp37-abi3-win_amd64.whl": [
           "aJguntFJkB1euK9q7ixs8SVk2ipbToq6lbS3zkRCgsA=",
+          "cp37"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "3wSmxRWZ/LnWxPLmfNXZnt7GDhXDaIBFAj2X9dPRiQI=",
+        "ms_toollib-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "ms_toollib-1.4.1-cp37-abi3-win_amd64.whl": [
+          "zw7qwcR0+AKtJ2kdVbI8A6ZRGTKINl2l+tbn+F9PU2E=",
           "cp37"
         ]
       }
@@ -128640,6 +128686,18 @@
         ]
       }
     },
+    "0.0.51": {
+      "sdist": [
+        "t9+XCpBdWACvCkNVYDhAruAb5AUN90DVUHpcQleZ/yQ=",
+        "stream-zip-0.0.51.tar.gz"
+      ],
+      "wheels": {
+        "stream_zip-0.0.51-py3-none-any.whl": [
+          "tRZ6cCZhxveEzXDT8DfBTGw0cA8LkMKHR5IHEO71zIQ=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "j0pSpFz2L0VkEG4XnQc8CCjyX00+VIzVY0jteB7TTqs=",
@@ -143872,6 +143930,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ssm-3.0.803-py2.py3-none-any.whl": [
           "HxHWY4Ob+CaJ65G5MBrAmUzp6e7p7dH+bBTnHPzzQY0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "8H/cvXRbfaGCdPge6Xz7NEjuvxZ5IG5jniGESmXIzA0=",
+        "tencentcloud-sdk-python-ssm-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ssm-3.0.804-py2.py3-none-any.whl": [
+          "v1xlt2eCuLH/qbuFqZuhJ0Mb4i6Y6e6IuEzcmc5KSEU=",
           "py2.py3"
         ]
       }

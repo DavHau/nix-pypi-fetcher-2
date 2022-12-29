@@ -15241,6 +15241,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221229": {
+      "sdist": [
+        "gzy0qBrLJwpjBcrkD045xF0wgpcEi5lkUaLyAatZ56g=",
+        "bigdl-dllib-2.2.0b20221229.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221229-py3-none-macosx_10_11_x86_64.whl": [
+          "aA+ST9vawhGKCFXw8IDx0mEOisLb8bnQLFDvgb3qSdU=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221229-py3-none-manylinux1_x86_64.whl": [
+          "T9BtwNC4UZzt7wcpD/8IPym9OG0JLQK1tjf1peP3AcQ=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -19962,6 +19978,18 @@
       "wheels": {
         "classification_mega_chem_mesh-0.0.24-py3-none-any.whl": [
           "7R0telS0OlS3ypUGTGFis4WuQLtJBTFsG7oN2bGBLYA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.24.1": {
+      "sdist": [
+        "bP8KCRDD2Fr3MQBW5tM9B6gIuJmG2JLLmcIic2TUVFk=",
+        "classification-mega-chem-mesh-0.0.24.1.tar.gz"
+      ],
+      "wheels": {
+        "classification_mega_chem_mesh-0.0.24.1-py3-none-any.whl": [
+          "EigxbF5Wl6aWnUdCcF0+EaC9QiH/4GeO6qo7AEGiAz8=",
           "py3"
         ]
       }
@@ -40492,6 +40520,12 @@
       "sdist": [
         "jYb/yOrL71s+JSw+0Y4lGKZm2zQNyhdG/DAdXJ85SIA=",
         "fit2gpx-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "tIeuc9oUcwjE+53CecrPblfvHdsyEn02kQjfAyyDt+E=",
+        "fit2gpx-0.0.7.tar.gz"
       ]
     }
   },
@@ -80684,6 +80718,14 @@
       "wheels": {
         "odoo13_addon_sale_coupon_criteria_order_based-13.0.1.0.1.dev2-py3-none-any.whl": [
           "4bSMcQhRoSPjylY+fD5VvAkwGZHzWpYMIW4A9urnUnQ=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo13_addon_sale_coupon_criteria_order_based-13.0.1.0.1.dev3-py3-none-any.whl": [
+          "jVJN8fTRhx0vQyiArySP9WBV20fZ7ZVlwpO1chfnngY=",
           "py3"
         ]
       }
@@ -140358,6 +140400,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221228-cp39-cp39-win_amd64.whl": [
           "61s5IX4M6U9KEiaNy1tdauo/SC+KDX/ldD7C3E4Hn8A=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221229": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221229-cp310-cp310-win_amd64.whl": [
+          "Yqk6JAbfg9Y2lcTB8MEm7ejIPcQjsImz8aSk1Ir3zcQ=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221229-cp38-cp38-win_amd64.whl": [
+          "GCnFIiTD2+fW8gxs7f+1I0T3WFFJGBpF/lM3QK6E6aQ=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221229-cp39-cp39-win_amd64.whl": [
+          "ERcUeJu/IrB4wQwTQnhc+lgx5kHlcIKIz53KRuD2//s=",
           "cp39"
         ]
       }

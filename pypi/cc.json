@@ -23945,6 +23945,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.6": {
+      "sdist": [
+        "R7CwyY7Fwpie9CI1KklELUw3LcDLWnBRK036H9Gcq+c=",
+        "cprints-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "cprints-1.0.6-py3-none-any.whl": [
+          "lTBBbiWq+VJXt4Z9cpWGMC3eCH/Up2krxI1PbQh02P0=",
+          "py3"
+        ]
+      }
     }
   },
   "cqe-jdsu": {
@@ -23973,6 +23985,20 @@
         "euaFLVYcTVmo28TwNPgyo42yt1kus/ACSj0xNmgZpGU=",
         "craftplot-0.1.1.tar.gz"
       ]
+    }
+  },
+  "create-empty-image": {
+    "0.10": {
+      "sdist": [
+        "+C5N4KZXO2QOst8ULTnJw1wREn1u6cb30NjUD+3f6U4=",
+        "create_empty_image-0.10.tar.gz"
+      ],
+      "wheels": {
+        "create_empty_image-0.10-py3-none-any.whl": [
+          "E6H8esbRr8piP52VS6l2GjwAthsX710HkpkbK1cpihQ=",
+          "py3"
+        ]
+      }
     }
   },
   "createmeal": {
@@ -132972,6 +132998,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20221228-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "V3RPH8YK4yhH0mFb9AF13Qn7Hi4IQYqVoAXw8/+3MXQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221229": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221229-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bIOkzVlxoJMiIfrccY0VBJXdiDY6glNb2UPSqy4p9kw=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221229-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "XWhj+yWfxsI3TPrJwyk+xQJ8aqNV/TG1NjX5D/HFy2U=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221229-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "47ffwi8l4VcAV9OKTZl4g//go3MY9bsnbopEpPCU4q0=",
           "cp39"
         ]
       }

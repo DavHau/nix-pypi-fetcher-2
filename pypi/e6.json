@@ -16753,6 +16753,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.9": {
+      "sdist": [
+        "VeOVW1+sTkD+9E2oT60OlNDAfeUM7MUg583YK9HXeCU=",
+        "cfgpie-2.3.9.tar.gz"
+      ],
+      "wheels": {
+        "cfgpie-2.3.9-py3-none-any.whl": [
+          "a+qwYjLb+oxeknh28Z5AidRIS38o6AFIsGSbDQBGSZg=",
+          "py3"
+        ]
+      }
     }
   },
   "cfn-datadog": {
@@ -36662,6 +36674,56 @@
       "wheels": {
         "degiro_connector-2.0.9-py3-none-any.whl": [
           "KkC7djs3GPQBtySRctHRDHTBG9th4luyPZcYbWYCogo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "delameta-response-query": {
+    "0.0.1": {
+      "sdist": [
+        "gTd8uxtXSKC0vPxHfgUQCGRQbXY4BEDn81mLH1swJzU=",
+        "delameta_response_query-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "delameta_response_query-0.0.1-py3-none-any.whl": [
+          "ipyTDEXeW9D2+WxmpYpwyRjGgyobC8SSBLBftdTVd7g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "bYWCHYZJzIhFZe7MZS3wEMYAjwn03NAQq3X1to3F2T8=",
+        "delameta_response_query-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "delameta_response_query-0.0.2-py3-none-any.whl": [
+          "SqFw18HwJrnvQ87A6uh6NTAMEK5Y9S/QMkRw8jkffBA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "vzVEHBJbaLfZbMzjLrBKvK2Oke28aRmRdZ+C8r4FQ8k=",
+        "delameta_response_query-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "delameta_response_query-0.0.3-py3-none-any.whl": [
+          "Tt9zcmBKsA1wtHQyC/m4APs3Qw/bQNSo1qp1VO9OUck=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "b2xQ9ZUwnhjdLgqSDWthc6cMN6G5DT3k3cEkTWsZe08=",
+        "delameta_response_query-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "delameta_response_query-0.0.4-py3-none-any.whl": [
+          "G8WCmfbpFq1LP8onkAquQ2PRKHSssfqDtAFCx6vCits=",
           "py3"
         ]
       }
@@ -70655,6 +70717,32 @@
       ]
     }
   },
+  "latz": {
+    "0.1.0": {
+      "sdist": [
+        "9+daRCFxquaAZzGK2WF0IgKCMvxFpd/bUflTFQgArIU=",
+        "latz-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "latz-0.1.0-py3-none-any.whl": [
+          "6tlZDcnUZwILgrQtPpu9F2b6ig26y06IeFNH4MupjhI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "ShmW2vpYSW+MQ/GAONLgxp2pEsCgCL6uo7O2uLAVBZE=",
+        "latz-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "latz-0.1.1-py3-none-any.whl": [
+          "wPwJ5LAPiDppQAUK3vf9wWqEKBgbtW835HmfBJuYju8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lawsql-cases-raw": {
     "0.0.1": {
       "sdist": [
@@ -98842,6 +98930,18 @@
         ]
       }
     },
+    "0.0.42": {
+      "sdist": [
+        "rQyP+9jQ3rmPqqqAYvqn/TWLGHTKo8TIOvASfv2WWjk=",
+        "PaLM-rlhf-pytorch-0.0.42.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.42-py3-none-any.whl": [
+          "b+R3Y3+IJj5vgnuQNdQ1ETZE3IwdrGaQbTKwAhswVrA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.5": {
       "sdist": [
         "yrsDpvzQdK9cLawNs9BGBxT77slFpHWTUVQR+qtk4Os=",
@@ -107022,14 +107122,14 @@
     }
   },
   "py4xml": {
-    "0.0.1": {
+    "0.1": {
       "sdist": [
-        "0IzMtyr/dvgcWmnHLyCrjMUrvmtVfw59fCCNYc/uzDs=",
-        "py4xml-0.0.1.tar.gz"
+        "F093SAdEL3lMsqJdsWk0OKhkhFOrhYchmca1wnxe5Eg=",
+        "py4xml-0.1.tar.gz"
       ],
       "wheels": {
-        "py4xml-0.0.1-py3-none-any.whl": [
-          "w4t+CV7mCTdzx+U/8xL+Kh0s4yuY74Wpi4nOPbL84pg=",
+        "py4xml-0.1-py3-none-any.whl": [
+          "wGtkW31XUGd8P4f1iQ2yX0WuDKoOtLDpb83Sz92yMFg=",
           "py3"
         ]
       }

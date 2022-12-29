@@ -11452,6 +11452,18 @@
         ]
       }
     },
+    "2.58.0a0": {
+      "sdist": [
+        "MAI9FLnoOspCCNbfFte/yHMTfDClalQ04Vv7+d6bMC8=",
+        "aws-cdk.aws-apigatewayv2-alpha-2.58.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_alpha-2.58.0a0-py3-none-any.whl": [
+          "5GehlyUKzDAsA2lsEeTO3P4k1RwkrNxx/wo+O7vG95M=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "bjK8z9JHA9oJa7tP2FjSRziPM5wjT7FAdGNih6RYAf0=",
@@ -33106,6 +33118,14 @@
       "wheels": {
         "clearml_agent-1.5.2rc0-py3-none-any.whl": [
           "JGhtmFGCSIkXGAkPcTvaRo5Hpm38HPxbVysTblV8AQA=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.2rc1": {
+      "wheels": {
+        "clearml_agent-1.5.2rc1-py3-none-any.whl": [
+          "5Ppc3hJNiqQB42oELPYRQGVfHinYSCg95/b/tZj7OVI=",
           "py3"
         ]
       }
@@ -112805,6 +112825,16 @@
       }
     }
   },
+  "odoo-addon-base-maintenance-group": {
+    "15.0.1.0.1.2": {
+      "wheels": {
+        "odoo_addon_base_maintenance_group-15.0.1.0.1.2-py3-none-any.whl": [
+          "qU7q2YVJkPpg2dh8F0ZDr7mW9yUMZmK29cgYp9mhkAA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-product-category-code": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -114031,6 +114061,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.1.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_stock_cycle_count-12.0.1.1.1.99.dev1-py3-none-any.whl": [
+          "3yJaVqg6snkUQno3BlQKxXBsvjeLXfGW04sPkRQ2XhQ=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-thingsintouch-ras2": {
@@ -114714,6 +114752,16 @@
       "wheels": {
         "odoo14_addon_mail_autosubscribe-14.0.1.0.1.dev5-py3-none-any.whl": [
           "0owZKVxghvjdrOwrjWj/71CjpLwXa1o0xz1pwxbN4Hc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-mrp-bom-line-sequence": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_mrp_bom_line_sequence-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "zt0kuMFT0oaZRQjkYFsclKGTXgHbI4xcKtyUM7dCV6o=",
           "py3"
         ]
       }
@@ -121252,6 +121300,50 @@
         ],
         "perspective_python-1.7.1-cp39-cp39-win_amd64.whl": [
           "aYPC9zP6ttZgmVe8GXaGdxsRbL7G6YwcwtdjOHNbsuM=",
+          "cp39"
+        ]
+      }
+    },
+    "1.9.0": {
+      "sdist": [
+        "GKCyWs3oW7W+g8u/F59ei6Drltt2v4ZR0/dNIRV0LGs=",
+        "perspective-python-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "perspective_python-1.9.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "dKOJ+qbtzhaB4NXa4am5cPEGoMCQObCAWyiOGc/9fqY=",
+          "cp310"
+        ],
+        "perspective_python-1.9.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uBKQ4A4b8r96XV8NDZS14hYEpdbf9W0LvyvsdrfR82M=",
+          "cp310"
+        ],
+        "perspective_python-1.9.0-cp310-cp310-win_amd64.whl": [
+          "74/Zs77UPCvLuDMz/EMt8xRO1sbyk4anmFTarWLaLlE=",
+          "cp310"
+        ],
+        "perspective_python-1.9.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "FunQFpn+h2FBbgat2Ihwno8hOCOPQz5LTcPA3PiHc2A=",
+          "cp38"
+        ],
+        "perspective_python-1.9.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oQd1dYh03Mm2npYnbj24fpYt5rLE5XExQdUqz41VmgQ=",
+          "cp38"
+        ],
+        "perspective_python-1.9.0-cp38-cp38-win_amd64.whl": [
+          "BWA286a1uUYlEg+ibObjxRvUQQtxqyvOtQ5t5P23ZdQ=",
+          "cp38"
+        ],
+        "perspective_python-1.9.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "6cYLZIajmeGwGCSY+Hkf5N9xJjQTnbQX1npel+OOXmU=",
+          "cp39"
+        ],
+        "perspective_python-1.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "r2fyevwHlti3FczCNm6Z3o83BDSAqkNWQnTp11lqhus=",
+          "cp39"
+        ],
+        "perspective_python-1.9.0-cp39-cp39-win_amd64.whl": [
+          "bi1Yg32hdEHj9aHYhc7SxnTJ+4/tLqC/GTGi8PIB1Bk=",
           "cp39"
         ]
       }
@@ -157023,6 +157115,18 @@
         "KGtPp5L/I9KoRAUNx3BqY4WIwzG1ZzQB2Uhp9YvXPUU=",
         "uplogic-1.7.2.tar.gz"
       ]
+    },
+    "1.7.3": {
+      "sdist": [
+        "Z6llAb2XYnQ4jGLsGCoXBsj9XD23iwJpC5DD2NOpkQk=",
+        "uplogic-1.7.3.tar.gz"
+      ]
+    },
+    "1.7.3.1": {
+      "sdist": [
+        "v0KvLRu1lAiySD0AhQphImPjXkFvbLJZX+9i6Ne3afI=",
+        "uplogic-1.7.3.1.tar.gz"
+      ]
     }
   },
   "upp": {
@@ -157810,6 +157914,18 @@
       "wheels": {
         "vallaris-1.0.9-py3-none-any.whl": [
           "u4u23/gbOC0wgeWMJ20p4+ewro1Bf5r+yN5iGySpOhU=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "0pZjDXNsMyURGgCa0RQC8UuOKUwmfTY+mixgqv7EzWY=",
+        "vallaris-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "vallaris-1.5.0-py3-none-any.whl": [
+          "2ADMWQfTqzm9PiKXELKaNjLed6onmex7ejYQLne806E=",
           "py3"
         ]
       }

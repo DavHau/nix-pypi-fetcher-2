@@ -20860,6 +20860,12 @@
         "clip-server-0.8.2.dev12.tar.gz"
       ]
     },
+    "0.8.2.dev14": {
+      "sdist": [
+        "nf9wchouAeuwDwVRho3bp4jjQ/73XzDc28lkWEcDjIc=",
+        "clip-server-0.8.2.dev14.tar.gz"
+      ]
+    },
     "0.8.2.dev4": {
       "sdist": [
         "zkia8SPv7XDcazSY48h3OuZtK9RLm8pGWighjzINRw0=",
@@ -82213,6 +82219,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.5.0.99.dev5": {
+      "wheels": {
+        "odoo12_addon_stock_request-12.0.1.5.0.99.dev5-py3-none-any.whl": [
+          "fQpeHRK+Hs+whjTU4WBzioMsHKd5H3C4LT7uUrp3M1U=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-website-media-size": {
@@ -111043,6 +111057,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.0.0b7.post1": {
+      "sdist": [
+        "j2KEoC0eQHLFW4E79tJCrFxcTs2AqRML7RNMPKvsQQs=",
+        "robotpy-cscore-2023.0.0b7.post1.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_cscore-2023.0.0b7.post1-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "epAaxbdYa+7me9ouEc6vsIafaY02zTa7tcWqFkVGGOE=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "fYmp9zawZI/sMt9aDOQ+KIhM/w9DGF7h8r10JJ1tF+c=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp310-cp310-win_amd64.whl": [
+          "SpD/dRVTNYVJmQE5dU8Xw5tlCAKSEyHVCr1/6gJ1SOM=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp311-cp311-macosx_11_0_universal2.whl": [
+          "RKjZ1KgiQlRWAHSqm8mXU4QkkyOm1s919a3jxGitMy4=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "oBpelJ+ivoU5TI32dYv801AvNo0rru8/yHzIRWY5t4M=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp311-cp311-win_amd64.whl": [
+          "9YODVI8TkZtjWFop/8ZzWnJh3RUxrxUE5FUpQooii3w=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "I0DbyHns6V3dumvz/Hgj2lAHG4HYLrcls8bk4aGaMp8=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "wI4vyQBdtGTXjWxdxBkQMSfKYX8gMK8DB/SXK3DRxJM=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp37-cp37m-win_amd64.whl": [
+          "cwUPmhYFQMvTvS1h8nt5ErgHs4+olSDMKkkNTMfeODs=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "Y5JZCpbZCmLKBxN9UvQAOo6gPO0nI7CA8D9D/5i7xkQ=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "/bdO9c4VQcT+uFfRODN+0V5lVFcr9NkET94e5fr14uw=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp38-cp38-win_amd64.whl": [
+          "+1L/BlC7g8Rvt5Xf5IKfdlwemgBabN+DLmP3eVHso1c=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "LEx9/oMFatDzvXqiPsNzIRHBqTAXidP6Di2c40k3sno=",
+          "cp39"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "cAOZ/7e8qOJNLnaC9meDf11Fv3rg5sXlRmdmTUbKZFE=",
+          "cp39"
+        ],
+        "robotpy_cscore-2023.0.0b7.post1-cp39-cp39-win_amd64.whl": [
+          "d3re/vbnj7DjayMoAyotZmfeFsk91WbPj9mHsoTOEDs=",
+          "cp39"
+        ]
+      }
     }
   },
   "robotpy-halsim-lowfi": {
@@ -115742,6 +115824,20 @@
       "wheels": {
         "simpel_menus-0.1-py3-none-any.whl": [
           "aSBXinS+DOHEzvmfzx+igklznXxxKr9LosG6F7jDacQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "simple-algebra4412064": {
+    "1.0.0": {
+      "sdist": [
+        "jP0JHfFSpd+wa56BpdLt25YRupZGP6yQRTOOLGGUlC0=",
+        "simple_algebra4412064-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "simple_algebra4412064-1.0.0-py3-none-any.whl": [
+          "5cG4X+Lm57ISxlSBKXUQWQSJQS5osX/nzCChwxOmFOY=",
           "py3"
         ]
       }
@@ -127612,6 +127708,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.6.0.dev20221228-py3-none-any.whl": [
           "Figu9WSrakUK4fbSIZAK/9PkQsJEbyW74nGQHgQcL5g=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.dev20221229": {
+      "sdist": [
+        "NdWOrJpg2QYCTefDGOx1Aaqigfk+8NSr05RTxzZnn08=",
+        "tensorcircuit-nightly-0.6.0.dev20221229.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20221229-py3-none-any.whl": [
+          "ZbN3fdNONO4Hy4UyCeX6/qdRfxK/HZ7Tk6NUjIdt3Ac=",
           "py3"
         ]
       }

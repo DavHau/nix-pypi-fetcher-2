@@ -8623,6 +8623,18 @@
           "py3"
         ]
       }
+    },
+    "2.58.0a0": {
+      "sdist": [
+        "OJG+aSAaCQZsb6NgRjI/e4p2l185BcLBUxtlPAsKzDo=",
+        "aws-cdk.aws-gamelift-alpha-2.58.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_gamelift_alpha-2.58.0a0-py3-none-any.whl": [
+          "IXy1BEfo3yN9lH+fpvww7GFFBYCgSwdBm0+zUi0mY+g=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-secretsmanager": {
@@ -15122,6 +15134,26 @@
         ],
         "bigdl_nano-2.2.0b20221228-py3-none-win_amd64.whl": [
           "LtV7DSq1j2yLeENk/lsSjMIsmChmyWA3lOXj1kHMPEk=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0b20221229": {
+      "wheels": {
+        "bigdl_nano-2.2.0b20221229-py3-none-macosx_10_11_x86_64.whl": [
+          "LegrnDnmJrurcIbMMfXSrC3xVQd9+i3L2uWnUX6U7f0=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221229-py3-none-macosx_11_0_arm64.whl": [
+          "2XHVrG3Nz6b8dpYgiyTYS0p0I/4EdBIrU8fTWIlUewE=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221229-py3-none-manylinux2010_x86_64.whl": [
+          "ebRfTCR2cPduF6SqrCZ7pGJJyztd2fI9DJOxAroPUgs=",
+          "py3"
+        ],
+        "bigdl_nano-2.2.0b20221229-py3-none-win_amd64.whl": [
+          "3i3ximH/bgcVF9/wtiSmzKQ9uD++6u4WaflI68hLZpk=",
           "py3"
         ]
       }
@@ -68455,6 +68487,20 @@
       ]
     }
   },
+  "hypermri": {
+    "0.0.3": {
+      "sdist": [
+        "H8dIa8nVb6WA2+vJpNCjFjsce6xacg62NDc6tU8msic=",
+        "hypermri-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "hypermri-0.0.3-py3-none-any.whl": [
+          "Gk2/6aEPsD4JcH//crnkqZCLZ9pn9qZTvs/HpDK+8Xg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "hypython": {
     "0.1": {
       "sdist": [
@@ -98181,6 +98227,20 @@
       }
     }
   },
+  "normalize-lists": {
+    "0.10": {
+      "sdist": [
+        "JBDAJ/NL0kD0eNKWkihE8aPX6TaeKA+t6t/3Gp4L/5c=",
+        "normalize_lists-0.10.tar.gz"
+      ],
+      "wheels": {
+        "normalize_lists-0.10-py3-none-any.whl": [
+          "teD9FVIHL5T1CG1xzX9dMjUIREGs0lGdrMzaa1jBv+M=",
+          "py3"
+        ]
+      }
+    }
+  },
   "notramp": {
     "1.0.0": {
       "sdist": [
@@ -101546,6 +101606,14 @@
       "wheels": {
         "odoo14_addon_hr_timesheet_sheet_period-14.0.1.0.1.dev3-py3-none-any.whl": [
           "ZE/1+vLQ7IOE/6PlT0zQxNb+XkEYrNyqIzjv8ixKh1o=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo14_addon_hr_timesheet_sheet_period-14.0.1.0.1.dev4-py3-none-any.whl": [
+          "vURcxUnr557a1qyF51dp4QakeyMWfVzE/bI/xS/qb2o=",
           "py3"
         ]
       }
@@ -132479,6 +132547,18 @@
           "py3"
         ]
       }
+    },
+    "3.1": {
+      "sdist": [
+        "TvojVzZ3eiQtpEEZB/2/hqh+P/l6es66X1Y3u8l/sp8=",
+        "scipion-em-atsas-3.1.tar.gz"
+      ],
+      "wheels": {
+        "scipion_em_atsas-3.1-py3-none-any.whl": [
+          "o88I9WR97R7nre/CN3x1QJyzaAZxN3uyeObP0YHXM0g=",
+          "py3"
+        ]
+      }
     }
   },
   "score.slang": {
@@ -136344,6 +136424,18 @@
       "wheels": {
         "skit_calls-0.2.3-py3-none-any.whl": [
           "sWBZfTdMBo/NJ7taYqsvg5NMXKQvxFJeiSjuLYMgnV0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.30": {
+      "sdist": [
+        "uSKNknFK14IkzETnekw8aVp6uXPoH0Z4ceApGHBszF0=",
+        "skit_calls-0.2.30.tar.gz"
+      ],
+      "wheels": {
+        "skit_calls-0.2.30-py3-none-any.whl": [
+          "K9U7EOzbWjyYLuaJbk3fEhKcQCWdneKZ7OWqmi1NGDU=",
           "py3"
         ]
       }

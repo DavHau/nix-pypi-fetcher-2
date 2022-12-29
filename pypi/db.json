@@ -30893,6 +30893,12 @@
         "Oq29Y9KwUShUAkKlwPSnU9oKID/PvBytpkz06sVKMW8=",
         "damelibraries-0.1.1.tar.gz"
       ]
+    },
+    "0.1.1.post1": {
+      "sdist": [
+        "OXZDfMKt3igjiUXe4nhz0Ed3bltJ8ajrU/fqOlkA4iI=",
+        "damelibraries-0.1.1.post1.tar.gz"
+      ]
     }
   },
   "danemco-content": {
@@ -92617,6 +92623,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.3.99.dev1": {
+      "wheels": {
+        "odoo12_addon_stock_picking_package_preparation-12.0.1.0.3.99.dev1-py3-none-any.whl": [
+          "vpowWEXiLmRs4RiNpdiEY3kU7QteMh3/Ze+jpTz6Qh0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-storage-backend-s3": {
@@ -103126,6 +103140,20 @@
       "wheels": {
         "pydantic_ssm_settings-0.2.4-py3-none-any.whl": [
           "SHiFdHIQmmQBVfinYrXQsfpXrSPsC79OZnH38ux18M8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pydantify": {
+    "0.5.0": {
+      "sdist": [
+        "DIZdapwmnpOoq60du1WGLqGqAQ+QKIo7Np6Su38fUkY=",
+        "pydantify-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "pydantify-0.5.0-py3-none-any.whl": [
+          "iaKKMhrw1SqMpVJ4F1Ft6LRFp1UEVRX4bdnM+ylbK/8=",
           "py3"
         ]
       }

@@ -15398,6 +15398,18 @@
         ]
       }
     },
+    "2.58.0a0": {
+      "sdist": [
+        "pWkmfQS2aoAgL/0cR6Bp7ZZmDcehKXAYSZZ3OpSX0h8=",
+        "aws-cdk.aws-glue-alpha-2.58.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_glue_alpha-2.58.0a0-py3-none-any.whl": [
+          "nTdZNKJrCZqHMoHwlMZ8OIxt4VH51oCsL2Cv6Swi1bs=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "X4deVO0JBCbpuOM3rBoCUniUWobzPvKS+4SMrh2c6jM=",
@@ -37033,6 +37045,18 @@
           "py3"
         ]
       }
+    },
+    "23.7.1": {
+      "sdist": [
+        "Ai9/ZElaaYxQObYKs6JZ+gGXCa0LW86VQPV0cTFQC9o=",
+        "cg-23.7.1.tar.gz"
+      ],
+      "wheels": {
+        "cg-23.7.1-py3-none-any.whl": [
+          "FOV1oQH4zvpjdVzmQTGkxry54zsOMG7AQiE2c2VgUgo=",
+          "py3"
+        ]
+      }
     }
   },
   "cgdb-client": {
@@ -41188,6 +41212,14 @@
       "wheels": {
         "cmdty_storage-1.1.0-py3-none-any.whl": [
           "zBIL55LpVVXlvZVkbZ2lo7coU3GhC5oPXsYCgVLF4JQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "wheels": {
+        "cmdty_storage-1.2.0-py3-none-any.whl": [
+          "E8cyaf3vjzZX7eC7kd/hRguvb1ZEBTaf7GTa2cOEH8U=",
           "py3"
         ]
       }
@@ -96383,6 +96415,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "yoHxBNId9BofSp2++uUO8Z6zEnyDyQErphX9XUTJNpQ=",
+        "neural_pipeline_search-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "neural_pipeline_search-0.8.0-py3-none-any.whl": [
+          "Dadg/Yqmd5HZ3SYyOgR/PyQXWuX8JCbOS9TtuvX05e8=",
+          "py3"
+        ]
+      }
     }
   },
   "neuralkg": {
@@ -103756,6 +103800,12 @@
       "sdist": [
         "h5N3eTmRmTNPRmTBadEw/mczGDUcIqnkD6/Y+L8wmD4=",
         "phono3py-2.4.1.tar.gz"
+      ]
+    },
+    "2.5.0": {
+      "sdist": [
+        "agmjtQoVOZemsil0q3QEb/ynaM5HBZVNtc3hx8MqV70=",
+        "phono3py-2.5.0.tar.gz"
       ]
     }
   },
@@ -126428,10 +126478,34 @@
         "rejected-peps-0.7.2.tar.gz"
       ]
     },
+    "0.8.0": {
+      "sdist": [
+        "KUilUEQzHkLZz83mtGau82t3J8apa4x50G8vZYvuMII=",
+        "rejected-peps-0.8.0.tar.gz"
+      ]
+    },
     "0.8.0b1": {
       "sdist": [
         "gcl35p+hhA4nIv1XstQgLUXhMoo9i6vyAFb49/ZaQRk=",
         "rejected-peps-0.8.0b1.tar.gz"
+      ]
+    },
+    "0.8.0b2": {
+      "sdist": [
+        "mYs5+BR8T4a96dZvnS+G9vjgbtIYRp+BivkjPLmZcdg=",
+        "rejected-peps-0.8.0b2.tar.gz"
+      ]
+    },
+    "0.8.0rc1": {
+      "sdist": [
+        "ZiI4WWDLnuDHENMdo5+XP/IRD2c/eM6Wm5q2hNLLfr4=",
+        "rejected-peps-0.8.0rc1.tar.gz"
+      ]
+    },
+    "0.8.1": {
+      "sdist": [
+        "NDtQ2fXI+VyrXc+Q4VdYHuqoR2uY8gZhQITqUi642Zw=",
+        "rejected-peps-0.8.1.tar.gz"
       ]
     }
   },
@@ -146048,6 +146122,18 @@
       "wheels": {
         "tencentcloud_sdk_python_taf-3.0.803-py2.py3-none-any.whl": [
           "gCRgEerKon1OSuBhYMiOpZh2r1DiylFRDJi9vEVbUzI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.804": {
+      "sdist": [
+        "BvoHnB7d45SLTRUCsd4Myzhg/+wdVTaObsrp/99bogo=",
+        "tencentcloud-sdk-python-taf-3.0.804.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_taf-3.0.804-py2.py3-none-any.whl": [
+          "KnTnCcngbpJpjVy4CRAQcKlXUj5lCH/uRJAoBc0AzHc=",
           "py2.py3"
         ]
       }

@@ -721,6 +721,12 @@
         "smTWSQHtr3GxtJD9ErAP88dEGJ309tSwrVZ2OitF1Gk=",
         "aim-ui-custom-3.15.2.post2.tar.gz"
       ]
+    },
+    "3.15.2.post4": {
+      "sdist": [
+        "+Q4LriVv8iuzNrwvkVcX/stqDyW7WERHNdJyRzQ6LPI=",
+        "aim-ui-custom-3.15.2.post4.tar.gz"
+      ]
     }
   },
   "aiodine": {
@@ -14256,6 +14262,18 @@
         ],
         "bigdl-2.2.0b20221228-py3-none-manylinux1_x86_64.whl": [
           "VwecjAGMrmPdb0aU51LEPUG8GhyEoLCN4i+Swpn48W8=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0b20221229": {
+      "wheels": {
+        "bigdl-2.2.0b20221229-py3-none-macosx_10_11_x86_64.whl": [
+          "QZA5hNx9S3piUaymlzMi0bOEaXETIF9hVQ2utm5LtPw=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20221229-py3-none-manylinux1_x86_64.whl": [
+          "7gKBVss+VYusXkNIgn1cYFy3Tz83gQvoVWMPwLdrwEQ=",
           "py3"
         ]
       }
@@ -46337,6 +46355,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.4": {
+      "sdist": [
+        "uu5k3h2NwuPEcUetIugGoPHeYnGo5d10KPJK9fSuL8o=",
+        "hyprland-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "hyprland-0.2.4-py3-none-any.whl": [
+          "CcjFx3ZJ2fXVghRRvRa0loRCQun8NLiMrzXd/XIJiEQ=",
+          "py3"
+        ]
+      }
     }
   },
   "i-am-helloworld": {
@@ -74776,6 +74806,14 @@
         ]
       }
     },
+    "14.0.1.0.1.dev15": {
+      "wheels": {
+        "odoo14_addon_hotel_reservation-14.0.1.0.1.dev15-py3-none-any.whl": [
+          "ijOExiXVtPb7LuyvaO9C804ll2kFsvEveK3afqMicKo=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev8": {
       "wheels": {
         "odoo14_addon_hotel_reservation-14.0.1.0.1.dev8-py3-none-any.whl": [
@@ -76882,6 +76920,18 @@
       "wheels": {
         "openwisp_monitoring-1.0.2-py2.py3-none-any.whl": [
           "n0uyBKHLA3o6dfBiO3frR7d1o8WSm8qerDAsZQe79PQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "X+U7Nh065gGC4rbH+xDtQt1vnBTaynjd3485R2Jg9xU=",
+        "openwisp-monitoring-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "openwisp_monitoring-1.0.3-py2.py3-none-any.whl": [
+          "TGO1BUKEcdaNvrvyrVQaMFiwHLyUsDbsEoh1aCPVDKw=",
           "py2.py3"
         ]
       }

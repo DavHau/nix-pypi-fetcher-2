@@ -33964,6 +33964,12 @@
         "clip-as-service-0.8.2.dev12.tar.gz"
       ]
     },
+    "0.8.2.dev14": {
+      "sdist": [
+        "+tOQNRipVoQn4kvboUEFRk6uqwmblDbu2WbMCENeyUY=",
+        "clip-as-service-0.8.2.dev14.tar.gz"
+      ]
+    },
     "0.8.2.dev4": {
       "sdist": [
         "xrgoiWFX3QBmSZ/ATwduJ7STaQ0tVSQ2zP78SyZx5Xg=",
@@ -51030,6 +51036,22 @@
         ],
         "dune.gdt-2022.3.4.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
           "KSGAaQc9z1dZuGdDC/RWaPuMLXYUDhhYARpW6tdt6sY=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.5.0.1": {
+      "wheels": {
+        "dune.gdt-2022.5.0.1-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "hEf2F55dykLiQEASYp1zlkl8+ACI9Bflfy7A97gGTEw=",
+          "cp310"
+        ],
+        "dune.gdt-2022.5.0.1-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "0MF/4VjKWHy7L6/ie1ldpJ9mZFmYfC0iEmekEfYpBEA=",
+          "cp38"
+        ],
+        "dune.gdt-2022.5.0.1-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "AFBwp5sikwkUGvP/ofA86DFGUouDUwh+n+y6TcpiYQg=",
           "cp39"
         ]
       }
@@ -97849,6 +97871,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.4.1.0": {
+      "wheels": {
+        "odoo14_addon_l10n_br_account-14.0.4.1.0-py3-none-any.whl": [
+          "GaflcfjuIhZddQHF4RyDzmQ5Evqyj25yT+FpKpppS/Y=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-l10n-th-gov-purchase-guarantee": {
@@ -97934,6 +97964,14 @@
       "wheels": {
         "odoo14_addon_product_assortment_description-14.0.1.0.2.dev3-py3-none-any.whl": [
           "XdmkFH/X14CRueiK2cCOSZ8/SNzrKTmoINAr9OwCL0I=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.2.dev4": {
+      "wheels": {
+        "odoo14_addon_product_assortment_description-14.0.1.0.2.dev4-py3-none-any.whl": [
+          "YnKiosusxmcAzuSPgt//XgDgO3V+15ju42mWe1lh+GI=",
           "py3"
         ]
       }
