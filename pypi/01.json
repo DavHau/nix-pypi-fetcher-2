@@ -20839,6 +20839,38 @@
         "cmeel_cppad-20220000.4-1-cp39-cp39-manylinux_2_28_x86_64.whl": [
           "6BipGFc73HG4G+0YPgTQrdLjAZrs2lyXAp203y6xO2I=",
           "cp39"
+        ],
+        "cmeel_cppad-20220000.4-2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Ztk7ubcsCwNKa3W3Xm7zcgnKq6J3ROCKnV98fIuL5Mc=",
+          "cp310"
+        ],
+        "cmeel_cppad-20220000.4-2-cp310-cp310-manylinux_2_17_x86_64.whl": [
+          "AO9F/af63HSHdcKuOPjmnqItHYwQXd4BG/CnmX84UZ4=",
+          "cp310"
+        ],
+        "cmeel_cppad-20220000.4-2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "smK3DvebKF8jhYK1MNI50DwYuCrvyT0n2N+T6dsTA6s=",
+          "cp311"
+        ],
+        "cmeel_cppad-20220000.4-2-cp311-cp311-manylinux_2_17_x86_64.whl": [
+          "keo86lYkXlEilQynn5uI191H33JDtU2rC1ab3nQevp8=",
+          "cp311"
+        ],
+        "cmeel_cppad-20220000.4-2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "NhwCZvI7lDRAeYxhcmgQchEzUFmR1mXX8M5XLmQ+JVs=",
+          "cp38"
+        ],
+        "cmeel_cppad-20220000.4-2-cp38-cp38-manylinux_2_17_x86_64.whl": [
+          "AzV7kebrGSSr1ZxajBXRa127x0KhaRS4C9ltbAgYNvs=",
+          "cp38"
+        ],
+        "cmeel_cppad-20220000.4-2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "FZme92woU3wZC0IeIzx3RwowMyXnR8Jn4oGwDgx6vJ8=",
+          "cp39"
+        ],
+        "cmeel_cppad-20220000.4-2-cp39-cp39-manylinux_2_17_x86_64.whl": [
+          "dB0LQ71bmiWanR5gBIG/kNspTUCkkleDP7RF5UtLKKc=",
+          "cp39"
         ]
       }
     }
@@ -25160,6 +25192,18 @@
       "wheels": {
         "crazy_thursday-2022.12.30.0-py3-none-any.whl": [
           "c5Fk2xjAg2U76XovVLUSIrjRCkfaCUB2+AY4kzHmkQE=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.30.1": {
+      "sdist": [
+        "14CdRUBB/qLXb4NyrYlhsh8RqY88dti1dlNaGEtLuHs=",
+        "crazy-thursday-2022.12.30.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2022.12.30.1-py3-none-any.whl": [
+          "rVPxv/sugD0Jno/GkDbGdXoWLtwFCFpOmF3A/ceW81M=",
           "py3"
         ]
       }
@@ -31402,6 +31446,16 @@
       "wheels": {
         "datasette_leaflet_geojson-0.8-py3-none-any.whl": [
           "azIS4hPu7Lnzyl5ozD/xEckXnjow4iokrwbMEDP9O54=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "datawrangling-lalit": {
+    "0.0.1": {
+      "wheels": {
+        "datawrangling_lalit-0.0.1-py3-none-any.whl": [
+          "DrVYHNoZcu6AaBHqXidr7W+KOOhiZIL+WWR+TyV0D78=",
           "py3"
         ]
       }
@@ -89805,6 +89859,16 @@
       }
     }
   },
+  "odoo-addon-sale-last-price-info": {
+    "15.0.1.0.1.2": {
+      "wheels": {
+        "odoo_addon_sale_last_price_info-15.0.1.0.1.2-py3-none-any.whl": [
+          "PNp82jlUHKkli2YMiFTNzQ7sqzQZnLOpToMjRufsOEQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addons-oca-hr": {
     "15.0.20211104.1": {
       "wheels": {
@@ -109727,6 +109791,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "3vXu7kAnfxlEfg+qq8JUi8/5CpCd+XWcfqB9zJGg6Mo=",
+        "PyKakao-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "PyKakao-0.0.3-py3-none-any.whl": [
+          "+Vsr/IvU0kLlHmolExfjzK0wMOglboHyoOYP02dAjfA=",
+          "py3"
+        ]
+      }
     }
   },
   "pykk": {
@@ -120112,6 +120188,54 @@
     }
   },
   "redflagbpm": {
+    "0.0.10": {
+      "sdist": [
+        "r7aGU4CL6RFpgqTasELbHIB1c9Vw9RpPrnJ6W4tW+wQ=",
+        "redflagbpm-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "redflagbpm-0.0.10-py3-none-any.whl": [
+          "yFtVfvXBgE1QJVyM9jZF/QhdL4pVbw+JAz/rRGlIx68=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "IlaZ1PUKdYisFrujyKdJb0P+bSNcU4mNq4rucQO9B3U=",
+        "redflagbpm-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "redflagbpm-0.0.11-py3-none-any.whl": [
+          "qBb1GtA67ppxEhjaNi26v/cSDgUO6C5L4nFbbKg54IM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "HZ6MwHsHDhH2tD1SHpLSxyRW6621MEGbwNRQIOz6Was=",
+        "redflagbpm-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "redflagbpm-0.0.12-py3-none-any.whl": [
+          "YxGG2hGVKJcfLtyS2cJnML+tvs6DOQvsjBbnlQG0DaA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "0HyLw0ZrPNS08WAB0JY8TlAkxivoipGLuTCmmIfy7n4=",
+        "redflagbpm-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "redflagbpm-0.0.13-py3-none-any.whl": [
+          "OXWiINsJXEUTLUdm+LPsICnzt/pqCzLOph3CwXVInCg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "QyoUV+tuIKNGU1wtC6hwMVheLhxorn8cOuIsS1ZNSQs=",

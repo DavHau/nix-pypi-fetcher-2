@@ -20494,6 +20494,18 @@
         ]
       }
     },
+    "6.27.8": {
+      "sdist": [
+        "qEe4r2oDwgfZ/hg6KowMe3xP5RkpFP5UaEZ2WH3wVx4=",
+        "cfl-common-6.27.8.tar.gz"
+      ],
+      "wheels": {
+        "cfl_common-6.27.8-py3-none-any.whl": [
+          "3LHCkGeRFmILnmV+k9SF5cdJrM7XePjYxpGJ4dGp3OE=",
+          "py3"
+        ]
+      }
+    },
     "6.3.0": {
       "sdist": [
         "1XroyEz7g0kt2O3e12C1SwTntLaJYkdYYpZhdZOAYSI=",
@@ -32182,6 +32194,18 @@
         ]
       }
     },
+    "1.0b10": {
+      "sdist": [
+        "i8DVvtj4aM3MDA8bWsms9sYdp3XPIru+66eRyp041fA=",
+        "devoud-1.0b10.tar.gz"
+      ],
+      "wheels": {
+        "devoud-1.0b10-py3-none-any.whl": [
+          "OX6OtfLo6vQYKzHwql4zsgQ3wLARu11u1p07xjv+o3k=",
+          "py3"
+        ]
+      }
+    },
     "1.0b2": {
       "sdist": [
         "XjttI+MQUNT1vEce/CQLsxPQc7dPhQxbqbied6UgotE=",
@@ -32262,6 +32286,18 @@
       "wheels": {
         "devoud-1.0b8-py3-none-any.whl": [
           "nPayB/eMU+V/463ZV8sO6h+KihYGyuTfZt+mhXnTraA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0b9": {
+      "sdist": [
+        "twoER8MCpeiCSFhlmJ1lHH6TZtjBFk/6wN+b7YBOaQM=",
+        "devoud-1.0b9.tar.gz"
+      ],
+      "wheels": {
+        "devoud-1.0b9-py3-none-any.whl": [
+          "ZvH115HthuOu8eOb7u6wwjZceMp/PvYjwGl7TG7iMY0=",
           "py3"
         ]
       }
@@ -40514,6 +40550,18 @@
       "wheels": {
         "edubot-0.3.3-py3-none-any.whl": [
           "6wyAAVi+hk9ZULLVpP13o37mNg36mqaaNU7lWlNtSvU=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "OLly/B+n3jw9IZaatlTw8jKA+NEk79O530y35X2dmmI=",
+        "edubot-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "edubot-0.4.0-py3-none-any.whl": [
+          "MOBxiD9tJQFWvNqWR5pQBi2ypI5UfaOegYkcx8X8ZGs=",
           "py3"
         ]
       }
@@ -85175,6 +85223,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.3.8.0": {
+      "wheels": {
+        "odoo_addon_l10n_ro_stock_account-15.0.3.8.0-py3-none-any.whl": [
+          "CxGczQLIMRd1PXfmjPN2dBSNygBscQZnv7g0Eaylc78=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-mail-show-follower": {
@@ -85402,6 +85458,14 @@
       "wheels": {
         "odoo10_addon_l10n_ch_fds_upload_dd-10.0.1.0.1-py2-none-any.whl": [
           "dio0l5ek8fmXvDkvs5uodp9s6fQfZtEjgzH/qLeSd0w=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo10_addon_l10n_ch_fds_upload_dd-10.0.1.0.1.99.dev1-py2-none-any.whl": [
+          "WL2ior8l1y9BmxwdWIi4sbt4qbUSixkvq7FODxUSAz8=",
           "py2"
         ]
       }
@@ -87720,6 +87784,16 @@
       "wheels": {
         "odoo14_addon_product_packaging_unit_price_calculator-14.0.1.1.1-py3-none-any.whl": [
           "alf5uRVZ+haJu2vIunnV5b5wdeGwO9eGYTqYQSKe+tY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-stock-move-forced-lot": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_stock_move_forced_lot-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "834V6WpyJNwfeByDTVs0v5U0/2WeyWnepc8eZOcaA4o=",
           "py3"
         ]
       }

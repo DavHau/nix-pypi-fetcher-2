@@ -94587,6 +94587,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.4": {
+      "sdist": [
+        "l7I5Lsi+jCWiEttUzy0a/ywEgkiIAn7xfzBpl2BTC5c=",
+        "NORDic-2.2.4.tar.gz"
+      ],
+      "wheels": {
+        "NORDic-2.2.4-py3-none-any.whl": [
+          "I1IdmzAZg1W1dRPPxy5owdwdFKoNWQWpi8AggcvHomw=",
+          "py3"
+        ]
+      }
     }
   },
   "notebook-autorun": {
@@ -100436,6 +100448,14 @@
       "wheels": {
         "odoo8_addon_module_uninstall_check-8.0.1.0.0.99.dev7-py2-none-any.whl": [
           "uD6Gsh01hJMofW3/+mgtMc2Mj7rKQ5D7I8CNuQN8tLw=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev8": {
+      "wheels": {
+        "odoo8_addon_module_uninstall_check-8.0.1.0.0.99.dev8-py2-none-any.whl": [
+          "BmtUaUdw+WkXJUMm+Pkh95VXPAqm3yh4LcNPO0b6rCE=",
           "py2"
         ]
       }
@@ -145622,30 +145642,6 @@
         ]
       }
     },
-    "0.6.9b2": {
-      "sdist": [
-        "KrO+5FFtQfbYd8vgSCr2JaQ7m6sTMGk/a+GUbNodP50=",
-        "upathlib-0.6.9b2.tar.gz"
-      ],
-      "wheels": {
-        "upathlib-0.6.9b2-py3-none-any.whl": [
-          "A/ga0Mb20cCp3GNGEmwWNO7zz0fV9/qtIBzHR1Xin3Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.9b3": {
-      "sdist": [
-        "ueRwtdZwcfDljf2m1+Al8bVa9DwPkg8utlGogo/VfIk=",
-        "upathlib-0.6.9b3.tar.gz"
-      ],
-      "wheels": {
-        "upathlib-0.6.9b3-py3-none-any.whl": [
-          "uw6VmAJc604TgVJTlABqxGEhhUgHyEorzx8ia9p+la0=",
-          "py3"
-        ]
-      }
-    },
     "0.6.9b4": {
       "sdist": [
         "yP9cvq1jR4cAZEXFw+2YhdFutIaoRuGfBxmityLVHOU=",
@@ -145654,6 +145650,18 @@
       "wheels": {
         "upathlib-0.6.9b4-py3-none-any.whl": [
           "UlbUM71MCuJbqhGU3iotKTkOF7svM8aeXs0kSGD9A3Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.9b5": {
+      "sdist": [
+        "5cFFJwLu8+ideSw1YjJXpCMIhe5w+IqOFuAVjkthQag=",
+        "upathlib-0.6.9b5.tar.gz"
+      ],
+      "wheels": {
+        "upathlib-0.6.9b5-py3-none-any.whl": [
+          "N/s5Kq98087a8U/qbySkdwjZQ59N3PEnJPwal4zKAUg=",
           "py3"
         ]
       }

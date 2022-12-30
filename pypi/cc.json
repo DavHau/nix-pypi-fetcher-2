@@ -82772,6 +82772,14 @@
     }
   },
   "odoo14-addon-mrp-workcenter-hierarchical": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_mrp_workcenter_hierarchical-14.0.1.0.1-py3-none-any.whl": [
+          "kYUO41mT4awhK/3qgIRTBjLTzw6nDlmDl2VcrLdV/8o=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_mrp_workcenter_hierarchical-14.0.1.0.1.dev2-py3-none-any.whl": [
@@ -103290,6 +103298,18 @@
       "wheels": {
         "qc_quad-0.1.0-py3-none-any.whl": [
           "Mn8px3LBFDlSl1GJAvW+u6yZEqX0Fagm/LBb5U0x238=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "x7gCNrAYD6bh+FdozRzZN102BIrvA02KSvlAPTk38Bg=",
+        "qc_quad-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "qc_quad-0.1.1-py3-none-any.whl": [
+          "C1THfjRGCfB40xEjb+gnbGFuXZ7GYibXgD3uZcqDFVI=",
           "py3"
         ]
       }
@@ -133064,6 +133084,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20221229-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "47ffwi8l4VcAV9OKTZl4g//go3MY9bsnbopEpPCU4q0=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221230": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20221230-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "tGDPaJ4Axg+UAlBibs9qaqxFcqk02WXHjU+0ALy0ir8=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221230-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "lynzVqX918CzKmnR/eJIYGn3FKjK0xDw9flJxWfsHJ4=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20221230-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "F0TwOb8xklQf7DdikhxSZq6QfZLAkkKJaRktdzjLjHE=",
           "cp39"
         ]
       }

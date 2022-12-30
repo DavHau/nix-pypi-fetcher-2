@@ -7559,6 +7559,18 @@
           "py3"
         ]
       }
+    },
+    "2.58.1a0": {
+      "sdist": [
+        "f8j9F5K1DJez+5i8TxYetotb6hFPhM24C2etf2vTo2U=",
+        "aws-cdk.aws-location-alpha-2.58.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.58.1a0-py3-none-any.whl": [
+          "Kx+mrf6aO1S+Cne4OxRUY6ZdEHMkmpR+VjjFMfabGFE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-glue-sessions": {
@@ -8226,6 +8238,12 @@
       "sdist": [
         "hAJl0vVX1oI0dQ0hmkULnapkO9aoKp9yEir/UFA5Pm8=",
         "bamboo_connect-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "JsR8m8XyjNaYoYn+SX+YYb1jdNyIX0iJc+n5eVtpmlM=",
+        "bamboo_connect-0.0.2.tar.gz"
       ]
     }
   },
@@ -75350,6 +75368,14 @@
         ]
       }
     },
+    "15.0.1.0.0.16": {
+      "wheels": {
+        "odoo_addon_hotel-15.0.1.0.0.16-py3-none-any.whl": [
+          "/S3bPQM+c4RGvtL1r6qedWM+UgAISws+w/pcztvivUs=",
+          "py3"
+        ]
+      }
+    },
     "15.0.1.0.0.2": {
       "wheels": {
         "odoo_addon_hotel-15.0.1.0.0.2-py3-none-any.whl": [
@@ -77494,6 +77520,14 @@
       "wheels": {
         "odoo8_addon_partner_identification-8.0.1.1.1.99.dev5-py2-none-any.whl": [
           "Tz2GPQ591UWue5r1WiYrU5UkqMX5PeM3XTOMIgo9TT0=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.1.1.99.dev6": {
+      "wheels": {
+        "odoo8_addon_partner_identification-8.0.1.1.1.99.dev6-py2-none-any.whl": [
+          "CUTm2JQiMZ4sWkeSIYTVozgrwyhD6kz2DGEcgt5QF0g=",
           "py2"
         ]
       }
@@ -101920,6 +101954,18 @@
       "wheels": {
         "reportbro_lib-3.0.4-py3-none-any.whl": [
           "P7rRwXAmSZiz/SkD/ICqpA9niWmPxeQDYjJqgE64fpc=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.5": {
+      "sdist": [
+        "/dDZuDnlMxIDuLNvQO2Sq7sedqSTxeK9IOXQiZ4BaYM=",
+        "reportbro_lib-3.0.5.tar.gz"
+      ],
+      "wheels": {
+        "reportbro_lib-3.0.5-py3-none-any.whl": [
+          "REPCbTV7SeO9Lwr5Xd42AF8hJer468D+YWLdwCTz5lc=",
           "py3"
         ]
       }

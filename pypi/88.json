@@ -1977,6 +1977,18 @@
           "py3"
         ]
       }
+    },
+    "2.7.1": {
+      "sdist": [
+        "XfhUNczw/t3G1TP9Dwk6RgZhDyE1fRJDgyGNgw5yKX4=",
+        "aleph-alpha-client-2.7.1.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.7.1-py3-none-any.whl": [
+          "+9cgYQX5236pugM3/SvWyhjYWYiHYb39s5TuKfrgOdI=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-quotas20200510": {
@@ -53721,6 +53733,12 @@
         "scrlivg5U+VBAb8suVY9rxPcec2lQTUytvHTd+njMyo=",
         "infrasonar-0.1.2.tar.gz"
       ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "h1Tlc6m6FRW83PPefd1BFhg7ze9FcwBKp1MDKEYmDLo=",
+        "infrasonar-0.1.3.tar.gz"
+      ]
     }
   },
   "insdcalculator": {
@@ -55428,6 +55446,18 @@
       "wheels": {
         "jptranstokenizer-0.1.2-py3-none-any.whl": [
           "DDJ8IzAx7Sthb7n8DfZ4Thaj77wV/nDgnILh5VNhpOc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "mvbMEWeqAkv8GwlFEjv4mAXjbcKRhnt4PjbkGapv9Xs=",
+        "jptranstokenizer-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "jptranstokenizer-0.1.3-py3-none-any.whl": [
+          "UAQz9y98Xq4pZ3CPbV0eFfsYGprKw5zDcUevbp87SkA=",
           "py3"
         ]
       }
@@ -69286,6 +69316,62 @@
         ]
       }
     },
+    "0.14.8b2": {
+      "sdist": [
+        "ESEePjXvUXfY252BUXaQemMLeInnSGXePqWp33bt0rk=",
+        "maturin-0.14.8b2.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.14.8b2-py3-none-linux_armv6l.whl": [
+          "zEi4RoR9qQpQAHpyVDBjLe2xiHPqpYBYK5T2HyQWyDk=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-macosx_10_7_x86_64.whl": [
+          "ZZi/riM+QPhtZAUaZwdfEQLeR9viiE4BljjrnGHUP7A=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "VYsGOCgZWJvdMA1iRL5yz7/t+9unpR/hFigEqWD5oZI=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "0yOxljEi8v/V2OhdKTwGQzEHRXmzf9uZBX6jF/zwhRk=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "ol8U131Yc1JW2u0wNucjf1lfkmgRqQtbFC/rfm8/4Io=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "RTMIs21NaJ6CVs4tmYK6UeJNng0pRO3N7FuQJX1Hwnc=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "lMbma1ltXAe19PpTturZtNJn+Qb15cMx3az3JnJy8oM=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "VzuSQyBAjQmmfJMPterOXIbh2v3wZOvE7iBERawvSj4=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "H1075WXEWXKGc4M5ankmxp+vj6B6WUyYszZx/nilJtY=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-win32.whl": [
+          "3W52YI/aYPfsj5N0jgc026h+5ApbQspIHxa4Yq62rg0=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-win_amd64.whl": [
+          "1xqwgbXMqe+N50sneo68v6qVR9CjtbdTAeWqWaQiiKk=",
+          "py3"
+        ],
+        "maturin-0.14.8b2-py3-none-win_arm64.whl": [
+          "x+gOYQHPKQxbA85IJYEH7mfVuwSShS5L5wG1RFluCpA=",
+          "py3"
+        ]
+      }
+    },
     "0.7.0": {
       "wheels": {
         "maturin-0.7.0-py2.py3-none-win32.whl": [
@@ -74442,6 +74528,14 @@
       "wheels": {
         "mtimageio-0.1.202212191445-py3-none-any.whl": [
           "5RnMznuQgBFPcvH7EZC/BRtUI50YYc7IthiDdR6EMdc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.202212300719": {
+      "wheels": {
+        "mtimageio-0.1.202212300719-py3-none-any.whl": [
+          "B3qi/XdWVL2lS/tzpMHQ0gudt8fQgD4Dzu139bR7jBo=",
           "py3"
         ]
       }
@@ -89418,6 +89512,16 @@
       "wheels": {
         "odoo_addon_mgmtsystem_nonconformity_type-16.0.1.0.0.3-py3-none-any.whl": [
           "qN3lFh+pVj9f/fh7oJDTimNs8K0mpUtxOBqB2YYsy58=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-mrp-bom-component-menu": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_mrp_bom_component_menu-15.0.1.0.0.2-py3-none-any.whl": [
+          "kjfZXH8vEMNi0KxNLoE+p8DKJF+CTUh9meh0tsrVwYw=",
           "py3"
         ]
       }
@@ -110628,6 +110732,18 @@
       "wheels": {
         "PySDM-2.14-py3-none-any.whl": [
           "K6n5LqGpubVKj5wQyOrPgTew60iQvYVAccot06n5q4w=",
+          "py3"
+        ]
+      }
+    },
+    "2.15": {
+      "sdist": [
+        "kwghDkKTKpUM0Yoqz+aFxCWCd6dMqMJnP8D0OhaISJA=",
+        "PySDM-2.15.tar.gz"
+      ],
+      "wheels": {
+        "PySDM-2.15-py3-none-any.whl": [
+          "CsCzgpmfyR5ZTIuYOq3LomS0XZljZIiikO3SNv+cy1o=",
           "py3"
         ]
       }

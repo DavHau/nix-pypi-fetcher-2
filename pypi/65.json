@@ -143721,6 +143721,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20221230": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20221230-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TeyhcBp9xqEWZvGTjsfYksoqFe4h4T5LgasBPPDcG3o=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221230-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bCviJAVtdXfBnEhY02XKxspfzEkDdd1IAcJ1Yods5u8=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20221230-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+5sfqBTS9E1c4kpDuKwhrvYZcOJWiS4hGJFWnK2Qq5E=",
+          "cp39"
+        ]
+      }
     }
   },
   "termcursor": {
@@ -147688,6 +147704,30 @@
       "wheels": {
         "uhslc_station_tools-0.0.10-py3-none-any.whl": [
           "au4T466hvI2uQUVF4bNPav70fzQ2oDH4f4u89eF2joU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "QL36IR5vrhqR456X7fztjydSnmUJDS9sTSFqeRi1rnU=",
+        "uhslc_station_tools-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "uhslc_station_tools-0.0.11-py3-none-any.whl": [
+          "Xe+gU+Zu5eK3QRFnT4ScxGl64cZTgeeVfsE6oOLgpps=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "vaVaKekickJubmU5/8fWQRSKvPt0psR7x9AHPQzEJt0=",
+        "uhslc_station_tools-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "uhslc_station_tools-0.0.12-py3-none-any.whl": [
+          "hZE1pYCSfky40j8xqbcjADmoqU9v6wxscNFjQ8kQPU0=",
           "py3"
         ]
       }

@@ -11940,6 +11940,18 @@
         ]
       }
     },
+    "2.58.1a0": {
+      "sdist": [
+        "lGMMElfqzckXf/qm7vWZoqGfR0enllqLOB/GaBAHLgA=",
+        "aws-cdk.aws-msk-alpha-2.58.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_msk_alpha-2.58.1a0-py3-none-any.whl": [
+          "HLJu8zCad5THKPsaaAzvUntidISuFxiECzUVPyJP27s=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "lClAmgThVbb03MOA78VVlMncPP3buZhG+T5epHusxKw=",
@@ -48370,6 +48382,54 @@
         "echosys-0.1.1.tar.gz"
       ]
     },
+    "0.1.10": {
+      "sdist": [
+        "pXYfHqQidDjZojqhPgRr+btzmff4C7bk8rCzpKepLyw=",
+        "echosys-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.10-py3-none-any.whl": [
+          "E1a0UdVK/a2BRPWfhMnN0QM4e2dJmRrFoBW6iAdpaWw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "c+4gI6qVw8iKelho3507o/M8jywHLkB7kG/1+5t8KP8=",
+        "echosys-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.11-py3-none-any.whl": [
+          "2qrGJBt95JGAtkfojjJViMxtYS4uhxGc6ccGJmzt+YE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "bO8x6E4trOh5bcso9XrymVX6gq3mLxE5rTGx4jOv1QE=",
+        "echosys-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.12-py3-none-any.whl": [
+          "u9bFl/jjJGm9ZAGL5OqSBnq0hW3CG7QNIRX20v1CCvc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.13": {
+      "sdist": [
+        "yo+EDu0OmSedwoRUF0ImNqL8X0BiIHL0Q+PiI4FVf8w=",
+        "echosys-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.13-py3-none-any.whl": [
+          "RPKQK3rQUpZrLtNXL2SujnDMpQQn2+YtNM8YCy6VFeI=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "M3s07xxAYqksatdLVy0aQqkQsvA1zRqVfZAcTyq1l/Q=",
@@ -48380,7 +48440,43 @@
       "sdist": [
         "D+B5zJbLYEbEDVQugYHJutocMKukQ0YI+D8ICYN4o7s=",
         "echosys-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.5-py3-none-any.whl": [
+          "/IgcifA9e6L1gmdTDFxw4QEbqYJ+wodW2drG2903iw8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "QtVuBPBxUws0somUPjdPv9tePcCrcFB2eQlqfCDa7RY=",
+        "echosys-0.1.6.tar.gz"
       ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "BFY/KRcOWCaI3mMsiBlZ7WXJ1eOZE8LAJLLrD0/ufqA=",
+        "echosys-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.7-py3-none-any.whl": [
+          "QOR40TuF5I55yaqod67v+rPwawaFMI7nhPmedCijlvI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "6byr4v+stEgMXAcYO3rCCt/mguPCNKAe9CiqE0csUqk=",
+        "echosys-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.9-py3-none-any.whl": [
+          "++rO3puasrzHhppun0BnS6z4L0xfiZmYbC6i6RGzPvs=",
+          "py3"
+        ]
+      }
     }
   },
   "ecl-data-io": {
@@ -78791,6 +78887,20 @@
       ]
     }
   },
+  "micropython-dfplayer": {
+    "1.0.0": {
+      "sdist": [
+        "pYP49uxukQOq95RDo7Wf5BxUpf7qYoltV2z6y4Yxtew=",
+        "micropython-dfplayer-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "micropython_dfplayer-1.0.0-py3-none-any.whl": [
+          "kf8qS4d+ii5fYA+mDNxX6nNJe3ehidg6iM3CUFDvcMo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "micropython-email.feedparser": {
     "0.5": {
       "sdist": [
@@ -95110,6 +95220,14 @@
       "wheels": {
         "odoo_addon_currency_rate_update-16.0.1.0.2-py3-none-any.whl": [
           "hiklbzVT7rv9yAsYnpnjy8bghOHkm2C36Xa115ZI66A=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.1.0": {
+      "wheels": {
+        "odoo_addon_currency_rate_update-16.0.1.1.0-py3-none-any.whl": [
+          "yn0sNDUBIyuIr75EoYzJuwNfURuoExBCUvxJYScp8Q4=",
           "py3"
         ]
       }
@@ -120304,6 +120422,18 @@
       "wheels": {
         "raspreboot-0.0.5-py3-none-any.whl": [
           "0saTJE3dbD2kZHAcVG65N7PqA5UpfNx3xWivCUQCUCA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "oDWZLpWoOlmXqxUk8WoaKWGixHBHfXevfu+wVW9mwco=",
+        "raspreboot-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "raspreboot-0.0.6-py3-none-any.whl": [
+          "xQI2ozrRD7PbdL+9D3jjGKmDmEbpAU724oEjbylsVNc=",
           "py3"
         ]
       }
@@ -160334,6 +160464,18 @@
       "wheels": {
         "XTestRunner-1.4.6-py3-none-any.whl": [
           "/bFqyBTDWM8rkPRUJly6ORWE/QZuNDehygvY9RB/EJU=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "NJAKFu/fYsjjd9O/7Gz22OtP+8zijh2ItbZM9l7i4Ew=",
+        "XTestRunner-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "XTestRunner-1.5.0-py3-none-any.whl": [
+          "9tUll4yBYfb8NenZZVPBTBBXBfcAPZ3dc1vAu4CVD+E=",
           "py3"
         ]
       }

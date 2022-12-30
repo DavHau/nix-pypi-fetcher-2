@@ -14283,6 +14283,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221230": {
+      "wheels": {
+        "bigdl-2.2.0b20221230-py3-none-macosx_10_11_x86_64.whl": [
+          "qKccZMFBskEm24501SUQe4CJsGBCAZeaQbZO+BnKa9k=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20221230-py3-none-manylinux1_x86_64.whl": [
+          "tq+C6l3p5nH3dEHzTLg/e8svqz2XktqIaDCfaWhYBh8=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -19508,6 +19520,10 @@
           "QSq8qMdESAD1n4B4lhdQRmTWMA3/vsKewCrd9D1xS78=",
           "cp310"
         ],
+        "cmeel_boost-1.80.0-0-cp310-cp310-manylinux_2_17_x86_64.whl": [
+          "hkqdaf24vrXclQmUTY6kr03WjzzJ69aDyAq7YiJYmvs=",
+          "cp310"
+        ],
         "cmeel_boost-1.80.0-0-cp310-cp310-manylinux_2_28_aarch64.whl": [
           "w+3Jgrx71sxUx92Oe756IZuLi0NTXPtLjr5XPfr8h1M=",
           "cp310"
@@ -19874,6 +19890,106 @@
         ],
         "cmeel_boost-1.80.0-2-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
           "X5YFTD3ElDNw5xBGHPg7MS21RGxY9iW0FOD9NLA7E+8=",
+          "pp39"
+        ],
+        "cmeel_boost-1.80.0-4-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "/83oqsWwvEpLzdJX/+0pusdTSW3xUqqxsKI0FK5ndc0=",
+          "cp310"
+        ],
+        "cmeel_boost-1.80.0-4-cp310-cp310-manylinux_2_28_aarch64.whl": [
+          "zPuXpGeoLRkBg4oNDiDpAkHHabWLe9ogSqCODzEHotQ=",
+          "cp310"
+        ],
+        "cmeel_boost-1.80.0-4-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "8IKG6uxSSiEp1EQTGkT+UBipmmo2bWnBjY0V1yl6LRk=",
+          "cp310"
+        ],
+        "cmeel_boost-1.80.0-4-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "OMfYCytXktYdvOomcG+4DkQlhPxYnPcy5w12OvDonPQ=",
+          "cp311"
+        ],
+        "cmeel_boost-1.80.0-4-cp311-cp311-manylinux_2_17_x86_64.whl": [
+          "5Pq63GXO/PY4pcV+LXU1z5YHRISMH3VTRjGMEL1gtic=",
+          "cp311"
+        ],
+        "cmeel_boost-1.80.0-4-cp311-cp311-manylinux_2_28_aarch64.whl": [
+          "5F6372BNoJMxpO+opkdOT6xrO16J4CCdKyiNrhU2z6c=",
+          "cp311"
+        ],
+        "cmeel_boost-1.80.0-4-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "v6eyL+hSwqmU6beuzJNcyJuZet4ez8EUmz4tNNmd4+4=",
+          "cp311"
+        ],
+        "cmeel_boost-1.80.0-4-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "YpQ8NKTZv2vSFFmBKwAEUBw/PcK3oW30fdaHlwsLZok=",
+          "cp37"
+        ],
+        "cmeel_boost-1.80.0-4-cp37-cp37m-manylinux_2_17_x86_64.whl": [
+          "RsvJLBqxGUlzsSw+w+C5ajjyJT/L/HbyiBEnF+grERU=",
+          "cp37"
+        ],
+        "cmeel_boost-1.80.0-4-cp37-cp37m-manylinux_2_28_aarch64.whl": [
+          "A6qKr0g3y079c6pXmVN2DvCK3goY1WSx0aLjKtvpYCI=",
+          "cp37"
+        ],
+        "cmeel_boost-1.80.0-4-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "zUlCf/0jUX8M97ckhq1Td64bK+wFo/jXOa5RyoD8Cso=",
+          "cp37"
+        ],
+        "cmeel_boost-1.80.0-4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "vmYDNVw1L6F+FfEjylSA54avimAJl7/L9URAIx4azoU=",
+          "cp38"
+        ],
+        "cmeel_boost-1.80.0-4-cp38-cp38-manylinux_2_17_x86_64.whl": [
+          "gzceVinZwnX9E5wNKCvynO5SKOqDV8epcSYp/zyoEQQ=",
+          "cp38"
+        ],
+        "cmeel_boost-1.80.0-4-cp38-cp38-manylinux_2_28_aarch64.whl": [
+          "NuySrAH1iWCMfELiPnE/zaxRS4xUPIT92sdDa/ZciLc=",
+          "cp38"
+        ],
+        "cmeel_boost-1.80.0-4-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "YrnoAgoKEVuZgp/8U2151xyEQ68evupZQ7jPd/N3BXY=",
+          "cp38"
+        ],
+        "cmeel_boost-1.80.0-4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Xgaxq3mUmaGD6taTO5pZiIrUCPhLhZffUlU4RGRpfXc=",
+          "cp39"
+        ],
+        "cmeel_boost-1.80.0-4-cp39-cp39-manylinux_2_17_x86_64.whl": [
+          "ji/jNilginiBoIX130OJfc/okN0Nv7wE8dIja1/Yvkk=",
+          "cp39"
+        ],
+        "cmeel_boost-1.80.0-4-cp39-cp39-manylinux_2_28_aarch64.whl": [
+          "y9TSndoBWv0DcaBTNSLY63DEsDL6a8+rRqS7dovbXOA=",
+          "cp39"
+        ],
+        "cmeel_boost-1.80.0-4-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "fSvgqX5xl/8h5OBH0SQRV8hLqmLDuUe+dOeyVDUhiz4=",
+          "cp39"
+        ],
+        "cmeel_boost-1.80.0-4-pp37-pypy37_pp73-macosx_12_0_x86_64.whl": [
+          "7rnwpriLyGsxNzPjx9v6yD2Mu3ABEzdFKnRPb3QsSkU=",
+          "pp37"
+        ],
+        "cmeel_boost-1.80.0-4-pp37-pypy37_pp73-manylinux_2_17_x86_64.whl": [
+          "aWwaceJLRLRawQilzf+mH+H79WYJZWyiRtP+m6IYxZg=",
+          "pp37"
+        ],
+        "cmeel_boost-1.80.0-4-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "OqNy3cagiRaS/fOFVqf2Dp1KOSJbATIQ/MnXynVB+0c=",
+          "pp38"
+        ],
+        "cmeel_boost-1.80.0-4-pp38-pypy38_pp73-manylinux_2_17_x86_64.whl": [
+          "ZI8z+mysf2mvL3+mASLDSwlL3ukxx7HaNPCW3XG3pkk=",
+          "pp38"
+        ],
+        "cmeel_boost-1.80.0-4-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "TDvhcX6s2Kpd4EKVuh2Y3MtOALWllMbQncNf6gJCX8k=",
+          "pp39"
+        ],
+        "cmeel_boost-1.80.0-4-pp39-pypy39_pp73-manylinux_2_17_x86_64.whl": [
+          "bGRocgBA7XWChO1XAIJuTOIOtlp/UW3WcAf2FQl/b34=",
           "pp39"
         ]
       }
@@ -69845,6 +69961,18 @@
         "ocScLHCWQ58qka2KtvM0488xv/0OQ2U5PYVyMQNuWlc=",
         "nonebot-plugin-sky-2.0.0.tar.gz"
       ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "c2uRbSof3BZKXVhIHNeXcm9O2oFGum1jzIrbgisW63g=",
+        "nonebot-plugin-sky-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "9jS9Tuz/0i6MmbbjQxlKGoLWIj9UwCnlOyyu1mI2CZg=",
+        "nonebot-plugin-sky-2.0.2.tar.gz"
+      ]
     }
   },
   "norerun": {
@@ -72739,6 +72867,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.20221229.0": {
+      "wheels": {
+        "odoo_addons_oca_l10n_portugal-16.0.20221229.0-py3-none-any.whl": [
+          "wYKQSLj3NunxTCaj7Zvozc4TXCH1JREeTXLFE2ZayNo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-invoice-import-factur-x": {
@@ -74846,6 +74982,14 @@
       "wheels": {
         "odoo14_addon_hotel_reservation-14.0.1.0.1.dev15-py3-none-any.whl": [
           "ijOExiXVtPb7LuyvaO9C804ll2kFsvEveK3afqMicKo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev16": {
+      "wheels": {
+        "odoo14_addon_hotel_reservation-14.0.1.0.1.dev16-py3-none-any.whl": [
+          "o5U2czLWOH5VP2wGA04hKC7BVtCi8cWwSvgaWiaF8hA=",
           "py3"
         ]
       }
