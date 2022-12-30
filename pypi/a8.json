@@ -18938,6 +18938,18 @@
         ]
       }
     },
+    "1.26.40": {
+      "sdist": [
+        "989Gzkj3ISt3nQ85v5xM1OhTtiV/WNYtKVfPxsDL57A=",
+        "boto3-1.26.40.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.40-py3-none-any.whl": [
+          "ljWuEVRcYkOXu2z+WQc6vd/lsjO+Dg7tmcRMwVwrT2Q=",
+          "py3"
+        ]
+      }
+    },
     "1.26.5": {
       "sdist": [
         "y07KNLbhPk6tRqaPZnWf6q5r9elzYrLJebe58dIDcV4=",
@@ -98014,6 +98026,14 @@
         ]
       }
     },
+    "10.0.1.0.0.99.dev14": {
+      "wheels": {
+        "odoo10_addon_hr_employee_social_media-10.0.1.0.0.99.dev14-py2-none-any.whl": [
+          "fvHZzXk3XiAN2/b4okZda/2JSqa88N6sZ30Jes6A4Yg=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo10_addon_hr_employee_social_media-10.0.1.0.0.99.dev2-py2-none-any.whl": [
@@ -106173,6 +106193,32 @@
       }
     }
   },
+  "poetry-brew": {
+    "1.0.0": {
+      "sdist": [
+        "l5vcLuup+z79KhtDw2EgRJTwD5JDswBDzQAyNQ3ZK04=",
+        "poetry_brew-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "poetry_brew-1.0.0-py3-none-any.whl": [
+          "aSVbR9sSTj2cevt8KHmaRomDH6YhJALajixP/zpz79o=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "3RkkLi0+lh6VccwVahLsvmvnYjzwsds/hm7J+FdBRo8=",
+        "poetry_brew-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "poetry_brew-1.0.1-py3-none-any.whl": [
+          "bNxsD7lTHJPtBC4+1Wb8H5YqhNAOFNaoiYlNGRlSlAU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pogodata": {
     "0.0.1": {
       "sdist": [
@@ -111484,6 +111530,18 @@
       "wheels": {
         "pydantic_redis-0.4.2-py3-none-any.whl": [
           "utaJWsVC3a7AQ5EKen9/ZeZy6GmDIAHUpf1syMuDt6s=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "81NK+gULmd3OT1AVDBcgU4t5XQKgmmfE0gJl9Xiy+3Y=",
+        "pydantic-redis-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "pydantic_redis-0.4.3-py3-none-any.whl": [
+          "DSafOY1IdzxIjamLtsq6TnRvKHd2/1j7WtC9RnbLY8Y=",
           "py3"
         ]
       }
@@ -157754,6 +157812,20 @@
       "wheels": {
         "XMLWirelessWindows-0.1.3.4-py3-none-any.whl": [
           "6FjhaSO1zMmasb+kRoCKzEzcVqAh54feLq8KkBtoY0Y=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "xmq": {
+    "0.0.2": {
+      "sdist": [
+        "qnfZT4W0Xj1y7QbKaQgUXkqOB0AsswKxDh9YuAdQFD8=",
+        "xmq-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "xmq-0.0.2-py3-none-any.whl": [
+          "NzXgHVsdTvp3FRdGdvjRbp/UpLIM144caYRuS9V6m8A=",
           "py3"
         ]
       }

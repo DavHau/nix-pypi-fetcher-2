@@ -10086,6 +10086,18 @@
         ]
       }
     },
+    "2.0.73": {
+      "sdist": [
+        "rTyZNT8kkY1tUTknMEDUzymfX3oh1134B9eOsO0hwBQ=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.73.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.73-py3-none-any.whl": [
+          "7mvYQkGBz080JZIbPq4mgiqe8tICezxZsnr5b732/pw=",
+          "py3"
+        ]
+      }
+    },
     "2.0.8": {
       "sdist": [
         "GdboVpw7dvGw6khN2NFqyCXDmo6tcTpZH2Y5q7/aBmw=",
@@ -98942,6 +98954,30 @@
         ]
       }
     },
+    "0.0.43": {
+      "sdist": [
+        "CDpNbTlatXUap6Wn/wVf/kTy0kv75onBx6/d6uWdW/s=",
+        "PaLM-rlhf-pytorch-0.0.43.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.43-py3-none-any.whl": [
+          "H3EhTmuvnag/YmnLhAzgmDYVDh5LzpK70ove49EU9Wc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.44": {
+      "sdist": [
+        "73kxeXVbCDvEKjPnUA2WIUW7oztNqnlSMSMMGgtCqE8=",
+        "PaLM-rlhf-pytorch-0.0.44.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.44-py3-none-any.whl": [
+          "c2c4VKxQG5FjjHz0J0XVLYJXPlAWPXca5trwjvAmDLY=",
+          "py3"
+        ]
+      }
+    },
     "0.0.5": {
       "sdist": [
         "yrsDpvzQdK9cLawNs9BGBxT77slFpHWTUVQR+qtk4Os=",
@@ -120491,6 +120527,44 @@
       ]
     }
   },
+  "riweather": {
+    "0.1.0": {
+      "sdist": [
+        "5kgWC18+/SCD2u+YNHACDB4pRB+M7QuSmvwqLI1IFc4=",
+        "riweather-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "riweather-0.1.0-py3-none-any.whl": [
+          "xQfynchdzN/iZI27TDpny8QabI44kNPhYXBzvZKqyLc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "aKsRQ5CF3Okc1Jn61rChYXfOQqL1d7U4Kso2LeK8kTg=",
+        "riweather-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "riweather-0.3.0-py3-none-any.whl": [
+          "bJOwhtMQfDaTEAZZUWJ8ilWRsxMSHv2ZB4J3Wwgtzuo=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "AkSPu2VrhyUqviY/Sq3fzOcI5e6f48MDQoLSkcZSHAg=",
+        "riweather-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "riweather-0.4.0-py3-none-any.whl": [
+          "XN+BSAGoEQ8g0t+9Tt8fmwqoDC5H7xgMvi5SXq26INg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "riyu-mti-202203-202206": {
     "2022.11.1.0": {
       "sdist": [
@@ -139613,6 +139687,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.805": {
+      "sdist": [
+        "yqi6P9iHd4vaORMfpr5O34lwWg/0iI7ceTr42HZaqPk=",
+        "tencentcloud-sdk-python-advisor-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.805-py2.py3-none-any.whl": [
+          "ZoWRcgZ7bVpjR9YQIvC6+lA2EbjO7Zsm+wXELmFsTkc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -141244,6 +141330,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.804-py2.py3-none-any.whl": [
           "fw58a40MHrGhG1mKBYhU/VJ35W82bJCh5uwiSBLqrYY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.805": {
+      "sdist": [
+        "YCW47t/pTJfVjWjcqjBmlI1MQBp3aWzgjBZHRYxIkSk=",
+        "tencentcloud-sdk-python-mmps-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.805-py2.py3-none-any.whl": [
+          "qvkYAn3xunkb887piRabZpurmApy5fYGywk5O/t6Wlo=",
           "py2.py3"
         ]
       }

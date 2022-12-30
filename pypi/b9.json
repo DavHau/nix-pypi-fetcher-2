@@ -727,6 +727,12 @@
         "+Q4LriVv8iuzNrwvkVcX/stqDyW7WERHNdJyRzQ6LPI=",
         "aim-ui-custom-3.15.2.post4.tar.gz"
       ]
+    },
+    "3.15.2.post5": {
+      "sdist": [
+        "gMJ2G6Z6OvzwupXfEVCr8PcW5HWbq1HyHwsP5pKp57w=",
+        "aim-ui-custom-3.15.2.post5.tar.gz"
+      ]
     }
   },
   "aiodine": {
@@ -23811,6 +23817,18 @@
         "PiYKHDkaNCQbFuZytPl/2DgQKNRGUUMcQsloGPLndZI=",
         "curses_menu-0.6.1.tar.gz"
       ]
+    },
+    "0.6.10": {
+      "sdist": [
+        "3kUHm+Myk9n/a2WG+uojs/HFO+RKvoaYNfN5MIyxGp8=",
+        "curses_menu-0.6.10.tar.gz"
+      ],
+      "wheels": {
+        "curses_menu-0.6.10-py3-none-any.whl": [
+          "l0XMxxzN7Z4zWFyh2xVv+c9njQJXC1W9HbcfcktteKY=",
+          "py3"
+        ]
+      }
     },
     "0.6.2": {
       "sdist": [
@@ -48598,6 +48616,18 @@
         ]
       }
     },
+    "0.0.3.dev20221230": {
+      "sdist": [
+        "Leg9sieqF9EAT65+cOREdQliLodlMH4SdX+2TGSweuM=",
+        "jaxkern-nightly-0.0.3.dev20221230.tar.gz"
+      ],
+      "wheels": {
+        "jaxkern_nightly-0.0.3.dev20221230-py3-none-any.whl": [
+          "amOMUAH3iJCWHgOk1NOvsxWFLsqe+dwRFeia01XnTj0=",
+          "py3"
+        ]
+      }
+    },
     "0.dev20221220": {
       "sdist": [
         "iGcLDdI/13VJ/j6XbLhDxKyyRErwsqFn45KCYEbw7Fw=",
@@ -69808,6 +69838,12 @@
       "sdist": [
         "HH0gB/v4SXYJSiDUOo6vHuM2P+mVHAEWCJe3I/MTjcM=",
         "nonebot-plugin-sky-1.2.9.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "ocScLHCWQ58qka2KtvM0488xv/0OQ2U5PYVyMQNuWlc=",
+        "nonebot-plugin-sky-2.0.0.tar.gz"
       ]
     }
   },
@@ -91668,6 +91704,30 @@
       "wheels": {
         "pybravia-0.2.3-py3-none-any.whl": [
           "Y67TOaOOKtROWSfEu09VCP/5H05x1FEqQiPrKU66mX8=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "Sghi2oHw0H3E59tTYFfs1Psw0+aQlWo0Y2nhwA6Xt5c=",
+        "pybravia-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pybravia-0.2.4-py3-none-any.whl": [
+          "sDrFPhq3wSwU49noSh8qNFkeagEPoRGu0ZzKHW5BIpI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "ZoqBOLHATxKdPaIKml+dReo3Eozv/j2chyIi5BkWJcw=",
+        "pybravia-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "pybravia-0.2.5-py3-none-any.whl": [
+          "5JTaT/jgnlwIdyFismKbmjpbcsH0m3jHEUpdYiAsJG4=",
           "py3"
         ]
       }
@@ -133791,6 +133851,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.805": {
+      "sdist": [
+        "cdOTbBPBG78RS73qhtMzeXpr+I39XfjZ1eswQVQgOYg=",
+        "tencentcloud-sdk-python-aai-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_aai-3.0.805-py2.py3-none-any.whl": [
+          "HjgnuJ1/REGnS5Zz01lXiMsrpv1T4+ydq0k17XEqe9U=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-cloudstudio": {
@@ -134558,6 +134630,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cloudstudio-3.0.804-py2.py3-none-any.whl": [
           "z4F2O7DqIeUZKAXDSeG8O9AufzD+YfWEXSUwpLsVqo0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.805": {
+      "sdist": [
+        "nd1HYe3nJk81ZCrmKmowxJlp4crvIQHqIvusCtbz7r4=",
+        "tencentcloud-sdk-python-cloudstudio-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cloudstudio-3.0.805-py2.py3-none-any.whl": [
+          "YgR+r2fLP8PScVQ4ndLHBb9YZ+Wqm0wTHnqvb9HVAvY=",
           "py2.py3"
         ]
       }
@@ -140932,6 +141016,18 @@
       "wheels": {
         "tencentcloud_sdk_python_nlp-3.0.804-py2.py3-none-any.whl": [
           "i7qUlAll/VW6ORym9vExJXMImj/VXtRFFEnjcAZsr80=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.805": {
+      "sdist": [
+        "41o+XJ5k/GbAWL5D+cYD5LySC+BeoQehYvtXENDELL8=",
+        "tencentcloud-sdk-python-nlp-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_nlp-3.0.805-py2.py3-none-any.whl": [
+          "1xWQ8pz0nS5KXXk60U89yrUVaE8d3SzjBGZYlniMo0M=",
           "py2.py3"
         ]
       }

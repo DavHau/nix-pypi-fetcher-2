@@ -1436,10 +1436,10 @@
     }
   },
   "aidoc.genmfa": {
-    "3.0.2": {
+    "3.0.3": {
       "sdist": [
-        "G383PW5Ht7+MUaWyHtEzg6yTk5CyK0baSKhWieZNRS8=",
-        "aidoc.genmfa-3.0.2.tar.gz"
+        "zJjfDNmWSwkJ9WO1sIIgJcSovYPO77IojlDhX1/fcIU=",
+        "aidoc.genmfa-3.0.3.tar.gz"
       ]
     }
   },
@@ -27235,6 +27235,20 @@
       }
     }
   },
+  "cv2pencil": {
+    "0.10": {
+      "sdist": [
+        "fp/9Nq7Xln/lcaVhjuSDmVr7W0CGqmRvJ4BrSnw+DpA=",
+        "cv2pencil-0.10.tar.gz"
+      ],
+      "wheels": {
+        "cv2pencil-0.10-py3-none-any.whl": [
+          "vDQ3i2jaKXiOchEof1yOqMFv5kvl7vBzr8qUIJYOIoE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cvi": {
     "0.1.0": {
       "sdist": [
@@ -45212,6 +45226,12 @@
         "evshell-0.0.11.tar.gz"
       ]
     },
+    "0.0.13": {
+      "sdist": [
+        "7pTgEjyQ6qI5s6+RtHmcrpQPxQ0sUvbShjLbnwEkh+4=",
+        "evshell-0.0.13.tar.gz"
+      ]
+    },
     "0.0.6": {
       "sdist": [
         "xXAeUcYJfOEUPUmKnolNwbpNjJkiRPuNge8q8klwYHI=",
@@ -45368,6 +45388,44 @@
       "wheels": {
         "ezkord-1.0-py3-none-any.whl": [
           "E2H7Svfm0RQcJwQwerHxndwKW9ZyRWNopYZyqhvbcHM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ezpk-ezez": {
+    "0.0.1": {
+      "sdist": [
+        "HbEwjPp0Wc7TA6W8dE5fQDCW/eNiFEFr0+yWMeJduMQ=",
+        "ezpk_ezez-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ezpk_ezez-0.0.1-py3-none-any.whl": [
+          "70KpCUVY6XDM84ayH2M2uEz2FwmeOtixXwcjXYJFMts=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "nFL60wPNxKpSAm70HtiQ+dlhXmEsPKBkqzciJFpQOLo=",
+        "ezpk_ezez-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ezpk_ezez-0.0.2-py3-none-any.whl": [
+          "0cOYOS0G+S9PkJwf923XebQS/C5JFm32j4VWSWJdkuo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "cJRQC+ZGR5qi6rCIYvcQF/5iDlrXQxnvnGY8426C7So=",
+        "ezpk_ezez-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "ezpk_ezez-0.0.3-py3-none-any.whl": [
+          "L0L3lQq7MtLD6KqHle5DK5tWVPXKhCF9Acgu2MHRT2A=",
           "py3"
         ]
       }
@@ -120720,6 +120778,18 @@
         ]
       }
     },
+    "1.1.30": {
+      "sdist": [
+        "GHo3e6GIsF1GqF37EBxrt5rL8zIlKCUlAMJsGCbBbUA=",
+        "SysArg-1.1.30.tar.gz"
+      ],
+      "wheels": {
+        "SysArg-1.1.30-py3-none-any.whl": [
+          "mZ4vBKS+fHIohdN+IkKtvhRtHn79lHGqqk5UG0Hc7SY=",
+          "py3"
+        ]
+      }
+    },
     "1.1.4": {
       "sdist": [
         "kk0KvLouaB6zMwXbfb7C5SnRw1ztsoE1GwvgFXnyskE=",
@@ -127632,6 +127702,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.804-py2.py3-none-any.whl": [
           "p2A6dU2QSoNr3Q+28pwml7y5NYhpXe4YFt8ER+e6RWo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.805": {
+      "sdist": [
+        "5THj6nGUXF0Rh77ITxHqW3+D3z6SEuchgkMXtvLYEYc=",
+        "tencentcloud-sdk-python-cynosdb-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.805-py2.py3-none-any.whl": [
+          "rEzpcjoFsOtzHohd62RFSxQ54lPBy5w9sdp9HoRmNGA=",
           "py2.py3"
         ]
       }

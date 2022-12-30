@@ -84910,6 +84910,14 @@
         ]
       }
     },
+    "10.0.1.1.0.99.dev12": {
+      "wheels": {
+        "odoo10_addon_customer_activity_statement-10.0.1.1.0.99.dev12-py2-none-any.whl": [
+          "0mnab0wZvLhwEi0zmzgi/pjP3W/ankPbuKTqJ2igFRs=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.1.0.99.dev2": {
       "wheels": {
         "odoo10_addon_customer_activity_statement-10.0.1.1.0.99.dev2-py2-none-any.whl": [
@@ -106759,6 +106767,26 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "pyochre": {
+    "0.0.1": {
+      "sdist": [
+        "93DF10uEoResTxKCBlvxe7UBUsQ0wisFWY/y4hwT+yU=",
+        "pyochre-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "S7LlM9BAMQU3MrFF/oVki/6iNsgokfY428PsnPx6fHc=",
+        "pyochre-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "QC8Kbptvxs3qSlguZpRwRpL9WYKCESuNKdajjflIn1E=",
+        "pyochre-0.0.3.tar.gz"
+      ]
     }
   },
   "pyofficeppt": {
@@ -133368,6 +133396,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.804-py2.py3-none-any.whl": [
           "lYEk/RSOCehNS3/vPz6c4W1DhkjDxaDEJH59z/m5bys=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.805": {
+      "sdist": [
+        "VGX/f348VZo7528qUXrVCB1cTvg1hmXzGbVmMsJ9+oU=",
+        "tencentcloud-sdk-python-mna-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.805-py2.py3-none-any.whl": [
+          "IC1Hbu3tapza5bkIXnhUShFyol9Ro4IxPXdoPSKINLc=",
           "py2.py3"
         ]
       }

@@ -14275,6 +14275,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0b4": {
+      "sdist": [
+        "aB16xyrhNYHJeitvdCeV+kik21B2LC+5/OSDQIGwTpI=",
+        "azure-mgmt-policyinsights-1.1.0b4.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_policyinsights-1.1.0b4-py3-none-any.whl": [
+          "Wn9sL27r5s1pTcuJw5arnD+d1qGS/klrLtKpZkCNvKg=",
+          "py3"
+        ]
+      }
     }
   },
   "azuremgmt-scheduler": {
@@ -92851,6 +92863,14 @@
           "py2"
         ]
       }
+    },
+    "10.0.3.1.3.99.dev2": {
+      "wheels": {
+        "odoo10_addon_account_financial_report_qweb-10.0.3.1.3.99.dev2-py2-none-any.whl": [
+          "Og/JmpwHU0XeJ5vt9lPcts5EQjc0fBeKocV8Vx0D1VU=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo10-addon-base-delivery-carrier-label": {
@@ -112994,6 +113014,18 @@
       "wheels": {
         "pyisy-3.0.1-py3-none-any.whl": [
           "vAg/MCWD6wHXhtOPOLStcKdFAaiekM15xpq4B5ZVW0o=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.10": {
+      "sdist": [
+        "vQCH2HUN5SwhwRbx4u+FXCCt17u51iQGURNox8EXSqc=",
+        "pyisy-3.0.10.tar.gz"
+      ],
+      "wheels": {
+        "pyisy-3.0.10-py3-none-any.whl": [
+          "UTwxBb2RfaoBk7bvDu/b5RHV7sJAe+I3cas0TjFz9mQ=",
           "py3"
         ]
       }
@@ -137243,6 +137275,30 @@
         "LuZleF4ZwY4mBuA01JXidTiAoJGREz8r/CktSGGcmTE=",
         "swick-0.23.tar.gz"
       ]
+    },
+    "0.24": {
+      "sdist": [
+        "lfMXD6rbaFvcQIEW2djEQ7bqMzoJ2VWd/92n4qVKZ+Y=",
+        "swick-0.24.tar.gz"
+      ]
+    },
+    "0.25": {
+      "sdist": [
+        "ZfEybRdC6dd6faTZez5rL3CWImQMKX3+4AXjBzTQagQ=",
+        "swick-0.25.tar.gz"
+      ]
+    },
+    "0.26": {
+      "sdist": [
+        "qW1stPhROJKM+Xs9b156b+ja49UZC9pNaTLNdq6ygbk=",
+        "swick-0.26.tar.gz"
+      ]
+    },
+    "0.27": {
+      "sdist": [
+        "AMwnOk9XnDbS6oQyWjRGuba3wSAboweDn09vRkZg5X0=",
+        "swick-0.27.tar.gz"
+      ]
     }
   },
   "sync-my-tasks": {
@@ -152479,6 +152535,10 @@
         "xdyn-6.2.2-cp310-cp310-manylinux_2_31_x86_64.whl": [
           "zg7IeM13tSk5UY6k0wmbGHx1A4TP2lIenIrMG8wx2rU=",
           "cp310"
+        ],
+        "xdyn-6.2.2-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "4dQ+UWV2cmmDrxK660iM9+J/zVpL2fvLXOPzB2m6EXU=",
+          "cp39"
         ]
       }
     }

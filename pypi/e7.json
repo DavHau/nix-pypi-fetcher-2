@@ -2081,6 +2081,12 @@
         "P3UsV0t6jUrDYLpuLKzkdjgxV9RoXzQXltBIbRqNceI=",
         "aeppl-nightly-0.0.50.dev20221229.tar.gz"
       ]
+    },
+    "0.0.50.dev20221230": {
+      "sdist": [
+        "gkVdOtfr5GP6uFLvc1pc0liC9GPWh+XOz/9IHqE9CrA=",
+        "aeppl-nightly-0.0.50.dev20221230.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -62855,6 +62861,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.4": {
+      "sdist": [
+        "6gVKlcGQzQbZUbnGPnFB4ZWtArwqluLWbiO5UEGQzOc=",
+        "luckywood-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "luckywood-0.5.4-py3-none-any.whl": [
+          "vaz+3mz5CjAqeRTn+jWWI9jlJ1R57BfRIPtu5MTYVo4=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "8yYwNdFzfNGPvKn9oCfTtrFTxqSU979nDsZF1IEJGWg=",
+        "luckywood-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "luckywood-0.6.0-py3-none-any.whl": [
+          "5i6BYZoLK3GPZmKQhkVyUGOnixMD6ZJ3KSuznNJuqUI=",
+          "py3"
+        ]
+      }
     }
   },
   "lucupy": {
@@ -90350,6 +90380,14 @@
       "wheels": {
         "odoo14_addon_currency_rate_update-14.0.1.2.3-py3-none-any.whl": [
           "81ECTfE5/X31DM4NYHLoSHh4KQx+DjAtB21QuaQzY/g=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.2.4.dev1": {
+      "wheels": {
+        "odoo14_addon_currency_rate_update-14.0.1.2.4.dev1-py3-none-any.whl": [
+          "/dM8ay3DBqlabGp+rXCDoRVabxD+hzNCBBgrU9RYJXA=",
           "py3"
         ]
       }
@@ -120287,6 +120325,12 @@
         "8+2b5arN2I+6a0T0Jui7lsBwGHzxExFsSPLuo81cgCo=",
         "ReverseBox-0.3.2.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "Pn6toOtUsblmuqdfHAyN3XlWrbhHhTmbKgyxauwNpGk=",
+        "ReverseBox-0.4.0.tar.gz"
+      ]
     }
   },
   "review-service-client": {
@@ -139394,6 +139438,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ses-3.0.804-py2.py3-none-any.whl": [
           "FuhLIADAHg7DsFf5AkmImM8eYCx7Fy3AX6Q4AHvdrcg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.805": {
+      "sdist": [
+        "WaQsIoIGpRYJPaR3t33U+NuDfhBAJGgruPRC1gmNUY4=",
+        "tencentcloud-sdk-python-ses-3.0.805.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ses-3.0.805-py2.py3-none-any.whl": [
+          "1P7Yja6bneP/j0gn4fENvATX9F6PndHcmu/r+Dckmtc=",
           "py2.py3"
         ]
       }

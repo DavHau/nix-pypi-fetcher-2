@@ -12411,6 +12411,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0b3": {
+      "sdist": [
+        "10lVWXLsRXHtDJdhOKM4xz9cAzdvir+pcU+JtnYv9tU=",
+        "azure-mgmt-dataprotection-1.0.0b3.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_dataprotection-1.0.0b3-py3-none-any.whl": [
+          "X/nifwK99T6nd6pUz+4aBC51wrc0gTHsVb43qR2W3LY=",
+          "py3"
+        ]
+      }
     }
   },
   "azure-mgmt-serial": {
@@ -19658,6 +19670,246 @@
         ],
         "cfractions-2.1.0-cp39-cp39-win_amd64.whl": [
           "oEo/TzkLzTIB4nG0M0KUkh3Pww8ogrupRybtWLwssU4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "V8xEB22DzyKyhruAVr3L5SydfxVnIJaXC07/MzXVB7s=",
+        "cfractions-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "cfractions-2.2.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "VyFGAIwQMvcXgCux1skc0XAGdH3oomvPRTJdA66/CNg=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "DUOjxb/DLlfhbLc+HZEo3TjzF+gtP9HrpgTynYzHbNc=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "BQJtRIa7/QFWVe2LUdzZXoS7yEs2UVVPl8GGEDosRYQ=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "QEKAdNW3kvlwX9yET29d9j7Oa0+JqkYx1JsKr/zppEY=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "h11qXz4H2tGPxU4aO96Ok7yNLKivrKHNThKCz/fWMow=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "/QYBntXM8jET4y7X38HLGHjWy3Bs96h1qvAkejd150I=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "gdykvzQHctXx3gdnepGsPq/RWWe+3n0vdwc6dACgN6M=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0oKofTm7KsFOy5ESlWvuG5sKxWxd1FcQjZaFFx0mqJA=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "l+jTM6BLjyzFO9vBprL+94aWFJ8/IMQWwCXSTmj9J/c=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "r3RsR1de75+xz44Gr2Jc70UldInEgh/QnjxdAjmr94Q=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-win32.whl": [
+          "bLJdz/ZyZ2ggFx1erudqieRArJ6vPdbf4GJzZYmiYlE=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp310-cp310-win_amd64.whl": [
+          "LG2pprsd5EPPIQ5CCdKosb8UX+Etl3rbJ07zuvXxzlM=",
+          "cp310"
+        ],
+        "cfractions-2.2.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "n4pNQ+B/1OnR9mVIUfSkiM4cKpyV/DpssegIasf7arM=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "vU5apwUeuYrjptJR1emUGp0ArM2+w+VTqNksuNtoirg=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "uvNVQGIwUvK4Njg9B0Be5qh8VRGkv7DBuvfF4C7Fm5U=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "kTSilsvmJYUA+ZxOOKUAZJ6GPlzsZiQBkAF1UhXoEq0=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "Orh4X89inByHXRb4ecPEzS63/N69x9ebd7nm8IscEzY=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "QorJqfr6Fdk9BZBr2GIRwfLqqnemzGaintkpkTqgjV4=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "p26GM4by5uqhtLU1jzDdP1cMBPtlLGsJ9xrhf1N2pbY=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "J7oFWUFphUT83Vr2o6NSBTyrQSLCS9aCiVYXjhdkz7w=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "LXh0PMBhEk/NhfVbxG67IpTOYLVU/HQRUW2i2aPzXyU=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "170dubuXRPZKFKD6T5qvezn/qJX7c4Zmlol1gl08X5g=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-win32.whl": [
+          "btcyWmd6V01wuy/zpGcBaXjhkqPAuSCAJg5qvps9WW8=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp311-cp311-win_amd64.whl": [
+          "E4X6zHXZYe9liOizm+WCevn0jhuZ8QH13UjUCWWumw8=",
+          "cp311"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Jst5LZbNAHvlMn/x0qyRe00NctsAJxwD9yHG1IWOza0=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "KhhYycXbNgaeJf0crN1YaZEjU9u8e1gzprfhb6R0Y/I=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "/pY3jrkJG4RwIN3aFXmY0l7OhcnnTtPPrGGZyoLbmeg=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "s7ylDpahTkiTTVqXZ765F06/ygxRka3z+t2xXQQQYho=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "gflyLltjwqgcz76F1HO700o+vr5BxnCmhHuBmfi1S6E=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GhbWZcVwQ9N2CGqYhFIB5ybdvU1RkcCojntaDQe2NdI=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "Kt7uh2zDV1iPxU1/MaH5Ow3rr30RVxaUNXHbPQUOWOI=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "88tF301ynLdMIjnGbHjvCmYWpk2NdNV8MKP+I8fgC2Q=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-win32.whl": [
+          "ijf+cYmDGstq0FQkJASIRqWPj7B2EnFfdhVsEeV7K50=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp37-cp37m-win_amd64.whl": [
+          "3N0JxUhOdD2OfmqtE9ioVU65PkP+zM/YTTiYZX1SWvI=",
+          "cp37"
+        ],
+        "cfractions-2.2.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "1MOMgQKpnhjbY9gh87LI42o6JYp46S+BI/R8MHIPqZg=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "F+vu0ohJocfIf8jB/d2Itfsjoq+08UPWHJif2ct/3kw=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "FzEmwUTkv2wecPmCNP+ApsMZ6AgoLuC7f1BPGY+nCSE=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "SOoBlPe79fpFjmHlgqxz7NgAKxv7XiccPS5N0hOKZkE=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "B6Ze0z7MbF9L0MlBlfOFDN9D45XjlEFz+FLjJtjcYhg=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "eYIjcAFl01s01tYYm2ZXIbkvKiB2wCESec9Vq3SvS8w=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2hgzvaNESWz9DFB09LJbnLsWEYl+8KMwlfp2lpUK3IA=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u/ctwWxxOD1glBBlmmXsKqTQ1dJrfsVPkPkVd7m2oHE=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "4LX6ATkr73gW3U3Zz1sKdfxcDOHjDXbOa5Zdx3PTbUE=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "V7yWkJsCZVN91mLrGMev+wCSaPmY9bxurucE+jZ58Uw=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-win32.whl": [
+          "LanjfuKsIuuN94gLmh+w0A1HBqDtfFAFWYFtiOBrnas=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp38-cp38-win_amd64.whl": [
+          "Z8WMXCYosGAI3DndnwrzOCQw7BoY0KyVDgFgzGaMZpI=",
+          "cp38"
+        ],
+        "cfractions-2.2.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "Vi5Lv/inpFgNqekJ1jgtccy4wp0UxgtuLGtaf6hIsSw=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Yc4Ie3MAe2UD7nhZP4f9J5UiD3gMpT0fgVt5UVi5/Bk=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "DRRZ4pN7jEtjtH7MzBYEtbfu4ASp+6TTFBpB5lptLdM=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "mYsujAOk6SUPtoqDdaCjemq4Jco7K2fveVG6TP4VKDE=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "B+IvOB7BEkVNX8dDCIMrikaadQDeV2J6+wutVYU1w68=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "1Ld8mcdny3E1oRzZMaWZlLtmfnupDPaHe8AVsOuKlao=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "QItS5houfAmjVVsHp9PMU03EZJy5wrX/ovkaXS5EdpE=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wSf5pkjQvSMrWo9VVtYMSiLj/Z0RQC1/Ta5xK4zb9v8=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "wOU06Ec3zKjHVaMTUIcB3peI3JO2A28W1V6dg9Djaj8=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "AvtCpi6sw3HjNFB5gOCCjC6D+zABV6VY14M4caKzP4M=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-win32.whl": [
+          "e81soD82gAbI8n201a3rauoz5zOb2wk0xOyWDyjotHA=",
+          "cp39"
+        ],
+        "cfractions-2.2.0-cp39-cp39-win_amd64.whl": [
+          "lppRnpEi+9UI7n2H/GmqnZ23TxyJTIb/oslKYu/Wrgk=",
           "cp39"
         ]
       }
