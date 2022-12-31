@@ -93421,6 +93421,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_sale_automatic_workflow_payment_mode-15.0.1.0.0.3-py3-none-any.whl": [
+          "oGmSw8DH0gnP7XJ77TVLe5E3iXtrUIo7PunnaA98Km0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-stock-picking-report-undelivered-product": {
@@ -94712,6 +94720,14 @@
       "wheels": {
         "odoo14_addon_fetchmail_notify_error_to_sender-14.0.1.0.1.dev108-py3-none-any.whl": [
           "E3iMzonZ/0tK35eBI1NHaTqzXf7WIoCz3+UBW1678Ik=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev109": {
+      "wheels": {
+        "odoo14_addon_fetchmail_notify_error_to_sender-14.0.1.0.1.dev109-py3-none-any.whl": [
+          "zIdzrMt7x30KPTgVVIIiK3V8LbU8/HSck35BYRmKXb8=",
           "py3"
         ]
       }
@@ -106594,6 +106610,114 @@
       "wheels": {
         "plugp100-2.1.9-py3-none-any.whl": [
           "ELh5/xNxTQDWcIJhkc8byRNOzYArk7gZNsW1VE84bUg=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "W8Mob9+An00v9iCHLAxzrSjmqHZLyrAHbgizqf5M/tg=",
+        "plugp100-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "plugp100-2.2.0-cp310-cp310-manylinux2014_aarch64.whl": [
+          "UzmovtdcCx1FjjKmq0ilP0VzsT0d+wYrlaOOuqf2fyU=",
+          "cp310"
+        ],
+        "plugp100-2.2.0-cp310-cp310-manylinux2014_armv7l.whl": [
+          "ImttHfGxW42DSgfrv2IF7SPHojvcBNwr1DjXbQgYT40=",
+          "cp310"
+        ],
+        "plugp100-2.2.0-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "t88M41iomnJxlXgoqxBced4b900CfjYKeZ9kGUlpd8s=",
+          "cp310"
+        ],
+        "plugp100-2.2.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "bsho9D/Uldi1ANfmLGrlDCOd07lLizx4ZsoRYW5o1BE=",
+          "cp39"
+        ],
+        "plugp100-2.2.0-cp39-cp39-manylinux2014_armv7l.whl": [
+          "eylgzX8TAvGjq3VW87pQ5q+aMzMrXrmlnJrDmxCuJm4=",
+          "cp39"
+        ],
+        "plugp100-2.2.0-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "pZvDsQ7KmXdgmvSSrp3IF7CryA4okjPYS4PCmB1ci+g=",
+          "cp39"
+        ],
+        "plugp100-2.2.0-py3-none-any.whl": [
+          "Jq5PKFZoNPnl/0YRdI4H62E4OqF6bjLwPeq/Sn7tRcw=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "aGwa1W5a2mPF5vxLi0lam1arf5mFyXEqK1ul+ywEAEA=",
+        "plugp100-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "plugp100-2.2.1-cp310-cp310-manylinux2014_aarch64.whl": [
+          "QtYZlstDIvqKFHRUFHkSAijk0J7IYZfY1zwzxkyM4BI=",
+          "cp310"
+        ],
+        "plugp100-2.2.1-cp310-cp310-manylinux2014_armv7l.whl": [
+          "okLFqq5aqmdyQWa3yIc+6T4ngQS0XziizbDZ5J2qFAI=",
+          "cp310"
+        ],
+        "plugp100-2.2.1-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "SO30jnJGrIL9EJlhiBgwzXVf6ZH3xvaoxrTkrb3jfjw=",
+          "cp310"
+        ],
+        "plugp100-2.2.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "bPkej8tt3ykE5K4MQBuBWPASeePbP2SlnGeBr3ANSEs=",
+          "cp39"
+        ],
+        "plugp100-2.2.1-cp39-cp39-manylinux2014_armv7l.whl": [
+          "6nBJO6mC/PgM1HE0if3JHv12AESz2VgH85hegwF3Mbg=",
+          "cp39"
+        ],
+        "plugp100-2.2.1-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "o32lY6LZWtWjuFAG1y0U7YnnbbsZMooJOSAqSucp94s=",
+          "cp39"
+        ],
+        "plugp100-2.2.1-py3-none-any.whl": [
+          "IE2AXYs94mHj5Lr9V9TDvutd+iDpZk1PFwDStr61prE=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.2": {
+      "sdist": [
+        "QoW2SUvYftNZJHvrCoBDvfJNQEUl2FZHAcOvBsOm09M=",
+        "plugp100-2.2.2.tar.gz"
+      ],
+      "wheels": {
+        "plugp100-2.2.2-cp310-cp310-manylinux2014_aarch64.whl": [
+          "FHHvYKNIfHgep7phaJJt+lRMPal05q76/s2p6F5CeoA=",
+          "cp310"
+        ],
+        "plugp100-2.2.2-cp310-cp310-manylinux2014_armv7l.whl": [
+          "Xb8mes7I00a+GwTVpiuQOzQOP/yIODPKnQuZCR11Biw=",
+          "cp310"
+        ],
+        "plugp100-2.2.2-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "N6pxZh0tjtm3n5j24/F6nl0RLy189+IDJHCkNZL51cw=",
+          "cp310"
+        ],
+        "plugp100-2.2.2-cp39-cp39-manylinux2014_aarch64.whl": [
+          "jGhQjQg0Whscn6BOSRdI0UivkhKQNhnZLRyrY3C+dV4=",
+          "cp39"
+        ],
+        "plugp100-2.2.2-cp39-cp39-manylinux2014_armv7l.whl": [
+          "0DvrR8BecVzVI3roIES1ob6HciBhJndSw4EbQ48KdvA=",
+          "cp39"
+        ],
+        "plugp100-2.2.2-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "4zLpu4zL37arsf9Ril4e3UqRe3NNYzm+kIDDmm9aDLA=",
+          "cp39"
+        ],
+        "plugp100-2.2.2-py3-none-any.whl": [
+          "UzHw1hwUvNs++ea9Avd26suDYGbIfEqUDiNTOyp7xgI=",
           "py3"
         ]
       }
@@ -139844,6 +139968,14 @@
       "wheels": {
         "torch_model_archiver_nightly-2022.12.30-py3-none-any.whl": [
           "ohFHvUyj4I6h2SyJC9d2hDDjpdmyH5PKFjxv4qkMT7U=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.31": {
+      "wheels": {
+        "torch_model_archiver_nightly-2022.12.31-py3-none-any.whl": [
+          "1lN8O3ag5JuXRFHLu9FknPbofF+0xLEU4N6kcgHcnRM=",
           "py3"
         ]
       }

@@ -3962,6 +3962,18 @@
     }
   },
   "aiotieba": {
+    "2.10.0": {
+      "sdist": [
+        "4xjHyzVaxOtkaTwas/KyDEx1k268i3TqkEPX2JnKSkc=",
+        "aiotieba-2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "aiotieba-2.10.0-py3-none-any.whl": [
+          "0MGbAx9WIfvvwlUL9D+Yo/Vd0yIJEVICx9pbPfaKVsg=",
+          "py3"
+        ]
+      }
+    },
     "2.9.0": {
       "sdist": [
         "1yV9ZuGPwAo468NAEsOcBuyVewxbrUm9utym4E3xwaY=",
@@ -6691,6 +6703,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "api-requester": {
+    "1.0": {
+      "sdist": [
+        "3yYdieVjyw9niSKmkugubGAeKCkpr8s7iDGP+kmycZE=",
+        "api-requester-1.0.tar.gz"
+      ]
     }
   },
   "api-res-py": {
@@ -79215,6 +79235,20 @@
       }
     }
   },
+  "monazco": {
+    "0.1.1": {
+      "sdist": [
+        "6HDNOs9EohVJeaXHKlAqBU8CfMxOutZmMmBQ0Mj9/Lc=",
+        "monazco-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "monazco-0.1.1-py3-none-any.whl": [
+          "bVswwRmy+qGGVpBbjruAqFVmRkm6gkNOrUT/Jae+D0M=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mongodex": {
     "0.0.1": {
       "sdist": [
@@ -97236,6 +97270,14 @@
         ]
       }
     },
+    "15.0.20221230.0": {
+      "wheels": {
+        "odoo_addons_oca_server_env-15.0.20221230.0-py3-none-any.whl": [
+          "w1+TobwZKC4B+bwosV9NWx40FcQOt0bSdhS3xmJPjXg=",
+          "py3"
+        ]
+      }
+    },
     "16.0.20221019.0": {
       "wheels": {
         "odoo_addons_oca_server_env-16.0.20221019.0-py3-none-any.whl": [
@@ -100220,6 +100262,14 @@
       "wheels": {
         "odoo14_addon_stock_cycle_count-14.0.1.4.3.dev3-py3-none-any.whl": [
           "6O/CMkqqL3GWGDOsI7ZsEfkusvnHG+eVWQ2KWrdEHAQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.4.3.dev4": {
+      "wheels": {
+        "odoo14_addon_stock_cycle_count-14.0.1.4.3.dev4-py3-none-any.whl": [
+          "V+R+ZDaCc0w1nTUrSbuftpt/zOSiBpe5bKqwXnJ1fV8=",
           "py3"
         ]
       }

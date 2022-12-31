@@ -86853,6 +86853,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.4": {
+      "sdist": [
+        "RTAQruW+l9kMEQ1QxqGu+owKtUReoyoDkPdTYedAaqQ=",
+        "odn-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "odn-0.4.4-py3-none-any.whl": [
+          "RaMiP+i7clQ1PzRvod4ewWqeMMLWfrMEr2D4bCOLQiw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-crm-location": {
@@ -88336,6 +88348,14 @@
       "wheels": {
         "odoo13_addon_mgmtsystem_nonconformity-13.0.2.0.1.dev4-py3-none-any.whl": [
           "gQzpXgPvBiwWlQbIy52AEZcERZ0CoCN1DYETBFRdmPg=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.0.1.dev5": {
+      "wheels": {
+        "odoo13_addon_mgmtsystem_nonconformity-13.0.2.0.1.dev5-py3-none-any.whl": [
+          "gHq5AlZRrMNyHIVKj+H3bzA/VE0pV6KpGpQldUKMopU=",
           "py3"
         ]
       }
@@ -91798,6 +91818,10 @@
       "wheels": {
         "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-macosx_10_13_x86_64.whl": [
           "Vtl12xnn7Cj23ZPfECadtjDNRtIfrFCECrlRL6ngIL4=",
+          "cp37"
+        ],
+        "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-macosx_11_0_arm64.whl": [
+          "VWFF31NaYSaGKnuRrUVOOPillx7Z+2vVmegDseRsKSk=",
           "cp37"
         ],
         "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -116579,6 +116603,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "resourcesmanager": {
+    "4.0": {
+      "sdist": [
+        "EO562vai7FQWSaTCirc2Y8lVM3rj/lG8mFIpupofUXw=",
+        "resourcesManager-4.0.tar.gz"
+      ]
     }
   },
   "restible-swagger": {
@@ -152674,6 +152706,20 @@
       "wheels": {
         "vndb_dl-0.1.0-py3-none-any.whl": [
           "NsANigZbxfuq9X+r1IMaYSymGsTl2OFo2+Qeeeu4F9k=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "vollseg-napari-trackmate": {
+    "0.0.2": {
+      "sdist": [
+        "vx2L2e+DRuXNOr0THbx8Lm2ISNwztOCXgFbnWUyDn5Q=",
+        "vollseg-napari-trackmate-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "vollseg_napari_trackmate-0.0.2-py3-none-any.whl": [
+          "fz1MEiPZfbXr9G918ie6fw8bUTDTcrWJwJy2B9Qo+Fw=",
           "py3"
         ]
       }

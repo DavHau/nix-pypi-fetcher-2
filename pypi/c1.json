@@ -68609,6 +68609,20 @@
       ]
     }
   },
+  "modelw-docker": {
+    "2022.10.0a1": {
+      "sdist": [
+        "gKEp3b7e/+2UbifEuuiPpa7yeOT6KAO7f72pQ5JcqD0=",
+        "modelw_docker-2022.10.0a1.tar.gz"
+      ],
+      "wheels": {
+        "modelw_docker-2022.10.0a1-py3-none-any.whl": [
+          "8nE6F98uUNjy/Ku3MF72w1H2K7PJH+uXGtMvtsVIiW8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "modrc": {
     "0.4": {
       "sdist": [
@@ -82852,6 +82866,14 @@
         ]
       }
     },
+    "12.0.1.0.2.99.dev10": {
+      "wheels": {
+        "odoo12_addon_stock_return_request-12.0.1.0.2.99.dev10-py3-none-any.whl": [
+          "1SDrqSb6kjuHl5k6nsKaI6pll753wlL4fDwyjVBDMH4=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.2.99.dev4": {
       "wheels": {
         "odoo12_addon_stock_return_request-12.0.1.0.2.99.dev4-py3-none-any.whl": [
@@ -84360,6 +84382,14 @@
       "wheels": {
         "odoo9_addon_mgmtsystem_claim-9.0.1.1.1.99.dev23-py2-none-any.whl": [
           "gvaOZnnQvGT3YgXiK+lkHSWLxJlncVHbRH5zjBT8OOI=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.1.1.99.dev24": {
+      "wheels": {
+        "odoo9_addon_mgmtsystem_claim-9.0.1.1.1.99.dev24-py2-none-any.whl": [
+          "2tgV+ObnTAv+CTR2TmnGmsCTHfB5NX4YK81GtINqbMs=",
           "py2"
         ]
       }

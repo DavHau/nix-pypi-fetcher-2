@@ -635,6 +635,12 @@
         "jwr1/MmKah4ByQSsuhs3ElQ6OA6Ju4OMP8PzUtEoeQE=",
         "acstore-20221230.tar.gz"
       ]
+    },
+    "20221231": {
+      "sdist": [
+        "/BnDNMCf9TvAYnv0kyjCQCCLJF3vkPg+K/NYN1axt54=",
+        "acstore-20221231.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-ble-heart-rate": {
@@ -18350,6 +18356,18 @@
       "wheels": {
         "boltz_client-0.0.8-py3-none-any.whl": [
           "2+AVYgNk23hzLhLbDo2HLvvARmOQUFkINpVoiVN/YOY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "rU5gIhYcAeua7BBhdJyrEGtGzu8oLWRGCWSX3d6ano8=",
+        "boltz_client-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "boltz_client-0.0.9-py3-none-any.whl": [
+          "BK0kfFPCimJ1hgMFgdJhcdRmU+1wervizaYOMx4F9Xo=",
           "py3"
         ]
       }
@@ -60409,6 +60427,14 @@
           "cp38"
         ]
       }
+    },
+    "0.7.0.dev1672490400": {
+      "wheels": {
+        "hybridbackend_tf115_cu116-0.7.0.dev1672490400-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "7+CZLz8UjLXydBqbL1/p6+4T+0rJ6KCP83N4L4Kldrw=",
+          "cp38"
+        ]
+      }
     }
   },
   "hydra-chain-py": {
@@ -94648,6 +94674,14 @@
       "wheels": {
         "odoo14_addon_hotel_housekeeping-14.0.1.0.1.dev16-py3-none-any.whl": [
           "2kDMz1bCEnNXx2F6sjw/JEEwESJpW9CYEokotXceot8=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev17": {
+      "wheels": {
+        "odoo14_addon_hotel_housekeeping-14.0.1.0.1.dev17-py3-none-any.whl": [
+          "G9gRo9O9/qsOZ7DjI2xCOLmusdzXZhQzz/OZ0gIXlvM=",
           "py3"
         ]
       }

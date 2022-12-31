@@ -1747,6 +1747,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.4": {
+      "sdist": [
+        "yxKpIjgQ+aaSCO6KddfH2fhFnT4imFVsAynsovXgiek=",
+        "alibabacloud_ice20201109_py2-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ice20201109_py2-1.3.4-py3-none-any.whl": [
+          "VJKvKAkcK7PAbvEGJCmNd96litZb/PXo3hkkFT6MHkc=",
+          "py3"
+        ]
+      }
     }
   },
   "aloisius": {
@@ -86918,6 +86930,14 @@
         ]
       }
     },
+    "13.0.1.1.1.dev18": {
+      "wheels": {
+        "odoo13_addon_purchase_request_tier_validation-13.0.1.1.1.dev18-py3-none-any.whl": [
+          "JUG696jJB0zz+L8xXBULWLtGpK66FztLhQZ9b8VpZfs=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.1.1.dev2": {
       "wheels": {
         "odoo13_addon_purchase_request_tier_validation-13.0.1.1.1.dev2-py3-none-any.whl": [
@@ -101402,6 +101422,20 @@
       "wheels": {
         "python6-0.0.2-py3-none-any.whl": [
           "QZHLzVDVmhsn2+B8ZitlvtvrmeUlDI2IKBVj4SJso1c=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pythonfofa": {
+    "1.0.5": {
+      "sdist": [
+        "ktDJaNAJnRSPecz/zdRcp6cTCYFpAHyAtASHq7w9z94=",
+        "pythonfofa-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pythonfofa-1.0.5-py3-none-any.whl": [
+          "EonUELnjGo7r2u8y6GZDZs3cnO2N5yjEXRG5ZyV2sQQ=",
           "py3"
         ]
       }
@@ -119067,6 +119101,68 @@
       }
     }
   },
+  "starfield": {
+    "0.1.0": {
+      "sdist": [
+        "hqXCT/Hz7a18jrs2NXhg0AUgjuYdIaZeLEB8sdmtyo8=",
+        "starfield-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "starfield-0.1.0-py3-none-any.whl": [
+          "RfdFXmXv4dVcpLMUYKl451pdkB67dYci13BvX4/pBQ0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "j/jtJy9mRkHFF2s5WgXD13uBAJ4H7uq2b/vCnIl32Vg=",
+        "starfield-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "starfield-0.1.1-py3-none-any.whl": [
+          "0r0dgM4FMHINzhmDTJN2VQC3og3Ym4ivbO88KYUgtC0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "surAZG5WO9ugkkxbs19NFDtSZeoGBCTmfuRUe53Gucc=",
+        "starfield-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "starfield-0.1.2-py3-none-any.whl": [
+          "UWkCoT81eqZo+7zHEfXIE1p5gaxH30x+b3dhd9Qyqu4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "q+qmd87JOLMKVrivZD4nw8G/5ZcuOhXmkedoxj3W5qo=",
+        "starfield-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "starfield-0.2.0-py3-none-any.whl": [
+          "zF5jHHsbkhUHrNDVy1ebAtcMwatEoRGYLWSGGdjUD/M=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "/f0DlKJuK1x+wYGpdyCms/C1EQrj4DdaDG0uQD685Ow=",
+        "starfield-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "starfield-0.3.0-py3-none-any.whl": [
+          "YPKT2AeM7IDN35KL16cTDudh+6L3MowwZ/iLSg7m4HY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "startpypack": {
     "0.0.5": {
       "sdist": [
@@ -132608,6 +132704,30 @@
       "wheels": {
         "unsafe-1.2.30-py3-none-any.whl": [
           "FwVSTw5rfOwuNV1iRm9f3Bi7BWAuksjmQ4QlzRTCsoI=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.4": {
+      "sdist": [
+        "sOqYdPjKqrJOCaNELrQf2Nn+5EVkEx6a2ArI9cBqzLg=",
+        "unsafe-1.2.4.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.2.4-py3-none-any.whl": [
+          "mGq1YPbj81Kp6vEDoNL3VEvT6Gu4+WgcopqATjI2PCc=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.40": {
+      "sdist": [
+        "tugk+ksORHxsyxcOr+byeXY8iyE+kfNlIhjsuWEA5I4=",
+        "unsafe-1.2.40.tar.gz"
+      ],
+      "wheels": {
+        "unsafe-1.2.40-py3-none-any.whl": [
+          "0ZFHh7T4BmEbzLp/ELG8/vPHZiFLl/lbzCX8NgqQPfY=",
           "py3"
         ]
       }

@@ -27331,6 +27331,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "UHLr7oaTgwJvdrCzcCTctJmD1F8x5hQgTO1eqj+7EPQ=",
+        "data_expectations-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "data_expectations-1.2.0-py3-none-any.whl": [
+          "px7/VHwi0jZ5PvT1+WfHvfN5wBJRDl2tWD6nzCmGNL8=",
+          "py3"
+        ]
+      }
     }
   },
   "data-minimization-tools": {
@@ -50718,6 +50730,18 @@
       "wheels": {
         "fastestimator_nightly-1.5.0.dev202212291307-py3-none-any.whl": [
           "x6tf30pUhgft3qtRmXL7KWpwlE5yNPZSEYxH90GJsNE=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.dev202212311307": {
+      "sdist": [
+        "YM3SOZw72Vqe9iCb9F+uMgSH0YmyXxHxNGo0o9KDw78=",
+        "fastestimator-nightly-1.5.0.dev202212311307.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202212311307-py3-none-any.whl": [
+          "a7L0+ZsGEeeAjejFqx+WqNGFza7gXT+/MV8GlBzRPYQ=",
           "py3"
         ]
       }
@@ -94112,6 +94136,10 @@
       "wheels": {
         "opencv_contrib_python_headless_rolling-4.7.0.68-cp37-abi3-macosx_10_13_x86_64.whl": [
           "v2gNW6bDHjhhUVbKH8HaHQ0vbfrfkbTOOnuOPPpp0vw=",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless_rolling-4.7.0.68-cp37-abi3-macosx_11_0_arm64.whl": [
+          "3uO1dNc97U5BQx8dm7bKnNG0IJ2dZrd0j/QQmEgT9u0=",
           "cp37"
         ],
         "opencv_contrib_python_headless_rolling-4.7.0.68-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -141640,6 +141668,14 @@
       "wheels": {
         "uralicNLP-1.4.1-py2.py3-none-any.whl": [
           "wHMl5HPTZnBsU3EyMOts1e5O0rFQnE4wG+OPCUaWak0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "wheels": {
+        "uralicNLP-1.4.2-py2.py3-none-any.whl": [
+          "C9jXtjV+LSc/RsfrN5kMu5KWR6NxytFEk65hh8vkyEA=",
           "py2.py3"
         ]
       }

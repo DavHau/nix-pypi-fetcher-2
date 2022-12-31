@@ -89625,6 +89625,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.1.0.2.99.dev4": {
+      "wheels": {
+        "odoo11_addon_l10n_it_ddt-11.0.1.0.2.99.dev4-py2.py3-none-any.whl": [
+          "BvOTNVzHDEy4PfdRzcMNYXyvMUqCqjmY46q5YcWuzS4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo11-addon-l10n-ro-report-d300": {
@@ -90912,6 +90920,14 @@
       "wheels": {
         "odoo14_addon_maintenance_plan-14.0.1.2.2.dev4-py3-none-any.whl": [
           "rOPMLJ+MzofWQtIJomfk+y7WSJ9pz78ooLGDJ8Xd9lo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.2.2.dev5": {
+      "wheels": {
+        "odoo14_addon_maintenance_plan-14.0.1.2.2.dev5-py3-none-any.whl": [
+          "rZw+0jcQ4wD2yqsSBYDUhomgicEwJk5Q1qXzGHZpY/4=",
           "py3"
         ]
       }
@@ -126328,6 +126344,18 @@
         ]
       }
     },
+    "2.12.1a20221231": {
+      "sdist": [
+        "NNQTPO7Mc+3xYaeYnR9HUS58y2eXeYMmy2vQ+i9xBQ8=",
+        "tbp-nightly-2.12.1a20221231.tar.gz"
+      ],
+      "wheels": {
+        "tbp_nightly-2.12.1a20221231-py3-none-any.whl": [
+          "xNfOjPBS4vxMhX2vr1iyk4jibaq0AYJc/AUk/umlAAA=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20200414": {
       "sdist": [
         "dn3Gkx0XGa3IOb5ss/SWoMO290HVlI7CQsdMHyxEUps=",
@@ -159930,6 +159958,18 @@
       "wheels": {
         "yolov5-7.0.5-py36.py37.py38-none-any.whl": [
           "ZYIZ5tvJTnOY2DTwJffbXEtxRe2Si8MsvmtD4RVsHug=",
+          "py36.py37.py38"
+        ]
+      }
+    },
+    "7.0.6": {
+      "sdist": [
+        "qrUhtznpKH2SGDbyACPDFPTX6aJTOovDe9bhIySnvzA=",
+        "yolov5-7.0.6.tar.gz"
+      ],
+      "wheels": {
+        "yolov5-7.0.6-py36.py37.py38-none-any.whl": [
+          "LwMzS30cU/bdQ4ucOFP1KduE4+Cl1lC+gtDTUBlNCTA=",
           "py36.py37.py38"
         ]
       }

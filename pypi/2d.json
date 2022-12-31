@@ -10231,6 +10231,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2b20221231": {
+      "sdist": [
+        "0sPDVFkc0b/7E+m179NfkAi1vaXrKxHCSxigmOrHmL0=",
+        "autogluon.timeseries-0.6.2b20221231.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.6.2b20221231-py3-none-any.whl": [
+          "8BXQt8SrouYV4phjS6tlRLg/SK8J/may8mndIi0laK4=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -81955,6 +81967,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_l10n_fr_department-16.0.1.0.0.3-py3-none-any.whl": [
+          "4LlFjoVmB4OehFMCoVBVsLnRvzw4SlC5/OcecuirE4U=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-l10n-ro-payment-to-statement": {
@@ -82466,6 +82486,14 @@
       "wheels": {
         "odoo_addons_oca_website-15.0.20221216.0-py3-none-any.whl": [
           "I+E1bCVbTwZgT89Am9C0IJGY8gYu/uv9v64RW8F0EdI=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.20221230.0": {
+      "wheels": {
+        "odoo_addons_oca_website-16.0.20221230.0-py3-none-any.whl": [
+          "+S1EMjovRhgnF/URYPoJX5+lMhSoZaqZDw45DnNerqA=",
           "py3"
         ]
       }
@@ -132651,6 +132679,20 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "thunno": {
+    "1.0.0": {
+      "sdist": [
+        "XVYpjDt/Luqk5kRkOytPdef/M3RIMk2iSLUG3TSVZTQ=",
+        "thunno-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "nsepm9FF3jV3/Q+4YuBVXcckl/hZyCAiMysWIdnJgG8=",
+        "thunno-1.0.1.tar.gz"
+      ]
     }
   },
   "tickr": {
