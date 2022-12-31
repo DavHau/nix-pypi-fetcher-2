@@ -6265,6 +6265,18 @@
           "py3"
         ]
       }
+    },
+    "1.186.1": {
+      "sdist": [
+        "ZoOB8NFVkPJBr1wb2KOq98p9UJjGiOdvJ3GgSk5vikc=",
+        "aws-cdk.aws-nimblestudio-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_nimblestudio-1.186.1-py3-none-any.whl": [
+          "hnutQVuG/a8QInbZnG9Cn/MMPPwkFP9dMtUYJczJPoo=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoveryreadiness": {
@@ -7212,6 +7224,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoveryreadiness-1.186.0-py3-none-any.whl": [
           "Zi5Hv0ELlGjz8yMO5zQ1O4J12ozxBTkkvgHpofsWTt8=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "2nN2RFOUILxDT9KyiC5t81hHIM76HXEJRmygENlp08E=",
+        "aws-cdk.aws-route53recoveryreadiness-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoveryreadiness-1.186.1-py3-none-any.whl": [
+          "otaEWgxkMxizQCIinwHNIo5FWN08Q8nCgy8qZTZrbl8=",
           "py3"
         ]
       }
@@ -13858,6 +13882,18 @@
       "wheels": {
         "biweeklybudget-1.1.0-py2.py3-none-any.whl": [
           "g+LskaNANnF/RB2b8DM3ZGQ7llqQLiXg6dUCmqwZOT0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "KO/IQK7Z75pp3zeel/FWYlp1gRy67JicJmnz6bXR2ho=",
+        "biweeklybudget-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "biweeklybudget-1.1.1-py2.py3-none-any.whl": [
+          "ZVof3Pewji4JMBGbO0xhzd7elBx++8ZGNZ/iSrxfrLI=",
           "py2.py3"
         ]
       }
@@ -109357,6 +109393,18 @@
         "qWrgQw/VaznDwch5pj5ks13E7VlVnFy/VUYMT1XOoVA=",
         "pypleski-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "x/mj0a6m+Qj9PKLLfqGB301oDG69fIaB/giLcrI1mAk=",
+        "pypleski-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "NkkZ+eXbJaPG/iOSJg/3kMJB8YtKmyZuJRKWnDUs+t8=",
+        "pypleski-0.0.6.tar.gz"
+      ]
     }
   },
   "pyplthook": {
@@ -125486,6 +125534,26 @@
       "sdist": [
         "1U7vVDFD5mUrjH1mlvKs9KE907DCTITrPtaaj1Obvbs=",
         "simpweth-1.0.0.tar.gz"
+      ]
+    }
+  },
+  "singledispatch-with-type-arg-support": {
+    "0.1.0": {
+      "sdist": [
+        "kKlvY7CXInVCTWnGNXfqJpZnfaaowXe40UJaUe/2Hb0=",
+        "singledispatch_with_type_arg_support-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "5zbzeeIeqxvPb0o3WXuIGSOyC96C5wwmNLRKeA6C6gE=",
+        "singledispatch_with_type_arg_support-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "vYeDSk/H2Auizv6ysaVJjtJ6g3MBFp5bkdiEgkz3P9E=",
+        "singledispatch_with_type_arg_support-0.1.2.tar.gz"
       ]
     }
   },
@@ -149968,6 +150036,30 @@
       "wheels": {
         "victron_ble-0.3.0-py3-none-any.whl": [
           "LDgHLu1J/w3uh/i59qx3RxSpULfKZcEdsUM5Hb9Iyrs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "8o05YqskXzxCg1fn4qypuJ9p6ekn76gXpPneFIpItoU=",
+        "victron_ble-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "victron_ble-0.3.2-py3-none-any.whl": [
+          "Cj8a+LSuMejjhvsBGEr0xR6sloH3L6MdvgCG/8Frq9o=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "CJS67T80I6AKCAdSr0l2tav3DbTJpDdDWXmi7fTylyU=",
+        "victron_ble-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "victron_ble-0.3.3-py3-none-any.whl": [
+          "ASYaPAF5k44XQ+B9bLVImLmYY0bcPVtnctdhy2ypvvQ=",
           "py3"
         ]
       }

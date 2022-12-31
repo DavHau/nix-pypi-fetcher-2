@@ -6657,6 +6657,18 @@
           "py3"
         ]
       }
+    },
+    "5.0.2rc1": {
+      "sdist": [
+        "fc9rcYEYFcILdPzmbNFPqFEttRahgbaoRy4fO0C4h+I=",
+        "apache-airflow-providers-microsoft-azure-5.0.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_microsoft_azure-5.0.2rc1-py3-none-any.whl": [
+          "clN5hC/U5VZC5ETqBCysb1CEDYSb7ypnE0CpoajDRkA=",
+          "py3"
+        ]
+      }
     }
   },
   "apeman-model-client": {
@@ -105928,6 +105940,78 @@
         ],
         "qat_comm-1.4.1-cp39-cp39-win_amd64.whl": [
           "wiMzTVExka8TDYOUQtTygWHcLyR5jSXYOEg0TlnXiuI=",
+          "cp39"
+        ]
+      }
+    },
+    "1.4.2": {
+      "wheels": {
+        "qat_comm-1.4.2-cp310-cp310-macosx_10_9_intel.whl": [
+          "LaYH+y6AAoVVVqLwX46zFfQBZOjqXxtfwMqPHV/VxCk=",
+          "cp310"
+        ],
+        "qat_comm-1.4.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "yT4O62jqn9qvWvHfzmXY26jJcbivGIbDYIaX3XJNb2I=",
+          "cp310"
+        ],
+        "qat_comm-1.4.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "4GOwfU+WIPl4BSQ6H86Jik70robanJ7ehg2YpjOb7QA=",
+          "cp310"
+        ],
+        "qat_comm-1.4.2-cp310-cp310-win_amd64.whl": [
+          "qxQZcs/WgQxp3Tcltx8KTa2+58ky4yLoCV3tWiFLr4U=",
+          "cp310"
+        ],
+        "qat_comm-1.4.2-cp36-cp36m-macosx_10_9_intel.whl": [
+          "m8gu2uHCpGhkCo+XlBndw7sB3n+sYwtA16rezHHfHWk=",
+          "cp36"
+        ],
+        "qat_comm-1.4.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "CPSTiZ2lU4HG5xZ9HoDpeP3OcTCjJBGTlgD3pWmso+8=",
+          "cp36"
+        ],
+        "qat_comm-1.4.2-cp36-cp36m-win_amd64.whl": [
+          "7q0MeLX1I1GqH0JunphaH3Ycj+yKQ1iqDPS9eOrCJVA=",
+          "cp36"
+        ],
+        "qat_comm-1.4.2-cp37-cp37m-macosx_10_9_intel.whl": [
+          "dk4DiqVl5FD9JLtHBoAPPWxu7OkAbvj9grrXNBdpxXc=",
+          "cp37"
+        ],
+        "qat_comm-1.4.2-cp37-cp37m-win_amd64.whl": [
+          "sJiiNB1x2XxG0IvPesVSlhe5PiNr581085Hhap8JM/g=",
+          "cp37"
+        ],
+        "qat_comm-1.4.2-cp38-cp38-macosx_10_9_intel.whl": [
+          "IrwPSVJlM4PusjAl/WKOW+WPokHhT5oZw5F/skZHVB0=",
+          "cp38"
+        ],
+        "qat_comm-1.4.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "zcee9ItdOF8ZT4n/OZh/TJUtO3C3E0F8LzxURVC5OK8=",
+          "cp38"
+        ],
+        "qat_comm-1.4.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "S6PVu//cqacQELPv+/DY9s5g3SfG6kyzxbLt+4oo10Q=",
+          "cp38"
+        ],
+        "qat_comm-1.4.2-cp38-cp38-win_amd64.whl": [
+          "37xnaFGZiEu/eZegk18G2sJbYeXpjTghHZfbyLOzmBg=",
+          "cp38"
+        ],
+        "qat_comm-1.4.2-cp39-cp39-macosx_10_9_intel.whl": [
+          "9KvXTTih5sDnAVTICNBYmIyYaC6Yq6YsSZbS9dWWuyc=",
+          "cp39"
+        ],
+        "qat_comm-1.4.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "YMC10CW4VufT5j5Za5z7kwy/wugd4wVnCQaBJyPg/UU=",
+          "cp39"
+        ],
+        "qat_comm-1.4.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "RJlpyQNSyELrz4eWeCqfr2NaB8bHRdxp/vGP5oiedC8=",
+          "cp39"
+        ],
+        "qat_comm-1.4.2-cp39-cp39-win_amd64.whl": [
+          "PNDvj/xssRjcqLhTmUTNzh4xkb8Br5NVc5XEEUGIAu8=",
           "cp39"
         ]
       }

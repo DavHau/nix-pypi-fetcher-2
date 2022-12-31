@@ -10142,6 +10142,18 @@
         ]
       }
     },
+    "1.186.1": {
+      "sdist": [
+        "NoTRX0E9+KRB2JU4h3lFuRebK4ASO8SIZGDsoPyswhQ=",
+        "aws-cdk.aws-greengrassv2-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrassv2-1.186.1-py3-none-any.whl": [
+          "nvjeVRy7uHssceAlMndlO8/ypSlF49TNiIHSzxbaAqo=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "smfhhigCImRyGZoUoKdt5YoAdjFavkIENPc/pZTxEak=",
@@ -10524,6 +10536,18 @@
       "wheels": {
         "aws_cdk.aws_identitystore-1.186.0-py3-none-any.whl": [
           "HuaVJChPM/OLxsmHCkC9YaoALEjLeUqThQmGxRMEqPE=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "7XETfGbDYEJeBAY5dagh6SUjOWE7s7O3eMHjluMIAgk=",
+        "aws-cdk.aws-identitystore-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_identitystore-1.186.1-py3-none-any.whl": [
+          "7+FKeqw5g2wgcviIpxDQwX2dOJ06drKU4StU81i/qTw=",
           "py3"
         ]
       }
@@ -88223,6 +88247,18 @@
           "cp37"
         ]
       }
+    },
+    "0.15.9": {
+      "sdist": [
+        "3BuziRC6H2ZWaK2BwyNI/3amGOwq9/nuOovlVzeelUw=",
+        "polars_lts_cpu-0.15.9.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.15.9-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "35TkImgDQbvC9k6qZ3ObYZQ22hsjHIoW+Ey4qVfShN0=",
+          "cp37"
+        ]
+      }
     }
   },
   "poldark-qt": {
@@ -138418,6 +138454,34 @@
         ],
         "xia_user-0.0.22-cp39-none-win_amd64.whl": [
           "OsDCn2y+yhVjjnYx4WMraxyfMKxCG+gV3wRCVP6Rtq4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.23": {
+      "wheels": {
+        "xia_user-0.0.23-cp310-none-macosx_11_0_x86_64.whl": [
+          "h/KPU+b/voln5MO6ys9JTSXENKSXbq9oT8waOu0L0rk=",
+          "cp310"
+        ],
+        "xia_user-0.0.23-cp310-none-manylinux1_x86_64.whl": [
+          "7u7eOXTZ+NwtI3QyJ0Digga7s5HNR5bgsZr+Re8esrk=",
+          "cp310"
+        ],
+        "xia_user-0.0.23-cp310-none-win_amd64.whl": [
+          "8QNYylZKCgntCTDnqEaOUDIvugt1yCW21uLsuKqAQqo=",
+          "cp310"
+        ],
+        "xia_user-0.0.23-cp39-none-macosx_11_0_x86_64.whl": [
+          "9oY3ISua+UfTGUjbnnRF08ULHYcBt8HLApIv+ulcM5c=",
+          "cp39"
+        ],
+        "xia_user-0.0.23-cp39-none-manylinux1_x86_64.whl": [
+          "y6+seXDR8ziaLQ7PGN2xHELtL1WhAscOFILT359e+X8=",
+          "cp39"
+        ],
+        "xia_user-0.0.23-cp39-none-win_amd64.whl": [
+          "ZBlcwNNcyaEuY01afMJCmQ7rTC1A1l5BPh36ONLmU1U=",
           "cp39"
         ]
       }

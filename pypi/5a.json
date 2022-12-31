@@ -34576,6 +34576,18 @@
         ]
       }
     },
+    "0.13.1": {
+      "sdist": [
+        "FZpHrJE5fTBLgSbJuaO05tSBLTXeT4AimFVC2Y7Nu4E=",
+        "ephios-0.13.1.tar.gz"
+      ],
+      "wheels": {
+        "ephios-0.13.1-py3-none-any.whl": [
+          "vfnuZLCNHRkWEMerKiHoxoBTr/4ewj0Jd2Dk/n2K+s4=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "2Kcz3LqJPXD8XWiIekWPZoadygp0bzrapVg7k+eyiOg=",
@@ -59842,6 +59854,32 @@
       "wheels": {
         "lavue-2.80.0-py3-none-any.whl": [
           "EcIjBQffjkYjuJpm0lRUc08Dj1W9bzWEg5xLIFSvic0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "lazy-ghost-hunters": {
+    "2.0.2": {
+      "sdist": [
+        "AEgpncgbcLH6kNaJYQjcaaSl/8DWcWD6zSJ49+yCzZs=",
+        "lazy-ghost-hunters-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "lazy_ghost_hunters-2.0.2-py3-none-any.whl": [
+          "wI7RhtMu2lJ3knBXtv0X+w1jzCfU2B9guAlQkXJJqSI=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.3": {
+      "sdist": [
+        "Swha8Xse4m6SOEaVV2Ite0PXl0v21CvqHBQz/pcqDk4=",
+        "lazy-ghost-hunters-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "lazy_ghost_hunters-2.0.3-py3-none-any.whl": [
+          "I5yPZdPHsa+YPW7fqcDPc0JaEeIrk+wmueYxGzuelAo=",
           "py3"
         ]
       }
@@ -94663,6 +94701,14 @@
           "py2"
         ]
       }
+    },
+    "8.0.1.0.0.99.dev5": {
+      "wheels": {
+        "odoo8_addon_hr_payroll_email_slip-8.0.1.0.0.99.dev5-py2-none-any.whl": [
+          "U/tlPNbljzlHsK0Sowl4zz9dHputA2jBob855DUeqxc=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo8-addon-mgmtsystem-claim": {
@@ -108608,6 +108654,18 @@
         ]
       }
     },
+    "0.11.20.0": {
+      "sdist": [
+        "CTND12IOsPmDeDM9MWa6/LmhxCABN4I/WxZltrkQdQk=",
+        "Py-Lav-0.11.20.0.tar.gz"
+      ],
+      "wheels": {
+        "Py_Lav-0.11.20.0-py3-none-any.whl": [
+          "+QCauGyfmBkt2U7kDtBkJCqNUXSksTVtY9mrzPO6ixo=",
+          "py3"
+        ]
+      }
+    },
     "0.11.4.0": {
       "sdist": [
         "GmHFZVUGLTxldmSj/KwZAaZPGFksNyMBOZv1saWBVQg=",
@@ -109636,6 +109694,18 @@
       "wheels": {
         "Py_Lav-0.9.6.1-py3-none-any.whl": [
           "deNSO1Rqj9wwiuv45pQu6FqTyLGk4O1LdrguTSOHJ1M=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "L+8bS+G3G2L9tsBwqmMyEoCS4XgVsAws7jQHsVGmEUk=",
+        "py_lav-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.0-py3-none-any.whl": [
+          "2+ghOsOmUERyOJ7FbMBq4aniC36R3npus2ErEs0EB1c=",
           "py3"
         ]
       }
@@ -136182,54 +136252,6 @@
     }
   },
   "sqlpyd": {
-    "0.0.1": {
-      "sdist": [
-        "YtoGaJbFKz7fYfwEzvb0D9xTTWfWxvnDhzckvDjZtxw=",
-        "sqlpyd-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.1-py3-none-any.whl": [
-          "YUFL2/Yn2K8k3AJyzlP/PCk9rx/8Z7HbjD7J4Hscwvo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10": {
-      "sdist": [
-        "z6/YjdIByAAPG86kfEyb37kWgc55NyMmbVqQ0BZpje8=",
-        "sqlpyd-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.10-py3-none-any.whl": [
-          "bW11xAr37V3jrVYLVO3/lJZqf7445WeoRoI0dM8OP3U=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "yFKwWlQkAnGMDvnOrpTbgjlBcgvwBRCpIeq2VF5TBqY=",
-        "sqlpyd-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.11-py3-none-any.whl": [
-          "tZ6QY8/fylVCOG3oKU7q7jDcyyU6eFUBnK8Rw7KmD2w=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "h0HktQMivGIStS6rX45Xl+eze2spZLQWYSwCrTWAz+I=",
-        "sqlpyd-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.12-py3-none-any.whl": [
-          "7vQGDlXscIfAqIBzJhT/1/8oyXIRbtvE+QFq4h5ZrUg=",
-          "py3"
-        ]
-      }
-    },
     "0.0.13": {
       "sdist": [
         "U1ZY/V2tSoz1k1KGVxEjA2ysbd7P/oKEKQadbZIfbyM=",
@@ -136242,98 +136264,26 @@
         ]
       }
     },
-    "0.0.2": {
+    "0.1.0": {
       "sdist": [
-        "M/GqfE07pfzi+sa4rG9Kyq0cWphArj+YUTMGlHhvkWs=",
-        "sqlpyd-0.0.2.tar.gz"
+        "HZZ4luHfJa9hwCw9mKou5wXp/wVbeCzohD6Qt6ljxKM=",
+        "sqlpyd-0.1.0.tar.gz"
       ],
       "wheels": {
-        "sqlpyd-0.0.2-py3-none-any.whl": [
-          "BcIDG6+sRUezY8VV9SRvqYakwdZD8tAMws2xo+kP30Y=",
+        "sqlpyd-0.1.0-py3-none-any.whl": [
+          "miqE+j8h7PVkKkm1V5ZgMP2e7x6aD5UFXaKT7km4l8A=",
           "py3"
         ]
       }
     },
-    "0.0.3": {
+    "0.1.1": {
       "sdist": [
-        "9WCutcQKCHxDu98uTy+47SwY0veYhVD+C/5Zljs3kt0=",
-        "sqlpyd-0.0.3.tar.gz"
+        "wkKhj17OGjHxvjw1J/65vD6X2zz81/uYDREWzvJMjhI=",
+        "sqlpyd-0.1.1.tar.gz"
       ],
       "wheels": {
-        "sqlpyd-0.0.3-py3-none-any.whl": [
-          "WRcjkyL57rn5R6OWNWsfCQJNrIu/nZCzI1p9K8p6344=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "ZFmW/H8/fof6hXlIzaaiaX9MsWzya7cCt6Txf93obi8=",
-        "sqlpyd-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.4-py3-none-any.whl": [
-          "hrO4p8mZtJ9iSSePeAMjOEtE4H9wn/0hGWF9HCcWN5c=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "t1h/nK+gNlVjDxT835QqmZqjypOlo+JTsGppnc1Wff4=",
-        "sqlpyd-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.5-py3-none-any.whl": [
-          "7/zYqRNKJ5CkkqABagMBS/v+Uo3msptIPITE91We/b8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "6W7v38TfBI/yBoLWOGJgITZ1zkh9stuiXjXseBzCsJI=",
-        "sqlpyd-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.6-py3-none-any.whl": [
-          "ZlDIKfZaryhrYNDxG1fXKJ4bVsYNy37uN3ohe/kDYSI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "WDZDAoix+lMlLIcq+SauiZR8FPAMyyz/DagF55ICdgk=",
-        "sqlpyd-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.7-py3-none-any.whl": [
-          "2mYABJO3UE+LIOIXlx1kVpPDQzevKoABXD7/6WVGAOs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "cUApkOxMPcKVlzOFrI52GK42PgSIKArB95mq61hT2QY=",
-        "sqlpyd-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.8-py3-none-any.whl": [
-          "XnipkVGc1N94tbjSOEisVVT9/8AgD+QxuzFRJd8VfJM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "eHKMMURQZ3hta4Jcgw/E2liMMWKDwEqOU0Yb6PzT6x4=",
-        "sqlpyd-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "sqlpyd-0.0.9-py3-none-any.whl": [
-          "1pOxupUGUyyRBZBFYS4crVSUWdHsoEBnvc/nmcbe1ho=",
+        "sqlpyd-0.1.1-py3-none-any.whl": [
+          "H+WezXS5+QkweyolUCE1zCD6Xvmz80snE7Z0JT6orzY=",
           "py3"
         ]
       }
@@ -149602,6 +149552,18 @@
       "wheels": {
         "untanglepyut-0.6.2-py3-none-any.whl": [
           "0idmWsFp2gt3TJk3Ix7UwRmbNoEkn6fIqrNmUJ+wlf4=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.3": {
+      "sdist": [
+        "xoORM0cEFWbjH1g7aBOaQhspqQ+uNRX8tLWSqd1ExHM=",
+        "untanglepyut-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "untanglepyut-0.6.3-py3-none-any.whl": [
+          "bI7OR5V6+DN4hM3Roggw4xTpBwXSlKonRt0DeubnGpM=",
           "py3"
         ]
       }

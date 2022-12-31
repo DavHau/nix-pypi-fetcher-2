@@ -4759,6 +4759,18 @@
           "py3"
         ]
       }
+    },
+    "5.3.0rc1": {
+      "sdist": [
+        "sjwPPgd9hvns5oquy3HmJXmGfmo3HWjn/K5Eqvx1TUk=",
+        "apache-airflow-providers-salesforce-5.3.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_salesforce-5.3.0rc1-py3-none-any.whl": [
+          "h/K77GNf4lWnCXx+mzCxCuyLnCsHHSsmtUe8KmbeHwE=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-slack": {
@@ -5198,6 +5210,18 @@
       "wheels": {
         "apache_airflow_providers_slack-7.1.0rc3-py3-none-any.whl": [
           "Xm0M2mxuBpgJ7GnR/XJi2/KYK7AuWFP8t1ROs25RJVU=",
+          "py3"
+        ]
+      }
+    },
+    "7.1.1rc1": {
+      "sdist": [
+        "i3iAbeqXtc1h3tUa0vyVl8sQVfMOm4BHV4RI14Ows2I=",
+        "apache-airflow-providers-slack-7.1.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_slack-7.1.1rc1-py3-none-any.whl": [
+          "jSNO7/5SR4uHD8prQUmMRGVW4c+65oYfQAOSNYalZk8=",
           "py3"
         ]
       }
@@ -8528,6 +8552,18 @@
       "wheels": {
         "aws_cdk.aws_opensearchserverless-1.186.0-py3-none-any.whl": [
           "EjwZ3KDtG21QawFrgSLGS4jSrAoDcC4r/gDbN+JO8wQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "hvG096NazuuG4SDkAJ/HCrlTuiEGPP/oP2rmp8OgX7k=",
+        "aws-cdk.aws-opensearchserverless-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchserverless-1.186.1-py3-none-any.whl": [
+          "xP413ZAlRisjczJBpYZVZU9so4gNEeQfo4Pswm90ib8=",
           "py3"
         ]
       }
@@ -28076,6 +28112,18 @@
       "wheels": {
         "diffusionkit-0.16-py3-none-any.whl": [
           "fo3yqylJ0UGZLS+7DakdHbpcSbJsFLLoUo2xi12TAQg=",
+          "py3"
+        ]
+      }
+    },
+    "0.17": {
+      "sdist": [
+        "SESfWf5gfnxvVIQCx0oOV1Z3JIHerzRDy/skxEB+3MQ=",
+        "diffusionkit-0.17.tar.gz"
+      ],
+      "wheels": {
+        "diffusionkit-0.17-py3-none-any.whl": [
+          "o1FdusDrfLdlWUjjZnTF1GBiikEORYQ58xQvEk1Ai1g=",
           "py3"
         ]
       }
@@ -54815,6 +54863,20 @@
       ]
     }
   },
+  "jsonpath-cli": {
+    "0.0.0.dev0": {
+      "sdist": [
+        "HOsW20PiaXHAuw+ZRTeHqIWYEajSw2VTb2GsYM+PvS4=",
+        "jsonpath_cli-0.0.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "jsonpath_cli-0.0.0.dev0-py3-none-any.whl": [
+          "HmaVxnHYC+VUGruJ8eduihnKUzGa9DBLcKnttGGlW3Q=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jsonproject": {
     "0.1.1": {
       "sdist": [
@@ -79466,6 +79528,14 @@
       "wheels": {
         "odoo_addon_commission-16.0.1.0.0.4-py3-none-any.whl": [
           "GUMKfJZr6N8UCtA7SVgCOgGqRfV2zSs9/I+qm/SoZTY=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.6": {
+      "wheels": {
+        "odoo_addon_commission-16.0.1.0.0.6-py3-none-any.whl": [
+          "Gd23aPxtIcEOzGKIWL/3IM7t9qJuoFJM99QtghpjnDA=",
           "py3"
         ]
       }
@@ -117017,6 +117087,32 @@
       }
     }
   },
+  "sequntial-calibrationwithsa": {
+    "0.0.1": {
+      "wheels": {
+        "sequntial_calibrationWithSA-0.0.1-py3-none-any.whl": [
+          "xTC6tU9njIfczafZo62p1wj7reNHDzN+RMurJTMNvio=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "sequntial_calibrationWithSA-0.0.2-py3-none-any.whl": [
+          "+uH5+6hvPPpNubQUp7YSI1ceaH8M0GA7ejPvDTM57Gg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "sequntial_calibrationWithSA-0.0.3-py3-none-any.whl": [
+          "ldOapaQHX5Sw7OyleXCWQElG97m/epuXLpk4z7YlgoE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sercomm": {
     "0.1.1": {
       "wheels": {
@@ -142898,6 +142994,18 @@
       "wheels": {
         "ukr_itn-0.1.2-py3-none-any.whl": [
           "JIRep9QUwFyCLPn6sbjgk1ArsWNqGuNUUcfd6/26xSA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "HWutedn6SjyznwS9WeabgKNE/W7X0Q+WjflCxDWo7eM=",
+        "ukr_itn-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "ukr_itn-0.1.3-py3-none-any.whl": [
+          "3ek3plEtbJHOBS7/ZqkgBc/YU5NRCh/8v9+1Z3sFrh0=",
           "py3"
         ]
       }

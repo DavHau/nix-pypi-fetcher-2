@@ -19012,6 +19012,18 @@
         ]
       }
     },
+    "2.0.199": {
+      "sdist": [
+        "ahlP3qZ7cFoGI2iSU1KknjqXd2Ve4pDsYT1FfCFnOO0=",
+        "cdk-tweet-queue-2.0.199.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.199-py3-none-any.whl": [
+          "eict+Ap3rS+uETCuz+tB45A6X82P/uvf7a8TVfxP5js=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "wR0sGbRRdjlJzHUmtcNg8WHByLJsKpdbpOXAf0BWwRI=",
@@ -49360,6 +49372,22 @@
         ],
         "graphscope_client-0.19.0a20221228-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "0+5y/Lav7Oh4o+tUL0S0r04T1EPmJN4xUA0G70LYWVM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.19.0a20221230": {
+      "wheels": {
+        "graphscope_client-0.19.0a20221230-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8f5M/f7DzNVPHTJ+tdMwWKFKiCBrDE6BZC6hNnvVus8=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20221230-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EfFTYaMFCSHTfXwVpx7yPxxLx3birO7hcmiMMnZPm1w=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20221230-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jsxcD9ROhsy6M1Ln1IiyY2ELNk34j8ezhzHLKpNd13Y=",
           "cp39"
         ]
       }
@@ -97865,6 +97893,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "postgreslite": {
+    "0.0.1": {
+      "sdist": [
+        "DvUwcC5pEQH9QpFx5WjvEOSD0daawt8r1QlN3DCMukU=",
+        "postgreslite-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "ckaCVn0uLX3YrYdtVXAzZvuL76sa2TACnDsktqrnzd4=",
+        "postgreslite-0.0.2.tar.gz"
+      ]
     }
   },
   "press": {

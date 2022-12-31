@@ -4439,6 +4439,18 @@
           "py3"
         ]
       }
+    },
+    "3.3.0rc1": {
+      "sdist": [
+        "/NrPiuDokiyH4YQ/mST9XPipZIHw+ewLlWmO40k5KmI=",
+        "apache-airflow-providers-ftp-3.3.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_ftp-3.3.0rc1-py3-none-any.whl": [
+          "1R15moqeAuHOAqOGs7h1UWGj1kCoAkWg7pTvOxE9KwQ=",
+          "py3"
+        ]
+      }
     }
   },
   "apachecn-indie-wiki": {
@@ -9342,6 +9354,18 @@
       "wheels": {
         "aws_cdk.aws_autoscaling_hooktargets-1.186.0-py3-none-any.whl": [
           "WDWG5zor2KZH6BtC/MVWEUz9Rc4jzqdxFYDzksn++Wc=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "oN0RTlvIoUu/dq5sgWYDwLYnjubY5f4haG5TGq+pmsA=",
+        "aws-cdk.aws-autoscaling-hooktargets-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscaling_hooktargets-1.186.1-py3-none-any.whl": [
+          "S/VafneAYkL5Dq0/EkJ474lyihupVdZ2ElmrKxg58i4=",
           "py3"
         ]
       }
@@ -27858,6 +27882,18 @@
       "wheels": {
         "datadog_lambda-4.65.0-py3-none-any.whl": [
           "zxC/AFSQX33uu6Tl3NXC3dMaAufALKxvbo4p2AcW1kA=",
+          "py3"
+        ]
+      }
+    },
+    "4.66.0": {
+      "sdist": [
+        "IOlzp/AbzhEwGNtyEV74U29llkdk/ITkolEraMTIiX0=",
+        "datadog_lambda-4.66.0.tar.gz"
+      ],
+      "wheels": {
+        "datadog_lambda-4.66.0-py3-none-any.whl": [
+          "R0bHT042g+wlAzox5CU3+136qjaFnGZwk6PJNCPY2Fs=",
           "py3"
         ]
       }
@@ -72044,6 +72080,12 @@
         "lino-noi-22.11.1.tar.gz"
       ]
     },
+    "22.12.0": {
+      "sdist": [
+        "a8dMe1pcZIcpmRury7P4UoXvObwpdJpIdozWqNyBEz0=",
+        "lino-noi-22.12.0.tar.gz"
+      ]
+    },
     "22.3.0": {
       "sdist": [
         "vtdmvesM3w5f0DRnkiNzjBJubVckgELtkQUn2hdsOlc=",
@@ -95162,6 +95204,12 @@
         "proactive-13.1.0.2212300241.dev0.zip"
       ]
     },
+    "13.1.0.2212310240.dev0": {
+      "sdist": [
+        "9IgQCZThCq+nDlPjK0+xlB2EtqZr4STrn1M2OJNWHs4=",
+        "proactive-13.1.0.2212310240.dev0.zip"
+      ]
+    },
     "13.1.1.2212182207.dev0": {
       "sdist": [
         "hcTQsCB22rsAzxYjV/+6nG22zFdUzgINev+tcAa3OSM=",
@@ -106906,6 +106954,30 @@
       "wheels": {
         "PySwitchbot-0.34.1-py3-none-any.whl": [
           "oqLq++m95M0r0mBVeLgE5i+oGaVbJOhoCMao/gSvGd4=",
+          "py3"
+        ]
+      }
+    },
+    "0.35.0": {
+      "sdist": [
+        "2Rj2NhZAtK69hAcODS4kx1fXlnXGWeU96AU6UBHZ/oI=",
+        "PySwitchbot-0.35.0.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.35.0-py3-none-any.whl": [
+          "GwgRReAxBGSghmsbdwLyyBG9qatZ4Lx0REIqzSSA/lM=",
+          "py3"
+        ]
+      }
+    },
+    "0.36.0": {
+      "sdist": [
+        "ay1y33E0LYNnF5K/Z2W1maTIImECEcA1ZA9WYYtD2O8=",
+        "PySwitchbot-0.36.0.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.36.0-py3-none-any.whl": [
+          "7Inpa2zmooTydlCqXkPBauGgNvETrZpMp+MLGnIwHDQ=",
           "py3"
         ]
       }

@@ -2087,6 +2087,12 @@
         "gkVdOtfr5GP6uFLvc1pc0liC9GPWh+XOz/9IHqE9CrA=",
         "aeppl-nightly-0.0.50.dev20221230.tar.gz"
       ]
+    },
+    "0.0.50.dev20221231": {
+      "sdist": [
+        "jCIwOCsw6HMJXvphq/iRELWwXx3o65YAAxBjNN3fNYg=",
+        "aeppl-nightly-0.0.50.dev20221231.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -10718,6 +10724,18 @@
         ]
       }
     },
+    "1.186.1": {
+      "sdist": [
+        "Nral56kc/60R8zJLgtVnCyLUOP4ZM8QM75bzlk2uAls=",
+        "aws-cdk.aws-batch-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_batch-1.186.1-py3-none-any.whl": [
+          "buk/H8Usdaa9T+tgPq6RnW09sv9plgJ/skYdnVCsX50=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "oJ9Ovl/1iSYAo5lYIeaACtUg3VOQYOKRkQX2FxJKvJA=",
@@ -12914,6 +12932,42 @@
       "wheels": {
         "bbb_dl-0.9.6-py3-none-any.whl": [
           "sJlWMuvCXzWkPJXNKbAqm7wZsVHyOnR/x5fLqw/CZO0=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.7": {
+      "sdist": [
+        "Ptp0vBOiUxA2mkzfEdCmOQjHn6WXYPJ7zLHH1LVcxxI=",
+        "bbb-dl-0.9.7.tar.gz"
+      ],
+      "wheels": {
+        "bbb_dl-0.9.7-py3-none-any.whl": [
+          "hs4dLo6/t8JAGKMOp7VkyVEsUgw0gM8pd2tlcvUxbxg=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.8": {
+      "sdist": [
+        "FCKtaEamXauII/MoLAociFta6AEWXhFYKegkPd+WTlQ=",
+        "bbb-dl-0.9.8.tar.gz"
+      ],
+      "wheels": {
+        "bbb_dl-0.9.8-py3-none-any.whl": [
+          "nQDV2VCCF0KsvBZbTBD1DCYoBCLogoebwOqnQpKIl+Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.8.2": {
+      "sdist": [
+        "10ybL4o0gg15QSg566xTF5LzaOaSsshd3ZWZ7gA995Q=",
+        "bbb-dl-0.9.8.2.tar.gz"
+      ],
+      "wheels": {
+        "bbb_dl-0.9.8.2-py3-none-any.whl": [
+          "52Ra4FTyJWeQHdTVCGcGSJoe8q9nf9te1UPsNPCQP9w=",
           "py3"
         ]
       }
@@ -33791,6 +33845,20 @@
         "S9zE4GCowh+BX/ges+hMXDrCefyK64qHR4oXNJM+1s8=",
         "dvidraw-0.0.5.tar.gz"
       ]
+    }
+  },
+  "dw-content-tools": {
+    "0.1.0": {
+      "sdist": [
+        "9Uwpn9+QSek3QX4xmB/m4QJmdI/Ck2cJRuKpsO5LHrs=",
+        "dw_content_tools-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dw_content_tools-0.1.0-py3-none-any.whl": [
+          "hdQNS5LRqp69NW76e9TtRKhcdwEY0ls2HavWT3ki7w4=",
+          "py3"
+        ]
+      }
     }
   },
   "dxw": {
@@ -85430,6 +85498,14 @@
       "wheels": {
         "netschoolapi-11.0.1-py3-none-any.whl": [
           "Xz0mCX0sK/HYaU+BMvSbNgpmHyPKrjzu99coaVuQDiU=",
+          "py3"
+        ]
+      }
+    },
+    "11.0.2": {
+      "wheels": {
+        "netschoolapi-11.0.2-py3-none-any.whl": [
+          "44blkSXpw1obP+A8FqwVdHifPylEg/lkA7nvKWFB9uk=",
           "py3"
         ]
       }
@@ -152506,6 +152582,18 @@
       "wheels": {
         "vocably-0.0.7-py3-none-any.whl": [
           "yIlcBY4vr+iXheBZcLmqExCH+hIfnfpTuGaorc8Fu1g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "Jrw4QZEyl4Y7PvFczoeldDvT+OSvgFdLeT928rVGxXo=",
+        "vocably-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "vocably-0.0.8-py3-none-any.whl": [
+          "M+UrOuRBkjGUyDITBrGvEwLuhIbTp1uLqQMW09jrumc=",
           "py3"
         ]
       }

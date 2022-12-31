@@ -4213,6 +4213,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "5Vqx4A01B2vZAQIaej6stCZ9bDYGsxmW9U6M8Dn7gAM=",
+        "anyio_serial-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "anyio_serial-0.2.1-py3-none-any.whl": [
+          "pcPbuAlkY2eJMOdwmtGUU254Sc0PVhtVuwT8mkTFMpw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "QxVt9L6cF5ZPmZjv6MbnLmiKD/e6NcLHhQQA549R2CI=",
+        "anyio_serial-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "anyio_serial-0.2.2-py3-none-any.whl": [
+          "tjONzRscjE5Z9lhKbn/rkRApHMLktob1BZGW1HqunfA=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-exasol": {
@@ -5500,6 +5524,18 @@
       "wheels": {
         "apache_airflow_providers_sftp-4.2.0rc1-py3-none-any.whl": [
           "4fR+XxqePNGwdd4cJMpOH+URkTkSzUfQKoeWMEAHbDw=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.1rc1": {
+      "sdist": [
+        "aWuMc9m670dzJepwtESLzUEBOmTgewHytPQ/Rlanr8Q=",
+        "apache-airflow-providers-sftp-4.2.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_sftp-4.2.1rc1-py3-none-any.whl": [
+          "uVCYRQrON7Yd5z9OBYDrQWof2MymiBYH9rKrF3upY88=",
           "py3"
         ]
       }
@@ -11228,6 +11264,18 @@
         ]
       }
     },
+    "1.186.1": {
+      "sdist": [
+        "+8nmAXYkP9R3AKBgrOuYwip8xLJqnEhvjbiKguykS3I=",
+        "aws-cdk.aws-amplify-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amplify-1.186.1-py3-none-any.whl": [
+          "zzTdedinInMSyv26B4oTSxQHeOmunLHLL+6aThEmUfw=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "id1aYWCBlrDQMSQE1FhR1C+0Y8uwF8iRuP762K0fw+c=",
@@ -13686,6 +13734,18 @@
       "wheels": {
         "aws_cdk.aws_emrcontainers-1.186.0-py3-none-any.whl": [
           "eY8kzj5TV2OF8KhE+XV7NsaCNxCbGkN/UA1216SHHtQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "CUPFcqX9VS/P9iI3zEoVbo1+mBLjq3NWv3PivDQ8jtI=",
+        "aws-cdk.aws-emrcontainers-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrcontainers-1.186.1-py3-none-any.whl": [
+          "GSF/Sw6y/WZWOOZuo50KkM+zHn+piIJHm7S8+Mr/pVY=",
           "py3"
         ]
       }
@@ -113236,6 +113296,20 @@
       "wheels": {
         "pyrin-0.5.6-py3-none-any.whl": [
           "omYOwSuujV8OXustTtFshnuNIRs6tm+9ZUwHck7ObQs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pyscpi": {
+    "0.1.0": {
+      "sdist": [
+        "oNPoFpQiYX5EjhV5lsc7p86WNNsq4GdooymvQk2RDtg=",
+        "pyscpi-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyscpi-0.1.0-py3-none-any.whl": [
+          "IFV3N2R84laIdejekGDPU8s45hhJxfoss5CRJP4cZk4=",
           "py3"
         ]
       }

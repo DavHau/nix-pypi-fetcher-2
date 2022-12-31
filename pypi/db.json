@@ -5071,6 +5071,18 @@
           "py3"
         ]
       }
+    },
+    "4.3.2rc1": {
+      "sdist": [
+        "RV05/E47sL0rmm98fON2MRVi4MfKZUNeJbc3aQJ6Sng=",
+        "apache-airflow-providers-elasticsearch-4.3.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_elasticsearch-4.3.2rc1-py3-none-any.whl": [
+          "4EVqTcv55fcI1pWi2wrbrzlHHtUsh0qJI9Ea4A4TrLU=",
+          "py3"
+        ]
+      }
     }
   },
   "apachecn-cv-zh-pt2": {
@@ -8712,6 +8724,18 @@
       "wheels": {
         "aws_cdk.aws_cloudfront-1.186.0-py3-none-any.whl": [
           "DN3iixlUqOHaVd7v1oVuTZw+ae/XmBIyu/bY0R7QYok=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "O5U9Psa4PSpWW1mi7e+uF5sCcDd9RBmiNUIdYoOCZK8=",
+        "aws-cdk.aws-cloudfront-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront-1.186.1-py3-none-any.whl": [
+          "tE1WDLIet+31Kq9QLFFaklijROB+AiEHHU3eKSOXVpg=",
           "py3"
         ]
       }
@@ -102627,6 +102651,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "+03M+VWXXdS0BbyhjQBe3Vf/AwzpciwohR+ZMDVJpvQ=",
+        "pwrdrvr.microapps.cdk-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pwrdrvr.microapps.cdk-0.3.1-py3-none-any.whl": [
+          "RbyJSf5JNm3W57xlqTxv6PUrHzaGNLjrXsfkgYeSgDI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2a1": {
+      "sdist": [
+        "G2f5YebWsK1tjUgjANAgPGCZyFlbblTKXWuPsRBDy3w=",
+        "pwrdrvr.microapps.cdk-0.3.2a1.tar.gz"
+      ],
+      "wheels": {
+        "pwrdrvr.microapps.cdk-0.3.2a1-py3-none-any.whl": [
+          "Ie6qikbTsiN9h+WnhB7vjplcS+bcMhvFTCgnRD02peI=",
+          "py3"
+        ]
+      }
     }
   },
   "pxhttp": {
@@ -132307,6 +132355,32 @@
       }
     }
   },
+  "taskbox": {
+    "0.0.1": {
+      "sdist": [
+        "Y0SsGeRlsqiPNnhNKdAST0dGNexd3GKNyelqjg27s7E=",
+        "taskbox-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "taskbox-0.0.1-py3-none-any.whl": [
+          "cVLZXfx/0n1o9tg6HznX9KvpfrlCzkwJgurfLuDwWtQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "sq88TjK5Yy5/FYIxyahr3f5VM3X3642Hwj88i0BCTYY=",
+        "taskbox-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "taskbox-0.0.2-py3-none-any.whl": [
+          "t6kfCJ49iAUu+lvwtuKwPM9tZyDIumyVtFD106Ggqwg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "taskpromises": {
     "0.1.0a1": {
       "sdist": [
@@ -144762,6 +144836,18 @@
       "wheels": {
         "torchdatasets_nightly-1672360497-py3-none-any.whl": [
           "m6cpx3/9GbugeFRTWYqG5KlamzT4oaEa2nkE1zemgvs=",
+          "py3"
+        ]
+      }
+    },
+    "1672446779": {
+      "sdist": [
+        "Q86KZD4GnMNcqgtsFNezQDT7YRQiy3g5jpV1OFUUcJU=",
+        "torchdatasets-nightly-1672446779.tar.gz"
+      ],
+      "wheels": {
+        "torchdatasets_nightly-1672446779-py3-none-any.whl": [
+          "4bbqiCOtZYaIikPHhfCe6+aeVgBOpWhg3UXHeNYQyJ8=",
           "py3"
         ]
       }

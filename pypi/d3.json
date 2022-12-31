@@ -10456,6 +10456,18 @@
         ]
       }
     },
+    "1.186.1": {
+      "sdist": [
+        "OdNbUmPWXX6vMYDaHMcPKs10+BasDOWfTolFZ5sqF2s=",
+        "aws-cdk.aws-fsx-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_fsx-1.186.1-py3-none-any.whl": [
+          "rZyW1S/wA/Zi6J8nh30I06GDU0btANsfhrfx0EYYSo8=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "9BoO92eQHmotbPVv2cqQ7mkJSyI7APoisgs6BVTs5Jw=",
@@ -94998,6 +95010,18 @@
         ]
       }
     },
+    "0.18.5": {
+      "sdist": [
+        "DuMZbzvKhOEC6Lz+zfsewlT+fAsQlk0Dlbo23ce14I0=",
+        "neclib-0.18.5.tar.gz"
+      ],
+      "wheels": {
+        "neclib-0.18.5-py3-none-any.whl": [
+          "Ib6mxLko07fsxswP7wYdEswL+sbB14Nw5/p/3LxVKFA=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ZEW/sEEnmWk0Fb/2/YXEb6GrcKiK0sDmNiJ7ENqtMWU=",
@@ -99086,6 +99110,14 @@
       "wheels": {
         "odoo13_addon_contract-13.0.2.10.1.dev3-py3-none-any.whl": [
           "TTPrrtvqV+Y69TdaAbSD3kgXR/lBF4+dXJGNlGDF0IM=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.10.1.dev4": {
+      "wheels": {
+        "odoo13_addon_contract-13.0.2.10.1.dev4-py3-none-any.whl": [
+          "Zrr9tq+zmJZ7lP9Io7Cq2FbM3f7X85kPHGCHFMDcE/M=",
           "py3"
         ]
       }
@@ -112045,6 +112077,62 @@
           "py3"
         ]
       }
+    }
+  },
+  "py2n": {
+    "0.0.1": {
+      "sdist": [
+        "EqgUSIWsW2//VQTh35ttGJhbznsowQvZKsIN7/IpB2I=",
+        "py2n-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "Ees+eh6sBLJJvLHsHdddsYl1/q5X8P5VMFlDZTnXJZU=",
+        "py2n-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "tGEuF3C4meIdIIC1tzxLlZHfYZeIMjbshKnJdhjzBxg=",
+        "py2n-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "O9l2tWdFgF4EUoIc0llLDY3zU0ZZj/G1NJBH4zzjjEk=",
+        "py2n-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "UKyjn5V1v2raiePIcVsKVd1CkkybNqR+cP8H4UcsBzY=",
+        "py2n-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "AwRPiKSlStf2VKibwXsk/XYP6eTmgzBzdNamOlktg7c=",
+        "py2n-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "ASS0CbEWCt7LOdafCcs8ZWcBNgj8RWiUrT0uPH8fmQ8=",
+        "py2n-0.0.7.tar.gz"
+      ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "YR7Bd8axSqfg5b3BWZn0XdAWm8tE0IOUIcS4vRO5fXg=",
+        "py2n-0.0.8.tar.gz"
+      ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "yimshOuN/d64D0ZXbXZYGkAGD6SvaYqk/rMzgeH2yv8=",
+        "py2n-0.0.9.tar.gz"
+      ]
     }
   },
   "pya10lime": {
@@ -132485,6 +132573,12 @@
         "5sWxBnZa7Jj/dXsabd1iq1ynTL/C2mrzlrC5c0YkYx4=",
         "slpkg-4.4.2.tar.gz"
       ]
+    },
+    "4.4.3": {
+      "sdist": [
+        "xs60ODHHO9e3nGquwszgJiuWHCBbdUvgxqUQcXAehaQ=",
+        "slpkg-4.4.3.tar.gz"
+      ]
     }
   },
   "smartbetaapi": {
@@ -144089,6 +144183,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.1": {
+      "sdist": [
+        "v9pneMF0t2cvhcvXTecY1N1F6CCrECQotP2vimk7tNs=",
+        "tidy3d-beta-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "tidy3d_beta-1.8.1-py3-none-any.whl": [
+          "7CiuaB1Ndarkq9zgJVpH7eu1q5b2dUgDPVS5lLgu2n0=",
+          "py3"
+        ]
+      }
     }
   },
   "timeseriesql-matplotlib": {
@@ -145670,6 +145776,42 @@
       "wheels": {
         "trendhunter-0.0.2-py3-none-any.whl": [
           "bOoiVKFjot/0MroG3tcfXRT2mgxDudPv3iDPQ9ReLR4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "ewjF6wFyQe6pxYVxRCxysJ6RMx/4SHAAiWMdsEE1u34=",
+        "trendhunter-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "trendhunter-0.0.3-py3-none-any.whl": [
+          "2UtLVPw6XHfWR6fwqaufMC9pjIKOoA1WRTsyC6XBQLE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "WR6CGF4Zr/im6lLK9vaf3n8wpSbrTef/LnZAk4lw+9o=",
+        "trendhunter-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "trendhunter-0.0.4-py3-none-any.whl": [
+          "YhyxWc/0OCstWQFVPAhHASre4SJcMNM1w+DPi+Zcv00=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "NJnkajS3QmirKDu6a7MaRfE+9m9oVCAqP7sNxs8Z4aE=",
+        "trendhunter-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "trendhunter-0.0.5-py3-none-any.whl": [
+          "UoDfNXEKJN+dG/OArn+X2Ucmk1HZ+j/rEvW/XWi3BWw=",
           "py3"
         ]
       }

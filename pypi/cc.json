@@ -6033,6 +6033,18 @@
           "py3"
         ]
       }
+    },
+    "4.2.1rc1": {
+      "sdist": [
+        "zP0iOpGNhA2inz4+FRJdDIp0z7Ji6bxgDU2oD9OP7IE=",
+        "apache-airflow-providers-presto-4.2.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_presto-4.2.1rc1-py3-none-any.whl": [
+          "a5y2MKXAs0c7R9bkqJeBs0SDWw7MsLUyR3jpO77MJ1I=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-redis": {
@@ -9798,6 +9810,18 @@
       "wheels": {
         "aws_cdk.asset_awscli_v1-2.2.45-py3-none-any.whl": [
           "2X+5nuDp/t+kzR2A+GsEcMdI00Boypr3KQiFDahR2qM=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.46": {
+      "sdist": [
+        "YhH/BCwpIXi4k4PGTCyE0eL+2Bhhm5LrZ9MsvZKZHME=",
+        "aws-cdk.asset-awscli-v1-2.2.46.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.46-py3-none-any.whl": [
+          "+9OlmI3f7Iqs1czw7Pv2iaKiHa7x0ZbiJxBjBjH2CYU=",
           "py3"
         ]
       }
@@ -85971,6 +85995,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.6": {
+      "sdist": [
+        "JWQqV2X+2mDkyFaiZU6yc/dzkf3GQLDbR8s3LpDaRAY=",
+        "osrsreboxed-2.3.6.tar.gz"
+      ],
+      "wheels": {
+        "osrsreboxed-2.3.6-py3-none-any.whl": [
+          "1wI7kwESJHLcgIZAVnV+1djM4bkaPn1Uk4ZTX4kqDpw=",
+          "py3"
+        ]
+      }
     }
   },
   "oxdork": {
@@ -103026,6 +103062,30 @@
       "wheels": {
         "pyutmodel-1.3.0-py3-none-any.whl": [
           "/puqjqsZHEabQJni+CMK+FQqYVPWCDWeP671/k5g/CE=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "kDMSxF10tdHljoHs1u6MUzg6kQMjIGxktiXvImTDPOs=",
+        "pyutmodel-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pyutmodel-1.3.1-py3-none-any.whl": [
+          "JAKoBPFRe3mOi+V0aHKbAYniXtKBWpIZtDbyWz5iSag=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "n7OatW7/KI3dCNxrJ/SjEvzNjaWub/+rCkZ5AFyHPcM=",
+        "pyutmodel-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "pyutmodel-1.3.2-py3-none-any.whl": [
+          "STJ8wZyIRSwm1GhBFFAYkJ40QK0eZWVhwJ6L+lRjrek=",
           "py3"
         ]
       }
@@ -144784,6 +144844,18 @@
       "wheels": {
         "webull_python_sdk_trade_events_core-0.1.2-py3-none-any.whl": [
           "iKXhKoH9hkcVOu9bqmgTBgIozTutATfm5v2UmL/Mi1g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "cBsi/7QRweh14IoGKN23Q1ttZW9zb27UiVpeC8AORJo=",
+        "webull-python-sdk-trade-events-core-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "webull_python_sdk_trade_events_core-0.1.3-py3-none-any.whl": [
+          "+gNMZpd/J8dP6PAUfUymz1jfqaXaG6JNRMqYrb5oG+g=",
           "py3"
         ]
       }

@@ -13656,6 +13656,18 @@
         ]
       }
     },
+    "1.186.1": {
+      "sdist": [
+        "HRUp31DJAO6JbpZTnrVa4O44yNzGJPQ7q7EE2KCc0lE=",
+        "aws-cdk.aws-route53-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53-1.186.1-py3-none-any.whl": [
+          "MDhgIxAyM+ixaZyey6+0uy1pa//wzKXulvLjev5hgIE=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "x6HgSF3rLqXNLfvO7oP2BgtkRV8eWyc7twc/7E5j598=",
@@ -45491,6 +45503,12 @@
         "eitNDAy5QD0TVo9X/moq8Gn4PG/1G0G0P1LHy0l91GY=",
         "django-verified-email-field-1.8.1.tar.gz"
       ]
+    },
+    "1.9.0": {
+      "sdist": [
+        "+iDIiwPl5Ujr+mW6WIVpZCVGzmVfNomKtNSTqaeeD3Q=",
+        "django-verified-email-field-1.9.0.tar.gz"
+      ]
     }
   },
   "django-watermark-zemi4": {
@@ -65358,6 +65376,18 @@
         ]
       }
     },
+    "0.3.10": {
+      "sdist": [
+        "vWSOSZWaRN96MIBUvDaHT+9A4sur1EcyqOGl/ojiuSo=",
+        "hyperborea3-0.3.10.tar.gz"
+      ],
+      "wheels": {
+        "hyperborea3-0.3.10-py3-none-any.whl": [
+          "874Vy4EN2H7iBahLW+hqn0EAa8Laxhr3lQ//L/u+lXI=",
+          "py3"
+        ]
+      }
+    },
     "0.3.2": {
       "sdist": [
         "TLzK1voP2pq2q/XEQWKQ+3BCsWF1gianDBc24Bwohaw=",
@@ -65402,6 +65432,42 @@
       "wheels": {
         "hyperborea3-0.3.9-py3-none-any.whl": [
           "48eLWCTW2j0Ec2GrvKLDQxyYHxLPMNOvcY58+tjz+tY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "aIu+BK3z4+ZO08ynkozVqcNRQDxMKK/HWBejlcEUHrs=",
+        "hyperborea3-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "hyperborea3-0.4.0-py3-none-any.whl": [
+          "V2v2oKhIlQF1KSWyfnvG/U5PVaX8m9gaLHG+1qucUAk=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "CEDd901RyPty43SdsH9N0A763AHyG1TShvfvG9U0DK0=",
+        "hyperborea3-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "hyperborea3-0.4.1-py3-none-any.whl": [
+          "fko4aJa8HeEbq/ArdgbZkaqLSITEdkPknfaNWyeFg7s=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "w0jq77YA2FvSIjFX0bBXu38h/+sgSIHeZVdM9ivEujQ=",
+        "hyperborea3-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "hyperborea3-0.4.2-py3-none-any.whl": [
+          "t8xiefkgP9BJZuIGRO2EUFrLnHJnPko/NKe1uTdI4c0=",
           "py3"
         ]
       }
@@ -70672,6 +70738,54 @@
       "wheels": {
         "kawapack-0.3.2-py3-none-any.whl": [
           "wqFCgMAWwJ4sbgIVt/yoDfG3wOkTzefVzgcQeHXQ3Hc=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "7XasG6AENm9vu8WaxHS9MtlCTnYASfVi/NTt0iZTP/U=",
+        "kawapack-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "kawapack-0.4.0-py3-none-any.whl": [
+          "4mvp1ev91BjwXP8zsXmB+8HrpL5mVisUjm1urb8NlyU=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "9uk4yMaFvYbbbI66m/9n+WP8J+sagIo110J1u5vjYvM=",
+        "kawapack-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "kawapack-0.4.1-py3-none-any.whl": [
+          "iyoEbgSvjdHvUdP7jjOoZ+Us2zvQ6bu71jP6yJCy5AQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "euiSrH/r+Hkj5/rXS0DuCP7+mtMkUOwWdBwG9W/eaoA=",
+        "kawapack-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "kawapack-0.4.2-py3-none-any.whl": [
+          "AKeM97EzoodfpKKpa7JrTrmoFrjNm8Y7TrIG7YFtSq8=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "z/FyZj+5m/gn/uDEW+n66WPfXu29O/4ZJjzDNUmbegk=",
+        "kawapack-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "kawapack-0.5.0-py3-none-any.whl": [
+          "kHHNoTRkxOU3AqR6h8hhEJlkVoVfwIjtcl2S7LA7Y30=",
           "py3"
         ]
       }

@@ -9013,6 +9013,18 @@
           "py3"
         ]
       }
+    },
+    "1.186.1": {
+      "sdist": [
+        "Jylg1GVR/kF6cTdIRDpsXeFSybO7YFv4zA/2Pa4uHDU=",
+        "aws-cdk.aws-refactorspaces-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_refactorspaces-1.186.1-py3-none-any.whl": [
+          "5bNQTDOxn9IlwiXKojd1qnk4mbpZoWn80S2IjL+dvTg=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-robomaker": {
@@ -10596,6 +10608,18 @@
       "wheels": {
         "aws_cdk.aws_robomaker-1.186.0-py3-none-any.whl": [
           "J3VfXVPOibdhJ2U81BAPC9dYGq+2Dd6QHsmOBUolrcc=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "xfzloyDNPzraDQN8kX2QJWaT6JyxDQ7rQpQIKNf5s18=",
+        "aws-cdk.aws-robomaker-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_robomaker-1.186.1-py3-none-any.whl": [
+          "X3WWwSakrZEdSWaCLVbM4/nZNziuenG31se+2MQoVFE=",
           "py3"
         ]
       }
@@ -17642,6 +17666,18 @@
       "wheels": {
         "cdklabs.cdk_ethereum_node-0.0.6-py3-none-any.whl": [
           "Sm8TCKa7VMWiEhkj1rq+23ft7dE1WtO2xzee/oFaQVI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.60": {
+      "sdist": [
+        "9JdSUwDGkcAdLMlf3YR+VHs1YV+DfRX/zQv7zwcrOf4=",
+        "cdklabs.cdk-ethereum-node-0.0.60.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.cdk_ethereum_node-0.0.60-py3-none-any.whl": [
+          "4e0sLo43PGnHZG9hVR7ZQCuD761tz+BWQRF+kZWFBK8=",
           "py3"
         ]
       }
@@ -88213,6 +88249,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.3a6": {
+      "wheels": {
+        "ovos_plugin_common_play-0.0.3a6-py3-none-any.whl": [
+          "UP6KQnOqXL53Ggw3c5CAlmN0dZdSLO8i6raVwzfkrZw=",
+          "py3"
+        ]
+      }
     }
   },
   "ovos-tts-plugin-mimic3-server": {
@@ -98860,6 +98904,12 @@
       "sdist": [
         "rFjkM11dVdDjHifIzva/j9ffVzv4IC9SrSpGigK6098=",
         "pyhamtools-0.8.6.tar.gz"
+      ]
+    },
+    "0.8.7": {
+      "sdist": [
+        "8yvtCghnZ5NmOGhvy57Wg/5K7IHa5bTUdEMLbKZVWtM=",
+        "pyhamtools-0.8.7.tar.gz"
       ]
     }
   },
@@ -111879,6 +111929,68 @@
         "sHfsiMLcF5UUqOH8zTf7HVptJoiJG7bh7ZwzxJcOVCQ=",
         "ring-0.9.1.tar.gz"
       ]
+    }
+  },
+  "ringxor": {
+    "0.0.1": {
+      "sdist": [
+        "xnjtRovDLQLEcQhOl78F0YHRcRZo6k/SZ+voPWwkBUs=",
+        "ringxor-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ringxor-0.0.1-py3-none-any.whl": [
+          "Me45/SMKIlwG5I5b3LqJHEe2Mw0f9wZXud5gzJUUyFY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a0": {
+      "sdist": [
+        "Z31Hs7Dhwg+Qus28pmcOzD2kN7yCZot/FTzcOjtRKmI=",
+        "ringxor-0.0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "ringxor-0.0.1a0-py3-none-any.whl": [
+          "28VkZGiGrzgCdxEKQSEPNvFnhrsHqjabdWDKDKFh0gc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "zdaHnfXLOssjjbdpzjDrUefG0wiAkG90j9k5Ytrj1kU=",
+        "ringxor-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ringxor-0.0.2-py3-none-any.whl": [
+          "W8YPEVyxVsQAyvVF9CI4d/W7J9uvbRdLU9sfjyeXcqE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2.1": {
+      "sdist": [
+        "+Ik7TmTwSQhAO5JvHv25/xFfw/YHOwDY3mtrkb0h4Rw=",
+        "ringxor-0.0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "ringxor-0.0.2.1-py3-none-any.whl": [
+          "qlGcypNrKvfYKe/2Q+r2aLkc8IJE0WkeEVVW/+nMxho=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2.2": {
+      "sdist": [
+        "BgPZTy4nd31z2xXvSm+E2DerNku4TtE9IzU31mi/7+Q=",
+        "ringxor-0.0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "ringxor-0.0.2.2-py3-none-any.whl": [
+          "Wl+xgfmAa5jzvj4cozLk5CcQwW1cxemgLMwFZ5+vVIs=",
+          "py3"
+        ]
+      }
     }
   },
   "risk-compliance": {

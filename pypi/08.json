@@ -5755,6 +5755,18 @@
           "py3"
         ]
       }
+    },
+    "1.186.1": {
+      "sdist": [
+        "cPdc0tE8ockUarsr7Suj5LBhOfh/2xucITAeTHp9adM=",
+        "aws-cdk.aws-connectcampaigns-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_connectcampaigns-1.186.1-py3-none-any.whl": [
+          "D29tJUbRySoO8JjhnW6Ti0L5GDBKMEpwbN73uzO/mKk=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-synthetics-alpha": {
@@ -62208,6 +62220,12 @@
         "http2py-0.1.21.tar.gz"
       ]
     },
+    "0.1.22": {
+      "sdist": [
+        "0b2Y7qS7TSVzbU0w6/ylPvnswZeX43N1MtkrpPWjVfk=",
+        "http2py-0.1.22.tar.gz"
+      ]
+    },
     "0.1.3": {
       "sdist": [
         "XAVMdztAY0C0XciVahTx6mSww3iyjSrmdQyoCunURSY=",
@@ -91772,6 +91790,26 @@
         ],
         "opencv_contrib_python_rolling-4.6.0.20221217-cp37-abi3-macosx_11_0_arm64.whl": [
           "z7LUS8TXrcGtjKTpsv+XO+MavRfuW/qQwxsHclW2SmY=",
+          "cp37"
+        ]
+      }
+    },
+    "4.7.0.68": {
+      "wheels": {
+        "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-macosx_10_13_x86_64.whl": [
+          "Vtl12xnn7Cj23ZPfECadtjDNRtIfrFCECrlRL6ngIL4=",
+          "cp37"
+        ],
+        "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1ojtHD03RqrtFrA8Pe7EcRVCSvaRuRIcO437WZAPImE=",
+          "cp37"
+        ],
+        "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-win32.whl": [
+          "DiZOgml7/lX5LT+GGy3+wox/Oc3M2f2PLumaZHtj46A=",
+          "cp37"
+        ],
+        "opencv_contrib_python_rolling-4.7.0.68-cp37-abi3-win_amd64.whl": [
+          "etAAEaMXy2LrdviwSy4IIbTk+pJ3OPxR6WQGzi7alFc=",
           "cp37"
         ]
       }

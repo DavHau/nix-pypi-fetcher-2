@@ -3237,6 +3237,12 @@
         "7A2ahPC0JPuQH85jaBnA9kZU5HL1DqhtvaUgg7IJNhs=",
         "akiwi-1.3.9.tar.gz"
       ]
+    },
+    "1.5.0": {
+      "sdist": [
+        "GBYUHt8mBlZalN460syoQ7MV6G6Q8OITWOUa6kuHP18=",
+        "akiwi-1.5.0.tar.gz"
+      ]
     }
   },
   "alakh-inputvalidator": {
@@ -10278,6 +10284,18 @@
       "wheels": {
         "aws_cdk.aws_cloudfront_origins-1.186.0-py3-none-any.whl": [
           "E5ql64b0PVgn6tAzqZe2uy8Ni3YME7YcVe+mZH3GLuU=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "IRJzAntxm+WxoWp5l5gz3Rmji9gMTw+2j0H6wKTsau0=",
+        "aws-cdk.aws-cloudfront-origins-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront_origins-1.186.1-py3-none-any.whl": [
+          "OwMUmHwj6gClHEKBoVNhi70LLPfhA62fl6tEl0/+Xok=",
           "py3"
         ]
       }
@@ -46558,6 +46576,12 @@
         "docassemble.demo-1.4.23.tar.gz"
       ]
     },
+    "1.4.24": {
+      "sdist": [
+        "qAzfRBwseq8cOpbTRWhj9WMUMuXztYYGeqoPMUdAqeM=",
+        "docassemble.demo-1.4.24.tar.gz"
+      ]
+    },
     "1.4.3": {
       "sdist": [
         "Qe6B4dUB0DJ0ixnP59l7QDPbTS+zMlrEfMHEtEFs/8g=",
@@ -48426,6 +48450,18 @@
       "wheels": {
         "echosys-0.1.13-py3-none-any.whl": [
           "RPKQK3rQUpZrLtNXL2SujnDMpQQn2+YtNM8YCy6VFeI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14": {
+      "sdist": [
+        "d3Lw1R+AiNfo/hKJQ1sIljkd22N7HZOsxPfD7qWhixc=",
+        "echosys-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "echosys-0.1.14-py3-none-any.whl": [
+          "HeVrLwroEBsZ3SXTs4D3V4jdmB/K3op4w77+wNFPcuQ=",
           "py3"
         ]
       }
@@ -95231,6 +95267,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.1.0.1": {
+      "wheels": {
+        "odoo_addon_currency_rate_update-16.0.1.1.0.1-py3-none-any.whl": [
+          "65HEYY+jhp3W4nmiChL/ICH//xFdbCttwAbMUk4on6E=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-partner-sale-pivot": {
@@ -105484,6 +105528,42 @@
       "wheels": {
         "py_clob_client-0.1.1-py3-none-any.whl": [
           "4ngmztt/gwU5gzymhLQ6MipAYZYpn01oRfXTE4fHnoQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "RSh7ygYK8XSD9ET4M6sjcaa/S7K/waR/u0o+s7v6DI0=",
+        "py_clob_client-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "py_clob_client-0.1.2-py3-none-any.whl": [
+          "KhtlK8Vcgk5ufGqICdeyd879+buhsGbszaqhhJsKGEY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "oUzlUEwlHwTDeyLkkqKnFhBGaskolRKI6CAgVt2VX6Q=",
+        "py_clob_client-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "py_clob_client-0.1.3-py3-none-any.whl": [
+          "WdZWmr4sBRFjO0gxf6JgfBf5jUUrMw6kzQeRD9Toh78=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "sS5UY5UUbtwjH8esKKTuPshcbsBTSSRQlHf2Db6mtPo=",
+        "py_clob_client-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "py_clob_client-0.1.4-py3-none-any.whl": [
+          "nKlOIsvALNZcMKIzegK0So0gcwnZYsR23CZkF4CnfVg=",
           "py3"
         ]
       }

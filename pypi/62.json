@@ -7047,6 +7047,18 @@
           "py3"
         ]
       }
+    },
+    "1.186.1": {
+      "sdist": [
+        "BtaMkVdq+/BsC54EkcU5/1sgMBEEFqDKs0Fql6OSA1A=",
+        "aws-cdk.assertions-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.186.1-py3-none-any.whl": [
+          "EZx1nA2OpgUM4TRumQS8yVVcOjwT5o0BJsgnFuf4YKc=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks-legacy": {
@@ -8234,6 +8246,18 @@
       "wheels": {
         "aws_cdk.aws_eks_legacy-1.186.0-py3-none-any.whl": [
           "aQipVWzeeKt9NDkWolFQBzppyNKbIIBijpZG3Lb/PF0=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "K6U4Zk6ObgtIowfS5vY/V2V6960DKZCKU5f0V3ozhJQ=",
+        "aws-cdk.aws-eks-legacy-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.186.1-py3-none-any.whl": [
+          "VxVtlGHKzHMl3HxLTJIjyWc3u5g7vEpxxTY4J6mgrss=",
           "py3"
         ]
       }
@@ -9796,6 +9820,18 @@
       "wheels": {
         "aws_cdk.aws_emrserverless-1.186.0-py3-none-any.whl": [
           "F1Wxugv1RDAYZSZ2GlS/2B6XYXq2qjuZyJEbdQ05qJo=",
+          "py3"
+        ]
+      }
+    },
+    "1.186.1": {
+      "sdist": [
+        "x5S3X9JxS3TeYVg2gBIJomShyEY4UpfZ44mFrbWhnDo=",
+        "aws-cdk.aws-emrserverless-1.186.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.186.1-py3-none-any.whl": [
+          "5u0HKT10sfa53hZDFsrZo38LAyRF0YN11aGwg7F14Ck=",
           "py3"
         ]
       }
@@ -66755,6 +66791,116 @@
         "invenio_rest-1.2.8-py2.py3-none-any.whl": [
           "gMNIKCcVtKQIVfjqBPPzrL2n1PN+jmDoH5ERXjH4iDs=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "ioe-email-stuff": {
+    "0.0.10": {
+      "sdist": [
+        "rloSeFRD8VJUkwruukMhkyp5pfaVYI28pgPeTB3lxvE=",
+        "ioe-email-stuff-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.10-py3-none-any.whl": [
+          "o22BMtf2m7uY7RWY0YkvbKOcJdzlrLTyMEnlPkfrXBY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "2/ZN1O4a2oN7d6JLZlCmsxwNy8SIPPcB2WyDpAKa1WE=",
+        "ioe-email-stuff-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.11-py3-none-any.whl": [
+          "2vLy2kREVH/Sk/IqCvxhCXPMzbMFCfrvyfmzNeWhc74=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "hZmXq8lSQ1B6GyAwE1+K+wqy6KihUSQ0+zPoo8evMSI=",
+        "ioe-email-stuff-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.3-py3-none-any.whl": [
+          "WS+JjJdIrr6Yu6JoCP0QS4hRn0RQf4aPAofHQAv1kMc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "++EBN4GyMAeqxc4wkkjxBntrA0zMCWTfsLV/qbwTuIw=",
+        "ioe-email-stuff-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.4-py3-none-any.whl": [
+          "vEBka4lqop1dbpbTyTHKtEKE1dAVzl/n8TsyLwkpBXU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "7aHwMDcr3O1Lm5cmnVDS2bOpzKOnjRe0SlEX512kkNM=",
+        "ioe-email-stuff-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.5-py3-none-any.whl": [
+          "yGMldwJeTdG0apEruFfGq5pJcVmdA3XVABe0tZFpslA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "OREoV3bri6bWooqnh4KYOfsK73rYL0nEEILvZPy0quk=",
+        "ioe-email-stuff-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.6-py3-none-any.whl": [
+          "Gh1OK8GE0m/lFW3DOMsdMMpal+QwtIodbQ/OlbEAaiQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "k5xPnSu40lvGfPwgPPOnLuW3xvHE8Fjl+oxQdt7yQ/o=",
+        "ioe-email-stuff-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.7-py3-none-any.whl": [
+          "DrjS98ZrVz8Q3kIlDHvApsutgjXvLlDB0RHP8SDb2gc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "s4hQ23tCw9diDAcXQsBrr6xnenHSOpZz+0pZC4WLfr8=",
+        "ioe-email-stuff-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.8-py3-none-any.whl": [
+          "5GRpFzchz+CD6o/5wAMt2+GxRPCLjYlEyOEOMryRQeU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "I3V3IsRj+ZYF0EGq4ImepL1nprdTM5fKoM1QFjPq7w0=",
+        "ioe-email-stuff-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "ioe_email_stuff-0.0.9-py3-none-any.whl": [
+          "ASg6Rl7zZCEY8nW2p5yGXcDp6KFlA7U8lKmHr2Iyf0w=",
+          "py3"
         ]
       }
     }
