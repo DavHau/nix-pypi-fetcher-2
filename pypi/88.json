@@ -21068,6 +21068,12 @@
         "dedalus-2.2207.2.tar.gz"
       ]
     },
+    "2.2207.3": {
+      "sdist": [
+        "VJ3JZ8+2Sa4IyfiROJ10SI80wXhQuVEno/ntUcdYya0=",
+        "dedalus-2.2207.3.tar.gz"
+      ]
+    },
     "2.2207a1": {
       "sdist": [
         "F9l9ZCfdIgnmBx56BmX+RpNsyiOve6C0Ughf80X9W/A=",
@@ -22694,6 +22700,18 @@
       "wheels": {
         "denmune-0.1.1-py3-none-any.whl": [
           "8ZRnALp2ugAr+G6WOaCLKjFPVfTuuUvW09FvNnPejok=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "9VS9LofJn4aIqJEHL0C4ku64HI2JxsZm21Rd8r9LoOQ=",
+        "denmune-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "denmune-0.1.11-py3-none-any.whl": [
+          "mKaXimMsaOO8PCuTQWHdmSZHJvtl4nOeqcG075NEPYE=",
           "py3"
         ]
       }
@@ -144410,6 +144428,74 @@
         ],
         "wpilib-2023.0.0b7-cp39-cp39-win_amd64.whl": [
           "gD8JqJmDMeRsdv1hVLfwwj9ZXewenT1rrSJ3tQKg6+Y=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.0.0b7.post1": {
+      "sdist": [
+        "yXKD/HSdefrszrbh1h+RrluaN5yff3PBmjQ7h2CoVT8=",
+        "wpilib-2023.0.0b7.post1.tar.gz"
+      ],
+      "wheels": {
+        "wpilib-2023.0.0b7.post1-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "EcKksKtDkO3xHwNRWKUCEoZrmgGIowXsvNtHfKtm93s=",
+          "cp310"
+        ],
+        "wpilib-2023.0.0b7.post1-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "mzA4wkoUoIe8kLg4FAAONF5yre4evHTfoO1R14+ioWY=",
+          "cp310"
+        ],
+        "wpilib-2023.0.0b7.post1-cp310-cp310-win_amd64.whl": [
+          "ahrX4N1MdNUZ89Z7Ql65dFlZEH7M82IXvqDVdbPpdfE=",
+          "cp310"
+        ],
+        "wpilib-2023.0.0b7.post1-cp311-cp311-macosx_11_0_universal2.whl": [
+          "K7i5Z3SnjN6lFkUd+b8en+gf0dDeR/VMu8IiicjGLTw=",
+          "cp311"
+        ],
+        "wpilib-2023.0.0b7.post1-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "DBi90Oe6T1K4AJ8NwbK/KOn2QJLUBADp64DzH+KsAM8=",
+          "cp311"
+        ],
+        "wpilib-2023.0.0b7.post1-cp311-cp311-win_amd64.whl": [
+          "vQnnlP3M4H+DFfMgYzJEQ4VFAixq64LKqhRyo5QRpJw=",
+          "cp311"
+        ],
+        "wpilib-2023.0.0b7.post1-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "ZMDuNKk6czdYB20xd7Wv2md7/HkB1W1/reQ97ae3Tao=",
+          "cp37"
+        ],
+        "wpilib-2023.0.0b7.post1-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "9fkwe0xTVv0Nk4vT9/g4xMyWLXRcxLsn/9Fwc4SyW80=",
+          "cp37"
+        ],
+        "wpilib-2023.0.0b7.post1-cp37-cp37m-win_amd64.whl": [
+          "hguIPB/cumBk/qFnuaB+lH9BLUyn3WSz6U0R+nINbfI=",
+          "cp37"
+        ],
+        "wpilib-2023.0.0b7.post1-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "bjZY19vUNNENcVBGhjDdHZaEwCgU7c2//LGeOciiNjQ=",
+          "cp38"
+        ],
+        "wpilib-2023.0.0b7.post1-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "NnzZ5UtZIyEbkNDpH7MSzv8GJuasV/MEbn60dMzhMMg=",
+          "cp38"
+        ],
+        "wpilib-2023.0.0b7.post1-cp38-cp38-win_amd64.whl": [
+          "hJbS4V4ckyTPCE4s+HveUsZjbcsw0ivPaKTTQq7K2KQ=",
+          "cp38"
+        ],
+        "wpilib-2023.0.0b7.post1-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "Ta/4UmtxYdEqNyyEhkONcXrB4vfdVMw3jSOirWkCGeI=",
+          "cp39"
+        ],
+        "wpilib-2023.0.0b7.post1-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "Vjv6hxtjBny1De9rp6DW7f2GPxitl4e9XHc1vFk3KQs=",
+          "cp39"
+        ],
+        "wpilib-2023.0.0b7.post1-cp39-cp39-win_amd64.whl": [
+          "tC3XkeFZFsIV3TmRC18ng+CDgVNYKKPH7PoKkQqSuW8=",
           "cp39"
         ]
       }

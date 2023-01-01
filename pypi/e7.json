@@ -2093,6 +2093,12 @@
         "jCIwOCsw6HMJXvphq/iRELWwXx3o65YAAxBjNN3fNYg=",
         "aeppl-nightly-0.0.50.dev20221231.tar.gz"
       ]
+    },
+    "0.0.50.dev20230101": {
+      "sdist": [
+        "2x2KHDpxRjHvs6rthRk101Bvw3Wx57JN+pmN8QsZkCg=",
+        "aeppl-nightly-0.0.50.dev20230101.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -19136,6 +19142,18 @@
         ]
       }
     },
+    "1.24": {
+      "sdist": [
+        "T212ASN2X0+Uq4FVWNMYaQp17sZt6Z28ycOzaHJK6sY=",
+        "cockgrabber-1.24.tar.gz"
+      ],
+      "wheels": {
+        "cockgrabber-1.24-py3-none-any.whl": [
+          "372cnHYeqPKo9CFC3evXQhp7ONT5kCkrT41dPg1ycBE=",
+          "py3"
+        ]
+      }
+    },
     "1.3": {
       "sdist": [
         "klE93hmGCi1P+HdA55LXcXI7aUzlIIyPBOlydtJZ34U=",
@@ -21841,6 +21859,20 @@
         "X3q54TYJcbrIYp968oaTg98G3g7U+ZldLLLaoWyE93o=",
         "ct-dol-0.1.1.tar.gz"
       ]
+    }
+  },
+  "ctfhub": {
+    "0.0.1": {
+      "sdist": [
+        "Tyg9j2YmO5eDeFBU7l+VICH9ss+c1/NqiQIgsj1MgSo=",
+        "ctfhub-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ctfhub-0.0.1-py3-none-any.whl": [
+          "x5qdiUn4H6E+osRPPhLlcGGkC/2Eyyao7O+3MrMxiPU=",
+          "py3"
+        ]
+      }
     }
   },
   "cthreading": {

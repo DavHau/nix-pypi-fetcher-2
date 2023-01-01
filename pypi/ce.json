@@ -31171,6 +31171,20 @@
       }
     }
   },
+  "dynamodb-garbage-collector": {
+    "1.0.0": {
+      "sdist": [
+        "NPKl4BuNHyWkpM4dQlXrV8HODdX1he+jO3Q9OisD8SM=",
+        "dynamodb_garbage_collector-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "dynamodb_garbage_collector-1.0.0-py3-none-any.whl": [
+          "FHYQbSDPRuoJD/+vRU4e5mQQmwKOX/Az+Nh0WqG4f34=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dynamodbencryption-sdk": {
     "0.1.0": {
       "sdist": [
@@ -94998,6 +95012,30 @@
       "wheels": {
         "postgres_database_utils-0.2.0-py3-none-any.whl": [
           "T3AoS8CPlsvmdEOXHCIY7qA0RLVC1XEMatjkwHPQFqk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "u+NEEqpvH0PiVhnaQDuVpKHt/uZ4/Ixcq7LEilWK+qs=",
+        "postgres-database-utils-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "postgres_database_utils-0.3.0-py3-none-any.whl": [
+          "pKWmSeSPs9XIklN+DdPXui1xEMsts0pgIU/PBqFwMx8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "4z6vwprOHg2nlSxOZ2dj6yN7lAzyaMil4gINixObfDk=",
+        "postgres-database-utils-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "postgres_database_utils-1.0.0-py3-none-any.whl": [
+          "B2yemNejrMIgB0anacsX6EN+mG6kK1pA6ILSOaCLQ70=",
           "py3"
         ]
       }

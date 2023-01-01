@@ -5977,6 +5977,32 @@
       }
     }
   },
+  "atomicswap": {
+    "0.1.1": {
+      "sdist": [
+        "lWT/sT6lPacwiWpWAT/LVbQlh6P1lyVXQeCBZdfJGqI=",
+        "atomicswap-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "atomicswap-0.1.1-py3-none-any.whl": [
+          "fVwSvRwSbA3+IqqLga1uXbDjk7dr/IPHOjJ3K70EHJo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "yEbIcxPVzJz1UKJVeG55deS353nhHy75S0+ENL+Hxhc=",
+        "atomicswap-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "atomicswap-0.1.2-py3-none-any.whl": [
+          "HlyyIy2PfrmJ8AAmW3qjvIczzGJlt31Pu5OvtmZSFWk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "audio-plot-lib": {
     "0.0.10": {
       "sdist": [
@@ -65068,6 +65094,12 @@
       "sdist": [
         "rHFqwRi38llaMEyhzTRoq8TzHS+zrLHdyo13UcCOC/0=",
         "localstack-ext-1.3.2.dev20221229170625.tar.gz"
+      ]
+    },
+    "1.3.2.dev20221231204206": {
+      "sdist": [
+        "A5yf6Hpgt+QXDzYoh94IxQMjbC1C3GDxiJHwDXE+9Us=",
+        "localstack-ext-1.3.2.dev20221231204206.tar.gz"
       ]
     }
   },
@@ -142862,6 +142894,34 @@
         ]
       }
     },
+    "0.0.31": {
+      "wheels": {
+        "xia_api_flask-0.0.31-cp310-none-macosx_11_0_x86_64.whl": [
+          "Na0Q1u6nKsUUjbodRgXngd+xGkmgflTPPS51KjIc8IQ=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.31-cp310-none-manylinux1_x86_64.whl": [
+          "rSrjo/RGcsayJyH0jIG1Do9qJcrvuH2g91EEOMfgTto=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.31-cp310-none-win_amd64.whl": [
+          "dqofWCVsx52QAdA1fXhb8rYsgnkGRfiFJNCS62/hPYQ=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.31-cp39-none-macosx_11_0_x86_64.whl": [
+          "thKib9RnMFtuzGwPrI0BBmBzvsvtAEtsGkvlY2bdR8c=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.31-cp39-none-manylinux1_x86_64.whl": [
+          "xl1YoB+NZS7wJbmmvsqyG61Jbh/UWeyivI5uaKaQJUw=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.31-cp39-none-win_amd64.whl": [
+          "apYqqrdX4w6B48ATkG2sfNGHlOClvkFu2gpt8t2gN9o=",
+          "cp39"
+        ]
+      }
+    },
     "0.0.4": {
       "wheels": {
         "xia_api_flask-0.0.4-cp310-none-macosx_11_0_x86_64.whl": [
@@ -143150,6 +143210,18 @@
       "wheels": {
         "xrst-2023.0.0-py3-none-any.whl": [
           "k8W7ISRyyibd86yHRyLIPl/+2avEdZhU7xYXQi2zj9c=",
+          "py3"
+        ]
+      }
+    },
+    "2023.0.1": {
+      "sdist": [
+        "VDW6+wsHPKRal5nrBP3aJf+sbka11MdxBAYi2FJiaPw=",
+        "xrst-2023.0.1.tar.gz"
+      ],
+      "wheels": {
+        "xrst-2023.0.1-py3-none-any.whl": [
+          "fI9USM4Y8fXc/0OcvkrBjfQHJGKL6ukkT1wn8E9unFc=",
           "py3"
         ]
       }
