@@ -15309,6 +15309,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230101": {
+      "sdist": [
+        "GQWOsZ5IkayI66C+L0EnfmfusuBLk7zGB5X2fBTs1pI=",
+        "bigdl-dllib-2.2.0b20230101.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20230101-py3-none-macosx_10_11_x86_64.whl": [
+          "Nfmy5Fo1LUgNLd12w3miBInaM34vxk50H6RtB0fFN4c=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20230101-py3-none-manylinux1_x86_64.whl": [
+          "5akkhpuRY3aNCiB6JREye54DbrSAgoixZEElBW7Xs50=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -54551,6 +54567,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "kaldi-hmm-gmm": {
+    "0.1": {
+      "sdist": [
+        "/Z7jIqmrAQZtqLXaYjKBYkh+9pvCMu2RbqJbGVbaylw=",
+        "kaldi-hmm-gmm-0.1.tar.gz"
+      ]
     }
   },
   "kama-prom-plugin": {
@@ -140703,6 +140727,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230101": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230101-cp310-cp310-win_amd64.whl": [
+          "OBMQLdf+5Xd2XXuOpXd/xWCAJzxFLan+nEeyZJQImds=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230101-cp38-cp38-win_amd64.whl": [
+          "h2NziBEewmOMqidYel4aNRMWDQSjWpMTtt7GtIazYco=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230101-cp39-cp39-win_amd64.whl": [
+          "UTpbcRdB9Az1GtarQ5K2yYlFgzk+nWsbaTgKXu/yYsE=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -150933,6 +150973,16 @@
       ]
     }
   },
+  "waf-build": {
+    "2.0.22": {
+      "wheels": {
+        "waf_build-2.0.22-py2.py3-none-any.whl": [
+          "bAnccm3bfc4R24Ouat3+XitSBg1pmQc9slVIr6Ae7rk=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "wagtail-cjkcms": {
     "22.11.1": {
       "sdist": [
@@ -155806,6 +155856,18 @@
       "wheels": {
         "zood-0.0.9-py3-none-any.whl": [
           "Aq3hnU0Q9JYfbnI4FZnSiJYvtto7i0tT6nO5DKryLhk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "tNIhNN6JEOJaAPymYqXOOPFIFzyRshM2Y/XOffxhnFY=",
+        "zood-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.1.0-py3-none-any.whl": [
+          "l3uDFEJ9AD+nuXrp6FjWvppRqyLSdsHDgDwd7m9q4m0=",
           "py3"
         ]
       }

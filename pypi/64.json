@@ -106759,6 +106759,42 @@
           "py3"
         ]
       }
+    },
+    "2.2.3": {
+      "sdist": [
+        "yxkVut32VrOZtAUlvfi95gPVEBXVBBfu4M7R3LbdvK8=",
+        "plugp100-2.2.3.tar.gz"
+      ],
+      "wheels": {
+        "plugp100-2.2.3-cp310-cp310-manylinux2014_aarch64.whl": [
+          "C1QjICY1jkukjSYcHZybIC1qtPFZr+IOJf43EVcQg/8=",
+          "cp310"
+        ],
+        "plugp100-2.2.3-cp310-cp310-manylinux2014_armv7l.whl": [
+          "/aAuNv5NXs69ndeVlmBzfxcIFMnzkz6wi8OTGAH081Y=",
+          "cp310"
+        ],
+        "plugp100-2.2.3-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "GVz6GhN5UKb1ZX0LMR4DTGAEw3EfWX3EXyTdXACtuLg=",
+          "cp310"
+        ],
+        "plugp100-2.2.3-cp39-cp39-manylinux2014_aarch64.whl": [
+          "V4hq9sdIeX0KH0UhFrC/9Wz0QNbbIK0smrxDq+G9RdI=",
+          "cp39"
+        ],
+        "plugp100-2.2.3-cp39-cp39-manylinux2014_armv7l.whl": [
+          "frmbRisTAq1rZlf41XMaQluslsCcdPElnTNWyyiGHcc=",
+          "cp39"
+        ],
+        "plugp100-2.2.3-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "GZ3APao044U7FvEX8hm2UuDVnjQp2gcOUhqh4mrdFjs=",
+          "cp39"
+        ],
+        "plugp100-2.2.3-py3-none-any.whl": [
+          "KrBRlv2GddIvya/u3NuNetOGhAvEE2orYgKziqpkIfs=",
+          "py3"
+        ]
+      }
     }
   },
   "pluspy": {
@@ -141753,6 +141789,14 @@
           "py3"
         ]
       }
+    },
+    "2023.1.1": {
+      "wheels": {
+        "torch_model_archiver_nightly-2023.1.1-py3-none-any.whl": [
+          "DVD+fM5htcWV5kI/U6xdVCoxfQXZjw9bYr/YWIIQAI4=",
+          "py3"
+        ]
+      }
     }
   },
   "torch-nightly": {
@@ -142415,6 +142459,20 @@
         "BIjQaMvV0UVPd0jKEicFD5Ij7BaB6C7WJn9ukGhTrZo=",
         "tsc-draw-0.7.tar.gz"
       ]
+    }
+  },
+  "tuic-tunnel": {
+    "0.1.0": {
+      "sdist": [
+        "TcOKuR6IJybLnqT+5Iffgm84qLAFIVCF48Ardw81K/Q=",
+        "tuic-tunnel-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tuic_tunnel-0.1.0-py3-none-any.whl": [
+          "6pbtB+vLwvEi0LtXAPCouJ5X9Ck3SLOx06q/1ayVhxU=",
+          "py3"
+        ]
+      }
     }
   },
   "tutor-ecommerce": {

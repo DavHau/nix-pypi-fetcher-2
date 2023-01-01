@@ -53,6 +53,20 @@
       ]
     }
   },
+  "a-selenium-download-without-asking": {
+    "0.10": {
+      "sdist": [
+        "BfSuuUMEOq8nt2TyvsQUmjneMqAuR/Us6TVoXJNJGmg=",
+        "a_selenium_download_without_asking-0.10.tar.gz"
+      ],
+      "wheels": {
+        "a_selenium_download_without_asking-0.10-py3-none-any.whl": [
+          "mDrnx6Jk6wp12rXTeRDhh4PoYe6yYIdoJSGAkvr9wVA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aa-discord-announcements": {
     "0.0.1": {
       "sdist": [
@@ -40512,6 +40526,14 @@
         ]
       }
     },
+    "0.0.12": {
+      "wheels": {
+        "devcontainer_contrib-0.0.12-py3-none-any.whl": [
+          "rHH8ttxUVNy0nFTCCC9CiIPtvi6ijtQNsDP/T1Hspog=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "devcontainer_contrib-0.0.2-py3-none-any.whl": [
@@ -52164,6 +52186,18 @@
         ]
       }
     },
+    "0.9.10": {
+      "sdist": [
+        "cv7SjsCPaBAvILejOSONCHZurYeB50tiGBoF2Ah3LaI=",
+        "Finance-Python-0.9.10.tar.gz"
+      ],
+      "wheels": {
+        "Finance_Python-0.9.10-cp39-cp39-win_amd64.whl": [
+          "GkyauLuc9cUrpOVzB0I0sJKX1G6IU1ATaLRxEHsZ7TI=",
+          "cp39"
+        ]
+      }
+    },
     "0.9.2": {
       "sdist": [
         "d8ekunt6jGE9PDhoYlQcKXZtL6aXvvOhetKS2a0QWQ8=",
@@ -52268,6 +52302,18 @@
       "wheels": {
         "Finance_Python-0.9.8-cp39-cp39-win_amd64.whl": [
           "FPFp95uob/wwzAfyzaUUjTq07l26nNOcT+7e9kDu32o=",
+          "cp39"
+        ]
+      }
+    },
+    "0.9.9": {
+      "sdist": [
+        "xNgOVkLkAmyhUHHcfC6IcUvaZC7yXBi3revFAIG0SPs=",
+        "Finance-Python-0.9.9.tar.gz"
+      ],
+      "wheels": {
+        "Finance_Python-0.9.9-cp39-cp39-win_amd64.whl": [
+          "SaqqzGz4A7jAxDGgIF4kFbnJpsbhgQyZfFtj05L0pfI=",
           "cp39"
         ]
       }
@@ -61755,6 +61801,18 @@
           "py3"
         ]
       }
+    },
+    "2.3": {
+      "sdist": [
+        "x6vfSdtcu4ZVuULR9bGnlStjtK6We8fJAIEVEVyyyzQ=",
+        "hkfdb-2.3.tar.gz"
+      ],
+      "wheels": {
+        "hkfdb-2.3-py3-none-any.whl": [
+          "SlmBSbcX6OwE/MK9+i4HgT4vrDNSvQkVsyP5GKNQ/MI=",
+          "py3"
+        ]
+      }
     }
   },
   "hlc": {
@@ -64426,6 +64484,190 @@
         ],
         "igraph-0.10.2-pp39-pypy39_pp73-win_amd64.whl": [
           "LbnUQh4n3cRSJxwEwa8i1HFm9OiMHyh3hyKfcZAOzw4=",
+          "pp39"
+        ]
+      }
+    },
+    "0.10.3": {
+      "sdist": [
+        "tyDLiMS5r0qWjoOQNV9ma6FG1jEphRjMT/ob0OLCHu0=",
+        "igraph-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "igraph-0.10.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "blnhx0wmhlWO7P+/LGjoOJkKRfvQZnFElXKeKS5w+Jw=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rdZmJ3am5B8N3JnfUnTnqRwAFcqcuzt2VB0Gl/Pn8GE=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8mJKAM/pP0ksHWl7fh7dY0va+kQLHU8qWbohsQ5ncJw=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i0jBBA/hJJ3mEKT27/aCerobu4oa1aQRDVZw8Coxjs0=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "0B45cTp5aeR3kQe2vYiah3jC1rj4phZgWkrRqF5JQyg=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "l7RNEgK96tx0ICCctV9ZYQEpZ9j0Y1oJ1tdjHI7CbW8=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "Upan4sPCY/cnPW9NKlWcgppMezYvOQAUNY+GXOgGVjY=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-win32.whl": [
+          "7h01x+mSjUUCn44pBy3oO0zmvMQOISAGlFRw1SVz+fk=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp37-cp37m-win_amd64.whl": [
+          "0N0AFXr/ZGpaWVNmrDT3bDgA1KbHMk5pJT/nVDAeasg=",
+          "cp37"
+        ],
+        "igraph-0.10.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VPvMPfM1FopGpfxjHqTIfSfQEHP7RCwrF7hi77zlcLw=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "0jgtSPYmEK/j2H98JZbsZzbhChrOeWHpCzND7zv0lRc=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "tZ0WfjSspzn+u37DtRgtKllO+DnDuWoaCvlngXjJs28=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "/8RqquvHoLMOBwiNiN3FpyTFVh07rPyFOd63v/UUaf4=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dkYTC32p5BRDORMMzcLz/B1jjkI9mC6jH6XPRfbwVEo=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "SXfQ5NQUJ31JCJhOvkHNwtZkgEkIIqBJSiaWxIfR6rk=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-musllinux_1_1_i686.whl": [
+          "ck5v6bx2VOdQO4Yaeyafj/efmF0isKKco9TNtmtDr3U=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "vj4Yew0F9Sbk8KzuJcsgQiJd/oUeCs6HAj4HoG8U5wQ=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-win32.whl": [
+          "IRrv53rxpOf27/vIf+yenGARkPgD2BvCmioTS1h88Y8=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp38-cp38-win_amd64.whl": [
+          "Aw38uF1eDA3HNWPFtXi3u7wwl92oIMJv90/Bk3MO44M=",
+          "cp38"
+        ],
+        "igraph-0.10.3-cp39-abi3-macosx_10_9_x86_64.whl": [
+          "adjL6VCs8lfwbqYLttQj0nTUhxBHK3I0nLTnF4n99V8=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-macosx_11_0_arm64.whl": [
+          "zPXCQomHQqbiZ+R/VsQK+wL6qFbgwuwoUuqUCgrTIqQ=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "knvhS5LPUnPKBkR7kUSS978SquouampS/qRJFIf2OvU=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "qMIT4EJYZ1ViTKUgbr2ZKAEqvTk161BrySCbEglgmRU=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KY1v+trsFr+OIxUq79/mn756fXWwg8+LHqdiI1hkxSo=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-musllinux_1_1_aarch64.whl": [
+          "Wz//z0HB0Dj57H8XTgR5CpHGM3+ujOvi/3wF+cOwsAY=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-musllinux_1_1_i686.whl": [
+          "SUCj1+aHVfqh8BHQ/6rztRubnKX/SYZKvDFTBgRXwr8=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-musllinux_1_1_x86_64.whl": [
+          "EAZovC1862y+GfbQRXLoj1RtxG48Oe3dEyMRVw6W5AE=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-win32.whl": [
+          "lQdsKaEM7+wIfU+fDGNbHOZ3lLk9kpMOgMCrdqhZ9do=",
+          "cp39"
+        ],
+        "igraph-0.10.3-cp39-abi3-win_amd64.whl": [
+          "PyTgY9EQfiwAhIq/eKValTcbFMQs3CTymafZaFj/mBs=",
+          "cp39"
+        ],
+        "igraph-0.10.3-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "K0lnCpjw3iHktulw9XX5mo2BHZ0CnMHZrDdYqnlm3Yc=",
+          "pp37"
+        ],
+        "igraph-0.10.3-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+rENccXh2sXwlIzRXCYc+wBIhB5wYrG4pYH94IeSjh4=",
+          "pp37"
+        ],
+        "igraph-0.10.3-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "crTmirdlg7yS4jy7R9CO/92RS3PQXvJpwEDBaZ66RJ0=",
+          "pp37"
+        ],
+        "igraph-0.10.3-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eNh7hzPdEUxUh/iPhDLAXbENeHL5j8ukQk761g4E8wY=",
+          "pp37"
+        ],
+        "igraph-0.10.3-pp37-pypy37_pp73-win_amd64.whl": [
+          "c0y0obVMVxQpYL3V562SuVeJzycVgGyc2+51LBBpuAg=",
+          "pp37"
+        ],
+        "igraph-0.10.3-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "y4JzEArwEaHcxzFOzDStI9/pw32DZ+d271KQnXWvqRg=",
+          "pp38"
+        ],
+        "igraph-0.10.3-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "aDa+eyzaviOxcfjQtFBFyiNp3KZsKDW81Z5xGBEBUuM=",
+          "pp38"
+        ],
+        "igraph-0.10.3-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "qjAm18Qu6ANJVpu6xEHv5gbQ7GYGj4R9n8NaBzh22vQ=",
+          "pp38"
+        ],
+        "igraph-0.10.3-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Klz2TrmhcN9l5iRapXXVNjVRXmw98yqejtx0X2se+d4=",
+          "pp38"
+        ],
+        "igraph-0.10.3-pp38-pypy38_pp73-win_amd64.whl": [
+          "sDTEAbbiu244tr7Ge3TIYiAdYJCqAtFszapgj3UYmf4=",
+          "pp38"
+        ],
+        "igraph-0.10.3-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "pB8Tr2TZVrSKNNoegDLXnS6Zd3G0VR2099xGtx6evLA=",
+          "pp39"
+        ],
+        "igraph-0.10.3-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7ShEUDAJ2sXPr4qKJ4Wz1T4QKmj+znEBMKTlybc81ek=",
+          "pp39"
+        ],
+        "igraph-0.10.3-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Vjg/SYnmBl4+KRhW1BySPAIwSElEnGlgHnC9GfPJxC8=",
+          "pp39"
+        ],
+        "igraph-0.10.3-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jkl5UqXnsS81UH2hrbt0R+lvLc3z1uiTAA7aBYFMAkE=",
+          "pp39"
+        ],
+        "igraph-0.10.3-pp39-pypy39_pp73-win_amd64.whl": [
+          "1OhX74UT9+bW6q81mvbWca1hwU5Iiyfj/gtia+iTsW0=",
           "pp39"
         ]
       }
@@ -72700,6 +72942,14 @@
       "wheels": {
         "lumigo_opentelemetry-1.0.52-py3-none-any.whl": [
           "14M9mcCgRLihJvWB6axvWU/Uc2bN8Hgc2WuxTidt5sg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.53": {
+      "wheels": {
+        "lumigo_opentelemetry-1.0.53-py3-none-any.whl": [
+          "D31Nt9RqB14go+vhSJq4LekA5ohz9n1Kzj/OzVq4zGQ=",
           "py3"
         ]
       }
