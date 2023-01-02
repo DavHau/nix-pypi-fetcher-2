@@ -753,6 +753,12 @@
         "AzYyBHjQvSVWhRuXmC3W4zdwIcZUwErOzPHggn0XTVQ=",
         "aim-ui-custom-3.15.2.post8.tar.gz"
       ]
+    },
+    "3.15.2.post9": {
+      "sdist": [
+        "55I5TQwvWVu7goiGO86tcHZ5MfwQJ2CIDNy5bA7I0pI=",
+        "aim-ui-custom-3.15.2.post9.tar.gz"
+      ]
     }
   },
   "aiodine": {
@@ -48846,6 +48852,18 @@
       "wheels": {
         "jaxkern_nightly-0.0.3.dev20230101-py3-none-any.whl": [
           "XeJDi0c3gxzyXKf74MxYoC/O79Eav7GEfjdLKK3TA70=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3.dev20230102": {
+      "sdist": [
+        "8isiWmuYCch6gm496uI1mS031aeCx/KujkSqju24kEY=",
+        "jaxkern-nightly-0.0.3.dev20230102.tar.gz"
+      ],
+      "wheels": {
+        "jaxkern_nightly-0.0.3.dev20230102-py3-none-any.whl": [
+          "GI+EHlXM1+GYdVlrODJ9WYMIPMEzH9mWrzH9qwFZbiQ=",
           "py3"
         ]
       }
@@ -108919,6 +108937,32 @@
       ]
     }
   },
+  "robotframework-cinc": {
+    "0.1.0": {
+      "sdist": [
+        "kgxHdKldndbm94pqu3HO5/U3MbOSp4WKbBZSnG00nww=",
+        "robotframework-cinc-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_cinc-0.1.0-py2.py3-none-any.whl": [
+          "G5ow4uvuAvxqtf306SxYW1V/6cTCQm24IfiaY3jjoV4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "Z05s00oCrn/pTiMYm4eul0v/3dy/N4YJLJlDDSDbuyk=",
+        "robotframework-cinc-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_cinc-0.1.1-py2.py3-none-any.whl": [
+          "N0IefB9cGhC7SmpAvUwkmWz/PJf4FgDqh1m9v1T8yLM=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "robotframework-rammbock": {
     "0.4.0.1": {
       "sdist": [
@@ -148432,6 +148476,18 @@
       "wheels": {
         "upkeep-1.3.1-py3-none-any.whl": [
           "22JibkXBVKceBdhJl5KGd0Bj6Nb99fQXAE8U4yEkZs4=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "oks9k5GjFZZOv6J09XX7DQ3aqBTAJZ8zQU/B/+MYAkg=",
+        "upkeep-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "upkeep-1.3.2-py3-none-any.whl": [
+          "7bJbVKioNTRiaIc8hfEJUw7WguJU9wo1wBYABxODn9I=",
           "py3"
         ]
       }

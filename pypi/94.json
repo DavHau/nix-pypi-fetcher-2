@@ -6001,6 +6001,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "aElHY0XW1ASHVXt0x4CYomFgMXdZylKqnHZoFWpbOSE=",
+        "atomicswap-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "atomicswap-0.1.3-py3-none-any.whl": [
+          "oD2SV0kXYCs9ahZWQPh5sn7AAW3DA10wC/uuUdyW55E=",
+          "py3"
+        ]
+      }
     }
   },
   "audio-plot-lib": {
@@ -21596,6 +21608,30 @@
       "wheels": {
         "datayoga_core-1.42.0-py3-none-any.whl": [
           "gh5WyENq9nPIfdi28l0F7hO3EN9DKRY/cfwDP4KSfAg=",
+          "py3"
+        ]
+      }
+    },
+    "1.43.0": {
+      "sdist": [
+        "S1KXUJ22BdzJ3/XEADRb2WDl0F37OlS62dlJ96t7apQ=",
+        "datayoga_core-1.43.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.43.0-py3-none-any.whl": [
+          "bL4EoizavAt1T9k5AaURo6ERM1t4zSAXKrQZ0JdC+4c=",
+          "py3"
+        ]
+      }
+    },
+    "1.44.0": {
+      "sdist": [
+        "p25T5sFjBv14MDa9X+tTB1vV1Re75R6GTwCObTX2OkA=",
+        "datayoga_core-1.44.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.44.0-py3-none-any.whl": [
+          "SLY8ERoi1jXFtXln6XWEyb+Nop9uOLFMQ3j3Zh5/hds=",
           "py3"
         ]
       }
@@ -136595,6 +136631,20 @@
       }
     }
   },
+  "twcollect": {
+    "0.1.0": {
+      "sdist": [
+        "MdWpd5HglvzoWKuYISSanfMPqM1GhwwfIhw3v83iD/8=",
+        "twcollect-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "twcollect-0.1.0-py3-none-any.whl": [
+          "+q2I2xE3v03pWXnLuvpae5qK0BPqh9vwwYnGEJ5vPwQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tweeterid": {
     "1.0.0": {
       "sdist": [
@@ -142960,6 +143010,34 @@
         ],
         "xia_api_flask-0.0.31-cp39-none-win_amd64.whl": [
           "apYqqrdX4w6B48ATkG2sfNGHlOClvkFu2gpt8t2gN9o=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.32": {
+      "wheels": {
+        "xia_api_flask-0.0.32-cp310-none-macosx_11_0_x86_64.whl": [
+          "vAtAmFkTCUzbmW92X6zuFIpB9BLHxRZSasADFnKmeWU=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.32-cp310-none-manylinux1_x86_64.whl": [
+          "pL6djxCDiKdhkuMKK+UUPJLL2PI8sDJiGzl4eoWG3y0=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.32-cp310-none-win_amd64.whl": [
+          "I2BZ3C2dMoQq/TfGyR13Gv85KRDvhpdABMTTL7J/Meg=",
+          "cp310"
+        ],
+        "xia_api_flask-0.0.32-cp39-none-macosx_11_0_x86_64.whl": [
+          "fNmzPVNllmLlHf8Ym6rLFzC0DDEwYACoAY7hvN1XgKs=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.32-cp39-none-manylinux1_x86_64.whl": [
+          "Jxr9j5lCxsU+z3p0P9qzsODE/B2xQIA8B3qwwYLYPuk=",
+          "cp39"
+        ],
+        "xia_api_flask-0.0.32-cp39-none-win_amd64.whl": [
+          "gffz3ODYOiry/xftwrlq3BTTqOXjRx5Qye/gnwnK1fw=",
           "cp39"
         ]
       }

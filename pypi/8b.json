@@ -16182,6 +16182,18 @@
         ]
       }
     },
+    "0.0.132": {
+      "sdist": [
+        "uQhv9t5WGTXb98D/8KhvT67S55pNWwU21NpAOl+3IYo=",
+        "cdk-create-ami-0.0.132.tar.gz"
+      ],
+      "wheels": {
+        "cdk_create_ami-0.0.132-py3-none-any.whl": [
+          "ExRYRqHl30/IBEXS2LY6b/HA9eIR+wx0WlsbqtclphI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.18": {
       "sdist": [
         "eARX4IM1YNgC1RgMUDIVYHUZRx7BIkCzt4qT9ab455s=",
@@ -83947,6 +83959,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.0.2.dev2": {
+      "wheels": {
+        "odoo14_addon_account_invoice_supplier_self_invoice-14.0.2.0.2.dev2-py3-none-any.whl": [
+          "nlFBxW7woF2dW8BIRqyVrfRbS56a41oflYwXce3qLXQ=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-edi-purchase-oca": {
@@ -97782,6 +97802,74 @@
         ],
         "point_cloud_utils-0.27.0-cp39-cp39-win_amd64.whl": [
           "deGKELswta864Of0vAIFf2ldby6YSyn2BNWC1QFleSk=",
+          "cp39"
+        ]
+      }
+    },
+    "0.27.1": {
+      "sdist": [
+        "uE2g9/oNh2nHr1C8hhFIufqpnzc2QgWW1GhXLh1FD4k=",
+        "point-cloud-utils-0.27.1.tar.gz"
+      ],
+      "wheels": {
+        "point_cloud_utils-0.27.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "zYe6h8R1CDymCNJu+Hnjkl7vfC7zj1lm7H5BZz9thiY=",
+          "cp310"
+        ],
+        "point_cloud_utils-0.27.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "L8OWeLX8Z/c5QBB0Dldd/7FROFpfh92py8tELM0braA=",
+          "cp310"
+        ],
+        "point_cloud_utils-0.27.1-cp310-cp310-win_amd64.whl": [
+          "35B+FYh50wbMM/ifLXRGzj0Cn5MhDbtZsdg3QJDqeN0=",
+          "cp310"
+        ],
+        "point_cloud_utils-0.27.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "uPPhoyNTJqYF1CoxEjKd/QoEriibvcgDfbcqlQQAFEg=",
+          "cp36"
+        ],
+        "point_cloud_utils-0.27.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "588V/hrESJVQSUeTj8H/Nqe6gKP+BKNZY+UGxAc3EZ8=",
+          "cp36"
+        ],
+        "point_cloud_utils-0.27.1-cp36-cp36m-win_amd64.whl": [
+          "JPK/B+fRntAjXGdhIb073Zc9x0daPqO4woksetDfHOU=",
+          "cp36"
+        ],
+        "point_cloud_utils-0.27.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "lXhjUvOHW9GM7sWkzLNUUSEun7FOH98MlGWhP2bs3PM=",
+          "cp37"
+        ],
+        "point_cloud_utils-0.27.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/6shwbb+1xnPfiLV9vyEXqwnRUbrKLgLShB+dyM3M4Q=",
+          "cp37"
+        ],
+        "point_cloud_utils-0.27.1-cp37-cp37m-win_amd64.whl": [
+          "AEfIBIOUcjCnXmVvfIFttxsSZE/e7BsXliRfP1FCPWY=",
+          "cp37"
+        ],
+        "point_cloud_utils-0.27.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "31DDSCxA0D52VFPimAfeVYWr5TRTRSiIeSOgOwjwbwE=",
+          "cp38"
+        ],
+        "point_cloud_utils-0.27.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JYW0ILNzd4TDa94NIZae1fNsNVwf0ZJXIxDjwgzg0VM=",
+          "cp38"
+        ],
+        "point_cloud_utils-0.27.1-cp38-cp38-win_amd64.whl": [
+          "wQtVt4eoYNtke8XpjFMbrn9H9ZgsOr+/OjShfTtSHnY=",
+          "cp38"
+        ],
+        "point_cloud_utils-0.27.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "UthSr+TnFQV2N0uVE4qgLfSwczun33nII6ySdhUA0c4=",
+          "cp39"
+        ],
+        "point_cloud_utils-0.27.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vJ3ZsXy8tSq7UMjnIcw4dAN6zn/NdKXS2SVVyBCldKg=",
+          "cp39"
+        ],
+        "point_cloud_utils-0.27.1-cp39-cp39-win_amd64.whl": [
+          "wlYPFm034WPe31NIKcsc9se99v+eGjOPuUCuZMUb8uU=",
           "cp39"
         ]
       }
@@ -154472,6 +154560,18 @@
       "wheels": {
         "youtube3-1.2.2-py3-none-any.whl": [
           "yg1xxibqXwgaBRUmqFz+s4ZQ2KEf8Z9bfr3MBOPq/Rc=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "K49k6CROghZB+L3d2e+CJjKPRbQEUGsoIL7iOODN+rQ=",
+        "youtube3-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "youtube3-1.2.3-py3-none-any.whl": [
+          "43Ec+c8zXNkJbqd8QXPjY/F+n1kdeBnovRyuLPat0oI=",
           "py3"
         ]
       }
