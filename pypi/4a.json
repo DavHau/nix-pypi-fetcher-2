@@ -3533,6 +3533,12 @@
         "nIp3eDnq0JRELhgB+N8VQgHJg32hUoNyChFCSMTntak=",
         "apiscout-2.0.0.tar.gz"
       ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "lwEGvw9PoiFwNDDcqp2+3JRWrB7DChp1Dor/Ak4lKLY=",
+        "apiscout-2.0.1.tar.gz"
+      ]
     }
   },
   "appdaemon-testing": {
@@ -57129,6 +57135,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "7dJHQQip3v/PCxPoDNXCnv91yeIcwG6EOiY20mBgnYw=",
+        "hardeneks-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "hardeneks-0.7.0-py3-none-any.whl": [
+          "TebGk5+tG2inpsywMBo+bbxX6tn0H720z3o/uKq41nU=",
+          "py3"
+        ]
+      }
     }
   },
   "hashbang": {
@@ -67771,6 +67789,20 @@
         "+LbDpI/5gUIvcj0qdDh/J0YelqzQkNpNPBU/kZirF84=",
         "locuspocus-1.1.0.tar.gz"
       ]
+    }
+  },
+  "lody-calc-package": {
+    "0.0.1": {
+      "sdist": [
+        "OShHzGcdvD3U+Oi6yMRr/LS7pb38zPRxdndJFWNJ3tM=",
+        "lody_calc_package-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lody_calc_package-0.0.1-py3-none-any.whl": [
+          "kGzm9W17vthV/LHvZ1GtCQNp2Bb6e6gVZbecI1QT2gI=",
+          "py3"
+        ]
+      }
     }
   },
   "log-analyzer": {
@@ -86194,6 +86226,14 @@
       "wheels": {
         "odoo13_addon_product_mrp_info-13.0.1.0.1.dev2-py3-none-any.whl": [
           "tqNH34RaXqIISUKzg850IMw6/JgyofpveBkjbypS1qU=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo13_addon_product_mrp_info-13.0.1.0.1.dev4-py3-none-any.whl": [
+          "k6gH2KVOuNxV6WbMnnuHLgtoWapBfupJotgukIeNi0s=",
           "py3"
         ]
       }

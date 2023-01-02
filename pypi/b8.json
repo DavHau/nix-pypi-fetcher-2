@@ -6669,6 +6669,18 @@
           "py3"
         ]
       }
+    },
+    "5.0.2rc2": {
+      "sdist": [
+        "INuGdWHnmbHWyPrSmLhaOrH+Ljd2OBDpPkPsSYT93r0=",
+        "apache-airflow-providers-microsoft-azure-5.0.2rc2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_microsoft_azure-5.0.2rc2-py3-none-any.whl": [
+          "NcUHIx8jBKZRKbSHyN9hADxDELHopbyr3PyhfII2Zfg=",
+          "py3"
+        ]
+      }
     }
   },
   "apeman-model-client": {
@@ -33143,6 +33155,42 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "hwKGyifED2NU88D3Zt4Mn+PeWTbSsqICzA0jT9Jr6ZY=",
+        "dvpn-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.1.1-py3-none-any.whl": [
+          "A9XS7dNVWw3eNhcIfq6fKhAuOcsQV/GzMU8l++TsRXk=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "vdrLMMi+q9lA5pEW+IJjFDry/Rgp8Er3IxwTCy+DbEs=",
+        "dvpn-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.1.2-py3-none-any.whl": [
+          "eHM7jvX0fkzUyUJSyGyOCsuPNVcrKLR2ZDXoR5+M1tM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "IfpgRJod9UKSnksPySTFY9AgrfravblWxCpXbb84DHs=",
+        "dvpn-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "dvpn-1.1.3-py3-none-any.whl": [
+          "TV6RIL9eKFiuXkd0McLyd7NwJ4HEfybgOBShVX1/AHw=",
+          "py3"
+        ]
+      }
     }
   },
   "dynamodb-python-lib": {
@@ -37987,6 +38035,20 @@
         "ubEwdXf3cSjdqe+4MQ/01Mo5r8D8zODGJkCh40+a3RM=",
         "fast_bss_eval-0.1.4.tar.gz"
       ]
+    }
+  },
+  "fast-trimesh": {
+    "0.0.5": {
+      "sdist": [
+        "CNi/zwGozq9F9Jy2SVkaxHUDXTOBgyk9759BRFH/AAo=",
+        "fast-trimesh-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "fast_trimesh-0.0.5-cp310-cp310-macosx_12_0_arm64.whl": [
+          "Q3Ilm3ILQ5NQ39U/XNqusYEigtearSzLUMdpWqpD6jc=",
+          "cp310"
+        ]
+      }
     }
   },
   "fasta-merge": {
@@ -128004,6 +128066,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.6.0.dev20230101-py3-none-any.whl": [
           "SdGYXrYP1USK/dF1twpZglRF3AXLIR7Xx89MaiZEbt0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.dev20230102": {
+      "sdist": [
+        "7CPrg9mAAfjY1KfBCWS9+UUk1clpHNQs7Dm37it+Pws=",
+        "tensorcircuit-nightly-0.6.0.dev20230102.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20230102-py3-none-any.whl": [
+          "r7prlgSE+pUyu+vYLc/qtZ5oMe3OywFQVLd0Tc6Kfvc=",
           "py3"
         ]
       }

@@ -68669,6 +68669,18 @@
           "py3"
         ]
       }
+    },
+    "2023.1.0b3": {
+      "sdist": [
+        "HYDtj+74MJmRtj6w2L9QOcQYQY7n5FpRq4MJnXEiRnk=",
+        "modelw_docker-2023.1.0b3.tar.gz"
+      ],
+      "wheels": {
+        "modelw_docker-2023.1.0b3-py3-none-any.whl": [
+          "5UBygSuSvuyTBQI5iYBSx9pklr8198VxXUTgNWhpfEQ=",
+          "py3"
+        ]
+      }
     }
   },
   "modrc": {
@@ -83650,6 +83662,14 @@
       "wheels": {
         "odoo14_addon_l10n_ro_stock_account_date-14.0.2.4.0-py3-none-any.whl": [
           "TdPvDVqLuvpRX5KbQWFf59la0Udg0zbKFA/yBcKClBI=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.5.0": {
+      "wheels": {
+        "odoo14_addon_l10n_ro_stock_account_date-14.0.2.5.0-py3-none-any.whl": [
+          "5Fya5Bb6eSYmoYBN7mrX3aMmPPBpuNCvX187zJ3o6eQ=",
           "py3"
         ]
       }
@@ -115331,6 +115351,20 @@
         "qrmaker-1.0.3-py3-none-any.whl": [
           "gDEq6iubxl/aBBu2QfL0VbcmMSevexlj0NaiNXCQ354=",
           "3.7"
+        ]
+      }
+    }
+  },
+  "qruise-remote": {
+    "0.0.1": {
+      "sdist": [
+        "GM4G+dVXHS47gGJwf5OTD6+EGweylXQhpTv+/r2vEqg=",
+        "qruise-remote-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "qruise_remote-0.0.1-py3-none-any.whl": [
+          "IFcvBdEAIK228c8QEOxMshFj1TdLezG8othQQCyT1C8=",
+          "py3"
         ]
       }
     }

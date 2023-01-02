@@ -100446,6 +100446,14 @@
     }
   },
   "odoo14-addon-sale-line-refund-to-invoice-qty": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_sale_line_refund_to_invoice_qty-14.0.1.0.1-py3-none-any.whl": [
+          "1NcyKP88OaLquPirts0nqU1a6EffdcLpYLwpIFhhzis=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_sale_line_refund_to_invoice_qty-14.0.1.0.1.dev2-py3-none-any.whl": [
@@ -105614,6 +105622,66 @@
         ],
         "pineappl-0.5.8-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "8+pilNienNQuajjR2oqhJIZtzqNgrG8eOzsrhYgng/E=",
+          "pp37"
+        ]
+      }
+    },
+    "0.5.9": {
+      "sdist": [
+        "qvWplt+LMUCUnNFudLoCmHLctf6AyzbmJ131pIJU31s=",
+        "pineappl-0.5.9.tar.gz"
+      ],
+      "wheels": {
+        "pineappl-0.5.9-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "qvoqxRzgpFypUcL+Zjnx+VRxG65wjSobGNOeVbVmio0=",
+          "cp310"
+        ],
+        "pineappl-0.5.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dYhWE7tqHDB6F07zMnJ5hjS160fwcSyIxNizgOAYe2c=",
+          "cp310"
+        ],
+        "pineappl-0.5.9-cp310-none-win_amd64.whl": [
+          "VWebSx2AgGJPDFctZdauKjo34qtp600ZeNEb/bDrJ9k=",
+          "cp310"
+        ],
+        "pineappl-0.5.9-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Gyf1Sy6YC5W5TFpxbQkcp5P7+sk9B/37W80qlWyW7vA=",
+          "cp37"
+        ],
+        "pineappl-0.5.9-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t+/x6R+X34TLGBNVaZCJLvkW4j8tCeBPliu9OVTJywk=",
+          "cp37"
+        ],
+        "pineappl-0.5.9-cp37-none-win_amd64.whl": [
+          "1N518/G8gqK0mdFRAd9iyv86nw+Pqms/88EgAddWVWI=",
+          "cp37"
+        ],
+        "pineappl-0.5.9-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Z+78bB4R64NJ3iZq/X3wg4SrBE6VQlFtxHU9dyRU7Xs=",
+          "cp38"
+        ],
+        "pineappl-0.5.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TdNMt+F+bODS3LfO5dj9q0+GB2e+qgBl9lX2LCz3wP8=",
+          "cp38"
+        ],
+        "pineappl-0.5.9-cp38-none-win_amd64.whl": [
+          "Soks/ippjq8zsiSNSKIokd3thze/iDPzTNtjI4WeN8w=",
+          "cp38"
+        ],
+        "pineappl-0.5.9-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "x3jJVz2tt/JWFuLy6aKYWMf5/CHT2seMjHzSWMqLrQk=",
+          "cp39"
+        ],
+        "pineappl-0.5.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IExM0osRXihZpLtsSyXr/+mxiKi/8A5m05a2zwZpifM=",
+          "cp39"
+        ],
+        "pineappl-0.5.9-cp39-none-win_amd64.whl": [
+          "V/Z1Ptng9gZ5TK713zHixnIIGxgHAM4P+GaaCdr0kNs=",
+          "cp39"
+        ],
+        "pineappl-0.5.9-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yqxevU8vvxuGpqKeaeYWO++h2jvuMADbLYCqkCjjuEE=",
           "pp37"
         ]
       }

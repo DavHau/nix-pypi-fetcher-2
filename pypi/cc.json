@@ -6059,6 +6059,18 @@
           "py3"
         ]
       }
+    },
+    "4.2.1rc2": {
+      "sdist": [
+        "ykoxF3SNUhu8bDf9vnzAVTB418hSp3CEBMIFO+fBk8k=",
+        "apache-airflow-providers-presto-4.2.1rc2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_presto-4.2.1rc2-py3-none-any.whl": [
+          "v6GkYWYZGtHACl0wYFdJ/09Cp90b++br+sorhHFYc7s=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-redis": {
@@ -53618,6 +53630,18 @@
       "wheels": {
         "homelypy-0.0.7-py3-none-any.whl": [
           "NNvmeF2pcicfHtyt6Q+SuRxp+2q64PJcC9ae9/okp/g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "xSYAWJwJnGtCBn/W6AYq2/lu/c14VfOS+KFgrtQF/SY=",
+        "homelypy-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "homelypy-0.0.8-py3-none-any.whl": [
+          "4/bisf3f0Q52zLgOKYUsNiS/ps4zZk1AeJz+WvP7cFA=",
           "py3"
         ]
       }
@@ -133348,6 +133372,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20230101-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "Nr4FQY+SVD6ct6qpXi1gCGVgSUQEmrGqykgO1YoEgnU=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230102": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20230102-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fdrLNmRWk4SWA7BbuICseZbxErCvspqfBVqBt2F3AWc=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230102-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ya/P5vkzKiR7FPP/4VECYuYemXvciy3949O+AwLv/a8=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230102-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "NQD+PlfS1fQs6P37YFlzue3phAcLOh9LAUBmR6Zrahs=",
           "cp39"
         ]
       }

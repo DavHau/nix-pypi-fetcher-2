@@ -15325,6 +15325,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230102": {
+      "sdist": [
+        "/+20u1FwjxcplUr2K3j6EX7TM1BnuhPFhXDnw0lAVNE=",
+        "bigdl-dllib-2.2.0b20230102.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20230102-py3-none-macosx_10_11_x86_64.whl": [
+          "s2T/EJqasRAeZB9JMwPtoOv3+zIb211k530eNMfpaYY=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20230102-py3-none-manylinux1_x86_64.whl": [
+          "PT2hBw14n7u2x9rRLpcIQJBhdd/4tZ9CmJmg+9c2+2I=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -22010,6 +22026,18 @@
       "wheels": {
         "cochar-1.0.0a1-py3-none-any.whl": [
           "CVP2NLHqU+enwCkEMt8xKsNRYHek6yqU1xgH7pPg5Ts=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a4": {
+      "sdist": [
+        "BzN2MBXtPtvG2dQ91x1sppGren+hBhWdstiJndaXZTQ=",
+        "cochar-1.0.0a4.tar.gz"
+      ],
+      "wheels": {
+        "cochar-1.0.0a4-py3-none-any.whl": [
+          "f5ny2RdHJNo/y0IciY+E+3xL2HSbdf0ISuo1TgrvkKE=",
           "py3"
         ]
       }
@@ -120485,6 +120513,14 @@
       }
     }
   },
+  "simplefilemirror": {
+    "1.0.0": {
+      "sdist": [
+        "l/DOtJcxGo9qvh+qiFt8xossZOWogkUrqNlOlm2MSbY=",
+        "simplefilemirror-1.0.0.tar.gz"
+      ]
+    }
+  },
   "simplemailproxy": {
     "1.0.0": {
       "sdist": [
@@ -140775,6 +140811,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230102": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230102-cp310-cp310-win_amd64.whl": [
+          "GcrVixI78PKhCjxRxJwZUBWSAhBj1tJAKBkjElE6IOQ=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230102-cp38-cp38-win_amd64.whl": [
+          "WTXMA/jZ9cx7/TfQ63Xn1vMZofHHpc4OD9omvy1IRk4=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230102-cp39-cp39-win_amd64.whl": [
+          "c5tJt2d5FJmRnC3daDiSF05Wg8jaOAyhAJdLxbxvv2Y=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -145508,6 +145560,18 @@
       "wheels": {
         "umbraSenscraping-0.0.7-py3-none-any.whl": [
           "VHT5uhSTgdNT9EqFJXADRB2JsRdQ55k/YJO8XXLkFgs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "LUyJHRUt3jJvEnmdGfiEjhIESM5oDvT/7KfzGYPxrdE=",
+        "umbraSenscraping-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "umbraSenscraping-0.0.8-py3-none-any.whl": [
+          "IGXJNQqWmmsla9GpHQ6zF72mStELBohNfL2tYUoTXIY=",
           "py3"
         ]
       }
@@ -155900,6 +155964,18 @@
       "wheels": {
         "zood-0.1.0-py3-none-any.whl": [
           "l3uDFEJ9AD+nuXrp6FjWvppRqyLSdsHDgDwd7m9q4m0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "EhcjMBquNn5oH+wgKwS6GyNLA5EPFWtLbNYiTVtXEu8=",
+        "zood-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.1.1-py3-none-any.whl": [
+          "iIuhPndUNpBchuKuPrSloVo/BWIvEYyUV+l38GAcRP0=",
           "py3"
         ]
       }

@@ -52346,6 +52346,18 @@
         ]
       }
     },
+    "1.0.16": {
+      "sdist": [
+        "H7RMEJUuqkeJV2sqWHp9L0v+jQlaTyuPCmLFurakiV0=",
+        "fastapi-analytics-1.0.16.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_analytics-1.0.16-py3-none-any.whl": [
+          "DYe2HexIv4EPjACIAleBnkx3dxyc1uTv7YTRedVbf2s=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "rMP5C8HIGQd98GyK/iDMBx83Ye3et2tLdHEoDXbKzro=",
@@ -79230,6 +79242,18 @@
       "wheels": {
         "mapel-1.2.3-py3-none-any.whl": [
           "bqNqFevkWpLexZ9rflW+AGMTO1OX/TP3w5hWUl/9DJk=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "oRwB2SN4Z89tCeIbMaGf2Ax0uCoHM0piroZvrnFIxaQ=",
+        "mapel-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mapel-2.0.0-py3-none-any.whl": [
+          "JSVtxvshdd0zB9CqhxfxwktfXMvvlLe3RNZWLsdR3n8=",
           "py3"
         ]
       }
@@ -143904,6 +143928,22 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20230101-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "yXyJhg0PVdsGx+iHFoaxOX4Iw8Hw5qWRVOxwEuCQCLA=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230102": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20230102-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gVYWQF58gI+N8/mq2Gjz3D3DThU/8IajgRXuLCUEey8=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20230102-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "efqJuSZb13xXb7ijfuBk45Vhyfcaq2waQjYlFGD7Hco=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20230102-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XzXNAM4fq2uXDPSLGDU1FUfYWGtmaJ+k2N3Eas+2bJM=",
           "cp39"
         ]
       }

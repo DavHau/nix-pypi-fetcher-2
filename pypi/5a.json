@@ -10637,6 +10637,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230102": {
+      "sdist": [
+        "SUdVGyFLgIxI3bxNQhzpxKX7jUatI8YxntKE+Zhvd8w=",
+        "bigdl-dllib-spark3-2.2.0b20230102.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20230102-py3-none-macosx_10_11_x86_64.whl": [
+          "lPjNlUQJ+GDRmquXv9FsA8znahppPoFP3waY6Od/c0o=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20230102-py3-none-manylinux1_x86_64.whl": [
+          "S36/SEPPJsKZpfd7bFJ3cqnm+tRuYiOjsjA4hIaHqEY=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -34636,6 +34652,18 @@
       "wheels": {
         "ephios-0.13.1-py3-none-any.whl": [
           "vfnuZLCNHRkWEMerKiHoxoBTr/4ewj0Jd2Dk/n2K+s4=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.2": {
+      "sdist": [
+        "IFX9o2dB9S/CQjI/0MZPB0ge6BXIDPx+y0d+2zlqv90=",
+        "ephios-0.13.2.tar.gz"
+      ],
+      "wheels": {
+        "ephios-0.13.2-py3-none-any.whl": [
+          "viR9W9+TxmUrW7jZNnXBKepZfUltFQd+WjsMRz1eOeM=",
           "py3"
         ]
       }
@@ -59906,6 +59934,18 @@
       "wheels": {
         "lavue-2.80.0-py3-none-any.whl": [
           "EcIjBQffjkYjuJpm0lRUc08Dj1W9bzWEg5xLIFSvic0=",
+          "py3"
+        ]
+      }
+    },
+    "2.80.1": {
+      "sdist": [
+        "CVC7dlwA9GcDGrI5TNEvdSaMrEBDbNbrSLBYpt7+7cw=",
+        "lavue-2.80.1.tar.gz"
+      ],
+      "wheels": {
+        "lavue-2.80.1-py3-none-any.whl": [
+          "aBewyH9N6umCzWOsaT0vkS8VFwGXnjOqFEGhD4P3Ghk=",
           "py3"
         ]
       }
@@ -93552,6 +93592,14 @@
         ]
       }
     },
+    "12.0.1.0.0.99.dev13": {
+      "wheels": {
+        "odoo12_addon_auto_backup-12.0.1.0.0.99.dev13-py3-none-any.whl": [
+          "2M62+TpyDEv3cs796qOanJ1O0HgOzF+zFpE31M3D8xQ=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo12_addon_auto_backup-12.0.1.0.0.99.dev2-py3-none-any.whl": [
@@ -109878,6 +109926,66 @@
       "wheels": {
         "py_lav-1.0.4-py3-none-any.whl": [
           "pBIGwUELFCxpHM+PZxKFXi756pGAOOXgbs3vyviaIjM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "ygrRiTX+i0n5Yy5AsjG8VCns0fSSQQ7Y40fxLStrJ5o=",
+        "py_lav-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.5-py3-none-any.whl": [
+          "MPN6DPnJscZmGzD+3GE3MHNUUKOK3qh3jBn2/aPXX+0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "fuzNmddS0nBZndMiJIHo7O7dIItAp8BkUA2d4XsVgHY=",
+        "py_lav-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.6-py3-none-any.whl": [
+          "rSQWOmTOFUlfIDClHPvuVCHDbiP4cyqHPWkOb6sZPe4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "U/8102yEHEBBeVtQ8pCGE85ZgvaFq4s51zw9SzrdxvY=",
+        "py_lav-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.7-py3-none-any.whl": [
+          "oq+R51M5c5j50/D+iFxEiMyN26bjJqK2O/r06BSuzhk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "tPfAeWz8yFO5KG0Sgtpzj/KQ5A1c/jHMPEunqVHVH+Q=",
+        "py_lav-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.8-py3-none-any.whl": [
+          "Gpkqt4plN4TK5/TPYxj9f3kwjFxbYUBtgt5mYqSx3l8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "VyKUifCEQtHkxzXMhhhITjzVRbo8ol9ipaQt1gPZd0E=",
+        "py_lav-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.9-py3-none-any.whl": [
+          "uvszBLJRCXUt8lw2lmKItH1nihagfR2D8b9MVWk3D/w=",
           "py3"
         ]
       }
@@ -149759,6 +149867,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.5": {
+      "sdist": [
+        "eEeqwZIL6FgerfHCJE6FmiNKlxyj3G9tKqDk0lE61QI=",
+        "untanglepyut-0.6.5.tar.gz"
+      ],
+      "wheels": {
+        "untanglepyut-0.6.5-py3-none-any.whl": [
+          "0XTZnZn4BMMwvxfJQPD4hsJ1EDVl02karz3M4Fd6lwc=",
+          "py3"
+        ]
+      }
     }
   },
   "up2oss": {
@@ -157450,6 +157570,18 @@
       "wheels": {
         "yt_dlp-2022.9.1-py2.py3-none-any.whl": [
           "rzch7LKGqVJyAIrdO5vr3k83D7O90btkAnJ6+eLjqis=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2023.1.2": {
+      "sdist": [
+        "uNe7tcFZX3GIVaMfNNigJ2pwhvXT9ULAIaje2LJtNq4=",
+        "yt-dlp-2023.1.2.tar.gz"
+      ],
+      "wheels": {
+        "yt_dlp-2023.1.2-py2.py3-none-any.whl": [
+          "NwQLsM2p8QFolU6vifPW4YcQavgcEf3tPCLsAxEZTNY=",
           "py2.py3"
         ]
       }

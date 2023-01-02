@@ -25765,6 +25765,32 @@
       }
     }
   },
+  "datahub-postgres-lineage": {
+    "0.1.0": {
+      "sdist": [
+        "9gB3Z18x52yF42zFfKJx2l2RZoBt+cuegqhAR4hWEnY=",
+        "datahub_postgres_lineage-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "datahub_postgres_lineage-0.1.0-py3-none-any.whl": [
+          "ZmGD0zBpZoak8HRedrGagJYiKlHr2DFSqq6ASBYqASY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "BlpAHMdxLqZfztJT5JCp+PlqbFV2a61Yy8TGDHQKLoI=",
+        "datahub_postgres_lineage-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "datahub_postgres_lineage-0.1.2-py3-none-any.whl": [
+          "0Qlew4JVwDfpKCdPPDe+lzwyzrVLl7SegsNBiHYZcVU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "datpython": {
     "1.0": {
       "sdist": [
@@ -31421,6 +31447,32 @@
         "6Qwyb2ZMkM+365LyjgWoi3EEI5PrKwT+7LulAV+F6SU=",
         "django-c5filemanager-0.2.tar.gz"
       ]
+    }
+  },
+  "django-cbv-inspect": {
+    "0.2.0": {
+      "sdist": [
+        "g6KRHVW80V+JuxgMDc53kKEe30CBWtrhB9fNcEn5g7k=",
+        "django-cbv-inspect-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "django_cbv_inspect-0.2.0-py3-none-any.whl": [
+          "FO1G5eqhyhQ64hLC/9TBHkOMSPgLliZ3nyJGTpAIBUM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "nkevYq3pEqWwl1IMQOZG1XXw5nj4jsEt5lw84yRM6OM=",
+        "django-cbv-inspect-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "django_cbv_inspect-0.2.1-py3-none-any.whl": [
+          "ZN8EEph7CzheOgdpSDn+Dbv0c6QTteaksfYvVBJN5Ek=",
+          "py3"
+        ]
+      }
     }
   },
   "django-codemirror-widget-2": {
@@ -87189,6 +87241,18 @@
           "py3"
         ]
       }
+    },
+    "2.9.5": {
+      "sdist": [
+        "o72xi/UNSvC9JD+/Af36QyvOmqapdIKzsp2PC+gbzxM=",
+        "nonebot_plugin_zyk_novelai-2.9.5.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_zyk_novelai-2.9.5-py3-none-any.whl": [
+          "NYCJwhhPrB3F1RloZhcxdRduPWJddhx5icar3JzM4uY=",
+          "py3"
+        ]
+      }
     }
   },
   "nonsentence": {
@@ -90872,6 +90936,14 @@
       "wheels": {
         "odoo14_addon_auditlog-14.0.2.0.1.dev1-py3-none-any.whl": [
           "XU/+rF9Ofk2aavl5MpGpJNv5DV22mSSaBWQ0/aZHfIs=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_auditlog-14.0.2.0.1.dev2-py3-none-any.whl": [
+          "Ptk11AEicO/CvbSCaJBSkiX5zBEoRMRIZKeekklPaFs=",
           "py3"
         ]
       }
@@ -135288,6 +135360,14 @@
         ]
       }
     },
+    "2.12.0a20230102": {
+      "wheels": {
+        "tb_nightly-2.12.0a20230102-py3-none-any.whl": [
+          "nAt0r8Vo+gaFAIGRANZM8ip8/ouDQnxE/qQmi8Dk6RA=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20191207": {
       "wheels": {
         "tb_nightly-2.2.0a20191207-py2-none-any.whl": [
@@ -146678,6 +146758,18 @@
       "wheels": {
         "tuxbake-0.1.0-py3-none-any.whl": [
           "Odjg5hhhAwrbZc4SspZROTnELV+sUEPtpKaT3ijzHeY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "usZ2C64baw6x+UBp9aUBsSRu2mhIlcOnGryNDsudfMM=",
+        "tuxbake-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "tuxbake-0.2.0-py3-none-any.whl": [
+          "Hk0LZm4RHL/UZwouKxVfjReZNjQxFulN21AuGpE1+ic=",
           "py3"
         ]
       }

@@ -82659,6 +82659,30 @@
           "cp38"
         ]
       }
+    },
+    "2.3.4": {
+      "sdist": [
+        "rHgxrBtH3QWb2y9sML1TniqoljdV8i3aQowtY0FAn7E=",
+        "OctoBot-Trading-2.3.4.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "LuLgS1S9OmYl3cpX0LBtQKzndBuiLhmW5iHxse+WvsU=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dKMUM2zNT1OOO1VMs0EBnhuPbBZorhHgK03RkJuU0Uk=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.4-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "kV051IIMaNfWFZOR93yNMDVosHctIRPpPAVYaVrU0NQ=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.4-cp38-cp38-win_amd64.whl": [
+          "kTJDYJyZlkA4hRGRxqqAJ36cgRhKhf8/DkvDcnj2ft0=",
+          "cp38"
+        ]
+      }
     }
   },
   "odoo-addon-account-invoice-check-picking-date": {
@@ -101506,6 +101530,12 @@
       "sdist": [
         "fUQA2WcKP8W6z+jpvZYYHrTStHVV97sfZ8LAuqxZfIg=",
         "pylink_core-0.5.12.tar.gz"
+      ]
+    },
+    "0.5.13": {
+      "sdist": [
+        "uj2MGU+9ChJMSDt6+tmILaJZgDiD6Arz+VXRqkrKNSw=",
+        "pylink-core-0.5.13.tar.gz"
       ]
     },
     "0.5.2": {
@@ -139750,6 +139780,18 @@
       "wheels": {
         "vulnerablecode-31.0.0-py3-none-any.whl": [
           "wHoETKaH1mlj6xPpNapgeaA3McNXz8S8AjOj4vutDUg=",
+          "py3"
+        ]
+      }
+    },
+    "31.1.0": {
+      "sdist": [
+        "W9Jx7OA5DIuZoyjMEQHYLQltLeM11OybiLOJS+S92W0=",
+        "vulnerablecode-31.1.0.tar.gz"
+      ],
+      "wheels": {
+        "vulnerablecode-31.1.0-py3-none-any.whl": [
+          "RB/smnnu54zIUXjJqI44JYQbZeZ1oo2K6FRnz9Uyj70=",
           "py3"
         ]
       }
