@@ -7961,6 +7961,18 @@
           "py3"
         ]
       }
+    },
+    "2.59.0a0": {
+      "sdist": [
+        "VdZa/4XPcttZhCpm+LwRqjdAMVR2iKSobyF82DrPGyE=",
+        "aws-cdk.aws-s3objectlambda-alpha-2.59.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3objectlambda_alpha-2.59.0a0-py3-none-any.whl": [
+          "OBFyxjV4FnjcGVg5Zs+yp+GK/pyiQgRnFOPCechN7n8=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdkaws-sns-subscriptions": {
@@ -85520,6 +85532,14 @@
         ]
       }
     },
+    "10.0.1.0.0.99.dev13": {
+      "wheels": {
+        "odoo10_addon_purchase_picking_state-10.0.1.0.0.99.dev13-py2-none-any.whl": [
+          "58YLvpeWsNRCDnuH/WdLJixDhizv949a7K+RuWdWHM4=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo10_addon_purchase_picking_state-10.0.1.0.0.99.dev2-py2-none-any.whl": [
@@ -86700,6 +86720,14 @@
       "wheels": {
         "odoo14_addon_mrp_subcontracting_bom_dual_use-14.0.1.1.1.dev3-py3-none-any.whl": [
           "8X+BaOdZ++PVnH+jZLcbbLqr8rYdk/ucp/IRaw3PlH0=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1.dev4": {
+      "wheels": {
+        "odoo14_addon_mrp_subcontracting_bom_dual_use-14.0.1.1.1.dev4-py3-none-any.whl": [
+          "sbajMTH1x5UWe+OV4D6YeXCltOQTNzClNKCi45z6eBc=",
           "py3"
         ]
       }
@@ -116078,6 +116106,58 @@
         ],
         "pytket-1.10.0rc0-cp39-cp39-win_amd64.whl": [
           "nnbBSvHBqfQBmX1qpe4DDJH+hQIN0Z5JtJ/8hqLGXew=",
+          "cp39"
+        ]
+      }
+    },
+    "1.11.0rc0": {
+      "wheels": {
+        "pytket-1.11.0rc0-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "w5wYCOgiCyvV1y6lUXf5NWbbephybaVqzm6SDRGC+Gg=",
+          "cp310"
+        ],
+        "pytket-1.11.0rc0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "VY4VwbKZc3r7Au85ONxZKCJbzTf3wSDR7o5VN2sWBb0=",
+          "cp310"
+        ],
+        "pytket-1.11.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X8rM7HA6TYyM9UwfhmQuxuybN4Cmiabxo2OlFGOnw+U=",
+          "cp310"
+        ],
+        "pytket-1.11.0rc0-cp310-cp310-win_amd64.whl": [
+          "+CLLBa6I48Rh3dLBb0SMlB6BSPF1YW96yIJ34cU46g8=",
+          "cp310"
+        ],
+        "pytket-1.11.0rc0-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "BfQcytt+mpOtxWss1dwASRRvvkHxUoFitsrdkgzpR4Y=",
+          "cp311"
+        ],
+        "pytket-1.11.0rc0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "/Ds7fcELC837+8+UrX42y+8xNxkGtiE5H/EVCVsgma4=",
+          "cp311"
+        ],
+        "pytket-1.11.0rc0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PzWcLUqqNMlIO9PNCQTefWTmGD3+SlNMKv7Yjgio1P8=",
+          "cp311"
+        ],
+        "pytket-1.11.0rc0-cp311-cp311-win_amd64.whl": [
+          "Y5E2YudLbV3FCSty/ratlUlHoPmilbdyzhbAyRQJglg=",
+          "cp311"
+        ],
+        "pytket-1.11.0rc0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "ggm9Ikycp23A6joZ0+LhhAeIDkuNlAbpI6U4rza5/Xo=",
+          "cp39"
+        ],
+        "pytket-1.11.0rc0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "ZVuEv6slfgobWNVnID1CaCXeNOAnyZ1PjiYlch21gcI=",
+          "cp39"
+        ],
+        "pytket-1.11.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CsmvOtOB1FO8bt5AZpLFI9cl1k0yEUs+DeZkh8A2Hj8=",
+          "cp39"
+        ],
+        "pytket-1.11.0rc0-cp39-cp39-win_amd64.whl": [
+          "v8pR27Z5ChJrZ4rupyb3ziLufbV3Nlqq2ehzVVqM83c=",
           "cp39"
         ]
       }

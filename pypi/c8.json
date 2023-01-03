@@ -3673,6 +3673,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.6.3": {
+      "sdist": [
+        "lwbRI4rZEuh6n7Q3kTmd5H/lWa/TKWTpHfxpp8o/4M4=",
+        "algoliasearch-2.6.3.tar.gz"
+      ],
+      "wheels": {
+        "algoliasearch-2.6.3-py2.py3-none-any.whl": [
+          "BkdzKpFUkTJRS6UmPLEsfMRDuutUvVLTJPhPas2EWsE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "algorum-quant-client-py3": {
@@ -19496,6 +19508,18 @@
       "wheels": {
         "boxsdk-3.5.1-py2.py3-none-any.whl": [
           "GnLMrjhxZRrc//SkegK/Xrj1Owcu9vDPb2/scNmOVhw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.6.0": {
+      "sdist": [
+        "gVeqO+0iHr4FrzxthFfQAuO92zG6kGj61MLtKjGqHas=",
+        "boxsdk-3.6.0.tar.gz"
+      ],
+      "wheels": {
+        "boxsdk-3.6.0-py2.py3-none-any.whl": [
+          "TomC0K0B87asgwghUufhBhgq7U9BWJt8yaudp/CX530=",
           "py2.py3"
         ]
       }
@@ -67650,6 +67674,18 @@
         ]
       }
     },
+    "2.0.19": {
+      "sdist": [
+        "CVh66SmKuq8iHuYNlwyyKyhBBEKX3bPKn7yVkcNx9BE=",
+        "jptest2-2.0.19.tar.gz"
+      ],
+      "wheels": {
+        "jptest2-2.0.19-py3-none-any.whl": [
+          "Sd1qSlBxYM3KiX19kgHagq58X818ZNeFhxG9TlXwyAY=",
+          "py3"
+        ]
+      }
+    },
     "2.0.19rc0": {
       "sdist": [
         "NMS+LPBv65I5KZB88vZo0DO5bp8JGmbRRnqJNmc/1zM=",
@@ -73596,6 +73632,30 @@
       "wheels": {
         "jupyter_releaser-1.1.1-py3-none-any.whl": [
           "lc5VT8QPJcWo8S94/qDFj7Xe4XxHfPIWw0nMa3qKNQQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "qzn8KtIQOhSUniNSlD/bna071Bh7oIgsbgfeZFcmwe0=",
+        "jupyter_releaser-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_releaser-1.1.2-py3-none-any.whl": [
+          "aa2Bc1RGqXUP3PaVUN8TD9rJzdZNlMWYpEWkQGBS4B4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "+cUbQh+EJQjDhQAV8XotEiTiQ0JANSkMpJr0I6/iJHw=",
+        "jupyter_releaser-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_releaser-1.1.3-py3-none-any.whl": [
+          "lGVCHX5Fw96GnEF4wOp87HGxbDzJid+uvTOTNXHJenY=",
           "py3"
         ]
       }
@@ -84118,6 +84178,18 @@
       "wheels": {
         "mode_streaming-0.3.3-py2.py3-none-any.whl": [
           "RFN2srFLzUBF1OO+wPn0Z6wuCBXTFK3Hd5lAPgoQN/4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "TmDhqGaaeuMm+4Gd4a9YDdNl4mPz9IN92tUNynGM6mc=",
+        "mode-streaming-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "mode_streaming-0.3.4-py2.py3-none-any.whl": [
+          "3q35UzrQOUNjyhdwLlhI0HsP00lZ1RSxcF/JHqDLH4Q=",
           "py2.py3"
         ]
       }
@@ -122229,6 +122301,30 @@
           "py3"
         ]
       }
+    },
+    "10.0.1.4": {
+      "wheels": {
+        "pyarrow_stubs-10.0.1.4-py3-none-any.whl": [
+          "YzZeyXobaEoaPgT1nwr3r0jEvy2VSY+176LAGt6w2RM=",
+          "py3"
+        ]
+      }
+    },
+    "10.0.1.5": {
+      "wheels": {
+        "pyarrow_stubs-10.0.1.5-py3-none-any.whl": [
+          "oI/n/uYfgg19CDKF+FXxZTtTW5W3260nmjgNdGmF5oQ=",
+          "py3"
+        ]
+      }
+    },
+    "10.0.1.6": {
+      "wheels": {
+        "pyarrow_stubs-10.0.1.6-py3-none-any.whl": [
+          "tRnyYA398UUQhv0Cb/tiiglqJLPz3HIkwTItI+gebNU=",
+          "py3"
+        ]
+      }
     }
   },
   "pyautomakerhuman": {
@@ -147082,6 +147178,20 @@
       "wheels": {
         "tce-0.0.1-py3-none-any.whl": [
           "F9yvqw47Gb87e1pCuN2+Ii9KqSqrNbF6i12VZu3I8PU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "technology-note-dev": {
+    "2023010309": {
+      "sdist": [
+        "LIeFqEA+GREG9+rcGYtdQtcx2JUjdf8rftSfqSXlN64=",
+        "Technology-Note-Dev-2023010309.tar.gz"
+      ],
+      "wheels": {
+        "Technology_Note_Dev-2023010309-py3-none-any.whl": [
+          "zQqk7jUFHJFmegVxNYrjLrMvONWUMhzuuB6Mue36R2k=",
           "py3"
         ]
       }

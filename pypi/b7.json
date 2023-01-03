@@ -66227,6 +66227,12 @@
         "gj7R0HToo8fYMYOmU29Dz145S4cQTfQnuDgFHT3NIsA=",
         "image_dehazer-0.0.5.tar.gz"
       ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "WjXqLNOW62963S3qwhZgUzfRYhw1Ep/Dok45vCJAWSE=",
+        "image_dehazer-0.0.6.tar.gz"
+      ]
     }
   },
   "image-filter-tjr": {
@@ -91601,6 +91607,16 @@
       }
     }
   },
+  "odoo-addon-website-whatsapp": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_website_whatsapp-15.0.1.0.0.2-py3-none-any.whl": [
+          "X8mGy48DO4ir2HJAfqFFohTtNxZ37W3Ug5tsBJoQyes=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-mgmtsystem-review": {
     "10.0.1.0.0": {
       "wheels": {
@@ -91772,6 +91788,14 @@
       "wheels": {
         "odoo11_addon_database_cleanup-11.0.1.0.0.99.dev14-py2.py3-none-any.whl": [
           "C7wFvZ8fHyZvV7R41EmoDuuhCv+Do5ybipS+EtwVtz4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.0.99.dev15": {
+      "wheels": {
+        "odoo11_addon_database_cleanup-11.0.1.0.0.99.dev15-py2.py3-none-any.whl": [
+          "7W/RNblDw5URzWWY3SzqubcU9Mi3NTJ/uPKFjC/rBLU=",
           "py2.py3"
         ]
       }
@@ -92412,6 +92436,14 @@
       "wheels": {
         "odoo12_addon_purchase_order_variant_mgmt-12.0.1.0.2.99.dev1-py3-none-any.whl": [
           "aAOOrFDSeJBHKMhNVx5FH5QFRI783IP+UzwKy4RvV7Y=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.2.99.dev2": {
+      "wheels": {
+        "odoo12_addon_purchase_order_variant_mgmt-12.0.1.0.2.99.dev2-py3-none-any.whl": [
+          "OV1GZ/0M/Gwhu0wSf92f0OKgmcngt7JuVC8kCcDHtcg=",
           "py3"
         ]
       }
@@ -93324,6 +93356,14 @@
       "wheels": {
         "odoo8_addon_partner_relations-8.0.1.1.2.99.dev2-py2-none-any.whl": [
           "uITF+ggFmzWbfH+0Id3Lq3SKkUEb2fDK6dXUIHpydOQ=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.1.2.99.dev3": {
+      "wheels": {
+        "odoo8_addon_partner_relations-8.0.1.1.2.99.dev3-py2-none-any.whl": [
+          "2O7Iz1Z3T3Jn5SG8WWNLX2xFw4H206jjuFrAthcqoUo=",
           "py2"
         ]
       }
@@ -106444,6 +106484,18 @@
       "wheels": {
         "pydflow-1.6.25-py3-none-any.whl": [
           "zbk+KXtSy6NlkWt/aodo26N26HuO34lzjk2rAOyvo4Q=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.26": {
+      "sdist": [
+        "M0yaRiKPbm7IsAyyGlGtU59L+D0X0V5DL7gKxGTxIs4=",
+        "pydflow-1.6.26.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.26-py3-none-any.whl": [
+          "a8hQJmoV74bpyRpxBfXC6OioZFaI/HMtfruQ0O1bKDs=",
           "py3"
         ]
       }

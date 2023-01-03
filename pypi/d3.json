@@ -65729,6 +65729,34 @@
           "cp39"
         ]
       }
+    },
+    "3.8.3": {
+      "wheels": {
+        "infery-3.8.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "5qtJf+9G/B2el59EN7ehb/qit/vRH+3nL1vSdOzelCA=",
+          "cp37"
+        ],
+        "infery-3.8.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "H6ViuqDr8DpOIqPEwh998Bm8gvxAA+K3IDn5VYbL2pI=",
+          "cp37"
+        ],
+        "infery-3.8.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "wZMjSDEWLoRR1Ndeau75n5RkeTXri3HItjzhGjFuQpw=",
+          "cp38"
+        ],
+        "infery-3.8.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3caDTgBV47cKVh9Ybt/X8qssM+AY/r2fVoOhL4Co5Ag=",
+          "cp38"
+        ],
+        "infery-3.8.3-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "eaARuU8FEK0YXvQdJMmLfC8a03fwkMyCoQc3YLPVrS8=",
+          "cp39"
+        ],
+        "infery-3.8.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DMO5ADfbNPqovQ1DIxfa/s0sx29ZA1SA6NIdIZwcjXk=",
+          "cp39"
+        ]
+      }
     }
   },
   "inflection": {
@@ -95156,6 +95184,30 @@
         ]
       }
     },
+    "0.19.0": {
+      "sdist": [
+        "cbZVQQSiFCU3vM+ok9wAUc0G0mGko0HDNAiTNbYe3is=",
+        "neclib-0.19.0.tar.gz"
+      ],
+      "wheels": {
+        "neclib-0.19.0-py3-none-any.whl": [
+          "QNcYcQTaHjeZ+lXxa4jmVJtCtr3taVv8xv49x5LbEME=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.1": {
+      "sdist": [
+        "QVu361WlqoX7lM4cBhDsBo4p6e0NVdqyP+0uiDlX+VE=",
+        "neclib-0.19.1.tar.gz"
+      ],
+      "wheels": {
+        "neclib-0.19.1-py3-none-any.whl": [
+          "3RPtTx1RgTB/pZ46XLyrrclDWuKVI4tX6WccnwjgzOw=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ZEW/sEEnmWk0Fb/2/YXEb6GrcKiK0sDmNiJ7ENqtMWU=",
@@ -101302,6 +101354,14 @@
       "wheels": {
         "odoo9_addon_base_user_role-9.0.1.0.0.99.dev25-py2-none-any.whl": [
           "Dq7mpIrvL9SoJ1sxXYheNxFMaf2Z4vOh77slvrqcSYg=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.0.99.dev26": {
+      "wheels": {
+        "odoo9_addon_base_user_role-9.0.1.0.0.99.dev26-py2-none-any.whl": [
+          "IdBjcjnuu88aAOD9vOPL2qzQVDQEVa3AVKB8AXJgRm8=",
           "py2"
         ]
       }

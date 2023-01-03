@@ -28964,6 +28964,10 @@
           "dXC1NSD9fvhxf+jB5GjCOJ5x70TNFAfWq6egvVjbUxM=",
           "cp38"
         ],
+        "dhn_med_py-0.9-cp39-cp39-macosx_12_0_arm64.whl": [
+          "fB4cRYd+37sjUWIgQLtOI4iiHZLnFizBzqicp0ScCs4=",
+          "cp39"
+        ],
         "dhn_med_py-0.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "UHoaIvcsj6OuRCC+hm9Nt27ntYDC3AtlBz68EuBksOo=",
           "cp39"
@@ -61791,6 +61795,18 @@
         "s5ZWZceL7n74QEnskarBN8yZfxAyOM4iCkmpiJd+2OY=",
         "meshed-0.1.96.tar.gz"
       ]
+    },
+    "0.1.97": {
+      "sdist": [
+        "5H9oUKSDvdVGwWP5mBQ2NsD+wfVBXdoDaPPF9nU477E=",
+        "meshed-0.1.97.tar.gz"
+      ]
+    },
+    "0.1.98": {
+      "sdist": [
+        "ulUThCc4jVq/s0yLdZdxGAuu2L9VfRne/45bwJHWJ1c=",
+        "meshed-0.1.98.tar.gz"
+      ]
     }
   },
   "metabci": {
@@ -80452,6 +80468,14 @@
       "wheels": {
         "odoo12_addon_sale_product_multi_add-12.0.1.1.0.99.dev4-py3-none-any.whl": [
           "iW0WWMwjckXEP4DuX9jnyjEzaiNZeskT9ckY1vLKL0E=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.0.99.dev5": {
+      "wheels": {
+        "odoo12_addon_sale_product_multi_add-12.0.1.1.0.99.dev5-py3-none-any.whl": [
+          "qg6DcrsyCoKoJ3rPP6MyIGSgkTh6Nx2uUX8AME8jRiA=",
           "py3"
         ]
       }
@@ -124658,6 +124682,18 @@
         ]
       }
     },
+    "1.48.1": {
+      "sdist": [
+        "KnniGdj2SY8rnK0oRhW1gYbCBDAQ3ucM77YrkwUo7+0=",
+        "starlite-1.48.1.tar.gz"
+      ],
+      "wheels": {
+        "starlite-1.48.1-py3-none-any.whl": [
+          "0qNyQLVBmfH6e6LT0geRJO5JT5+Bci7sLPBMzPSr+4s=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "IodzAYzCcySgkWWKXPApCgTGkq89TIVqyvzHWRm90+o=",
@@ -140899,6 +140935,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230103": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230103-cp310-cp310-win_amd64.whl": [
+          "+MPBCBzdt5uqSNq94rLDIgEzAVjyC7i1ONcv8ec1PDg=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230103-cp38-cp38-win_amd64.whl": [
+          "tSLACPGf2mVi505V0YCKAuubmfPzlHejguma5Oc3pek=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230103-cp39-cp39-win_amd64.whl": [
+          "9cSi4inwhF77luQQ41W9Q+xoqlIrOCiugDGAnm54HsM=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -156048,6 +156100,30 @@
       "wheels": {
         "zood-0.1.1-py3-none-any.whl": [
           "iIuhPndUNpBchuKuPrSloVo/BWIvEYyUV+l38GAcRP0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "DC8Y1AL9ETMxMrN+CGIffRigi66YkD5KWK09Arrha+A=",
+        "zood-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.1.2-py3-none-any.whl": [
+          "5+k+n4ysAwoQqR5eIdeW6fOu/4PMVBembebaqIEl72E=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "n0y7hz6UmB/gPdstjUcF/42Fa/h64V+PDe0iEDW4dUA=",
+        "zood-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.1.3-py3-none-any.whl": [
+          "HmpHL1H+8j63rnTCYMwaZXrUIYLaZRmReggcj/JnzZc=",
           "py3"
         ]
       }

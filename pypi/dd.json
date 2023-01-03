@@ -53783,6 +53783,18 @@
           "py3"
         ]
       }
+    },
+    "1.9.2": {
+      "sdist": [
+        "9jLdo3oxOINTNYLNS3aFCUutWy6/OkmTPLWdzt7sFXI=",
+        "dydx-v3-python-1.9.2.tar.gz"
+      ],
+      "wheels": {
+        "dydx_v3_python-1.9.2-py3-none-any.whl": [
+          "0h0DRv23W3ep/B+yJuttC/N+SxpRWQfy8AqK7f6j1aM=",
+          "py3"
+        ]
+      }
     }
   },
   "e2l": {
@@ -57204,26 +57216,26 @@
         ]
       }
     },
-    "0.3.3": {
+    "0.3.5": {
       "sdist": [
-        "dXXr6TOaVzIzKiYDfjqZFZ1vJHemlsz9TjSGl/CWYU0=",
-        "envd-0.3.3.tar.gz"
+        "Ta78oKRAT94cLLdlgGdM3uPTU9ZQIniishQ+FjPL9K8=",
+        "envd-0.3.5.tar.gz"
       ],
       "wheels": {
-        "envd-0.3.3-py2.py3-none-macosx_10_9_x86_64.whl": [
-          "gFHtL0QMEYc/7Utt5BYuK9cR08AZ2gQPcNstPN/PPMY=",
+        "envd-0.3.5-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "jdW0+mw0GJM7z2sHmlobNi6FSN97sLP0o1nb7MXVy88=",
           "py2.py3"
         ],
-        "envd-0.3.3-py2.py3-none-macosx_11_0_arm64.whl": [
-          "fj8fay3nY4sPeteGoSyqttmuPWVppOsH+FnF6/3cq+Q=",
+        "envd-0.3.5-py2.py3-none-macosx_11_0_arm64.whl": [
+          "8GU0mgrJBVVj+iZzcDQb9mqYB4k3HLIyK8uLfXwhV2M=",
           "py2.py3"
         ],
-        "envd-0.3.3-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "VblfovlGC0zFTJOJ5x+x1FTHHsshhvHfEfDp5WHhQcg=",
+        "envd-0.3.5-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mC8wpeL83btFORBMcwLDna23dF1SBslzfzb7uGpsOE8=",
           "py2.py3"
         ],
-        "envd-0.3.3-py2.py3-none-musllinux_1_1_x86_64.whl": [
-          "uRRwFXeFcM3Pyr9qQz6bMB6RlkBLzrLLsSzvRRXc2TE=",
+        "envd-0.3.5-py2.py3-none-musllinux_1_1_x86_64.whl": [
+          "EBb/q5YvacVJqKCJutUIAZMHvH7ZrKZBhg5bzQZQxvQ=",
           "py2.py3"
         ]
       }
@@ -68823,6 +68835,20 @@
       }
     }
   },
+  "hostbutter": {
+    "0.0.1a1": {
+      "sdist": [
+        "eU9KEsJmgF9l53ty0CF77n0AukzTBBYvVO6I7W0L9OQ=",
+        "hostbutter-0.0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "hostbutter-0.0.1a1-py3-none-any.whl": [
+          "M6obUavAjJsVj6cq5LtTIWKwPwmaRzQdOa6dJVqwMfg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "hough": {
     "0.2.0": {
       "sdist": [
@@ -77794,6 +77820,30 @@
       "wheels": {
         "liteapi-0.4.2a0-py3-none-any.whl": [
           "cO9pU1g2irnhN/Nq6oB5zy5vPX1Ckw8lzGyi2vUNhkU=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "ktpPiAn0upvgcZmdwom7lVn+fDS4bJLoB7cvi9IoVO4=",
+        "liteapi-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "liteapi-0.5.0-py3-none-any.whl": [
+          "pdFz0xPVK+2bFv/bX5xcRTYqpdIllspXAuxp/LaLWLc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "M8sX5T8Yp2NtDShcEolXEZhVpvhhgbsxw0tjvbQLW/o=",
+        "liteapi-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "liteapi-0.5.1-py3-none-any.whl": [
+          "QkMAbTqPa6WSei4ci/smXqIVZCD5qbScMs7XS0xfNuA=",
           "py3"
         ]
       }
@@ -93110,6 +93160,14 @@
         ]
       }
     },
+    "15.0.1.0.2.1": {
+      "wheels": {
+        "odoo_addon_base_exception-15.0.1.0.2.1-py3-none-any.whl": [
+          "zII9n6KfAyCZdNl2/0akTlYVW0TwYwc2y9naEzok/G0=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.1": {
       "wheels": {
         "odoo_addon_base_exception-16.0.1.0.1-py3-none-any.whl": [
@@ -93122,6 +93180,14 @@
       "wheels": {
         "odoo_addon_base_exception-16.0.1.0.1.1-py3-none-any.whl": [
           "9851Lkl+k/GlT4l+qTADwAO+L2O485YYWi+1oTRuoPY=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.1.2": {
+      "wheels": {
+        "odoo_addon_base_exception-16.0.1.0.1.2-py3-none-any.whl": [
+          "NTICk5PiEPHqG+pcsL0q0SsLxjqXcLLdc3wZMGsx2Yw=",
           "py3"
         ]
       }
@@ -137809,6 +137875,16 @@
         "F3wNmtneGUPC3bV1WWxofcupk6YXQPMk94JJCj1OJVg=",
         "test_upload_distributions-0.1.tar.gz"
       ]
+    }
+  },
+  "testebibrit": {
+    "1.0.0": {
+      "wheels": {
+        "testeBibRit-1.0.0-py3-none-any.whl": [
+          "rpPHLtYQNfIick25qxd2ljLuOpzCUmz6l+ZL34vBHB0=",
+          "py3"
+        ]
+      }
     }
   },
   "testfiles": {

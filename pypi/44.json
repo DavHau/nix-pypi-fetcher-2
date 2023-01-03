@@ -6681,6 +6681,30 @@
           "py3"
         ]
       }
+    },
+    "1.1.5": {
+      "sdist": [
+        "ZrJCotdf11sA8t7YFQwCKRheLaIhbDkCU105CtLXIhU=",
+        "audmetric-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "audmetric-1.1.5-py3-none-any.whl": [
+          "b35cyS6A0bJSZN0p1j+WFCiWV8G+jNmWbF58ytKU3Cc=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6": {
+      "sdist": [
+        "UuaX90Z1KHKllQLO8BiwsYepElft5FnW69KT0TDWxYY=",
+        "audmetric-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "audmetric-1.1.6-py3-none-any.whl": [
+          "uPJ881IRzFjP77ibVagyHrapFlrXYdp6GAAFQN7SkM8=",
+          "py3"
+        ]
+      }
     }
   },
   "ausfin": {
@@ -16118,6 +16142,30 @@
       "sdist": [
         "CuOtoLKkJdwYP6D4tc+lJjaLDAK+bhERYp+FYwO0Kcs=",
         "botgus-2.8.tar.gz"
+      ]
+    },
+    "3.0": {
+      "sdist": [
+        "ZYU0MoP6Qk9mOXuVZ38Zs1p+aWyR2g2bARIX6yX7Uz4=",
+        "botgus-3.0.tar.gz"
+      ]
+    },
+    "3.1": {
+      "sdist": [
+        "FGUVWOFqrkh80koHXunIT79dY9zSmuQOVas45K2LCpA=",
+        "botgus-3.1.tar.gz"
+      ]
+    },
+    "3.2": {
+      "sdist": [
+        "Wd4W+u7gO18wmMw0KAkzV3NaX3d4GJv+2aBGIhF1oxQ=",
+        "botgus-3.2.tar.gz"
+      ]
+    },
+    "3.3": {
+      "sdist": [
+        "cvlxJ5iDGp/s3mj4OPaG0dNZ6deKlyq5rqpG+uEvqFM=",
+        "botgus-3.3.tar.gz"
       ]
     }
   },
@@ -33632,6 +33680,174 @@
         ],
         "cornflakes-3.0.9-cp39-cp39-win_amd64.whl": [
           "Pd3v2+S45TMg+2wKNkOSX+2bTzDGfpHM8+9Fzpg8+NI=",
+          "cp39"
+        ]
+      }
+    },
+    "3.1.0": {
+      "sdist": [
+        "iMkhdPjRJRvCae0aamF8TOHZdeAZryxYo2q1dqRp6B8=",
+        "cornflakes-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "cornflakes-3.1.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "s0KG/Ix5shLfJNl9l1ndCQxkVKomZz818lynfps12e8=",
+          "cp310"
+        ],
+        "cornflakes-3.1.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "qD4GCnLbTGDe+r/udkZhhGSEMziZ0tBlZLNj3fzgqyQ=",
+          "cp310"
+        ],
+        "cornflakes-3.1.0-cp310-cp310-win_amd64.whl": [
+          "6a0yYdgWRfpW46NJxSp/ht70twzllWacZAdfyFOeJ5E=",
+          "cp310"
+        ],
+        "cornflakes-3.1.0-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "GTzc6oB/bHCnYRURKEOdWazKlaBkjyc8NUjLCOxJ2fc=",
+          "cp311"
+        ],
+        "cornflakes-3.1.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "1RDKpr56Z1rWKw6GhU0/HbPgBbaYW/k6X0zZ6ksdHks=",
+          "cp311"
+        ],
+        "cornflakes-3.1.0-cp311-cp311-win_amd64.whl": [
+          "CKfF0pMj3h1ipHltyt1oIsDXK+og9fC0rXP2FlaaS30=",
+          "cp311"
+        ],
+        "cornflakes-3.1.0-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "4dHIHFFCslTq3ahvbiJPA04TMmNLem2I+/pgqkXcEHM=",
+          "cp38"
+        ],
+        "cornflakes-3.1.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "gkv5hi+xeHfEW7gmtb3P9MFPfD/qxuVbIWhTDJ20mHQ=",
+          "cp38"
+        ],
+        "cornflakes-3.1.0-cp38-cp38-win_amd64.whl": [
+          "QXxNI+1qOKgwVMBJTCtrraAfObQc8dSA2Jne2f9GQVs=",
+          "cp38"
+        ],
+        "cornflakes-3.1.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "aPT9gdq7Csk+rPaPv8KHyKkvcLbhr2IH+4h9g/JYpl0=",
+          "cp39"
+        ],
+        "cornflakes-3.1.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "SthEBthhBDQF9mR/c3G/+j1+4uNeC78VBJ1PCIRhw44=",
+          "cp39"
+        ],
+        "cornflakes-3.1.0-cp39-cp39-win_amd64.whl": [
+          "PH8bGOZO9zOnA0FNDz0GeqnzvPCg/r0sDkI0ifpEr9E=",
+          "cp39"
+        ]
+      }
+    },
+    "3.1.1": {
+      "sdist": [
+        "qdnaTn8iuX1J6TsW3urTsCSUN/YWdhIiYpmhjPiY9Vg=",
+        "cornflakes-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cornflakes-3.1.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "QmAI2D3iSVcE+KhUotNWGqFRO6vCmAix40nl9XB5RXI=",
+          "cp310"
+        ],
+        "cornflakes-3.1.1-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "hsUCmGNJHiHFoTtrcBNvGfm6v+RMIK9OfNq9iCKoHig=",
+          "cp310"
+        ],
+        "cornflakes-3.1.1-cp310-cp310-win_amd64.whl": [
+          "3l4D8WBBrHVLmYyKdo2d9/1AYWLBGjmzrFJvXslOfjY=",
+          "cp310"
+        ],
+        "cornflakes-3.1.1-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "Kr0JdObUHj9UaNHOHVBiIsWfbcRyS9Hkp/ouZVdyrrM=",
+          "cp311"
+        ],
+        "cornflakes-3.1.1-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "J/bCzTw9i0vERDz3ZkMxYie5+LX+2F7Zq4jClcT4w70=",
+          "cp311"
+        ],
+        "cornflakes-3.1.1-cp311-cp311-win_amd64.whl": [
+          "ZxW3Pgbk48PctVXR5CmzzAA+q3Z/qo9LfjL+KLFH12k=",
+          "cp311"
+        ],
+        "cornflakes-3.1.1-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "SIojyqxPgXc1KAlg8DiaDT8bPAxPDIZwGaZhd1i5XAY=",
+          "cp38"
+        ],
+        "cornflakes-3.1.1-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "nb80RFkt0UnMWDHfOnRfIHDRd/wxnCP6OaCuwKkB9IQ=",
+          "cp38"
+        ],
+        "cornflakes-3.1.1-cp38-cp38-win_amd64.whl": [
+          "CaNqqW/zSgPb4EpeyJV6+ZHmIsWqUFwodHI2eZHAbRk=",
+          "cp38"
+        ],
+        "cornflakes-3.1.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "bSQRZfmUAuqHKXnO9X5i+hDEFX4/hQ3OEuBK1XQzSL8=",
+          "cp39"
+        ],
+        "cornflakes-3.1.1-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "YNjekl8Tk+/A376irZT87oyXxpKoROeZJySTz/cwDGo=",
+          "cp39"
+        ],
+        "cornflakes-3.1.1-cp39-cp39-win_amd64.whl": [
+          "YhdnddWWHTBHQ54I9UriTWPESW250UbEgleTATZU17c=",
+          "cp39"
+        ]
+      }
+    },
+    "3.1.2": {
+      "sdist": [
+        "ysT6zQkL5U+q+MY9hsL4jOREtd9Gp0nIDk5CPUyOSrk=",
+        "cornflakes-3.1.2.tar.gz"
+      ],
+      "wheels": {
+        "cornflakes-3.1.2-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "OyglCSwak15lzO/eML/PS3ayHRX4SKhVq7OfmA98T4I=",
+          "cp310"
+        ],
+        "cornflakes-3.1.2-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "q8JgDuddTjwbH0WntcPCMLFCdlbtS834joD8Rb+Ygzs=",
+          "cp310"
+        ],
+        "cornflakes-3.1.2-cp310-cp310-win_amd64.whl": [
+          "yOtkphTKCCjVpsYWEPZmJgsyfhWE4CM1mHKQSUIDtzM=",
+          "cp310"
+        ],
+        "cornflakes-3.1.2-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "nXqrIbx2jm13/AQrjZvxPWvJl1B5hMTwU8ishjY5VoU=",
+          "cp311"
+        ],
+        "cornflakes-3.1.2-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "q6NYLWvfSYZRiAZH8lcaphI5H5MCjVg2j/plGZMvGZM=",
+          "cp311"
+        ],
+        "cornflakes-3.1.2-cp311-cp311-win_amd64.whl": [
+          "o19kqZfnmEo8ocsgx6BXmNWIJwX4WWN3tmogPid0wOs=",
+          "cp311"
+        ],
+        "cornflakes-3.1.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "CY6xO7Tw9eFy2EHffbzycuCwxyW8/4WIqEvkD+l4fb4=",
+          "cp38"
+        ],
+        "cornflakes-3.1.2-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "xYngc4UDhtw9+V/UUH2iYBhM4C0n1VaMNr82GIINJNs=",
+          "cp38"
+        ],
+        "cornflakes-3.1.2-cp38-cp38-win_amd64.whl": [
+          "k9chIud2pNDTeQ3ZwNbEvERaop3mrpe+tgAggTLr27U=",
+          "cp38"
+        ],
+        "cornflakes-3.1.2-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "ncq3A4B4uWMG0g6+1DyuLO3iWzvGg/e7KtTa755XxcY=",
+          "cp39"
+        ],
+        "cornflakes-3.1.2-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "Oemu1EPTKhWoD8Ivqb9Tuwb/hXn4JleWHuKTfI5IqhE=",
+          "cp39"
+        ],
+        "cornflakes-3.1.2-cp39-cp39-win_amd64.whl": [
+          "ZgBQcjfikve1+XZX1pokhFtIuXT53AKnsgcGP2vvGKo=",
           "cp39"
         ]
       }
@@ -51996,6 +52212,18 @@
       "wheels": {
         "geomapi-0.1.0-py3-none-any.whl": [
           "Y+n7sSYpGi+5ddp7Yj2/VAxcuaalXe54I0abQnYBOSI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "nf52QLnyAC5tS7oc8B8fvEKkTl0RVYGVhopO3zj/3IY=",
+        "geomapi-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "geomapi-0.1.1-py3-none-any.whl": [
+          "BPN0MpWju3eWKmWP/ny+cygz3L2e/sKGi3pBXKUCUAI=",
           "py3"
         ]
       }
@@ -86912,6 +87140,14 @@
         ]
       }
     },
+    "14.0.1.0.3.dev11": {
+      "wheels": {
+        "odoo14_addon_mgmtsystem_action-14.0.1.0.3.dev11-py3-none-any.whl": [
+          "p4+R78P0Q6/5adnB/0cVUCRaMFJMop1bZq/qQHa6p6Q=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.3.dev3": {
       "wheels": {
         "odoo14_addon_mgmtsystem_action-14.0.1.0.3.dev3-py3-none-any.whl": [
@@ -120900,6 +121136,12 @@
         "shared_memory_wrapper-0.0.22.tar.gz"
       ]
     },
+    "0.0.23": {
+      "sdist": [
+        "870gwTb/nLS+l7T1dqBCARghIoQgVDUzaPELHV3yGe4=",
+        "shared_memory_wrapper-0.0.23.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "c0Db5e/byb77ib+BsqO/WJDxZSCpsuk8t2uOwVx9l4M=",
@@ -121457,6 +121699,12 @@
         "HalcPrw0TSvZyvaj8skMpqudfWjbzYXId+3dXRltAxE=",
         "shopee_crawler-0.2.2.tar.gz"
       ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "495KnazsC6RUKdRibxE7Ua8AIrWE68YV9NhWUHkGKcU=",
+        "shopee_crawler-0.2.3.tar.gz"
+      ]
     }
   },
   "shotwell-mover": {
@@ -121762,6 +122010,18 @@
       "wheels": {
         "simple_elmo-0.9.0-py3-none-any.whl": [
           "tdzXAFEelozXFja+Ltn7yvQMqHCnhsAl/MuRpuJFr0s=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "lwlhSnwwcDE3QsSkvQw86OuSqBrimRIPOXOGIowoZKk=",
+        "simple_elmo-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "simple_elmo-0.9.1-py3-none-any.whl": [
+          "u0q9cdI+XJNndcTTOEyZOcLtBe2Cp2rM4DGgrpoifso=",
           "py3"
         ]
       }

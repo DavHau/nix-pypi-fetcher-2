@@ -63668,6 +63668,18 @@
         ]
       }
     },
+    "2.5.12": {
+      "sdist": [
+        "C8lrCcg4MQtvz8xh94qYHqB/lINu9u9VPaW7XUdF1mI=",
+        "identify-2.5.12.tar.gz"
+      ],
+      "wheels": {
+        "identify-2.5.12-py2.py3-none-any.whl": [
+          "6KQAwwYtmAJD0nzhBFWlKDIgVkm7yvJ//ds9+q9He60=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.5.2": {
       "sdist": [
         "o9TAlrOE1Q1ebcW8i5vETx9hzv69dQp7Pp+Tm1P7IU0=",
@@ -95041,6 +95053,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.1.dev7": {
+      "wheels": {
+        "odoo14_addon_mis_builder_operating_unit-14.0.1.0.1.dev7-py3-none-any.whl": [
+          "92QzZRXedGE/74qz1b4ub49JZh40Bvkt73L+OjCZRiQ=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-product-template-multi-link": {
@@ -95684,6 +95704,14 @@
       "wheels": {
         "odoo8_addon_partner_employee_quantity-8.0.1.0.0.99.dev12-py2-none-any.whl": [
           "wntMMgRKrG8AModUChzzdhI/EboBOugUP6hZs3Y1mF4=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev13": {
+      "wheels": {
+        "odoo8_addon_partner_employee_quantity-8.0.1.0.0.99.dev13-py2-none-any.whl": [
+          "Yb8sA5YZkri/C6f8djaRZpFe3+dg9kVjH+XB0b8AmSA=",
           "py2"
         ]
       }
@@ -108371,6 +108399,20 @@
         "OcfbssWQPUhuK3f677ozDFO6eMGRQZNCc9cn16qnwcQ=",
         "PrintNestedLists-1.0.0.tar.gz"
       ]
+    }
+  },
+  "prisjakt-pubsub-client": {
+    "0.0.1": {
+      "sdist": [
+        "0Xlj3KdJmSYAwR5I5UUEqTddrR8OAFfp09EHBzXwFT4=",
+        "prisjakt-pubsub-client-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "prisjakt_pubsub_client-0.0.1-py3-none-any.whl": [
+          "68foXGBotEjsi0AUdELjhGUszwxPd2jGkZQSOLV7k14=",
+          "py3"
+        ]
+      }
     }
   },
   "process-snapshot-toolkit": {

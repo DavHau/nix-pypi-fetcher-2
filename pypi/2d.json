@@ -10267,6 +10267,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2b20230103": {
+      "sdist": [
+        "kMQwoIqPAwsynkg5grn2OLXhcBWWJUEOmAkhuzrHU0E=",
+        "autogluon.timeseries-0.6.2b20230103.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.6.2b20230103-py3-none-any.whl": [
+          "bC6649SMvZQLPheYamp8IPxz4gWQ+s123P/Tq08x/y8=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -19592,6 +19604,12 @@
       "sdist": [
         "KVLRdWijGMGIZnwsoVK6nN21L0OEBKthsbaTVKR35UI=",
         "censius-1.6.1.tar.gz"
+      ]
+    },
+    "1.6.2": {
+      "sdist": [
+        "RlLgzsfKrw3mbY/Au02i6/8x87pC1wTBsE4rj04Cp/E=",
+        "censius-1.6.2.tar.gz"
       ]
     }
   },
@@ -83126,6 +83144,14 @@
         ]
       }
     },
+    "10.0.1.0.3.99.dev16": {
+      "wheels": {
+        "odoo10_addon_quality_control-10.0.1.0.3.99.dev16-py2-none-any.whl": [
+          "oLx3qAb+hVANMF6IobGhaeHN5V/UA8Y9XrcYjvlSvqs=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.0.3.99.dev2": {
       "wheels": {
         "odoo10_addon_quality_control-10.0.1.0.3.99.dev2-py2-none-any.whl": [
@@ -100565,6 +100591,20 @@
       ]
     }
   },
+  "pyrdams": {
+    "2.0.1": {
+      "sdist": [
+        "DdqiMF2Ijy7zUMTUT55+afvUi9pTKuXaYuLmnXvYM+c=",
+        "pyrdams-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyrdams-2.0.1-py3-none-any.whl": [
+          "WMCwrPaz6k3AEsKvmARSrYi+xrPI/Qn3uxQQf5ROIvI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyregistry": {
     "1.0.5": {
       "sdist": [
@@ -103514,6 +103554,12 @@
       "sdist": [
         "A+P4SPmCT+dU4c696tPJBiyrCVggnan4EXQLPvcHpZk=",
         "python-hostlist-1.22.tar.gz"
+      ]
+    },
+    "1.23.0": {
+      "sdist": [
+        "VuAVa1AfeSwHgRTwcyTzTzeCcEFYHuXR/9zonMpTMhk=",
+        "python-hostlist-1.23.0.tar.gz"
       ]
     },
     "1.3": {
@@ -137688,10 +137734,10 @@
         ]
       }
     },
-    "0.1.4": {
+    "0.1.5": {
       "wheels": {
-        "vt2pbf-0.1.4-py3-none-any.whl": [
-          "gEzlxdGpFfC1FjmW5rezgedlS9ngavid0JyOB0j504o=",
+        "vt2pbf-0.1.5-py3-none-any.whl": [
+          "qe4tIODGp8UsljPv4m2FdJjyFsQKzE5czhQXCFZ1ksY=",
           "py3"
         ]
       }

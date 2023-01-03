@@ -6838,6 +6838,18 @@
         ]
       }
     },
+    "2.59.0a0": {
+      "sdist": [
+        "ZlHxfwEwUkpqID2GGbdm5eSjpIu2SMDNAwKqr8k0CAY=",
+        "aws-cdk.aws-synthetics-alpha-2.59.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_synthetics_alpha-2.59.0a0-py3-none-any.whl": [
+          "rb55BPCqsiBc9Kidnampk/XRqAHgBAczOK9kv9ZMOwk=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0a0": {
       "sdist": [
         "mAHtRDloCT7WytdjfpIlFoBdC9iq7s8piW9N8P+jbxc=",
@@ -57973,6 +57985,12 @@
         "Ouccz5hENwPH4B20mjy4J5mHosbLkg2Rba0DG4vctJQ=",
         "global-workqueue-2.1.6rc3.tar.gz"
       ]
+    },
+    "2.1.6rc4": {
+      "sdist": [
+        "c8w3xwl3xK62z8M/7BBFsKrZTDDxsfQ5CiA99HF34/c=",
+        "global-workqueue-2.1.6rc4.tar.gz"
+      ]
     }
   },
   "gmailfs-fuse": {
@@ -86967,6 +86985,16 @@
       }
     }
   },
+  "odoo-addon-users-ldap-groups": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_users_ldap_groups-15.0.1.0.0.2-py3-none-any.whl": [
+          "uHRFhzU92npADQGWVahjmELEah4DMg1IcSNNqDjVsB0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-account-invoice-change-currency": {
     "10.0.1.0.0.99.dev1": {
       "wheels": {
@@ -87638,6 +87666,14 @@
       "wheels": {
         "odoo12_addon_account_invoice_margin-12.0.3.0.2.99.dev4-py3-none-any.whl": [
           "RuoJOlWXyBOxhn71VzAujmUjla+J8YjNO9/JMqos/j0=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.3.0.3": {
+      "wheels": {
+        "odoo12_addon_account_invoice_margin-12.0.3.0.3-py3-none-any.whl": [
+          "2AqaZ5Yanr44N5fTXRUJwToh4egfJtW9eo0Pm+6yEDQ=",
           "py3"
         ]
       }

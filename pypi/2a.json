@@ -98209,6 +98209,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.1.0.0.99.dev2": {
+      "wheels": {
+        "odoo11_addon_mgmtsystem_action_template-11.0.1.0.0.99.dev2-py2.py3-none-any.whl": [
+          "ZP5r5plLAoDKEkCOUAx0qqsFmC/W8wFWViyXHtA1dSc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo11-addon-mrp-bom-structure-xlsx": {
@@ -99530,6 +99538,14 @@
       "wheels": {
         "odoo13_addon_purchase_reception_status-13.0.1.0.1.dev6-py3-none-any.whl": [
           "OkuFJA/bgzlun7KRIl1oAGkhBGA9VQd62Pxg91pCg5A=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev7": {
+      "wheels": {
+        "odoo13_addon_purchase_reception_status-13.0.1.0.1.dev7-py3-none-any.whl": [
+          "JnOCeRjJh956K59wADBz4MO2oyp7cDoOvha0SqyXJeI=",
           "py3"
         ]
       }
@@ -126840,6 +126856,18 @@
       "sdist": [
         "iiQxJS2SEhcIPm9dRUGs6aKmkNXMOuSS1jElbsaMwd8=",
         "rejected-peps-0.9.1.tar.gz"
+      ]
+    },
+    "0.9.2": {
+      "sdist": [
+        "hbgCf+bybwjIHoy2Dmie2eCnhKm0uwpEiKwQAKYChPk=",
+        "rejected-peps-0.9.2.tar.gz"
+      ]
+    },
+    "0.9.3": {
+      "sdist": [
+        "on8PeoLT2AGUsFC7rIHWHjZCbQiiqXHO9Ez5drgGtpw=",
+        "rejected-peps-0.9.3.tar.gz"
       ]
     }
   },
@@ -159160,6 +159188,18 @@
       "wheels": {
         "vollseg-6.0.6-py3-none-any.whl": [
           "0yVS2WxWN7gz0iRENO9v7JJrgzxVYP6MQxxJG7b8bQU=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.7": {
+      "sdist": [
+        "l6PCIjO+CIoSoUEPihmsfNdjPQDb2xZ/0TGAVcCaKRs=",
+        "vollseg-6.0.7.tar.gz"
+      ],
+      "wheels": {
+        "vollseg-6.0.7-py3-none-any.whl": [
+          "Dn6hvXpWQK1Z0LTNyqRPsnFQJF3SMAcqoo3Lq/8AFUI=",
           "py3"
         ]
       }

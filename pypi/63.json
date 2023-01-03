@@ -29367,6 +29367,12 @@
         "IAIIwRLHkA18zPpCo+uPL5kGfb7hUdsl5NpxFkCRnKk=",
         "django-is-core-2.24.4.tar.gz"
       ]
+    },
+    "2.24.5": {
+      "sdist": [
+        "yFoYY91/vEWjrvJ0p89tD+5kMd4CZA73vaGLisn8raQ=",
+        "django-is-core-2.24.5.tar.gz"
+      ]
     }
   },
   "django-klingon": {
@@ -91091,6 +91097,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.3.dev5": {
+      "wheels": {
+        "odoo14_addon_purchase_discount-14.0.1.1.3.dev5-py3-none-any.whl": [
+          "Wh3qr1g+OT1B89Ge1EDNh/9eY8KzyROu4L2paScSBu0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-sale-commission-geo-assign": {
@@ -92701,6 +92715,18 @@
           "py3"
         ]
       }
+    },
+    "0.13.1.2": {
+      "sdist": [
+        "5P5JcrSCR/tbOJRZioA4Wdk1pqMGCTmBxtzKBlL+ut8=",
+        "openmetadata_managed_apis-0.13.1.2.tar.gz"
+      ],
+      "wheels": {
+        "openmetadata_managed_apis-0.13.1.2-py3-none-any.whl": [
+          "nhAfL4bF+VwndbB8HhDcbzfpjhVi4dqb65Ks6ITiePk=",
+          "py3"
+        ]
+      }
     }
   },
   "openmock": {
@@ -93927,6 +93953,20 @@
         "MslnqwIokNesmRsVPOhA9qMJ/q58fWaKRGdmJgXkhl8=",
         "pandas-units-extension-0.1.0.tar.gz"
       ]
+    }
+  },
+  "pandoc-jinja": {
+    "0.1.2": {
+      "sdist": [
+        "ZdvnyE+AnyHV31t4ZxmjvugP9dxFg8PvKWLNI+hjLog=",
+        "pandoc-jinja-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pandoc_jinja-0.1.2-py3-none-any.whl": [
+          "ksiyd+y9p2AOnjEKioTIHdQlOIqc+cxQM04iqjEBuJY=",
+          "py3"
+        ]
+      }
     }
   },
   "pandoc-xnos": {
@@ -126446,6 +126486,18 @@
       "wheels": {
         "tbp_nightly-2.12.1a20230102-py3-none-any.whl": [
           "e+K/Xl3U0E88VmYx3WIxrM2kKuprp0FTJ5CG/qcA03Y=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.1a20230103": {
+      "sdist": [
+        "3aEaiV0gJ/avx1/Y38L2jSNx9nKxCmVEm2VqqsRAv50=",
+        "tbp-nightly-2.12.1a20230103.tar.gz"
+      ],
+      "wheels": {
+        "tbp_nightly-2.12.1a20230103-py3-none-any.whl": [
+          "Y/heYi3YSFQXixgRn0uOLjNkd7eTlq5KGBFObMgNWHI=",
           "py3"
         ]
       }
