@@ -27223,6 +27223,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.2": {
+      "sdist": [
+        "YIDdGLooZQROb8UjErdR6wFEbbqGj1YyQx7uD1EeUT0=",
+        "data-science-common-core-1.6.2.tar.gz"
+      ],
+      "wheels": {
+        "data_science_common_core-1.6.2-py3-none-any.whl": [
+          "zLEjZodIKOhRAFsluzEM0d8PQPrZVoqN5alJqj9nzZo=",
+          "py3"
+        ]
+      }
     }
   },
   "dataclassframe": {
@@ -43062,6 +43074,34 @@
         ],
         "furiosa_native_postprocess-0.1.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "2+AmXDxFblMmAxWnLoMH2jW3L5XvyvL0tNKWKgQfpSw=",
+          "pp37"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "furiosa_native_postprocess-0.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kJfZ3uS8bI9WkIlwtk/aG4PVLdiwwWqveligTdD2OC8=",
+          "cp310"
+        ],
+        "furiosa_native_postprocess-0.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sVR89KzG98c4CdbrCwMl3NBNdwmkZEj5afjlmGYRiyQ=",
+          "cp311"
+        ],
+        "furiosa_native_postprocess-0.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PwHeoKQdU64dcL0/6rtfFSqpJfH0kqJ0C52+bD8VaG8=",
+          "cp37"
+        ],
+        "furiosa_native_postprocess-0.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8yAepQu5TnF5JcUVDfa6bJjU7aTDfK0/2KOkmBBnAUA=",
+          "cp38"
+        ],
+        "furiosa_native_postprocess-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "40A0DhbSTP+PYzFp9Q5B6MY0Z8aUC3ACCKcZMiaSUxI=",
+          "cp39"
+        ],
+        "furiosa_native_postprocess-0.2.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZArLNYtT19VD+zpTEpCA/p5TC05xc9bfMgVNwse4+Bg=",
           "pp37"
         ]
       }
@@ -86918,6 +86958,12 @@
       "sdist": [
         "LnSPDmagYCzg15bmpIp+VccHYbQ6enqMWGgLbRhOCAY=",
         "nginx-static-analysis-0.2.3.tar.gz"
+      ]
+    },
+    "0.2.4": {
+      "sdist": [
+        "auoGCBLWY5ZaLWx+coV/JQHOkD3uqdKRX87iB8Tf/Iw=",
+        "nginx-static-analysis-0.2.4.tar.gz"
       ]
     }
   },

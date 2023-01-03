@@ -126835,6 +126835,12 @@
         "bvQz9onTMPPj5GoHdSvq9Ae7+CeuO7LpdhHt1OepoKM=",
         "rejected-peps-0.9.0b1.tar.gz"
       ]
+    },
+    "0.9.1": {
+      "sdist": [
+        "iiQxJS2SEhcIPm9dRUGs6aKmkNXMOuSS1jElbsaMwd8=",
+        "rejected-peps-0.9.1.tar.gz"
+      ]
     }
   },
   "reliability-stability-calc": {
@@ -146537,6 +146543,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.806": {
+      "sdist": [
+        "6W4IJp/1y36yOFIJO/TjV4qrwiXlHTnWmUM1fQEDfwI=",
+        "tencentcloud-sdk-python-taf-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_taf-3.0.806-py2.py3-none-any.whl": [
+          "Q9FTolWzQR5lrsjdFoCaqX+kCQOxAp0BWVR3oo2wk/o=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-filestore": {
@@ -159130,6 +159148,18 @@
       "wheels": {
         "vollseg-6.0.5-py3-none-any.whl": [
           "nuWoF5PCSSwjvpWyhVLG+S6DEPVMO6aC1J0HXKY7o4I=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.6": {
+      "sdist": [
+        "+D4YjEh72WUkkChqOnup5Oj2nJCTPwdh/pLlo9T+EBs=",
+        "vollseg-6.0.6.tar.gz"
+      ],
+      "wheels": {
+        "vollseg-6.0.6-py3-none-any.whl": [
+          "0yVS2WxWN7gz0iRENO9v7JJrgzxVYP6MQxxJG7b8bQU=",
           "py3"
         ]
       }

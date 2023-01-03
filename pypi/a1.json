@@ -24610,6 +24610,18 @@
         ]
       }
     },
+    "0.10.1": {
+      "sdist": [
+        "Vg/OLApgndcCQ6uilBmTVe2GEJ2n7dsDgoPOlBLMgfY=",
+        "censusdis-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "censusdis-0.10.1-py3-none-any.whl": [
+          "bqTry8gutfRFmU41VcDMBA8Yp8h+OOSThQgJxziw1ek=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "n/ReQ/P+6fxosl+iVRAhz9vujrf4Q9+XNjwqdZ/ZACA=",
@@ -81566,6 +81578,18 @@
         ]
       }
     },
+    "1.10.7": {
+      "sdist": [
+        "Xx5FLGlf/2s2B2oFKr2aQjZj/h9Tax2X5Nkzb4QI0fk=",
+        "namer-1.10.7.tar.gz"
+      ],
+      "wheels": {
+        "namer-1.10.7-py3-none-any.whl": [
+          "bAlPXMmQKXr0wYvt2Uu8PQ6bA0W6P4pxtVSWFJDchc0=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "oRgTdT9ACOhx6nlJknRco3Fbd9iBFvZns5A/1klOfe8=",
@@ -84309,6 +84333,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "O6rphr6J2FaPTkVhHfbdxhDUKlKppHD/rxcgjTHEcwE=",
+        "nonebot-plugin-mcqq-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_mcqq-1.0.4-py3-none-any.whl": [
+          "7H3niWVWBBO+L7RqC6RXvNLji57uFqoz4CYuhjBRedg=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-wen-xin": {
@@ -86908,6 +86944,14 @@
       "wheels": {
         "odoo12_addon_l10n_eu_oss-12.0.1.0.1-py3-none-any.whl": [
           "CPh9trj3EDK2+H2mwqEEmvYjNSZyqjJMXi1coQ13QrQ=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_l10n_eu_oss-12.0.1.0.1.99.dev1-py3-none-any.whl": [
+          "uSXfp0dqOfRQoT/uZcsiPLqa3OvyAyvQ99qT+DbJUl4=",
           "py3"
         ]
       }
@@ -95112,6 +95156,18 @@
       "wheels": {
         "piccolo-0.103.0-py3-none-any.whl": [
           "E61BS9BkK6lQ3vpnMwCdc2kKdATL81FMoz17/mqwEv8=",
+          "py3"
+        ]
+      }
+    },
+    "0.104.0": {
+      "sdist": [
+        "ItNCRKDBydzFlr4cbexuBRcieL/mnEjn0ofX6pUHLeI=",
+        "piccolo-0.104.0.tar.gz"
+      ],
+      "wheels": {
+        "piccolo-0.104.0-py3-none-any.whl": [
+          "H4eKASn5wZGrnKoq7JRq0pkY7pczDIW3+DtWdSJMZKo=",
           "py3"
         ]
       }
@@ -122452,8 +122508,16 @@
         "scylla-driver-3.25.11.tar.gz"
       ],
       "wheels": {
+        "scylla_driver-3.25.11-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "HhGZa9ZQ/df8q2z7/qYSnUJSGIQHPvQhP5BjEYNUlI0=",
+          "cp310"
+        ],
         "scylla_driver-3.25.11-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "52aWql8vtVOXlXfL/4gc6M8GZUvkp4fRHq36XDPQM5Y=",
+          "cp310"
+        ],
+        "scylla_driver-3.25.11-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "04MJM8XRt4KNkOEhMp9J7nCY080CQA/VQiAcGRKRjhA=",
           "cp310"
         ],
         "scylla_driver-3.25.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -122508,8 +122572,16 @@
           "drZyL3oNdBMiYFsmUSgurgjqJK4H8k9DW64PVk8B3AY=",
           "cp38"
         ],
+        "scylla_driver-3.25.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "V1C3n/hoF02lcOy0Lt9pKcyA1PcVBx69doq6nFIbl2k=",
+          "cp38"
+        ],
         "scylla_driver-3.25.11-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "i0ygLxNz6ardLe/hu4yADHiMk6Vxa4QEeOSPTRiu+aI=",
+          "cp38"
+        ],
+        "scylla_driver-3.25.11-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "SYsnIsKIxI3JbP4EgrQ2bCoMS1l4uJ0CqtqCva9jSGk=",
           "cp38"
         ],
         "scylla_driver-3.25.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -122524,8 +122596,16 @@
           "nBB7zA9BvP69dJ0mPnYhLYhfc6d2VUWAf9YR/rViuzE=",
           "cp38"
         ],
+        "scylla_driver-3.25.11-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Y3AIZ2c0YKm3UyMSac01ru4+8cOqQvQIK8e6er3AGW8=",
+          "cp39"
+        ],
         "scylla_driver-3.25.11-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "MDD5q3U2amwQ5klefC6OFragzYyS80G71vXVtzTTByo=",
+          "cp39"
+        ],
+        "scylla_driver-3.25.11-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "ghgQIRtWqF2xBnLJg8Wt8pDWf6Bq5zIZpPgt/uG9x+k=",
           "cp39"
         ],
         "scylla_driver-3.25.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -144864,6 +144944,18 @@
       "wheels": {
         "tencentcloud_sdk_python_iotvideo-3.0.805-py2.py3-none-any.whl": [
           "C+tHG0McqpAHAeRnl2dF8S5MtmC/WRoRbpZht3JWDaU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.806": {
+      "sdist": [
+        "tqK0oOJPny/PDVtveXT1uUx4edmNu5WEpASglzUbCQE=",
+        "tencentcloud-sdk-python-iotvideo-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_iotvideo-3.0.806-py2.py3-none-any.whl": [
+          "PGo4bfKDIH4alSyqCwYpbTP2Tar7MADAM4aeMpx5RdU=",
           "py2.py3"
         ]
       }

@@ -1943,6 +1943,18 @@
         "s5cQrY71sPWjTAHW+gPBm5VkxNK02taFMkzyB+bpFcI=",
         "aio-api-sm-1.1.tar.gz"
       ]
+    },
+    "1.2": {
+      "sdist": [
+        "DUSeCT3fNJNiab1nagiSb7/Jp71On7zvSQVpDsbxAz8=",
+        "aio-api-sm-1.2.tar.gz"
+      ],
+      "wheels": {
+        "aio_api_sm-1.2-py3-none-any.whl": [
+          "hn4aAmryLZwIvbynz+0L8W3OkhxavBnaNat3uDXba2g=",
+          "py3"
+        ]
+      }
     }
   },
   "aiobalaboba": {
@@ -75341,6 +75353,14 @@
           "py3"
         ]
       }
+    },
+    "6.3.8": {
+      "wheels": {
+        "netron-6.3.8-py3-none-any.whl": [
+          "82lbZgbNTtHr77gzDg1BoGP2AA5fmQi8iUwXID86xR4=",
+          "py3"
+        ]
+      }
     }
   },
   "neuralforecast": {
@@ -122468,6 +122488,18 @@
       "wheels": {
         "tencentcloud_sdk_python_zj-3.0.805-py2.py3-none-any.whl": [
           "lQ6WKZkpKoNt4d6lcpzRHQxUBJrIprkTt0P+Ca4S1aQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.806": {
+      "sdist": [
+        "H1yqT196rtwJXKbz/5qtwIkYArjixlQ5yHows4sutcg=",
+        "tencentcloud-sdk-python-zj-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_zj-3.0.806-py2.py3-none-any.whl": [
+          "zPtZ5TgheL0KIlNTbp+MoBtRh6lAiLUO/GNkjDCYKjM=",
           "py2.py3"
         ]
       }

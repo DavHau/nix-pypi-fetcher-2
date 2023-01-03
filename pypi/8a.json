@@ -3755,6 +3755,30 @@
           "py3"
         ]
       }
+    },
+    "1.1.8": {
+      "sdist": [
+        "h4xlR2wTWDQc5QztQ+IcUoaHP1TBBsx49oCLa2ALM8g=",
+        "arabica-1.1.8.tar.gz"
+      ],
+      "wheels": {
+        "arabica-1.1.8-py3-none-any.whl": [
+          "+YNWGlDIUSiBOtkywwCs4k4k3XrJXDzt12qkSv8Sqpw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.9": {
+      "sdist": [
+        "GwHC0oZ5w1ZBlCd6dJAvETG+aRKBhzDG9NfXfcGURv0=",
+        "arabica-1.1.9.tar.gz"
+      ],
+      "wheels": {
+        "arabica-1.1.9-py3-none-any.whl": [
+          "ErWRJ046T7D4AJurF1my7QIY6YoBdwy17WmTVos6CDQ=",
+          "py3"
+        ]
+      }
     }
   },
   "arachneserver": {
@@ -40859,6 +40883,16 @@
       ]
     }
   },
+  "ezipc": {
+    "1.0.0": {
+      "wheels": {
+        "ezipc-1.0.0-py3-none-any.whl": [
+          "YNU909Rv1YOM4rBHd9uiQ7ghejDNcrqv/TPT0qVtBsk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "fabsync": {
     "1.0.0": {
       "sdist": [
@@ -42666,6 +42700,18 @@
       "wheels": {
         "fedrq-0.0.2-py3-none-any.whl": [
           "+mWVa8udhsOjGl33WUxwWqZXN/SHgHwYS0dQcyZ1h7g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "Idg+S/waXvofTEv5EPByH0F6eqPgnimHTvzIyIOI7U0=",
+        "fedrq-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "fedrq-0.1.0-py3-none-any.whl": [
+          "sESXWbGszKRfbOVAuMWIBbSW8hYIsnfLKjizXsQBkEo=",
           "py3"
         ]
       }
@@ -63562,6 +63608,18 @@
     }
   },
   "likee-downloader": {
+    "1.5.5": {
+      "sdist": [
+        "Kom3GzAy9B/Vk0eXP+JxMfjcAlqPXiKYQEeRX53oZRI=",
+        "likee-downloader-1.5.5.tar.gz"
+      ],
+      "wheels": {
+        "likee_downloader-1.5.5-py3-none-any.whl": [
+          "PZfEk9hSvxtH5qigLbaRCjh6yXStiPAWKHA7DY5HY2c=",
+          "py3"
+        ]
+      }
+    },
     "2022.1.3.0": {
       "sdist": [
         "9jW6lRDhraa0cmJCdlnyXk4xcBvUcQkgSvZI3TnYDeg=",
@@ -82670,6 +82728,10 @@
           "LuLgS1S9OmYl3cpX0LBtQKzndBuiLhmW5iHxse+WvsU=",
           "cp38"
         ],
+        "OctoBot_Trading-2.3.4-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "LKWmokTVJLX64vc/A13s0Y67CvXgdTYNC+kH5GsZGn8=",
+          "cp38"
+        ],
         "OctoBot_Trading-2.3.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "dKMUM2zNT1OOO1VMs0EBnhuPbBZorhHgK03RkJuU0Uk=",
           "cp38"
@@ -83416,6 +83478,14 @@
       "wheels": {
         "odoo10_addon_l10n_it_sdi_channel-10.0.1.2.0.99.dev5-py2-none-any.whl": [
           "4wLkKwILdZ9GvDI5xMDtoVbhiLOcUGJO0F8OuUYUoHU=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.2.0.99.dev6": {
+      "wheels": {
+        "odoo10_addon_l10n_it_sdi_channel-10.0.1.2.0.99.dev6-py2-none-any.whl": [
+          "qOW9M03m/3Y0gdM0AOAzq5hoSfpHJBUlhkHr5psgvaI=",
           "py2"
         ]
       }
@@ -84860,6 +84930,14 @@
       "wheels": {
         "odoo13_addon_purchase_stock_picking_return_invoicing-13.0.1.2.2-py3-none-any.whl": [
           "x0OJJIULaRHWxWx7fM7P+5eJWC2fIxeQsKrufkDK4ww=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.3.dev1": {
+      "wheels": {
+        "odoo13_addon_purchase_stock_picking_return_invoicing-13.0.1.2.3.dev1-py3-none-any.whl": [
+          "mzPHQ0VKMYJB4SKyPMQIdPe7kFp84uaODU5ccm1nnA0=",
           "py3"
         ]
       }
@@ -121141,6 +121219,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "NTOOYJlK9NH97g8TuePxyh0Ygt1wc821kbck7SXLTQo=",
+        "sdss_hal-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "sdss_hal-0.5.0-py3-none-any.whl": [
+          "dy2XG5Z/CNBweHE5hM3Y2fWmkcN13pSH7Qa7xwdgXNs=",
+          "py3"
+        ]
+      }
     }
   },
   "seamester": {
@@ -124249,6 +124339,20 @@
         "2jdFvJ8Z6iighIxkr0MWj7SrtgAv1O/UGm7ioLoFDXE=",
         "smooch-lib-20.3.4.tar.gz"
       ]
+    }
+  },
+  "smpl-parallel": {
+    "1.2.1.1": {
+      "sdist": [
+        "3ey7czkZPUz+mK59V2H6cx3+LlmVWdpgQINtbugo1xU=",
+        "smpl_parallel-1.2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "smpl_parallel-1.2.1.1-py3-none-any.whl": [
+          "gohJv1GXkzJvZJV9E7Y2u4jRV+aslcmUIuAQ+C9MGek=",
+          "py3"
+        ]
+      }
     }
   },
   "smtpd-tls": {

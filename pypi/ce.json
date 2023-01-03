@@ -14841,6 +14841,42 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "My0qs/D7OE/x92YIg0PjKrXDFxdpA+lKm6dIm3zbn04=",
+        "climetlab_cems_flood-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "climetlab_cems_flood-0.2.1-py3-none-any.whl": [
+          "N43bFWGEyPBzaOyJlJslnYePn3Ge5QgwLpC7028X660=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "G/viAAUxD6CipVI7w4ZUF/bfiTvO/OhCVH3DIMRv5lc=",
+        "climetlab_cems_flood-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "climetlab_cems_flood-0.2.2-py3-none-any.whl": [
+          "PACxh1FGP0BbwUhGr1276TBbeL+uZaT5lH7skn80p5U=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "BfOl8Ovefxjj6w+b6ltjpXlD/IVFqQlUKerDqEQszks=",
+        "climetlab_cems_flood-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "climetlab_cems_flood-0.2.3-py3-none-any.whl": [
+          "zv5fUG6H5Ce+4qji38RNSxA8OWLYLY4Sohs2wyBwC+Y=",
+          "py3"
+        ]
+      }
     }
   },
   "cloudcrmsat": {
@@ -20248,6 +20284,14 @@
       "wheels": {
         "deltastore-0.1.4-py3-none-any.whl": [
           "tQrH9CFFjVRv0sQLCY0gNj1PIiyuj5UVYxTVu1aZAPg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "wheels": {
+        "deltastore-0.1.6-py3-none-any.whl": [
+          "mOROkkcNes43pwMFSN4VuVIIB6nWjsp2RSuXO0NAHIo=",
           "py3"
         ]
       }
@@ -31234,6 +31278,18 @@
       "wheels": {
         "dynamodb_garbage_collector-1.0.0-py3-none-any.whl": [
           "FHYQbSDPRuoJD/+vRU4e5mQQmwKOX/Az+Nh0WqG4f34=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "o84gAirQEL/0k+qdTANiSXC/Gk1cmGp6i6ya733utoA=",
+        "dynamodb_garbage_collector-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dynamodb_garbage_collector-1.1.0-py3-none-any.whl": [
+          "hv+GnNyc77PQqyI7X1Av3odrrO3wezO4dGuUStEID7o=",
           "py3"
         ]
       }
@@ -48112,6 +48168,18 @@
       "wheels": {
         "hyperdrive-1.9.0-py3-none-any.whl": [
           "JYbOZ+o3qV1VDSzDRrlTTSM9EqIwHi2G1sdFggZHcWA=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.2": {
+      "sdist": [
+        "yjKupmJkFGElMZKMHBCfC+ZDh5wo1VxuPYp2bAwBP84=",
+        "hyperdrive-1.9.2.tar.gz"
+      ],
+      "wheels": {
+        "hyperdrive-1.9.2-py3-none-any.whl": [
+          "lzk9CShoi24FxL7th8Cy4s1IsH7Rn87lB5S8S33O19Q=",
           "py3"
         ]
       }
@@ -83294,6 +83362,14 @@
       "wheels": {
         "odoo13_addon_account_payment_purchase-13.0.1.0.4.dev1-py3-none-any.whl": [
           "4ecxxl+vFRDUhbVpmd7Qteb3wQlrn1/8TuCxqv8DxMY=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.4.dev2": {
+      "wheels": {
+        "odoo13_addon_account_payment_purchase-13.0.1.0.4.dev2-py3-none-any.whl": [
+          "eZ6FMvzAyv2URimuEnrXR7ER7CJxaX+calNfBwoXCn8=",
           "py3"
         ]
       }
@@ -142986,6 +143062,46 @@
         ],
         "vineyard-0.11.3-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "cqCgg6V4pBtGJNOE7hc+SFLUmxPwd4wDzuGbFe0z3vg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.11.4": {
+      "wheels": {
+        "vineyard-0.11.4-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "qdJsor9kgDC9pTpRY4HLW7QCwOJdk9a3sNEXNqa1CkU=",
+          "cp310"
+        ],
+        "vineyard-0.11.4-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "RueCn9y7oZB7AvCTsv+skCowoe1Ckbn6y1StaC1xtDk=",
+          "cp310"
+        ],
+        "vineyard-0.11.4-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "m7U9fD9j801EfxzZVScWrDfdiHphOwvJLzqOsdGCXiw=",
+          "cp36"
+        ],
+        "vineyard-0.11.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "2F9xwtn60wu21nOgYRKh9RiYq8Y/wUjZMRyo2zGGBag=",
+          "cp37"
+        ],
+        "vineyard-0.11.4-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "8cR+HRlT275ynGbKoFAE4A73rqLiZbWtNGGA4QQXuZk=",
+          "cp37"
+        ],
+        "vineyard-0.11.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "AZeNIYnCH8s2xJqWXgAi8BR0hP/5hMx78syrENqMwhk=",
+          "cp38"
+        ],
+        "vineyard-0.11.4-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "fdu/qLATzwRCMSX6LNpXZrxEdbHiruONF3+Eh1QIKFk=",
+          "cp38"
+        ],
+        "vineyard-0.11.4-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "3dwASYtNoXyQN7SIPflmgOUgG+BcsQirywzLPGF5kzk=",
+          "cp39"
+        ],
+        "vineyard-0.11.4-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "8AqfE2buRVgN7YwsnrlmsLVGq5Hulh+6iPEq7684388=",
           "cp39"
         ]
       }

@@ -4129,6 +4129,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "T31+JLr4JfO/fAkTWpRiInyDG4A1FiBNLoaz04DOICw=",
+        "ansible_workspace-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "ansible_workspace-1.0.4-py3-none-any.whl": [
+          "7k9SxkB3j66C9Sfau95TyJ6SAUbAf8r22nGhcmggKeQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "ygUfCkpOuaoZuLa3cYIS7xl6FBTdt+zRPkH/NxmFuU0=",
+        "ansible_workspace-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ansible_workspace-1.0.5-py3-none-any.whl": [
+          "VQrKq1GMhX9pil9BordjKV5fJcsH/P4lljM80Log/qM=",
+          "py3"
+        ]
+      }
     }
   },
   "antsibull-core": {
@@ -80559,6 +80583,20 @@
       }
     }
   },
+  "morph-ko": {
+    "0.1.0": {
+      "sdist": [
+        "5tJU7i68YyGjEOjCRO8pq7oaOE0jXb/1YJdHSaEGAgk=",
+        "morph_ko-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "morph_ko-0.1.0-py3-none-any.whl": [
+          "xUPoE3+ZbOzllyzp3GkFMNSv7S9s6j3wteNaH8Y8Dqw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "motmot.imops": {
     "0.5.10": {
       "sdist": [
@@ -89468,6 +89506,14 @@
       "wheels": {
         "odoo8_addon_base_delivery_carrier_files-8.0.1.2.5.99.dev1-py2-none-any.whl": [
           "QMMBii05uqUvHemdBuzOeneN6GN87maC3J9zfyH+fyc=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.2.5.99.dev2": {
+      "wheels": {
+        "odoo8_addon_base_delivery_carrier_files-8.0.1.2.5.99.dev2-py2-none-any.whl": [
+          "XEft+s8EzyIAhfnnPJWP4BPO9X415URczDkpawm5Xfs=",
           "py2"
         ]
       }
@@ -142422,6 +142468,18 @@
       "wheels": {
         "tencentcloud_sdk_python-3.0.805-py2.py3-none-any.whl": [
           "05mZzG5CX/rxv8EpDrpxZzZ5LBMsPzmlDryGQGHLadE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.806": {
+      "sdist": [
+        "4TY1sjXMrKIkvXYaxzEe/YVk0nmWhw4Gavyuy7fzP88=",
+        "tencentcloud-sdk-python-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python-3.0.806-py2.py3-none-any.whl": [
+          "xLNMuswlUIlEJ6NeoPM1+6e/wh2Upuy1Lu1NhZsjRig=",
           "py2.py3"
         ]
       }

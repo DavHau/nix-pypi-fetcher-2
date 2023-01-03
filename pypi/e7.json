@@ -2105,6 +2105,12 @@
         "Vpo5zJkA/6UApgwAkEoVaPqf7AY+ODnvg0TGaN7VwiM=",
         "aeppl-nightly-0.0.50.dev20230102.tar.gz"
       ]
+    },
+    "0.0.50.dev20230103": {
+      "sdist": [
+        "+fH00H5mj3Ig3q+nPRANtZY27I86WNeztzprRcYxf/E=",
+        "aeppl-nightly-0.0.50.dev20230103.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -17615,6 +17621,20 @@
         "cZMciTjJ+A1i4GI8jyyNvprp1DYzZPnlMWEMsGp9x2Y=",
         "chromeremote-0.2.7.tar.gz"
       ]
+    }
+  },
+  "chrono24": {
+    "0.0.1": {
+      "sdist": [
+        "7CSMoEY8kz5C+snIVyWeDknRoCpXTbxkxkjN5bqloDw=",
+        "chrono24-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "chrono24-0.0.1-py3-none-any.whl": [
+          "K+Mx7dpe7BeISbQeBENCef958NRg4UJRm+iOpP0BpnY=",
+          "py3"
+        ]
+      }
     }
   },
   "ciclops": {
@@ -116369,6 +116389,12 @@
         "KMKRCAB4j34rRKzZA+9S24CXd1IOk2zj9lQ0mYEVk4E=",
         "rclone-manager-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "zl7ssnRJHcny6SQnCvzLhuMAXqj0b+D9rLWmkZSxa2U=",
+        "rclone-manager-1.0.1.tar.gz"
+      ]
     }
   },
   "rdfpy": {
@@ -139866,6 +139892,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ses-3.0.805-py2.py3-none-any.whl": [
           "1P7Yja6bneP/j0gn4fENvATX9F6PndHcmu/r+Dckmtc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.806": {
+      "sdist": [
+        "1EHi+EJU0Wvo+gNGwh65TV6HG0jU27QiCj51iX/9N0k=",
+        "tencentcloud-sdk-python-ses-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ses-3.0.806-py2.py3-none-any.whl": [
+          "I+A+B+7WeYxF4nnWwghoqU6nN90UXIrJu1SwMhgiJyc=",
           "py2.py3"
         ]
       }

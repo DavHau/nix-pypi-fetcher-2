@@ -46287,6 +46287,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.19.0a20230102": {
+      "wheels": {
+        "gs_apps-0.19.0a20230102-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fULwIrN3PP3QAgdhN1iPr7hrnXC1+GtuiY4riZjz0wE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "gspy": {
@@ -68961,6 +68969,14 @@
           "py2"
         ]
       }
+    },
+    "10.0.1.1.2.99.dev1": {
+      "wheels": {
+        "odoo10_addon_account_tax_balance-10.0.1.1.2.99.dev1-py2-none-any.whl": [
+          "wcGiZgRhci9TmhASi5jFER7BVOLrDljHy8W6g5cBkYs=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo10-addon-barcodes-generator-picking": {
@@ -69002,6 +69018,14 @@
       "wheels": {
         "odoo10_addon_base_delivery_carrier_files-10.0.1.0.2-py2-none-any.whl": [
           "XrybQ1UUUhT0c80soueqX9fEohEnU4GpQFmkC86G6KI=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.2.99.dev1": {
+      "wheels": {
+        "odoo10_addon_base_delivery_carrier_files-10.0.1.0.2.99.dev1-py2-none-any.whl": [
+          "4LCz4KftQ1yvNlZhwkSQ5OMlUztIgxhiV3ouX6RrKIU=",
           "py2"
         ]
       }
@@ -101065,6 +101089,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.6": {
+      "sdist": [
+        "n01t9iG5JkUN7qrcJG2XmUpn1+iktkSF7MTGlnd/EaM=",
+        "PyPDFForm-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "PyPDFForm-1.1.6-py3-none-any.whl": [
+          "o2yA5XfJlKSQTb2XvQMLVrrBKfUUAWP+Vzm3k6jRN4c=",
+          "py3"
+        ]
+      }
     }
   },
   "pypiuma": {
@@ -133091,6 +133127,32 @@
         "xas5hFK/6beZXfs6kRqIqkSjbhbXOuNA6M6I9fUoaoo=",
         "tap-invoiced-0.1.0.tar.gz"
       ]
+    }
+  },
+  "taposocket": {
+    "1.0.0": {
+      "sdist": [
+        "/2ARe3qyscOGi3vT6j6YAl9KPmbwh71lwCZwJYqcvCw=",
+        "taposocket-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "taposocket-1.0.0-py3-none-any.whl": [
+          "/+KMXEvMhtid9URqrT+fCpY2JBU/9KMZZit8nmVxgt0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "ML1YNJTla69uLiMMKgVCKJIywLngF/mSbgtCbDANHfQ=",
+        "taposocket-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "taposocket-1.0.1-py3-none-any.whl": [
+          "xhqe1X8J3aGaH6DepiUZjzAll+hzYFn9GtMeT2yQ9n0=",
+          "py3"
+        ]
+      }
     }
   },
   "taskq": {

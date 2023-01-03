@@ -85072,6 +85072,14 @@
         ]
       }
     },
+    "10.0.1.1.0.99.dev13": {
+      "wheels": {
+        "odoo10_addon_customer_activity_statement-10.0.1.1.0.99.dev13-py2-none-any.whl": [
+          "jF3UQwwYknFj/oK4R/TX+kYy3WQ5uKtdHSklGPIQgSw=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.1.0.99.dev2": {
       "wheels": {
         "odoo10_addon_customer_activity_statement-10.0.1.1.0.99.dev2-py2-none-any.whl": [
@@ -125865,6 +125873,12 @@
         "azAhpt6Qo/arTYeJSeQdBnqOmg2m7h+1pTsV30/pAOc=",
         "sqlmap-1.6.9.tar.gz"
       ]
+    },
+    "1.7": {
+      "sdist": [
+        "EQ7kdX14WkmH4b40W2sXplZdJw9SICYBpy6lPbMx8WY=",
+        "sqlmap-1.7.tar.gz"
+      ]
     }
   },
   "squaad": {
@@ -133592,6 +133606,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.805-py2.py3-none-any.whl": [
           "IC1Hbu3tapza5bkIXnhUShFyol9Ro4IxPXdoPSKINLc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.806": {
+      "sdist": [
+        "wNgmKCjLJym9u9i9vTYhaw1yUsfs1PqgXpMVp0cSTL4=",
+        "tencentcloud-sdk-python-mna-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.806-py2.py3-none-any.whl": [
+          "H1+M8QkNEJZvIDYfLhxZQPgqs6jMsn+LynvjAYTHP98=",
           "py2.py3"
         ]
       }

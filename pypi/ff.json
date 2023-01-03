@@ -28589,6 +28589,14 @@
       }
     }
   },
+  "client-proj-dav": {
+    "0.0.1": {
+      "sdist": [
+        "VhpeuiseaDk4a9dmWKwn1ElMP8okDNuAvrnUgf7HiLY=",
+        "client_proj_dav-0.0.1.tar.gz"
+      ]
+    }
+  },
   "clife-svc": {
     "0.8": {
       "sdist": [
@@ -82529,6 +82537,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.2.2.0.3": {
+      "wheels": {
+        "odoo_addon_account_statement_import-15.0.2.2.0.3-py3-none-any.whl": [
+          "bqArrZ50n0HX/TH+R1Oi1KT1OUwHFH20inEzK6ZCems=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-document-page-environmental-aspect": {
@@ -121735,6 +121751,14 @@
       ]
     }
   },
+  "server-proj-dav": {
+    "0.0.2": {
+      "sdist": [
+        "avskoNjcymWxIwt25xyvbdefl+G2SOl0HSv4i8bXMts=",
+        "server_proj_dav-0.0.2.tar.gz"
+      ]
+    }
+  },
   "servoarray": {
     "0.1": {
       "sdist": [
@@ -138921,6 +138945,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.806": {
+      "sdist": [
+        "f0x1QjadaDPPeKou2SD8a70GIo1kpss/3sd1PBYNdvE=",
+        "tencentcloud-sdk-python-ckafka-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.806-py2.py3-none-any.whl": [
+          "EeWFm32fvq9BTc1EgXBEZZi3httm1tbbckHHTLJco78=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -151272,6 +151308,34 @@
         ],
         "xia_api-0.1.1-cp39-none-win_amd64.whl": [
           "TwdIp1AR46/2PHXiMXNFXUgsjst/PaFjBoEkSEXFV70=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "xia_api-0.1.2-cp310-none-macosx_11_0_x86_64.whl": [
+          "IULg0FIzdPQYCO55kApmIQnmWr8bjdMt9DCzrJ+Ew7g=",
+          "cp310"
+        ],
+        "xia_api-0.1.2-cp310-none-manylinux1_x86_64.whl": [
+          "ZqDbm+zGVXu1jbq+4pWc7BRgUNWkKGL4mxQjWOcyWls=",
+          "cp310"
+        ],
+        "xia_api-0.1.2-cp310-none-win_amd64.whl": [
+          "i4hAbiXKxFagTUdYCb4cfPcEfpgOv/yemcEKnqd8bw0=",
+          "cp310"
+        ],
+        "xia_api-0.1.2-cp39-none-macosx_11_0_x86_64.whl": [
+          "6Xw0KBm/rez+5p+RgzmH9FH6Mr9SNv1Gf93Qgq973uo=",
+          "cp39"
+        ],
+        "xia_api-0.1.2-cp39-none-manylinux1_x86_64.whl": [
+          "Px0ACgiLNyelVbBRmMo8aX0grfSiMhJzcQPwLod2ybc=",
+          "cp39"
+        ],
+        "xia_api-0.1.2-cp39-none-win_amd64.whl": [
+          "C+GdNZJSwl26X7nrL66r8pAcJMYk7rBsV1cGAfdSDFc=",
           "cp39"
         ]
       }

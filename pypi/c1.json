@@ -80337,6 +80337,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_product_pack-15.0.1.0.1-py3-none-any.whl": [
+          "6B57Bh2MkvyHcvXhqyP6jwk2oYdyFPh7CCopJ9feoYc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-downloader": {
@@ -83772,6 +83780,14 @@
       "wheels": {
         "odoo8_addon_account_advanced_reconcile-8.0.1.0.0.99.dev16-py2-none-any.whl": [
           "P8cEKolRMy+MgNc3w/b5ceM1avz0rbA3URI3luvKFXQ=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev17": {
+      "wheels": {
+        "odoo8_addon_account_advanced_reconcile-8.0.1.0.0.99.dev17-py2-none-any.whl": [
+          "RQHbgdPu1NIQcKJnQgg+as/O3X8HExFiDsAXVGNMb/o=",
           "py2"
         ]
       }
@@ -93352,6 +93368,18 @@
       "wheels": {
         "panda_gym-3.0.1-py3-none-any.whl": [
           "tEVO4dPFMMMMrLLKSWHOblgr2OJF2/uqoZJKdJ4qS8Q=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.3": {
+      "sdist": [
+        "qjCH1ErnmHplljgchINwUM/ukoW6fcTrujSvwSRHC0E=",
+        "panda_gym-3.0.3.tar.gz"
+      ],
+      "wheels": {
+        "panda_gym-3.0.3-py3-none-any.whl": [
+          "BZr1D41YyBZMy3RftUan2tJhTG6iVhLKhc/aGDCS9kw=",
           "py3"
         ]
       }
@@ -135871,6 +135899,20 @@
         "HGiN6WR+rHjH2CUMM8QOEGgXEu31LkBFAPv3k9LONQM=",
         "templer.buildout-1.0b1.zip"
       ]
+    }
+  },
+  "tencdec": {
+    "0.0.1": {
+      "sdist": [
+        "J5kBbr0f4DPF/pOUf1/tXl/tity0v2DIaUQ4NLgOI1Q=",
+        "tencdec-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tencdec-0.0.1-py3-none-any.whl": [
+          "gaTaYXuuqgcZrHHbwKi8C00noeA8cJ7vwCfVJ+vWctA=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorclus": {

@@ -55701,6 +55701,16 @@
       }
     }
   },
+  "install-pip": {
+    "0.0.1": {
+      "wheels": {
+        "install_pip-0.0.2-py3-none-any.whl": [
+          "9Dhzmal1FoGo9lvpDPTSy2ROVKyP7ErJCgFvR14UOAA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "installrequirestest2": {
     "0.1": {
       "sdist": [
@@ -119226,6 +119236,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cii-3.0.805-py2.py3-none-any.whl": [
           "DTyPsY2F7sVFMeOpnM9+RKXctqp0A1gPRP854jRequM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.806": {
+      "sdist": [
+        "B7j95nXroLd/6xuYgg3IuELzxUDXkGdtT9Q/M5PyPEk=",
+        "tencentcloud-sdk-python-cii-3.0.806.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.806-py2.py3-none-any.whl": [
+          "0IOA0+B+ogl6fArxqEqDTkgkryvGug/QLOoR2/Q4+t4=",
           "py2.py3"
         ]
       }
