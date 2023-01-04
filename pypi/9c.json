@@ -13937,6 +13937,12 @@
         "f4NTGkeZzSP8QDk31TbyG9H1Uf/ZTB4hNZYkixwZ084=",
         "assemblyline-core-4.3.1.dev90.tar.gz"
       ]
+    },
+    "4.3.1.dev92": {
+      "sdist": [
+        "G6CEdUEsqN7vU36tcXzSYxWsxdn8mvlAxtTE/OgrzGs=",
+        "assemblyline-core-4.3.1.dev92.tar.gz"
+      ]
     }
   },
   "astro-brutus": {
@@ -14280,6 +14286,18 @@
       "wheels": {
         "asyncz-0.1.3-py3-none-any.whl": [
           "RQlXScrrQWc9D/MyzRAgsU2OBVhYgWdl/Q+DzW3i6Rs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "jDtX8BU2405FLcwP9x6l5gzXTaPptP+o9nB3c5WlEcw=",
+        "asyncz-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "asyncz-0.1.4-py3-none-any.whl": [
+          "ZDIFl0NzkvGnTf/5waGQp3unmooSYvIxSIMCrD1piKs=",
           "py3"
         ]
       }
@@ -17014,6 +17032,18 @@
       "wheels": {
         "aws_cdk.aws_elasticloadbalancing-1.186.1-py3-none-any.whl": [
           "dz8xh0zfnyL6BLEJ5h4wDNetbRhWvlcNemLUXkGvvKE=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "XM+lAdOjJwW5fDAXbw+Jrpsn5SKgKkIR0yAXQOPR3CU=",
+        "aws-cdk.aws-elasticloadbalancing-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticloadbalancing-1.187.0-py3-none-any.whl": [
+          "GkDMzSyJX8xvfMoLkq4NXf0Ur22+F7Rb0GSD6E28EQw=",
           "py3"
         ]
       }
@@ -60853,6 +60883,20 @@
       }
     }
   },
+  "handlerconsolecrud": {
+    "0.0.1": {
+      "sdist": [
+        "w8E5xvnmJHzJxW4f2CM+OkFP9OJVy5RUhfuN9xoEyyE=",
+        "handlerConsoleCRUD-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "handlerConsoleCRUD-0.0.1-py3-none-any.whl": [
+          "OB5pZDiST4vK/rCyLeD3BxHSz5ee32QlTX9OpMGuMnY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "handlr": {
     "0.1.0": {
       "sdist": [
@@ -88914,6 +88958,14 @@
         ]
       }
     },
+    "10.0.1.1.0.99.dev17": {
+      "wheels": {
+        "odoo10_addon_account_cutoff_base-10.0.1.1.0.99.dev17-py2-none-any.whl": [
+          "Ls/lsE1G3ci3Mp+2xJZ24I/X1I8Trf5odzCsWpIG1Mc=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.1.0.99.dev2": {
       "wheels": {
         "odoo10_addon_account_cutoff_base-10.0.1.1.0.99.dev2-py2-none-any.whl": [
@@ -89606,6 +89658,14 @@
       "wheels": {
         "odoo10_addon_sale_commission-10.0.2.6.0.99.dev5-py2-none-any.whl": [
           "DNDydtcH0W8m6enhZ2naUySoVGrr1ns/ukiHjOVxrgQ=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.2.6.0.99.dev6": {
+      "wheels": {
+        "odoo10_addon_sale_commission-10.0.2.6.0.99.dev6-py2-none-any.whl": [
+          "ln1rCgC8HDNgXmOKYjAZTJQ7OozOC1+67Kp7d/bDGeA=",
           "py2"
         ]
       }
@@ -136862,6 +136922,18 @@
       "wheels": {
         "spectacles-2.3.6-py2.py3-none-any.whl": [
           "LYjO7T43a2Y+w8d69DK6UuVd/FN0DFwitCYb2wO8+z0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.3.7": {
+      "sdist": [
+        "BCTjhrTF0f9Wc3LGxmIVguBxCJmG0cPdKyg21wVwJ88=",
+        "spectacles-2.3.7.tar.gz"
+      ],
+      "wheels": {
+        "spectacles-2.3.7-py2.py3-none-any.whl": [
+          "8eDWZvxzthvAjxN0JkrNpfIHltJ7SLYjzeMu0YF8LFg=",
           "py2.py3"
         ]
       }

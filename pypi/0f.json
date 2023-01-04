@@ -8088,6 +8088,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "4gTkeGbCULlWhnxvgjq8m2Gadc6N4fE+XhI1La9zBeA=",
+        "aws-cdk.aws-lambda-destinations-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.187.0-py3-none-any.whl": [
+          "QYJ0VG8BXSMDtKX6pho/6ZzxA/f4FPTqBQy44Xs9jbE=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "eESL+fYShgN0GJ/NF95gzLcubYsQeTRrK5+gESbJ3JE=",
@@ -10846,6 +10858,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.186.1-py3-none-any.whl": [
           "uLVWYvbJcMwB+4uLn+a4Glw82ZmTDzj6YapnoD7AJAY=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "A+DeqWgS9ltczEG1Jh2CAmvzTcMPtaoAQE2CtO582Ok=",
+        "aws-cdk.aws-rds-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.187.0-py3-none-any.whl": [
+          "xRkETI2M8wgZG3wipuaQolaVi239rD0m+jH6DorDRfY=",
           "py3"
         ]
       }
@@ -25333,6 +25357,12 @@
         "LohRmAKml4s1unXCCO/jFRBGe52CKpieiQzZdl9E+HQ=",
         "credstashtest-5.9.0.tar.gz"
       ]
+    },
+    "6.0.0": {
+      "sdist": [
+        "RXyGmI81vT4LfxGZveRPC1Ohm+l62kx0tmtWgeL7Vnc=",
+        "credstashtest-6.0.0.tar.gz"
+      ]
     }
   },
   "creed": {
@@ -36446,6 +36476,18 @@
       "wheels": {
         "django_accounts_api-0.1.3-py3-none-any.whl": [
           "CnjZlOGlZU7qDlXWQ6/neVX+7miOd8VdeR7+nRu6BWw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "Us59jgcfqk8RxPZlXXDC3RVM2n+ryX2+UnJ7ph11O8E=",
+        "django_accounts_api-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "django_accounts_api-0.1.4-py3-none-any.whl": [
+          "FTPQjaxgu8b+VX8XDZHxtrmbGYr2nz37WR2Jndk+qvg=",
           "py3"
         ]
       }
@@ -92975,6 +93017,14 @@
           "py2"
         ]
       }
+    },
+    "10.0.3.1.3.99.dev4": {
+      "wheels": {
+        "odoo10_addon_account_financial_report_qweb-10.0.3.1.3.99.dev4-py2-none-any.whl": [
+          "0gzrn/LZtMNbTHYznJYv1Ap6sY+WnG+kU4sa298/uN8=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo10-addon-base-delivery-carrier-label": {
@@ -93892,6 +93942,14 @@
       "wheels": {
         "odoo12_addon_account_check_deposit-12.0.1.0.1.99.dev16-py3-none-any.whl": [
           "XdGz0PoJLmiJZsYQMQgIHagSUxdifjq1AkUT9a8Adbg=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev17": {
+      "wheels": {
+        "odoo12_addon_account_check_deposit-12.0.1.0.1.99.dev17-py3-none-any.whl": [
+          "chyeh51l6qxVIryDEPsSg7JYsW5gut92jcoRRJBlYnw=",
           "py3"
         ]
       }
@@ -96040,6 +96098,14 @@
       "wheels": {
         "odoo9_addon_account_credit_control-9.0.1.0.4-py2-none-any.whl": [
           "bpuxDxfz67KpGo/ExGOHOEksRaUqTnrux6H+hsLIO3w=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.4.99.dev1": {
+      "wheels": {
+        "odoo9_addon_account_credit_control-9.0.1.0.4.99.dev1-py2-none-any.whl": [
+          "d1cXU8rTp5S8ulP4awchQIwo+KbEFQnlNAtRxYj28Hw=",
           "py2"
         ]
       }

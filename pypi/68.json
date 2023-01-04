@@ -11618,6 +11618,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "ORkjBuK4gkG3/aJnWVR1MpzyK+m2CXINUIS+AWXoWco=",
+        "aws-cdk.aws-lookoutvision-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lookoutvision-1.187.0-py3-none-any.whl": [
+          "OCIbI5DJY+ekq3mbHyHVI1OS1OoC74Ufn3a0gYA5q8o=",
+          "py3"
+        ]
+      }
+    },
     "1.89.0": {
       "sdist": [
         "/gFxCjhaxJf1PWjhZIJLFOLXnM+E1aFOJpoGyG9qEMo=",
@@ -13392,6 +13404,18 @@
       "wheels": {
         "aws_cdk.aws_servicecatalog-1.186.1-py3-none-any.whl": [
           "SDvl3ahok6RREfHjYyFSdRdIkF9eWr5MqpWEdvEcWDI=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "d3b/EHwBXkVc+gzBDV7d3we5VpJIRdJBPeKLKx9fFos=",
+        "aws-cdk.aws-servicecatalog-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalog-1.187.0-py3-none-any.whl": [
+          "bqeXx+JGHUTTtXCj+9CvUHnykif6J1j+CMv04ii5Jt4=",
           "py3"
         ]
       }
@@ -48161,6 +48185,32 @@
       }
     }
   },
+  "edusocialmediadshelper": {
+    "0.0.1": {
+      "sdist": [
+        "kNCAkb4X7aQvk9J0MxElQUfOvZt8tNLPEFBCnnOV8EY=",
+        "EduSocialMediaDSHelper-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "EduSocialMediaDSHelper-0.0.1-py3-none-any.whl": [
+          "DDsUHtqDFFtZDG5gKVkke0dtMCl9cfKkLbJ9NtyAIFk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "SD/3ZCaF8yLDcq+O1eroAQcmM1FqBATUsCrHL2czvRI=",
+        "EduSocialMediaDSHelper-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "EduSocialMediaDSHelper-0.0.2-py3-none-any.whl": [
+          "ACzPGHX2izjev+K062D6UFsjj0cOFnPEf7KvouD3m5o=",
+          "py3"
+        ]
+      }
+    }
+  },
   "edutest": {
     "0.1": {
       "sdist": [
@@ -76655,6 +76705,26 @@
       }
     }
   },
+  "litelab": {
+    "0.0.1": {
+      "sdist": [
+        "QMOQkCkvDf9wtvQUnUr7IZpcmGuZU7/VtYzPEOJezC4=",
+        "litelab-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "GK4gh653tNoUHP1yGFRouLLj5vJUWSCLb4L8uEB9ux0=",
+        "litelab-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "kqSH6MoolORzAGTwffW1vQHgJ5k2e+9TrxerK5k+zMo=",
+        "litelab-0.0.3.tar.gz"
+      ]
+    }
+  },
   "livedoorblog": {
     "0.0.1": {
       "sdist": [
@@ -98044,6 +98114,14 @@
       "wheels": {
         "odoo8_addon_hr_employee_identification-8.0.1.0.0.99.dev6-py2-none-any.whl": [
           "7I05yRH+0/uoFeelUQaKk+9Ui0DMQxdkdvmybkk1dGY=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev7": {
+      "wheels": {
+        "odoo8_addon_hr_employee_identification-8.0.1.0.0.99.dev7-py2-none-any.whl": [
+          "6Z2Wjkp/R3lqjnHbU/ibe0qE3Ghoole+0VjzQHAlwlQ=",
           "py2"
         ]
       }

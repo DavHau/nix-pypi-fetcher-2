@@ -81724,6 +81724,14 @@
         ]
       }
     },
+    "12.0.1.0.0.99.dev15": {
+      "wheels": {
+        "odoo12_addon_account_lock_date_update-12.0.1.0.0.99.dev15-py3-none-any.whl": [
+          "g4EQSSzbdfWiP8ofWTGKT94kGE09cv1zLGcb9NClAk0=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo12_addon_account_lock_date_update-12.0.1.0.0.99.dev2-py3-none-any.whl": [
@@ -83820,6 +83828,14 @@
       "wheels": {
         "odoo8_addon_account_advanced_reconcile-8.0.1.0.0.99.dev17-py2-none-any.whl": [
           "RQHbgdPu1NIQcKJnQgg+as/O3X8HExFiDsAXVGNMb/o=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev18": {
+      "wheels": {
+        "odoo8_addon_account_advanced_reconcile-8.0.1.0.0.99.dev18-py2-none-any.whl": [
+          "lFTmdaaddYJO9Uh65OZNGuulz2ZqPfzGLDA1WseQaWw=",
           "py2"
         ]
       }
@@ -112289,6 +112305,78 @@
           "cp39"
         ]
       }
+    },
+    "2.2.1": {
+      "wheels": {
+        "qat_lang-2.2.1-cp310-cp310-macosx_10_9_intel.whl": [
+          "B7QGkyERjMaNC6q/FvkHbH2uI7zk78/LpQo7BAQwXnQ=",
+          "cp310"
+        ],
+        "qat_lang-2.2.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "CiUHgcZKw+4JPvKV4B/r96x5UFTPMZGpgAbyb+kgBGk=",
+          "cp310"
+        ],
+        "qat_lang-2.2.1-cp310-cp310-manylinux1_x86_64.whl": [
+          "Wklemx1FOQdgCwd2q21OclMcKjpX0W7PwuNg++8XteQ=",
+          "cp310"
+        ],
+        "qat_lang-2.2.1-cp310-cp310-win_amd64.whl": [
+          "Z3MbzmSo+D1RdgN1S7MszQ04oLf+zc0Wx1es1UdRO1k=",
+          "cp310"
+        ],
+        "qat_lang-2.2.1-cp36-cp36m-macosx_10_9_intel.whl": [
+          "yaFhIz7NG04Tc48wG5fGwsRIaecOzJ6pC8grndnt6Ow=",
+          "cp36"
+        ],
+        "qat_lang-2.2.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8d9d2MWBQ6hpPx1tqprpfgYBnZ372LSDG/pPC7YFbXs=",
+          "cp36"
+        ],
+        "qat_lang-2.2.1-cp36-cp36m-win_amd64.whl": [
+          "B+eBnw8MglTZFO3MEfpWo93rOWxCWbbSBghSv7M4drU=",
+          "cp36"
+        ],
+        "qat_lang-2.2.1-cp37-cp37m-macosx_10_9_intel.whl": [
+          "xZKFdhsCELFE3je3edxM173nivIF3Af01iJML9JlGko=",
+          "cp37"
+        ],
+        "qat_lang-2.2.1-cp37-cp37m-win_amd64.whl": [
+          "wugY4Wn1s7AUBu8SXeWBzeNSpH135fu9+FJ8tnVyOT4=",
+          "cp37"
+        ],
+        "qat_lang-2.2.1-cp38-cp38-macosx_10_9_intel.whl": [
+          "WkEBV1l1gDdtWyjDceU1TAv3d49LKLQrNTR9Y5WkMUA=",
+          "cp38"
+        ],
+        "qat_lang-2.2.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "PKeekdIhdETrhl+oS2gGnXPpNdGKB+AWFGUxgQ2/J38=",
+          "cp38"
+        ],
+        "qat_lang-2.2.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "drKfaMmJOrx0wMjgl0FXc8WaDpWg/vYybZOcG7UwXWk=",
+          "cp38"
+        ],
+        "qat_lang-2.2.1-cp38-cp38-win_amd64.whl": [
+          "4gtS1Y/FgbJsu6jxTs/6cW1nLR07Yf3YRMdCOCvWQ5k=",
+          "cp38"
+        ],
+        "qat_lang-2.2.1-cp39-cp39-macosx_10_9_intel.whl": [
+          "WaWZMLHu6fuQzJ8zZ9SNlUIFO+eakypg4y91UdJeFgI=",
+          "cp39"
+        ],
+        "qat_lang-2.2.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "V4uAvulr1kk12wSRETrKahu0g0MnlmDSvtN2hX9bjo8=",
+          "cp39"
+        ],
+        "qat_lang-2.2.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "FZxkwt3ryCGebOWQY9LS1NKZs7yyP+iXz/PFQtcvZJE=",
+          "cp39"
+        ],
+        "qat_lang-2.2.1-cp39-cp39-win_amd64.whl": [
+          "+m8LBMGrmpwMsnLgfPrI7OlZIHyq2eLva9dhJuTqCzc=",
+          "cp39"
+        ]
+      }
     }
   },
   "qimen-xunjia-quanju-beilan-jieyao": {
@@ -116706,6 +116794,22 @@
       "wheels": {
         "rapidocr_openvino-1.1.21-py3-none-any.whl": [
           "NMobHWht1x6afbGtNcvenQIPcWhW1886CWMXliVwApY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.22": {
+      "wheels": {
+        "rapidocr_openvino-1.1.22-py3-none-any.whl": [
+          "g1vPykdvhzmXHiooQ8mfMsgV0zYR6Wt1ANXOVKbst0Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.23": {
+      "wheels": {
+        "rapidocr_openvino-1.1.23-py3-none-any.whl": [
+          "LySsDAMKMYXbM6YhxUI/tDg8ITaDoKtS7zOEpCSBD80=",
           "py3"
         ]
       }

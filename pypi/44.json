@@ -8536,6 +8536,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "1egbjn4KD4iOmvYSLqz3Af2CL32OrTxt74QrLL8XADQ=",
+        "aws-cdk.aws-ce-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.187.0-py3-none-any.whl": [
+          "j1CIIsEDP3ZOhG+yHnw4zoRwc7EMc01vuFi9gwqFyvU=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10466,6 +10478,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.58.1a0-py3-none-any.whl": [
           "dLxCR/4Y9Xxe3+CGfKyi0elx6M3amNFZmVZvo4wf4z4=",
+          "py3"
+        ]
+      }
+    },
+    "2.59.0a0": {
+      "sdist": [
+        "y2fxE+T6fa58thWpkD6A5yqQK4nxNK3Ev4s61jhqGDw=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.59.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.59.0a0-py3-none-any.whl": [
+          "ZncW1yaQADYqUgRSzRLl5xUShI18wvaO0/89ekZlFXs=",
           "py3"
         ]
       }
@@ -67719,6 +67743,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "1UoTvwdSYA63gm2HKlQt9TspJPOjjcU8Fyt0RtJUbeM=",
+        "karanage-tools-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "karanage_tools-0.2.0-py3-none-any.whl": [
+          "J2BGuHbYDSH7bhpph4FY2HUGfHqeVew09jC7VXiCYVY=",
+          "py3"
+        ]
+      }
     }
   },
   "karrio.aramex": {
@@ -85304,6 +85340,14 @@
       "wheels": {
         "odoo10_addon_customer_activity_statement-10.0.1.1.0.99.dev13-py2-none-any.whl": [
           "jF3UQwwYknFj/oK4R/TX+kYy3WQ5uKtdHSklGPIQgSw=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.1.0.99.dev14": {
+      "wheels": {
+        "odoo10_addon_customer_activity_statement-10.0.1.1.0.99.dev14-py2-none-any.whl": [
+          "MHuxCK8xUBMecuz9/A5/C+fOZL9HZcqM17AV6jd+aEc=",
           "py2"
         ]
       }
@@ -103259,6 +103303,20 @@
         "oC3qYaFK++6GeeujdURMtvglZUvPOpCB+l+Sw+D/bXY=",
         "pycoinspot-0.1.0.tar.gz"
       ]
+    }
+  },
+  "pycomchem": {
+    "0.2": {
+      "sdist": [
+        "Kl/wcwIT3s8KO8JofGtmubOrnWBsbSuAC4p54daXCpA=",
+        "pycomchem-0.2.tar.gz"
+      ],
+      "wheels": {
+        "pycomchem-0.2-py3-none-any.whl": [
+          "UE/ISL6c09wXsGk44kvoqqHPIUltFF55WPEo6MxUPDM=",
+          "py3"
+        ]
+      }
     }
   },
   "pycomedoresugr": {
@@ -133881,6 +133939,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.807": {
+      "sdist": [
+        "h6dXRpZ6AzAQtFKbrP30ve1jMP2w1Ll2SDtupMmN3zY=",
+        "tencentcloud-sdk-python-mna-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.807-py2.py3-none-any.whl": [
+          "AFi3o2k+jxh3SCbvKOMnInQACHZXMoniQC6b7bLduL0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -144982,6 +145052,50 @@
         ],
         "xlOil-0.16.0-cp39-cp39-win_amd64.whl": [
           "YQinufYCvBOSAllW3K45CTtXtlyn+bDVuJkF8yGNGKs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.16.1": {
+      "wheels": {
+        "xlOil-0.16.1-cp310-cp310-win32.whl": [
+          "HzhU7rBlNrMozzNGDR7xYr8Xg5eLLeW5KThRcAnLf5A=",
+          "cp310"
+        ],
+        "xlOil-0.16.1-cp310-cp310-win_amd64.whl": [
+          "qpH+oq5ORYzZeTxkuhRTcXlrXrZc3VzNDlZ734L112E=",
+          "cp310"
+        ],
+        "xlOil-0.16.1-cp36-cp36m-win32.whl": [
+          "XF5BDb3ZCcgvrHHKWnSdAgyebVNbMAkFmLoYjmUGf+A=",
+          "cp36"
+        ],
+        "xlOil-0.16.1-cp36-cp36m-win_amd64.whl": [
+          "qXflql+knnZmBV7f7/H7ifzJDhyMGvNCJG0l6c0FK0M=",
+          "cp36"
+        ],
+        "xlOil-0.16.1-cp37-cp37m-win32.whl": [
+          "h4dTpfKIw9TqCb7+3rf2dmKQ/WQIxZVywF+dAXMstfA=",
+          "cp37"
+        ],
+        "xlOil-0.16.1-cp37-cp37m-win_amd64.whl": [
+          "pp3cO5A15ouA2//IQ9nPQLOb4HgMDXsTyRCxzSVgBeM=",
+          "cp37"
+        ],
+        "xlOil-0.16.1-cp38-cp38-win32.whl": [
+          "KgDeTGbOKCWGm1PJTjkFlr4qhNNpSyS5T/qNDuggxFw=",
+          "cp38"
+        ],
+        "xlOil-0.16.1-cp38-cp38-win_amd64.whl": [
+          "R7QYfHv/9PZgZLwuzoo29it7gOlRML9jxbibFbWsWxY=",
+          "cp38"
+        ],
+        "xlOil-0.16.1-cp39-cp39-win32.whl": [
+          "BlnNSnw/iREefQONXTM9W4qVrIuCibYGFSiUstAL4vo=",
+          "cp39"
+        ],
+        "xlOil-0.16.1-cp39-cp39-win_amd64.whl": [
+          "sm292473CuZpWZ9TnZsd1CxmEBwm0xyyPyL/pn+8VeQ=",
           "cp39"
         ]
       }

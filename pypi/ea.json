@@ -9764,6 +9764,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "uyAaPWji6xGd09sy7r0OyA8pg7aX8iuL1ARYjO1dlQA=",
+        "aws-cdk.aws-directoryservice-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_directoryservice-1.187.0-py3-none-any.whl": [
+          "kBaXJSP8Lx0La56RZYBfjD4GR9DtHpK5BFcZBqFKglc=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "jg2mtwC7Z/3urkh3FxWp2kM0sL4ctwxdKCmCQxBREC8=",
@@ -27881,6 +27893,18 @@
           "py3"
         ]
       }
+    },
+    "2023.1.0": {
+      "sdist": [
+        "uN/RrnK5kZBISID5XziUAb/msI2moGbZLJCTI9Ot8dE=",
+        "dask-gateway-2023.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dask_gateway-2023.1.0-py3-none-any.whl": [
+          "4HTiR3Vy2ZkaveF+XlEk3x5bi7l7VsJqa2XeLvycF+k=",
+          "py3"
+        ]
+      }
     }
   },
   "dat-struct-py": {
@@ -39333,6 +39357,12 @@
         "yQMcb3umPpjKPqztYTvD/IJLH8/IMaYLlkukwZ8uA6E=",
         "docassemble.blosign-0.0.1.tar.gz"
       ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "MR2RWk7TTFu0vuxy+vuuVaQ4I2SQ/scgn1HwWx1P+9s=",
+        "docassemble.blosign-0.0.2.tar.gz"
+      ]
     }
   },
   "documentfeatureselection": {
@@ -47776,14 +47806,14 @@
     }
   },
   "fastiot": {
-    "0.2.112": {
+    "0.2.120": {
       "sdist": [
-        "txJ43LlZ/V39wbZLE6QthJGcsilg7kjkU1+qyZS5spI=",
-        "fastiot-0.2.112.tar.gz"
+        "nhbR4hyN30Ca2LtufNwVSVEHhqczFXfo1onfVP2coIc=",
+        "fastiot-0.2.120.tar.gz"
       ],
       "wheels": {
-        "fastiot-0.2.112-py3-none-any.whl": [
-          "CBq6Kwyy5kNWdewsdPfQ141wWzB+E+T+q0c9T9YO4Ec=",
+        "fastiot-0.2.120-py3-none-any.whl": [
+          "WBDCjqehVyR5te96vbP2UbyYnrFJujuYSYA5E4YM6JY=",
           "py3"
         ]
       }
@@ -72054,6 +72084,18 @@
       "wheels": {
         "luminesce_sdk_preview-1.12.141-py3-none-any.whl": [
           "Fa73oXZTWbAbTnDW5jeogynpaDGi2yUwhStZ2AHc1BU=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.145": {
+      "sdist": [
+        "LdXFSXhXeie6TcWTBetxEfPkPrqxlgDdprj8B89sXjA=",
+        "luminesce-sdk-preview-1.12.145.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.145-py3-none-any.whl": [
+          "ZuM0SUAGVl6iQdu/KiJUWhNhlDA3jo2v6dSN/aaG8xw=",
           "py3"
         ]
       }
@@ -124324,6 +124366,18 @@
       "wheels": {
         "shelflet-0.1.4-py2.py3-none-any.whl": [
           "zB8X+s2I+83cZuTjfxKzsOKq24XQnpsuX3UcxcQteNE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "OpCXonVzHlDAeZE3baSj0xLrrS+QivEkWFWyzAC51Xw=",
+        "shelflet-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "shelflet-0.1.5-py2.py3-none-any.whl": [
+          "UHGvagEKujIqQwsAryZmpEnzZENdq0K1INw1LxXqxo8=",
           "py2.py3"
         ]
       }

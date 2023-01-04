@@ -5914,6 +5914,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "ef7Oj9p/1Js4cA6BioGJUkwggMVHYmrzYFp0BEQaCnQ=",
+        "aws-cdk.aws-appconfig-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appconfig-1.187.0-py3-none-any.whl": [
+          "zxY2nXd9JWRb1YPBZAQakjHKNHciVGZzOEJtFqyYLYQ=",
+          "py3"
+        ]
+      }
+    },
     "1.24.0": {
       "sdist": [
         "vZBbW11I5GVIPlu2ZIyMgITfIEck5Ax9VjZke4Kgoos=",
@@ -18986,6 +18998,18 @@
         ]
       }
     },
+    "1.26.42": {
+      "sdist": [
+        "TP1+BeQDPbyizFm8/a+9rvnYPcPARIkXVpswHYV2bZ0=",
+        "boto3-1.26.42.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.42-py3-none-any.whl": [
+          "dcmVoEcj8j414W6kke2RoTReL6ZJJniiFkiFEjCNraE=",
+          "py3"
+        ]
+      }
+    },
     "1.26.5": {
       "sdist": [
         "y07KNLbhPk6tRqaPZnWf6q5r9elzYrLJebe58dIDcV4=",
@@ -25186,6 +25210,42 @@
         ]
       }
     },
+    "0.0.24": {
+      "sdist": [
+        "XNiQunGhH/wuw464i41zU62S8DmjzYI/jLmu0glHCsQ=",
+        "cakework-0.0.24.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.24-py3-none-any.whl": [
+          "lcqqpLCKjtE7RAlbu9xvItdeLeMd4gHOBsXOW+gKyGI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "sdist": [
+        "AccYonNxGolU4wuS1ru8o2vagSc/3Kg53d9ogdjYoEo=",
+        "cakework-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.25-py3-none-any.whl": [
+          "W25mu6LXfwBBcfK/0+1o/W+3h8Yx8eKn5OjcLepDvUw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.26": {
+      "sdist": [
+        "RQXLn50xYnWA68EX2EsCdvgIxnZGK3ZzSdDmmAaGm1M=",
+        "cakework-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.26-py3-none-any.whl": [
+          "aZesLJc87RDO4iVucPcXUls4WSgMLr6YhjtuqC0Vpkk=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "tWwkrUVa7s78lkr83ICCSVfdWtBw9ozT+3XTf7SXGcY=",
@@ -29685,6 +29745,12 @@
         "pdEcoQN/21aK/QUlbmXsD/S+IzdIvR3Eo2OOq+stbO4=",
         "countergen-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "hjaJ+su6MNrnq5oOMRO2wu8wyh1BkUXzLkoz7Ri/aic=",
+        "countergen-1.1.0.tar.gz"
+      ]
     }
   },
   "course-access-groups": {
@@ -32669,6 +32735,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "fMt7nU2ZpWaentSGTwJk5t7pfaqtZN4jTDiHkpgymFc=",
+        "dim_python-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "dim_python-0.1.1-py3-none-any.whl": [
+          "WRA+bIgyBRHMWf2KA9Hv18+RVjl2izROaXdK9RUhlZQ=",
+          "py3"
+        ]
+      }
     }
   },
   "directnet": {
@@ -35246,6 +35324,18 @@
       "wheels": {
         "django_pynotify-0.5.4-py2.py3-none-any.whl": [
           "r8GJwIZpWfV+4k2EQWwB31Yd45QSir7tZGqWrcwrjyE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "n9ooelmZUDDYQ9eB0L0x8lkTTd6+ej0aUTnko2od4Ls=",
+        "django-pynotify-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "django_pynotify-0.5.5-py2.py3-none-any.whl": [
+          "wmmm7VQRdKffGN9ngKI2Mq/zJnwpWpOEP7l5czS9RA8=",
           "py2.py3"
         ]
       }
@@ -100009,6 +100099,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.2.dev1": {
+      "wheels": {
+        "odoo14_addon_account_mass_reconcile-14.0.1.1.2.dev1-py3-none-any.whl": [
+          "7j+Yswz6f8Z5d6A9q3A3LpHSJHNM/kOvOpZZFg/zV6k=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-barcode-action": {
@@ -121388,6 +121486,18 @@
       "wheels": {
         "python_whatsapp_bot-0.0.8-py3-none-any.whl": [
           "+s6etxoMiwHQmtNjvI4dkSjjFtFAYtjNZSmRRuAyio0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "KULM4XatMmvQ1EmDJQv8zz4WJKKOcJJRDUENQtK2L9w=",
+        "python-whatsapp-bot-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "python_whatsapp_bot-0.0.9-py3-none-any.whl": [
+          "/RIXmp1fsGNIjs2xb3Tt/aY3JXsNRRZ3MbYgbL12sC4=",
           "py3"
         ]
       }

@@ -7529,6 +7529,18 @@
           "py3"
         ]
       }
+    },
+    "1.187.0": {
+      "sdist": [
+        "VkSzMkwy5cpDBF8vzrKSz04T9FFF9PQhL1zwpVo7AsY=",
+        "aws-cdk.aws-appintegrations-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appintegrations-1.187.0-py3-none-any.whl": [
+          "25yZolmzejKUiJv/70Edm6DKTdJrgPjgOM9yOOOUGeU=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-sns-subscriptions": {
@@ -9028,6 +9040,18 @@
       "wheels": {
         "aws_cdk.aws_sns_subscriptions-1.186.1-py3-none-any.whl": [
           "+4Svlcqk6jjVcu3STk888mkW5sH0cMgLFRx9IMUneMI=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "IvQcM1agSDd552160faPCtJCBuYEib9cVz2m6x0h0kk=",
+        "aws-cdk.aws-sns-subscriptions-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sns_subscriptions-1.187.0-py3-none-any.whl": [
+          "g5zcfJUHEqcl4YjABvZuIROLY3jxlWAwDuECxGBKIH8=",
           "py3"
         ]
       }
@@ -16208,6 +16232,18 @@
       "wheels": {
         "cdk_create_ami-0.0.133-py3-none-any.whl": [
           "Yt7xaG02b9EizJ0VPTufM9TZhjwdsznNzqAM7F5NBq8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.134": {
+      "sdist": [
+        "otsEFkkqod16/hdN+QzyNAmKN/V0ApTCeG0g/gHt0BM=",
+        "cdk-create-ami-0.0.134.tar.gz"
+      ],
+      "wheels": {
+        "cdk_create_ami-0.0.134-py3-none-any.whl": [
+          "BPnGrOElV5V+0A0MLnFFoonpAWBS2M44HjaCweaRxSU=",
           "py3"
         ]
       }
@@ -24306,6 +24342,18 @@
       "wheels": {
         "databricks_feature_store-0.7.1-py3-none-any.whl": [
           "YSWs3rqxl7/6pv54Ww3iPPuiO94JFbhWtOc7RkMPlDA=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "yhJFCRCx8nOkXkGvFWoeK9V8O5HpMAaz07uMe0UG2T4=",
+        "databricks-feature-store-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "databricks_feature_store-0.7.2-py3-none-any.whl": [
+          "UwC0/+ECSEyGozSl3SSOKgou1f2o3bup9d/SRr9p8BU=",
           "py3"
         ]
       }
@@ -68887,6 +68935,12 @@
         "lGakRN2rXC9bkWb979RRjeJ/rm1R3e/GjBwK5JMBe6o=",
         "lglibs-0.1.3.tar.gz"
       ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "w22GhipU8qjD0r/aSN4LNpNfDLp0hh6OSqLxlFmK2RA=",
+        "lglibs-0.1.4.tar.gz"
+      ]
     }
   },
   "lgp": {
@@ -75840,6 +75894,14 @@
       "wheels": {
         "myqlm-1.7.1-py3-none-any.whl": [
           "pnD79L2ktOE/kMC/nnhX0MTrhmHfC9u+Id9mq7qRkto=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.2": {
+      "wheels": {
+        "myqlm-1.7.2-py3-none-any.whl": [
+          "NURnWuHM615pt2quaQhqfghmF573cv00xVFlKLjlR8k=",
           "py3"
         ]
       }
@@ -115095,6 +115157,78 @@
           "cp39"
         ]
       }
+    },
+    "1.6.1": {
+      "wheels": {
+        "qat_core-1.6.1-cp310-cp310-macosx_10_9_intel.whl": [
+          "7jSHLkjy7+pp4UMPYkFrhEmOmWoauSCA8nqLKdxStME=",
+          "cp310"
+        ],
+        "qat_core-1.6.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "TMaQCCjr6doFb/stblEnE64nZqTtkKZSHzZB5m9Mx0Y=",
+          "cp310"
+        ],
+        "qat_core-1.6.1-cp310-cp310-manylinux1_x86_64.whl": [
+          "q3qEhl64WCv+wReank44xZ65nkdVKl3FR6IAI3rcAF0=",
+          "cp310"
+        ],
+        "qat_core-1.6.1-cp310-cp310-win_amd64.whl": [
+          "h3xP43TH1jR1u/eXQMYxrhent4klMnq3u6cSt0wyG0E=",
+          "cp310"
+        ],
+        "qat_core-1.6.1-cp36-cp36m-macosx_10_9_intel.whl": [
+          "mEQT61grByvF7xZsKihbBSZMTjuVeoJZKZHZnwLZ23Y=",
+          "cp36"
+        ],
+        "qat_core-1.6.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Ezk9pRD6Js6sXvxAUyDJDbbpb2gcvIanjZbAWEfY3Fc=",
+          "cp36"
+        ],
+        "qat_core-1.6.1-cp36-cp36m-win_amd64.whl": [
+          "i949iFksy6+C+xMaANBQpPv23/AYrgSzyEjF1Ow2vXo=",
+          "cp36"
+        ],
+        "qat_core-1.6.1-cp37-cp37m-macosx_10_9_intel.whl": [
+          "uIziEN93OygTPL0pRNDr+FdmKr0UteYtpt6n1f87Uj8=",
+          "cp37"
+        ],
+        "qat_core-1.6.1-cp37-cp37m-win_amd64.whl": [
+          "ZdKhD0UOUX+qwsHInLh4QwyW6ObJ+W5yHLvpq0hQRdk=",
+          "cp37"
+        ],
+        "qat_core-1.6.1-cp38-cp38-macosx_10_9_intel.whl": [
+          "IYPwIXCxjivvGGqud+sbf53iBEdDBfT3YOIrSeI2mYM=",
+          "cp38"
+        ],
+        "qat_core-1.6.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "8XrRifNZJAppAfUBNGhh/EwL827nJvxsxK1oiMcZwdU=",
+          "cp38"
+        ],
+        "qat_core-1.6.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "/oDaip9uTN8wvtmjY3zUqPM/4f8/TkuDQtp6MwMAYB4=",
+          "cp38"
+        ],
+        "qat_core-1.6.1-cp38-cp38-win_amd64.whl": [
+          "oh2MtzEdFbJMWCbs+fIvukA9wRt5q9OxCaHctusiW9k=",
+          "cp38"
+        ],
+        "qat_core-1.6.1-cp39-cp39-macosx_10_9_intel.whl": [
+          "Hb5t7ldNodNNLJeV/EpybotiOUibQ9cmgmET+Z4g2Y0=",
+          "cp39"
+        ],
+        "qat_core-1.6.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "QOnqJDQ9ezJzvP+PsJxSHVz/ZYfA7YMmhSQQgCmts4I=",
+          "cp39"
+        ],
+        "qat_core-1.6.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "kGRuRBllliOWx4y4uCd+wcsSrcA4cCyiZWZe4cip0Eo=",
+          "cp39"
+        ],
+        "qat_core-1.6.1-cp39-cp39-win_amd64.whl": [
+          "WgAu5zXbLsCRhLx0kQUnMUbylHqvNFwMz+zOPPQQqOY=",
+          "cp39"
+        ]
+      }
     }
   },
   "qc-metric-aggregator": {
@@ -136069,6 +136203,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.807": {
+      "sdist": [
+        "PfN/dFSfMBE58CEuaHqJBU29PcR5pET3A3X+1FDgfg8=",
+        "tencentcloud-sdk-python-common-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_common-3.0.807-py2.py3-none-any.whl": [
+          "PhFTNlc9PgHtZVKg2/utzFt2tksJ2Qr5NWTRbVqfAG0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tephiplt": {
@@ -155034,6 +155180,18 @@
       "wheels": {
         "zcmds_win32-1.0.1-py2.py3-none-any.whl": [
           "dnyJNRhKlTVZuvxb39EGo0w3aOIyLJfeVnlAdAUYDOQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "qoYo+sG8HZuojftfv4be60D7MAQcAJNuWbAujdm0N5Y=",
+        "zcmds_win32-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "zcmds_win32-1.0.2-py2.py3-none-any.whl": [
+          "FbeJwiU6nKB7BsWpQOM2R+WNFVsrH/mfPPb9ekYQcZQ=",
           "py2.py3"
         ]
       }

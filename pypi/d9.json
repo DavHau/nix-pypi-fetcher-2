@@ -6442,6 +6442,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "YffGcWLAC+5cFnr1erFXvy3zznlIYxdNHMNJKAtGZdo=",
+        "aws-cdk.aws-codestarconnections-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarconnections-1.187.0-py3-none-any.whl": [
+          "3A4SofNhfViK93tP519Y3Txfi4SLpv+uOFgN0MTQQLs=",
+          "py3"
+        ]
+      }
+    },
     "1.28.0": {
       "sdist": [
         "TLEtmU16JgCCPZa9Rz9vWlb6s5O6deR/2+BWqGEc9wY=",
@@ -73965,6 +73977,24 @@
           "py3"
         ]
       }
+    },
+    "0.0.1a1": {
+      "sdist": [
+        "arq0A71HsmaGcDKZXR8+swBsESz9VMlsXBGtO5LgSAw=",
+        "neon-phal-plugin-reset-0.0.1a1.tar.gz"
+      ]
+    },
+    "0.0.1a2": {
+      "sdist": [
+        "AGsPHFKJHt6vY8EZ8C6Ai91MOFlC4Zcn487qVq/hXIU=",
+        "neon-phal-plugin-reset-0.0.1a2.tar.gz"
+      ]
+    },
+    "0.0.1a3": {
+      "sdist": [
+        "cGjrRcdj2nHneFh/t0utuqSDXR4aQsgqCmPOP6ZgujY=",
+        "neon-phal-plugin-reset-0.0.1a3.tar.gz"
+      ]
     }
   },
   "neon-skill-directory": {
@@ -77958,6 +77988,14 @@
       "wheels": {
         "odoo8_addon_partner_report_open_invoices-8.0.1.0.0.99.dev5-py2-none-any.whl": [
           "X8qwMiuwtozQ/KbTLmG8nUEwAW3BuHwQBI0H9TgwMSg=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev6": {
+      "wheels": {
+        "odoo8_addon_partner_report_open_invoices-8.0.1.0.0.99.dev6-py2-none-any.whl": [
+          "S8eFYRtdBrR7DXtn4Ou/2EwaLGFNAWmoB8f5chYywCs=",
           "py2"
         ]
       }
@@ -82446,6 +82484,90 @@
       "wheels": {
         "policyengine_canada-0.16.0-py3-none-any.whl": [
           "5LYUV+/dXupPujAlVka65pr8ubT79FwCGj1KxhCTwn0=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.1": {
+      "sdist": [
+        "+EWqjWA6xxV9W/MllYN762izFt0CVcAfZUNUd0tLQO8=",
+        "policyengine-canada-0.16.1.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.16.1-py3-none-any.whl": [
+          "Uu36RmYgkH1D0Fzf10T3X4a0+UcFCD/QQ+sYBmS1mLI=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.2": {
+      "sdist": [
+        "meDcLqCQxQfvYXAQGxBuAl0v1sSHOO9djsQyipuMYMg=",
+        "policyengine-canada-0.16.2.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.16.2-py3-none-any.whl": [
+          "Hj7Ze1Bt9Ez0Ei0Zl8vb43iyOMb7AsZT5dPSSGGiWmQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.3": {
+      "sdist": [
+        "Udjwn+xCKnDyQfIBZ6NQvoyHE517vvhv7zgqo1yClv0=",
+        "policyengine-canada-0.16.3.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.16.3-py3-none-any.whl": [
+          "P+kX8KdrR1rMXU28jiWRVLhAsHbHEupFjXHQEm3H6jQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.0": {
+      "sdist": [
+        "rJP06Nc1OICRA8aIkpMB7Bn0uwCF0kUzM8LbL4TpaNM=",
+        "policyengine-canada-0.17.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.17.0-py3-none-any.whl": [
+          "uzs/4jgZatKt8niK38HaeL5PcKM1uaVOwtw19uNWP0Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.1": {
+      "sdist": [
+        "ZB2PDxbdjAL4RNLielfHIvkO/PGeWPvbdMsK5pU3PSE=",
+        "policyengine-canada-0.17.1.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.17.1-py3-none-any.whl": [
+          "AChuTkwn1rY7frI+mizqGBgH7yJF7Hiy5F0a7c5E3BU=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.2": {
+      "sdist": [
+        "L/F96poHdNzThIkw3hoQ7UeBUcTqDsZzuxuVawIbDwI=",
+        "policyengine-canada-0.17.2.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.17.2-py3-none-any.whl": [
+          "e0R/nfPfyGGaMksRDM3Sd4Z18x0CvvR+dtEJzjBEzBE=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.3": {
+      "sdist": [
+        "xXV8KdgJRwBAHKuACo232gc9YjCYlIEnZv9fqdFIL50=",
+        "policyengine-canada-0.17.3.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.17.3-py3-none-any.whl": [
+          "hStASXm2TxiWR6AaSKsMp/b9MH9sTYZLS0YDgutfFLg=",
           "py3"
         ]
       }
@@ -123228,6 +123350,78 @@
         ]
       }
     },
+    "0.0.15": {
+      "wheels": {
+        "testing202212-0.0.15-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pd8y8Z9IY2SVCvN1NOD8FdIxxDx8/WuUAW/Vc1a3HDI=",
+          "cp310"
+        ],
+        "testing202212-0.0.15-cp310-cp310-win_amd64.whl": [
+          "oWKtAHjLxp5VhupW3wTqCwvV1lZ8h4eL5brTnlA1Wcc=",
+          "cp310"
+        ],
+        "testing202212-0.0.15-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i+Sfb3Ux0d940aMxUxdUqEYpHC33tQ60o2IU/yocai8=",
+          "cp311"
+        ],
+        "testing202212-0.0.15-cp311-cp311-win_amd64.whl": [
+          "e2LP2MfUO8wpuRI4C7Uk74UkY0qImH80NwEAmIxHEw8=",
+          "cp311"
+        ],
+        "testing202212-0.0.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n0R7gNFgEc6WMpzXsoiHoj6FmC9AGwWEB0cWPznhERQ=",
+          "cp38"
+        ],
+        "testing202212-0.0.15-cp38-cp38-win_amd64.whl": [
+          "bIKQPPV8YMIkMRrEB6TeBKy6mo5Ge3xSdMbrAfv1CAs=",
+          "cp38"
+        ],
+        "testing202212-0.0.15-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zwQDfgfLJJ37AU2SIsgtJM1IinK3LTXwGNVGFaT+NeU=",
+          "cp39"
+        ],
+        "testing202212-0.0.15-cp39-cp39-win_amd64.whl": [
+          "iHBEmnyr7WlhGt/f5DWbP0SvJhv2WSxeOJpBtrgzkX0=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.16": {
+      "wheels": {
+        "testing202212-0.0.16-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ceC6s2yE7vGBNfEATWzMIR/7sDGNih3QQF077GVmB9Y=",
+          "cp310"
+        ],
+        "testing202212-0.0.16-cp310-cp310-win_amd64.whl": [
+          "A7oOvXDCx14J/WJ4VFe2+8d1qQLjAsJPPhFR5/zSwJM=",
+          "cp310"
+        ],
+        "testing202212-0.0.16-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CHXCbE2q5I60285Ki7z/rICXT/lrs8AFCRkrrgexQA0=",
+          "cp311"
+        ],
+        "testing202212-0.0.16-cp311-cp311-win_amd64.whl": [
+          "gA/dnUCpq7qMZhb3Whc8HPC+qrBzTLUxRQ7fKaXvFrU=",
+          "cp311"
+        ],
+        "testing202212-0.0.16-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PksOSpbeXOVHe4NUQPg3/Q9K/lW8RiutEyKdjNR7c+0=",
+          "cp38"
+        ],
+        "testing202212-0.0.16-cp38-cp38-win_amd64.whl": [
+          "GbKlKxGpqHQaq6Xk/GLynrVd4pW4Z5cV+Ld/Q0fpVWY=",
+          "cp38"
+        ],
+        "testing202212-0.0.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TKA2wW+CXPBGEoLMKE7oH6xMt2AxtSfGfRRQqnA3LSs=",
+          "cp39"
+        ],
+        "testing202212-0.0.16-cp39-cp39-win_amd64.whl": [
+          "lTPN+tMF5yTwx30TK3Gl9kyjDnl9hwzkXrTMUJauUeg=",
+          "cp39"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "fooS/3Jlr7p9cfC/GXS/SbRLFxHR75F0PJ3CTOsRkXo=",
@@ -137400,6 +137594,14 @@
       "wheels": {
         "yowasp_nextpnr_nexus-0.4.post79.dev377-py3-none-any.whl": [
           "YDObuQGpiE757dWaMXDiDkBoRaAelgpDu7VkQl6S1RM=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.dev381": {
+      "wheels": {
+        "yowasp_nextpnr_nexus-0.5.dev381-py3-none-any.whl": [
+          "CpYKGqhSrJCpjcBbKNfthTb9p4TicRwCi9Nj8FYwykA=",
           "py3"
         ]
       }

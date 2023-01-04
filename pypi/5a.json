@@ -10653,6 +10653,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230104": {
+      "sdist": [
+        "ga6YATLvzwY4KM3nymawr8ogwieL/dFTaByC32kO1+Y=",
+        "bigdl-dllib-spark3-2.2.0b20230104.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20230104-py3-none-macosx_10_11_x86_64.whl": [
+          "GW9oiz2WG1jEFwhaTXmvaBwn0x4ez987KodZYrRETW4=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20230104-py3-none-manylinux1_x86_64.whl": [
+          "0oR4IQ63jN86VDFnb5cChRnFb9Z6VOdLjL1roVi+JL4=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -92883,6 +92899,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.0.7": {
+      "wheels": {
+        "odoo_addon_account_check_deposit-15.0.1.0.0.7-py3-none-any.whl": [
+          "n8MZPQg5RtZlNRmfEIaujDKvF0mipCB1jMIrTp5kSoc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-l10n-es-facturae": {
@@ -102278,6 +102302,18 @@
       "wheels": {
         "perseus_restful_api_framework-1.25.8-py3-none-any.whl": [
           "Wg2rNJPDmxRSAr8WXdaNHLs5c88KEAxot67k1DYGvnE=",
+          "py3"
+        ]
+      }
+    },
+    "1.25.9": {
+      "sdist": [
+        "4zW65p/dxCXdlR1i4J1mN6H4VbEN/zUCXqLN6+ftR88=",
+        "perseus_restful_api_framework-1.25.9.tar.gz"
+      ],
+      "wheels": {
+        "perseus_restful_api_framework-1.25.9-py3-none-any.whl": [
+          "GAUMZF7m2y8tKi5ck322cDfBDEUnTbkUwLnW2JhraoA=",
           "py3"
         ]
       }
@@ -141214,6 +141250,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcbr-3.0.806-py2.py3-none-any.whl": [
           "pqQJ2qAn4kmTLX3xTzNQdenzalNxnzJh22dah2QbEwA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.807": {
+      "sdist": [
+        "pDCUuYwg7iRKcBq3pMHKuMzcayJdErEYAC90v1W9R/g=",
+        "tencentcloud-sdk-python-tcbr-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcbr-3.0.807-py2.py3-none-any.whl": [
+          "wWKJS/wVH35WvNOUqkqezLaYCCnacb/rEKVLPHIH22I=",
           "py2.py3"
         ]
       }

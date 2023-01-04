@@ -2111,6 +2111,12 @@
         "+fH00H5mj3Ig3q+nPRANtZY27I86WNeztzprRcYxf/E=",
         "aeppl-nightly-0.0.50.dev20230103.tar.gz"
       ]
+    },
+    "0.0.50.dev20230104": {
+      "sdist": [
+        "GwtH5MspZNGbOZOyqL+8vwsWDD2Ap4Es991YdQVrG24=",
+        "aeppl-nightly-0.0.50.dev20230104.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -10828,6 +10834,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "Y/V+7zfP8vErxDKrVAezQ1CraLTxdtKYLw+I6DEePJk=",
+        "aws-cdk.aws-batch-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_batch-1.187.0-py3-none-any.whl": [
+          "ymIwFnzuWBgoU3pjT/L1F1kaEQho84keLDpaUj2fVYg=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "oJ9Ovl/1iSYAo5lYIeaACtUg3VOQYOKRkQX2FxJKvJA=",
@@ -17592,6 +17610,12 @@
       "sdist": [
         "GHvnz1NvGHz2mEC/+M8H464+/Zl3RdHNejhOQmmHaxo=",
         "chinilla-blockchain-1.4.0b6.tar.gz"
+      ]
+    },
+    "1.4.0rc1": {
+      "sdist": [
+        "rlVyVzGSp/JOBGoiCl+/yc7ThrpMx5Vjn1qDnDV0cIM=",
+        "chinilla-blockchain-1.4.0rc1.tar.gz"
       ]
     }
   },
@@ -34194,6 +34218,18 @@
       "wheels": {
         "dw_content_tools-0.2.0-py3-none-any.whl": [
           "3/leuYPZscfcSN0rS1hr2grGJhOrR8VV0zDv4BmrOT0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "e0z9qudkYfl2pvoK7qcSFCKfLVIjuFtUIDHqoEjZH5k=",
+        "dw_content_tools-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "dw_content_tools-0.3.0-py3-none-any.whl": [
+          "m1lECyMj6AfAeU/59/+H8qiFQkTcCz+1QwsR5395ILs=",
           "py3"
         ]
       }
@@ -55171,6 +55207,16 @@
       ]
     }
   },
+  "ihsgstockinfo": {
+    "0.0.0": {
+      "wheels": {
+        "ihsgstockinfo-0.0.0-py3-none-any.whl": [
+          "+nY6z3t943GRw69kDuEbdVRwO0Xd+wkYdMz7KjfCETo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "im-futurendbsharded": {
     "0.1.0": {
       "sdist": [
@@ -71846,6 +71892,14 @@
       "wheels": {
         "motoo-1.1.66-py3-none-any.whl": [
           "u0wBO7uyeAHZpT4DW+hJEO2B1W3iOEGntj7XwMk29e4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.67": {
+      "wheels": {
+        "motoo-1.1.67-py3-none-any.whl": [
+          "KrJGJ7pGz7BqFIne6v9MP6g+IjcVF6Hrq2TZEEriKKg=",
           "py3"
         ]
       }
@@ -90823,6 +90877,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.2.4.dev2": {
+      "wheels": {
+        "odoo14_addon_currency_rate_update-14.0.1.2.4.dev2-py3-none-any.whl": [
+          "9M1C0i9qWbjm/ow3/yOnnACypEjmttxs7e0BrOMeP1w=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-delivery-roulier": {
@@ -91928,6 +91990,14 @@
       "wheels": {
         "odoo9_addon_contract-9.0.1.3.0.99.dev13-py2-none-any.whl": [
           "uyN1Emwn7BtB90lTL+RtaUZMj13yQjlm+fSqEmRy9d4=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.3.0.99.dev14": {
+      "wheels": {
+        "odoo9_addon_contract-9.0.1.3.0.99.dev14-py2-none-any.whl": [
+          "XhP3NK2JtEGx2PtO2+dt1DwEOZ92BJLeNpLs/brT/mE=",
           "py2"
         ]
       }
@@ -140052,6 +140122,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ses-3.0.806-py2.py3-none-any.whl": [
           "I+A+B+7WeYxF4nnWwghoqU6nN90UXIrJu1SwMhgiJyc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.807": {
+      "sdist": [
+        "FBZUoISlfWf/j0NtnKcDgDv93bNic/hTrN8b755vp0o=",
+        "tencentcloud-sdk-python-ses-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ses-3.0.807-py2.py3-none-any.whl": [
+          "5zSqqZhw7QwqMBXSlO8hOBTZDJg27e3TrH9clIPzoJQ=",
           "py2.py3"
         ]
       }

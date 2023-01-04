@@ -7077,6 +7077,18 @@
           "py3"
         ]
       }
+    },
+    "1.187.0": {
+      "sdist": [
+        "U4bEej3Lm2uYo0Zh1c1NOO9ncIIIWPZoxnGMKOqdcV4=",
+        "aws-cdk.assertions-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.187.0-py3-none-any.whl": [
+          "lpGAihAmXN0NUGV/o/eNTe5hojK4QvjuEh52e2eP6QE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks-legacy": {
@@ -8276,6 +8288,18 @@
       "wheels": {
         "aws_cdk.aws_eks_legacy-1.186.1-py3-none-any.whl": [
           "VxVtlGHKzHMl3HxLTJIjyWc3u5g7vEpxxTY4J6mgrss=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "RNITLQH7kSvI8HHsu+NhBi+Z2QLa3E4aLa7NDVHe2ns=",
+        "aws-cdk.aws-eks-legacy-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.187.0-py3-none-any.whl": [
+          "7oW0KYZ29osfchIeNwMqk/9GznKw4Ds3bULE3Ma1HAw=",
           "py3"
         ]
       }
@@ -9850,6 +9874,18 @@
       "wheels": {
         "aws_cdk.aws_emrserverless-1.186.1-py3-none-any.whl": [
           "5u0HKT10sfa53hZDFsrZo38LAyRF0YN11aGwg7F14Ck=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "KO/UayBIZmeNuhh0lF4FBPOVzc4PYkGBmawNbXq+uTc=",
+        "aws-cdk.aws-emrserverless-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.187.0-py3-none-any.whl": [
+          "/9M+tvwzCqlwJBwkilF8dqjWyTQYGYq3k4uNyS1ZceE=",
           "py3"
         ]
       }
@@ -45322,6 +45358,18 @@
         "evshell-0.0.13.tar.gz"
       ]
     },
+    "0.0.14": {
+      "sdist": [
+        "maa1OWG6hE2T/CgvR7/rFVAK3xHG05qd+klklElbJNM=",
+        "evshell-0.0.14.tar.gz"
+      ]
+    },
+    "0.0.15": {
+      "sdist": [
+        "LXGSwJvJ3B8PDzt0jpoLnDq9bbGVcKLHKTg+VC+w4mY=",
+        "evshell-0.0.15.tar.gz"
+      ]
+    },
     "0.0.6": {
       "sdist": [
         "xXAeUcYJfOEUPUmKnolNwbpNjJkiRPuNge8q8klwYHI=",
@@ -65146,6 +65194,18 @@
       "wheels": {
         "ibis_bigquery-2.2.0-py3-none-any.whl": [
           "yUPOY/RTXnc3VCNycesCghQkFf88TxFk7svqkw/l03Q=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "HZTGS4gDsH99zkECcjjHJ+nzjMvMlRSW9irrCJjio+Q=",
+        "ibis-bigquery-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "ibis_bigquery-2.2.1-py3-none-any.whl": [
+          "FxjBHVfPwISWe/dszfCMx+LZ+8axv+FOnrNzy75MI6s=",
           "py3"
         ]
       }
@@ -86118,6 +86178,14 @@
       "wheels": {
         "odoo12_addon_account_fiscal_year_closing-12.0.1.2.0.99.dev2-py3-none-any.whl": [
           "j7H+unf1M55PNPUM9hS7aok4y+Ss+B23fsf0cH93lcE=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.2.0.99.dev3": {
+      "wheels": {
+        "odoo12_addon_account_fiscal_year_closing-12.0.1.2.0.99.dev3-py3-none-any.whl": [
+          "avMQvAEqC25jjbBzJs1Odxreo7W/x3dCYCH027OPOiI=",
           "py3"
         ]
       }
@@ -128178,6 +128246,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.806-py2.py3-none-any.whl": [
           "mATRCRTafNuLE3K3jT+Qr6WR+2JUG6KiI0al/BzyJUs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.807": {
+      "sdist": [
+        "AyFUP4vjNkdEddRons/NOaOmbJdYsMvV/9gpSiTO3Ao=",
+        "tencentcloud-sdk-python-cynosdb-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.807-py2.py3-none-any.whl": [
+          "i5gLSKfzVeMeZ0H25c6Eq+pNW7msA9k28MI8gRWnvec=",
           "py2.py3"
         ]
       }

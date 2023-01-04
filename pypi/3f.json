@@ -17635,6 +17635,12 @@
         "roi63hzukMNr92Y/cN4+YtwyfZ3YYgT98dw6MNVdiKc=",
         "countergenedit-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "gxh/8ShWpobsBS0lThI5YJBL0+4lOof8+pYRfUDhnCw=",
+        "countergenedit-1.1.0.tar.gz"
+      ]
     }
   },
   "cover": {
@@ -23900,6 +23906,90 @@
         ],
         "cvxpy_base-1.2.3-cp39-cp39-win_amd64.whl": [
           "R3SERm6ZIx5LqDgB/3thlA2E7Jtzhdf5LYkY7cr1kug=",
+          "cp39"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "r5xd9Rtxj9L4PMqBEPED2I0zl4be03WZ0RrrnxMLxDQ=",
+        "cvxpy-base-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "cvxpy_base-1.3.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "VL2ZDCQXjIjJTKA8kxwsRxi1Jnu8j+rFyt88xHr6VQk=",
+          "cp310"
+        ],
+        "cvxpy_base-1.3.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "1YQBTiFz3UazIceLCjtyfF+DpdqcuOcuvtWPUaeQFls=",
+          "cp310"
+        ],
+        "cvxpy_base-1.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PZga0JKTnXKe74/pZefgPYE7w5zwrUYBhhrpizZe1Qw=",
+          "cp310"
+        ],
+        "cvxpy_base-1.3.0-cp310-cp310-win_amd64.whl": [
+          "JspVa0WPx21r4o5f1/h8Th3l5i3WoTOmI3MdUx2pz5g=",
+          "cp310"
+        ],
+        "cvxpy_base-1.3.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "bj5M2lK49BEIaOJz6qevPMQ84mh5QwkdQ94B2dlOxXg=",
+          "cp311"
+        ],
+        "cvxpy_base-1.3.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "sjYlgZs/LeDzWyWa7QeDPzbArWgWJAAdYSg3IagSj1o=",
+          "cp311"
+        ],
+        "cvxpy_base-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VMdmLIIo37lqNpl7UBb+Ml6XPnYVRlOLPPazQ34m8Yw=",
+          "cp311"
+        ],
+        "cvxpy_base-1.3.0-cp311-cp311-win_amd64.whl": [
+          "vih9baLvOyb2kneK/OkemjSVy1DOGnps1KMKU8tNlEs=",
+          "cp311"
+        ],
+        "cvxpy_base-1.3.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "gjq2JUnq8cpg337Wy7wnH5eQAHCyjOF12rB/9dIdGYA=",
+          "cp37"
+        ],
+        "cvxpy_base-1.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "q3E4zZPgTOlJ3S+wFQdJ16/3r+Y0XsSA9PLrdc/k31k=",
+          "cp37"
+        ],
+        "cvxpy_base-1.3.0-cp37-cp37m-win_amd64.whl": [
+          "k0+t5uUx9BaXzvbApyw/ypSaEk92EgmjGrbtn8Eb3vI=",
+          "cp37"
+        ],
+        "cvxpy_base-1.3.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "NZoaWSb+k52WyzZLlzjNY7tlEnVPauOmgMF6pv8Y9cc=",
+          "cp38"
+        ],
+        "cvxpy_base-1.3.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "zbOqNB9yGmn97pCUAK+3EStZ5/9jB7dh2IlHtJlYK54=",
+          "cp38"
+        ],
+        "cvxpy_base-1.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "68eRu8BOisYzDM7z1xj4atL/FnLwCeGNrQtkPKIjtvE=",
+          "cp38"
+        ],
+        "cvxpy_base-1.3.0-cp38-cp38-win_amd64.whl": [
+          "zVHRiqII8J9z3bt9PTEwppIOFfInq7/7FcNxssxSEkM=",
+          "cp38"
+        ],
+        "cvxpy_base-1.3.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "g2Aq3q2Gvi9EAPzTv/E+r0pxImpd+PdT4zQOq9N7uZk=",
+          "cp39"
+        ],
+        "cvxpy_base-1.3.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Qre69e0vTCGnkgcgm1/STzBSCtcIo/37/YPLJ9Pa2Ow=",
+          "cp39"
+        ],
+        "cvxpy_base-1.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "z92xntCt9sbebmuu4KFm47GCD6U8fPutpmLdBS+bw3k=",
+          "cp39"
+        ],
+        "cvxpy_base-1.3.0-cp39-cp39-win_amd64.whl": [
+          "5d1cLMW5a80mOi53WlPRGNd+tFPNcZItA/GBR2+Obnw=",
           "cp39"
         ]
       }
@@ -35439,6 +35529,18 @@
           "py3"
         ]
       }
+    },
+    "1.9.1": {
+      "sdist": [
+        "VD3S8D2GcmmK9jt8HUikSr8df6Ua1kQvCDUCqAl4C50=",
+        "faraday-plugins-1.9.1.tar.gz"
+      ],
+      "wheels": {
+        "faraday_plugins-1.9.1-py3-none-any.whl": [
+          "Nbr35iLHh8YfH1cmvuqkK2jXPS4jI/AIkOnz51sfL4s=",
+          "py3"
+        ]
+      }
     }
   },
   "fast-curator": {
@@ -46292,6 +46394,14 @@
       "wheels": {
         "gs_apps-0.19.0a20230102-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "fULwIrN3PP3QAgdhN1iPr7hrnXC1+GtuiY4riZjz0wE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.19.0a20230103": {
+      "wheels": {
+        "gs_apps-0.19.0a20230103-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lETQrItfNlwsSuPEfvu0jly/gUUua830263gI2b5GFA=",
           "py2.py3"
         ]
       }
@@ -68988,6 +69098,14 @@
       "wheels": {
         "odoo10_addon_account_tax_balance-10.0.1.1.2.99.dev1-py2-none-any.whl": [
           "wcGiZgRhci9TmhASi5jFER7BVOLrDljHy8W6g5cBkYs=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.1.2.99.dev2": {
+      "wheels": {
+        "odoo10_addon_account_tax_balance-10.0.1.1.2.99.dev2-py2-none-any.whl": [
+          "hnBGBOmUY+bwsYULWCwl36zgrhWNtqxfxZmHa/C0SMM=",
           "py2"
         ]
       }
@@ -101157,6 +101275,30 @@
           "py3"
         ]
       }
+    },
+    "1.1.8": {
+      "sdist": [
+        "UzXFmzagEEWfds5Xlcu4OMasoX2r/9FlV6G2koDyHv0=",
+        "PyPDFForm-1.1.8.tar.gz"
+      ],
+      "wheels": {
+        "PyPDFForm-1.1.8-py3-none-any.whl": [
+          "5MgSKrRQJ+8qSUKmluntxxYgrKCtw7dUxSn/HfRNqNc=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.9": {
+      "sdist": [
+        "zWBfLDXEG60vtL4bYrfDGQ1jxWaoq2GUTgZHht9Q5ts=",
+        "PyPDFForm-1.1.9.tar.gz"
+      ],
+      "wheels": {
+        "PyPDFForm-1.1.9-py3-none-any.whl": [
+          "R/+xN0hkM4TfSUZebc7qZdUAeExc1oB5BsUeZrxCN9c=",
+          "py3"
+        ]
+      }
     }
   },
   "pypiuma": {
@@ -123405,6 +123547,30 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "5d2M43uHkzxXjHeVIcExdQjcuoH3+4pDvM+cOar7UU4=",
+        "smb3-eh-manip-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "smb3_eh_manip-1.2.0-py3-none-any.whl": [
+          "m72tI/6GqT6iqY5fSuAwy5QIERX07zOK6g2t/XG2TbI=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "9fjnQE/6T5ISt3YHVpXML3C4cp4s9a/aImudIjiH6Pw=",
+        "smb3-eh-manip-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "smb3_eh_manip-1.2.1-py3-none-any.whl": [
+          "Rh41SAvXX+Z2ylUFF44sJ6961u1qYM7jVFC/dbYtl70=",
+          "py3"
+        ]
+      }
     }
   },
   "smbgym": {
@@ -126158,6 +126324,18 @@
       "wheels": {
         "speakeasy_client_sdk_python-0.8.1-py3-none-any.whl": [
           "B33Nsix4qKujFqui9+jfhOxhW2V8h8jYfnHta+3f7wQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "e8mvg9lLRNM7MVadmsS17WvGdUsF9cpN82hRm9pUgEM=",
+        "speakeasy-client-sdk-python-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "speakeasy_client_sdk_python-0.9.0-py3-none-any.whl": [
+          "VLNnHQ6rEl4NoDMKr3PQddW9cEdvzaoIT+RUfxBV83Q=",
           "py3"
         ]
       }

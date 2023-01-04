@@ -7857,6 +7857,18 @@
           "py3"
         ]
       }
+    },
+    "2.59.0a0": {
+      "sdist": [
+        "MWXXXiB4ui3ybDqaHV3tCHJkzRuq+Znc2I5pqVSUcaQ=",
+        "aws-cdk.aws-sagemaker-alpha-2.59.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.59.0a0-py3-none-any.whl": [
+          "+Vf8k1AXQLTO0U2/atPGcbQBi3jzZ3TE+PSfN50XBrM=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -9452,6 +9464,18 @@
       "wheels": {
         "aws_cdk.aws_workspaces-1.186.1-py3-none-any.whl": [
           "RmHTIo6SF7OskG2KDkofbHJW1rF6RvD+AFXEChekIiw=",
+          "py3"
+        ]
+      }
+    },
+    "1.187.0": {
+      "sdist": [
+        "aBvo0erFtsHCVpWFiEjNELro3szMYO2dcy/tAiG6qlk=",
+        "aws-cdk.aws-workspaces-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.187.0-py3-none-any.whl": [
+          "A1VRxZYM478xZ8IGLNAcR0SmBxzNlS520Nx/wnpFAFo=",
           "py3"
         ]
       }
@@ -23132,6 +23156,18 @@
         ]
       }
     },
+    "0.0.138": {
+      "sdist": [
+        "IipAkP60zqPaXI0QJxAetJ1t8sZbPH8WqtZzPuGpG6k=",
+        "cdk-hugo-deploy-0.0.138.tar.gz"
+      ],
+      "wheels": {
+        "cdk_hugo_deploy-0.0.138-py3-none-any.whl": [
+          "syLlsg2TGqUepAz/NZu4xSb6DVGK+6n8IbcL3FtjXXo=",
+          "py3"
+        ]
+      }
+    },
     "0.0.14": {
       "sdist": [
         "6VmEsjvqzV8/PdKZ2eFy+cdZfo003W/fipjO6k8hFY0=",
@@ -24732,6 +24768,18 @@
       "wheels": {
         "cf_pandas-0.5.0-py3-none-any.whl": [
           "D14eZeBDt0we1/sUz2R2beTtEPi9mVEsZv9rzJQ9B6I=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "P6FmkmuENrg68TWk01IfxLCvsAkyvYNhxj3/PVK/vgU=",
+        "cf_pandas-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "cf_pandas-0.5.1-py3-none-any.whl": [
+          "MXA25ntRakvVX3t5yIgEXkYc1v8z0l+d3pXjl7pic4c=",
           "py3"
         ]
       }
@@ -98106,6 +98154,32 @@
       "wheels": {
         "pdf2image_cli-1.0.0-py3-none-any.whl": [
           "4xoFhNl9AkpSPn2QpiNMTymP0nkdTRoClOWFzDA73SE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pdm-update-interactive": {
+    "0.0.1": {
+      "sdist": [
+        "iXkaLsVBy5nXgmU1VzbOAJVdnrNH68g70dY5Afy0z6M=",
+        "pdm_update_interactive-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pdm_update_interactive-0.0.1-py3-none-any.whl": [
+          "uEA1WSOtNbdZ71IrAk4Ye9rqJv5wJP2DVtV/Sygf/QA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "mkERKGFw6RYAINR/jV9XKmRwmQVeAv/lHgeMhrtqeEQ=",
+        "pdm_update_interactive-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pdm_update_interactive-0.0.2-py3-none-any.whl": [
+          "f6rp8HIwrTkzu9nNSAnljJOIJnPbOwTKtyWeZydyfnk=",
           "py3"
         ]
       }

@@ -10380,6 +10380,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "MR6o7UsHYi6V78uqfmsex8KiLOD1hyNBv1tWmkFqJfA=",
+        "aws-cdk.aws-managedblockchain-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_managedblockchain-1.187.0-py3-none-any.whl": [
+          "6rW2dYvpxnPg6djIvOFYI4v7P+zfFnYRnV98GI5gEWo=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "phzgpbV6FZ0Bok4HqB8rFDzicnVLkDNYSSO78YCGJSY=",
@@ -68001,6 +68013,12 @@
         "HfYAxOlrRavDk/SHlPfLEYwHWeImsoPQ7oMcKc8Bry4=",
         "jampy-6.4.0.tar.gz"
       ]
+    },
+    "7.0.0": {
+      "sdist": [
+        "lFp1wSovSDtRYR+MDrj7QuLWA0hi2fqM5oGDhVDSsxw=",
+        "jampy-7.0.0.tar.gz"
+      ]
     }
   },
   "jargon-distance": {
@@ -89883,6 +89901,16 @@
       }
     }
   },
+  "odoo-addon-stock-analytic": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_stock_analytic-15.0.1.0.0.2-py3-none-any.whl": [
+          "U48CducHY+iG284kWet79nGZKsJ4kwrnyNehis7H5GQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-stock-move-value-report": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -90599,6 +90627,22 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.3": {
+      "wheels": {
+        "odoo12_addon_account_fiscal_position_type-12.0.1.0.3-py3-none-any.whl": [
+          "PcyCfblhnjqp/toWiz8E2sEVHFUi/dJGtPDFbgctbGE=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.4": {
+      "wheels": {
+        "odoo12_addon_account_fiscal_position_type-12.0.1.0.4-py3-none-any.whl": [
+          "8TY7WOTtkP9Y7LtTWO/3dXQWd4Vb5vHlz2E7a6oHpes=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-attribute-set": {
@@ -91102,6 +91146,14 @@
       "wheels": {
         "odoo12_addon_partner_delivery_schedule-12.0.1.2.0.99.dev4-py3-none-any.whl": [
           "hKoob73wRygv0NsyrOjaINDl4Ghw1AVtX5YTvwaJSa8=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.2.0.99.dev5": {
+      "wheels": {
+        "odoo12_addon_partner_delivery_schedule-12.0.1.2.0.99.dev5-py3-none-any.whl": [
+          "iY0KHbEo7PxKewdNEH0sXOJb8Pcfs32O/50GLt2BgZ8=",
           "py3"
         ]
       }
@@ -114216,6 +114268,12 @@
         "rattail_corepos-0.1.12.tar.gz"
       ]
     },
+    "0.1.13": {
+      "sdist": [
+        "raX3/GFgRxSO5WrYpmWbpzXQfApgwSZQZzU2dvYW+/s=",
+        "rattail_corepos-0.1.13.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "r2eiC7ANSVWStmpkBH6Tmeslt54s1zpc2xMf4JowmtY=",
@@ -120886,6 +120944,18 @@
       "wheels": {
         "serious_scaffold-0.0.5-py3-none-any.whl": [
           "bdFH8i0hVwdzuMcmsxYDbMEG2iHbqEuxeuy/XClQjg4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "HdPa7AuBtphZ6TjNDUgvXvL+4wXGDatF0/7BwUbhjg4=",
+        "serious-scaffold-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "serious_scaffold-0.0.6-py3-none-any.whl": [
+          "vRoBP5L2ddHuzOYHf1l0JiJzIKpVFB2D3CE3LarfRPY=",
           "py3"
         ]
       }
@@ -138089,6 +138159,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.807": {
+      "sdist": [
+        "ZeGSKb0LIpEt+1YrU8PJyjkF0TH9BqtzfwzXT2h83d8=",
+        "tencentcloud-sdk-python-mariadb-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mariadb-3.0.807-py2.py3-none-any.whl": [
+          "ZOgQotJSNEM4cWIO2yKVrR/eQoOOgF8T5opj1AaU+tI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-ssm": {
@@ -144520,6 +144602,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ssm-3.0.806-py2.py3-none-any.whl": [
           "x6CSgxYTKilCNz8lJdG7nbS1O6Uhnw0luvOhVw2Jw1c=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.807": {
+      "sdist": [
+        "5AJlo+EZdyqBFNaqmab+KhxLQlId/Lga965kYa0h0tw=",
+        "tencentcloud-sdk-python-ssm-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ssm-3.0.807-py2.py3-none-any.whl": [
+          "6PCT7psbVN5vLSkLyCWUuayBFc6lVAeQ1amx0MLuUBo=",
           "py2.py3"
         ]
       }

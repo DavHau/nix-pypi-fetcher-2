@@ -31228,6 +31228,12 @@
         "django-aux-0.0.67.tar.gz"
       ]
     },
+    "0.0.68": {
+      "sdist": [
+        "jMiHtHyPMeHvtwfIfpQtRuFFaT0iztBKqrz55pmt9q4=",
+        "django-aux-0.0.68.tar.gz"
+      ]
+    },
     "0.0.7": {
       "sdist": [
         "ymvgcUe3smrmKkewvn1pa1gZOBrLZ6YudlW98hTG6FU=",
@@ -88863,6 +88869,20 @@
       }
     }
   },
+  "palgoviz": {
+    "0.1.0": {
+      "sdist": [
+        "cIpPsLHiGEl0P5SsTP4GFVJzMPB2SY8ACURSFlUZXTI=",
+        "palgoviz-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "palgoviz-0.1.0-py3-none-any.whl": [
+          "h+BFvy3uTzPuaxKR37ORTSh16sjQcHum0SvHJSEtSuY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "panda-black-test": {
     "1.0": {
       "sdist": [
@@ -131271,6 +131291,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "lDLVFa2OEaDgd1FTfJbh2zd6A8HMAvo95pmcR97fN9E=",
+        "stutterbuddy-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "stutterbuddy-0.2.0-py3-none-any.whl": [
+          "Vr6Tn35C48JDVnwL5ue2LdZzqqppMjlSnF+SIOLSiFY=",
+          "py3"
+        ]
+      }
     }
   },
   "sum-04670": {
@@ -138747,6 +138779,16 @@
       ]
     }
   },
+  "transformers-openai-api": {
+    "1.0.0": {
+      "wheels": {
+        "transformers_openai_api-1.0.0-py3-none-any.whl": [
+          "4gGpnRrVhRsRT9l68qKmk7kuaG0uojs9V4HvW0p76TU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "travalloni-eos": {
     "0.0.1": {
       "sdist": [
@@ -145278,6 +145320,14 @@
       "wheels": {
         "yowasp_nextpnr_ice40_384-0.4.post79.dev377-py3-none-any.whl": [
           "zhSOV/JN5hj1+e6IXiI5LLjkLR4HIhaMLhMwmslKngo=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.dev381": {
+      "wheels": {
+        "yowasp_nextpnr_ice40_384-0.5.dev381-py3-none-any.whl": [
+          "4XGZab9fUPrxFH3I4Tuqc1dP1s9q2nplrfSB8wv5caE=",
           "py3"
         ]
       }

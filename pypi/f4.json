@@ -7786,6 +7786,18 @@
         ]
       }
     },
+    "1.187.0": {
+      "sdist": [
+        "S+0nUu/FVBhCBehheZrhnRcx+Eb/8udPsC9ZVkATwws=",
+        "aws-cdk.aws-neptune-1.187.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_neptune-1.187.0-py3-none-any.whl": [
+          "+K5e8AVdZxKH//8Vn0FqzA+LnWy+4fyUYHL+7QL4474=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "CL2E/Hi+krzlcabV3GObDxgf1g8PNwrSpneIv9J7s+A=",
@@ -36454,6 +36466,26 @@
       "sdist": [
         "hHpNXK7EEeV9JoYKh+gmVrRKGz/I9hxvPiW2w/S6VWA=",
         "emv-1.0.9.tar.gz"
+      ]
+    }
+  },
+  "en-ww2spacy": {
+    "0.0.1": {
+      "sdist": [
+        "pjICHgiUJyEUopghFpd1G/4JvuupxwGFzSFMxesZ704=",
+        "en_ww2spacy-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "V31mYA07Pu5Y70UV3GDuJhcwKKmdUUdDpDeiY2C4RWI=",
+        "en_ww2spacy-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "CBXWEB+qJy+A+AP95oiE0JiwHKl3wYDPpswKQUMnvg4=",
+        "en_ww2spacy-0.0.3.tar.gz"
       ]
     }
   },
@@ -88385,6 +88417,12 @@
         "lW/ay9kDcrDvftcNUrLsMekewDHUL0shRs2usVH5kuQ=",
         "numba_celltree-0.1.4.tar.gz"
       ]
+    },
+    "0.1.6": {
+      "sdist": [
+        "K/xyLg4DnnOsBMPNcVEwnBL1fx19m2j7wgausNDOZls=",
+        "numba_celltree-0.1.6.tar.gz"
+      ]
     }
   },
   "nusa-alphalens": {
@@ -91554,6 +91592,14 @@
       "wheels": {
         "odoo8_addon_delivery_carrier_deposit-8.0.0.2.2.99.dev1-py2-none-any.whl": [
           "bcfyqObEyW8xPm0h2ZllyzJku3Az4pHEE0PUYl40sTo=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.0.2.2.99.dev2": {
+      "wheels": {
+        "odoo8_addon_delivery_carrier_deposit-8.0.0.2.2.99.dev2-py2-none-any.whl": [
+          "P2VCGIpt445GCcfUDS0kIYDjfHdnaPjGV0MBd3ln4Uk=",
           "py2"
         ]
       }
@@ -103250,6 +103296,18 @@
       "wheels": {
         "prefect_gcp-0.2.1-py3-none-any.whl": [
           "bzs795sDk+9SaTbSJ2W2DxPPwGq+6bGI25+dmgP0WeU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "JsC8xe+wAOi9wClNrL68Yp7f2H7Ngf6F8s+bbIH4CMA=",
+        "prefect-gcp-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "prefect_gcp-0.2.2-py3-none-any.whl": [
+          "Z4yqxe3EoeM0IjcwSNd2RSG2+k3izp9/cSKvy9DAujM=",
           "py3"
         ]
       }
@@ -138906,6 +138964,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dnspod-3.0.806-py2.py3-none-any.whl": [
           "bY/q4yU7O3/McFpZdPc6/UxOWcRdlyqROdcrhuN5YUc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.807": {
+      "sdist": [
+        "/+UV+JSVrgMR3/yJeGI6nhEb61WupShVRviz0617upU=",
+        "tencentcloud-sdk-python-dnspod-3.0.807.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dnspod-3.0.807-py2.py3-none-any.whl": [
+          "d5iUZdcDq+Mtz/4CsHztU0JS+bR7w7kI5OCZIXGuE20=",
           "py2.py3"
         ]
       }
