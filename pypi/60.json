@@ -26333,6 +26333,30 @@
           "cp39"
         ]
       }
+    },
+    "1.3.1": {
+      "sdist": [
+        "AFiiX9Jdov1bvHf0Y4E6AdfxydWf8zIigfAypZYR2rg=",
+        "deepsparse-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "deepsparse-1.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FsMrIhhljK8U2cn8d6fXMeQaEbXek3pdQyA+G7ZKXlw=",
+          "cp310"
+        ],
+        "deepsparse-1.3.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6uihVTmTsP0PeBVE024hdcAg6JLQKmRlxvuhnz0KX2U=",
+          "cp37"
+        ],
+        "deepsparse-1.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "D3sexQupc1vs3ykyapaFqh/OtC1u4cCAQTnVOT0j0S8=",
+          "cp38"
+        ],
+        "deepsparse-1.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sxb1z7SA3KsLHVWnZZ9wJWWjf/DWsxMazzllbN2dEwg=",
+          "cp39"
+        ]
+      }
     }
   },
   "deepvision": {
@@ -62111,6 +62135,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.5.post3": {
+      "sdist": [
+        "v+5zmVqAy3j+pdRYev1bas+JuT/OULbGtEVnellfZJI=",
+        "jupyterlab_language_pack_fr_fr-3.5.post3.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_language_pack_fr_fr-3.5.post3-py2.py3-none-any.whl": [
+          "vp1lyUUahPpzKhwvfwBXR0NeW0YxaPkIlNMCoEUcLA4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "jupyterlab-lego-boost": {
@@ -87495,6 +87531,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.2.0.0.3": {
+      "wheels": {
+        "odoo_addon_web_refresher-16.0.2.0.0.3-py3-none-any.whl": [
+          "xAp/fQwsD7AKNNVz0yCr1mnbmq+YNe1k9gZYedUIcKM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-backup": {
@@ -88280,6 +88324,14 @@
       "wheels": {
         "odoo11_addon_mgmtsystem_nonconformity-11.0.1.1.2.99.dev3-py2.py3-none-any.whl": [
           "gjtGJOcs4kelWRespwL8f4TcUvacLsWiw4hiUwvSWNE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.1.2.99.dev33": {
+      "wheels": {
+        "odoo11_addon_mgmtsystem_nonconformity-11.0.1.1.2.99.dev33-py2.py3-none-any.whl": [
+          "LGjhXBk3kfFsu9NmqB6cEOBE9NV/lWvgVl62o+9IlGY=",
           "py2.py3"
         ]
       }
@@ -90172,6 +90224,14 @@
       "wheels": {
         "odoo14_addon_stock_lot_product_qty_search-14.0.1.0.1.dev3-py3-none-any.whl": [
           "1G85+UdWl8GdLSPiVfkgYBO3xvqwtYz0MStW+Ga3pCI=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo14_addon_stock_lot_product_qty_search-14.0.1.0.1.dev4-py3-none-any.whl": [
+          "Et6Bwjj+yUN/lfGuEgP59Q7+ju2aL+GoqP36+JFMhso=",
           "py3"
         ]
       }
@@ -121764,6 +121824,20 @@
       "wheels": {
         "riyu_xuexi_jiaming_biaozhu_202112_202203-2022.11.2.0-py3-none-any.whl": [
           "AWtX+3m3X6HP3OuMlJgvnQCEn06i6PdsqdyD9Q6vJT0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "rlearn": {
+    "0.0.1": {
+      "sdist": [
+        "rwm3x2r+szTZtfmnXy8FkrX9Gw3gW7Oj//3uFipZv8o=",
+        "rlearn-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "rlearn-0.0.1-py3-none-any.whl": [
+          "pQ9lBwSNxu4QHFRO7kIOhJ24/F5L/NLXDNM18ZvsY6w=",
           "py3"
         ]
       }

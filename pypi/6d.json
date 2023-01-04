@@ -10372,6 +10372,18 @@
         ]
       }
     },
+    "1.36.0": {
+      "sdist": [
+        "a0BBWmN2Cgfxf2D1Em4wjUeTLK5tHM5AQPrDFUpsRs0=",
+        "ask-sdk-model-1.36.0.tar.gz"
+      ],
+      "wheels": {
+        "ask_sdk_model-1.36.0-py2.py3-none-any.whl": [
+          "TPklkSbqzs76eZyGzA7czUFiZIgSrQic9bCj1nqYio8=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "erHBAygzEKcwew1NFZKgPYGbyb3D0feNC0naiRV2eJI=",
@@ -18043,6 +18055,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "VpoQ4y66PUd2Tl99gAgz7rcqKDqidCOTauNXGTAH0gc=",
+        "bettersanic-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "bettersanic-1.0.7-py3-none-any.whl": [
+          "pEBfYpVLKPKsKDYVwJ4y2TO0VCXBfmlv6ef5tcEwugM=",
+          "py3"
+        ]
+      }
     }
   },
   "bgprecorder": {
@@ -18559,6 +18583,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "blissoda": {
+    "0.0.1b0": {
+      "sdist": [
+        "GjaQQ/XtQoEKs6iAuVrHPZlHcngtEqoph6vkYgH22j0=",
+        "blissoda-0.0.1b0.tar.gz"
+      ]
     }
   },
   "blknapp-partners": {
@@ -22566,6 +22598,14 @@
       "wheels": {
         "c2cwsgiutils-5.1.6.dev20230103111807-py3-none-any.whl": [
           "ASftQiw0h2wVuaY5tikpyH5FnaEjtPWx+eovOcrzQIA=",
+          "py3"
+        ]
+      }
+    },
+    "5.1.6.dev20230104104044": {
+      "wheels": {
+        "c2cwsgiutils-5.1.6.dev20230104104044-py3-none-any.whl": [
+          "zg0xrPvlZTH+Cc4iZEikwe57a7nVP4uhNq50xmCbtQI=",
           "py3"
         ]
       }
@@ -53272,6 +53312,74 @@
         ]
       }
     },
+    "0.0.210.dev0": {
+      "sdist": [
+        "w3BGgzKh2EcY67CO5VscNHe3a6XtvMxbrY+gtDhi2zk=",
+        "flake8_to_ruff-0.0.210.dev0.tar.gz"
+      ],
+      "wheels": {
+        "flake8_to_ruff-0.0.210.dev0-py3-none-macosx_10_7_x86_64.whl": [
+          "2rCgrxacJheMlwxFqEUyJZjP7PiGzfaD/X1hauN+xcU=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "24aidbe+3tlrhNLUek9AcbggOH5nrDkLcfCpeJr/W0s=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "W1PZ157Wr8QBdGadJUI9b05LkkOK1lMxEYAZXRsjbCc=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "iHtOI5GG2O69L+wqy+8i7f0FY0Mjftjom2wn2Izske4=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YWGTY+oJjweIJlBzHFIZrcLq8705ZorTq2izTTLJBek=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "V0tDDMupzZYN/2NkQknpuvPfRmkabJCVMoxBhbOcHYI=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "Q0oLSumxBvdwKv7+d3fhsj7/Wb3l5Qb40FjM8kf7hrA=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "Am4hBklEgePjgB2EnlOq8r1fNMKP8fENoAb9hTNKAX4=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WrsivTI8mSfUqEqmekni2x2bq1Zkd63dsyTW3/fnIRk=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-musllinux_1_2_aarch64.whl": [
+          "AZhtQJzthjh+QxbiSljYvCqbKc+o9MtPohC4SrpHg2s=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-musllinux_1_2_armv7l.whl": [
+          "oVhIDKU/kMKC4K+8JJ7t7qI5sSzkH/4vw0cy2mTNXwE=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-musllinux_1_2_i686.whl": [
+          "2fGQ1KTCITb2R9fYommgwRs08EifDOIkyxE2rL9H+xc=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-musllinux_1_2_x86_64.whl": [
+          "LY+jiHV1tvB5/gPLg+ZpVQZTF3Y1yNQCMtH79vZcx6k=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-win32.whl": [
+          "iFXXtvmbSTfsuZlv88kd3s0Z4iQTisxeTK1DY1ciYVo=",
+          "py3"
+        ],
+        "flake8_to_ruff-0.0.210.dev0-py3-none-win_amd64.whl": [
+          "oiUbLtdKz/7GQhSavUOpSnjEAr4W2idpLc3NApBXyM4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.93.dev0": {
       "sdist": [
         "nAd9OD0a6ggFlwhpaoWLMZiVA8wC13cq/kFIxzkicgw=",
@@ -80267,6 +80375,12 @@
           "cp39"
         ]
       }
+    },
+    "6.3.2": {
+      "sdist": [
+        "z+butd2JOrMsC3nBUxqsQgdz4PyDejXbPU2ScD30Wpg=",
+        "mercurial-6.3.2.tar.gz"
+      ]
     },
     "6.3rc0": {
       "sdist": [
@@ -107966,6 +108080,20 @@
       "wheels": {
         "otelib-0.2.0-py3-none-any.whl": [
           "zTUIJxG4KcvJMZodtpBMSxmIB1yn/+4KiJee9oYd3vA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "otter-service-stdalone": {
+    "0.1": {
+      "sdist": [
+        "xF/zzDA62LJZTTLo2nyM+NUEKenCYjD4uK9gKfLA8yY=",
+        "otter_service_stdalone-0.1.tar.gz"
+      ],
+      "wheels": {
+        "otter_service_stdalone-0.1-py3-none-any.whl": [
+          "3C9c+Xsbx9RoPylc9p4AneRA0EijRdonlQAbjTyX1L4=",
           "py3"
         ]
       }
@@ -143588,26 +143716,38 @@
     }
   },
   "streamlit-menu": {
-    "1.0.2": {
+    "1.0.0": {
       "sdist": [
-        "OVNHg197GdaAQ5v9ASGVeDZcf/ZS/wrAP2HhY8EYi6c=",
-        "Streamlit_menu-1.0.2.tar.gz"
+        "i3Jf+tbbA1kBR9Sd8wiNtHsgWFypIlTPnHq4+oL6FdY=",
+        "streamlit_menu-1.0.0.tar.gz"
       ],
       "wheels": {
-        "Streamlit_menu-1.0.2-py3-none-any.whl": [
-          "+AnSxhM5Y7uFI+K4Y3dypSzEM7tMIA3j5/md9nWmMQQ=",
+        "streamlit_menu-1.0.0-py3-none-any.whl": [
+          "c2giUFvC8H286bGlxcEwM3aCHEgx41WuLy1LEltaoDI=",
           "py3"
         ]
       }
     },
-    "1.0.4": {
+    "1.0.1": {
       "sdist": [
-        "xOkNgA5Y3vILfRsS9RxAZisL7gmk6EkSBLuOXC2owPE=",
-        "Streamlit_menu-1.0.4.tar.gz"
+        "UTj6xC+wp1eHOpZPJjx22Gs0WQALpnbRwcp0DiiegJs=",
+        "streamlit_menu-1.0.1.tar.gz"
       ],
       "wheels": {
-        "Streamlit_menu-1.0.4-py3-none-any.whl": [
-          "XIdWp1MPX6VcSyJd2rysDV8bNMcAHEKx6td9LpOD60A=",
+        "streamlit_menu-1.0.1-py3-none-any.whl": [
+          "r1YFF6meRCTi+lRGZXzRftDpGis7fvz3CWTOrbi91oA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "KheMPwDJntlDe9jbovXoOsST4EK8l+jSoz0VG+d007Q=",
+        "streamlit_menu-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_menu-1.0.2-py3-none-any.whl": [
+          "z+ha/oBhS5N4nEovFizzfSD0Ss01UpibIym2gApMpnY=",
           "py3"
         ]
       }

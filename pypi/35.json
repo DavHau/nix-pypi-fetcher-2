@@ -32985,6 +32985,54 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "j2TEanWJiCbaH8iWj7GtosX2gCgDplOfoCgY0j1bWJA=",
+        "django-auth-db-router-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_auth_db_router-1.1.0-py3-none-any.whl": [
+          "+JIU8N76DN0JQwpLlOKHAgp8FejgXm1ztyQLQxRUoa0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "6ruGmRUZhSGX8oX8IB9t0YiFhMmetSx1OBVTxqS++gI=",
+        "django-auth-db-router-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "django_auth_db_router-1.1.1-py3-none-any.whl": [
+          "DZxLXzAcbkQJ1ovl7zUfZ3K5wIiheB8Dy/oCIGZAoa8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "AzSRW2LLs5BHk9mPylZCEnt1tpxcEbkT4pe4d9U69hc=",
+        "django-auth-db-router-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "django_auth_db_router-1.1.2-py3-none-any.whl": [
+          "J99VqgBSk1h5tWKLSr+FDas0vRoaRzkAFt3xzcD4LXY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "K7FV1PWycmnf+0FNF5qQLe/UMxC+laCKep/WVKPFf+I=",
+        "django-auth-db-router-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "django_auth_db_router-1.1.3-py3-none-any.whl": [
+          "e6cwQe9X2UOPLg6F7S6UbMmZ8pd0XtToZ8K0JZ1bTvc=",
+          "py3"
+        ]
+      }
     }
   },
   "django-basic-email-user": {
@@ -45754,8 +45802,24 @@
           "dw0BYZicYpLs6DWtSzZ1SOOhsKNSsxuRTpgpZm95fWM=",
           "cp310"
         ],
+        "fmm3dpy-1.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R4vyXiSJgcF20tgA4/sjtzR+JpyKl9lbuki9V+CXXj0=",
+          "cp310"
+        ],
+        "fmm3dpy-1.0.0-cp310-cp310-win_amd64.whl": [
+          "a/ITdBq2koYyDdhITWXGlOfKuePdoh8HcBeWqxOmimo=",
+          "cp310"
+        ],
         "fmm3dpy-1.0.0-cp311-cp311-macosx_10_9_universal2.whl": [
           "BixxYCGwVFyFilrwRKfnAK7fRMroHXilsvdlU6xHDN4=",
+          "cp311"
+        ],
+        "fmm3dpy-1.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QfA0GkRQPToT/qPuOansb3odPq7qXbUFVm71uK0v3ew=",
+          "cp311"
+        ],
+        "fmm3dpy-1.0.0-cp311-cp311-win_amd64.whl": [
+          "dMbNZn51d/HFeq3yGrEalBAyWSlp4N4nxDJm/8tYhsI=",
           "cp311"
         ],
         "fmm3dpy-1.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -119944,6 +120008,30 @@
         ]
       }
     },
+    "0.2.10": {
+      "sdist": [
+        "ECwGpogH9t0ZjUj6jUEYoxjMA6d7lYowTVO9ZGZu+2k=",
+        "restify-ENGYAK-0.2.10.tar.gz"
+      ],
+      "wheels": {
+        "restify_ENGYAK-0.2.10-py3-none-any.whl": [
+          "V/TvY7ooiQUoqgeGHXlFGMtroEIypbnLYbdj+o4wg/U=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.11": {
+      "sdist": [
+        "1pKoZfEs52XQCvYAzt++JhNuGGq28HNbxr6J/4rABDg=",
+        "restify-ENGYAK-0.2.11.tar.gz"
+      ],
+      "wheels": {
+        "restify_ENGYAK-0.2.11-py3-none-any.whl": [
+          "med3qJFem75pRwOlyAG9kYAcpiIIaqtzhmv/HdUgzDo=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "LH/uj7jpLgMhd0FyoRyo09MWVXBKzbRs26FDMLSvsPs=",
@@ -120024,6 +120112,18 @@
       "wheels": {
         "restify_ENGYAK-0.2.8-py3-none-any.whl": [
           "W1fzENePNzMT7TXHt6s31kEeviqaSJB5aMb+zAElpVQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "IrKcv3HQtSFeQQP3Y2kOYn8DPp3NN4cJd8CEf2jJtNM=",
+        "restify-ENGYAK-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "restify_ENGYAK-0.2.9-py3-none-any.whl": [
+          "pRNyjWq93StQI1R1GrfKefOaihFCRbZLCE/d/VUZCfo=",
           "py3"
         ]
       }
@@ -121124,6 +121224,18 @@
       "wheels": {
         "roc_idb-1.4.1-py3-none-any.whl": [
           "Fz1Z37NBdnmlj8btAb9sUexpA165NOmRDR+C6JV21qM=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "YmS24Cw7I6lUV+GUUr0s4GVyJE7/ymkF7yQEB918ow4=",
+        "roc_idb-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "roc_idb-1.4.2-py3-none-any.whl": [
+          "d+9X8q3bYMT3if0bdWSeAWUqnQq1Z0QN0y/l52xevQM=",
           "py3"
         ]
       }
@@ -132780,6 +132892,30 @@
       "wheels": {
         "tableautransformer-0.0.14-py3-none-any.whl": [
           "J8X24hVNYcsvMdI+7h48IQjxPxmMb3hQV9On+BHKQOM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "pnWkJ1Tq/MxSb6vwSxZLJJu81rLBrt2rZ2xbOGKQzvw=",
+        "tableautransformer-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "tableautransformer-0.0.15-py3-none-any.whl": [
+          "+9M8ca18QGYVIRBv+HRnd/5YOAuDQiBOuvC7kjJU0D8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "qKfM6Yv8tm+6AYXwM11ap0A8pHSH8BRIZKvzm/A65Po=",
+        "tableautransformer-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "tableautransformer-0.0.16-py3-none-any.whl": [
+          "qlszFI6Cbcp27RCnZVqMtVReE2/j6PtJO5Udtub1//8=",
           "py3"
         ]
       }

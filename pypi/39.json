@@ -61001,6 +61001,38 @@
       }
     }
   },
+  "mensajes": {
+    "0.0.0": {
+      "sdist": [
+        "hIX+7NPUXO22FZHZYon0iopp+qhi7hekwxMdoQcKYdA=",
+        "Mensajes-0.0.0.tar.gz"
+      ]
+    },
+    "1.0": {
+      "sdist": [
+        "wkqQ7bchKGBB3TEdhY02PUaMbR88elvAjVNP9AGyDpY=",
+        "Mensajes-1.0.tar.gz"
+      ]
+    },
+    "2.0": {
+      "sdist": [
+        "xG19s6Q8g5YZyj5od6Bor+HiJYNK1eGGWTrSNOeLN2Y=",
+        "Mensajes-2.0.tar.gz"
+      ]
+    },
+    "3.0": {
+      "sdist": [
+        "g63zyH5onyANvcdqHnm0D7ZgnFa0stP/7bEOrSwTW+8=",
+        "Mensajes-3.0.tar.gz"
+      ]
+    },
+    "4.0": {
+      "sdist": [
+        "l2ISQuQzBkRwB6x1rxJSrAZCbSHsGD5B+cNPLvNOxRI=",
+        "Mensajes-4.0.tar.gz"
+      ]
+    }
+  },
   "menu": {
     "1.0": {
       "sdist": [
@@ -93549,6 +93581,42 @@
         "uLNxcaPdtdi2+lw8/zdI1KgBbujj6ul3X8sgx7pT1vc=",
         "py-Betawi-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "73n/z7LnZ5WQC7w5R2Dt2XtUD8kMwXn/iZOKZZKGqhM=",
+        "py-Betawi-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "jevvRiZtyw8tAiXJvl1MTep4pbPV5ZjnRNz4wnkhxB0=",
+        "py-Betawi-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "K1s+uSDcdFavNEbm3+sBp8197yazGGA2qfNTtHADfVw=",
+        "py-Betawi-0.0.7.tar.gz"
+      ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "pHQ4gFPEcrYj52u9rdnOs37uXTGryfW/EV8LFHAGx4M=",
+        "py-Betawi-0.0.8.tar.gz"
+      ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "xojEJqxJLueo7mPz2Kx2RN/9EjgGnEx8tSbqy8jHOzc=",
+        "py-Betawi-0.0.9.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "Wf4nUN7GErfHIFNC9Ynd2QPSPfWf0qhwgw7aT6cBD4w=",
+        "py-Betawi-0.1.0.tar.gz"
+      ]
     }
   },
   "py-canberra": {
@@ -106831,6 +106899,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "BjM40Th6vihqIPpKQVpm65RcJqIOlH22EXqSTY7QbUg=",
+        "pytest-workflow-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_workflow-2.0.0-py3-none-any.whl": [
+          "/JxAwZJzLl0TwQTi9Xeo9Rn1d2YdnKYo6NXGc1GEYos=",
+          "py3"
+        ]
+      }
     }
   },
   "python-amazon-simple-product-api": {
@@ -117234,6 +117314,18 @@
       "wheels": {
         "schedula-1.4.5-py2.py3-none-any.whl": [
           "CckZ1cjw9eHbbwWibioRl9E5az0H2cMAdw4WfMPUKws=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.6": {
+      "sdist": [
+        "Bh+IOkPpSGvZ7uVG7+emTqbmMs4D09/OE1qsEhxrSfA=",
+        "schedula-1.4.6.tar.gz"
+      ],
+      "wheels": {
+        "schedula-1.4.6-py2.py3-none-any.whl": [
+          "KOy8MzJAc4jJDCuDyM88xRSVoBz5vYksFMb3ttsr+tw=",
           "py2.py3"
         ]
       }
@@ -141153,6 +141245,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230104": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230104-cp310-cp310-win_amd64.whl": [
+          "fIxEhQXidie3rgE8JhXxlfqm403IAaVOFkd1Rn7dhb4=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230104-cp38-cp38-win_amd64.whl": [
+          "sAw52TRLEv0LjGidvFxqAAJzxlca9BDvEBgVDE74gsQ=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230104-cp39-cp39-win_amd64.whl": [
+          "p1pUbCfP7nChHwkRXvwv7hMmSMni9PoQ6OyYPMqlHc4=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -156326,6 +156434,30 @@
       "wheels": {
         "zood-0.1.3-py3-none-any.whl": [
           "HmpHL1H+8j63rnTCYMwaZXrUIYLaZRmReggcj/JnzZc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "hQL152sOr3uBkdeIoTmu4VMqc/zz7Xhj44rMVlqxnWU=",
+        "zood-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.1.4-py3-none-any.whl": [
+          "kW4XiPo+IUBN9KqGhrnsjU3VUE35ATte7e9UiNpjH2A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "gT+eI3grF0Fk1EHyiNbaSxJR73Db+FE0OaOTp7fLio8=",
+        "zood-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.1.5-py3-none-any.whl": [
+          "aNI0EaHQ0gCVvVQrjVgpmQHqkUjfeqWpTqt2cWzCjCw=",
           "py3"
         ]
       }

@@ -2214,6 +2214,30 @@
         ]
       }
     },
+    "0.16.3b1584": {
+      "sdist": [
+        "ucgn758aa8sKHQxWjl0HskziIMysDBqhXdYS3+MYf7E=",
+        "alvin_integration-0.16.3b1584.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.16.3b1584-py3-none-any.whl": [
+          "9aOWSBXH1FDoKU7rkWueMaqH+yrtzg6ZQYYH1Q/XOag=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.4b13387": {
+      "sdist": [
+        "5mdKLBoHm61riGnbPc+QX6Y1ZCZy6f7k+dDf1qTNG+g=",
+        "alvin_integration-0.16.4b13387.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.16.4b13387-py3-none-any.whl": [
+          "JqaWywo5PRW0f6HzcjO8+HbohCsXDG3V7jc7tQXmy8g=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0b0": {
       "sdist": [
         "8kta3aPKXScF7q69uScZp8fDi/rCvpGMDuV14I/u6Yk=",
@@ -21648,6 +21672,42 @@
         ]
       }
     },
+    "1.46.0": {
+      "sdist": [
+        "bT91aZ2WBmhNydRnI9kFNcebPqZZY3hQBts6L3QzW+k=",
+        "datayoga_core-1.46.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.46.0-py3-none-any.whl": [
+          "1zEoxKzXCH7MKyM9Jf2qeZthrqm2pu9Z/AH5yL7Xj/Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "XmktNhhlYAS+6UD1bmraRhUY/miWd8XUFbphmU0O1T0=",
+        "datayoga_core-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.47.0-py3-none-any.whl": [
+          "84JUJf8hhLrHNUaDZ+kLpPuv4HxNkGzmAhN6GRXPF/c=",
+          "py3"
+        ]
+      }
+    },
+    "1.48.0": {
+      "sdist": [
+        "WLClk9YwM0/6sSa0SkSOYj4WIdgTkTT+NX39NyLC0M0=",
+        "datayoga_core-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.48.0-py3-none-any.whl": [
+          "+vxWPibktRZKl8K7MJ03j571jlp7wC4S6JIE6+l9evw=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "bNayT+QJkHkhyCIEqVtdrAWOafMG4/yTABU2arRULBA=",
@@ -28488,6 +28548,18 @@
       "wheels": {
         "django_dsfr-0.11.1-py3-none-any.whl": [
           "SU27m9T+nv/net4qGxR8trSPS/gb5GISfNaZgXzNyjA=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0": {
+      "sdist": [
+        "t+f3jZtQPoG7f0bDcN+ZgK0dq6Ix2vXvjqwmSzN7TFA=",
+        "django_dsfr-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "django_dsfr-0.12.0-py3-none-any.whl": [
+          "g7RaqqRt6C/6Y6l9eC1DbNGZNslP5A1GwICl8DLeSbY=",
           "py3"
         ]
       }
@@ -41636,6 +41708,12 @@
       "sdist": [
         "69nKX0oSyivciEP/MRi+auhaO7Pw1AKUP0xKW7in3kU=",
         "GammaLab-0.5.5.tar.gz"
+      ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "7wZGonD42Eq2BVoPBZO3oHrTN2pvg7wyyPnhz9BIFwQ=",
+        "GammaLab-0.6.0.tar.gz"
       ]
     }
   },
@@ -65257,6 +65335,12 @@
         "mC6ftxdDYg7O7hcRbq3WMXy6WqUUWGuMtkfCYMpk1TI=",
         "localstack-ext-1.3.2.dev20230103110037.tar.gz"
       ]
+    },
+    "1.3.2.dev20230104101018": {
+      "sdist": [
+        "erzNuyAZ7JwNAmih1s1JZdIbx1KToOVUszG2wSmXYGk=",
+        "localstack-ext-1.3.2.dev20230104101018.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -79578,6 +79662,14 @@
         ]
       }
     },
+    "13.0.1.1.2.dev12": {
+      "wheels": {
+        "odoo13_addon_mgmtsystem_action-13.0.1.1.2.dev12-py3-none-any.whl": [
+          "V3Gn6uPd1aCcMX01ovXFgjLx7RK2lqvxLUvA8ziatLQ=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.1.2.dev2": {
       "wheels": {
         "odoo13_addon_mgmtsystem_action-13.0.1.1.2.dev2-py3-none-any.whl": [
@@ -82621,6 +82713,20 @@
       }
     }
   },
+  "opensearch-reindexer": {
+    "0.0.1": {
+      "sdist": [
+        "HJzhbdMD1ZIdKJ7vhJkGNGAE7gysyjmtESUqfvro8Ws=",
+        "opensearch-reindexer-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-0.0.1-py3-none-any.whl": [
+          "r5kCSSt5jF0HQTsWBqWGi+0AAQPxXUN8TXDznHKPhVc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "openshift-python-wrapper": {
     "1.0": {
       "sdist": [
@@ -83646,6 +83752,12 @@
       "sdist": [
         "EMD9g9IM/eTJO7bp1XacGW3KnX5HB8VGTJ6VEutY3Pw=",
         "openshift-python-wrapper-4.11.5.tar.gz"
+      ]
+    },
+    "4.11.50": {
+      "sdist": [
+        "TNE+vqLfPwYEMf1ecE31ZkyRNFp3GUOGjyFh79ZvDaI=",
+        "openshift-python-wrapper-4.11.50.tar.gz"
       ]
     },
     "4.11.6": {
@@ -85904,6 +86016,12 @@
       "sdist": [
         "uio+YwLqt12OCl0f9uqZFnqA2Z7feBaVGBR09dPyNCw=",
         "paasta-tools-0.154.0.tar.gz"
+      ]
+    },
+    "0.155.0": {
+      "sdist": [
+        "o2sUphJcxOlcgN1C/ZnG4KcJtetchCfKv1KgJf78tD0=",
+        "paasta-tools-0.155.0.tar.gz"
       ]
     },
     "0.16.10": {
@@ -114345,6 +114463,12 @@
         "2Xtzq3k0rPdWXfDTE5qQ4mFjIa6LtYy7MAdBgRsF4J4=",
         "salure_helpers_salesforce-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "hXsJMyF9KrI69n2yrb7j+TBx0KdM2xEuXQdaRPv80fE=",
+        "salure_helpers_salesforce-0.0.3.tar.gz"
+      ]
     }
   },
   "sample-distutils2-project": {
@@ -123486,6 +123610,14 @@
       "wheels": {
         "stix_shifter_modules_sentinelone-4.0.13-py2.py3-none-any.whl": [
           "lFlWm9QE7bVmLozcyo3fejTa6cT1VEsPdylIiaqbAfk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.14": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-4.0.14-py2.py3-none-any.whl": [
+          "ozzb/Ev4q8Q4CTfI0sTpb9Q5ucZ4XFrwct7swdwsJ5A=",
           "py2.py3"
         ]
       }

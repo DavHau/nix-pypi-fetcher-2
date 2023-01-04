@@ -42633,6 +42633,20 @@
       }
     }
   },
+  "eopsin-lang": {
+    "0.0.1": {
+      "sdist": [
+        "L8XzwzHZzU0v9vBrSpuWJxL0wbFQxY6nwun2qD35y0o=",
+        "eopsin-lang-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "eopsin_lang-0.0.1-py3-none-any.whl": [
+          "aoYOmX5sMf1zs/q69yil2lh3Omy3nYynptMkonkxw34=",
+          "py3"
+        ]
+      }
+    }
+  },
   "epopt": {
     "0.1.0": {
       "wheels": {
@@ -90471,6 +90485,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.31": {
+      "sdist": [
+        "un5soVLM6fLaCFm2aNAB08y88HfR30aGDT0O5bt2dD8=",
+        "neosca-0.0.31.tar.gz"
+      ],
+      "wheels": {
+        "neosca-0.0.31-py3-none-any.whl": [
+          "ExGjYGZ2AKLhTOK0qmxttEtu8rs8Ydl546V15rLLYoU=",
+          "py3"
+        ]
+      }
     }
   },
   "neotasker": {
@@ -96273,6 +96299,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.1.0.1.99.dev3": {
+      "wheels": {
+        "odoo11_addon_stock_quant_manual_assign-11.0.1.0.1.99.dev3-py2.py3-none-any.whl": [
+          "9wuPaLwn++GzEijCSTBbMAiS4zHcJcDQnZk+fGQS/ps=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo12-addon-base-export-manager": {
@@ -97306,6 +97340,14 @@
     }
   },
   "odoo14-addon-mgmtsystem-audit": {
+    "14.0.1.0.1.dev10": {
+      "wheels": {
+        "odoo14_addon_mgmtsystem_audit-14.0.1.0.1.dev10-py3-none-any.whl": [
+          "jQbkr0FBmNgLEQYk0sjjsEF1kMjIICUPvsMT9jKkk7o=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_mgmtsystem_audit-14.0.1.0.1.dev2-py3-none-any.whl": [
@@ -118328,6 +118370,30 @@
       "wheels": {
         "pypeek-2.6.6-py3-none-any.whl": [
           "9HAGQbrEzATSTsopc3Kknk1jUFsjMLkioFWHt/O+hcg=",
+          "py3"
+        ]
+      }
+    },
+    "2.6.7": {
+      "sdist": [
+        "islx0n9vobwaIQfVkw/ov0UzjV2bXR4AoBqQ6X/JNkY=",
+        "pypeek-2.6.7.tar.gz"
+      ],
+      "wheels": {
+        "pypeek-2.6.7-py3-none-any.whl": [
+          "boyhx5W96vEc/50t/tqj96lR6eqS0rSOcCmRfFbYTS8=",
+          "py3"
+        ]
+      }
+    },
+    "2.6.8": {
+      "sdist": [
+        "dClms+RLf5J1hiINBP+93FaqFFMbZwwZzil1cFbFyv0=",
+        "pypeek-2.6.8.tar.gz"
+      ],
+      "wheels": {
+        "pypeek-2.6.8-py3-none-any.whl": [
+          "1qHmEAPzDVwbLNGvyZYNx3mnwjY20nWQ6SB3zSSSHi8=",
           "py3"
         ]
       }
@@ -159048,6 +159114,82 @@
         ],
         "ylearn-0.1.3-cp39-cp39-win_amd64.whl": [
           "ZAik0njYB/k8F/Kx/mR748x333avFBKfKmbWwXBLF5A=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "Jb/XypZFN8VN+i1E9TKzwVRLuvNqsfBQJwt059tlR0o=",
+        "ylearn-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ylearn-0.2.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "EHl0nSsr6mVL1dwiLDjwWBJwN+szPh4YjcwvgogbmMo=",
+          "cp310"
+        ],
+        "ylearn-0.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ypHxILQZVDySvLlm2qCx2FuSM3gUiVPJzUViejpTnTM=",
+          "cp310"
+        ],
+        "ylearn-0.2.0-cp310-cp310-win_amd64.whl": [
+          "FF1RoyZH3vvOZV6Is8St5VhoNZ6L98ICZJuGrvGWk3o=",
+          "cp310"
+        ],
+        "ylearn-0.2.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "iteb59/85x42XX5cc+ysOFp/iFRhnKgOZNH2S0J9zWI=",
+          "cp311"
+        ],
+        "ylearn-0.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SRzwVumdiuTnZlADnoAzmLHjec+8LKi49toM+NH8JLA=",
+          "cp311"
+        ],
+        "ylearn-0.2.0-cp311-cp311-win_amd64.whl": [
+          "tqMjfz3+tJ5/0/OCsG++zhIeBbwwhQDjfSjaubPXCg8=",
+          "cp311"
+        ],
+        "ylearn-0.2.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "SUJzEZR0GgkoN5zMCFvGLpO/eI2CLzK8E/LPFjgELcQ=",
+          "cp36"
+        ],
+        "ylearn-0.2.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eMELjwySOwWkADq1GhMPZ8DeAkZo+W5ehswhv0iC2T8=",
+          "cp36"
+        ],
+        "ylearn-0.2.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "Rs8rCn9H8Wz/UoHuKwvabwyFRN2FrOsQeC/GNDm1MQw=",
+          "cp37"
+        ],
+        "ylearn-0.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XTh3ls4QGSGkCIQZPScmfzeS/uJL95CXA9SoXrx6r+k=",
+          "cp37"
+        ],
+        "ylearn-0.2.0-cp37-cp37m-win_amd64.whl": [
+          "IjNcv2x3tg8DoFFgbA/HZsg8dnDGdMGotHf2UyoDZAs=",
+          "cp37"
+        ],
+        "ylearn-0.2.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "1cnRMRAxmHmr7PdVmkZ1EovVArLTv5w/7bmIzbc9IK0=",
+          "cp38"
+        ],
+        "ylearn-0.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iLHfsfInXoKDp5tRRC8RuMLdmd1uMt5nzxdxj/qzDwo=",
+          "cp38"
+        ],
+        "ylearn-0.2.0-cp38-cp38-win_amd64.whl": [
+          "DvQUKtdt2GnH7kZ6mXwc4Hm1QngBa3ylbmjDf6uR0/4=",
+          "cp38"
+        ],
+        "ylearn-0.2.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "6QDZAFvFlxdbt41YhpEw9uQR7V7ctQQxHIrbms2e+DQ=",
+          "cp39"
+        ],
+        "ylearn-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SnI08psG7W+KCYXDMAuGiEy8ITFE/IcYACopuAL69HU=",
+          "cp39"
+        ],
+        "ylearn-0.2.0-cp39-cp39-win_amd64.whl": [
+          "YdnZrKGkDikzT5Z8Bk0Dbbu58edE3eH6hVlPD06IjDc=",
           "cp39"
         ]
       }

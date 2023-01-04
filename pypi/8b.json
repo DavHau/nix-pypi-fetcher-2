@@ -27602,6 +27602,42 @@
     }
   },
   "devops-intc": {
+    "0.1.10": {
+      "sdist": [
+        "LOBwUDSbDIGJdJ3tGvqN7lPviJxL/0QngiEM6QQiohI=",
+        "devops-intc-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "devops_intc-0.1.10-py3-none-any.whl": [
+          "iZHJtu57wXr6N8Cv/YbfPJTtzi6E1ILxRb7p8Un6ZnU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "v6Ch8gHicQIVBEl0KRHLwoGE9b+E1OJuvfgEh7rjJeI=",
+        "devops-intc-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "devops_intc-0.1.11-py3-none-any.whl": [
+          "7HGj4dnK/rfIn+cAKl4jNbKPDwgTjQRVPvS/BxlljcE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "dP4Nxo+lLx7L1NsF+DPz03NmmaVEEDR1unf6D+eEWhY=",
+        "devops-intc-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "devops_intc-0.1.12-py3-none-any.whl": [
+          "qmUBTeFrTyXwMIuNDoSY/yjMeGJTj+ykf71pRI6X6EI=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "NqQs5518js9nf5ZSzllYpHHF/BOt6m/lWF+LShAZN4M=",
@@ -63803,6 +63839,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.5.post3": {
+      "sdist": [
+        "Ial5hbVn/xlL3WUpBOlgeg0Aqt67xmwC1FFjXsmcJd0=",
+        "jupyterlab_language_pack_pt_br-3.5.post3.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_language_pack_pt_br-3.5.post3-py2.py3-none-any.whl": [
+          "p8EiHqkodojyobE/5PhdmXIz0+hcOFLHTbVmNpxHxmg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "jupyterlab-optumi": {
@@ -98159,6 +98207,74 @@
           "cp39"
         ]
       }
+    },
+    "0.28.1": {
+      "sdist": [
+        "qPPCjzJg7QrF4fImXc89z66NN3mNULQgK0RkrfAVTow=",
+        "point-cloud-utils-0.28.1.tar.gz"
+      ],
+      "wheels": {
+        "point_cloud_utils-0.28.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "sSP/RQ2nopYc/BEllGBH6yfJOH3rVqx9lg47zI/kPx8=",
+          "cp310"
+        ],
+        "point_cloud_utils-0.28.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0cOqHSshu9npWmMExSBmT7J+WGcLQr6OawfMGCz9n98=",
+          "cp310"
+        ],
+        "point_cloud_utils-0.28.1-cp310-cp310-win_amd64.whl": [
+          "hW5smGS+/8t3g9Mwzle3fiCmxznso50GKpSoIpZu5fE=",
+          "cp310"
+        ],
+        "point_cloud_utils-0.28.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "42BnzSKkFxg8wxENdQ1S9jLmOeMymuh8Z256uv7QcFE=",
+          "cp36"
+        ],
+        "point_cloud_utils-0.28.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vAwMbFvi07LlUVcE3fxuoE2QIsG/yAneSy87dJFvb7k=",
+          "cp36"
+        ],
+        "point_cloud_utils-0.28.1-cp36-cp36m-win_amd64.whl": [
+          "NZheyVqZY9ph+vW01lk5lbCLmUZeErtyy3K2CjNWGwo=",
+          "cp36"
+        ],
+        "point_cloud_utils-0.28.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "+DREWVLrb+9vQjjFtnj9TGhG4mQk7w8dIWjC5Q/zbqg=",
+          "cp37"
+        ],
+        "point_cloud_utils-0.28.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Mft1WzP8348lOrzo+8anrKVeNYbuPa7n3AJQA9IMOtI=",
+          "cp37"
+        ],
+        "point_cloud_utils-0.28.1-cp37-cp37m-win_amd64.whl": [
+          "DVrOce4iSTqf8Ndq/JjPr20XXHNMyCWOU6u2+NtJiqw=",
+          "cp37"
+        ],
+        "point_cloud_utils-0.28.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "yylbbIhIbXP5eU5VLkWJ0USrCfJZpUM6/Vl7UMPJ/vE=",
+          "cp38"
+        ],
+        "point_cloud_utils-0.28.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FIf9LQtXoWe1QnSjQTFLaD6M4yFh15QShiodw32o5wE=",
+          "cp38"
+        ],
+        "point_cloud_utils-0.28.1-cp38-cp38-win_amd64.whl": [
+          "rmyyM0cIZfz8k4WB/4BXooGfDY5m6ctmcMREfK5nLCI=",
+          "cp38"
+        ],
+        "point_cloud_utils-0.28.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "iMz11XHLFNk4lJ6dlTtvu8d3GWfDCsHE5441Ak9OkPA=",
+          "cp39"
+        ],
+        "point_cloud_utils-0.28.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UAI4dUHMFuu3PfkS5H65AcLF4z/LOGwzR2heSeyO9vo=",
+          "cp39"
+        ],
+        "point_cloud_utils-0.28.1-cp39-cp39-win_amd64.whl": [
+          "VbjmDcQHPuYtP7GsertofK4bwuJwPA6ArFJT9ARrHwE=",
+          "cp39"
+        ]
+      }
     }
   },
   "pokercards": {
@@ -98766,6 +98882,18 @@
       "wheels": {
         "prefab_classes-0.7.8-py3-none-any.whl": [
           "C++qnPMDOtM8+6Ldmyf6wTx+Na/MXzoOr6qXi9IfaoA=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "2KiTvtia0w9RQneTxKcyrh9JbC84zaT6PEC54pBjAEo=",
+        "prefab_classes-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "prefab_classes-0.8.0-py3-none-any.whl": [
+          "e7W++SVNmDxclbHA3YcpjuEm+l5pZtEhG+EHcg9Ez9Y=",
           "py3"
         ]
       }
@@ -115226,6 +115354,78 @@
         ],
         "qat_core-1.6.1-cp39-cp39-win_amd64.whl": [
           "WgAu5zXbLsCRhLx0kQUnMUbylHqvNFwMz+zOPPQQqOY=",
+          "cp39"
+        ]
+      }
+    },
+    "1.6.2": {
+      "wheels": {
+        "qat_core-1.6.2-cp310-cp310-macosx_10_9_intel.whl": [
+          "zzdW/tGj7jNrEpYFmEvAC1E9jQo/afskz3NrPlAx620=",
+          "cp310"
+        ],
+        "qat_core-1.6.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "6wtfeKPrE4GPpfWgsXpNHgPVhUfkbvf9S3J405tUupo=",
+          "cp310"
+        ],
+        "qat_core-1.6.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "NFPqwFJQEJBHwWBwAgM33JJxjNyglbaL4g8NF5MpGfA=",
+          "cp310"
+        ],
+        "qat_core-1.6.2-cp310-cp310-win_amd64.whl": [
+          "XBoWGKoR9b/gpIMDgiAhtREs6e2t+ammEphwArqjiYo=",
+          "cp310"
+        ],
+        "qat_core-1.6.2-cp36-cp36m-macosx_10_9_intel.whl": [
+          "5iO1VMAMMKimp1ineS4YZ8e/XshWYYJUpDw4vMjdSno=",
+          "cp36"
+        ],
+        "qat_core-1.6.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "bAWhKKoiphwEyME7xdkM7Bpe4PGeI6AQ9j3hTv3N/kM=",
+          "cp36"
+        ],
+        "qat_core-1.6.2-cp36-cp36m-win_amd64.whl": [
+          "5XlBvXlCNza7GKuGU1WeVIhUaSkcwaYlDYJxA0JxYO0=",
+          "cp36"
+        ],
+        "qat_core-1.6.2-cp37-cp37m-macosx_10_9_intel.whl": [
+          "PvF4rlRzDINJ6X+imNje+P+GLu+zrMDK5aIgapNrdAA=",
+          "cp37"
+        ],
+        "qat_core-1.6.2-cp37-cp37m-win_amd64.whl": [
+          "szEJF7uTtDF5kJvOTk/SQrNKiKs8C7NpTSKDwD0WLJM=",
+          "cp37"
+        ],
+        "qat_core-1.6.2-cp38-cp38-macosx_10_9_intel.whl": [
+          "FAdF7/5AeNnby+CJkfm7LMDiT4Ql2OtSPLZkjGqjRR0=",
+          "cp38"
+        ],
+        "qat_core-1.6.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "XaTS5bwRBSUhyF+XUntT/IeUjBpZsnErw04Gpx/kewg=",
+          "cp38"
+        ],
+        "qat_core-1.6.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "/7y5CSRauUnZPAa7Rp90w6/GL/6X687Ea3Hh/lJ6xFM=",
+          "cp38"
+        ],
+        "qat_core-1.6.2-cp38-cp38-win_amd64.whl": [
+          "e2w+2UgXXY5u9xoXmZpXusin+4qCYYeN+hN/jf3YPBs=",
+          "cp38"
+        ],
+        "qat_core-1.6.2-cp39-cp39-macosx_10_9_intel.whl": [
+          "0gK2Mf7iMqruCB21rg6rhUrQ9klFcAACroKW2xtsvng=",
+          "cp39"
+        ],
+        "qat_core-1.6.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "R5V/6iUk7HcYrICKYBa4nw3LVhPzHPVBDB6NBIBOifE=",
+          "cp39"
+        ],
+        "qat_core-1.6.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "NB2nG/o0Brrx7YcpxWcTsmKnPxtP9E5NBdK6rMq5n5s=",
+          "cp39"
+        ],
+        "qat_core-1.6.2-cp39-cp39-win_amd64.whl": [
+          "SPICyxbhXJv/aZPGB2sFQZwWT5SqSbL2vlrgzUu8Tr8=",
           "cp39"
         ]
       }
@@ -147304,6 +147504,18 @@
       "wheels": {
         "vise-0.6.9-py3-none-any.whl": [
           "iCZjzTfPmPYuMkEQ6ygHcGCRNCQTcrSJ+jmQMfHsFlM=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "y/qtP8h9e0D6g6yYs9+lt2vdZwwQA0hqOk1aappGdxc=",
+        "vise-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "vise-0.7.0-py3-none-any.whl": [
+          "qiDc5rOwXp1/6dT5D27K0MZ1ss+VsDokyhhghubSrTs=",
           "py3"
         ]
       }

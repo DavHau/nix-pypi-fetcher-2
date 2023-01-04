@@ -13943,6 +13943,12 @@
         "G6CEdUEsqN7vU36tcXzSYxWsxdn8mvlAxtTE/OgrzGs=",
         "assemblyline-core-4.3.1.dev92.tar.gz"
       ]
+    },
+    "4.3.1.dev93": {
+      "sdist": [
+        "F26HwjXice3L3N87EeOMlPs44NV0MzCGCZgNsEZvmPw=",
+        "assemblyline-core-4.3.1.dev93.tar.gz"
+      ]
     }
   },
   "astro-brutus": {
@@ -18577,6 +18583,20 @@
         "liAvklWAuqD5uNqVBZRGTNggN48SiCUXHyfQ3XwJBwQ=",
         "aws-lambda-sdk-0.0.0.tar.gz"
       ]
+    }
+  },
+  "aws-recommendation-a7": {
+    "0.0.19": {
+      "sdist": [
+        "U14vLAosqvPl1lkYElDgtleJ+hQRde9TwazOZCuL1Bk=",
+        "aws_recommendation_a7-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "aws_recommendation_a7-0.0.19-py3-none-any.whl": [
+          "ZoX0JR0kzRjMMN1fw2+rFX1woHH1qRuTiureGYmjoZs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-wafwebacl-cloudfront": {
@@ -56440,6 +56460,18 @@
       "wheels": {
         "google_cloud_artifact_registry-1.4.1-py2.py3-none-any.whl": [
           "D5Dh7BIZD4TTC4bEjTNlTNLmW9XZmj/MM58G8f1fP5Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "96z5bfkJe30ORUfVX8kx9itd12efr1+Yi5SNzt6sYDc=",
+        "google-cloud-artifact-registry-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_artifact_registry-1.5.0-py2.py3-none-any.whl": [
+          "40bC+sLRvBfxHtE5BXm6yEaSEOMQtJssrM/IwVwCFik=",
           "py2.py3"
         ]
       }
@@ -151211,6 +151243,20 @@
         "VtHPYFGkkzNO6FaN1iISlMqm57xXalA92mOlxmtnX7o=",
         "vin2proxy-0.0.tar.gz"
       ]
+    }
+  },
+  "vinorm-mac": {
+    "3.0": {
+      "sdist": [
+        "SZ598JfKU5tH4Lhro/hF+dv566VPJ0zrqFdpOBAIR94=",
+        "vinorm_mac-3.0.tar.gz"
+      ],
+      "wheels": {
+        "vinorm_mac-3.0-py3-none-any.whl": [
+          "LgZG0WMsOdD84d+D5nzIzFzhoWf4KesZxy4gXf16RL4=",
+          "py3"
+        ]
+      }
     }
   },
   "vint": {

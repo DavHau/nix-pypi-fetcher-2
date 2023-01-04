@@ -37187,6 +37187,12 @@
         "ARYdd5UkssV5zGiLhewcaeqrU2F2RfqQcpgF1kU43d8=",
         "ewoksxrpd-0.0.3a1.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "RG0lJAKJho/tJwQRE2+LD4sa28J4WfGNiuh30I1xRo8=",
+        "ewoksxrpd-0.1.0.tar.gz"
+      ]
     }
   },
   "example-package-eleneastondoa": {
@@ -80462,6 +80468,14 @@
         ]
       }
     },
+    "15.0.20230103.0": {
+      "wheels": {
+        "odoo_addons_oca_server_auth-15.0.20230103.0-py3-none-any.whl": [
+          "8OSHzww47wh0BU30s/7kJRh3jr5194iVVS4an+4wRnc=",
+          "py3"
+        ]
+      }
+    },
     "16.0.20221205.0": {
       "wheels": {
         "odoo_addons_oca_server_auth-16.0.20221205.0-py3-none-any.whl": [
@@ -81786,6 +81800,14 @@
         ]
       }
     },
+    "12.0.1.0.0.99.dev12": {
+      "wheels": {
+        "odoo12_addon_sale_backorder-12.0.1.0.0.99.dev12-py3-none-any.whl": [
+          "4ZbrBt5OObDYUbWUIkEb2+YHv0z5kE+Nm0dRt3uVLHA=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo12_addon_sale_backorder-12.0.1.0.0.99.dev2-py3-none-any.whl": [
@@ -82318,6 +82340,14 @@
       "wheels": {
         "odoo12_addon_stock_request-12.0.1.5.0.99.dev6-py3-none-any.whl": [
           "aPznMQFhr4zOydBvDMWQ7qJ1MOIqmPjjjyAUucpYd+k=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.5.0.99.dev7": {
+      "wheels": {
+        "odoo12_addon_stock_request-12.0.1.5.0.99.dev7-py3-none-any.whl": [
+          "b5Zh+n9q+lrcLmJg2VqqWt4PSrZ8t5f20R0HJ+N6Afc=",
           "py3"
         ]
       }
@@ -112449,6 +112479,42 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "l+l2gPqXO7gPe91We9exrEQuqWLAPoTBw+H+TVHoGTo=",
+        "saih_duero_scraping-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "saih_duero_scraping-1.0.1-py3-none-any.whl": [
+          "QDImGUDRHZNpGuU/xxOw4Pmu/mtFB46fNblskSmfG5g=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "4wl7/BSnXYb2KfkbMsn+IubgwoTNoRubPlUpg/aHMqA=",
+        "saih_duero_scraping-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "saih_duero_scraping-1.0.2-py3-none-any.whl": [
+          "DB1D8dgR2OVTTUcwAOjW6PVro9IKomNzyHl9E7bX9Gw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "3t36VVQhv5RDH31TtpV+/DkdKOYXoUvINVY6/hjvFOE=",
+        "saih_duero_scraping-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "saih_duero_scraping-1.0.3-py3-none-any.whl": [
+          "8JibJR0IToFHdbndEgBebrVwlbG+fY5mfrfPq4/D4Wg=",
+          "py3"
+        ]
+      }
     }
   },
   "sampletowelstuff": {
@@ -128040,6 +128106,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.6.0.dev20230103-py3-none-any.whl": [
           "dVYqlVKGHD5AMy4EoSkFxpXrkDDBLHM7huFa9s0aezU=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.dev20230104": {
+      "sdist": [
+        "AFSTZgsdSRe4XwQgxs553iMO2EEFwIBH6N7PEmFaNlk=",
+        "tensorcircuit-nightly-0.6.0.dev20230104.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20230104-py3-none-any.whl": [
+          "Ejkv5RQR065UV83sLESPWpEc8z2imJwToIJ13Tsplzo=",
           "py3"
         ]
       }

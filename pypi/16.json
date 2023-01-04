@@ -15105,6 +15105,12 @@
         "7z/gjQffUaWpwr6e43YVUdyZyttNFYnw9YCufM5oCH8=",
         "boltlib-0.1.0.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "npHNp7z88fUPbUvtMBfxr2awvajK/87WzwxsSVsfosI=",
+        "boltlib-0.2.0.tar.gz"
+      ]
     }
   },
   "booby": {
@@ -27420,6 +27426,18 @@
       "wheels": {
         "cr.cube-3.0.18-py3-none-any.whl": [
           "UUDKy1pJ1IeDREhKWR1SX968rSoUTG1YzzE4kGHF3Ew=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.19": {
+      "sdist": [
+        "xZv3OHPMddl/Fm4f0WkC0H6Qt8O3jg3KYG1doVnra8A=",
+        "cr.cube-3.0.19.tar.gz"
+      ],
+      "wheels": {
+        "cr.cube-3.0.19-py3-none-any.whl": [
+          "lsyijJKSLFxZdRoWAHSYCyVkRX728zhm+EVrjf6MSkE=",
           "py3"
         ]
       }
@@ -40536,6 +40554,74 @@
         ],
         "faust_streaming-0.10.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
           "DYRXlH1CHK22v373JQQ/VLV4LMm3GgUCDcbfbNy4W/Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.10.1": {
+      "sdist": [
+        "+FlucRh8lV9kDgseDXlfXGfHN8/M7nDrkzL4AQhDSQM=",
+        "faust-streaming-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "faust_streaming-0.10.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "rOm7QmkL9NP3Rx3JLo6aJ8o9bIUrPy0K+JLMIf598FI=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rXs7yl5SlGmjRss+s9RzmVzaXQ2Kn0fnQI4b1fCB+jw=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "U1+3KiGhol8rJnaCg3WIDgDsnsYkrKi5EAIFFlqfxR0=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "oww8s+RwIDfHXLn4nX3vqIcj4TsqZ3SWIUTj+rFaZqE=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IC06KtH4tV26PirqZgSM1ef3t7QqP3+26xU3Rw9lizg=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.1-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "dWPvjxIswWVFIn+r5PE9dKLpbua9syK744MuIHKaHZo=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "IGvA839vftUPP9jvHpDoJY5VGw3zuUo5KiAw9ojmVYg=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bOlNcCf57eZpeazobxe67uW9m0+z5mGXHT4fWIuwvKA=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.1-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "TOWNky6XiRElaJ+IUd3uvQOcdDi2ErBQaF1TV1lK8Kc=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "XygNOrlauxO+hb07muumw5DEezN1xuA6upVjAquP8VA=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gwGNs5YmW0sHmqOvj6V0qQBTblY/RWTOOMHwLB7/C4M=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.1-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "wqLN1x4qFLfm3i+6tRv6oCHpR4U/MIXTLYIsGIoSy+0=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "B/4pqvIY6baOENSaiXZOpLIKeDpOYUyolSMGmfFWcvc=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3XWGcuj4mbXRl5DvEiB8UjqwEzMDttgnFumCF/KkRiI=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "UNRhUFdow2M2OW4AjvisUgMo5ywRVgfHtRvPD0pXiCc=",
           "cp39"
         ]
       }
@@ -68695,6 +68781,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "H8rjopOntHDm/c9zTosi1RzhNvxUsjVkpBoP/z5w37Q=",
+        "log2db-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "log2db-0.0.3-py3-none-any.whl": [
+          "v3Pj2e8+mH/rA/ULLP+oiHg7OId9i1X+byqREwhZ/yo=",
+          "py3"
+        ]
+      }
     }
   },
   "logeer": {
@@ -81835,6 +81933,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_project_role-16.0.1.0.0.5-py3-none-any.whl": [
+          "EujwYBEyCCUkGn2ajfpRiPG1liiZB3Vh4H9lc+Edlok=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-purchase-analytic-global": {
@@ -84706,6 +84812,14 @@
       "wheels": {
         "odoo8_addon_l10n_fr_intrastat_service-8.0.2.0.0.99.dev19-py2-none-any.whl": [
           "GE8eyAmlVHUW4pyiatiP6q5YnmgVxzOpAAhZy9gsXFo=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.2.0.0.99.dev20": {
+      "wheels": {
+        "odoo8_addon_l10n_fr_intrastat_service-8.0.2.0.0.99.dev20-py2-none-any.whl": [
+          "T07S2WTxyXRvPDEE5aC98bEDUKWNHAN1dhH3+XBRUuM=",
           "py2"
         ]
       }

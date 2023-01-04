@@ -16639,6 +16639,12 @@
         "dYpPPeTeMaiv74JN+WPvqBeX53lgFNkEmrgX/ZeEdz8=",
         "cellar_extractor-1.0.35.tar.gz"
       ]
+    },
+    "1.0.36": {
+      "sdist": [
+        "WEkh5YYEfjGcnw6+NmUaSgORIFQ5ghVNZog4Sb5jTfA=",
+        "cellar_extractor-1.0.36.tar.gz"
+      ]
     }
   },
   "cepan": {
@@ -48216,6 +48222,42 @@
         ]
       }
     },
+    "0.18.1rc22": {
+      "sdist": [
+        "u6B7d3OSuIxHxUpYPDLYWaym4eFQA1DmhpiGvIjD9I4=",
+        "fiftyone-0.18.1rc22.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc22-py3-none-any.whl": [
+          "/cGdJGCyEY82RHIoQhL2Pii4jtGaZ/9JKZuyejw1kEc=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1rc23": {
+      "sdist": [
+        "ETOrB2fBDf7wu0z+fpa04arV6mZbdlywd88N6Si71W0=",
+        "fiftyone-0.18.1rc23.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc23-py3-none-any.whl": [
+          "QNVgecF59xgWBAq5xk+WYsr3jQnIgBYxTPPN1D1ftK4=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1rc24": {
+      "sdist": [
+        "w+XVbP0gGmMz3jEaxnio5VL46fENBmYvSvXodZZu41c=",
+        "fiftyone-0.18.1rc24.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.18.1rc24-py3-none-any.whl": [
+          "hNvF+aw0xYnLqgYUgsSWH3GHf+3cGj4RgdDs8sksOkw=",
+          "py3"
+        ]
+      }
+    },
     "0.18.1rc3": {
       "sdist": [
         "T6IvjTcGxrLzjC6GVjbEvqAIDjTmnr19qri1k3yewp8=",
@@ -55616,6 +55658,14 @@
       "wheels": {
         "graphql_query-0.0.3-py3-none-any.whl": [
           "MmnnW6bTcX4nuL0mdEVgtfamb/n0YA7t4zFVQuw3wKs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "wheels": {
+        "graphql_query-1.0.0-py3-none-any.whl": [
+          "89CIJo7t19of30tG6Is/gP+8vv6YSuN9kDkJRYYvKDQ=",
           "py3"
         ]
       }
@@ -91892,6 +91942,14 @@
         ]
       }
     },
+    "11.0.1.0.0.99.dev16": {
+      "wheels": {
+        "odoo11_addon_database_cleanup-11.0.1.0.0.99.dev16-py2.py3-none-any.whl": [
+          "xL8xUl4t/PTjwu28H/TKl/OQPhzLUe5GK6jvA0GIkR4=",
+          "py2.py3"
+        ]
+      }
+    },
     "11.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo11_addon_database_cleanup-11.0.1.0.0.99.dev2-py2.py3-none-any.whl": [
@@ -106592,6 +106650,18 @@
         ]
       }
     },
+    "1.6.27": {
+      "sdist": [
+        "UqIFLDRPKiNnzFB9h+ro2KE5ADrkJxYAlKn+y33AVs8=",
+        "pydflow-1.6.27.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.27-py3-none-any.whl": [
+          "HSgyBdsqhfOzDnkpl0TrXrkDvEbA1wdr2LpfeXSBVag=",
+          "py3"
+        ]
+      }
+    },
     "1.6.3": {
       "sdist": [
         "s6Pk9v4iMCsx0RDBjwtG3mdoNnRYV5vZ2WVCRUwyjEM=",
@@ -109565,6 +109635,74 @@
         "pyoxipng-6.0.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "jt5Ccyd7tOyllyKrtMWYSwoACyntRwIHIGEUdukZ7yk=",
           "pp37"
+        ]
+      }
+    },
+    "7.0.0": {
+      "sdist": [
+        "5NqZj9DOJgZH55kxpbfPi7ljSZeTDAF9Fqa3Y6zx2gM=",
+        "pyoxipng-7.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyoxipng-7.0.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "idbFoY2oga8fiwDxm2SRthlP9PPIEOnBnaobJTPrx/I=",
+          "cp310"
+        ],
+        "pyoxipng-7.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RLn6jGrh684CP2LVgzd3nPfkJLOdvxnLkA5aAyiWmLM=",
+          "cp310"
+        ],
+        "pyoxipng-7.0.0-cp310-none-win_amd64.whl": [
+          "9Bm7WqpNwxCi1Kh59u/kPmO1fxDm3wb6o16QZXzkxZg=",
+          "cp310"
+        ],
+        "pyoxipng-7.0.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "L0Zu+mcA9VPoIPynKZuGeZU+n34GQRs3achc9A0o5+E=",
+          "cp311"
+        ],
+        "pyoxipng-7.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "f0dbizSRphBhfUMZ67LBi+cnTUNwXNIJPxm7ZbqU1FE=",
+          "cp311"
+        ],
+        "pyoxipng-7.0.0-cp311-none-win_amd64.whl": [
+          "+vWzuNp/jb5KMvDow1KJ/XcHdRHXPiEjVsYBalOllnM=",
+          "cp311"
+        ],
+        "pyoxipng-7.0.0-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "cybRLrEF/YtFiwQfATZBQR3k4yCI1E4Xu/lpClWXsoo=",
+          "cp37"
+        ],
+        "pyoxipng-7.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "U0+tdIEfuCQRaXPTDVTf7aAi4qHPuMFmEcT3wegbK3Y=",
+          "cp37"
+        ],
+        "pyoxipng-7.0.0-cp37-none-win_amd64.whl": [
+          "nufXHEbeDrN3kLPnM++oE7yK+2ovoSpsEF4UHeDTqTs=",
+          "cp37"
+        ],
+        "pyoxipng-7.0.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "wv5b2ihwrEmhuxjiHMs+NvtFVMVbDlmVGQyQduExvs8=",
+          "cp38"
+        ],
+        "pyoxipng-7.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jc9GDFtxdk5RiPDxiGaRRPJbby5d2akp9Wkvi3kNa7U=",
+          "cp38"
+        ],
+        "pyoxipng-7.0.0-cp38-none-win_amd64.whl": [
+          "R89T7XBnnQya36T5SZ64btS3q5mjgETLnVQiGK491fc=",
+          "cp38"
+        ],
+        "pyoxipng-7.0.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "ofs8DnFOc3/IYly5XpMpWYG1/nvPcEXaJ9uluXwUjZk=",
+          "cp39"
+        ],
+        "pyoxipng-7.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/RWMlyOmzM9VRVKlst5Hhr2XSVcXgRt3DThpeSubUy4=",
+          "cp39"
+        ],
+        "pyoxipng-7.0.0-cp39-none-win_amd64.whl": [
+          "LMLsxDAah6Y23v1L8iQbt4zPcpMYIUo0bw2tYYwQMnY=",
+          "cp39"
         ]
       }
     }

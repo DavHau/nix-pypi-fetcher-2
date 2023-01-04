@@ -81042,6 +81042,12 @@
         "mtutils-2.1.57.tar.gz"
       ]
     },
+    "2.1.58": {
+      "sdist": [
+        "TY5XUDmbe2bdYtg9SdJz8CTPs2SKAbhMe3wWUlI3z88=",
+        "mtutils-2.1.58.tar.gz"
+      ]
+    },
     "2.1.6": {
       "sdist": [
         "MuyZuBbmeERbPRsxbdQln3votE3dFU/YBjgFHQCUpRc=",
@@ -106679,6 +106685,14 @@
           "py2"
         ]
       }
+    },
+    "8.0.4.0.1.99.dev1": {
+      "wheels": {
+        "odoo8_addon_l10n_it_withholding_tax-8.0.4.0.1.99.dev1-py2-none-any.whl": [
+          "L9at9GNoXjNVJ5XQshvxLIJLWr8K74a6JbOuA9KDfxI=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo8-addon-mgmtsystem-review": {
@@ -121992,6 +122006,56 @@
       "wheels": {
         "pylogpresso-0.1.1-py3-none-any.whl": [
           "MfGpDNZxAwyAi150eeKzo+/Axac8YukLa6pWDhb9ALk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pylopenssl": {
+    "20.0.1": {
+      "sdist": [
+        "NIO2fDFedw0AaYAb0dFthStUj93E7w4u8R8L1C/pX4g=",
+        "pylOpenSSL-20.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pylOpenSSL-20.0.1-py3-none-any.whl": [
+          "rt1lgwm7cuu7RmdqngV2+OWsjG74ai5AEnDnSflhce8=",
+          "py3"
+        ]
+      }
+    },
+    "20.0.2": {
+      "sdist": [
+        "02nnBb19N6xJgpIR2XSU28QrP2fv++bX0RogNggn4U8=",
+        "pylOpenSSL-20.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pylOpenSSL-20.0.2-py3-none-any.whl": [
+          "FOxHe5wKcWPmmcysbMsVDBvxyobGzYlgsItkIcJ2wTA=",
+          "py3"
+        ]
+      }
+    },
+    "20.0.3": {
+      "sdist": [
+        "epzqGjZLE/XfsORYJ02so+qLV2/Fw/W78tPteIHx+Uw=",
+        "pylOpenSSL-20.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pylOpenSSL-20.0.3-py3-none-any.whl": [
+          "JUtWnFzZ6/+I1T3RbplNZ+AdEmai+Mx+4pPX/yFycgE=",
+          "py3"
+        ]
+      }
+    },
+    "20.0.4": {
+      "sdist": [
+        "pJvZvptmAsxiN7BM18H09W6Y2ek7jazdCoUpn+NcQFY=",
+        "pylOpenSSL-20.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pylOpenSSL-20.0.4-py3-none-any.whl": [
+          "uPecIgifojVyIuvIRk3hTWaMZdS0yowCuT864Qp3eI4=",
           "py3"
         ]
       }
@@ -157506,6 +157570,42 @@
       "wheels": {
         "xlink-0.0.1-py3-none-any.whl": [
           "vIikmHrRSbpu/aXe2NHdned+CENBPHfCS6SvzGf653o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.10": {
+      "sdist": [
+        "UGjbQgRDVAXbFCDeKjGJl4L+g5ULCPHkGyRqNYFlP3M=",
+        "xlink-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "xlink-0.0.10-py3-none-any.whl": [
+          "SzBupyZrUyM8KmZXha7oAvp5so0GfydHmxKCCaT7vKs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "Umb+7yY7xBRZ0NvY6da98FOSyqQl1x5iMHYFjEsSLDI=",
+        "xlink-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "xlink-0.0.11-py3-none-any.whl": [
+          "hn89tbDoRpK6DLI9bHC4cwtDpSo7vbKX+G3LYajY5+U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "7bdHp6LxSD8Z9d87ZgFRQojpxtNRROP+iiiOz7oocLI=",
+        "xlink-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "xlink-0.0.12-py3-none-any.whl": [
+          "7EPiHdREAY4iwFszUNlQNiUUw3BEM6mgisiEaC7VPAI=",
           "py3"
         ]
       }

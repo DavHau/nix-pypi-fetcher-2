@@ -43621,6 +43621,14 @@
           "py3"
         ]
       }
+    },
+    "1.4.8": {
+      "wheels": {
+        "esupar-1.4.8-py3-none-any.whl": [
+          "0pOjJFZ+G2KnN70XCDDXMNRyc/gNuCYcX3T+tnSkPEw=",
+          "py3"
+        ]
+      }
     }
   },
   "eta": {
@@ -91023,6 +91031,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.2.2.dev6": {
+      "wheels": {
+        "odoo14_addon_maintenance_plan-14.0.1.2.2.dev6-py3-none-any.whl": [
+          "d2nvz6p6oNmV9lZJcjTV089Nx4Ls7In9V885eCaZ7cI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-purchase-discount": {
@@ -91880,6 +91896,14 @@
       "wheels": {
         "odoo9_addon_mgmtsystem_severity-9.0.1.0.0.99.dev12-py2-none-any.whl": [
           "EJfwiIfvnjbGwIFTgRppGgm0qOdnnMSVXjucIuOBudA=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.0.99.dev13": {
+      "wheels": {
+        "odoo9_addon_mgmtsystem_severity-9.0.1.0.0.99.dev13-py2-none-any.whl": [
+          "EnFp6XoTIUWZ/67CpTpPEJQO+Vql0W20i/R8qcbwufY=",
           "py2"
         ]
       }
@@ -108163,6 +108187,18 @@
           "py3"
         ]
       }
+    },
+    "2.8.5": {
+      "sdist": [
+        "jvF6qBa4WD3danTOrBpqkw28H4DwqNDdzcoOh+Ux0Io=",
+        "pyrate_limiter-2.8.5.tar.gz"
+      ],
+      "wheels": {
+        "pyrate_limiter-2.8.5-py3-none-any.whl": [
+          "3FNTn1ccJ7cOu0OQjXroWVgGdV1+h62/XcKfdvYCVSU=",
+          "py3"
+        ]
+      }
     }
   },
   "pyreader": {
@@ -108433,6 +108469,56 @@
         "pySCILTagger-0.0.3-py3-none-any.whl": [
           "aP9YZxnvsmNA3tiGBClCiHCqom0YoIj/1jNUlq9Z3Tg=",
           "py3"
+        ]
+      }
+    }
+  },
+  "pysequoia": {
+    "0.1.0": {
+      "sdist": [
+        "NIHLCbwoqH54+Y9VnPEpPY7x34M1oRO68kAS3Jq7bpA=",
+        "pysequoia-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pysequoia-0.1.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "Njyf/Z+XW/nrdPtgrKKEVbgQ0PnjJ2RNl2Ccx60045o=",
+          "cp310"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "8QaoSmHTwxZcPpCYDZ3h/ENnDyBHlZTMbJqSGNF6Nso=",
+        "pysequoia-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pysequoia-0.1.1-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "o4FjbWGfMEr9eTl5M6zDaCnAilMfZRcV6nbR0wf8taU=",
+          "cp310"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "PN0ehiDywjtpHQBUI+Zfa5gfv1rbK0z6j8jxNEAa1n8=",
+        "pysequoia-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pysequoia-0.1.2-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "EPwLH8do1wxp8GvKfx2AtnYynihtm781d9X/IPpVf+o=",
+          "cp310"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "X8Wmc8qrAMeIKklD/MoxY+3eSQKYUzJpYQBzHFQaHjI=",
+        "pysequoia-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pysequoia-0.1.3-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "a/uyCmjdCVgw7rRN6NoXqhlWKoSHYF+FW/CR40q1gJY=",
+          "cp310"
         ]
       }
     }
@@ -126522,6 +126608,18 @@
       "wheels": {
         "tbp_nightly-2.12.1a20230103-py3-none-any.whl": [
           "Y/heYi3YSFQXixgRn0uOLjNkd7eTlq5KGBFObMgNWHI=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.1a20230104": {
+      "sdist": [
+        "dOKiqfkRVktQZf/WH28GqdMf7C9M+2XS/0b0BXeIp0E=",
+        "tbp-nightly-2.12.1a20230104.tar.gz"
+      ],
+      "wheels": {
+        "tbp_nightly-2.12.1a20230104-py3-none-any.whl": [
+          "EBUgIjhWCWo4pqUBy2zWWUymBFz6SgB2shVnGAznv/o=",
           "py3"
         ]
       }
