@@ -4683,6 +4683,36 @@
         "1QjkzXmors5oc3guQS9E/ABMUkqORlEGKX2TSxyV7tg=",
         "async_amqp-0.5.0.tar.gz"
       ]
+    },
+    "0.5.1": {
+      "sdist": [
+        "S9fF63QlgpnINtkcXQyf8EfF4QqqGZuKG6qfe63HV/8=",
+        "async_amqp-0.5.1.tar.gz"
+      ]
+    },
+    "0.5.2": {
+      "sdist": [
+        "ICmwPF0D/nEk16Icrf+scVzTteGzIn0TMSbVfmKMgw8=",
+        "async_amqp-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "async_amqp-0.5.2-py3-none-any.whl": [
+          "7AXh+Bw3LJoVoouhQSTE/k/zvQcoY1SE3IVgCN4pJfE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "sdist": [
+        "gg98vh0uHuqRBYyI89yj/l5PXUw5n4LjOlcaLn3jLYA=",
+        "async_amqp-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "async_amqp-0.5.3-py3-none-any.whl": [
+          "7nMZr4HySA1+Z+Avve+azqzPodeJtUQcbjYvlHrS/sY=",
+          "py3"
+        ]
+      }
     }
   },
   "asyncpixel": {
@@ -18542,6 +18572,18 @@
     }
   },
   "botocore-a-la-carte-fms": {
+    "1.29.42": {
+      "sdist": [
+        "pRFemAamxw29GK/84tRWI2LHcrfwa7oaSBotW4/XkPk=",
+        "botocore-a-la-carte-fms-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fms-1.29.42-py3-none-any.whl": [
+          "XB0R2nU+0OVp4ltDeu3POwjphTfsmouhTOUkMe8JaHc=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "54tJtGJiTQpFhqX8F97wUGCmvgfKDDK9S2U9ZGUvPmg=",
@@ -18556,6 +18598,18 @@
     }
   },
   "botocore-a-la-carte-rds-data": {
+    "1.29.42": {
+      "sdist": [
+        "2vBNV59H/Vku9KBF91QLYTCjQl5T+dBELho+aNa2it0=",
+        "botocore-a-la-carte-rds-data-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rds_data-1.29.42-py3-none-any.whl": [
+          "VfPkQCl+H7ssAaF3THdocmk/3rtJ7Jw2ySvDUD6xB2A=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "N/YB5JOoRIH2YzWz7bVjS1rRuCQSmplfyKXCpczrjg8=",
@@ -18570,6 +18624,18 @@
     }
   },
   "botocore-a-la-carte-rum": {
+    "1.29.42": {
+      "sdist": [
+        "kbBzf/Xr8adK36ADtQCin3de+bvEiCjIhGkbya/Ne1Q=",
+        "botocore-a-la-carte-rum-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rum-1.29.42-py3-none-any.whl": [
+          "WLwJ5imyVeZSsnWsqCP+ds53g3Xm5iP9HPbtlSdHb/Q=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "iuG9RQEJvzIHjwpUZyzOuNmN7gv7z1KzvFa7cVW4FW0=",
@@ -26026,6 +26092,12 @@
         "core_main_registry_app-1.21.0.tar.gz"
       ]
     },
+    "1.21.1": {
+      "sdist": [
+        "gj4DMAV4DmX5JDDmgaAkQB2gtLpQELGcBz6kh81tYBc=",
+        "core_main_registry_app-1.21.1.tar.gz"
+      ]
+    },
     "1.3.0": {
       "sdist": [
         "V+ALm3xuXQexTe5RFoiZqwqK2gJriHDJ/rnzIxRbdDs=",
@@ -27546,6 +27618,18 @@
       "wheels": {
         "cupy_knn-0.2.4-py3-none-any.whl": [
           "L5ylq8TBzshjNuP86sXIoLrxAUxbDBGL7Dc/69LINSs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "+c2uRvFo4X1Bgarzc3alHEWl3HRxhEajWU4chV/vlco=",
+        "cupy-knn-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "cupy_knn-0.2.5-py3-none-any.whl": [
+          "F5tRN1XE/yg6/0n4ywYqgmaLUAInBd5csM8J0mgH6Lo=",
           "py3"
         ]
       }
@@ -70570,6 +70654,18 @@
       "wheels": {
         "lkcom-0.2.4-py3-none-any.whl": [
           "+OrGXQrA2i1pOHyM/1feKzlL6/3dGcAEtiEQ9Denl+Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "kEkGxmqKR990ZFESpBuVCMSPJ6KfGkaVTa2uldybYrE=",
+        "lkcom-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "lkcom-0.3.0-py3-none-any.whl": [
+          "SATonrKJmnmbIpdwXa20lsSNiRemZoeJvoxrhEQ0Q8Q=",
           "py3"
         ]
       }

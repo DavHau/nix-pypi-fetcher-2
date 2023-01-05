@@ -14405,6 +14405,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230105": {
+      "wheels": {
+        "bigdl-2.2.0b20230105-py3-none-macosx_10_11_x86_64.whl": [
+          "lRqFvY2B+PzmZtj30nYyiCunPLA7OkzFZSRsHCMuaXw=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20230105-py3-none-manylinux1_x86_64.whl": [
+          "P2nL15NWZP1qPCjdI7d2cxMo0Iz7H+pZ2DWl8GThJQI=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -15874,6 +15886,18 @@
     }
   },
   "botocore-a-la-carte-securityhub": {
+    "1.29.42": {
+      "sdist": [
+        "2Ot+rMJHyo4D44MRyLCecq0FEWjlOYhVVfDiGBjzRTA=",
+        "botocore-a-la-carte-securityhub-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_securityhub-1.29.42-py3-none-any.whl": [
+          "wroFHSgImilZPxf/xNNs7G7jAtc67qlo/GvQFRD3Cbk=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "L+xLLyz9K5jPNyb+PzyZEVFdHCDxYvThWK5vSryEwYY=",
@@ -15888,6 +15912,18 @@
     }
   },
   "botocore-a-la-carte-translate": {
+    "1.29.42": {
+      "sdist": [
+        "j5Lb7PhGHTRZjfIVJggSIHn7njxDuxoj3uHozXtpwe0=",
+        "botocore-a-la-carte-translate-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_translate-1.29.42-py3-none-any.whl": [
+          "K/dGKNFT7h26ZRpi/9Z8B6nmgW7OPZrcA3RG5Iy0iSs=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "SSSboBgj9NpvyCXRwaOdukn6LOLlZynRIY3GQ3cty8g=",
@@ -46300,6 +46336,14 @@
       "wheels": {
         "huaweicloudsdkmas-3.1.19-py2.py3-none-any.whl": [
           "lbHo8KeZAFgmOsDEgjNj2C70qK1A48lqezmzO5ertrU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkmas-3.1.20-py2.py3-none-any.whl": [
+          "DGw970Mj6aDC6fbRklWRHDZ1gM+mDM1MVTFK+p1KQ64=",
           "py2.py3"
         ]
       }

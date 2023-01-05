@@ -12612,6 +12612,18 @@
     }
   },
   "botocore-a-la-carte-codeartifact": {
+    "1.29.42": {
+      "sdist": [
+        "nKHdsqPQm9aT9FGzdCOrmETK/uXba4RdUFcHFT/RdpQ=",
+        "botocore-a-la-carte-codeartifact-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.42-py3-none-any.whl": [
+          "1kPL54u1Gd0pUW9MjsWHpHIYnDIaGDieThFghFsmtMM=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "za8zdqpQCIwEqAyduOf8ZIQWyxtx6MKHVGAskS5am98=",
@@ -12626,6 +12638,18 @@
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
+    "1.29.42": {
+      "sdist": [
+        "cHc99NdWwU1AWqWyg+KOkIaEIzDuAnMbAUWx3YAtwyk=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.42-py3-none-any.whl": [
+          "0q7Q1TTSXj8kIUqTT8mSgaimXHlC3B8xv1c+cbbCfCE=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "3alecD/uCLap+QX+s7XemaIOFwbejufdiS/lSp/+mxQ=",
@@ -48823,6 +48847,30 @@
           "py3"
         ]
       }
+    },
+    "6.0.6": {
+      "sdist": [
+        "j4bM5Nrr7NGhtNX1lGitn9u4OKa9svhGd61VeE78a2s=",
+        "edge-tts-6.0.6.tar.gz"
+      ],
+      "wheels": {
+        "edge_tts-6.0.6-py3-none-any.whl": [
+          "D7FGALzMMdvrYDZs2WyrL1A8Yn0zUiYOd8h/rWdaKog=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.7": {
+      "sdist": [
+        "/3B2hV4zsS7Pn00bQUAZWsyYxS2XpUwoRkufVf6htxQ=",
+        "edge-tts-6.0.7.tar.gz"
+      ],
+      "wheels": {
+        "edge_tts-6.0.7-py3-none-any.whl": [
+          "Yoeqpo5mLDbMGChEkq4uZoKOBxbxKQejgGSoe9MalDc=",
+          "py3"
+        ]
+      }
     }
   },
   "ediblepickle": {
@@ -63122,6 +63170,14 @@
         ]
       }
     },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkcbr-3.1.20-py2.py3-none-any.whl": [
+          "aXZinmjelPI57/x1pdyGy2fMHhme9yAK83A0b+ot8bI=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcbr-3.1.3-py2.py3-none-any.whl": [
@@ -63360,6 +63416,14 @@
       "wheels": {
         "huaweicloudsdkvcm-3.1.2-py2.py3-none-any.whl": [
           "2kEPHq0K6YcY/a4KOV/aAK59gd5lNcvARPK03c8x4Tg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkvcm-3.1.20-py2.py3-none-any.whl": [
+          "7srV+C83XMAQxh2U9YFziXRpvxRFJ2KAZaGPPLs6TZQ=",
           "py2.py3"
         ]
       }
@@ -63862,6 +63926,14 @@
         ]
       }
     },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkvpcep-3.1.20-py2.py3-none-any.whl": [
+          "t0l52N2TvDEIaO7bPxxtOmxT+91QrFeu00KBh7c2cKw=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkvpcep-3.1.3-py2.py3-none-any.whl": [
@@ -64024,6 +64096,18 @@
       "wheels": {
         "human_protocol_sdk-1.0.26-py3-none-any.whl": [
           "5KUFJMpGrfcuojMOAOkN6KhmGHHzvFnuw0YGu+KsQkw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "9kT5Ls0HQUUv9Joqhu0OkdMZjR4y6UWRGUu3g9R0uJ0=",
+        "human-protocol-sdk-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "human_protocol_sdk-1.1.0-py3-none-any.whl": [
+          "7YFDZYo+PNNcSmm+AED4U0GD8ehAXy0UKWOUZf5GZ5U=",
           "py3"
         ]
       }
@@ -70492,6 +70576,18 @@
       "wheels": {
         "kpops-0.4.1-py3-none-any.whl": [
           "Rykgpzykf/oowsV5LFJbtD6gJPl/721zOwhTepJABXM=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "Yz+zuVV4cHEuhM2oG68nqvNGqvmUqQrqNOgkxCjudFc=",
+        "kpops-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "kpops-0.5.0-py3-none-any.whl": [
+          "kmzvLoAiwpilDE8R3jDPqp91JeyE1YISUfDJjmx4Dt8=",
           "py3"
         ]
       }
@@ -81189,6 +81285,16 @@
       ]
     }
   },
+  "moonpythonlib": {
+    "0.1.0": {
+      "wheels": {
+        "moonpythonlib-0.1.0-py3-none-any.whl": [
+          "OAZKqwXnCTosxYMa4wikOQgv6fMtWuXjTiiE8YBY3nc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mopidy-rnz": {
     "0.1.0": {
       "sdist": [
@@ -91583,6 +91689,16 @@
       }
     }
   },
+  "odoo12-addon-stock-production-lot-traceability": {
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_stock_production_lot_traceability-12.0.1.0.1-py3-none-any.whl": [
+          "4O5cR4pqtc0lAGlVZM4ION+lCUTX1cmf5CnwrdhZIjI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo12-addon-website-event-require-login": {
     "12.0.1.0.0": {
       "wheels": {
@@ -97178,6 +97294,18 @@
       "wheels": {
         "oslo.messaging-14.0.0-py3-none-any.whl": [
           "Gw/b9Mh+utnhiPi8pTat4Io4H1ed+CKwBBVIsmD30U0=",
+          "py3"
+        ]
+      }
+    },
+    "14.1.0": {
+      "sdist": [
+        "8pR+0HOXZFjcLQd0lDzPbQxNIZyNNvlu4urpeqqHJWU=",
+        "oslo.messaging-14.1.0.tar.gz"
+      ],
+      "wheels": {
+        "oslo.messaging-14.1.0-py3-none-any.whl": [
+          "muPSLflxkKNRJKjyjMDOtk3plXC3MKQdFNEDt+v3jDc=",
           "py3"
         ]
       }

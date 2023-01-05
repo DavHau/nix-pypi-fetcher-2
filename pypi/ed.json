@@ -14508,6 +14508,18 @@
     }
   },
   "botocore-a-la-carte-datapipeline": {
+    "1.29.42": {
+      "sdist": [
+        "r66XLq081AwKsLor0mVefOUHk8aZ82WDF8D4X17a6cc=",
+        "botocore-a-la-carte-datapipeline-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_datapipeline-1.29.42-py3-none-any.whl": [
+          "UkciP9vBOkDu7QzXNpGdptHcRJth1CFB9dEC50V9m6w=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "4oSIT9ctafvSEoWI5O3pQSozkzNh+koMUMpSDKtrAyE=",
@@ -14522,6 +14534,18 @@
     }
   },
   "botocore-a-la-carte-dax": {
+    "1.29.42": {
+      "sdist": [
+        "05UhaYqjj0ABu2YY6mDC4GKg0DCuSiN8pbqEA63guTc=",
+        "botocore-a-la-carte-dax-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dax-1.29.42-py3-none-any.whl": [
+          "35JI80UWR1Rd04Po04Yxg+wgGeqe2JiW6+QdqktjiKA=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "IMon073/7gspqzBzy9br/Idn4h3eSBOc8FFHtfUsWmo=",
@@ -14536,6 +14560,18 @@
     }
   },
   "botocore-a-la-carte-rbin": {
+    "1.29.42": {
+      "sdist": [
+        "jnJnOyPnMDj3vcAvQ3FD0p9Dt+3faJTc9KccqL1QfXA=",
+        "botocore-a-la-carte-rbin-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rbin-1.29.42-py3-none-any.whl": [
+          "CUJ6h9P64GIR7DHL5YR+2n5WOZ9sYS/fEs6nQB65qP4=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "ysuwtVJOiesjPVC+qwXmQuJkf8+D1VRUZGKtJ+UyP9w=",
@@ -27540,6 +27576,18 @@
       "wheels": {
         "confio-0.3.0-py3-none-any.whl": [
           "abuP5jp8/1bG5IaF2to1mAagNPuQ8HD0xIK1oeMQt5U=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "ai5muy7WDAGehVIb5UZ6+W2KAyRZrIZ5fK5Z6tJQu/E=",
+        "confio-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "confio-0.3.2-py3-none-any.whl": [
+          "lfA6txp1xl7xLqGbCPudvoKe9SUWr2vKSYk1QVpLMOU=",
           "py3"
         ]
       }
@@ -50909,6 +50957,18 @@
           "py3"
         ]
       }
+    },
+    "16.0.3": {
+      "sdist": [
+        "m0Gl+azgEeNOkk/8iuMAyjT0rOFfF9Ls9phJrricxEk=",
+        "feedcrawler-16.0.3.tar.gz"
+      ],
+      "wheels": {
+        "feedcrawler-16.0.3-py3-none-any.whl": [
+          "geNasfWeRjt0tHvhAn1LTZTijzqEcvjuEKsZVC7zCEg=",
+          "py3"
+        ]
+      }
     }
   },
   "feirays": {
@@ -56769,6 +56829,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.9.6a4": {
+      "sdist": [
+        "znmAi43lVoDQHlFBbYWFRWeZNHPbYuNWxr5kDn+JQ6Q=",
+        "geoviews-1.9.6a4.tar.gz"
+      ],
+      "wheels": {
+        "geoviews-1.9.6a4-py2.py3-none-any.whl": [
+          "53HLfpJvXqZxA98U6OI1+ACQV8zxP2zE8YSFtEd5FmE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "gerritaction": {
@@ -62254,6 +62326,26 @@
         ],
         "hal9-0.1.17-cp38-abi3-win_amd64.whl": [
           "bghqkVKVJuyJHU8JGHwuejYM1ILst3cY9+i6k/RDevs=",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.18": {
+      "wheels": {
+        "hal9-0.1.18-cp38-abi3-macosx_10_7_x86_64.whl": [
+          "ksLcCADG3y8L7GP25T4F3ui3UMrhhwF9Yw3tP9TkQik=",
+          "cp38"
+        ],
+        "hal9-0.1.18-cp38-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "L/1tPpd2DRLbkSZAOoLcq7PJ+K8LnletaTX2c2m7n+4=",
+          "cp38"
+        ],
+        "hal9-0.1.18-cp38-abi3-win32.whl": [
+          "BI1XouU1wExcdyH2jvAsuCdHtUvuixZd6wfJEgUEL1M=",
+          "cp38"
+        ],
+        "hal9-0.1.18-cp38-abi3-win_amd64.whl": [
+          "pE6yjSCcz8dJnCApk7QuxTkIkRQ1F8t5sBbMmeXB7i0=",
           "cp38"
         ]
       }
@@ -73230,6 +73322,126 @@
       "wheels": {
         "labelpandas-0.0.93-py3-none-any.whl": [
           "KU0JsbFAF2z7dU1gPT1TZMj3LT61o9ER3ihyIMaNPDo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.94": {
+      "sdist": [
+        "/31uLg6UZaiusRxZnFy8PNLiLiW2Kx0FTjjZRV80fVg=",
+        "labelpandas-0.0.94.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.94-py3-none-any.whl": [
+          "oWIEGNP4g/b0c7IuCJRHcDrUwEEPsjD+gd6FBH47JZI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.95": {
+      "sdist": [
+        "h0jlhWuYVZz52D7stGxM+kzrLWa85mcu1xOd1FnJmt0=",
+        "labelpandas-0.0.95.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.95-py3-none-any.whl": [
+          "nNHz5xuQMg5iJ5R7w/kzOyAMrRiCEnqWdNFCSp65B18=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.96": {
+      "sdist": [
+        "xvRGJ2WWYX4uA6syrvsRRA0UKlKlQi8/D7hVSiNObCQ=",
+        "labelpandas-0.0.96.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.96-py3-none-any.whl": [
+          "3tDAyFCBMrrhjB6L1l2ek4/fQj/TX/CKiZEEFbQRN3c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.97": {
+      "sdist": [
+        "5eVuHLUQVOeD0kivt3pjSjxiSQNiNxI5V1jw6lq8Lu0=",
+        "labelpandas-0.0.97.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.97-py3-none-any.whl": [
+          "9VQGd8gEGMSJZMJRqVGpTzHX4RcCoWWMHOA8fhVPpnw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.98": {
+      "sdist": [
+        "3CK0Zo4F64qeI8LMkyT8LHfLGZB2KHP3vtfnnBuEnf8=",
+        "labelpandas-0.0.98.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.98-py3-none-any.whl": [
+          "KR0izZwemCL1M0UhPbipQOCYD+snreXVMvh+gQvh618=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.99": {
+      "sdist": [
+        "Uuw4CqAJE2Dbw4eZXXt41IsP2YQkPhLvZCT9uI58zLs=",
+        "labelpandas-0.0.99.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.0.99-py3-none-any.whl": [
+          "cfwllU9QfRcom9t7ZSQNfjRizGDHBJXzlVHMdVUNk0s=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "M+jcreRcy+37nB7gSKZ8Nt0PdOm68ViviSGMtDLNQ58=",
+        "labelpandas-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.1.0-py3-none-any.whl": [
+          "BkXHEI0tVk9iygB96r1GZMKSKUPJYm/3xmWp+jryYa8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "H+0CHKbuReTBU+6J4maljxId2bZptKU5uvMLASncbzA=",
+        "labelpandas-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.1.1-py3-none-any.whl": [
+          "uJF0jMACMWgJMyEJky7LCVqYDIyDfg5vM9oftPEyU7Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "jpeTyXeXzBNrVHiQYIOAZLtK0Tjgf/TuSrZkwAq43Yg=",
+        "labelpandas-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.1.11-py3-none-any.whl": [
+          "C0fhZXGXc3X2/vaWga0v7HefSvo3KCD0cJ3PkOgNrak=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "fpOudvfgb1zG34HSXTyOFjlrBfjhaEKmKnSHHDeTpqQ=",
+        "labelpandas-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "labelpandas-0.1.12-py3-none-any.whl": [
+          "uZVkrz71ZzzozRHCnH8i9CvWLgTuzWJAqA+30mJNDDc=",
           "py3"
         ]
       }

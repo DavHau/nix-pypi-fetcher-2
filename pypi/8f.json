@@ -20144,6 +20144,18 @@
     }
   },
   "botocore-a-la-carte-dms": {
+    "1.29.42": {
+      "sdist": [
+        "/Hy/5+wp1gYx72WGTK2J9ZX1PvHHoz8xW1MPGoNgFGc=",
+        "botocore-a-la-carte-dms-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dms-1.29.42-py3-none-any.whl": [
+          "x2XJJeJhE/GgCTulrhSHB+Oi2oo4RLjhn4vymVEHS2Y=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "RvhlSJIO4qVqtED6ElO/lXWwIzCAgvrS1m6IhSnQWYA=",
@@ -20158,6 +20170,18 @@
     }
   },
   "botocore-a-la-carte-efs": {
+    "1.29.42": {
+      "sdist": [
+        "H5LZejGooPava87pklWz9hdm/xsAK6IQ6yh40G/xwjQ=",
+        "botocore-a-la-carte-efs-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_efs-1.29.42-py3-none-any.whl": [
+          "Zfyrrz9QiLZ1gX04an59VvCoutx6KjxWjVXACFEvRSo=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "7TyEQaaPLd7BOAOPJz9wAphRn8KAbNnVmiCnRTRNqYg=",
@@ -42119,6 +42143,18 @@
         "lvCgWtDKpuwNcB167xAOX8KYE0rOeBbIALLccpSVg7c=",
         "escape-unk-1.0.1.tar.gz"
       ]
+    },
+    "1.1": {
+      "sdist": [
+        "Oq7sNskpkfrtwWbi0QvBtmXjtH/rcPMevGuy2GwpOaI=",
+        "escape-unk-1.1.tar.gz"
+      ],
+      "wheels": {
+        "escape_unk-1.1-py3-none-any.whl": [
+          "KUQnIhriHa9cVnuvbQfKeN2LPAwnhrvnyCVFR9PGYyQ=",
+          "py3"
+        ]
+      }
     }
   },
   "esper-wave": {
@@ -56864,6 +56900,14 @@
         ]
       }
     },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkecs-3.1.20-py2.py3-none-any.whl": [
+          "kwVpOeUToOneMH+Cx1WgpjZFWZxPp0iawxM0AKzPaFE=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkecs-3.1.3-py2.py3-none-any.whl": [
@@ -57302,6 +57346,14 @@
       "wheels": {
         "huaweicloudsdkief-3.1.2-py2.py3-none-any.whl": [
           "ij/YqphHaT7F4yuxynHDng3w8vxj4BZEeJvhE3I84Rg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkief-3.1.20-py2.py3-none-any.whl": [
+          "TI2xkfoS2MJLxNpg5h0hs39YJMnqSf55QDEfbO8h78U=",
           "py2.py3"
         ]
       }
@@ -78079,6 +78131,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.2.1.dev2": {
+      "wheels": {
+        "odoo14_addon_stock_picking_invoice_link-14.0.1.2.1.dev2-py3-none-any.whl": [
+          "S2BRXaFifGRRbBVUtuza9jrfYt87WKceMluHGRP+ewc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-website-snippet-country-dropdown": {
@@ -88300,6 +88360,18 @@
         ]
       }
     },
+    "0.15.12": {
+      "sdist": [
+        "EtfNWyoEP1XNCgeR+Id2otXgljx418fdowGFTXsTmmY=",
+        "polars_lts_cpu-0.15.12.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.15.12-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rDffSWwpI05vp1l9ZQekQO10icgT4DSa7iL2rVwJY5k=",
+          "cp37"
+        ]
+      }
+    },
     "0.15.2": {
       "sdist": [
         "g1dAp6L+CCoicS4tBwWw+ndnKZ3Zznf4jSkaU67f2b8=",
@@ -96798,6 +96870,12 @@
       "sdist": [
         "MmF22YUURD0AYKM+RjYPPUemeWO2sUIQa2zr7F8kM7A=",
         "pysalesforce-0.0.13.tar.gz"
+      ]
+    },
+    "0.0.14": {
+      "sdist": [
+        "+3aaAncGMikLwNdyBA/zo5O23ZCXf4pKmLydyRNWa2o=",
+        "pysalesforce-0.0.14.tar.gz"
       ]
     },
     "0.0.2": {
@@ -136520,6 +136598,54 @@
       "wheels": {
         "weather_collector-0.1.3-py3-none-any.whl": [
           "hL0hLNbjMyT9//rMMJoDi0OtVU+/bsZ5IdpeNCnkldc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "N/XeKgprJHmDscha2zQB0ZY6RgEMsm2rlIq8s7yDmU0=",
+        "weather_collector-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.1.4-py3-none-any.whl": [
+          "ShrPY1lGzzJiMDbqfW/dtHWazbIK9xHu4uHCvQ9UDlk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "mPFnctFlTfZgnOoHAp5bVSSNonA0e52BFaHJtJylN08=",
+        "weather_collector-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.1.5-py3-none-any.whl": [
+          "lkjrVUD+z32nRk1SNjOc1qMPvxfSKXA1U8smaQMZx0c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "jJYtPJzWuHJ1EzCrbhlU8tQyuX/9UrJGEAUnn1J9awg=",
+        "weather_collector-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.1.6-py3-none-any.whl": [
+          "wXZuQH0AJXxOCjLjbX81gg6SMVg3mtBCH1th66GJafM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "fOwMQJFyutR1C9IHpvpHFdGzcZjnVTvF1J4JSVapWwA=",
+        "weather_collector-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.1.7-py3-none-any.whl": [
+          "ct3pT3ltoeUJyYzhZh3wEyDl3TPh3A5U5NZGSyPgKiU=",
           "py3"
         ]
       }

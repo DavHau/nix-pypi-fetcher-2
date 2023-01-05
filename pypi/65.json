@@ -71379,6 +71379,18 @@
           "py3"
         ]
       }
+    },
+    "1.1": {
+      "sdist": [
+        "Kxwces+uJcFwC8BwDxOdqEYyXoQGPf3liPzPK+9eH3Q=",
+        "josh22pdf-1.1.tar.gz"
+      ],
+      "wheels": {
+        "josh22pdf-1.1-py3-none-any.whl": [
+          "hZrlfReFrzg8ow7dGTBE5UCCSdZiyMcFA+6ys8qBVYs=",
+          "py3"
+        ]
+      }
     }
   },
   "jrfork-kegberry": {
@@ -81693,6 +81705,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "minio-handler": {
+    "0.0.1": {
+      "sdist": [
+        "GQLiOoj10USSo9ZWeicR8IHPmH/WU6V33djWRY02PK8=",
+        "minio_handler-0.0.1.tar.gz"
+      ]
     }
   },
   "minionize": {
@@ -122189,6 +122209,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "cOJiEwxx6LT9EsDjuTAwycGflJ4rHDvWMCXEPQPG7wA=",
+        "qpd-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "qpd-0.4.0-py3-none-any.whl": [
+          "2jbHW7d15oA+zdxSD5T6Yllpg9qdKINp5yCB6qkqVZk=",
+          "py3"
+        ]
+      }
     }
   },
   "qqdapi": {
@@ -143958,6 +143990,22 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20230104-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "XorNyJ+d24mozmbW1GXrAyfQET7HOLU8qMGBTUrpO98=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230105": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20230105-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WkIOcoV8e0wjbhWI7qkOf+Bu8PrCDjufU9Od+VcEYwc=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20230105-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4pSg+cCgfDIz3K6UM4V6UfnCoLewLQAU1flUL4OH73w=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20230105-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GES9YEXx6Vei2OdzjSh8lZ5+/eMc1UN+soWJJ7CnX3E=",
           "cp39"
         ]
       }

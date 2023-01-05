@@ -10324,10 +10324,10 @@
     }
   },
   "automate-machinelearning": {
-    "0.0.3": {
+    "0.0.5": {
       "wheels": {
-        "automate_machinelearning-0.0.3-py3-none-any.whl": [
-          "V52OCOD0yCEYVdMT8TiEcd/OiS4eDg0c1IdD3aswL2E=",
+        "automate_machinelearning-0.0.5-py3-none-any.whl": [
+          "TGUUM8IIArPTP1jX9UPDr5l4yiaQHuIdxdFlS1p0n6k=",
           "py3"
         ]
       }
@@ -16707,9 +16707,27 @@
         "mIOI/CqSlU/HR1f1LBPzzzW9aKSiijMnbo4/UbRXwPM=",
         "botcity-files-plugin-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "lTXO1b/Z15mQklIDocxyshZ2dqdBJC5yvi6YEmmsqxY=",
+        "botcity-files-plugin-0.1.2.tar.gz"
+      ]
     }
   },
   "botocore-a-la-carte-s3": {
+    "1.29.42": {
+      "sdist": [
+        "3eguSfkqM0ZQ7r8O9zAK7BVzUwPMFo2lONhi0dOC2eI=",
+        "botocore-a-la-carte-s3-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_s3-1.29.42-py3-none-any.whl": [
+          "AM5kh6/EIFhXLptsZ2ur4iJCYaDv7mbWC2cBvbkFMVM=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "2nB+k2OPvMMz4arsHulUmwsTAbzeirAi18jxgnhvOw8=",
@@ -27316,6 +27334,18 @@
       "wheels": {
         "crazy_thursday-2023.1.5.0-py3-none-any.whl": [
           "zrpgydsQvdGRv/hBnYZcOw2AIZe4V8dCJ2dhlBDPMw8=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.5.1": {
+      "sdist": [
+        "em/VyJcq7mdQMD3eaB+K42lDKNt1Rw2+Dbjpiy4OZWI=",
+        "crazy-thursday-2023.1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.1.5.1-py3-none-any.whl": [
+          "wCnrrwR+nzxMMBvtJlyUYCTT16a+lV2+qiVOP++9IJI=",
           "py3"
         ]
       }
@@ -61983,6 +62013,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "Yf0q+c/k86kY/ue1uDsAQoKpPsFpq4OWouVuCMjE0oA=",
+        "isolate-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "isolate-0.8.0-py3-none-any.whl": [
+          "TND9LRG+UT37kshAfOijX4kccwtZ6R1KDLSZl4OtMo0=",
+          "py3"
+        ]
+      }
     }
   },
   "ispip": {
@@ -62080,6 +62122,20 @@
       "wheels": {
         "iva2k_how_long-0.1.4-py3-none-any.whl": [
           "c5RoGxc+5j8bdEKI6kESoPCCFZfa21lWcIHYbA5e3DU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ivulka": {
+    "1.0.3": {
+      "sdist": [
+        "fL1RpiBAPbbcSe+FiRaQ/c0dpe0wYaFwPGe3oUv1FD8=",
+        "ivulka-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "ivulka-1.0.3-py3-none-any.whl": [
+          "q8egirjcZ6ACteUUazuajpGCo8kVf/W2I3HDqdyjEfE=",
           "py3"
         ]
       }
@@ -65873,6 +65929,46 @@
         "k2-1.23.2-py39-none-any.whl": [
           "f3XxmcwYbLPQfAtkbegHBrTWUCwAxzRb8XraqMp0vgk=",
           "py39"
+        ]
+      }
+    },
+    "1.23.3": {
+      "wheels": {
+        "k2-1.23.3-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "9rcEQnTm7JuwVpCQUNvAC/ViCjNIE8wMoK4SGZTRMVA=",
+          "cp310"
+        ],
+        "k2-1.23.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "PoRMh1OO9AjpjBrXdu4brTknLNlsw2LLAjLvHSNIsXM=",
+          "cp37"
+        ],
+        "k2-1.23.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "kFn7A6v8wsw6UCK/+K8bX9j855TsK8bZqTpfeEpyg0M=",
+          "cp38"
+        ],
+        "k2-1.23.3-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "ePLTQHl3H7GpzgJJ0Ndn5EK3KDAKL4oO7fzOLvn+u5U=",
+          "cp39"
+        ],
+        "k2-1.23.3-py3.10-none-any.whl": [
+          "7wdnOy0epBCSXuXQA96jwSJCwzNS5azTu9jMjvbJ9Ls=",
+          "py3.10"
+        ],
+        "k2-1.23.3-py3.11-none-any.whl": [
+          "4/WcyOCnnLGtVvTlGqI5he06COZx64VbDwCRUZ79RWg=",
+          "py3.11"
+        ],
+        "k2-1.23.3-py3.7-none-any.whl": [
+          "A7ZbjMCP36NBpsfx3gl45khHWhZeJJB/VJ8Ktx0MsXA=",
+          "py3.7"
+        ],
+        "k2-1.23.3-py3.8-none-any.whl": [
+          "Re/tMcI2Of1KBvYCdJQihxIyA2ZI+PXJXBmRRnYQ4vE=",
+          "py3.8"
+        ],
+        "k2-1.23.3-py3.9-none-any.whl": [
+          "uba+XDWA1TlPJZe1zZl1/0rt1pjO+IyMkf2hLPGRFG8=",
+          "py3.9"
         ]
       }
     },
@@ -88855,6 +88951,18 @@
           "py3"
         ]
       }
+    },
+    "23.1.5": {
+      "sdist": [
+        "9aRDo767OBacs+K+dJC6e2k6UgglFFjQlP59Z3+n/UU=",
+        "nonebot_plugin_apex_api_query-23.1.5.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_apex_api_query-23.1.5-py3-none-any.whl": [
+          "kFsupoLT9mtDoh9ULrLKA6UruaQQKHqlAqzcL+c+CrA=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-msgqq": {
@@ -90150,6 +90258,14 @@
       "wheels": {
         "odoo_addon_hr_attendance_geolocation-15.0.1.0.1-py3-none-any.whl": [
           "B3SjbJlfdBH0fj32gxrHk6Puwou1e6TylAlhVJMAT1Q=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.2": {
+      "wheels": {
+        "odoo_addon_hr_attendance_geolocation-15.0.1.0.2-py3-none-any.whl": [
+          "L2eBTKptAbxC4VBzrPopNWlEcE/qMZczhfnRz3FRh5I=",
           "py3"
         ]
       }
@@ -105520,6 +105636,30 @@
       "wheels": {
         "proactive_jupyter_kernel-13.1.0.2301050242.dev0-py3-none-any.whl": [
           "zMO5dXYWIKdch5UxfspHVcCEU8j06cFXa576wKtJyvk=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2301050901.dev0": {
+      "sdist": [
+        "4acvK/q1oqaO4Hv42JCUh2SnamLmtltwAGo9E8848Y4=",
+        "proactive-jupyter-kernel-13.1.0.2301050901.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2301050901.dev0-py3-none-any.whl": [
+          "xtoRiTikQQpoUGJhWQxsDMXUvjqo88QtSYTbmNC6lIw=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2301051350.dev0": {
+      "sdist": [
+        "AcNldfBSLgZNkmDgszOO05MnL/aK6WR2eG/ZtGhWhHU=",
+        "proactive-jupyter-kernel-13.1.0.2301051350.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2301051350.dev0-py3-none-any.whl": [
+          "zB0MMPdyjs8YH7vUBzeE87IAFfWQWOfRVINuWQnQK8A=",
           "py3"
         ]
       }
@@ -146701,6 +146841,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "LbE6Jl3cHYISI26vvIcwJLMEeeXtK7ucFm1vK32F7hg=",
+        "uecho-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "uecho-1.0.2-py3-none-any.whl": [
+          "PwB0Pn7vIq1f/vGYKCkv9VTxch+DP5AMCVktQg6mMnI=",
+          "py3"
+        ]
+      }
     }
   },
   "uk-charts-api": {
@@ -150417,6 +150569,20 @@
         "3fU8xdRmLPO4TEKpPszUz7hBl9JTo9P3etkDxC54mfk=",
         "yandexwebmaster-0.0.2.tar.gz"
       ]
+    }
+  },
+  "yayapi": {
+    "1.0.6": {
+      "sdist": [
+        "DaVXu6nfJNckcTwESoR0v/kiXeeiNJgvAvYiQdyTEbk=",
+        "YayAPI-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "YayAPI-1.0.6-py3-none-any.whl": [
+          "FaKhvFLOn0WsTwvEBpNWR4RxA7j9+2f3Q/hzhIX2MeE=",
+          "py3"
+        ]
+      }
     }
   },
   "yfinance-cache": {

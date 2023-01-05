@@ -6048,6 +6048,18 @@
         ]
       }
     },
+    "4.2.1": {
+      "sdist": [
+        "Bh3pTvLVTgNVG3jfxI+opws8wIvp539T7oDliCHndDU=",
+        "apache-airflow-providers-presto-4.2.1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_presto-4.2.1-py3-none-any.whl": [
+          "OlitCDzWjIEtz3Ca/18aHMBkKggr9I8QhyqRS3XDCLc=",
+          "py3"
+        ]
+      }
+    },
     "4.2.1rc1": {
       "sdist": [
         "zP0iOpGNhA2inz4+FRJdDIp0z7Ji6bxgDU2oD9OP7IE=",
@@ -15024,6 +15036,18 @@
     }
   },
   "botocore-a-la-carte-forecastquery": {
+    "1.29.42": {
+      "sdist": [
+        "oBZJKwjisff3/1fY/Iw37zM4YU2cq3pChf7h6cjVxHE=",
+        "botocore-a-la-carte-forecastquery-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecastquery-1.29.42-py3-none-any.whl": [
+          "8fCWW/V3ecnHLcm0jcC24RVVzqyeqdDPEinY0UdGJTQ=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "i5/VNc9iD4qDHvyG4BJKty4IZhPyUIVo4zDhJD8cfR0=",
@@ -33162,6 +33186,18 @@
         ]
       }
     },
+    "0.1.12": {
+      "sdist": [
+        "EZJRRWZD8j2glA+QjdK6YQHLsoPbfGgHP1qa+g3m0QI=",
+        "django-user-notifications-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "django_user_notifications-0.1.12-py3-none-any.whl": [
+          "sYZHWaSBMLgY961svnrTkJeWufJaPPJyFlNh4iXWbfs=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "mo8cjt6nkFTBAXkuYS5MR5DDpfi2eXGd1EzrUvAFPw8=",
@@ -35972,6 +36008,18 @@
       "wheels": {
         "drb_topic_sentinel5-1.1.0-py3-none-any.whl": [
           "+KrBz+h0MO7hzHWInlkxnDw+BANXirM2hKbcpIyoLP0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "f2tSqBKU0rV1Y2z9yw+qJCdfIaTTgEn3c7Age8QOOBg=",
+        "drb-topic-sentinel5-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "drb_topic_sentinel5-1.1.1-py3-none-any.whl": [
+          "o4ARZfLTE8UZlp5S7X3v7ZP9966nnK+tDmYgyEixRxY=",
           "py3"
         ]
       }
@@ -57482,6 +57530,62 @@
         ],
         "iterative_ensemble_smoother-0.0.4-cp39-cp39-win_amd64.whl": [
           "j9TE6pwwYdaq0tG+7a7yxE8z+l94ErAJ2JFZNibmtqc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "2TDt6ElyyYYYsJucQsvvNiUwQLYVVUaBxcurma8LY+I=",
+        "iterative_ensemble_smoother-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "iterative_ensemble_smoother-0.0.5-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "A7MvNaNff+wG4BfhJQDAcQAxMveSsteF/O3IyNk91+Y=",
+          "cp310"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jyxk6J3o+bgRNmMf29tLREeyZzvDNygktiEFDKfPoqE=",
+          "cp310"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp310-cp310-win_amd64.whl": [
+          "leoWTL5wPYPEn+bjH+VBPJbRUyx5s+Dmhl2Ht74W8vQ=",
+          "cp310"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "W6M/zEYk6UqgQgtQ0DWQIdps7qJ0zKuJ785ELewzNKc=",
+          "cp311"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lKsE6iVSmhxNXx3icFtB7EL4BG3BQpVMJUJT/EZLT6o=",
+          "cp311"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp311-cp311-win_amd64.whl": [
+          "0eCc28vX7DbloBBRzx2X7Wsw8VYiU9FVE6D3OQB8b8k=",
+          "cp311"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "e5csHeBZhBJFiOYfNn8421CwW8TSXiW9voVOFozBNiw=",
+          "cp38"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4ugbst4y8Pi0VCWUD8qqXK8iwGStYuJJ9Jjrhu/GN/M=",
+          "cp38"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp38-cp38-win_amd64.whl": [
+          "7g7OJjZMK8iU+t9N/WeF52Vn1uFPSjX46CyBzEVOEzY=",
+          "cp38"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "vVmy4V1ZW3VAXb1BCz9JmfPhusBUYVbnklxNtPzj6co=",
+          "cp39"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CoBHY1o+Pf5MCd1HAJtw9kWgvLSdI5uBpTWEwTCYv+4=",
+          "cp39"
+        ],
+        "iterative_ensemble_smoother-0.0.5-cp39-cp39-win_amd64.whl": [
+          "nOqG1ytNV8XGNbkNXkmSvgW5wNSYz67IR+fAhdjRv9U=",
           "cp39"
         ]
       }
@@ -79916,6 +80020,18 @@
       "wheels": {
         "nonebot_plugin_ayaka-1.0.1b1-py3-none-any.whl": [
           "tUAcPG6he1MLvhK6VDkKxUvrI6gGHZJxG0cvhVQQNYQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1b2": {
+      "sdist": [
+        "v3W57LK84K74Fu9Kmv9xlY4cRRHN91bNbIm80evW69M=",
+        "nonebot_plugin_ayaka-1.0.1b2.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_ayaka-1.0.1b2-py3-none-any.whl": [
+          "cdQpv9XenarBST71yM6TPNqkE0dcKa4XCvzlMO527N8=",
           "py3"
         ]
       }
@@ -133642,6 +133758,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20230104-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "OP39uOke5sRQkAXsDuQZUTg4ltyLQZIp0ydA0D8IOJ4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230105": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20230105-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7eBOa0fTLGVw4Fbz1GUg2VXahhDqxnE4l2hh/NP8hqA=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230105-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0nT3QMR06uRzHtZtTh+aj1d60iS67j3OYuMYOT1dzNs=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230105-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1CIPk6XLASz3aO6XA0t0s5eerp/1kKR+3uVUNnf3M98=",
           "cp39"
         ]
       }

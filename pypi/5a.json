@@ -10669,6 +10669,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230105": {
+      "sdist": [
+        "kJT5IVdNCw4C+4Db8LGAD0ZF3HNRivCpXPZ9eZob7zk=",
+        "bigdl-dllib-spark3-2.2.0b20230105.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20230105-py3-none-macosx_10_11_x86_64.whl": [
+          "o2JFSvUeeZpEgQoibTxLg82Atv0QMwNts8Pi+EnjDw0=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20230105-py3-none-manylinux1_x86_64.whl": [
+          "RTJc6WssOdtszDzR5cOg6BGV+cVO3CrHI8HaFUl3CsA=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -12368,6 +12384,18 @@
     }
   },
   "botocore-a-la-carte-ssm-incidents": {
+    "1.29.42": {
+      "sdist": [
+        "kW/hS3856jbqN396k/eYwnnmDbI6iZ9wkd0eQCopkYs=",
+        "botocore-a-la-carte-ssm-incidents-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm_incidents-1.29.42-py3-none-any.whl": [
+          "Me6tNaeWlF+Q3hkl0QLma7hs9g0TcFY15g5y/sm6oX8=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "2+dW5FEOUkNApiiOOYc15DseGcaT+lGdFrhQiN7Zz8M=",
@@ -12382,6 +12410,18 @@
     }
   },
   "botocore-a-la-carte-voice-id": {
+    "1.29.42": {
+      "sdist": [
+        "Fq3RnhWCHZVB8DdtGeMxqPLKumvJD0OvM9ddhKXzZkk=",
+        "botocore-a-la-carte-voice-id-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_voice_id-1.29.42-py3-none-any.whl": [
+          "X2FiyelPiWkPQRIvOvGz+ilcjBbPqijqOBFwpxknUo0=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "yKTL1vAOTV1RdUd9VhvBest30NcyaN3GtjkggnSiN+U=",
@@ -23459,6 +23499,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "ngJTVw8wjWwP2PCjOI3LC2epoNEDkZiOBX/smPSGnCQ=",
+        "devolo_plc_api-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "devolo_plc_api-1.0.0-py3-none-any.whl": [
+          "Uk22e8nE3oAKQz9LIkd/jxEuO7jZP0sdiJbSsfjyPm4=",
+          "py3"
+        ]
+      }
     }
   },
   "diagram-autobuild": {
@@ -32632,6 +32684,18 @@
       "wheels": {
         "edgetest_conda-2021.12.1-py3-none-any.whl": [
           "VTe/sVP7rZB1ujLsFRdxZXG4ZjahZ93XlLxp0WPqp5Y=",
+          "py3"
+        ]
+      }
+    },
+    "2022.12.0": {
+      "sdist": [
+        "MHNg0idvT/nC4w9zXouA9A73aR+0LIAV6XkK9xaiSns=",
+        "edgetest-conda-2022.12.0.tar.gz"
+      ],
+      "wheels": {
+        "edgetest_conda-2022.12.0-py3-none-any.whl": [
+          "KFXBQaqXwe95aG8upqZ9cGvPiP3QqXOanZXy6CgA8nI=",
           "py3"
         ]
       }
@@ -50764,6 +50828,14 @@
         ]
       }
     },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkcloudide-3.1.20-py2.py3-none-any.whl": [
+          "OPTKtwJawFgLx5cXbYJCX1JYR/cYP1bLkg7aKQ0z/+c=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcloudide-3.1.3-py2.py3-none-any.whl": [
@@ -51378,6 +51450,14 @@
       "wheels": {
         "huaweicloudsdkddm-3.1.2-py2.py3-none-any.whl": [
           "gQ4o/IsOGmzR2MyxCMOYQVVz26HY+5hjIXsKEi+w3p8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkddm-3.1.20-py2.py3-none-any.whl": [
+          "ZNqm1dBNz0uqm77eQH75/6x70adEoAjPUdGTtq30gK4=",
           "py2.py3"
         ]
       }
@@ -128357,6 +128437,30 @@
           "py2.py3"
         ]
       }
+    },
+    "1.4.7": {
+      "sdist": [
+        "6LOIA2GtPGDRQFQ5fRLQ2WDJlPXvx7wFLV1sFUTn2C8=",
+        "schedula-core-1.4.7.tar.gz"
+      ],
+      "wheels": {
+        "schedula_core-1.4.7-py2.py3-none-any.whl": [
+          "IN0QL6TtSyixvn9ZoAyc8kfKJNDo8Ynfb3SFIR+3ZGs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.8": {
+      "sdist": [
+        "rEzRbRG4wLjFOIkryn19SJYc/NPz5ODu875Bju/TbM4=",
+        "schedula-core-1.4.8.tar.gz"
+      ],
+      "wheels": {
+        "schedula_core-1.4.8-py2.py3-none-any.whl": [
+          "oWQSzGxqnjmTR3kkze9QZZ1OEtyur7e23PJtUf7aMrE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "schema-learn": {
@@ -129522,6 +129626,18 @@
       "wheels": {
         "sde_simulator-0.1.6-py3-none-any.whl": [
           "2WdfEf2WE1otxqZ8GqVu2uYogWbx+B+nIzNEacTZQ+A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "okXR8eN2cy4aP3TtVpB7bWIddjVp+cvVEqB/4HLv+w4=",
+        "sde_simulator-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "sde_simulator-0.1.7-py3-none-any.whl": [
+          "IWMrp/lh/UmJ1MnzDRGSN56ZaTDlmyaT06X1bn3FapE=",
           "py3"
         ]
       }
@@ -135242,6 +135358,18 @@
       "wheels": {
         "spectrochempy-0.4.8-py3-none-any.whl": [
           "XYRU7pYL+C5rX7GnC+PelK2XJmFL3FI+xsUjhCr1GDw=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.9": {
+      "sdist": [
+        "juhoOucPkmP86Xnq8piU1bTk46trXdvgVwroe2npAXk=",
+        "spectrochempy-0.4.9.tar.gz"
+      ],
+      "wheels": {
+        "spectrochempy-0.4.9-py3-none-any.whl": [
+          "ltUKE8w6REKe4UuHw9OnNLXXa61bWaRRDyHMPnWsv7Q=",
           "py3"
         ]
       }
@@ -145616,6 +145744,18 @@
         ]
       }
     },
+    "0.0.2": {
+      "sdist": [
+        "ijwTJl5tPFCJ8QPnK4dINuEOis4kGnscwx4Ka8QPDAo=",
+        "torch-nets-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "torch_nets-0.0.2-py3-none-any.whl": [
+          "GEMnPiY7L7WdwzBYzFsTX/npP9IA83vGv68y84eFH+g=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2rc0": {
       "sdist": [
         "ksE2NRcCi/a7PYkQkqWVsATxYZTs2P6+vZLPFdbw6fc=",
@@ -145624,6 +145764,18 @@
       "wheels": {
         "torch_nets-0.0.2rc0-py3-none-any.whl": [
           "0e5HhUjC1fE/lfTRGwdjOlfzcRO6pg6eh15w4Z9BKRU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2rc1": {
+      "sdist": [
+        "/3GCyKR9P+fTjDsVkmUgn6D1OAhvVhYLwjRYJp33t5U=",
+        "torch-nets-0.0.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "torch_nets-0.0.2rc1-py3-none-any.whl": [
+          "9wxmVK3HJf1CFa7SfSii39El6lQROTgeMxsOG5s8I4c=",
           "py3"
         ]
       }

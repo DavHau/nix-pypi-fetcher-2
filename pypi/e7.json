@@ -9079,6 +9079,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2b20230105": {
+      "sdist": [
+        "dl3I+6/7tcNZtoC7PMV7Jkcd5phYt56PZws8GCAEdco=",
+        "autogluon.multimodal-0.6.2b20230105.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.multimodal-0.6.2b20230105-py3-none-any.whl": [
+          "wtRKYEEx5PF5kX034807E0rQpKmYh75h2t9PbOEEvYU=",
+          "py3"
+        ]
+      }
     }
   },
   "autograder-vives": {
@@ -15360,6 +15372,18 @@
     }
   },
   "botocore-a-la-carte-cloudhsm": {
+    "1.29.42": {
+      "sdist": [
+        "OUkCXVzrJ8hEGNCaRuzgdTGRhp9ZyoIrx9XD3iQZhVM=",
+        "botocore-a-la-carte-cloudhsm-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudhsm-1.29.42-py3-none-any.whl": [
+          "3mb54uGXICaq+qwcBhicnSkycgZ4jbfmqdTspe2t1bY=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "hzSBgKiA0pqXK7Be1s0v6JIdKNkV7Cjkbn4BdTDXdhk=",
@@ -15374,6 +15398,18 @@
     }
   },
   "botocore-a-la-carte-qldb": {
+    "1.29.42": {
+      "sdist": [
+        "X8zGnSuufPTtZvr/vZxnKIZXyCz8uhJl8UiFZNAAOEE=",
+        "botocore-a-la-carte-qldb-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_qldb-1.29.42-py3-none-any.whl": [
+          "zKZi30h8Figg2ijAyQWco6QVLvJDbnCJnk+KSe/oFBY=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "NHtP681FgNsNeUc6ivPz9gHQLT7/k97JLDgF2l6TmP0=",
@@ -44184,6 +44220,18 @@
       "wheels": {
         "glance-25.0.0.0rc1-py3-none-any.whl": [
           "lypp6K2PcYp8PMUk/IU46zX44hDlMhQNVopVC/T2ZuE=",
+          "py3"
+        ]
+      }
+    },
+    "26.0.0.0b2": {
+      "sdist": [
+        "sRdrpAkFvbct0pviuCALXo5RhoDw2XU9fvydHugMg+I=",
+        "glance-26.0.0.0b2.tar.gz"
+      ],
+      "wheels": {
+        "glance-26.0.0.0b2-py3-none-any.whl": [
+          "2F5mVDVar0da+YZcd0jzCEoQSPSYWUmmJjqCq8pT6yk=",
           "py3"
         ]
       }
@@ -90989,6 +91037,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.3.0": {
+      "wheels": {
+        "odoo14_addon_currency_rate_update-14.0.1.3.0-py3-none-any.whl": [
+          "JQEOSw88mQ24R7QZ3nduMb+u9EPTtXZwLGp5y9QjNtM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-delivery-roulier": {
@@ -101554,6 +101610,54 @@
         ]
       }
     },
+    "0.0.306": {
+      "sdist": [
+        "9Mks2O/rgDdo+5V48dlAHReD3NJ0b1gp/mxCICEuyGg=",
+        "pepperize.cdk-security-group-0.0.306.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.306-py3-none-any.whl": [
+          "bgX2h/U05km1Cy6VNlyurZ9fRXjdL5g38wuUrdS/C7k=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.307": {
+      "sdist": [
+        "lSLAsIfYnroBGXWReFRv3ctqw5ixqeF2Sx2K8NQyiyg=",
+        "pepperize.cdk-security-group-0.0.307.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.307-py3-none-any.whl": [
+          "xOE67xw9t8C4KM0brp/g0qhIMYaYRC4XB1+a8HMgW/g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.308": {
+      "sdist": [
+        "svmFmUQQpHECQN9eXSAsJ2SihbBucBfQeQTKlm6pHEI=",
+        "pepperize.cdk-security-group-0.0.308.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.308-py3-none-any.whl": [
+          "p/fGSuixWkSd2NQn4hUhK3abdrd53yuHf6mpCzmBwVw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.309": {
+      "sdist": [
+        "oyBA+9WMa70JWLF848ujxeTDQhI+MjDMO4i54J6DFCA=",
+        "pepperize.cdk-security-group-0.0.309.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.309-py3-none-any.whl": [
+          "JMjTOKKlg6K3sgiPnXKLN8h4/uGiihP3Kh4lKSgA+VY=",
+          "py3"
+        ]
+      }
+    },
     "0.0.31": {
       "sdist": [
         "FfX5K+cMvjTahjbkdnwv1qBovG2Bx7ngjUNS1BXlmes=",
@@ -106692,6 +106796,18 @@
       "wheels": {
         "pxtextmining-0.4.0-py3-none-any.whl": [
           "niu7MKymX61piYqvErPiICBW4A4GKVlvk4QQ2Yf3TiY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "YqR3QoSp+jaU7JVarb35F0U92ZeJhZUUGc0NLUKLDL8=",
+        "pxtextmining-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "pxtextmining-0.4.1-py3-none-any.whl": [
+          "8PitcRr5/UdCGz7CMjVdOyEysgInMoNxnb4vgxhcBOQ=",
           "py3"
         ]
       }

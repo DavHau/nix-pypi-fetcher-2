@@ -15728,6 +15728,18 @@
         ]
       }
     },
+    "0.12.36": {
+      "sdist": [
+        "A00MH+Al3CDcpvtbi/DsAjs4spApdTSkSpiHYSWfI6Q=",
+        "aws_prototyping_sdk.identity-0.12.36.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.identity-0.12.36-py3-none-any.whl": [
+          "AudK/92hwtZzriWKsHRBQevyOU3h8gaUB2p1OzkMhMQ=",
+          "py3"
+        ]
+      }
+    },
     "0.12.4": {
       "sdist": [
         "G0iK9MYl2CoOhzreTVKt3gZPmFm2nROqkcL+3sWb8MM=",
@@ -64688,6 +64700,14 @@
         ]
       }
     },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkcloudtable-3.1.20-py2.py3-none-any.whl": [
+          "FPMiE3to23Ie2zO8Sm0VOhkmF4QrI74wivLDo6c1daQ=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcloudtable-3.1.3-py2.py3-none-any.whl": [
@@ -65118,6 +65138,14 @@
       "wheels": {
         "huaweicloudsdkkps-3.1.2-py2.py3-none-any.whl": [
           "yJsQQHbE9NGaEtC3tPwZMp8J/78kWQsx3Py6rkqj1o8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.20": {
+      "wheels": {
+        "huaweicloudsdkkps-3.1.20-py2.py3-none-any.whl": [
+          "Rb0pa2bwbXvX4RA9PpNuXWnBsjcZs16F4eBY4xlaYQA=",
           "py2.py3"
         ]
       }
@@ -75410,6 +75438,92 @@
         ],
         "linkhub-1.5.0-py3-none-any.whl": [
           "wqnmP5QhVON7ac/WGkr3qZmSgia1oCvVNDVnjvnEDdU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "linkquarto": {
+    "0.0.1": {
+      "sdist": [
+        "KIiamRRQyO3bgrFpH/jFIP4fNs72OOO6tX2IkPI04CI=",
+        "linkquarto-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.1-py3-none-any.whl": [
+          "a/9iJE55wu+4XD1vl+rSworIUoTnARg8rlcZYzQiwgM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "U1PCDZ/J4ExHyNwj+NJ30uG8VX3k0k/cuHfLmTqjo2k=",
+        "linkquarto-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.2-py3-none-any.whl": [
+          "mUsuzKk7J/iyCiRoF+LuEAYptHWWytQg+jcZmkzX4Ro=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "PvEF7GfH0aTdQLIIzwTjElTo+4I7xDHTw1BlWuQsl24=",
+        "linkquarto-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.4-py3-none-any.whl": [
+          "Zb6swbEWxAje/I8KtR4+Anb7assTk6gCLSDZBVTdUb0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "x+KnPt7NV080AJhvYPcqARXsdsn41V9gHSZQN5gutLc=",
+        "linkquarto-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.5-py3-none-any.whl": [
+          "Sa7OlWW7/Qc/lzRIUKLp6W3JDK/O4zgbksuwy5VxD4c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "rqkLrJqCp9m+SW6cbU0mssQUojvnXMUR3YideHKV1rU=",
+        "linkquarto-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.6-py3-none-any.whl": [
+          "s20NbRr18sdZq31zzaMHlI6q9+7illkOpC4CJrBVnp0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "ygCprSgz/0VxB9eC1uZZa4oFfr6CFVAvzuQTuZAmVxY=",
+        "linkquarto-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.7-py3-none-any.whl": [
+          "GUjc5vrHL21Uauh+18EclEuGJo/dJfOwQ/8iX5wsVfY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "3VRH71nvWv+fS++dzBUyiL5KY+zXgjKNqJn8KehGxow=",
+        "linkquarto-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "linkquarto-0.0.8-py3-none-any.whl": [
+          "rQrF9Bd2aAjbrjFw6YMXM5JPLOEEs3D6KD6Sk/oPh4I=",
           "py3"
         ]
       }
@@ -134480,6 +134594,30 @@
         ]
       }
     },
+    "0.0.88": {
+      "sdist": [
+        "xlXOd9c+vu6dCo3tgihGRHyHTD+jTRTs1hIAJGACYm0=",
+        "TheSilent-0.0.88.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.88-py3-none-any.whl": [
+          "AjfWY8d/wwoy/U2u+C/78gU1Qa20lJALS9zDisDv68s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.89": {
+      "sdist": [
+        "IitO7t4+aoLALE2zI9Rk4i6L2DHAJdJ7DhevuqDe8SU=",
+        "TheSilent-0.0.89.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.89-py3-none-any.whl": [
+          "MNp+Fd7dDGSOplUhKISsAH1/sREMdEr4ry6/Hv4b28k=",
+          "py3"
+        ]
+      }
+    },
     "0.0.9": {
       "sdist": [
         "2Viqdchw981SvA4254vbU1RKUa6ZhLv1wzwYXMLfYBg=",
@@ -134488,6 +134626,18 @@
       "wheels": {
         "TheSilent-0.0.9-py3-none-any.whl": [
           "D6QuV1lA6p5mcXtDZHOluImWVL51cakPB5cd4Q/+jMo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.90": {
+      "sdist": [
+        "8dwEiH3sYrXIp1DWbiYc5z149WtfLhcwFrTPzpJPi44=",
+        "TheSilent-0.0.90.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.90-py3-none-any.whl": [
+          "GLa2dDG7rhNP8lhHs98AZcg/xuJUj6CuwWfZvGTK54Q=",
           "py3"
         ]
       }

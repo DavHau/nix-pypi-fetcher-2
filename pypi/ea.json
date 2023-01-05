@@ -15476,6 +15476,18 @@
     }
   },
   "botocore-a-la-carte-pricing": {
+    "1.29.42": {
+      "sdist": [
+        "Bw2v+ZnARmHldQ7/xzZeYx3oY8dBoKT21PBGYpYNKNI=",
+        "botocore-a-la-carte-pricing-1.29.42.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_pricing-1.29.42-py3-none-any.whl": [
+          "emOoQCrnsCuFuh1xqCwEFHcB2NZMzV3g5oFwMt8PuQA=",
+          "py3"
+        ]
+      }
+    },
     "1.29.43": {
       "sdist": [
         "C7F7j1rfwwvqdgyYqeUiCrt8b0YzUmrl7Q0W9uImqbU=",
@@ -72338,6 +72350,18 @@
         ]
       }
     },
+    "1.12.149": {
+      "sdist": [
+        "JTPkx2cEMDt/3ooGONQo0fbivSGBztte/emhE21YeRU=",
+        "luminesce-sdk-preview-1.12.149.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.149-py3-none-any.whl": [
+          "Ct6kTSem6/Kh49yduXwawPcIRjUbL/P5UHziumBF2Jg=",
+          "py3"
+        ]
+      }
+    },
     "1.12.17": {
       "sdist": [
         "XIaUrPbmjvme815ONJeALAbnz1bUDSzTa/nAOVNJ5UE=",
@@ -74936,6 +74960,118 @@
         ],
         "manifest_tool-2.5.0-cp39-cp39-win_amd64.whl": [
           "ZVmuBSCIuBS2gsyfjmfZNk9KOjpwJePIKEn/unTsE+k=",
+          "cp39"
+        ]
+      }
+    },
+    "2.5.1": {
+      "sdist": [
+        "P3voTLMJIxy7QqH63jpEcD9Q7KrcEp2mz28jwQ69l58=",
+        "manifest-tool-2.5.1.tar.gz"
+      ],
+      "wheels": {
+        "manifest_tool-2.5.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bMZZ5a4fJL2ZHsW9i9CprDFiIauNK4G+B330XBPRk1o=",
+          "cp310"
+        ],
+        "manifest_tool-2.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "O5vyDTy8wE1I8QdmRk9X3bt627c86V9U+mqmjdQf6Xs=",
+          "cp310"
+        ],
+        "manifest_tool-2.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9lDi6pbUBuWsz+qHSl21rdhrNEXFp9YSMWvoyyYyLtM=",
+          "cp310"
+        ],
+        "manifest_tool-2.5.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "AyVh7qz6jjXCs8paq6c15thlNwWfRyfYTI90LIS3cfQ=",
+          "cp310"
+        ],
+        "manifest_tool-2.5.1-cp310-cp310-win_amd64.whl": [
+          "7LdgZtLisdr7hcp18Wcmd4P7cGCi5JXMDfttDAJVZhI=",
+          "cp310"
+        ],
+        "manifest_tool-2.5.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "J3M/KjHoGLQIVkLTrJSP5iD+spEAmA2pc9Dk2RuV3l0=",
+          "cp311"
+        ],
+        "manifest_tool-2.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "Atm1QCnVzL5BcxkU/FXnYNJtrL1RIpp4A9aUgims5WA=",
+          "cp311"
+        ],
+        "manifest_tool-2.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y4z9ZA2Z3JQP7lTjBKNpjnJM1mL3LRUhA+ZU5KFHf2g=",
+          "cp311"
+        ],
+        "manifest_tool-2.5.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "IwbzRL+hK6njRPw1bnPEAjiLOISFVFGBC5gRupnnglM=",
+          "cp37"
+        ],
+        "manifest_tool-2.5.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "n3/jrZ5QAOoYf3rICQeygH+A+bB0hp1w2iKEuSW/qiU=",
+          "cp37"
+        ],
+        "manifest_tool-2.5.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mppQcR6uqqsCfjGfILphmggoGkMDNBOMIfj53x7VK9Q=",
+          "cp37"
+        ],
+        "manifest_tool-2.5.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "grXW+raQ6UPWFj0hAJVDtGxHL1CYORuS0Kyta/PDVLY=",
+          "cp37"
+        ],
+        "manifest_tool-2.5.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "FuFAkKk7Civ6uU5iKeywvYUEQXUlZmArnPmjEPO9vTQ=",
+          "cp37"
+        ],
+        "manifest_tool-2.5.1-cp37-cp37m-win_amd64.whl": [
+          "tCa0vBZsIXR4w8dYXFZZ+JLKGMvtk79QTC2DzpUMULg=",
+          "cp37"
+        ],
+        "manifest_tool-2.5.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TY8B6eQOm3fm2LqiglNf7GWlKxHCZYZbLrhoEnaOlqo=",
+          "cp38"
+        ],
+        "manifest_tool-2.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "fqwzyZaSQnltqlmaz/VVZLjqZZkBoOFS7CLGuuFfAsY=",
+          "cp38"
+        ],
+        "manifest_tool-2.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XlbfkUtmOrv42OgVF+mt7F2J2opzjVZB7aIYZkz65s4=",
+          "cp38"
+        ],
+        "manifest_tool-2.5.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2UDLxgW3tq8B3OwBWyJfcsApYr+ek/FPhj0vMNW0bYU=",
+          "cp38"
+        ],
+        "manifest_tool-2.5.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "BHtYt+6WxnEyAUMQqs72OqTdYCnGFmbL8Pqv+pKYxws=",
+          "cp38"
+        ],
+        "manifest_tool-2.5.1-cp38-cp38-win_amd64.whl": [
+          "6E32/B6qr1bwY8R/BYzMSv+KIiMm3q9h9n8Zk/UHXfc=",
+          "cp38"
+        ],
+        "manifest_tool-2.5.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "dYX8o5pqR0ta0PVITPPggxla3GX8UPDE4pmz8b/hcMo=",
+          "cp39"
+        ],
+        "manifest_tool-2.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
+          "5ujx68aLbueqDJ8rkdWUfk8YnUV14eCB5fTze/O9muc=",
+          "cp39"
+        ],
+        "manifest_tool-2.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3vyE6zi1mPHQLNnTjQ/kcUO/ZWzwrU4hVJwLa9P88Io=",
+          "cp39"
+        ],
+        "manifest_tool-2.5.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "lkzG4610Oe3ynQtxDefUgFYlwqXBfWTkU6m7XAtk0tc=",
+          "cp39"
+        ],
+        "manifest_tool-2.5.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "edI1lsuTBzHRhlOTZVFsZBeijkGD4TYGTqsWMYCbDz0=",
+          "cp39"
+        ],
+        "manifest_tool-2.5.1-cp39-cp39-win_amd64.whl": [
+          "lSLu3Ypvyvjh6qURdin6ru9CVZKX3M1o2C/zoM93B30=",
           "cp39"
         ]
       }

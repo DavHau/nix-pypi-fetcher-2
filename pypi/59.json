@@ -4760,6 +4760,18 @@
         ]
       }
     },
+    "5.3.0": {
+      "sdist": [
+        "qP1nd3Ka6pmCGEdsPdmJqZ7g3EqsIEnuSGTdyftq4NU=",
+        "apache-airflow-providers-salesforce-5.3.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_salesforce-5.3.0-py3-none-any.whl": [
+          "DHHUAAAmRDIaUIcIhPzAgwelx3wnsrqk5876dJDaDTY=",
+          "py3"
+        ]
+      }
+    },
     "5.3.0rc1": {
       "sdist": [
         "sjwPPgd9hvns5oquy3HmJXmGfmo3HWjn/K5Eqvx1TUk=",
@@ -5222,6 +5234,18 @@
       "wheels": {
         "apache_airflow_providers_slack-7.1.0rc3-py3-none-any.whl": [
           "Xm0M2mxuBpgJ7GnR/XJi2/KYK7AuWFP8t1ROs25RJVU=",
+          "py3"
+        ]
+      }
+    },
+    "7.1.1": {
+      "sdist": [
+        "QDhc+U8t7m8cssnTNDKbYxWoQhXb2l9HKz2frU/VIP8=",
+        "apache-airflow-providers-slack-7.1.1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_slack-7.1.1-py3-none-any.whl": [
+          "rS/V/i3F1+OA3jLUeROZC4n0Bf8mF/ZHGcl45vuuuCw=",
           "py3"
         ]
       }
@@ -8338,6 +8362,18 @@
       "wheels": {
         "avh_api-1.0.4-py3-none-any.whl": [
           "0REA1sJIVM/o4bRrFeAgo86iGRzk1b6nGhwwf+0HJXU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "PhoZqMzYK328G49uq/rlGgd74DcnlD9pfGIoc7EWmvY=",
+        "avh-api-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "avh_api-1.0.5-py3-none-any.whl": [
+          "FAGlFcDE7YH7WTd2P0kl+uBsKMODEx1QKKd8LQvddsA=",
           "py3"
         ]
       }
@@ -64739,6 +64775,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "eldKas7uPG1dE84BfrwppwggcQF33ZuRLo0ExmnXraE=",
+        "msgraph-async-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "msgraph_async-0.2.2-py3-none-any.whl": [
+          "rEWy6Keo5MaxlQOub3eYWdtOXTtC5HnF9sjbFR3GiV0=",
+          "py3"
+        ]
+      }
     }
   },
   "multivac-bot": {
@@ -77876,14 +77924,6 @@
     }
   },
   "nonebot-plugin-cloudsignx": {
-    "1.0": {
-      "wheels": {
-        "nonebot_plugin_cloudsignx-1.0-py3-none-any.whl": [
-          "w8DNeG+sRFjKdVR3KeX0SG4KMNRBP4XvrE5yOvPrkGQ=",
-          "py3"
-        ]
-      }
-    },
     "1.1": {
       "wheels": {
         "nonebot_plugin_cloudsignx-1.1-py3-none-any.whl": [
@@ -122268,6 +122308,14 @@
         ]
       }
     },
+    "1.10.4.10": {
+      "wheels": {
+        "spaceone_inventory-1.10.4.10-py3-none-any.whl": [
+          "utugNWHmQA7cchzN69s7wCwIsJpRpHG9+Cuumw+DYKw=",
+          "py3"
+        ]
+      }
+    },
     "1.10.4.2": {
       "wheels": {
         "spaceone_inventory-1.10.4.2-py3-none-any.whl": [
@@ -138811,6 +138859,12 @@
         "VF87zYuLJJ8hw5SmfH7RtUoVyKz6nLbhNoqjAvmnHvc=",
         "tmu-0.6.1.tar.gz"
       ]
+    },
+    "0.6.3": {
+      "sdist": [
+        "E8zVD1+LwAxV0RiAOllNIXUrVFuTJFuFgg1B7qkMqds=",
+        "tmu-0.6.3.tar.gz"
+      ]
     }
   },
   "toloka-kit": {
@@ -149810,6 +149864,18 @@
       "wheels": {
         "ycm_cmake_modules-0.14.2-py3-none-any.whl": [
           "aQcIAxcmOsq13D7vxsJecgLEx35WG7uZZc2jT3GMjO8=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.3.dev4": {
+      "sdist": [
+        "VNBfpMC99ewCiQAXaEpnicSatDUE8teJ0EGtKDhuT14=",
+        "ycm_cmake_modules-0.14.3.dev4.tar.gz"
+      ],
+      "wheels": {
+        "ycm_cmake_modules-0.14.3.dev4-py3-none-any.whl": [
+          "YT4N07C1GWWz59cbxQ5WYLbPHFMl6rxL4o0cwzfcyxI=",
           "py3"
         ]
       }
