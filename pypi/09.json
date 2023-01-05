@@ -17921,6 +17921,34 @@
       }
     }
   },
+  "botocore-a-la-carte-connect": {
+    "1.29.43": {
+      "sdist": [
+        "0dRdl4VpvY6/nKbImea/vTk1YNAdYzUuKW3sFyPA5vU=",
+        "botocore-a-la-carte-connect-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect-1.29.43-py3-none-any.whl": [
+          "ux+P+S77ieSs4+/mIWigX6RV+NEZ0yNCxxMB+K5FDF8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-serverlessrepo": {
+    "1.29.43": {
+      "sdist": [
+        "iSCeZyIoIFKQRB9wHl7hfOexrtnMQcTSVsVqKffas20=",
+        "botocore-a-la-carte-serverlessrepo-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_serverlessrepo-1.29.43-py3-none-any.whl": [
+          "T9ig8BhKLsGXR7f26rKHLBv7P4RxbfTHI+YHrgpbnTM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "botparse": {
     "0.1.0": {
       "sdist": [
@@ -63386,6 +63414,12 @@
       "sdist": [
         "HUez76kFslgoBU9UzDVc0sqjsi1AZaK1X6e/NynDmns=",
         "mo-logs-7.330.23004.tar.gz"
+      ]
+    },
+    "7.331.23005": {
+      "sdist": [
+        "pSoxAf3pDZKAKpyFPQH2/CWuAreWPsUaaVtq8Wn60Sw=",
+        "mo-logs-7.331.23005.tar.gz"
       ]
     },
     "7.4.21313": {
@@ -140132,6 +140166,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ciam-3.0.807-py2.py3-none-any.whl": [
           "VfxNEerv6i2g+yOIYkxaMyU31OauBkF8cUSDsIUzByc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.808": {
+      "sdist": [
+        "7XN5ViXA+E1JXQPSURq7c6XjayixCHJuXYp1kW++lFY=",
+        "tencentcloud-sdk-python-ciam-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.808-py2.py3-none-any.whl": [
+          "IT3Nq525ve5w/BcAj0+ZRVffPf7cP7FRjuPZH7ZRfIU=",
           "py2.py3"
         ]
       }

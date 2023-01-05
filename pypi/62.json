@@ -17169,6 +17169,48 @@
       }
     }
   },
+  "botocore-a-la-carte-customer-profiles": {
+    "1.29.43": {
+      "sdist": [
+        "yJ+24vhp8KhLla7x44uASbkc/gT5awCu6WAufFqtKpE=",
+        "botocore-a-la-carte-customer-profiles-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.43-py3-none-any.whl": [
+          "Vv6JqnBV49nLK4ixEGfJ/PdmS+q6EJRsZMWJw0BiUOg=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-route53": {
+    "1.29.43": {
+      "sdist": [
+        "o5vtJniXRMo1/W/gfZT1ObSTXqSFbeYmjxic2tn2e5M=",
+        "botocore-a-la-carte-route53-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.43-py3-none-any.whl": [
+          "Ytm+RRCXduuo2o+26bR1QLxxS96Y5i3JTvxrq4c5p+M=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-timestream-query": {
+    "1.29.43": {
+      "sdist": [
+        "EMY+7SeXkzyHCoIQTeesxUWpThjyLbv1fmPFyqJ5Tb8=",
+        "botocore-a-la-carte-timestream-query-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.43-py3-none-any.whl": [
+          "WEPsOogBo0JHp+EwmYrzXu4CX35XXeJiTxT6GKk5LjY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "botornado": {
     "0.0.1": {
       "sdist": [
@@ -21998,6 +22040,20 @@
       "wheels": {
         "clean_directories-1.1.0-py3-none-any.whl": [
           "JvEUzb2U2jo2tGqfxvR/nbUy/+oSmgfkqGbe1/hic+0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "cleanlanguage": {
+    "0.0.0": {
+      "sdist": [
+        "HSkdDfuFgRejXkgsefWhPSkQN0LxP1GoHKsYJPsOpdw=",
+        "cleanlanguage-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cleanlanguage-0.0.0-py3-none-any.whl": [
+          "O0Ajt0Zg9m5NYNRNzzDnNY9BfgGekHVGoZxVbj9q2HE=",
           "py3"
         ]
       }
@@ -31054,6 +31110,42 @@
       "wheels": {
         "cyberdrop_dl-3.6.42-py3-none-any.whl": [
           "buDin4iwyhzOpUptGzmwTBCff0AMNn0XrpdGjC8nu2Y=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.43": {
+      "sdist": [
+        "yuk7uLfSYJF3iLREP2IvvG9VIX25e4BGGJPqxHOQGNA=",
+        "cyberdrop-dl-3.6.43.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.43-py3-none-any.whl": [
+          "0oJRVzPOus1v7LjDmL9PXoCtEs8O7eKHWa5OxlVB7O0=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.44": {
+      "sdist": [
+        "7xuG3j5Pm5XCs8q2LuswbmYlb5IdGYrpBT9VWagfgng=",
+        "cyberdrop-dl-3.6.44.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.44-py3-none-any.whl": [
+          "ecRKd2II7XNmPFY+Wf2FbReFp4+nikv4rj7QrA1UBkU=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.45": {
+      "sdist": [
+        "V3GnfCyV68EZpxY/k3BjGKdzYBbqw6fZdlVaXiwVBzo=",
+        "cyberdrop-dl-3.6.45.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-3.6.45-py3-none-any.whl": [
+          "C+Fo3eSAxTcnomY4TzXeoEm2UUFRLFQ74+PDaWhyfR0=",
           "py3"
         ]
       }
@@ -90835,6 +90927,20 @@
       ]
     }
   },
+  "play-audio-with-vlc": {
+    "0.10": {
+      "sdist": [
+        "6Jb+nPUb52uLykrkykrIcor8PR4JW94Dm35AxbD6jWg=",
+        "play_audio_with_vlc-0.10.tar.gz"
+      ],
+      "wheels": {
+        "play_audio_with_vlc-0.10-py3-none-any.whl": [
+          "bhnZ5aSzd7fietDMREjXTFx9DDI9eWhroxTFyGcUMlI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "plfatools": {
     "0.1.0": {
       "sdist": [
@@ -99674,6 +99780,12 @@
       "sdist": [
         "WCKK74M9xO0KOjIW68hYb5eYx9CpiDLq9woXJp93PU4=",
         "pytest-pydocstyle-2.3.1.tar.gz"
+      ]
+    },
+    "2.3.2": {
+      "sdist": [
+        "owso1JYHsvzXskZ4q2xOJ6KIcQo0s6Dx+Q80l+iHccM=",
+        "pytest-pydocstyle-2.3.2.tar.gz"
       ]
     }
   },
@@ -128285,6 +128397,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.808": {
+      "sdist": [
+        "iUmN8c/L0OgE6EgfYJvoGLpGxCUlq7Kezj+nMAF+0o8=",
+        "tencentcloud-sdk-python-cynosdb-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.808-py2.py3-none-any.whl": [
+          "X9b8Oum+/q+6mxJLfz3D7nUBalMSNc1+yOlTrvAJivA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenet": {
@@ -140688,6 +140812,18 @@
       "sdist": [
         "Cb40fFC7tPsYqriQMA8XXLt0V3qgyQHZo3f17KxZEgU=",
         "yhgit-1.1.tar.gz"
+      ]
+    },
+    "1.3": {
+      "sdist": [
+        "AJrEevIzI81hSqZW4Cfh/SIbJqyI1VECv1n0Nn7ESWk=",
+        "yhgit-1.3.tar.gz"
+      ]
+    },
+    "1.4": {
+      "sdist": [
+        "OA/8GwjooqPD1fvM3KWLxa6k12JQUZj9kPZGF0NyXjY=",
+        "yhgit-1.4.tar.gz"
       ]
     }
   },

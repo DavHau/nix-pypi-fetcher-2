@@ -16003,6 +16003,20 @@
       ]
     }
   },
+  "botocore-a-la-carte-lexv2-runtime": {
+    "1.29.43": {
+      "sdist": [
+        "Od2yDudbw9v7CKS7uZlXQaikXrZG69iuDFjiJlBQaFA=",
+        "botocore-a-la-carte-lexv2-runtime-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_runtime-1.29.43-py3-none-any.whl": [
+          "3FnFoIcshXWT27O3elrhJn4CMd9mHlPZ8aktzvAs6ek=",
+          "py3"
+        ]
+      }
+    }
+  },
   "botocore-refreshable-credentials": {
     "1.0.0": {
       "sdist": [
@@ -35297,6 +35311,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.8": {
+      "wheels": {
+        "e2e.pom-0.1.8-py3-none-any.whl": [
+          "NtHgxRGqFGDkAdnE0w6U0+Q+EYEH8PFeVJYwvRm6j0Y=",
+          "py3"
+        ]
+      }
     }
   },
   "easy-logging-config": {
@@ -45119,6 +45141,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.5.1": {
+      "sdist": [
+        "BpV/LFiAGdA+Agej/NQb1EmfH1+TZzuMe1m7oO6Bji4=",
+        "google-cloud-notebooks-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_notebooks-1.5.1-py2.py3-none-any.whl": [
+          "JajVPOutqU7S4eko2A1tBkRtZw4RwY+sxRH0cuRXSdc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-cloud-private-ca": {
@@ -48590,6 +48624,20 @@
       "wheels": {
         "hecto-1.200708-py3-none-any.whl": [
           "Mm6Yxxa7vixysOKGA6CjkLw8abjSXY9Uw6QU6OZB578=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "hedgehogencoder": {
+    "1.0": {
+      "sdist": [
+        "Tiqs2QQf/Q4bDH5oPsPA/RETq/SLdRFxNIZ6VrNL5y8=",
+        "HedgehogEncoder-1.0.tar.gz"
+      ],
+      "wheels": {
+        "HedgehogEncoder-1.0-py3-none-any.whl": [
+          "+aAY2tYvkAYhp7AW8LVMEE735dU+snoq3CQSEV+jaT8=",
           "py3"
         ]
       }
@@ -127415,6 +127463,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.808": {
+      "sdist": [
+        "P+SmTz4QYtuL1wX+Da0n/UgdDentyCD7geprmwZ555Y=",
+        "tencentcloud-sdk-python-bi-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bi-3.0.808-py2.py3-none-any.whl": [
+          "9odjwLJdNh3oE8FXCeLXahXtUh2FD2TglEZtLoCRUXo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-lp": {
@@ -133849,6 +133909,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.808": {
+      "sdist": [
+        "1+VSGI+N+LlK+/I8TFxnBGPJrs5kXje5Z+SzhLSQjFs=",
+        "tencentcloud-sdk-python-lp-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_lp-3.0.808-py2.py3-none-any.whl": [
+          "qRDlIOHbxuIVLFr/SRFonvb9N+dT9CCnsXitXmFEV2g=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorlayerx": {
@@ -134105,6 +134177,32 @@
         "test_package_heeere-0.1.1-cp27-none-manylinux1_x86_64.whl": [
           "zlRymJJeecpXZVny6W1nDHMN4MNp89ePN7sPvMa3GTA=",
           "cp27"
+        ]
+      }
+    }
+  },
+  "test-transcribe": {
+    "6.1": {
+      "sdist": [
+        "TUO3X5ERT3z/AmBFNdt37fXZv2oJDmUMA2GRHfe5ljM=",
+        "test-transcribe-6.1.tar.gz"
+      ],
+      "wheels": {
+        "test_transcribe-6.1-py3-none-any.whl": [
+          "4L+O36kO/d0PDr24QDBAFTCExSeudJF0KkPj3Yebkp4=",
+          "py3"
+        ]
+      }
+    },
+    "6.2": {
+      "sdist": [
+        "RTQZMYvYmkhFP9lhjE+GsK5/7O2bqBdUkspISxX9dA8=",
+        "test-transcribe-6.2.tar.gz"
+      ],
+      "wheels": {
+        "test_transcribe-6.2-py3-none-any.whl": [
+          "UYNhGMBy93ScaJGC79Wn1MHF8dAS11Do7pTiLM8xsyQ=",
+          "py3"
         ]
       }
     }

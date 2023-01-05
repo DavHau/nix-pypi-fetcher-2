@@ -12167,6 +12167,20 @@
       ]
     }
   },
+  "botocore-a-la-carte-alexaforbusiness": {
+    "1.29.43": {
+      "sdist": [
+        "V9NjkgmzrTYy2qSm1PWf5xdtQaNFj0jYerijYFGLbQw=",
+        "botocore-a-la-carte-alexaforbusiness-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_alexaforbusiness-1.29.43-py3-none-any.whl": [
+          "v9bQUgr438dkivakzf2E+Qk2FC8mqoVeWOCK6oRgwAg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bottle-agamemnon": {
     "0.1.0": {
       "sdist": [
@@ -132491,6 +132505,18 @@
           "py3"
         ]
       }
+    },
+    "1.1": {
+      "sdist": [
+        "wogZFIGPuoBbHRUUYSWZCmmljmfal4FnZhFRi7BEJEA=",
+        "Tami4EdgeAPI-1.1.tar.gz"
+      ],
+      "wheels": {
+        "Tami4EdgeAPI-1.1-py3-none-any.whl": [
+          "u1HXrpWm4656IYPHyZ3y5xGhC7H+nd3EpPUuUzdGCgk=",
+          "py3"
+        ]
+      }
     }
   },
   "tap-pivotal-tracker": {
@@ -142636,6 +142662,18 @@
       "wheels": {
         "tencentcloud_sdk_python-3.0.807-py2.py3-none-any.whl": [
           "N5s05pwE95JkjlqstbDgAUmnRv3DlaJ3wjdW28dVjPQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.808": {
+      "sdist": [
+        "j6DJappARH1Hd8INx1TQ7VXSrs+dQRocaz7mjjSTzG4=",
+        "tencentcloud-sdk-python-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python-3.0.808-py2.py3-none-any.whl": [
+          "GRYPCjUcl39mPa5L3Nc2fHIzDigtNfSaRHu4KG+AQjs=",
           "py2.py3"
         ]
       }
@@ -155793,6 +155831,102 @@
           "cp39"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "DL6Y6yjLHxX3/Syqahj8JK7JpnMeRErsyRhUhvPaylQ=",
+        "xorbits-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "xorbits-0.1.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "IhHUV9JwDvP4zRr/tAKVqfQrRHKgbR/arLy8YlF2Xsw=",
+          "cp310"
+        ],
+        "xorbits-0.1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "w2/7HK9V2QNrO7xmRI0fmKC0vYelymDfA5jONJ/k9es=",
+          "cp310"
+        ],
+        "xorbits-0.1.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "SW29YXnGSOzMAKW5lNbSzuYkhUlPJg+yt61TD+uvvek=",
+          "cp310"
+        ],
+        "xorbits-0.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kDaAjK5xwMVNobncCeijMPobDigreia8/1EdKG49s7k=",
+          "cp310"
+        ],
+        "xorbits-0.1.0-cp310-cp310-win_amd64.whl": [
+          "i1u4LWF/cZ3PO0a0UER8LoglXUtN3MSrM2OhFApqjys=",
+          "cp310"
+        ],
+        "xorbits-0.1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "C7LLRRxiV5Tk7XotDbGC43gu65DqaMqYYUFxjxZUY78=",
+          "cp37"
+        ],
+        "xorbits-0.1.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "mZTujF8WxDU07LfBjiJBQe5+j/WXQ297fgiprbo1IT0=",
+          "cp37"
+        ],
+        "xorbits-0.1.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oLHwTjUmpsd2AhoBQ5VRTtp1IgKIwbT7K863GDgtiZY=",
+          "cp37"
+        ],
+        "xorbits-0.1.0-cp37-cp37m-win32.whl": [
+          "/Y1mhAvS2aULaRMcZTlHhIUUr1Iootc/7shgdmQ+Bro=",
+          "cp37"
+        ],
+        "xorbits-0.1.0-cp37-cp37m-win_amd64.whl": [
+          "iJbLliBsvXO+v23wnlFs4I6FlhrEeaalew63hY62T6w=",
+          "cp37"
+        ],
+        "xorbits-0.1.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "jwKI77IJd13/r4fvYWKksqAkA0o8sXkbGO4a/KcdheA=",
+          "cp38"
+        ],
+        "xorbits-0.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "zFkYaMhBWi/PHq8AgTPHtyZKZpom4YZoWFVOMMAvnWE=",
+          "cp38"
+        ],
+        "xorbits-0.1.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ysKqyFm6N0SSQ9F0TxtipCx85GbuvC81+Cer5IbmexI=",
+          "cp38"
+        ],
+        "xorbits-0.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rKuHi9hp4QY0WC1Y8jBr+Hw3k7YLtCq6m9uMfyJ+WjI=",
+          "cp38"
+        ],
+        "xorbits-0.1.0-cp38-cp38-win32.whl": [
+          "h6ef4X1tTqKLEK1hmktj2S4h9tQmG2yKyqU+U4LqKZw=",
+          "cp38"
+        ],
+        "xorbits-0.1.0-cp38-cp38-win_amd64.whl": [
+          "XwiEULx4TIFx2JwNoEF6thbf85n+0JTTPbnEqHG6qUs=",
+          "cp38"
+        ],
+        "xorbits-0.1.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "9Xjjppt67XNihZdQUiipLzXf72tZTcOZHTaRnvlwOfo=",
+          "cp39"
+        ],
+        "xorbits-0.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "fz0ULuZvTLrND9ZpNh9SC9phMfCOQPAG6aMGzMmDvHg=",
+          "cp39"
+        ],
+        "xorbits-0.1.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "9BnU3zr4cqW2je/OTT6BYJM2Y04XvovlbeevFXrj6f8=",
+          "cp39"
+        ],
+        "xorbits-0.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9HCqxCSJO7qAOT4hYV2ws/v8KFnur8/OW/VmFxQjaeo=",
+          "cp39"
+        ],
+        "xorbits-0.1.0-cp39-cp39-win32.whl": [
+          "5Zj7BT7KGCBC9bRq3DtYqMB4oD+JRqcTeRMrw7153Vs=",
+          "cp39"
+        ],
+        "xorbits-0.1.0-cp39-cp39-win_amd64.whl": [
+          "UPdB8Q2byZW7AfIGFpMKi5kx38LBbjNF6ofLOPt2J4w=",
+          "cp39"
+        ]
+      }
     }
   },
   "xpdacq": {
@@ -156733,6 +156867,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "yasiu.image": {
+    "0.0.1": {
+      "sdist": [
+        "CkBoYE44u+2dyYk30Rf3zy+mknQesRNZm6qprG/JGpw=",
+        "yasiu.image-0.0.1.tar.gz"
+      ]
     }
   },
   "yastr": {

@@ -2087,6 +2087,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "3phBsRQTeHSrwxyHbo3IPkAnGY37+swYMBE5/3XOq/E=",
+        "adrt-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "adrt-1.0.0-cp38-abi3-macosx_10_9_universal2.whl": [
+          "bFh2PM/hlayaNW8taPPdUHb7DJ2VHJxW3/0ilo/p5f8=",
+          "cp38"
+        ],
+        "adrt-1.0.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "clLo2t83cXkWFUXAZ3YO86PVX1Sl3i0un1uglG+2iPs=",
+          "cp38"
+        ],
+        "adrt-1.0.0-cp38-abi3-win32.whl": [
+          "u/dyMHs3/Mdk9TOh3kY+RNNETzTOQJRdg718PHvg8Jc=",
+          "cp38"
+        ],
+        "adrt-1.0.0-cp38-abi3-win_amd64.whl": [
+          "oy1Ajb+p1YHAjHvTw0ox9yxeSbw5fj8UZLwb8EHxaSA=",
+          "cp38"
+        ]
+      }
     }
   },
   "adsputils": {
@@ -17133,6 +17157,12 @@
         "ZfuHczEgKyAb/dI+orY5XZkpVo2bLmPYnQuwD4iXxc4=",
         "botcity-aws-secretsmanager-plugin-0.1.0.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "NPEnxB10ghsgYS9v41QQvYtB0WieiNhQi3kvpDZh4MY=",
+        "botcity-aws-secretsmanager-plugin-0.1.1.tar.gz"
+      ]
     }
   },
   "botnik-generator": {
@@ -17144,6 +17174,34 @@
       "wheels": {
         "botnik_generator-1.0.0-py3-none-any.whl": [
           "otyQg8HudOalZY/7ImZTRL96jbGJTbukITujFnoS91I=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-connectparticipant": {
+    "1.29.43": {
+      "sdist": [
+        "hase0lemWF9ar6JzsTPLAObSZ2OJzGX+pZdEVuk6Qvs=",
+        "botocore-a-la-carte-connectparticipant-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.43-py3-none-any.whl": [
+          "J2etHM7+2eny2J/C9YTGYqc8+Zu0kAY5J7/UeiYNwDI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-lakeformation": {
+    "1.29.43": {
+      "sdist": [
+        "yQvGoEcVZBST0ofnLE+9X6r1VX3EbxwBdQeUdHbQNw0=",
+        "botocore-a-la-carte-lakeformation-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.43-py3-none-any.whl": [
+          "aPexnKytp1fBOaGdRnOyGEiqFuoRaKNgD88rmMsJQ+w=",
           "py3"
         ]
       }
@@ -87690,6 +87748,14 @@
       "wheels": {
         "odoo_addon_account_due_list-16.0.1.0.2-py3-none-any.whl": [
           "ueu8V4l9ol0RUBB6Y+eVIt2fId54sbat8gy7rAcUaGo=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.2.1": {
+      "wheels": {
+        "odoo_addon_account_due_list-16.0.1.0.2.1-py3-none-any.whl": [
+          "SmBHj21oEwPsrHpxGgDVjJPS6Qo9IhpP/lhPso+Wa6I=",
           "py3"
         ]
       }

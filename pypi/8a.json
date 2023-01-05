@@ -15647,6 +15647,48 @@
       }
     }
   },
+  "botocore-a-la-carte-backup": {
+    "1.29.43": {
+      "sdist": [
+        "2BzwVuErYH8yjcxqJqOmXxA8IwglQF274McY+1Tl7VI=",
+        "botocore-a-la-carte-backup-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.43-py3-none-any.whl": [
+          "swoVL21tXTtrgGI/z77S4MT02SZQ6H95tJqYCDh6rac=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-devicefarm": {
+    "1.29.43": {
+      "sdist": [
+        "mt9ehYdlA3cDlPY0UgJWDhAET2nqY423iW+tNUjkjUM=",
+        "botocore-a-la-carte-devicefarm-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.43-py3-none-any.whl": [
+          "eZhFWoMunpRUIYLwLuY0y0cQ8CIjRoxTk97pZwGULEI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-fis": {
+    "1.29.43": {
+      "sdist": [
+        "YMCZUaBJ1Yo/Db5+/eyZiLr67iepj/m3bGiKF4FfdCU=",
+        "botocore-a-la-carte-fis-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.43-py3-none-any.whl": [
+          "dM12pSpKOVTbqJUd2WvGAmwsJXRFh37ACeGZF0jxvCU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "botstat": {
     "0.0.1": {
       "sdist": [
@@ -40933,6 +40975,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "wheels": {
+        "ezipc-1.0.2-py3-none-any.whl": [
+          "LQC7OUGS+6K2TsuDXWX+lGnKblV9Vn3tnR+Tnlo2+H4=",
+          "py3"
+        ]
+      }
     }
   },
   "fabsync": {
@@ -64296,6 +64346,18 @@
       "wheels": {
         "limits-2.8.0-py3-none-any.whl": [
           "7hnpqY3TktUt1iz8KNk3EOspoiz5g0whwW7hk2fE1ZY=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "AY2bQVOv1Wld1qveO2J4+BsRQhPn/HDTHjN263VGeh0=",
+        "limits-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.0.0-py3-none-any.whl": [
+          "7fb36Jxd1v2Vvxjz/wXwkC1duJqeqNxmU9Juz8mTHeM=",
           "py3"
         ]
       }
@@ -121354,6 +121416,18 @@
       "wheels": {
         "sdss_hal-0.5.0-py3-none-any.whl": [
           "dy2XG5Z/CNBweHE5hM3Y2fWmkcN13pSH7Qa7xwdgXNs=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "ZGnGwx5dyJzSegaLUIGzZO9DgltTKHDY20p+/zCK+Ns=",
+        "sdss_hal-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "sdss_hal-0.5.1-py3-none-any.whl": [
+          "iZ8aIM7uccL8G99siNwmvu+fCSuBeHCXC9s+40UImBc=",
           "py3"
         ]
       }

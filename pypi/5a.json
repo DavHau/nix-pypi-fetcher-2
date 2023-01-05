@@ -12367,6 +12367,34 @@
       ]
     }
   },
+  "botocore-a-la-carte-ssm-incidents": {
+    "1.29.43": {
+      "sdist": [
+        "2+dW5FEOUkNApiiOOYc15DseGcaT+lGdFrhQiN7Zz8M=",
+        "botocore-a-la-carte-ssm-incidents-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm_incidents-1.29.43-py3-none-any.whl": [
+          "2lJvL1ruXuJ8HvWY7SXGajhjOWF8M1qGAjaGfbWFxqw=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-voice-id": {
+    "1.29.43": {
+      "sdist": [
+        "yKTL1vAOTV1RdUd9VhvBest30NcyaN3GtjkggnSiN+U=",
+        "botocore-a-la-carte-voice-id-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_voice_id-1.29.43-py3-none-any.whl": [
+          "WNqA5qBt2xlIKLvDQ2eibdM1Eieti7Kc6Z6a8Nh4XUw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "brainreg-segment": {
     "0.0.1": {
       "sdist": [
@@ -15602,6 +15630,18 @@
       "wheels": {
         "cdk_slack_chatbot-1.0.75-py3-none-any.whl": [
           "Yyz7yGclCjb4cDkdaeG5qWH+CFm1BFs3Fatg6zf2JDs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.76": {
+      "sdist": [
+        "xjIz9sO1z7xOMQEpXrNtSU/Yyid/NJ3jT98iIOCPP+A=",
+        "cdk-slack-chatbot-1.0.76.tar.gz"
+      ],
+      "wheels": {
+        "cdk_slack_chatbot-1.0.76-py3-none-any.whl": [
+          "fx87mhv3ZxeohFHezSuHeKr4G+l/rqt3Yx0ZUZPXkk0=",
           "py3"
         ]
       }
@@ -35152,6 +35192,18 @@
       "wheels": {
         "erpbrasil.edoc.pdf-1.0.2-py2.py3-none-any.whl": [
           "VCNk1qds4nC1cCH8OAa1d4Mgrle2hB0t5cZSr4ZjqdQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "g8Hr/i6EErCMLFHCXv2UOSgd/LTs1IuyGlLpN4sJbiU=",
+        "erpbrasil.edoc.pdf-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "erpbrasil.edoc.pdf-1.1.0-py2.py3-none-any.whl": [
+          "PyMXnN+Gdyot1pBspyHcl7KwYvoQZKd4r8exuaBzx7Q=",
           "py2.py3"
         ]
       }
@@ -78235,6 +78287,18 @@
           "py3"
         ]
       }
+    },
+    "1.26.43": {
+      "sdist": [
+        "XScAfxZqB1LUBPknStjVYiOg6RNaW6/k5ybtEKugOZ8=",
+        "mypy-boto3-application-autoscaling-1.26.43.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_application_autoscaling-1.26.43-py3-none-any.whl": [
+          "rfNhJt+dolhR3/v4kozeZc//l2E9QWY88OB8LpyJ4s4=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-backup": {
@@ -110078,6 +110142,30 @@
         ]
       }
     },
+    "1.0.13": {
+      "sdist": [
+        "OfOc0P9EAyYnT7M7226hxeCFxUN4S6u4wy9m+UyFna4=",
+        "py_lav-1.0.13.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.13-py3-none-any.whl": [
+          "TYFCN/mNKwiv1GgL/vL79VM7bY2BQyOFHjd7rx5Bygk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.14": {
+      "sdist": [
+        "lY1AmyjRX0vRZCXV28UV4lYaVIAlVnKxPuLrZh9rWf8=",
+        "py_lav-1.0.14.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.0.14-py3-none-any.whl": [
+          "fWGPtAOMOQh5LCI9XhJ+0e6OfW+Sq/njRStSe0XL978=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "xcM5Cr1nsUpq2CtZPWL/AxgJjkk/INozKmdfJSRP7dE=",
@@ -119752,6 +119840,18 @@
       "wheels": {
         "pytigon_batteries-0.230-py3-none-any.whl": [
           "PcXp1zW9TABoLP2QgrrwdT/Q1qYCvwwjWRVbjQpnHiQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.230104": {
+      "sdist": [
+        "WYmj06w8whV40tXfYG/dFE9P7Vk2YXi7eVZctO3/DMg=",
+        "pytigon-batteries-0.230104.tar.gz"
+      ],
+      "wheels": {
+        "pytigon_batteries-0.230104-py3-none-any.whl": [
+          "irnlwmHSRruwTPLMSBNJ59+q7AJwAk8oF63xPxNXhcw=",
           "py3"
         ]
       }
@@ -141311,6 +141411,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.808": {
+      "sdist": [
+        "QQ4W1Ajmv9rRhVJjQoqTwvqsWS8yTf09bj98WCuM6V0=",
+        "tencentcloud-sdk-python-tcbr-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcbr-3.0.808-py2.py3-none-any.whl": [
+          "sByvn+dPPBNWj9oiSES5QlrnkQssMRLM2ND86q33S78=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-products": {
@@ -145500,6 +145612,18 @@
       "wheels": {
         "torch_nets-0.0.1rc1-py3-none-any.whl": [
           "RNE149DO13iQ8eZKBksEhIzHBIyxcL1WKMHASV08M0g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2rc0": {
+      "sdist": [
+        "ksE2NRcCi/a7PYkQkqWVsATxYZTs2P6+vZLPFdbw6fc=",
+        "torch-nets-0.0.2rc0.tar.gz"
+      ],
+      "wheels": {
+        "torch_nets-0.0.2rc0-py3-none-any.whl": [
+          "0e5HhUjC1fE/lfTRGwdjOlfzcRO6pg6eh15w4Z9BKRU=",
           "py3"
         ]
       }

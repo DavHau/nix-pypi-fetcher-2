@@ -16803,6 +16803,34 @@
       }
     }
   },
+  "botocore-a-la-carte-account": {
+    "1.29.43": {
+      "sdist": [
+        "tNvEhyIK9XbMI3L7iLoYM0CSo4y75k3PDWl4qpNRicE=",
+        "botocore-a-la-carte-account-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_account-1.29.43-py3-none-any.whl": [
+          "UYEuv0U+weyJbRhEjSf86A2SbK81QxaS2IiTa3DrRVY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-pinpoint": {
+    "1.29.43": {
+      "sdist": [
+        "VQMYAtyxGncXI0FWUI0NysqS+rLUmsFr5r9fN8hZV+U=",
+        "botocore-a-la-carte-pinpoint-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_pinpoint-1.29.43-py3-none-any.whl": [
+          "+Y4hqMIig0YzMP7KP9wF5TOxzANWAVfu80wJx8J+oyw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "botocore-types": {
     "0.1.0": {
       "sdist": [
@@ -28230,6 +28258,18 @@
       "wheels": {
         "cdk_nag-2.21.51-py3-none-any.whl": [
           "IxCR25P9kvR0z5b5Qtu6XRADb/TMbOyPQeSph2w8+xA=",
+          "py3"
+        ]
+      }
+    },
+    "2.21.52": {
+      "sdist": [
+        "PECoxgl7crHrJXap+CDtd7DRK6axl9VBbGZg38lih4o=",
+        "cdk-nag-2.21.52.tar.gz"
+      ],
+      "wheels": {
+        "cdk_nag-2.21.52-py3-none-any.whl": [
+          "s2kBg8y1386ee8Rq+utvqo7iPFdsg+vKCVLHS/N//J4=",
           "py3"
         ]
       }
@@ -90642,6 +90682,14 @@
       "wheels": {
         "mhi_common-2.3.5-py3-none-any.whl": [
           "yooO5CRDNX6rWR+uNuSz8ISJQBODKz/Gk+aYPUGGNuk=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.6": {
+      "wheels": {
+        "mhi_common-2.3.6-py3-none-any.whl": [
+          "sXrUSFhqwVjgUnqNMr+hnwX1cvKSVBZkpm2lj3uXzYY=",
           "py3"
         ]
       }

@@ -11327,6 +11327,34 @@
       }
     }
   },
+  "botocore-a-la-carte-ec2": {
+    "1.29.43": {
+      "sdist": [
+        "BSY0gSyEOGDuxXeubDNZ9Gy7rcJRbD75bJ1uC7XL1D0=",
+        "botocore-a-la-carte-ec2-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.43-py3-none-any.whl": [
+          "masYSOCNfpQnHkFI4xISHcJx85/4KJ5gdyx5ZAP794E=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-kinesis-video-webrtc-storage": {
+    "1.29.43": {
+      "sdist": [
+        "OGDfR0LBVYmCTL7PHv8Qn5sr0i0fzLDV9f6bHnnfChg=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.43-py3-none-any.whl": [
+          "ugrmg9lRO6MqZKeenbDdoEs3npp97T9VIURlN33xMG0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bounceclassifier": {
     "0.2.1": {
       "sdist": [
@@ -21708,6 +21736,18 @@
         ]
       }
     },
+    "1.49.0": {
+      "sdist": [
+        "AXUzGpRIVFNoBe1L4+XH4JgqhucdW18vXKQ0eVCCuqY=",
+        "datayoga_core-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.49.0-py3-none-any.whl": [
+          "WjY0V+HPz8swvlsOq3c7wE+yC3gqVKBRVEZlt7rDbWA=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "bNayT+QJkHkhyCIEqVtdrAWOafMG4/yTABU2arRULBA=",
@@ -21716,6 +21756,18 @@
       "wheels": {
         "datayoga_core-1.5.0-py3-none-any.whl": [
           "4lRUrfKzcQDU3drlnlqLAM6p9PbnaqRiTM1DRERcn04=",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "sdist": [
+        "tyyNK3KGF8rNGyHMK3lmds6Gb76TeQ5YklQJQEBYbF8=",
+        "datayoga_core-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.50.0-py3-none-any.whl": [
+          "XsmgEVS5n+7BbDMOemO66lY7rchfYaE6hCd7PnaAzwI=",
           "py3"
         ]
       }
@@ -86024,6 +86076,12 @@
         "paasta-tools-0.155.0.tar.gz"
       ]
     },
+    "0.156.0": {
+      "sdist": [
+        "h0ancV+kNd+D8y76fCbPPv2LguzYNA+SRK36wTxvS+4=",
+        "paasta-tools-0.156.0.tar.gz"
+      ]
+    },
     "0.16.10": {
       "sdist": [
         "iWziOVjrMWIO/quhvj9Po+CqzdtMb7XiqWMU90pqdic=",
@@ -97582,6 +97640,30 @@
       "wheels": {
         "pychasing-0.1.4-py3-none-any.whl": [
           "+21daydiDn/ywIAdxTgXT/JXHIjgJqKzLgM1JE38cF0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "yf9OAYvQLfWMax3OoirQzwSfmQ4MQzPHman2+49ApVc=",
+        "pychasing-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pychasing-0.1.5-py3-none-any.whl": [
+          "DPSMPXvx64csbx6gOnfD6vSpWFA2BcUNo89NpPKxfa4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "+n9/e+v6KtpuztcPzgxhs7beFDU3EiJqGiY8yUsqt2w=",
+        "pychasing-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pychasing-0.1.6-py3-none-any.whl": [
+          "JWq+aHgrN82ee3X0dl1tyZwVZ+ihCBHSiSTVeE7oooA=",
           "py3"
         ]
       }
@@ -133286,6 +133368,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tms-3.0.807-py2.py3-none-any.whl": [
           "EFzvBYemCHZ03Yb2xWpefa5DJoH4ab+sDoHPDHp7JI8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.808": {
+      "sdist": [
+        "ezxMDPxDFTnFFD2iU5S7MZhkFUd9iLun89qYNIwZcbY=",
+        "tencentcloud-sdk-python-tms-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tms-3.0.808-py2.py3-none-any.whl": [
+          "28COTpNyc3dh3aC1Uoo/n984ltwuaUO/zB5EwObS2os=",
           "py2.py3"
         ]
       }

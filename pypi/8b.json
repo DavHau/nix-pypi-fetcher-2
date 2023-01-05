@@ -14411,6 +14411,34 @@
       ]
     }
   },
+  "botocore-a-la-carte-codedeploy": {
+    "1.29.43": {
+      "sdist": [
+        "ySkgCEhXy8TZYaOQcWKWAuJUOjRJxAxGJi2J+bjAFG8=",
+        "botocore-a-la-carte-codedeploy-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codedeploy-1.29.43-py3-none-any.whl": [
+          "8ODDxRC/o9huHOtRYBeg4Vn6SunbNbPpKJfuHUpRJGc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-inspector": {
+    "1.29.43": {
+      "sdist": [
+        "4C3Zorx7I7cF25jbjerAYG/MCG/GhgzJs0jMGcWWpl0=",
+        "botocore-a-la-carte-inspector-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_inspector-1.29.43-py3-none-any.whl": [
+          "qlmnLp6OZjF4sgv11SoDb6s6um87r86t9P8dXl4b6+U=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bower-cache": {
     "0.1.4": {
       "wheels": {
@@ -16244,6 +16272,18 @@
       "wheels": {
         "cdk_create_ami-0.0.134-py3-none-any.whl": [
           "BPnGrOElV5V+0A0MLnFFoonpAWBS2M44HjaCweaRxSU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.135": {
+      "sdist": [
+        "1mvsX771QRRLgNFF/gwlkS9gTNjSJGkuAWxIEecBhtM=",
+        "cdk-create-ami-0.0.135.tar.gz"
+      ],
+      "wheels": {
+        "cdk_create_ami-0.0.135-py3-none-any.whl": [
+          "5gT7QZVb+mfM5uDvTIamHFLre9T6oVaStzOaEXBL/fg=",
           "py3"
         ]
       }
@@ -25191,6 +25231,22 @@
           "py3"
         ]
       }
+    },
+    "0.3.4": {
+      "wheels": {
+        "DataVisual-0.3.4-py3-none-any.whl": [
+          "2sNr62RkzGPnwOFoW3oMUNgaWQIYKmQZVSrlZKBDT5Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5": {
+      "wheels": {
+        "DataVisual-0.3.5-py3-none-any.whl": [
+          "24y9rM1DlhQU3Znol3tf/vdqNXXKwDREsP9m5Pp92lY=",
+          "py3"
+        ]
+      }
     }
   },
   "datenguidepy": {
@@ -27634,6 +27690,18 @@
       "wheels": {
         "devops_intc-0.1.12-py3-none-any.whl": [
           "qmUBTeFrTyXwMIuNDoSY/yjMeGJTj+ykf71pRI6X6EI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.13": {
+      "sdist": [
+        "e96CvJYo58KDU6uZyMMrhyclyk6OtPYmeLn+NFOnZqQ=",
+        "devops-intc-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "devops_intc-0.1.13-py3-none-any.whl": [
+          "rehOjzQJNCPk8useVt8LjiQzUkBkk8HNQvv73DMh0wo=",
           "py3"
         ]
       }
@@ -47227,6 +47295,42 @@
           "py3"
         ]
       }
+    },
+    "1.1947.0": {
+      "sdist": [
+        "e2B8xSUn7L0IVGdI0yVijZ1QO1kqlGixTo98VzzeRo8=",
+        "gardener-cicd-cli-1.1947.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_cli-1.1947.0-py3-none-any.whl": [
+          "KKIN076iu9/qnQNSph1viQ5l8kmVE1/EoLxY6W02IZw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1948.0": {
+      "sdist": [
+        "6jBXMPWpLkReSzl0nwIIbezxiNcPYqK/ILGfOFhmb8U=",
+        "gardener-cicd-cli-1.1948.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_cli-1.1948.0-py3-none-any.whl": [
+          "R3wTcUPHIMjFtvyDzYlKqyivxJXgYk6+I1djaUNLU9Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.1949.0": {
+      "sdist": [
+        "S7xR9x58T9+TT6gLQen0vRoMoaPMn0hf+Qo6C9OkWPc=",
+        "gardener-cicd-cli-1.1949.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_cli-1.1949.0-py3-none-any.whl": [
+          "xHKA/ktZ8kq0zVBBc7AJn40Hdq4rUcjzPO/on6R0dcc=",
+          "py3"
+        ]
+      }
     }
   },
   "gaus-bi-distrib": {
@@ -65881,6 +65985,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.3": {
+      "sdist": [
+        "Znok3uTqf9mkBWbuZR2yHHVscUvXft4BZz5RI7GRRD0=",
+        "kilroy-face-twitter-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "kilroy_face_twitter-0.6.3-py3-none-any.whl": [
+          "FqQsmgxiBeLPPUPT8m9cVglAmiY0hB1YzlgAnXRm6YQ=",
+          "py3"
+        ]
+      }
     }
   },
   "kimpy": {
@@ -73492,6 +73608,18 @@
       "wheels": {
         "mkdocstrings_python-0.8.2-py3-none-any.whl": [
           "IT2VkuZuCEqb0vpJVtYpSjSHxtycxFFkBY1jFySbe24=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.3": {
+      "sdist": [
+        "muRz9txZkzmwnu4X5NKwXWrA7CmGDz/Jt1EtlA/GGt8=",
+        "mkdocstrings-python-0.8.3.tar.gz"
+      ],
+      "wheels": {
+        "mkdocstrings_python-0.8.3-py3-none-any.whl": [
+          "Tm4c1vN6eF3glGztbrhG6y9diRrBzCx7gylD01KQh6c=",
           "py3"
         ]
       }
@@ -123829,6 +123957,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.6": {
+      "sdist": [
+        "mUumer2HDtGRVWWyetJcEuEXNx6Sbx8DwROSMZwshZY=",
+        "sklearn-evaluation-0.8.6.tar.gz"
+      ],
+      "wheels": {
+        "sklearn_evaluation-0.8.6-py3-none-any.whl": [
+          "4w1tI2/DV7vNXc3Hxq0hp88xM3Fm36wxELt/nNerLgw=",
+          "py3"
+        ]
+      }
     }
   },
   "slapos.recipe.maarch": {
@@ -136412,6 +136552,18 @@
       "wheels": {
         "tencentcloud_sdk_python_common-3.0.807-py2.py3-none-any.whl": [
           "PhFTNlc9PgHtZVKg2/utzFt2tksJ2Qr5NWTRbVqfAG0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.808": {
+      "sdist": [
+        "TuvJqHg7uWVWqU3b2pFPrEpwgHzSw+VfloSUgCsVLac=",
+        "tencentcloud-sdk-python-common-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_common-3.0.808-py2.py3-none-any.whl": [
+          "fw1eojProV6ujGkxn7s0pyte/P1AdpxTkhBY83kSanw=",
           "py2.py3"
         ]
       }

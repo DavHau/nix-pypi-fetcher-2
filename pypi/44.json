@@ -16131,6 +16131,14 @@
       }
     }
   },
+  "botcity-aws-textract-plugin": {
+    "0.1.0": {
+      "sdist": [
+        "U6tgCNVe5MkhOeF9mwqDPwCrhf+J93oHLPmY2YPirkk=",
+        "botcity-aws-textract-plugin-0.1.0.tar.gz"
+      ]
+    }
+  },
   "botgus": {
     "2.3": {
       "sdist": [
@@ -16247,6 +16255,34 @@
         "elA4FPgnne9CXDuuqpT8LYQR/zF4ydXxylEJZzkN5ck=",
         "botlab-0.2.4.zip"
       ]
+    }
+  },
+  "botocore-a-la-carte-iotthingsgraph": {
+    "1.29.43": {
+      "sdist": [
+        "MZGwYQnAgSj3d1EoLbWlLPMXvpsX/ML5ybtlO7NznGk=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.43-py3-none-any.whl": [
+          "AVBr+5+Pv0Hruf8dhLJp15UWMR/8+Fln8TNgs34du/A=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-xray": {
+    "1.29.43": {
+      "sdist": [
+        "fGGYaLye/DccEQ5h3blMyonP7GklfURZ8HdPtzRr8Tc=",
+        "botocore-a-la-carte-xray-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.43-py3-none-any.whl": [
+          "3Op2q0e89XIa027+3mH7dsvyGwXC2u0xOMwRFKcu8rs=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-react": {
@@ -48184,6 +48220,18 @@
       "wheels": {
         "falcon_toolkit-3.0.1-py3-none-any.whl": [
           "0zpgnXMnEtXQN3m6h7Gg582FjryuK83eExuFxEYGgL8=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "rWM32dqol8ft/ExYZEN1uqplZebkaY4XwHrMNL1rY00=",
+        "falcon_toolkit-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "falcon_toolkit-3.0.2-py3-none-any.whl": [
+          "QB9eZ93SD1uCV9NS95R9YVWfVLjxXZaAIBR/j9xYkM8=",
           "py3"
         ]
       }
@@ -134003,6 +134051,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.808": {
+      "sdist": [
+        "EXbJCnPkSVJ1dYP9mmb7UXDdZn+IvXhZE0jcfqm7iBE=",
+        "tencentcloud-sdk-python-mna-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.808-py2.py3-none-any.whl": [
+          "vjhaQ7lwGsXBzSyZajJH5y0nZZROXLWQPDntQHjpHXE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -134480,6 +134540,42 @@
       "wheels": {
         "tgclients-0.4.1-py3-none-any.whl": [
           "VjiQ/3SVE5040aZam06002JSQxHLkS6gDw7tn4Ioh94=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "SElC6xJtyLEg1IjKL4ghH9xl/fcPGp2u0pyDeVMJ0wM=",
+        "tgclients-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "tgclients-0.5.0-py3-none-any.whl": [
+          "jnUgpDH4q1p/vnsXHTTbyfEzR8x02JvL2T5M2E6ASpw=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "fuvX4Tf4WRkxNyOxlJ+GNGS0TQS1af2WW0ceaFZqfMI=",
+        "tgclients-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "tgclients-0.5.1-py3-none-any.whl": [
+          "njhngreCs2iHii/3BqjYR8WFam18xqwwmfjxwMu/MqI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "eEVuienOsI+8LTtgr+celV0fWDYcXHb/Yn4/3LMecOI=",
+        "tgclients-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "tgclients-0.5.2-py3-none-any.whl": [
+          "3LA+kih7vYwSjK7RHvWM3vwPQy3VcL0jsMlKaP76NSk=",
           "py3"
         ]
       }

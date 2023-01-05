@@ -14609,6 +14609,48 @@
       }
     }
   },
+  "botocore-a-la-carte-amplify": {
+    "1.29.43": {
+      "sdist": [
+        "71Gm9LjA6jjU/8GjplMGMNetKtLg68eDXEpR/nQi7NE=",
+        "botocore-a-la-carte-amplify-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplify-1.29.43-py3-none-any.whl": [
+          "8BRUwrGMvaOULS5umD/YbIHHXCM1rfE5VEGnPVL9f/E=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-cloudformation": {
+    "1.29.43": {
+      "sdist": [
+        "Vj7KQ1T+i4B8SVz+Go4ZV+kVHNFP0tQOZ4vXhPhFwrI=",
+        "botocore-a-la-carte-cloudformation-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudformation-1.29.43-py3-none-any.whl": [
+          "Ft/0JH4BS52mur0Lwfvk7UnbJRNXq21FuHpMj/+Y/w0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "botocore-a-la-carte-eks": {
+    "1.29.43": {
+      "sdist": [
+        "tDZ+XjKq9w+pr9TUvJxyEl/lbUpz7BkUYvFQ29CZo0Y=",
+        "botocore-a-la-carte-eks-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_eks-1.29.43-py3-none-any.whl": [
+          "9gKQ8IwH320rhxBanAUVhFltkh3d6KtYdDUMh+yTonE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bowerstatic": {
     "0.1": {
       "sdist": [
@@ -19056,6 +19098,18 @@
       "wheels": {
         "cmake_init-0.33.0-py3-none-any.whl": [
           "mLVESIKHrlaXk3m0dQb5csmHW0atilPdeC4GG6ireeQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.34.0": {
+      "sdist": [
+        "Ax784Qqj2CFxWrZaJgVcnKDV1nWjADliAWcAO0uT/d4=",
+        "cmake-init-0.34.0.tar.gz"
+      ],
+      "wheels": {
+        "cmake_init-0.34.0-py3-none-any.whl": [
+          "s8GhNq7xnUSD3V5LBtr4vUXDpFDp4bYJwR7A873lztI=",
           "py3"
         ]
       }
@@ -69240,6 +69294,18 @@
       "wheels": {
         "lndb_rest-0.3.0-py2.py3-none-any.whl": [
           "L/tTzqO96jk7vGELvUot+4kWKbRCyHEQgFORx00mw2Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "WCeupFGYFZvCf6/J4OqaoVbk4bFHBsD9n8nWQZFGBoI=",
+        "lndb_rest-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "lndb_rest-0.4.0-py2.py3-none-any.whl": [
+          "NEyYNFSbIfBMxsm+V5wqS5dS0QTwbg+KDqxoG1p0Eqw=",
           "py2.py3"
         ]
       }

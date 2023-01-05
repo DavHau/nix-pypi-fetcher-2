@@ -15245,6 +15245,20 @@
       }
     }
   },
+  "botocore-a-la-carte-dlm": {
+    "1.29.43": {
+      "sdist": [
+        "EWFo7SoVhaDpKRSUJbjZyzOjhogXGvU86t7oykwvdXc=",
+        "botocore-a-la-carte-dlm-1.29.43.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.43-py3-none-any.whl": [
+          "4pMlFaBB3mbYdM5Z5rWQ0yCIZZo9kz84Ob+NV+F0wM4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bottle-session": {
     "0.1": {
       "sdist": [
@@ -33634,6 +33648,18 @@
       "wheels": {
         "dapla_team_cli-0.0.7-py3-none-any.whl": [
           "uKt5YbkND46YlIWGyQWkZ6dTEmYJ2uledQcgc0WcAsc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "kDXpA+MCwSN511+K6wpLVLxjKUo0n7mrdWHT+Nh5Tl0=",
+        "dapla_team_cli-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "dapla_team_cli-0.0.8-py3-none-any.whl": [
+          "BwhxW4nlFNxOT11EfGs6M1aSYkNMeD5C8ULOSUFcPM0=",
           "py3"
         ]
       }
@@ -105456,34 +105482,10 @@
     }
   },
   "pyiota": {
-    "1.0.0": {
+    "1.2.0": {
       "wheels": {
-        "pyiota-1.0.0-py3-none-any.whl": [
-          "p0NRdN0TmwIuWzqbasyZ5KCINnf+ts23HfTlXosAyJQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "wheels": {
-        "pyiota-1.0.1-py3-none-any.whl": [
-          "3HZEjcdbHqw4jBZleIzofHEsN6YU7/9Ioes+dr6xXU4=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "wheels": {
-        "pyiota-1.1.0-py3-none-any.whl": [
-          "3uLdE9YmyRWwLSW5BNZiHAvle84ZilmS+nEmvf0a0bM=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.1": {
-      "wheels": {
-        "pyiota-1.1.1-py3-none-any.whl": [
-          "88SOACDu8Xz/9yhEJndfo4zHOwKn4yrh7OEYQpnc2B0=",
+        "pyiota-1.2.0-py3-none-any.whl": [
+          "AUZPlMgUj72/bst6FEQmAHUtHFQdFaEWk99BAkPgIyY=",
           "py3"
         ]
       }
@@ -125169,6 +125171,30 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "MD7ScaEoKiAmmiB8MiWHojUb7jJ6K4kAjLB6KQFtJAQ=",
+        "souvenir-sv-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "souvenir_sv-2.0.1-py2.py3-none-any.whl": [
+          "IpJQIdXj4+jm/thsfH6LpKf1rXF/hNYX/VmFpCJxQII=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "xnj4kjPPfeBHz3opg61er5ua1og6ZLLnwoAqPBPImNc=",
+        "souvenir-sv-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "souvenir_sv-2.0.2-py2.py3-none-any.whl": [
+          "lLb2KF7+C5TJ3zgSIT+KHkVTEAlADrxtnXjTL4jw7Xo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "spaceone-identity": {
@@ -139296,6 +139322,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.807-py2.py3-none-any.whl": [
           "XUqD8qllEjt3pMHWQIK6rc5wSw3myiwLbrTVynxd4XE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.808": {
+      "sdist": [
+        "oxe17hycaJGxDr4RdnRiSMFquLHkjN6+HKaI6TCX5zI=",
+        "tencentcloud-sdk-python-ckafka-3.0.808.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.808-py2.py3-none-any.whl": [
+          "LajNYi8/z6SRdEV44IY4Jonwz9McR36w7RofZYbNhBo=",
           "py2.py3"
         ]
       }
