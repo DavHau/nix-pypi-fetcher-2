@@ -1660,6 +1660,12 @@
         "ajenti.plugin.datetime-0.41.tar.gz"
       ]
     },
+    "0.42": {
+      "sdist": [
+        "K+3BMh/7yGEBfuzIt7WWVMC49KDLQ9w1BzV/+QM1R7k=",
+        "ajenti.plugin.datetime-0.42.tar.gz"
+      ]
+    },
     "0.5": {
       "sdist": [
         "083yp6w+5MRzfqdRz0vTy0JCAYAZWR/CKk7grImDWCM=",
@@ -14973,6 +14979,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.3": {
+      "sdist": [
+        "tk0jQYnZ5IxwNmbLT3t21cy+baE8Peon2X+6pCodKHI=",
+        "CityLearn-1.4.3.tar.gz"
+      ],
+      "wheels": {
+        "CityLearn-1.4.3-py3-none-any.whl": [
+          "Y2aVhk+JVb/dQ06Tyi5Q4tNYIPybGpUJ53UNll+WXo0=",
+          "py3"
+        ]
+      }
     }
   },
   "classproperty": {
@@ -25582,6 +25600,44 @@
       "wheels": {
         "cuttlery-0.1614-py3-none-any.whl": [
           "82YlaFqvn8s1Iqzj9WxmLQA9nDmJu+PxWPDEhaDF3aY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "cyberprime": {
+    "0.0.1": {
+      "sdist": [
+        "lS6KwjexxD/DdTyg0byqrNPePHSir3y2rEmmd6OgcDs=",
+        "cyberprime-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cyberprime-0.0.1-py3-none-any.whl": [
+          "Jieip/zs6WtIL0CyvooOmWGIwWrFZdwpAj5FXJsGJp8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f+JW6UhrP6eSH9XnAjIW+qcc4r1WaTvMPso53xkvafw=",
+        "cyberprime-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "cyberprime-0.0.2-py3-none-any.whl": [
+          "JsT3ueFpVN8QeEhEd8sPmzntCU96l6Zk0OZBkeo95dI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "HbNMTOXtm/hM+W/NomBgg3I9vY3oOSDXK95uW/dCfcw=",
+        "cyberprime-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cyberprime-0.0.3-py3-none-any.whl": [
+          "4QyuqHIm0B4sP09T2YO3jev5Ai18SwyZXxEI+LIOHRw=",
           "py3"
         ]
       }
@@ -80459,6 +80515,86 @@
           "cp311"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "j8lpqJ+Goni01kE3veqZ8hCx0VNvhwDBhPgIoVtgNTE=",
+        "mqttbytes-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mqttbytes-0.2.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "iTXUgGsd8CwQ9PtLy6zT7jrETwsppQBmK8OqEk7jpPE=",
+          "cp310"
+        ],
+        "mqttbytes-0.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hLV/uYXcIZVWjxu9l3mTNKC0VXeOCOQY+qfQdG9SaA0=",
+          "cp310"
+        ],
+        "mqttbytes-0.2.0-cp310-none-win_amd64.whl": [
+          "srawYDev/4YjeBcUhF+K0ZGsGI3JGKhpG8aYKknq8J8=",
+          "cp310"
+        ],
+        "mqttbytes-0.2.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "onpZUHu4KkrBlzsYkwaDQIVXybHuwSfUhq7XcRJLZno=",
+          "cp311"
+        ],
+        "mqttbytes-0.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PvS35+UPgxNNxI60/rRe9CCcS2X6Vm+J0AjQ3FvbLTI=",
+          "cp311"
+        ],
+        "mqttbytes-0.2.0-cp311-none-win_amd64.whl": [
+          "JeHvMXdSeB427xCwUAGOTIHm8QUZu68goRkyeO0X6wo=",
+          "cp311"
+        ],
+        "mqttbytes-0.2.0-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "7Q0DeJIeeNGtp+eQgHp7k1Y7yOIG1HCxbjNuxKx5tEo=",
+          "cp37"
+        ],
+        "mqttbytes-0.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NUIaLib33r06VdcGrGK1K9drBdizVOcI8KfjK4dyO1U=",
+          "cp37"
+        ],
+        "mqttbytes-0.2.0-cp37-none-win_amd64.whl": [
+          "YA3+I4lCePtbvDw5fJ1j5mJ5R3f4SEOmNrtmuwyhZW4=",
+          "cp37"
+        ],
+        "mqttbytes-0.2.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "RAOo4ZQjbRdF7hGKbtSDW40SYFrszmct4nVWDiDklrE=",
+          "cp38"
+        ],
+        "mqttbytes-0.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VL0ncLOCRLuSr8FD2b8SmY13U8RT/ry9UAiUW3MjJDA=",
+          "cp38"
+        ],
+        "mqttbytes-0.2.0-cp38-none-win_amd64.whl": [
+          "ZXbytUws4I8rEAH/5ZinuRPyZl+6CKkc+hHo0HyHgtA=",
+          "cp38"
+        ],
+        "mqttbytes-0.2.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "W7QJlkKr+qcjoj2e8VmYCB9HtdmAVYiyjMgYBMp28wQ=",
+          "cp39"
+        ],
+        "mqttbytes-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Wk4Fxoik+TZmHzRbjclsBSFKfKeSVWLk81dQIePF5Cw=",
+          "cp39"
+        ],
+        "mqttbytes-0.2.0-cp39-none-win_amd64.whl": [
+          "+ecOdtWXLygnFIVxJ6CaSbmdk5C3N+ci3R0kkyWFa8I=",
+          "cp39"
+        ],
+        "mqttbytes-0.2.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "viHB1cVGliBZfuUbQ2x//0OT/0asut+kzcwi5E7+UdA=",
+          "pp37"
+        ],
+        "mqttbytes-0.2.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NYVFNJtFPPoc80WK5mURxK9ajWHxEsrUV50Q7LkkMTs=",
+          "pp38"
+        ],
+        "mqttbytes-0.2.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zlWkFCpa8id8fmnENpamFxu0n6SJStPG6NbNRAcbFYU=",
+          "pp39"
+        ]
+      }
     }
   },
   "msprites": {
@@ -106696,6 +106832,14 @@
       "wheels": {
         "odoo14_addon_shopfloor-14.0.2.16.0-py3-none-any.whl": [
           "FOV+MAM42SpJGgFHD8VOiekceHKY2YWDPXUf37mm7OE=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.16.1.dev1": {
+      "wheels": {
+        "odoo14_addon_shopfloor-14.0.2.16.1.dev1-py3-none-any.whl": [
+          "4WkwsQizNGyYy5sVFF4/1zDwsgVcKcis8pf45/kq9Qo=",
           "py3"
         ]
       }

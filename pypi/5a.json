@@ -10685,6 +10685,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230106": {
+      "sdist": [
+        "PZbKuO+f3yZSZTO/GbKJ6XZhUiCgvvVVYmuHVC8R8Ng=",
+        "bigdl-dllib-spark3-2.2.0b20230106.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20230106-py3-none-macosx_10_11_x86_64.whl": [
+          "PE7+nbDDTsXrsbsdVwLYGT0WRs6sxfllhFVFZHhT5G0=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20230106-py3-none-manylinux1_x86_64.whl": [
+          "HAKO4S5iRzYVz4i+czW/eZ/owvMIMxhT/2frhRgWsV8=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -138898,6 +138914,18 @@
       "wheels": {
         "syngen-0.0.56-py3-none-any.whl": [
           "9UbLSC14JsM7e0VQStGPkbZF9FR9wx+JH34cKRHCGXM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.57": {
+      "sdist": [
+        "JErWu/CjNLF53Q6/inJMB2VLPDMyXRQ0f9UzYjX3JC0=",
+        "syngen-0.0.57.tar.gz"
+      ],
+      "wheels": {
+        "syngen-0.0.57-py3-none-any.whl": [
+          "VseBSQQhNy/wFh1//kaWfmaY5ux2wWOjFwi0FSPSOnM=",
           "py3"
         ]
       }

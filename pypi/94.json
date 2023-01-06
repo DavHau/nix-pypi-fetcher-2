@@ -1998,6 +1998,18 @@
         ]
       }
     },
+    "0.15.20rc0": {
+      "sdist": [
+        "8fwkTewgMpmG22RbpRTn4icj9mgHdA5E4TrsfZbj5Ss=",
+        "alvin_integration-0.15.20rc0.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.15.20rc0-py3-none-any.whl": [
+          "ABPetHdAtdgNwAd1jbRZuV36EeDntDEPKUYy8QsU+jE=",
+          "py3"
+        ]
+      }
+    },
     "0.15.2rc0": {
       "sdist": [
         "IywlhpzVbyvelhYF6K25G4pam/dUSPF3ZfZ98s5jRa0=",
@@ -2210,42 +2222,6 @@
       "wheels": {
         "alvin_integration-0.16.2b9349-py3-none-any.whl": [
           "CJ60qGhdenwJh8usCDbEy4JjzpQ/PexFgSa/Ynlucf8=",
-          "py3"
-        ]
-      }
-    },
-    "0.16.3b1584": {
-      "sdist": [
-        "ucgn758aa8sKHQxWjl0HskziIMysDBqhXdYS3+MYf7E=",
-        "alvin_integration-0.16.3b1584.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.16.3b1584-py3-none-any.whl": [
-          "9aOWSBXH1FDoKU7rkWueMaqH+yrtzg6ZQYYH1Q/XOag=",
-          "py3"
-        ]
-      }
-    },
-    "0.16.4b13387": {
-      "sdist": [
-        "5mdKLBoHm61riGnbPc+QX6Y1ZCZy6f7k+dDf1qTNG+g=",
-        "alvin_integration-0.16.4b13387.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.16.4b13387-py3-none-any.whl": [
-          "JqaWywo5PRW0f6HzcjO8+HbohCsXDG3V7jc7tQXmy8g=",
-          "py3"
-        ]
-      }
-    },
-    "0.16.5b14813": {
-      "sdist": [
-        "SqqOJ/Qw6pD8Idb6/Gujs2BJHCXCgX2rGM9cdMFvw2I=",
-        "alvin_integration-0.16.5b14813.tar.gz"
-      ],
-      "wheels": {
-        "alvin_integration-0.16.5b14813-py3-none-any.whl": [
-          "UBjqbfK3HMm9enqOHyAVgQugr87gvIpJyFSOH7cXlIA=",
           "py3"
         ]
       }
@@ -31686,6 +31662,18 @@
       "wheels": {
         "dpdispatcher-0.5.0-py3-none-any.whl": [
           "zRWux2/Sw/OC5sdcgkYgT+2R1zV1qabVUhsR+HLOFfQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "tsq8cDkazu5AlTgfjbCrIKmrzChJoGJZ7bWKVl3aBOw=",
+        "dpdispatcher-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "dpdispatcher-0.5.1-py3-none-any.whl": [
+          "FmvLZtzWIY6TnGjrlVlV4HhkolAGCUkrln+6t1SPp8w=",
           "py3"
         ]
       }
@@ -65476,6 +65464,12 @@
       "sdist": [
         "1wczOB6BAgWI3jSu6xDGUvJG1jBVThwRJuf/emaQfog=",
         "localstack-ext-1.3.2.dev20230105120225.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230106073122": {
+      "sdist": [
+        "po2VuvwYHpkoaagV7FL7NOCwjyfhxjVKz9SGkXcn3Dw=",
+        "localstack-ext-1.3.2.dev20230106073122.tar.gz"
       ]
     }
   },
@@ -114665,6 +114659,12 @@
         "7nubhg4FtGmmoprn3r0ABCL4S20/heTreaT2akQnaxA=",
         "salure_helpers_salesforce-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "hYggIkewWGGD07TP2lIpCke3LWbU+GLx53pAmLnVZlk=",
+        "salure_helpers_salesforce-1.0.1.tar.gz"
+      ]
     }
   },
   "sample-distutils2-project": {
@@ -123814,6 +123814,14 @@
       "wheels": {
         "stix_shifter_modules_sentinelone-4.0.14-py2.py3-none-any.whl": [
           "ozzb/Ev4q8Q4CTfI0sTpb9Q5ucZ4XFrwct7swdwsJ5A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.15": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-4.0.15-py2.py3-none-any.whl": [
+          "QU7+ya5Bb9OkoNLedNw5RZyIKuehG33Spx1qmH6NOI8=",
           "py2.py3"
         ]
       }
@@ -143844,6 +143852,18 @@
       "wheels": {
         "xrst-2023.0.1-py3-none-any.whl": [
           "fI9USM4Y8fXc/0OcvkrBjfQHJGKL6ukkT1wn8E9unFc=",
+          "py3"
+        ]
+      }
+    },
+    "2023.0.2": {
+      "sdist": [
+        "y13zXPRnJhy5bzEA+2fchEaUHx6p7bvzQwJg/RbenOE=",
+        "xrst-2023.0.2.tar.gz"
+      ],
+      "wheels": {
+        "xrst-2023.0.2-py3-none-any.whl": [
+          "7w1X99DZVvUgCMVj6W++e/i/FmxbWCQhbYvVFqUyRBk=",
           "py3"
         ]
       }

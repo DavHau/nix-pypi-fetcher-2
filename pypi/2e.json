@@ -15915,6 +15915,24 @@
       }
     }
   },
+  "cfredmond-bme280": {
+    "0.1.0": {
+      "wheels": {
+        "cfredmond_bme280-0.1.0-py3-none-any.whl": [
+          "T5RKz2GBpdFegmvjbeuyXtQmFMoGmOtCen82UgvmkZI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "cfredmond_bme280-0.2.0-py3-none-any.whl": [
+          "I2wJ/exQMCoh3nzI5/SBg2oHYrlIi/utqsVCyn+NXb8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "chainer-libdnn": {
     "2.0.0": {
       "sdist": [
@@ -75671,6 +75689,12 @@
         "nmwCstBU/CrWHExDRz88MhrrjqXBgDmxA155de6esxE=",
         "netbluemind4-4.1.64922.tar.gz"
       ]
+    },
+    "4.1.64941": {
+      "sdist": [
+        "Sfq1d8ylWVUblrueAiDxNP+BH3ziLmql71xMQtW6tak=",
+        "netbluemind4-4.1.64941.tar.gz"
+      ]
     }
   },
   "netbox-acls": {
@@ -94284,6 +94308,18 @@
       "wheels": {
         "pycozo-0.4.0-py3-none-any.whl": [
           "nqUDdGvNOzko9OyNW+Aa3RrTdh1nHPaUe2hZgxfVuQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "x6i7JlcxB14YOyUSUj+XzZdntCJiMsHlfBqKNGfSx70=",
+        "pycozo-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "pycozo-0.4.1-py3-none-any.whl": [
+          "1lSlf41Jg3BwlBhQKiJPwvmKukKjZ0sT5A6R51b5eEY=",
           "py3"
         ]
       }
@@ -124745,6 +124781,32 @@
         "m0aZaypIr94vRazwiweD8NhyUhvdY2xWZXFI3NFHT9k=",
         "textLine_count-0.3.tar.gz"
       ]
+    }
+  },
+  "texy": {
+    "0.0.1a2": {
+      "wheels": {
+        "texy-0.0.1a2-cp39-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "gmyQZMwMp1iwwsLZ/yhnCqN6w6cXRb1Goo4f3thZL0M=",
+          "cp39"
+        ],
+        "texy-0.0.1a2-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lccXeAXGJNh9gfn2+yZ7o7VE4YeVnDb1pH5WVhDdf/Q=",
+          "cp39"
+        ],
+        "texy-0.0.1a2-cp39-abi3-musllinux_1_2_aarch64.whl": [
+          "GM5fCGrozpSdwqNqwPpXlLcrLOzhjN1PjBRPENrA0bo=",
+          "cp39"
+        ],
+        "texy-0.0.1a2-cp39-abi3-musllinux_1_2_armv7l.whl": [
+          "aoqO3ccPfo4AVbM1mWhh62ZU4J5P5vgDP696GuRIFxQ=",
+          "cp39"
+        ],
+        "texy-0.0.1a2-cp39-abi3-musllinux_1_2_x86_64.whl": [
+          "rZ6WJ/uslP187mY99JpAk1G+CPoOTpPJSFiVMJN6C1c=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfdsio": {

@@ -82001,6 +82001,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.0rc2": {
+      "sdist": [
+        "KkkIVWPiABWSyJJj9d2UY96r5/4qMJGm0fFfn2aV/Vg=",
+        "mmrazor-1.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "mmrazor-1.0.0rc2-py2.py3-none-any.whl": [
+          "ApOK8eNNE+vG1+w8Ycm/GoTTSbK9+HqA7XnAoGVJlG0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "mock-serial": {
@@ -110889,6 +110901,20 @@
       ]
     }
   },
+  "python-mads": {
+    "0.0.1": {
+      "sdist": [
+        "sXzZZLhbd+tZOB9A4e47fl9QxL5F/gSYAITF3EHEezQ=",
+        "python_mads-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "python_mads-0.0.1-py3-none-any.whl": [
+          "RRumDq22L2g3G9DjEctdYJtKCTvQSFBt3zZN8aPhfn0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-mercuryapi": {
     "0.4": {
       "sdist": [
@@ -128366,6 +128392,14 @@
         ]
       }
     },
+    "4.0.15": {
+      "wheels": {
+        "stix_shifter_modules_darktrace-4.0.15-py2.py3-none-any.whl": [
+          "1aT68JonbLV6/XC9rgubDYwzBZeeTDvddOeqL5wkJaE=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.6": {
       "wheels": {
         "stix_shifter_modules_darktrace-4.0.6-py2.py3-none-any.whl": [
@@ -137989,6 +138023,16 @@
         "F3wNmtneGUPC3bV1WWxofcupk6YXQPMk94JJCj1OJVg=",
         "test_upload_distributions-0.1.tar.gz"
       ]
+    }
+  },
+  "testcontainers-rabbitmq": {
+    "0.0.1rc1": {
+      "wheels": {
+        "testcontainers_rabbitmq-0.0.1rc1-py3-none-any.whl": [
+          "hkJEOb+EhsH7J4V9Uv9lXX2P3GixM4AqTr4H8g9jj8c=",
+          "py3"
+        ]
+      }
     }
   },
   "testebibrit": {
@@ -152200,6 +152244,12 @@
       "sdist": [
         "HznLozy/yQTM+FWkuQFH5DYgM4zmqCDd2PWGgPyDkrk=",
         "wizzi_utils-8.0.1.tar.gz"
+      ]
+    },
+    "8.0.2": {
+      "sdist": [
+        "xk/A6pXwzcL5a8AS+NDAkZHPzlkwENRBp/8fb7sI618=",
+        "wizzi_utils-8.0.2.tar.gz"
       ]
     }
   },

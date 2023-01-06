@@ -1419,6 +1419,12 @@
         "4aOKFV/idPIc12F77nbjE83wJpfhxp63oqHVdrtVeOg=",
         "alibabacloud-dkms-transfer-python-0.0.5.tar.gz"
       ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "9NGNjTcPzofCVtMeQthMVWxhuUWT4CVtS0krJRRHJ+Y=",
+        "alibabacloud-dkms-transfer-python-0.0.6.tar.gz"
+      ]
     }
   },
   "aliby-extraction": {
@@ -11178,6 +11184,18 @@
       "sdist": [
         "CZYZnDadPCYpnX9Jk6CG14Q3pA+Dd0a0nbJeu++eG1g=",
         "bobcatpy-2.0.1.tar.gz"
+      ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "rArsl7rTH7F36TBdba0RULVmlbzKEcbme9wENJmZH68=",
+        "bobcatpy-2.1.0.tar.gz"
+      ]
+    },
+    "2.1.1": {
+      "sdist": [
+        "/UyjGgXnG86m4ioNlA+Yi4FWxcNu+dVyJJzZYeZTks4=",
+        "bobcatpy-2.1.1.tar.gz"
       ]
     }
   },
@@ -58127,6 +58145,12 @@
         "c8w3xwl3xK62z8M/7BBFsKrZTDDxsfQ5CiA99HF34/c=",
         "global-workqueue-2.1.6rc4.tar.gz"
       ]
+    },
+    "2.1.6rc5": {
+      "sdist": [
+        "EsNEIm2vt7OPf8QJGT6J9TfcT0YoOp8b7DK4iUUvuZs=",
+        "global-workqueue-2.1.6rc5.tar.gz"
+      ]
     }
   },
   "gmailfs-fuse": {
@@ -74798,6 +74822,30 @@
       "wheels": {
         "light_progress-0.4.0.0-py3-none-any.whl": [
           "20SpVplgfkVOz1TM+37dgtS72ED7g6Hv1gSYFaKpqOw=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0.0": {
+      "sdist": [
+        "3Y7oLaNmv6chqQu8b+tagZ1Pj+RUVh/Ej64qXEKmMhg=",
+        "light-progress-0.5.0.0.tar.gz"
+      ],
+      "wheels": {
+        "light_progress-0.5.0.0-py3-none-any.whl": [
+          "X5JDUs/NuOADC0T4dhgm9yrca2HkUUYfJc0p+8AnYKU=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.0": {
+      "sdist": [
+        "KUg93LIUasSwGCgc+P18H5u7ORqglh3QolPXjgjyEAE=",
+        "light-progress-0.6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "light_progress-0.6.0.0-py3-none-any.whl": [
+          "mDc5smG4CesYWHuYpGuV6mvNOqX9ew7yVCmObLXE6Ds=",
           "py3"
         ]
       }

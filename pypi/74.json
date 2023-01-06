@@ -12217,6 +12217,18 @@
           "py3"
         ]
       }
+    },
+    "0.1b20230106": {
+      "sdist": [
+        "ZKOFGRsAK3F0lXYC0v1D2XxSK1vHgZGGNc19klNOLUw=",
+        "autogluon.cloud-0.1b20230106.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1b20230106-py3-none-any.whl": [
+          "DVyMCTDSGJRWqliiD1eDIbvHrd4UvZP7C4v1LdaUM3E=",
+          "py3"
+        ]
+      }
     }
   },
   "automagic-rest": {
@@ -70390,18 +70402,6 @@
       "wheels": {
         "mugwort-0.4.1-py3-none-any.whl": [
           "pZVgxcueYPqo1kZ9chSL1Cqbabranksz6Ad1mfDwOf4=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.3": {
-      "sdist": [
-        "Kr31wjejtknKRMsxZDJBERjobIKft1LG/LNKV5LjO14=",
-        "mugwort-0.5.3.tar.gz"
-      ],
-      "wheels": {
-        "mugwort-0.5.3-py3-none-any.whl": [
-          "EzQnVKhkHAcN1U0CB58wFSof7p/feGKmg/BG2fU3+2w=",
           "py3"
         ]
       }
@@ -135553,6 +135553,32 @@
         "tap_jotform-0.0.4a3-py3-none-any.whl": [
           "aNxDgIbG2RE+ymwVJkZhlzpKdJqiWnrGl0wBVcUpcLQ=",
           "py3"
+        ]
+      }
+    }
+  },
+  "tcanalysis": {
+    "1.0": {
+      "wheels": {
+        "TCAnalysis-1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "rNTSWBihkJpiE2s43wDt98CRirUmAJI7nXd8/Q8V07k=",
+          "cp310"
+        ],
+        "TCAnalysis-1.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "JCu3JqqMcJFzBnpBgmKeN//bKdpXIxwS3HTmBBTIAes=",
+          "cp36"
+        ],
+        "TCAnalysis-1.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "WHtdk7j2LLzpne3NghAcUKJR6owJCPrrgH6QL8ZZifQ=",
+          "cp37"
+        ],
+        "TCAnalysis-1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "1n5b4dM9v1v8AeLnbA7AVOrPF4AExh3MYaH7ZGXczOI=",
+          "cp38"
+        ],
+        "TCAnalysis-1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "J6SCTZmhiquBTTgUitga79DJt+EzowNrTFhnn/eBSlc=",
+          "cp39"
         ]
       }
     }

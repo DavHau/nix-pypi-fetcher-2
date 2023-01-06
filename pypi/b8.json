@@ -111801,6 +111801,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.1.1.0": {
+      "sdist": [
+        "0I3HFm5LfSwmkOrg7P3FcN208WwAj4LIAwVl/ovNZwA=",
+        "robotpy-cscore-2023.1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_cscore-2023.1.1.0-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "yD3I0lV5yC6YF2x9fibj5Pjtnaz+yQfL2P7KEktvuEY=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "kF/EX2RRQZMRIOwVzZEZrwzzc5rj8MSTHkLQWTZPHyk=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp310-cp310-win_amd64.whl": [
+          "Ufv943kuOixZ/mOHECZDVZpIgqY345Pz6n7eTAY0HDc=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp311-cp311-macosx_11_0_universal2.whl": [
+          "kLtnOR+x6yhuYh5i4qTI6HYz671ozqqnZc9CqwU/2Xg=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "WNGwvHvWI4PeT+IHYZk/j9ht6vcoO1YNKZHbFUijNAs=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp311-cp311-win_amd64.whl": [
+          "QlD2sDQAuMwyGfl0DgNCHtT+f/Wf6OVdheKkfbnVV7g=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "R700wqimkwaX5QFer2sPLPM0tw/IG/To3jK54Q1EcYo=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "QxrT9zsJVZD5rEwDxEE5fOQ3QiSrtjPUL2/vm6Mzxqc=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp37-cp37m-win_amd64.whl": [
+          "05pRfnlRaSMTQnyzsjplWsjcDYGRwclvmwdeqId44fo=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "di152nF4zghlo6Qfa35qVPrBA5mRVPQ4FCbSUJOyag4=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "15yty6p9OX/TUC4eNB3SNqTKF2uWE4ohJylOMo/v6+o=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp38-cp38-win_amd64.whl": [
+          "WtOFxJhm6ya/rN7tUw9hHs9AMb0JawXx8dMrBCU1YzQ=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "e/I4deqiZa9zGRgz747CieRhPM7RaHK9jyZVzvld/6s=",
+          "cp39"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "m8PsPDhMq0CQ1NEZAfATrb4xzbuJRy+gBFuQe1Tbehc=",
+          "cp39"
+        ],
+        "robotpy_cscore-2023.1.1.0-cp39-cp39-win_amd64.whl": [
+          "HAT633lSKLF3auW11Wig3PzKCG5i6Cyf/inWfgecr0Q=",
+          "cp39"
+        ]
+      }
     }
   },
   "robotpy-halsim-lowfi": {
@@ -112924,6 +112992,18 @@
       "wheels": {
         "saih_duero_scraping-1.0.4-py3-none-any.whl": [
           "r52RbVXqdZTen4BU3FdrJ7BXhvXiDP0Usawsp9MBR8E=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "/4cATHLB/i9H8GmZKyMIMLJX8QG740z2duydyEwRq+g=",
+        "saih_duero_scraping-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "saih_duero_scraping-1.0.5-py3-none-any.whl": [
+          "64YMH8qBBlrftyizfmdQfOdtUMfLhwtPn9bLb3Ujg1w=",
           "py3"
         ]
       }
@@ -128554,6 +128634,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.6.0.dev20230105-py3-none-any.whl": [
           "Ca3eyEJvbGMAwiADVVIs1U6nEEOJ84hvhkwhCVeWi88=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.dev20230106": {
+      "sdist": [
+        "/3Zz319jDJquFishSnmWnrzhtQaC+EjZ9LdWQkxMehI=",
+        "tensorcircuit-nightly-0.6.0.dev20230106.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20230106-py3-none-any.whl": [
+          "cuAZdxDwSvA/FOVcB28WDAuYhQfMeCXpHIGe2A4v0DA=",
           "py3"
         ]
       }

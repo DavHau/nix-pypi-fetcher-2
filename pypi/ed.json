@@ -79921,6 +79921,64 @@
       ]
     }
   },
+  "memimport": {
+    "0.13.0.0.post2": {
+      "sdist": [
+        "VrxG5Cr9/y3E8bIpoBEwosFCapQ9/5HI0Mq5GUxJLfY=",
+        "memimport-0.13.0.0.post2.tar.gz"
+      ],
+      "wheels": {
+        "memimport-0.13.0.0.post2-cp310-cp310-win32.whl": [
+          "DB5K1DcwRArVTzjWN2KNhoCS+htoQNSroNhSiS3W/6o=",
+          "cp310"
+        ],
+        "memimport-0.13.0.0.post2-cp310-cp310-win_amd64.whl": [
+          "eWE6OxaLotKyckIVmMgJDyYNz71D18p0tLg6FENIBvk=",
+          "cp310"
+        ],
+        "memimport-0.13.0.0.post2-cp311-cp311-win32.whl": [
+          "9KEeNc4ZlCu54nh7RD+CIWrcmtakneK0XsbN4Gp2dq0=",
+          "cp311"
+        ],
+        "memimport-0.13.0.0.post2-cp311-cp311-win_amd64.whl": [
+          "htvhDNj95X+TaT8ow6ig9GDUsunLPFd4iACAIXcH3iM=",
+          "cp311"
+        ],
+        "memimport-0.13.0.0.post2-cp36-cp36m-win32.whl": [
+          "YVdg0p9zBwLIVm+W9g240/1HQWVFwrbaXhNxewCU04I=",
+          "cp36"
+        ],
+        "memimport-0.13.0.0.post2-cp36-cp36m-win_amd64.whl": [
+          "MHSU0k4tXZcYF3dWaSHoLsSCHsP3wNCmBwdA62j2VjU=",
+          "cp36"
+        ],
+        "memimport-0.13.0.0.post2-cp37-cp37m-win32.whl": [
+          "PbRvjGyjHos3Q8QGbIGpCEI7PTFY/sX02FgOQq8tKwQ=",
+          "cp37"
+        ],
+        "memimport-0.13.0.0.post2-cp37-cp37m-win_amd64.whl": [
+          "4+NRRWKXPKdCuANkE3fV+IddQZWExQ5uAuicDfRTFYA=",
+          "cp37"
+        ],
+        "memimport-0.13.0.0.post2-cp38-cp38-win32.whl": [
+          "951hjSzAdn5B7dYazRkUEPr0cZO7HocWpsfik4uMnbs=",
+          "cp38"
+        ],
+        "memimport-0.13.0.0.post2-cp38-cp38-win_amd64.whl": [
+          "TBNnDmfP/kbupnCUNAZp0oVPsucALlKNNfH3uGsQoMs=",
+          "cp38"
+        ],
+        "memimport-0.13.0.0.post2-cp39-cp39-win32.whl": [
+          "WV9Phr/UDjTZDmPr2kn4LOtJHi9DSUJRes9MK8ilCMw=",
+          "cp39"
+        ],
+        "memimport-0.13.0.0.post2-cp39-cp39-win_amd64.whl": [
+          "Qw86tlrpXX6D+SdaNFrAPILEiOEKd1YOSrBXd01NeUY=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "memoizit": {
     "0.1.0": {
       "sdist": [
@@ -104526,6 +104584,14 @@
       "wheels": {
         "odoo12_addon_stock_picking_report_undelivered_product-12.0.1.0.0.99.dev2-py3-none-any.whl": [
           "It8n72RsChLxknu9wTvh+zoEUrj2RkAz1TXV1fRYaSo=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_stock_picking_report_undelivered_product-12.0.1.0.1-py3-none-any.whl": [
+          "UvFaMJp2B/1HD3iHiwjn5ybnt46QKDp4gYLaE1r+SPc=",
           "py3"
         ]
       }
@@ -135214,6 +135280,30 @@
         ]
       }
     },
+    "0.0.18": {
+      "sdist": [
+        "1ZroQsiZHYhqQ6WrMSDrSHpcjx4N/kwXAL1KU89blMk=",
+        "sqltrie-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "sqltrie-0.0.18-py3-none-any.whl": [
+          "4j7n+DqKCkEg2kX5YFtxDSs02YouUugMk/TIln4lkGQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.19": {
+      "sdist": [
+        "7wU9KT5UiuwO88O8ObxJIPWMtrn2WfcD9kwowTvwD44=",
+        "sqltrie-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "sqltrie-0.0.19-py3-none-any.whl": [
+          "0c1PBLgdo/LwpYVaYJHSQNom2wm4MOsZD12FTIT9l5k=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "rZOUcic9fI3fTMBBF2whO7G0Z36qIXJaIDMOFrv4TdI=",
@@ -135222,6 +135312,18 @@
       "wheels": {
         "sqltrie-0.0.2-py3-none-any.whl": [
           "LQQHC99Qw7hIDucvUQHx/eOzdptoeU2xo5n9NY9FFfM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "sdist": [
+        "ATjeC5Pk1ZR2QR3QnDZC0p14TVHjaVJp7RMk8NC79+k=",
+        "sqltrie-0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "sqltrie-0.0.20-py3-none-any.whl": [
+          "5vWYCHO8JGN53MBSanT/qZhzhoGo6VCM+N0JF7nBkCM=",
           "py3"
         ]
       }
@@ -136308,6 +136410,14 @@
       "wheels": {
         "stix_shifter_modules_sumologic-4.0.14-py2.py3-none-any.whl": [
           "RKmPcxGlAhYorI1j48WKgKxSnzvx+vsQuX8mUjG5JZ0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.15": {
+      "wheels": {
+        "stix_shifter_modules_sumologic-4.0.15-py2.py3-none-any.whl": [
+          "ZsPhsJaMyRJX9YwdAvgU6oN7Xie2K/niZMIqHh8/cl8=",
           "py2.py3"
         ]
       }

@@ -69436,6 +69436,18 @@
         ]
       }
     },
+    "0.6.14": {
+      "sdist": [
+        "A4EEPO5ocrwLZYLCRMEB/+A8zECM25HqT8PRfq66I/c=",
+        "isolate-cloud-0.6.14.tar.gz"
+      ],
+      "wheels": {
+        "isolate_cloud-0.6.14-py3-none-any.whl": [
+          "XQU9dmWsYy/cPYjD8gVotIS72A5jxpRPZvNHgRUnn8o=",
+          "py3"
+        ]
+      }
+    },
     "0.6.2": {
       "sdist": [
         "5PDG81lb31gXC+aLQuiAjovluPyUduoXlM7QmPSmaJc=",
@@ -89434,6 +89446,14 @@
       "wheels": {
         "multi_model_server-1.1.8b20230105-py2.py3-none-any.whl": [
           "sCMX6Z4LpLUu3l9lhXdzty5ZRViNcNKtYxS9b/4Lay8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.8b20230106": {
+      "wheels": {
+        "multi_model_server-1.1.8b20230106-py2.py3-none-any.whl": [
+          "gr9dyWFixqRLY7g23jBkeXstkzbKxyF0RNz0SzCgYWI=",
           "py2.py3"
         ]
       }
@@ -141056,6 +141076,16 @@
       "wheels": {
         "test_pypi_package-0.0.2-py3-none-any.whl": [
           "1unCPTQWt4Kn7rU+sWWoRKTRrNEfi1iCs8J8AuxnMV0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "testcontainers-localstack": {
+    "0.0.1rc1": {
+      "wheels": {
+        "testcontainers_localstack-0.0.1rc1-py3-none-any.whl": [
+          "w7LT6XURNgp9CkEVM4QVqcJeRGOHfU0VWq2EjkIn51U=",
           "py3"
         ]
       }

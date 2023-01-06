@@ -24070,6 +24070,18 @@
         ]
       }
     },
+    "0.10.0": {
+      "sdist": [
+        "JRE1Wy2P7GQ+ezF1KG8Z94wFLmHVQMxncG8EmY+j6sI=",
+        "composeml-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "composeml-0.10.0-py3-none-any.whl": [
+          "XnOugFRGzg84InD2Yt6okm3GQEqLVOcUddYcKD4mBio=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "lpvY/b4xxMDbqiFHLVPlJHpY7rcbNIeQDRGsxUg6fwo=",
@@ -47344,6 +47356,18 @@
       "wheels": {
         "dynamicprompts-0.1.17-py3-none-any.whl": [
           "xl3EjkgzQ/Gs6Avf5KJuYmu0b3X1yLc6HUPNMpnZ1Vw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "b1J5hHHJ+6fMqsZqVyBay3AGQcDqxPsA/DAvoCpXe1M=",
+        "dynamicprompts-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "dynamicprompts-0.1.18-py3-none-any.whl": [
+          "rdclKlGfmbkJM2VgEvBnq4Jtmgl7RKc0HMd6Tbon8M8=",
           "py3"
         ]
       }
@@ -94636,6 +94660,70 @@
         ],
         "onnxsim-0.4.10-cp39-cp39-win_amd64.whl": [
           "bctu317ZhKxCZbxtC8QykPL0H2BSr3liQ/pRJeZ7JhE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.13": {
+      "sdist": [
+        "/78lXSFR5hlE0a9RYD3sMBVArnE5/BU2s06icgnIr4Q=",
+        "onnxsim-0.4.13.tar.gz"
+      ],
+      "wheels": {
+        "onnxsim-0.4.13-cp310-cp310-macosx_10_15_universal2.whl": [
+          "ckf99WRUwX9HR3OPxG87HAsNwmsRg9fOajNVKxFGDyc=",
+          "cp310"
+        ],
+        "onnxsim-0.4.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "650WxcPqXk1eXTWFm3QuNtii9wyv5pTPXciIBTbvCh4=",
+          "cp310"
+        ],
+        "onnxsim-0.4.13-cp310-cp310-win_amd64.whl": [
+          "alxQ0HxzY8jehdPgr3UOmF3gAp9wIrEM6zAoVGHz3no=",
+          "cp310"
+        ],
+        "onnxsim-0.4.13-cp311-cp311-macosx_10_15_universal2.whl": [
+          "X/LMQyp7wvLlYDuRf6d+0Lsb2lsitu10hIMvWnFmQRw=",
+          "cp311"
+        ],
+        "onnxsim-0.4.13-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+kv87stB7EL1ahuBH8EZiIVhl77oGoTdZw+Qlp+g/J4=",
+          "cp311"
+        ],
+        "onnxsim-0.4.13-cp311-cp311-win_amd64.whl": [
+          "1ckRJAzqk6Dqcv61i2XIN3lciQjHd9dnDoZGd+QZkVs=",
+          "cp311"
+        ],
+        "onnxsim-0.4.13-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oG7/WRH3RSqhCCHfnt5oZ8h8m+OalxkFFjKTw80f7rM=",
+          "cp37"
+        ],
+        "onnxsim-0.4.13-cp37-cp37m-win_amd64.whl": [
+          "P+UI72LDfm3raoJCP6UxHaOdrrJmtDF0YJCXlLehQK4=",
+          "cp37"
+        ],
+        "onnxsim-0.4.13-cp38-cp38-macosx_10_15_universal2.whl": [
+          "5uKH39emDkFrqURkUmb4nL6pjX8HNmMcru+Ycn4w1yY=",
+          "cp38"
+        ],
+        "onnxsim-0.4.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kQeRvp3XTSJ26EnaqSM4ET9l7pMNMSSAofsF4gvFyOY=",
+          "cp38"
+        ],
+        "onnxsim-0.4.13-cp38-cp38-win_amd64.whl": [
+          "KZH/+qXj8dudT6sP4nJmCqN5Pm4jahXhOaDEeiEAE8c=",
+          "cp38"
+        ],
+        "onnxsim-0.4.13-cp39-cp39-macosx_10_15_universal2.whl": [
+          "SYjJb/y1aSSk69+Ok9/p3l13PavnYzbAsLIV9/4qt6A=",
+          "cp39"
+        ],
+        "onnxsim-0.4.13-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DAdzz3awJTp8EL2TTB/xxlll/2uC9ApTaArj+KstG+A=",
+          "cp39"
+        ],
+        "onnxsim-0.4.13-cp39-cp39-win_amd64.whl": [
+          "VutDWTXB/+lipxLWsWlt75pyoq3q7V0kvPtCiNwvMts=",
           "cp39"
         ]
       }
@@ -147529,6 +147617,32 @@
           "py3"
         ]
       }
+    }
+  },
+  "velait-api": {
+    "0.0.2": {
+      "sdist": [
+        "skQSeO1wDYXGFOmvJasfE5Ohi3weh/dXHoqZhf1bLD8=",
+        "velait_api-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "QaPHvHKvBqGPoJMsDVOH+/39fiTvK5uVnTUE5e3cNHI=",
+        "velait_api-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "p2LG6UYjv2YG2pvpy/I2G56Thk40rn0KPMDRjNrvs0s=",
+        "velait_api-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "QwiJQxPY1oey8HyI/NLYn0fV0i8bFYjR8zq2jpmQyDg=",
+        "velait_api-0.0.5.tar.gz"
+      ]
     }
   },
   "veritass": {

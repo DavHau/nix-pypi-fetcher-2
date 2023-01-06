@@ -8599,6 +8599,34 @@
           "cp39"
         ]
       }
+    },
+    "2.2.2": {
+      "sdist": [
+        "0G/f4HfYGIxazcy41MuzSj/C1vhNu3uAf1I8xfbpuKQ=",
+        "atheris-2.2.2.tar.gz"
+      ],
+      "wheels": {
+        "atheris-2.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DwKwNUImbkOGSel+u/X5a5RmHOvKSahUIEJM9l/dHoc=",
+          "cp310"
+        ],
+        "atheris-2.2.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "E+sxVJlP5tEzDXbZcO7+JbQzry13XmkJkokLcU1Uto4=",
+          "cp36"
+        ],
+        "atheris-2.2.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/U2AUPVI4lg+1MRgAhHzQVN/B3v1Q5n3tPTYFLES81s=",
+          "cp37"
+        ],
+        "atheris-2.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IIeTPskd+dP7LuImScmBFTZRVRnYi8xYfWcBjD8CJ/Y=",
+          "cp38"
+        ],
+        "atheris-2.2.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "68zIeLpblYpCqX7c7f+f9GiCt8lo6Ey/MmMliEV4OPQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "atsge": {
@@ -78164,6 +78192,14 @@
         ]
       }
     },
+    "14.0.1.2.1": {
+      "wheels": {
+        "odoo14_addon_stock_picking_invoice_link-14.0.1.2.1-py3-none-any.whl": [
+          "2iGxIyq4sE8zVHXdAu5THe3j3RyG8ZIbbhOYkJlm1KQ=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.2.1.dev1": {
       "wheels": {
         "odoo14_addon_stock_picking_invoice_link-14.0.1.2.1.dev1-py3-none-any.whl": [
@@ -95968,6 +96004,74 @@
         ]
       }
     },
+    "0.2.4.1": {
+      "sdist": [
+        "QVaN4R4DEItVfgeIaRrWzUC0oG0YRWYPc7dCnjVvwOc=",
+        "pymoode-0.2.4.1.tar.gz"
+      ],
+      "wheels": {
+        "pymoode-0.2.4.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "Q2C6C/cO9eQa97ITqPuzd+CFrM+hdSA+AZ+iITv9bFE=",
+          "cp310"
+        ],
+        "pymoode-0.2.4.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+QDHREJjX9dnBXcAZuOtb6+Z+2RK7OgIfBKId+CjJ3k=",
+          "cp310"
+        ],
+        "pymoode-0.2.4.1-cp310-cp310-win_amd64.whl": [
+          "aWcxf8OFDu9P1zGWw1EtLemcCtfp9XEtBHQdtbzaguY=",
+          "cp310"
+        ],
+        "pymoode-0.2.4.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "cdOX/WTu4vLLIF9X/K8lcEoFfdwbVKi6hakRe04sJGc=",
+          "cp311"
+        ],
+        "pymoode-0.2.4.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qO5uQwYXHl8qnoRG5MfZKfhMGnE9OgrB6PxZ0/Auw30=",
+          "cp311"
+        ],
+        "pymoode-0.2.4.1-cp311-cp311-win_amd64.whl": [
+          "y20IDDUq1sVb0yvrzIKhYuVJTI2iNVGwTCiimC4OhUA=",
+          "cp311"
+        ],
+        "pymoode-0.2.4.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "dYBuS0smCcE7L4GoviI1JMc1TGDkSt7QXI+i1hNHz5A=",
+          "cp37"
+        ],
+        "pymoode-0.2.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "34Jxs6J0DPL7OUIY8AlDtKRkwgHK1kus4q8Vs+7658U=",
+          "cp37"
+        ],
+        "pymoode-0.2.4.1-cp37-cp37m-win_amd64.whl": [
+          "dFg6Jj/5V/ok3IQGV/Bf+igToYR7huMUi7rhN7T+YY8=",
+          "cp37"
+        ],
+        "pymoode-0.2.4.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "1WkjLm9bRkU5Wb+et8XEYiWDjUhjnceP6jsJ6t1HqqE=",
+          "cp38"
+        ],
+        "pymoode-0.2.4.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RYbkDYJgcQulft8PvL5qKnrpu/4euhxdQ/Oo6ISvEiQ=",
+          "cp38"
+        ],
+        "pymoode-0.2.4.1-cp38-cp38-win_amd64.whl": [
+          "vx2LDOl9//eJP7qgVW8JOhpkY3jXJ3ly33M9Ju9/Ay4=",
+          "cp38"
+        ],
+        "pymoode-0.2.4.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "bukxBltnFKCcwWISyHmYz0N7gFiyDU5u8DjIFIWtPWA=",
+          "cp39"
+        ],
+        "pymoode-0.2.4.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xrUrDoor4jByJKThop5aYAigOE9kRrWHncqZGI7FZfQ=",
+          "cp39"
+        ],
+        "pymoode-0.2.4.1-cp39-cp39-win_amd64.whl": [
+          "VaLijtqm5IPMoT7jtrDBAxBCdTlBUvAj8UgX5LUTT4U=",
+          "cp39"
+        ]
+      }
+    },
     "0.2.4rc1": {
       "sdist": [
         "U62DlY0pgKllEW+6WdEG4osRk9KtqhJSU709hwCf3EQ=",
@@ -108406,6 +108510,14 @@
       "wheels": {
         "season-2.1.8-py3-none-any.whl": [
           "f+27n1PuNpk8TP/69BTChbAJKMLnRzHOtUoOFRh8lkc=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.9": {
+      "wheels": {
+        "season-2.1.9-py3-none-any.whl": [
+          "9+1QzQqNfqC/+Ya7iQGEq9m4Ne8UslMfmCLCNtIVuRk=",
           "py3"
         ]
       }
@@ -136698,6 +136810,18 @@
       "wheels": {
         "weather_collector-0.1.7-py3-none-any.whl": [
           "ct3pT3ltoeUJyYzhZh3wEyDl3TPh3A5U5NZGSyPgKiU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "ra7dJl5zHMx7WpiJM025icjlqE1pakqLohfeFM9E59I=",
+        "weather_collector-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.1.8-py3-none-any.whl": [
+          "Lw1324nsPEO7fwcf4Z20ZHcScGKxmra3QT5NMQr7zEQ=",
           "py3"
         ]
       }

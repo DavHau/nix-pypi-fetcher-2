@@ -14049,6 +14049,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230106": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20230106-py3-none-macosx_10_11_x86_64.whl": [
+          "KmPnKk+zTZpmzflYtGlgc/nclR1ajZS1WnKaNWgoC38=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20230106-py3-none-manylinux1_x86_64.whl": [
+          "G4ySJ/BieYpGf/eZifgWAKTJmIoE7tGq9KlEUiiuzmI=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -43098,6 +43110,14 @@
       "wheels": {
         "g42cloudsdkcts-0.0.2b0-py2.py3-none-any.whl": [
           "/yT4Bn/TtHPNZTvkOdHJlPbCMArCGOhEQaQXoFeuPZg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3b0": {
+      "wheels": {
+        "g42cloudsdkcts-0.0.3b0-py2.py3-none-any.whl": [
+          "qxu9O9acGwCWSNd4qOfMRNvDgR34VwqgnMmDooiMjlY=",
           "py2.py3"
         ]
       }
@@ -87165,6 +87185,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "jvZngDyfvn3N52qk7uglUpzRiRPYp30IgWaGtUl3lBg=",
+        "nvgr-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "nvgr-0.1.2-py3-none-any.whl": [
+          "xsow8ZDDrulKSw4aenGTbQRdL8TucQn8VHV5f7vvhpw=",
+          "py3"
+        ]
+      }
     }
   },
   "nwu-cards-demo": {
@@ -121397,6 +121429,12 @@
         "GaT/um+zOVkHfEj0FjTgyy4M/fbQD4u/3VuMYl8Raxk=",
         "returnn-1.20221224.120821.tar.gz"
       ]
+    },
+    "1.20230106.131939": {
+      "sdist": [
+        "Z5zcCjqQkQJ83i2DgpocE4yq86LcaJIVymuUCq/r3uM=",
+        "returnn-1.20230106.131939.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -132955,6 +132993,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "tLjG9M3FNeEbqZ5Ut/Oal1UozsyidT/cDCD4KGxXKlQ=",
+        "tasksource-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.2-py3-none-any.whl": [
+          "tbCWpu80LXQQicb/n2SkAYVPCBsHFy1RDbySCRFGXFU=",
+          "py3"
+        ]
+      }
     }
   },
   "tdspu": {
@@ -133689,6 +133739,16 @@
         "11oAyHwav7dOorFfI0p9hLzbz6IMFUqZz55/+BtCXWk=",
         "testallsexrep-9.0.9.tar.gz"
       ]
+    }
+  },
+  "testcontainers-clickhouse": {
+    "0.0.1rc1": {
+      "wheels": {
+        "testcontainers_clickhouse-0.0.1rc1-py3-none-any.whl": [
+          "sBCOc34hJdK9e/sP0kAsXMu2nRi0/5i8WOWKF02P5Eo=",
+          "py3"
+        ]
+      }
     }
   },
   "testingwithnewplan": {

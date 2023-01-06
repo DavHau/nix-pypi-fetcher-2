@@ -33025,6 +33025,12 @@
         "RYGYTshbBcnW+1qNqpnjKCKKlG0CMyA5qjpwBEFO+Eg=",
         "CloudsOfArx-0.3.0.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "WBT0jx99+Lrr2Tfga++WQkj5k0EzRGmLQmVADXFREOQ=",
+        "CloudsOfArx-0.4.0.tar.gz"
+      ]
     }
   },
   "cluster-pack": {
@@ -95431,6 +95437,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0": {
+      "sdist": [
+        "yzrl+Kj7vvz8ebI84iaMHFZeSvIplY5KTjy1q/k+xds=",
+        "paddle-quantum-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "paddle_quantum-2.3.0-py3-none-any.whl": [
+          "S9zH8hrlhtlmK2ol1I5N8xoHHXcyM6+ci/AWUfkAnhc=",
+          "py3"
+        ]
+      }
     }
   },
   "paddledet": {
@@ -128668,6 +128686,14 @@
       "wheels": {
         "stix_shifter_modules_aws_athena-4.0.14-py2.py3-none-any.whl": [
           "BMWc8frfa6af8Ldh9ihvqNzLIxM2AYMMDtrbxcDNpQM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.15": {
+      "wheels": {
+        "stix_shifter_modules_aws_athena-4.0.15-py2.py3-none-any.whl": [
+          "uyQGf/qTYE6FVcTGp9whoDHxVk3lhA88lLUwPSmhgg8=",
           "py2.py3"
         ]
       }

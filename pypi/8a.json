@@ -2681,6 +2681,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.7": {
+      "wheels": {
+        "amiyabot-1.2.7-py3-none-any.whl": [
+          "0RnFPDF+IutZUJtx7XlOQfpYiCPC21M+2khXMN8zBhI=",
+          "py3"
+        ]
+      }
     }
   },
   "aml-uallu-greetings": {
@@ -61518,6 +61526,14 @@
         ]
       }
     },
+    "0.1.164": {
+      "wheels": {
+        "lager_cli-0.1.164-py3-none-any.whl": [
+          "bvuxpgKMR9h2jpEf2Kx6e/m89Nb1nTO1+3MIluNcJPs=",
+          "py3"
+        ]
+      }
+    },
     "0.1.17": {
       "sdist": [
         "oped52OXyh6/e0pmcS3T5ftDsWzvMzyoh1lAxs6wH/I=",
@@ -80627,6 +80643,32 @@
       }
     }
   },
+  "nonebot-plugin-hypixel": {
+    "1.0.0": {
+      "sdist": [
+        "5jDaoyPeyipY7Mya+br79Xjb0ffFi7U5KsLvDfFZmZs=",
+        "nonebot_plugin_hypixel-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_hypixel-1.0.0-py3-none-any.whl": [
+          "ZFOd/zBtjuGLgvr3mGOq0TPmKHESKlChEbJ3MAr7OoU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "javM8q3nvWv91phxyVBq0dKRzXEi1C/LBfEIzS0tpu4=",
+        "nonebot_plugin_hypixel-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_hypixel-1.0.1-py3-none-any.whl": [
+          "3FJsB5qcxjn4KnKmV1YYIE9k/Cx+MuxiMJGzE3kSBzM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nonlintest": {
     "1.0": {
       "sdist": [
@@ -89786,6 +89828,18 @@
       "wheels": {
         "persian_names-1.2.5-py3-none-any.whl": [
           "VS/SmV/GEwHLJO29/IY9tCB/EQKBLvgBFAaT5N5xOPE=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.6": {
+      "sdist": [
+        "MZyzjBUva9vqMpTFVceuFyNe6fN0zySGpLhGjhdnexw=",
+        "persian-names-1.2.6.tar.gz"
+      ],
+      "wheels": {
+        "persian_names-1.2.6-py3-none-any.whl": [
+          "bkI+Enq3umKvAf6xWHJPiduZVPrJA31r51zc1RbytYY=",
           "py3"
         ]
       }
@@ -143612,6 +143666,74 @@
       "sdist": [
         "HrbyUuVP9VQ3dDfJWXIk6AMigkN62mm5NK/eBRq5rHg=",
         "ym-impyla-0.14.0.tar.gz"
+      ]
+    }
+  },
+  "yolov7-wky": {
+    "2022.1.6": {
+      "sdist": [
+        "5Yj3NygO02Hx2ZJK5AueuIfb3Jbn2It1FlPABve2IVs=",
+        "yolov7-wky-2022.1.6.tar.gz"
+      ]
+    },
+    "2022.1.6.1": {
+      "sdist": [
+        "xIy1I3l2UXUcj2hrIoKfHinSDrT3HyEc3ziJSAYiA1M=",
+        "yolov7-wky-2022.1.6.1.tar.gz"
+      ]
+    },
+    "2022.1.6.2": {
+      "sdist": [
+        "wQ6IlUDOlrvRtcLgGEJwoKD6AqTlsR7fWbYhQfCyYN8=",
+        "yolov7-wky-2022.1.6.2.tar.gz"
+      ]
+    },
+    "2022.1.6.3": {
+      "sdist": [
+        "vA4F54cG7pv6iNWJIRIt1a6AjxB8UjynpKKQDj7DCWA=",
+        "yolov7-wky-2022.1.6.3.tar.gz"
+      ]
+    },
+    "2022.1.6.4": {
+      "sdist": [
+        "tVmrRgEPiDMkq94DfzsVZLYdbUOUrkwEzdKawEQQWQQ=",
+        "yolov7-wky-2022.1.6.4.tar.gz"
+      ]
+    },
+    "2022.1.6.5": {
+      "sdist": [
+        "nKOE4AqLF9CxG27Fnv9y4EmfitM8Qk/HPmrY3MwBgFs=",
+        "yolov7-wky-2022.1.6.5.tar.gz"
+      ]
+    },
+    "2022.1.6.7": {
+      "sdist": [
+        "ZWJCeuntEdw3sSF32XUBfCe5zI0pB/cgJWhEey5Efe0=",
+        "yolov7-wky-2022.1.6.7.tar.gz"
+      ]
+    },
+    "2023.1.6.10": {
+      "sdist": [
+        "q+ADRVjiiSI5+vWpgqyTyX4h+hI11Vr0VEkljPFcVJo=",
+        "yolov7-wky-2023.1.6.10.tar.gz"
+      ]
+    },
+    "2023.1.6.7": {
+      "sdist": [
+        "OSXl4QRehhZIItN4jCW1h+FqzwpjtRCjKGi2D7cd1dA=",
+        "yolov7-wky-2023.1.6.7.tar.gz"
+      ]
+    },
+    "2023.1.6.8": {
+      "sdist": [
+        "YULA/Dbl5fu6/bnW1rdOomDlXoG1y9nUPuMJCaDWKR4=",
+        "yolov7-wky-2023.1.6.8.tar.gz"
+      ]
+    },
+    "2023.1.6.9": {
+      "sdist": [
+        "oAWnRRt3o8b0u8apIjeficRjegcoV4yB5h2jjOgaKFs=",
+        "yolov7-wky-2023.1.6.9.tar.gz"
       ]
     }
   },

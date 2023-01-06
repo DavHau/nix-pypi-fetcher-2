@@ -10303,6 +10303,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2b20230106": {
+      "sdist": [
+        "rPkx2dDQ2goruNEpnsBumb5G3YgfnhRhkd77kmTKvVc=",
+        "autogluon.timeseries-0.6.2b20230106.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.6.2b20230106-py3-none-any.whl": [
+          "Xd8oZTP9XyXHuNF4svWEsT7SH1JF/QrMX+k4x+3Z5BQ=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -48141,6 +48153,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.0.3b0": {
+      "wheels": {
+        "g42cloudsdkces-0.0.3b0-py2.py3-none-any.whl": [
+          "XHd9jvhmKouVCNtIuqbfjwmqu6DZs7bNPP2vj9QMLls=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "gait-analysis": {
@@ -79931,6 +79951,20 @@
       }
     }
   },
+  "nifti-mrs": {
+    "0.0.2": {
+      "sdist": [
+        "h4oZUdbijA8oIQpQxB2GJiCPsTwXtnMVQqhQy3ctspk=",
+        "nifti_mrs-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "nifti_mrs-0.0.2-py3-none-any.whl": [
+          "LQu1yXgl5Whs61jguZhRftR8MIw+E8dXY8YXp72a8cY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nightshade": {
     "0.1.0": {
       "sdist": [
@@ -80304,6 +80338,126 @@
       "wheels": {
         "nlpaf-1.12.0-py2.py3-none-any.whl": [
           "rH8q650LRFCRShgNDRxLfpSkQlRWwv/9YPO+khFAhPo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.13.0": {
+      "sdist": [
+        "bWpm4RLe44GD12kjwz66MxneP0VRTrjycIjmZ0uJYX4=",
+        "nlpaf-1.13.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.13.0-py2.py3-none-any.whl": [
+          "8d2mDFbwONwK75hG9ge2wLaY4Rx/2kBj+pLuxKua4Mw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.14.0": {
+      "sdist": [
+        "P6dN6nNEqKB982+eIeWyMf3ps4d45hQRfQ2RlsXaANI=",
+        "nlpaf-1.14.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.14.0-py2.py3-none-any.whl": [
+          "gf5L/Cq4nc/WRUkujBunIS9iCVIPvKzyQm8nhzVx7Z4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.15.0": {
+      "sdist": [
+        "VG9JbezlmsQSflxZwKg0NuxtnQhJXSyk2N42ZiEkcuE=",
+        "nlpaf-1.15.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.15.0-py2.py3-none-any.whl": [
+          "5RGf6AoYqnue+LbFgTJbhtF7c9FmQLMb71PUlpCIaKY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.16.0": {
+      "sdist": [
+        "aBWNQi8GDvA2YzfVZM6NlUa2VYlVBlCIEvFZh5X5NKM=",
+        "nlpaf-1.16.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.16.0-py2.py3-none-any.whl": [
+          "TrKu1lnTBbbnZjfFqj9KQ9j7R61y4cuot0se7eej6Q0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.17.0": {
+      "sdist": [
+        "DHVVbNFTmcH5Mi9Lqoc2ito9W7uCBQecR6enPGieyag=",
+        "nlpaf-1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.17.0-py2.py3-none-any.whl": [
+          "VoUKqbAq0p9sXEdz67NFX2+RQvahInmILitEALgYyTk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.18.0": {
+      "sdist": [
+        "o3QlT44rzbEkdyd9cfh6MZjFPOjnY56w3RmF0T/t6kM=",
+        "nlpaf-1.18.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.18.0-py2.py3-none-any.whl": [
+          "Ruc9L50UVn7WHk3a6ZX2jiI9ILx2Y7ZsHp3zahQa0ww=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.19.0": {
+      "sdist": [
+        "SQO3zN3qR8OJUMaL5TBnzEZk/rbyHJ2vxhi+R5IwTAc=",
+        "nlpaf-1.19.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.19.0-py2.py3-none-any.whl": [
+          "B5ojJ8gwQctJRjCpTAh1ovALqvZEBbRVafDX8veg09w=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.20.0": {
+      "sdist": [
+        "5AHD/CNH9M1itvF7uM6bLAOCJ/BoT4LiJ4qt3UTfS0E=",
+        "nlpaf-1.20.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.20.0-py2.py3-none-any.whl": [
+          "dpEIxzbPoBsU49S/FTZH+5ksIpgalFegW0k0yq9cGo4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.21.0": {
+      "sdist": [
+        "Lawk6GnUt817gioEmv6KdDkaZgFXg35ozQGf+p1EsxY=",
+        "nlpaf-1.21.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.21.0-py2.py3-none-any.whl": [
+          "gHYgWH5EzghqD8orIaSvBOe7gUHJhESpmVVg8poAVak=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.22.0": {
+      "sdist": [
+        "t+r51N1kJuylll4jH1JiETB/8Z7JeYReS+ONZbXCVoA=",
+        "nlpaf-1.22.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-1.22.0-py2.py3-none-any.whl": [
+          "jqGfrBaBM4KGEjSMIyzrizgm898k21wtWm1w1WkV5F0=",
           "py2.py3"
         ]
       }

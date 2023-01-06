@@ -36271,6 +36271,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "g/ltDv741dlkySVh/GUU3erI+oj2Wu47nkneNJJIfho=",
+        "expsolve-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "expsolve-0.0.4-py3-none-any.whl": [
+          "FvysqeaeIb7nuj4+4udgGqDRUYGdPryhiWtYTqTabZc=",
+          "py3"
+        ]
+      }
     }
   },
   "expybox": {
@@ -101676,6 +101688,18 @@
         ]
       }
     },
+    "0.1.25": {
+      "sdist": [
+        "UgsbIyCHIOsnE5pO3qk2/FKlOMsjtZ1vE6bXtkh+gjI=",
+        "py_book_util-0.1.25.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.25-py3-none-any.whl": [
+          "fgEqm6N5NqXEbpEl9PrOdN7fnj+F2hVVKpXslvVnACs=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "B8MyVU9piGzI5ZkBTWTj4aZ4Nb/45VtTN3mdaEWPb9g=",
@@ -105210,6 +105234,18 @@
       "wheels": {
         "PyMinHash-0.1.4-py3-none-any.whl": [
           "vbzFVZbsLuZ1NAMv3xe8rYIlvNafYIVIiPR2iL8OiXY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "FqmrhCgRxsU9kVPvQC5AG4U+VYCPJn92nSFUEX5uyU8=",
+        "PyMinHash-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "PyMinHash-0.1.5-py3-none-any.whl": [
+          "ges5fvmW+x8nNoL3xd1Z4Kvg0OY1O1wjKuSg6gTB/xM=",
           "py3"
         ]
       }
@@ -145367,6 +145403,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.1.1.0": {
+      "sdist": [
+        "dLAnW52/tWiw7tuJNvX6rMuK/FPG7AZI2AeL5TvMrfY=",
+        "wpilib-2023.1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wpilib-2023.1.1.0-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "3bxgN5Wr0KTx0lhS1ihSEaEdj3wXugKw8b7qiKJUczQ=",
+          "cp310"
+        ],
+        "wpilib-2023.1.1.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "ggTpfQiqhONDdtKcapAZ7OuVv4IytEWJnhnessfAzn0=",
+          "cp310"
+        ],
+        "wpilib-2023.1.1.0-cp310-cp310-win_amd64.whl": [
+          "FXfggwx4kClhPNTHWGrcJYUoiq0FwUEd+WsylM+Nkl0=",
+          "cp310"
+        ],
+        "wpilib-2023.1.1.0-cp311-cp311-macosx_11_0_universal2.whl": [
+          "04nfTN9Aa89CQ5Fk6+oPwIlIY3Z3U94HdK+s9dSk2Jo=",
+          "cp311"
+        ],
+        "wpilib-2023.1.1.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "GUZSAn1OZQjHUPcCmCH8oT5DXdsywfXSXe2+JGdNNCk=",
+          "cp311"
+        ],
+        "wpilib-2023.1.1.0-cp311-cp311-win_amd64.whl": [
+          "RUp/r5RFsA5YxQ7M6AYhwxGTMovC214vSbZ0EM1KtB0=",
+          "cp311"
+        ],
+        "wpilib-2023.1.1.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "t9kl/3Y0+iKnMTW05DymMvJgpuy2r1nsmMt8uXLJI0s=",
+          "cp37"
+        ],
+        "wpilib-2023.1.1.0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "B4H+8vOy2tOxZ9htbMxQri3+vCQ0IoIhqUNUw9XanjI=",
+          "cp37"
+        ],
+        "wpilib-2023.1.1.0-cp37-cp37m-win_amd64.whl": [
+          "lC+opuPXw99vzMna2p5Qq+oyN/pM4S717ZHMsc3KSFo=",
+          "cp37"
+        ],
+        "wpilib-2023.1.1.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "V0sVxIdfyHwM1hro0wBcDk7bwDOrb7HdnYbJ/o1LVT0=",
+          "cp38"
+        ],
+        "wpilib-2023.1.1.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "sryZKLTra1VbTvC88gx/KvI3JIP7ykxWLr3or/ZgcZk=",
+          "cp38"
+        ],
+        "wpilib-2023.1.1.0-cp38-cp38-win_amd64.whl": [
+          "SnljbgKcoZIqM74WyKtTmoiuZjJdjom3ShAZYQhj9ok=",
+          "cp38"
+        ],
+        "wpilib-2023.1.1.0-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "MHcV6LUq2qL7tucIKL6Ebxqsplooy08+vgfRxyq33Is=",
+          "cp39"
+        ],
+        "wpilib-2023.1.1.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "rqECX4zRzJprnQ82KgqzvPbyVYOggOjVoaprK58lnaw=",
+          "cp39"
+        ],
+        "wpilib-2023.1.1.0-cp39-cp39-win_amd64.whl": [
+          "b2iSe0UDEnjJzyEmyv+61R0+8w2XJ+nxmpkYc1Soowk=",
+          "cp39"
+        ]
+      }
     }
   },
   "wptherml": {
@@ -146312,6 +146416,18 @@
       "wheels": {
         "xls2xlsx-0.1.5-py2.py3-none-any.whl": [
           "ab0Gxj4ti5AWYPJEBW3Feym5oOMD2fd2ged0BTLmsBI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "mBI8uPQ/3Wj0r41h1yIxANYAPa+aWS+mwHRqy8cxTDU=",
+        "xls2xlsx-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "xls2xlsx-0.2.0-py2.py3-none-any.whl": [
+          "prnG+IfS42alTSZoLR7DmfXb9AhWfUd2jvYXjvWHr04=",
           "py2.py3"
         ]
       }
