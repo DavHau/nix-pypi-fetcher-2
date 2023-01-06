@@ -57300,6 +57300,12 @@
         "jetson-stats-3.1.4.tar.gz"
       ]
     },
+    "4.0.0": {
+      "sdist": [
+        "kpTy5/PeZwN+QpP8HmPz529Dftew1eXpzYO3NSAGuIE=",
+        "jetson-stats-4.0.0.tar.gz"
+      ]
+    },
     "4.0.0rc1": {
       "sdist": [
         "UZqSvY8tk3IG3H9kiUd1Up080FdShPk5lazTqsJbNHQ=",
@@ -88053,6 +88059,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.2": {
+      "sdist": [
+        "f0d7s5cuLfn7iubYaRxhGPLhqSzFGb5G7wMOUJw/CDg=",
+        "natlog-1.6.2.tar.gz"
+      ],
+      "wheels": {
+        "natlog-1.6.2-py3-none-any.whl": [
+          "l/XeO5UeVmKEFacRrQ5H30BmqaJlD3fMs/Lmomi/nXQ=",
+          "py3"
+        ]
+      }
     }
   },
   "nautiluszim": {
@@ -94672,6 +94690,14 @@
       "wheels": {
         "pciw.py-0.8.5-py3-none-any.whl": [
           "91fyHskUbdD4CGDPhFwePd8zMmnshawLcWDpu5u4eaM=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.6": {
+      "wheels": {
+        "pciw.py-0.8.6-py3-none-any.whl": [
+          "NuExtL9qJwl+35Z1sntfnJDb7EDD3YxxZw9Wdvt/J+I=",
           "py3"
         ]
       }
@@ -136836,6 +136862,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.808-py2.py3-none-any.whl": [
           "7tneRhH+82nbVtEYVUsp2ZrB33acA66/YJkYhtNtjNA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.809": {
+      "sdist": [
+        "2LMqqOyiClkYZSTwbLVva4+tz3p9wI98FeKA39i6f8A=",
+        "tencentcloud-sdk-python-mps-3.0.809.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.809-py2.py3-none-any.whl": [
+          "hBa+2MylUEnFTU34f3fUkpidwvwFe4qkpv7LY8q2PMo=",
           "py2.py3"
         ]
       }

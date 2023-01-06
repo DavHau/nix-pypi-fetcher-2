@@ -13386,6 +13386,12 @@
         "assemblyline-core-4.3.0.5.tar.gz"
       ]
     },
+    "4.3.0.50": {
+      "sdist": [
+        "jBPlx7I99AD32c+wWvSfgA7JSGvGL5n2tL/aekL09OU=",
+        "assemblyline-core-4.3.0.50.tar.gz"
+      ]
+    },
     "4.3.0.6": {
       "sdist": [
         "xulpek1qQnc0kNYtLjTUVfs1lnX3ZDENhbSsreBdS04=",
@@ -13984,6 +13990,12 @@
       "sdist": [
         "1GuaVgnbWo2sGkzFKAlvIYRTuL6MXlbRQkDHU18gI7k=",
         "assemblyline-core-4.3.1.dev95.tar.gz"
+      ]
+    },
+    "4.3.1.dev96": {
+      "sdist": [
+        "sURKCb4S3jVtFAVv/QHso/iDneP9znNK4gwn5Ojqbew=",
+        "assemblyline-core-4.3.1.dev96.tar.gz"
       ]
     }
   },
@@ -25413,6 +25425,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "URCRX3ygCv6mUgXVmbN6KS2gXtDidYxi49PY8AjByEg=",
+        "botocore-a-la-carte-fsx-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fsx-1.29.44-py3-none-any.whl": [
+          "+B1cTsQDUzMFop2HFpBtvcoSpf/QwSEzAaHYDnOK4IE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-paste": {
@@ -31209,6 +31233,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "clise": {
+    "0.0.4": {
+      "sdist": [
+        "XO1Jpn/UCQoNc42N1PzLqwJbDYb4wwq8LC0hk1/0dDs=",
+        "clise-0.0.4.tar.gz"
+      ]
     }
   },
   "clockify-api-client": {
@@ -37516,6 +37548,18 @@
       "wheels": {
         "degrotesque-1.6-py3-none-any.whl": [
           "ohZPAGejchHvH+R2XGbEhPayDdy2CKfZabjpEZXPSZo=",
+          "py3"
+        ]
+      }
+    },
+    "2.0": {
+      "sdist": [
+        "UzCbp5XT8K9YcK4i8ZWeslGTu6m+HtWhYikrkbD5wF0=",
+        "degrotesque-2.0.tar.gz"
+      ],
+      "wheels": {
+        "degrotesque-2.0-py3-none-any.whl": [
+          "7TGtodwg7QqIh/OW1+Ps2DJAxcF20LM5nnfYdaAxClI=",
           "py3"
         ]
       }
@@ -142476,6 +142520,32 @@
       "wheels": {
         "tapcode-1.1.0-py3-none-any.whl": [
           "7FB4hXvkhdtgRfGIAnYDfHxjmVFimJp0ErtFL4K826Q=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "target-singer-jsonl": {
+    "0.0.1": {
+      "sdist": [
+        "ISWaFLY4kiREiyOdujkS1H7cqDlcq23ewPejez8S14o=",
+        "target_singer_jsonl-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "target_singer_jsonl-0.0.1-py3-none-any.whl": [
+          "QyuAWKO7IRYcZqNAYoR2YC8UJOUil5xs9e4dlyeWrbc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "fKY14JYvXIQNzU1TuypwSiM9KP9hzQ0O+anQ6PKzB4I=",
+        "target_singer_jsonl-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "target_singer_jsonl-0.0.2-py3-none-any.whl": [
+          "xqO/8O2AZNZZgWp8xo86JcZVT57Migx0ENvUjc7Fy54=",
           "py3"
         ]
       }

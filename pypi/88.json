@@ -2049,6 +2049,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "QsNuBQK5P3KSobDJdaC+1IMtZ54HHtzTKHarRMNGRf8=",
+        "alibabacloud_quotas20200510-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_quotas20200510-1.0.5-py3-none-any.whl": [
+          "IGsUf8ZClLyvk3jnC84fco+uUy8uDwaMAWtQetRoDTY=",
+          "py3"
+        ]
+      }
     }
   },
   "alipay": {
@@ -9906,6 +9918,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.43-py3-none-any.whl": [
           "9hoUirq6aiTnPNJ78FthAyR7TwkgdkbB0+ZqW2uT9kY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.44": {
+      "sdist": [
+        "m4OTfqi3FerRxkkwIJvJKIw0tVqFcHyFfikyxNhXId0=",
+        "botocore-a-la-carte-firehose-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.44-py3-none-any.whl": [
+          "6HtT7LjwWlBBN1jGkn+soQQ3H5Yph9C+Ncug9+lEL78=",
           "py3"
         ]
       }
@@ -46043,6 +46067,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.3": {
+      "sdist": [
+        "bJ13kECWlLCtx9CjZvP2jfNS8suZM6S4Ea9S2yjLtFA=",
+        "genomad-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "genomad-1.3.3-py3-none-any.whl": [
+          "hKrhM/q7cpKzacCfUuMqt680YVcJXKoGgiQRCK7vhIY=",
+          "py3"
+        ]
+      }
     }
   },
   "genomeworks-cuda-11-1": {
@@ -47294,6 +47330,26 @@
         ],
         "geosoft-2022.1.0-cp39-none-win_amd64.whl": [
           "cgLF/H8tnRCaOx4ugbXVtSxNq07fJ1J8m1VFGtDYSC4=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.2.0": {
+      "wheels": {
+        "geosoft-2022.2.0-cp310-none-win_amd64.whl": [
+          "I6lmaSAHIZ1B7M/ecmbE4mxIOPIlzUACWs1TNlffPRk=",
+          "cp310"
+        ],
+        "geosoft-2022.2.0-cp37-none-win_amd64.whl": [
+          "8pSPU4k7Wdp4FWWlD1QE5otSsicY8Jhvv9vo9R5DUfQ=",
+          "cp37"
+        ],
+        "geosoft-2022.2.0-cp38-none-win_amd64.whl": [
+          "EV9x3f+MDdyfOlQN1xao6kzYjglVto+BmC06mHFDXos=",
+          "cp38"
+        ],
+        "geosoft-2022.2.0-cp39-none-win_amd64.whl": [
+          "lsi9aJQn8KT+9h8wkeB95HapZK4LiDAdHlM5dHXhF9o=",
           "cp39"
         ]
       }

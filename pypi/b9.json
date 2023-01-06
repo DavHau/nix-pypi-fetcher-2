@@ -742,6 +742,18 @@
         "aim-ui-custom-3.15.2.post11.tar.gz"
       ]
     },
+    "3.15.2.post12": {
+      "sdist": [
+        "kSPqxPpBGluPNgqYTWpVbsGl0z2lg8KKA1dqyx9OdTI=",
+        "aim-ui-custom-3.15.2.post12.tar.gz"
+      ]
+    },
+    "3.15.2.post13": {
+      "sdist": [
+        "RMZZ+uwVQjXQNXSuGQ3wgz2Amx+5iAZfpcKwuGv2aVo=",
+        "aim-ui-custom-3.15.2.post13.tar.gz"
+      ]
+    },
     "3.15.2.post2": {
       "sdist": [
         "smTWSQHtr3GxtJD9ErAP88dEGJ309tSwrVZ2OitF1Gk=",
@@ -3445,6 +3457,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "k8REdrWVj9tAvAMZXZllNieeQydlV/ZU965xNzD4kuw=",
+        "alibabacloud_cloudcontrol20220830_py2-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_cloudcontrol20220830_py2-1.0.2-py3-none-any.whl": [
+          "eSAk7j9dBgRH01YLyZAblt1k7XM/ll7xN9ie0XYU0IQ=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-cnip20201201-py2": {
@@ -3554,6 +3578,18 @@
       "wheels": {
         "alibabacloud_ims20190815-2.0.5-py3-none-any.whl": [
           "Zjt01ePKLBd8nIEuy9xeTCZAgz5p2XLesY3IYfhM2fs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.6": {
+      "sdist": [
+        "MmP4vK4sEOG5KpAE7oIK32VoXZ/lsMbY9K+eXkx/0/I=",
+        "alibabacloud_ims20190815-2.0.6.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ims20190815-2.0.6-py3-none-any.whl": [
+          "53/aCPBBk21pxkCr7Fg2M+naIP3YC8ZfcuAFIGEF9Yo=",
           "py3"
         ]
       }
@@ -15909,6 +15945,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "wJ/gtOjHqiHqKc7D3eybGZYhSqimrK/Vxh+y3a4d4o8=",
+        "botocore-a-la-carte-securityhub-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_securityhub-1.29.44-py3-none-any.whl": [
+          "34/6JUPzSpCkVx6MUB1KoOisoW3yg4DzGe4lwlSUMEM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-translate": {
@@ -15932,6 +15980,18 @@
       "wheels": {
         "botocore_a_la_carte_translate-1.29.43-py3-none-any.whl": [
           "5+B42EHXQSbS/SIKeyPEVz7//hcRmGZefMNNYwDzNi4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.44": {
+      "sdist": [
+        "GcIONy55z1YrrQthBVEolJzi6Q6vRm4BQlvlhdQ8tf8=",
+        "botocore-a-la-carte-translate-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_translate-1.29.44-py3-none-any.whl": [
+          "SnRDJLPwEu60MX+lkr8ytsfUZQz22BsOpmobGC0EXgs=",
           "py3"
         ]
       }
@@ -46347,6 +46407,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.21": {
+      "wheels": {
+        "huaweicloudsdkmas-3.1.21-py2.py3-none-any.whl": [
+          "NF67GF0PKBdSThmWChplZyWEhck85Y6JNH+fQwaSNpg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "hub-kinesis": {
@@ -49140,6 +49208,18 @@
       "wheels": {
         "jaxkern_nightly-0.0.3.dev20230105-py3-none-any.whl": [
           "h9ELt1KykQg+aZmq6DY0hYuWpA+4GEmad8Pr5eWEWvs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3.dev20230106": {
+      "sdist": [
+        "kOkAhWPlp61HkLNbIMzbF9js1cz4aBGDAZTKDLngV3Q=",
+        "jaxkern-nightly-0.0.3.dev20230106.tar.gz"
+      ],
+      "wheels": {
+        "jaxkern_nightly-0.0.3.dev20230106-py3-none-any.whl": [
+          "jAFtq80x4saFFoPeFaw2Zl936f+UoEE/EcZKeW/knXY=",
           "py3"
         ]
       }
@@ -74340,6 +74420,16 @@
       "wheels": {
         "odoo12_addon_beesdoo_website_posorder_amount-12.0.1.0.0.99.dev16-py3-none-any.whl": [
           "220/+ZFsLmf0INW7266Jrp1cd3BZSaNam1IsyfcZYC0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-cooperator-subscription-form-with-iban": {
+    "12.0.1.0.0": {
+      "wheels": {
+        "odoo12_addon_cooperator_subscription_form_with_iban-12.0.1.0.0-py3-none-any.whl": [
+          "FqhqwTRHjYITiMmJCiJ/z132JJXigmHM08/X51jxu6Y=",
           "py3"
         ]
       }
@@ -109323,6 +109413,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "O/PaxOf5spO9Rx5ox9tjW+9zP5PMZZU0w5kFj4hP9Mc=",
+        "robotframework-cinc-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_cinc-0.1.3-py2.py3-none-any.whl": [
+          "1ByAY082Tkuv9d7qAu9xCC44KnetrjEUJqo3zL1rKXw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "pBrM+HLD92yneNzdfg4b9nMulGuV0UiyD40Xa7EQX1M=",
+        "robotframework-cinc-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_cinc-0.1.4-py2.py3-none-any.whl": [
+          "ojihqO9NOleu2vbwoxY+RGcaDBndpPoo/wmoZEeIxOI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "robotframework-rammbock": {
@@ -135527,6 +135641,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.809": {
+      "sdist": [
+        "ef3ZVfxtuOsMfT4WzqxPQxb8w1mW8fNTxJQmCd86rFA=",
+        "tencentcloud-sdk-python-cloudstudio-3.0.809.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cloudstudio-3.0.809-py2.py3-none-any.whl": [
+          "Ny9K0MNCJ44PJDtj3bM5o6ExVZVE34sM0pFRZnJpq74=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-nlp": {
@@ -141946,6 +142072,18 @@
       "wheels": {
         "tencentcloud_sdk_python_nlp-3.0.808-py2.py3-none-any.whl": [
           "XOGwwfu3Vk+MK9bK3gzSl+hfL8+7jMRSAHUD/IFWwq4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.809": {
+      "sdist": [
+        "hANKHwPQQhMjPmVVILUtH6Nu9pANIN9cTExrbgjZrmg=",
+        "tencentcloud-sdk-python-nlp-3.0.809.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_nlp-3.0.809-py2.py3-none-any.whl": [
+          "jYJ4IxlYlIreEDVBcn7PM277V4BUt/eRk1bM8eZ+268=",
           "py2.py3"
         ]
       }

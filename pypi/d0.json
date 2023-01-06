@@ -14805,6 +14805,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "fUJFdTAJR4NMCHWJFAR3Hp0OCuwtMnVMOdLofU0kN2c=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.44-py3-none-any.whl": [
+          "v9Sq7L62GMTA96VaDBCnD0WVxh71WP+i8NPUxz76Ya0=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -14828,6 +14840,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.43-py3-none-any.whl": [
           "6ZZ7117Ek+Oy3sudQbqea2/VAL3rZEIIFsT4Pq/reHY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.44": {
+      "sdist": [
+        "9xR6Sh9rsAAod6+rib9htB3RJIf00w5fZteHWtdYGec=",
+        "botocore-a-la-carte-mwaa-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.44-py3-none-any.whl": [
+          "nBFe+sm3ozDBlN+y7aRK8ESDFZjSb9vT1l+89WpFgvM=",
           "py3"
         ]
       }
@@ -45420,6 +45444,14 @@
       "wheels": {
         "huaweicloudsdkdwr-3.1.20-py2.py3-none-any.whl": [
           "s3L/9owSUR7IU6R7YuRjVQciUuVlZLrx7HzTCFLSxGo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.21": {
+      "wheels": {
+        "huaweicloudsdkdwr-3.1.21-py2.py3-none-any.whl": [
+          "NV7TiMJlUmOD1PpApZ7wionyf4t9qecvKTRlGU1+1lA=",
           "py2.py3"
         ]
       }
@@ -86555,6 +86587,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "Ghh1A59fPhJOus8joio5SZmC2SjU8I2Ceji2hzWEURM=",
+        "qorus_remote-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "qorus_remote-1.0.3-py3-none-any.whl": [
+          "BhAwPmpD39XR+ftrdfATaWzHOZ7AGosy5TCI3FOKWBo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "MVPNB45bFutUp6XfK78PQ+n1CNVPNQhU2JapE3kVnRk=",
+        "qorus_remote-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "qorus_remote-1.0.4-py3-none-any.whl": [
+          "W03zDFek0W/tKiXZPWm6WDo8XtScuA9WHNScWTg0nJ0=",
+          "py3"
+        ]
+      }
     }
   },
   "qqueue": {
@@ -108311,6 +108367,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.809": {
+      "sdist": [
+        "557N/DYQqZpij3JnCM6bCwUiYaU+zbNm8TQNSn9UrMA=",
+        "tencentcloud-sdk-python-dasb-3.0.809.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.809-py2.py3-none-any.whl": [
+          "lRfIIJ3P0EwhM7fb8nMsOLI1m5nKBs1bNQa0z6I7anE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -128794,6 +128862,56 @@
       "wheels": {
         "vpalette-2.0.1-py3-none-any.whl": [
           "LB+kJI7OOFKeKtnu5VJLuEAF8PPmVveu/b7oiUSqsMU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "vrobbler": {
+    "0.1.0": {
+      "sdist": [
+        "2vMYWohA1+cJQ2yl0XxfodDP31jdg2+1tM0vUoeDhPY=",
+        "vrobbler-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.1.0-py3-none-any.whl": [
+          "iYCwuXqdJArMOCwtaSq+CNeG22DtjgFvXJzCtd7kQ+8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "ZRXWX31eYSd0nHXSWMMhe3ahjxVV5i86B0Kvj2WaFZk=",
+        "vrobbler-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.1.1-py3-none-any.whl": [
+          "3Zy5zAHcjMa7dhDCEWEOmb4MZOmCyhHJoYand1BxrzE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "DmLQijgENdDz6Igsz6M5RM3pCn4ZCpaB69ixIDYQTIw=",
+        "vrobbler-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.1.2-py3-none-any.whl": [
+          "f2jouOp82ci5x0f6FG2oC8+xse9DN9Zxe7e05yhkD7g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "TirM8jWgzt0YckwUZTF2sEziKrktaeKjNiOB88Fn+ZI=",
+        "vrobbler-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.1.3-py3-none-any.whl": [
+          "lI42MrXCoPKW6Vb2q0UUgHI4C3e7f1Z+aAIq6KLbG+M=",
           "py3"
         ]
       }

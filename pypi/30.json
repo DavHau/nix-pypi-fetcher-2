@@ -3923,6 +3923,50 @@
           "cp39"
         ]
       }
+    },
+    "0.2.4": {
+      "wheels": {
+        "artefactlink-0.2.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O/DLyJrjJ/HIYxmpHGJLSxlFcGME71R2zD6scLx8zfw=",
+          "cp310"
+        ],
+        "artefactlink-0.2.4-cp310-none-win_amd64.whl": [
+          "olqGL0KR7gCyP28T19YlDW0uty0RJbsg5mGM9t84U5k=",
+          "cp310"
+        ],
+        "artefactlink-0.2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O0LPn2IzlM51ze0nd1X7F/tQRBvSs1frfh2vPFLLqxk=",
+          "cp38"
+        ],
+        "artefactlink-0.2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "brQjkI8l6OIQdN97hxIo+9BUSmJYmc9CMnyvSBQj5tk=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.5": {
+      "wheels": {
+        "artefactlink-0.2.5-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "UoTCC2nxmzjHBXKuyEz/HPUo75ofUx5jb/yKXcSfmrE=",
+          "cp310"
+        ],
+        "artefactlink-0.2.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HI7H+2gkTqqC/M/2G0C9P5Ss75QCJwbm7Ka0QxkueN0=",
+          "cp310"
+        ],
+        "artefactlink-0.2.5-cp310-none-win_amd64.whl": [
+          "conBzCzLFrK/RmZmM6QWiDOpGlbOhLPST9oBYP154sY=",
+          "cp310"
+        ],
+        "artefactlink-0.2.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QrGufxZagz/eQ6yrkb3Dd+QazP8DYskL+kF3DLW7T8g=",
+          "cp38"
+        ],
+        "artefactlink-0.2.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BGL+ccd0euMi8j6TTAOtXt7u4OS3rIAPfWhmWu/z1AI=",
+          "cp39"
+        ]
+      }
     }
   },
   "asgi-prometheus": {
@@ -4308,6 +4352,18 @@
       "wheels": {
         "asteroid_lang-1.1.3-py3-none-any.whl": [
           "sitoBG4js4OL9NUBvR7rEya/hxIpkXwFruBqTyFC0YY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "bfYxQ5tk/OtC/ilGJ0m15IikjvoN9wfMHWeXXLo/1WM=",
+        "asteroid-lang-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "asteroid_lang-1.1.4-py3-none-any.whl": [
+          "F/x9++rp7w5rYXV5yky9HRcjQoBxBYWesatM/yW1Mr4=",
           "py3"
         ]
       }
@@ -27738,6 +27794,14 @@
       "sdist": [
         "KfZE3QI3QrddOHcnytmCG+DX1xNgscycnzw4qAphzOI=",
         "ctypescrypto-0.5.tar.gz"
+      ]
+    }
+  },
+  "curcheck": {
+    "0.0": {
+      "sdist": [
+        "qxbJdRMRvhvNJyY4rOtnWYZI4GgaI6l6v6wtmZLpfyE=",
+        "curcheck-0.0.tar.gz"
       ]
     }
   },
@@ -51990,6 +52054,14 @@
       "wheels": {
         "huaweicloudsdkbcs-3.1.20-py2.py3-none-any.whl": [
           "RG3QopFi9n13drI36tMAjLidQwP8ntwxx7Pnagc4rYs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.21": {
+      "wheels": {
+        "huaweicloudsdkbcs-3.1.21-py2.py3-none-any.whl": [
+          "V5UrUnJT+okMaVxuJpLO2EYlbmTRnvqL89DPFWX37do=",
           "py2.py3"
         ]
       }
@@ -109815,6 +109887,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2": {
+      "sdist": [
+        "NW+07RF9vkwFt+3O9/94tKXN6WCCz83GH37DifO98DI=",
+        "pyrsm-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "pyrsm-0.6.2-py3-none-any.whl": [
+          "XMF/aEbKhrxjaPtDegJjWe6E2XcGvNvndmPsme7O0jE=",
+          "py3"
+        ]
+      }
     }
   },
   "pyscaffoldext-beeproject": {
@@ -138809,6 +138893,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "kLIO9PrHNmBmSNXFRB6aEpy1CBvPwL5fFcbORFey7nE=",
+        "tdgl-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tdgl-0.1.1-py3-none-any.whl": [
+          "MI1qq2UCFcqPUwg1qssJ2L0NuPNEQPLxM/XZfyDI7OY=",
+          "py3"
+        ]
+      }
     }
   },
   "teknik": {
@@ -139626,6 +139722,18 @@
       "wheels": {
         "tencentcloud_sdk_python_bpaas-3.0.808-py2.py3-none-any.whl": [
           "fNENPzFqRMrNz62cZcxInmvFGQ3AhovJ2ijgWZhHi70=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.809": {
+      "sdist": [
+        "lJ2aVqDwzmus2cRi/pi1sUJloYYCkcFqFoYGn4bF2mE=",
+        "tencentcloud-sdk-python-bpaas-3.0.809.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bpaas-3.0.809-py2.py3-none-any.whl": [
+          "StvzSWJUwQuauGtp0T/3+FiPOVdJ4ahgXPRXOAzO5Lw=",
           "py2.py3"
         ]
       }

@@ -15671,6 +15671,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "jW8hoFwlnCD0Wh9zXOy02LPxG4QB16kDdFWDQTLhT9c=",
+        "botocore-a-la-carte-backup-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.44-py3-none-any.whl": [
+          "V/plW+swYAJSkaeQQtBJO/RuH6ftRbDCUXNm+ozESU8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -15697,6 +15709,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "bkHl5uUJPiR4vv9UvqIkcT/dOv85YXUNbW0jg6S9JIw=",
+        "botocore-a-la-carte-devicefarm-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.44-py3-none-any.whl": [
+          "brB9oW5729cNBHuLffeq5BM5vSf0ctPA8K/4oZWZOeA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -15720,6 +15744,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.43-py3-none-any.whl": [
           "dM12pSpKOVTbqJUd2WvGAmwsJXRFh37ACeGZF0jxvCU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.44": {
+      "sdist": [
+        "aiFfT9t/fnEOvpcztpbI9FvPwKAIJnGDblr+eGI4ksw=",
+        "botocore-a-la-carte-fis-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.44-py3-none-any.whl": [
+          "N+sBkQWhFQ3of5eAOzHrqptwUDz+0rGr83MhXJ6WWDc=",
           "py3"
         ]
       }
@@ -41019,6 +41055,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "wheels": {
+        "ezipc-1.0.3-py3-none-any.whl": [
+          "wg/KuGYgGhV9EaxZfAcFWNKTBE2G5tJOSAg49RYggu0=",
+          "py3"
+        ]
+      }
     }
   },
   "fabsync": {
@@ -61458,6 +61502,22 @@
         ]
       }
     },
+    "0.1.162": {
+      "wheels": {
+        "lager_cli-0.1.162-py3-none-any.whl": [
+          "E2Ddb+sRZhQuvTFaLGSB9dkMAcbt+SnXllY3nGH34xg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.163": {
+      "wheels": {
+        "lager_cli-0.1.163-py3-none-any.whl": [
+          "ks+aUywOff/MXvuDbWKR2Jo2J4ddsSTrLUbPU6MvmeU=",
+          "py3"
+        ]
+      }
+    },
     "0.1.17": {
       "sdist": [
         "oped52OXyh6/e0pmcS3T5ftDsWzvMzyoh1lAxs6wH/I=",
@@ -64394,6 +64454,18 @@
       "wheels": {
         "limits-3.0.0-py3-none-any.whl": [
           "7fb36Jxd1v2Vvxjz/wXwkC1duJqeqNxmU9Juz8mTHeM=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0": {
+      "sdist": [
+        "ryoyBcF1vXO2ju0L1pP1Z274iI0qPqZEBEnJvokwclU=",
+        "limits-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.1.0-py3-none-any.whl": [
+          "78WuKMqHnSxYmJXA9k9hNDbclHtfVEZXYjN5Afnu+HM=",
           "py3"
         ]
       }
@@ -80864,6 +80936,66 @@
       "wheels": {
         "NSFopen-2.0.0-py3-none-any.whl": [
           "ivaWaJ0o6xDPWE3jH8+PL1LZRVg4ELfs4z67+yf9Irs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "WpVoLcIlcbbLKJ6QtA5oCmzAvueEfawtIcMNOm6RvLg=",
+        "NSFopen-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "NSFopen-2.0.1-py3-none-any.whl": [
+          "1pnOqW5mWHpSHAVWlpOhhkfOkxHSIzJe0BRz8htMJEk=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "ciJoCYw9koGrSk/ajKcBiiEhTD6kKjCJqgmSgYo2za4=",
+        "NSFopen-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "NSFopen-2.0.2-py3-none-any.whl": [
+          "bPxGI+7lGtQtV5wnW9n2DOzV+hdzg/Dzm6ScUHSgIAw=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.3": {
+      "sdist": [
+        "xPFRz+/vzFiUbek8HYtoGFCVG75f4fSbJSMSe2r/BLk=",
+        "NSFopen-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "NSFopen-2.0.3-py3-none-any.whl": [
+          "e5dJhREMaKvXgVl0SfBViemvEE49/HI3QSz+0PK4DpA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.4": {
+      "sdist": [
+        "UdhrA7vsv3K8GZxUSHpqcbsG8Wzx/Wizkwg0xu6nI8c=",
+        "NSFopen-2.0.4.tar.gz"
+      ],
+      "wheels": {
+        "NSFopen-2.0.4-py3-none-any.whl": [
+          "z8fPzuc9WVT8gk8PxChTiWcbkcI/eaFvbC1HoHGGLjA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.5": {
+      "sdist": [
+        "LxnKf8iVB8z6ZFoDGr3hvDiIAG6TZTrj2i0Q4KyABU8=",
+        "NSFopen-2.0.5.tar.gz"
+      ],
+      "wheels": {
+        "NSFopen-2.0.5-py3-none-any.whl": [
+          "Ata150NS58Ci5GYtVWYzyongsFAzpLc6WYUlpdU6TEU=",
           "py3"
         ]
       }
@@ -140495,6 +140627,18 @@
         "TP3+k2P1DFqfHC83d7WVAlaq+rZgKFF2crc5+AUzHeo=",
         "watchmap-1.0.4.tar.gz"
       ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "d+egJoJfdYeFpo1QHit7yRvm+NTyRlI0gxI0EZQ1rak=",
+        "watchmap-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "watchmap-1.0.5-py3-none-any.whl": [
+          "Md4xOWatey6H/To6VgsXQxwaZ5XTelmO/JcfAtWPfKI=",
+          "py3"
+        ]
+      }
     }
   },
   "waterbalans": {

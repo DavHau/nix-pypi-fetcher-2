@@ -19022,6 +19022,18 @@
         ]
       }
     },
+    "1.26.44": {
+      "sdist": [
+        "T0wwGMry3a81XyAr6P9Ixez51CCNbWxYEFVCj8+iMJs=",
+        "boto3-1.26.44.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.44-py3-none-any.whl": [
+          "phLtKVUZAOZQTnSd+bPJkUU+4r8mVtY3d9drTL1kT+0=",
+          "py3"
+        ]
+      }
+    },
     "1.26.5": {
       "sdist": [
         "y07KNLbhPk6tRqaPZnWf6q5r9elzYrLJebe58dIDcV4=",
@@ -24159,6 +24171,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "+SsfyczymsHcVz5V8k2itW8TwojS3PZluR94MDPFy2I=",
+        "botocore-a-la-carte-connect-contact-lens-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect_contact_lens-1.29.44-py3-none-any.whl": [
+          "5yxphOWi+IGBc3uTc1LLxQrMggQ6+H63QNQBNHpbsrA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-elastic-inference": {
@@ -24185,6 +24209,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "zrBVR3gB9uaDRqhcmwLa+C2ucwbEmsda5W3s4OgYDlQ=",
+        "botocore-a-la-carte-elastic-inference-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_elastic_inference-1.29.44-py3-none-any.whl": [
+          "Gp002mOXrZ3mNVykXa+nkWMbFVZQs5c+2+LwGmiUnrk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-robomaker": {
@@ -24208,6 +24244,18 @@
       "wheels": {
         "botocore_a_la_carte_robomaker-1.29.43-py3-none-any.whl": [
           "7Ah6fNf61VJnm+GAdY0RYj26xD2vPFeqqaJJGpGPZHo=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.44": {
+      "sdist": [
+        "D0EMgV2eybwhdZgKkX+eyx8bU1BEKy+37HIhru3LgaA=",
+        "botocore-a-la-carte-robomaker-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_robomaker-1.29.44-py3-none-any.whl": [
+          "b5wdSHJBr6V50bZ3mJS6y1FufsFujbKEZxkVhIw5MkI=",
           "py3"
         ]
       }
@@ -109404,6 +109452,18 @@
         "pulumi_snowflake-0.14.1a1668646077.tar.gz"
       ]
     },
+    "0.14.1a1672951590": {
+      "sdist": [
+        "S6hJjfj3N4RrozCd50CfPr+jUXUVCeEOQiyj7Ydv4FE=",
+        "pulumi_snowflake-0.14.1a1672951590.tar.gz"
+      ]
+    },
+    "0.15.0": {
+      "sdist": [
+        "cIAOHzF8+8uqFCUbAvERAf3QSR0MqQaml2M/U+E05Bw=",
+        "pulumi_snowflake-0.15.0.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "++9K6JxmOq8aYqHlpYTnyT4E8h4h9+0N2QpC+oZ/i9k=",
@@ -124899,6 +124959,20 @@
       }
     }
   },
+  "redis-rqueue": {
+    "0.0.1": {
+      "sdist": [
+        "08hpsBPu+MRSXJjQdR0hz3WkVlIjqqKO20h+b4+yOVU=",
+        "redis-rqueue-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "redis_rqueue-0.0.1-py3-none-any.whl": [
+          "3fCn/aFPvlxZJJrYnNJghxPwSoWPbATYZMa0XRgPyuM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "redmail": {
     "0.1.0": {
       "sdist": [
@@ -136134,6 +136208,30 @@
       "wheels": {
         "strangeworks-0.3.0rc3-py3-none-any.whl": [
           "dwsA+JJrml4oYvJKnOq04Ukd32uX48GHXmNFPdbTZFA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0rc4": {
+      "sdist": [
+        "E0j5B1oj+fy2N6u9AlhKMVoqBZRHps0vmkPPFYZYMB8=",
+        "strangeworks-0.3.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "strangeworks-0.3.0rc4-py3-none-any.whl": [
+          "zbYNS9df3Pm1aj2xFN6oNATOO6NZYmkwDTzwEiQXUsY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0rc5": {
+      "sdist": [
+        "Eo/bGH9GlbRMzfY5JTKB4xV0fFxXPunfYu48Gxnrb9A=",
+        "strangeworks-0.3.0rc5.tar.gz"
+      ],
+      "wheels": {
+        "strangeworks-0.3.0rc5-py3-none-any.whl": [
+          "o4cwb3L1kXXFQogxm+x2B+Cq2/VocNNW/kSMoI6CqAE=",
           "py3"
         ]
       }

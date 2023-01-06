@@ -2713,6 +2713,18 @@
         "iLZOLQxa675A/ntOW/ZCKGcFvK94M16HP7+I+JVRqDk=",
         "aliyun-python-sdk-ram-3.2.0.tar.gz"
       ]
+    },
+    "3.3.0": {
+      "sdist": [
+        "CAnAeNGvLuR3NtHyrxYeG6lrmYpdSE57Ptca3exVy0M=",
+        "aliyun-python-sdk-ram-3.3.0.tar.gz"
+      ],
+      "wheels": {
+        "aliyun_python_sdk_ram-3.3.0-py2.py3-none-any.whl": [
+          "cTk5LbIej1SF/6cxpneYGlEi4kb997zhhaJqUmtXKoo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "all-purpose-dict": {
@@ -12182,6 +12194,18 @@
       "wheels": {
         "botocore_a_la_carte_healthlake-1.29.43-py3-none-any.whl": [
           "taHUeveRcJgunVOTkpbuTAp2wm6m3ruCGxrzKIkbEuw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.44": {
+      "sdist": [
+        "4BeaJo2qQnHGrJk3AzeO3cGcjA8Vpp0xZ4CMB81aMH4=",
+        "botocore-a-la-carte-healthlake-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.44-py3-none-any.whl": [
+          "snJ3tJ/3ai2w8OxWYsl+aVridRTX0QxsiFeJbuUYRFw=",
           "py3"
         ]
       }
@@ -30804,6 +30828,18 @@
         ]
       }
     },
+    "0.0.17": {
+      "sdist": [
+        "EjE2VL3mmbi+BvFrr1Q/zyVhfbKOChjL1+Ix4GplwvU=",
+        "edge-srt-to-speech-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "edge_srt_to_speech-0.0.17-py3-none-any.whl": [
+          "EaYHSSM67M1lXoBpEhnjqS46ERFoFJ/9Vot1hCzllPM=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "ZrbuFFe31kIrIVtcTjqzxmUCJq7tBsbIRbEZIlK0sf8=",
@@ -41267,6 +41303,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "6SaotgRn/fPCEOuvqw9rBLAUJAZyBV58cNCgHXk/qCs=",
+        "google-cloud-dataplex-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_dataplex-1.3.0-py2.py3-none-any.whl": [
+          "1ucOMl0gP5D1bck245t82Chpa/PQ2LBEG13zJfNrZJI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-cloud-iap": {
@@ -50208,6 +50256,14 @@
       "wheels": {
         "jarvis_ironman-6.9.1-py2.py3-none-any.whl": [
           "yczGtlEZEKZraqJM3PSH3N3xU0ZNEP8pg9PhlZz9bRg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "6.9.4": {
+      "wheels": {
+        "jarvis_ironman-6.9.4-py2.py3-none-any.whl": [
+          "lAFg4CI/WhWrEs6VliLNRuZOYf7kIzYOJXRsprdLjqg=",
           "py2.py3"
         ]
       }
@@ -82544,6 +82600,18 @@
         ]
       }
     },
+    "0.19.0": {
+      "sdist": [
+        "Rj+J0M3y7X7uF1O0bwCWCGmL63SBgB8dV+ouHzUDd1o=",
+        "policyengine-canada-0.19.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.19.0-py3-none-any.whl": [
+          "3UDIRQGiWJpQU09zNNYRfu8cbuDUK6A+9Ho+nSj0OxE=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ZBEd48V4LXjiPobwLkQttcVwcAD68GTbTILKkuM2awA=",
@@ -82552,6 +82620,30 @@
       "wheels": {
         "policyengine_canada-0.2.0-py3-none-any.whl": [
           "B/vyFTxS1vA2Mf6Dfx5zKLJBpG2ZSPtGlnXr7aO2Vn8=",
+          "py3"
+        ]
+      }
+    },
+    "0.20.0": {
+      "sdist": [
+        "vVvoaKAs8rhBp4Mn61uFkJVechXLQwkcNyZ9YbKFpJ8=",
+        "policyengine-canada-0.20.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.20.0-py3-none-any.whl": [
+          "4AjdgvCp7PRZfvUs8MFe366eZdyEu91I/yFWR6Z7CYM=",
+          "py3"
+        ]
+      }
+    },
+    "0.21.0": {
+      "sdist": [
+        "OnGs5Lf+BqRYnNC/m5JVhPq3kTzyV7yYgo1yXtHoFQo=",
+        "policyengine-canada-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.21.0-py3-none-any.whl": [
+          "xfVMMBxX3UUq1nzQK1nbQluPhheJT1Mr3K9hFoOr/Hk=",
           "py3"
         ]
       }
@@ -140698,6 +140790,74 @@
         ],
         "zxing_cpp-1.4.0-cp39-cp39-win_amd64.whl": [
           "0Oi1SylJftkjjzHOUi3bAYnA1sRZd4fvLrgjyp+0I1A=",
+          "cp39"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "G2eyIarhWq2bVgnZnDjVeHW8Ck/vhkFC18o36e54gLA=",
+        "zxing-cpp-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "zxing_cpp-2.0.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "VCgtDlxXN1QEkROgzb8UzBxrmGQyo2fYp4gRKvqSodU=",
+          "cp310"
+        ],
+        "zxing_cpp-2.0.0-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dsqvuPweEsLl7DPOTzQKDhXpoqq/v+rsFw6KK0Bbinc=",
+          "cp310"
+        ],
+        "zxing_cpp-2.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ld0G3FWfU8HKDrWduuvYAuvIOZN7qvL40rPe8+gUwH8=",
+          "cp310"
+        ],
+        "zxing_cpp-2.0.0-cp310-cp310-win32.whl": [
+          "6lT9JC+T7qe/A5poKH5eV/33fXjjvVtMuy0om7M4DWM=",
+          "cp310"
+        ],
+        "zxing_cpp-2.0.0-cp310-cp310-win_amd64.whl": [
+          "janJEsylgp7tsoAM4+qhseUnQvU2qp55i+ab8JY585k=",
+          "cp310"
+        ],
+        "zxing_cpp-2.0.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "9w7vpdwf2SOAh8Ak7yLz2ZunnLkyosW8Ww8eFSA3ci4=",
+          "cp311"
+        ],
+        "zxing_cpp-2.0.0-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "l5GfB8Yu3xyOByL9ZIkwV85ja3Bnz0e9WT6YzH5ATXQ=",
+          "cp311"
+        ],
+        "zxing_cpp-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X9iQZfYg1reCgTCMar+3YNlXYKHJuI63rGErUrMxvUE=",
+          "cp311"
+        ],
+        "zxing_cpp-2.0.0-cp311-cp311-win32.whl": [
+          "YxoMeDrSM8hSleDPTNd0Dx/ihTEkxhse9rz3610vpeY=",
+          "cp311"
+        ],
+        "zxing_cpp-2.0.0-cp311-cp311-win_amd64.whl": [
+          "nwwsA/XfRw73GnWQvlBCFh51kNp2fUJgptDWGj+oC4g=",
+          "cp311"
+        ],
+        "zxing_cpp-2.0.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "XOOR8hdj8A1b40MeFtB14mPkuSBcLPVdcIYlyyNLHxU=",
+          "cp39"
+        ],
+        "zxing_cpp-2.0.0-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8O79+tkeFeP1t+0W2DgGo2+WykgvSwQrqmKXeEpYsLM=",
+          "cp39"
+        ],
+        "zxing_cpp-2.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HWZcRQKTRscK499dvDb2M1/+TydemNxDdy+jKmWEQZY=",
+          "cp39"
+        ],
+        "zxing_cpp-2.0.0-cp39-cp39-win32.whl": [
+          "IUpqDkm5L9qNJ2HHT1v9JKZ3ub8dDvDgg0Ekhq+X+qk=",
+          "cp39"
+        ],
+        "zxing_cpp-2.0.0-cp39-cp39-win_amd64.whl": [
+          "p4hVHd86a6EVL/mguB1XAYo8xYZUQIfDnYgUKHRfrx8=",
           "cp39"
         ]
       }

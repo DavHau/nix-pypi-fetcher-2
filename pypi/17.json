@@ -14815,6 +14815,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "/+busAQtctMxgpLliJqGVWxSVqM5gJ9NNEuqDvK9yIM=",
+        "botocore-a-la-carte-chime-sdk-media-pipelines-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.44-py3-none-any.whl": [
+          "LFAu9IK1tGs/l38txdwFor55/i0K1j2Xr3RiRoxUfgs=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-tools": {
@@ -25968,6 +25980,14 @@
         ]
       }
     },
+    "0.4.1a3": {
+      "wheels": {
+        "csv_deta-0.4.1a3-py3-none-any.whl": [
+          "r2HYUP+PRVUNbBVbi2Y0/yXmQALZ/dLkoYf4Ih6ELjw=",
+          "py3"
+        ]
+      }
+    },
     "0.4a12": {
       "wheels": {
         "csv_deta-0.4a12-py3-none-any.whl": [
@@ -25996,6 +26016,14 @@
       "wheels": {
         "csv_deta-0.4a15-py3-none-any.whl": [
           "IxbIjHK62KZW2YDhKYFysVEJYWLoFhAdZAFhMyKM0bI=",
+          "py3"
+        ]
+      }
+    },
+    "0.4a17": {
+      "wheels": {
+        "csv_deta-0.4a17-py3-none-any.whl": [
+          "2nSbecAslYmgNdrAg4+E16zVZci00QR82OTJdIhgLnE=",
           "py3"
         ]
       }
@@ -38516,6 +38544,20 @@
       "wheels": {
         "dongjing_xinqingnian_201602_201604_pt1-2022.11.2.0-py3-none-any.whl": [
           "tNoUTbStvPIvZrMiP83NRUOPvDatIjj3CGqj5HldeV8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "dpy-check": {
+    "0.0.1": {
+      "sdist": [
+        "uvaQjMUaI9L+ZJtnlhdwNjAF30woLf8uzmLg77zkCXg=",
+        "dpy-check-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "dpy_check-0.0.1-py3-none-any.whl": [
+          "fSv9KLfAHb9BVDKFtVo3XeiHN7t2Rwn6B3y17Whcg4s=",
           "py3"
         ]
       }
@@ -61182,6 +61224,46 @@
         ],
         "intel_extension_for_tensorflow_lib-1.0.0.1-cp39-cp39-manylinux2014_x86_64.whl": [
           "5IRjyAIwBw9+emEi4ZKfY1Ze1OUM3MntePffcVG5oNQ=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.0.0": {
+      "wheels": {
+        "intel_extension_for_tensorflow_lib-1.1.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Wt8ENaEY+8k3fs24Vp4mZBcYuXJ7/PRH+0ezplfU7zQ=",
+          "cp310"
+        ],
+        "intel_extension_for_tensorflow_lib-1.1.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "m78YjfNsXjwlARhern8qrTYA+tOKaYwktwEm0HcVbUo=",
+          "cp37"
+        ],
+        "intel_extension_for_tensorflow_lib-1.1.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wr2a7eIlMwCKOQxStu9g+G5ZWOiPHw9fMxif92zvUTU=",
+          "cp38"
+        ],
+        "intel_extension_for_tensorflow_lib-1.1.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+7DVgs0Esg3+TQh5q2qjzTrkMI9n++cwKQkdbX43mgc=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.0.1": {
+      "wheels": {
+        "intel_extension_for_tensorflow_lib-1.1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZAPLGT27lRxlZrOL4rcBG36rNaVviGYciXNzeSOwo9I=",
+          "cp310"
+        ],
+        "intel_extension_for_tensorflow_lib-1.1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PqaXZrFtQ+g0jqN56xa0ZOKtreI6dzC1D7TuH146FiY=",
+          "cp37"
+        ],
+        "intel_extension_for_tensorflow_lib-1.1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mJE2R4n6S9POXGKRRW+Eeh540EVEhmRKOH0u0Nn/++g=",
+          "cp38"
+        ],
+        "intel_extension_for_tensorflow_lib-1.1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ye8MJwXPriSinV+dr0tWde+Is2iy4X7Lvgl8t70F5kQ=",
           "cp39"
         ]
       }
@@ -95596,6 +95678,18 @@
         "proactive-13.1.0.2301051348.dev0.zip"
       ]
     },
+    "13.1.0.2301052010.dev0": {
+      "sdist": [
+        "3g0ZAU24+iG+L9FmFcmdAKRLNoF4Zlb6RkrMJQxtU00=",
+        "proactive-13.1.0.2301052010.dev0.zip"
+      ]
+    },
+    "13.1.0.2301060238.dev0": {
+      "sdist": [
+        "mqcJh+Iq7eQmkSnvXjKlHyAxjgjDdGuwgHwtoOAAdYM=",
+        "proactive-13.1.0.2301060238.dev0.zip"
+      ]
+    },
     "13.1.1.2212182207.dev0": {
       "sdist": [
         "hcTQsCB22rsAzxYjV/+6nG22zFdUzgINev+tcAa3OSM=",
@@ -107384,6 +107478,18 @@
       "wheels": {
         "PySwitchbot-0.36.1-py3-none-any.whl": [
           "EpB4Zt5TU3AOVbV1iDRbVE4ywXFvrWWPaIX2HXdIvXc=",
+          "py3"
+        ]
+      }
+    },
+    "0.36.2": {
+      "sdist": [
+        "iGWhu+LWTF4RCUvDKNu9+wIXakmMgESrmqupDu0TqP8=",
+        "PySwitchbot-0.36.2.tar.gz"
+      ],
+      "wheels": {
+        "PySwitchbot-0.36.2-py3-none-any.whl": [
+          "BArNgl5jxT4quSXcL/X8qIURH4XO6V6qYSo+NVAhq0Y=",
           "py3"
         ]
       }

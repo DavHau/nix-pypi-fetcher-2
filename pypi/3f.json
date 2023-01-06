@@ -10227,6 +10227,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.44": {
+      "sdist": [
+        "Et3XR67s85Zi8gHisEZXmNAXNuFe1lxFfXkBwJwSjvM=",
+        "botocore-a-la-carte-cloudsearch-1.29.44.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudsearch-1.29.44-py3-none-any.whl": [
+          "8+N2iYxh8KRmYEL/6JGN4PNyloOXjq7C96Hlw0niom4=",
+          "py3"
+        ]
+      }
     }
   },
   "boyixingyu-computer": {
@@ -48130,6 +48142,14 @@
       "wheels": {
         "huaweicloudsdksmn-3.1.20-py2.py3-none-any.whl": [
           "mXTZuq/7X1Ipor0yWPSJ7w/C5ywo+HziUZHJK6b1CuE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.21": {
+      "wheels": {
+        "huaweicloudsdksmn-3.1.21-py2.py3-none-any.whl": [
+          "MYuYxC3GR0v/JWohXmWue3pveTvEBdXfS3jyn1Qmpvo=",
           "py2.py3"
         ]
       }
@@ -116608,6 +116628,22 @@
         ]
       }
     },
+    "0.86.12": {
+      "sdist": [
+        "r7lhqTWEsz8Iknzs+nWllN/TT5ZlshA4oaqjax45ueU=",
+        "scription-0.86.12.tar.gz"
+      ],
+      "wheels": {
+        "scription-0.86.12-py2-none-any.whl": [
+          "vc3Tpdjw6GhS/hoGAno12I2xra26Z2dJ/N9jwSwMtOQ=",
+          "py2"
+        ],
+        "scription-0.86.12-py3-none-any.whl": [
+          "12DriGwpgouDXFjKyaMtsWnJQgjCEMuD/rnsOKC7M9M=",
+          "py3"
+        ]
+      }
+    },
     "0.86.2": {
       "sdist": [
         "rHXBiyRiPwynw8IdIdQ1VL7n9sg5bOg4RF4ANhsC5uM=",
@@ -122100,6 +122136,18 @@
       "wheels": {
         "skt-0.2.84-py3-none-any.whl": [
           "Cwl0pyMGe6mTsgMjOdppO7OywqbZ1Mv/TqLflGo5uas=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.85": {
+      "sdist": [
+        "ArfUDPGhe/793QqafYO04VK9xq5b2pGH7i5k3+Bpt4w=",
+        "skt-0.2.85.tar.gz"
+      ],
+      "wheels": {
+        "skt-0.2.85-py3-none-any.whl": [
+          "tCUVkzMUDA3iHOZppnOcZMqlrXO2BhJlYXkSU+YIb5Q=",
           "py3"
         ]
       }
@@ -147220,6 +147268,102 @@
         ],
         "xor_cipher-2.3.1-cp39-cp39-win_amd64.whl": [
           "0r+y7nE3xse4jjpEDT8d4BBXRWRODTegZoSwroQYPf4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.4.0": {
+      "sdist": [
+        "EuGyWFEHjvTubrFE23A5n8m2NgnNyYp8uOCpgFUHGko=",
+        "xor_cipher-2.4.0.tar.gz"
+      ],
+      "wheels": {
+        "xor_cipher-2.4.0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "x5gNV/axEEyM1b1qK4HEXZn1JGbmHfRznb27fDTb8dI=",
+          "cp310"
+        ],
+        "xor_cipher-2.4.0-cp310-cp310-win_amd64.whl": [
+          "9USsTr501noJM1jFJuUC9Ft0lBehGVtvvzKq/hBh5u0=",
+          "cp310"
+        ],
+        "xor_cipher-2.4.0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "rQMfttQqrVK6UvuXrmRSieF0+jCwlFHNUc8Nwj6byRI=",
+          "cp311"
+        ],
+        "xor_cipher-2.4.0-cp311-cp311-win_amd64.whl": [
+          "Nta0atECY7bzzYGHdheQXz9dmRbMra79v4W8psRgWWU=",
+          "cp311"
+        ],
+        "xor_cipher-2.4.0-cp37-cp37m-macosx_12_0_x86_64.whl": [
+          "5rejZcLLyW4iEtGBkgTp2gBALiKOLydVbGeiK8+XJo8=",
+          "cp37"
+        ],
+        "xor_cipher-2.4.0-cp37-cp37m-win_amd64.whl": [
+          "hvahYxZ43BA223+JhD/EbzxDkbAwoA6KLJROa3BJQq4=",
+          "cp37"
+        ],
+        "xor_cipher-2.4.0-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "s0oBvNfasFtw8H6jAdUv5I1rrPEKdf/R8TkySJqrZm4=",
+          "cp38"
+        ],
+        "xor_cipher-2.4.0-cp38-cp38-win_amd64.whl": [
+          "b7Q+Czq1o1yh/gtMFbA+4b/KDXzyEvuRyKeJHm0Z0BE=",
+          "cp38"
+        ],
+        "xor_cipher-2.4.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "pIF53dAs1iJJldMK9pDBbucErsrRmuATIzkcyLEjL1Y=",
+          "cp39"
+        ],
+        "xor_cipher-2.4.0-cp39-cp39-win_amd64.whl": [
+          "8DXCCoREhtPu2Ou/GWM2NjhB/a3C20pMDwPKs+exQhY=",
+          "cp39"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "RStmEypLQYXoH675Gfuog/8ICQmt8CdqIfK/ISC2Uac=",
+        "xor_cipher-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "xor_cipher-3.0.0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "tV8K1iRCjk9UFHZWs1NdWZcQ1J8vHz70DYSzwyRuQC4=",
+          "cp310"
+        ],
+        "xor_cipher-3.0.0-cp310-cp310-win_amd64.whl": [
+          "+QY3xIND3xo0RzmWz74bXxWRABdg9kOxYMq4mPncg9s=",
+          "cp310"
+        ],
+        "xor_cipher-3.0.0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "L4v2tGDW3bm0TlvcvqdmEgCm2oG+bsyCr8L2lfl8bac=",
+          "cp311"
+        ],
+        "xor_cipher-3.0.0-cp311-cp311-win_amd64.whl": [
+          "4tWQ1+YVD8reYVTJ8ZY1NRh1kEFJHTWTHpxRg16yrdo=",
+          "cp311"
+        ],
+        "xor_cipher-3.0.0-cp37-cp37m-macosx_12_0_x86_64.whl": [
+          "8bbKKlcHz3XBriP4m5Sp0Iq9ifzpEOwct0yEyFRd+FU=",
+          "cp37"
+        ],
+        "xor_cipher-3.0.0-cp37-cp37m-win_amd64.whl": [
+          "xn4EbDe0azOAmi0bfOs11LOVxJ+RobtFr9t64Y0MAHE=",
+          "cp37"
+        ],
+        "xor_cipher-3.0.0-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "AFYB96tg8rAbMicybd/2+FtXoK+kugfjXfOO3SSMeYw=",
+          "cp38"
+        ],
+        "xor_cipher-3.0.0-cp38-cp38-win_amd64.whl": [
+          "iwSEX20yOIEpvvYg34tIfOBhPTgULt+9wolhQKiYko4=",
+          "cp38"
+        ],
+        "xor_cipher-3.0.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "zAhecbzw5KZT/EKLRPg/IV+ViOaabaVN9PHMTG1GW10=",
+          "cp39"
+        ],
+        "xor_cipher-3.0.0-cp39-cp39-win_amd64.whl": [
+          "eHmvb4qv1xdRfN8ewSDmhjom/R+ZpgpQ+I6lynwdrvQ=",
           "cp39"
         ]
       }
