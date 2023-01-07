@@ -10497,6 +10497,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "Rm0wr4bTgG7urppGMSwfos0zFF1F/F+dUs+ZpDrryOk=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.45-py3-none-any.whl": [
+          "xNF5wQL9IbWbs80ereWvFqLfdt6ywYUXBNGXv12rvrk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -10532,6 +10544,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.44-py3-none-any.whl": [
           "uHwpoA+u5VBZ+YzfTZHOejjqxtmbiB71ovzod0pr0mQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.45": {
+      "sdist": [
+        "vBtz9cspJs1LzjPRtouPSe1KvSbSy7R1G3ZV+Qh/YP8=",
+        "botocore-a-la-carte-rekognition-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.45-py3-none-any.whl": [
+          "H2ovuprcD3SPgS+XVdi2lotl6SBkzIYKTwYxcjqjPcc=",
           "py3"
         ]
       }
@@ -15392,6 +15416,18 @@
       "wheels": {
         "cdk8s_operator-0.1.51-py3-none-any.whl": [
           "3scrwtKrR60zDt2/xVBQj4jSGvzaf7ey06qiezfefi4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.52": {
+      "sdist": [
+        "/ud+nXWg9Gm/d/UxiPxRu03gBiJJjsPExGWH8ZY/a4I=",
+        "cdk8s-operator-0.1.52.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.52-py3-none-any.whl": [
+          "L1oagYrAZk/S0ivcjMAVjIzuNXE4OxnDXdO7odGKtqw=",
           "py3"
         ]
       }
@@ -55656,6 +55692,18 @@
         ]
       }
     },
+    "1.13.8": {
+      "sdist": [
+        "48+bkswzVeNHIt2/562e6hKIpIlNosItSk8UQXqYFkc=",
+        "iocextract-1.13.8.tar.gz"
+      ],
+      "wheels": {
+        "iocextract-1.13.8-py3-none-any.whl": [
+          "go4dl8XroU58ubBGZkxYquRXXa0pHirDFWQvcfhZ6b0=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "ZhfMkUAcPt3EubqlYfAfLiAHojUMk4AJLZ+x6lDE6EE=",
@@ -75794,6 +75842,14 @@
       "wheels": {
         "netron-6.3.8-py3-none-any.whl": [
           "82lbZgbNTtHr77gzDg1BoGP2AA5fmQi8iUwXID86xR4=",
+          "py3"
+        ]
+      }
+    },
+    "6.3.9": {
+      "wheels": {
+        "netron-6.3.9-py3-none-any.whl": [
+          "yfrB7CWHu5yIEx+KqV5O6FvhayyfhaeNEBZWYD+pFVo=",
           "py3"
         ]
       }
@@ -124785,13 +124841,41 @@
   },
   "texy": {
     "0.0.1a2": {
+      "sdist": [
+        "LmA8qwl4oxSOJy0vSuGANytHOtwnDwb1fI+3L/FfVSA=",
+        "texy-0.0.1a2.tar.gz"
+      ],
       "wheels": {
+        "texy-0.0.1a2-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "mnhApWRB7r2awPQP2GeeLcK+IMo50uprQv4mM/0s89E=",
+          "cp37"
+        ],
+        "texy-0.0.1a2-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3Yv1TKHnNdv86rx47m30AKwg8HMa8/w8HzJvD4ctFP0=",
+          "cp37"
+        ],
+        "texy-0.0.1a2-cp37-abi3-musllinux_1_2_aarch64.whl": [
+          "a91z81QLQ06qJI1Q9zPdzdFAwxXCzltpzOf6tDDYn6A=",
+          "cp37"
+        ],
+        "texy-0.0.1a2-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "RMcBg7gpxsqvUn4uKf8OvQAYq8EUSLT8Dq8oofQkMoI=",
+          "cp37"
+        ],
+        "texy-0.0.1a2-cp37-abi3-musllinux_1_2_x86_64.whl": [
+          "PtliFvAKx9bJUHXF755ymP2z/72WwKWGzCk1PW7dWbI=",
+          "cp37"
+        ],
         "texy-0.0.1a2-cp39-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
           "gmyQZMwMp1iwwsLZ/yhnCqN6w6cXRb1Goo4f3thZL0M=",
           "cp39"
         ],
         "texy-0.0.1a2-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "lccXeAXGJNh9gfn2+yZ7o7VE4YeVnDb1pH5WVhDdf/Q=",
+          "cp39"
+        ],
+        "texy-0.0.1a2-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "A1lTIYiX1jokDxExo4O5O9lIt4vXeV7vGYM9pzRwiwI=",
           "cp39"
         ],
         "texy-0.0.1a2-cp39-abi3-musllinux_1_2_aarch64.whl": [

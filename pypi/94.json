@@ -2904,6 +2904,18 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "278eklT8f3eIfj0EaJeggkUU1vpJqx/CO9+GE4ij2wI=",
+        "andreani_aa_tools-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "andreani_aa_tools-0.0.15-py3-none-any.whl": [
+          "yySrTFYK+TmmkH3P7Wqg6+iou4D4NCfiHExSazTemag=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "JytLt72fCEmOHDlYpJ2Mo5tCIsXNVj3g8R2fUeDL2QU=",
@@ -11351,6 +11363,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "61etVqEOewfgtQYzYTR7wpiuye3iI91kiQmYjkHzvqQ=",
+        "botocore-a-la-carte-ec2-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.45-py3-none-any.whl": [
+          "JfEb2qq675XSba8WN+qQJMQMdn0T/br1cK2SafRb31U=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-kinesis-video-webrtc-storage": {
@@ -11386,6 +11410,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.44-py3-none-any.whl": [
           "QEreh1Gu7n2gg03U1Jm7mbIZJy6caDl0WDgj0i+ev1Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.45": {
+      "sdist": [
+        "W88DerCIeoPQRRxzbxe9ib8W0JTGXm2tnlXSaLsU40o=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.45-py3-none-any.whl": [
+          "KBA3F94V5ET6iCQ7NGPBv3FGClgKz+VYedz7lPUuQ58=",
           "py3"
         ]
       }
@@ -72257,6 +72293,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "uyf07EgtD2gjHzETa/ujKPyO99gTQYdChL3XEpXieNU=",
+        "molecule-vagrant-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "molecule_vagrant-2.0.0-py3-none-any.whl": [
+          "L91nIozSkm4H1nAuVTRIDw6hMZrR4eqtADgkChQgA5w=",
+          "py3"
+        ]
+      }
     }
   },
   "molecules": {
@@ -100054,6 +100102,26 @@
         ],
         "pymgl-0.2.2-cp39-cp39-macosx_10_15_x86_64.whl": [
           "vLsdSI4cFyvaRQyxf2IvcZJdFZ0uS2MveiVTBf3ju1o=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "pymgl-0.3.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "PJ19b/Afn33Rswd1faM+ycUO7TggQoKEfWjSZGTbTWg=",
+          "cp310"
+        ],
+        "pymgl-0.3.0-cp311-cp311-macosx_10_15_universal2.whl": [
+          "z9geUI0qWgxRZnYLp5l06lJlQloAAGkJzbwGx20hQN0=",
+          "cp311"
+        ],
+        "pymgl-0.3.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "P+jUF1TOIwM9U5ebB5EzFGI1dt3exxNnctJpuKgza3Y=",
+          "cp38"
+        ],
+        "pymgl-0.3.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "X0qFLpxPGFp2oBzc0Vlx/0Yp+0oWRPGsLSiZotYUoIs=",
           "cp39"
         ]
       }

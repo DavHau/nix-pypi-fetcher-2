@@ -15691,6 +15691,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "K58l2qUN/+KsbYKLsHy0i9QOVfp3Qg+DkSH8faZPoJ4=",
+        "botocore-a-la-carte-backup-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.45-py3-none-any.whl": [
+          "S6AB4mYTFQ/ggtT9xy5iTc7IIz4EEAqT2ACRvbYiVQc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -15729,6 +15741,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "ZvL9lOYOVX9u8AxagdS5nxoZP8HK5mp3OmsCAihTj4c=",
+        "botocore-a-la-carte-devicefarm-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.45-py3-none-any.whl": [
+          "wOR77NDYXR4CP2anwDzPudd0x2Fzia3rMs58sreRYpg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -15764,6 +15788,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.44-py3-none-any.whl": [
           "N+sBkQWhFQ3of5eAOzHrqptwUDz+0rGr83MhXJ6WWDc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.45": {
+      "sdist": [
+        "cUrKvQYEq8sOMPgOsMEsC6btzhSRUARReHwW47tGy4o=",
+        "botocore-a-la-carte-fis-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.45-py3-none-any.whl": [
+          "lqG3t3Duprr3KgABDseTEdQjhD+8dn4mD8JE5oUt5Mo=",
           "py3"
         ]
       }
@@ -64485,6 +64521,54 @@
           "py3"
         ]
       }
+    },
+    "3.1.1": {
+      "sdist": [
+        "RsRTQ1lv9IMLGEnboBLp0ABwOotkO2WroibfJjSthWc=",
+        "limits-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.1.1-py3-none-any.whl": [
+          "ggLOA5EPwkY4SgeuvGUnffn++7vQGin3hpZ2zlU93Fo=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.2": {
+      "sdist": [
+        "rzxVu1P7izXGdeDl6oUjmCxsCgzNBiqosJj/RgbkXSk=",
+        "limits-3.1.2.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.1.2-py3-none-any.whl": [
+          "9vzLbR7qc3T+s5CYBqSXMoulZxpDackvlEvM48mWU7I=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.3": {
+      "sdist": [
+        "SC2aig92v6FM+WCRJC1NXhunIeSGbrhfEhHg3c2yz6E=",
+        "limits-3.1.3.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.1.3-py3-none-any.whl": [
+          "kCF4cITq/oBozKKKaSnrLT+mVyvzEKHmx/zPPIVJ5c4=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.4": {
+      "sdist": [
+        "55KHODcJBawgB1cV9HXOriaXQDejC7pWnUWTPDGUQV4=",
+        "limits-3.1.4.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.1.4-py3-none-any.whl": [
+          "V61HNvyOSmpNuPHLNFPFCEzak5qG8qOEIZo7AP6qNuU=",
+          "py3"
+        ]
+      }
     }
   },
   "linda2pdf": {
@@ -83116,6 +83200,34 @@
         ],
         "OctoBot_Trading-2.3.4-cp38-cp38-win_amd64.whl": [
           "kTJDYJyZlkA4hRGRxqqAJ36cgRhKhf8/DkvDcnj2ft0=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.5": {
+      "sdist": [
+        "vcITahyP30D7gSYk+BQwVJMUE8M3SaxLxCZanDt96t4=",
+        "OctoBot-Trading-2.3.5.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "KWjyLWonRPdsVNJpnC7xq1eNtRcC0CqcOWmlBKIjJJQ=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.5-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0bK40JM9G4kErk4RtE0SgW+7hAqx1ccLfCaYFB1G7Eg=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xPGVdhaZbsd70hsTdjE3DfIYEf5v2ptGlmqcLnH6Zg0=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.5-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "5lF5B3XJYWxKu/VQyy9Cj86/8mAGi6cP8bGINdE8VUk=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.5-cp38-cp38-win_amd64.whl": [
+          "YwJrLEokKFId/Xjep98e5pP/Er7VAmH/ITjGtwpL78A=",
           "cp38"
         ]
       }
@@ -143121,6 +143233,20 @@
         "bGN9uxpniEAC4thnkvLdejX6vVci4tVI79Issarfb/c=",
         "yaml-acl-0.0.1.tar.gz"
       ]
+    }
+  },
+  "yaml2pyclass": {
+    "0.1.1": {
+      "sdist": [
+        "bjQNGm+5NX626h1iB5ifOFMD+3rr0W6T5+cSjMD3nfc=",
+        "yaml2pyclass-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "yaml2pyclass-0.1.1-py3-none-any.whl": [
+          "1BptIdJzQkf5kgY8XoDxe3dbOR1okoC1mT/L9ljPf6w=",
+          "py3"
+        ]
+      }
     }
   },
   "yara-scanner": {

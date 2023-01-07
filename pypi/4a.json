@@ -334,6 +334,18 @@
         ]
       }
     },
+    "15.0.0": {
+      "sdist": [
+        "DPg/BhUXK5qxbm9WSaRQ9t36h/ZUWmEi7Yvzbe3jZPU=",
+        "aacrgenie-15.0.0.tar.gz"
+      ],
+      "wheels": {
+        "aacrgenie-15.0.0-py3-none-any.whl": [
+          "aXpCu824R911Npk8M6NnZVejMe0C+BEosKvIooceqO4=",
+          "py3"
+        ]
+      }
+    },
     "9.0.0": {
       "sdist": [
         "8HvhIIwGHMiHhWME+26HifDVHXFtQPK20YPGhNMDnU4=",
@@ -14735,6 +14747,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "dD6AjINjTBi4NvErK4o0hdzMzR55P3MdZmnIJAfcdMQ=",
+        "botocore-a-la-carte-networkmanager-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_networkmanager-1.29.45-py3-none-any.whl": [
+          "oDiHNzq7GhbeuMoxxS1oNAn0S/+9cY9+ODHir49bpts=",
+          "py3"
+        ]
+      }
     }
   },
   "botogram": {
@@ -19909,6 +19933,30 @@
         "0ixfgiPdqm2uqO6dPiZIdDeiA/CBPRkB0GMzc2odaKk=",
         "CausalPy-0.0.1.tar.gz"
       ]
+    },
+    "0.0.10": {
+      "sdist": [
+        "3Zy/psGtyHpoGpwEVA867wivf6k2J+0I9xEMs2/M3H8=",
+        "CausalPy-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "CausalPy-0.0.10-py3-none-any.whl": [
+          "rxtrzW87B87Wp8Vnop3Ut7ATXgUUi8h2lpeRz/vORFI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.10b0": {
+      "sdist": [
+        "ubHPyeWulX0GB9PKms//Yr0WgmcJE1bFwdQ1f5JrQjQ=",
+        "CausalPy-0.0.10b0.tar.gz"
+      ],
+      "wheels": {
+        "CausalPy-0.0.10b0-py3-none-any.whl": [
+          "D5aoNVMbqmxEkw/SmMG6aiOJJd+BJGPr0Ob8JGgqH8s=",
+          "py3"
+        ]
+      }
     },
     "0.0.2": {
       "sdist": [
@@ -30340,6 +30388,44 @@
       "wheels": {
         "df_to_sql-2.0.0-py3-none-any.whl": [
           "JJbZNRAOEMqJNQMCBuv/LZdfmsUPg49948YHWMHsONY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "dfanalyzer": {
+    "0.0.1": {
+      "sdist": [
+        "IGzP6cxE6byo2q5AJ73tKQd/4ONGh6ytgvUBPfFoEZ4=",
+        "dfanalyzer-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "dfanalyzer-0.0.1-py3-none-any.whl": [
+          "cLIZUwP3Zc66AG9yv3XBI5cnYXIhzywb1NuypWfAmrk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "UUOiig2mTnWCj7M0p+FHwax8rZfH14JM4Z6q95Qhp+g=",
+        "dfanalyzer-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dfanalyzer-0.0.2-py3-none-any.whl": [
+          "K6PQgvsSzas6hvae7ppVDT9YvESTbiXa94ilg1hSCFQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "NTwZ1Ft28kjTsn6mg9DDu1ziWNKEUYrqwfmaz6jv6hI=",
+        "dfanalyzer-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "dfanalyzer-0.0.3-py3-none-any.whl": [
+          "KNj6ZxuLdi2l4r7n0gxuLYNSWnHs5F9OZpOBlQMWUqA=",
           "py3"
         ]
       }
@@ -73663,6 +73749,20 @@
       }
     }
   },
+  "mose-framework": {
+    "0.0.1": {
+      "sdist": [
+        "jNkH7DBK0mOtfkGjS5NcSBU0H5ovU3kUuNF/UfZU9Go=",
+        "mose-framework-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mose_framework-0.0.1-py3-none-any.whl": [
+          "o7J68CZobn1FcvLn68k0Prf0IrLCqjAHWXrkNJRdCiQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mostpdf": {
     "1.0": {
       "sdist": [
@@ -86905,6 +87005,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.3.1.0": {
+      "wheels": {
+        "odoo14_addon_l10n_br_base-14.0.3.1.0-py3-none-any.whl": [
+          "eeSl/rJc+MNFfPrazsEKclI/wcQiTVubHl1hTF89frg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-l10n-fr-business-document-import": {
@@ -93996,6 +94104,18 @@
         ]
       }
     },
+    "2.0.2": {
+      "sdist": [
+        "Sc5qOr/JlO7vJpczd10xD7pcshCMomcWA8pODZuNzGY=",
+        "pcDataLoader-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pcDataLoader-2.0.2-py3-none-any.whl": [
+          "vTAwwDyA9tUTZNmSnmXqCVcnu4+QZEKpH7K5WsbAVLE=",
+          "py3"
+        ]
+      }
+    },
     "3.0.0": {
       "sdist": [
         "/p+QGAK8jUmOfHAJvTDOdxGU4Hlj8oD1LmMxWs+J5Dc=",
@@ -94004,6 +94124,18 @@
       "wheels": {
         "pcDataLoader-3.0.0-py3-none-any.whl": [
           "Cu1IoOc50kMsmeHL3q+LrPg2tQHD3y3JVaWXfPvFjM4=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "/V5fY2AoBBSoA8pnSjPa5LMYhDCZS4GLgE7b0O8ux2M=",
+        "pcDataLoader-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pcDataLoader-3.0.1-py3-none-any.whl": [
+          "VB7sk1NLvaNCkn8Yz+rBAi49X4hgWOTLiCqSlz5I6YI=",
           "py3"
         ]
       }
@@ -129856,6 +129988,18 @@
       "wheels": {
         "sneks_dev-1.0.0a16-py3-none-any.whl": [
           "R0yZ5drPPnTUasA9vYwSxuRUIhx/nkzwHpmdl2XmQag=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a17": {
+      "sdist": [
+        "kuvM/vIaVbxIjLqVy5Jc8CF4CPhDQ4gAYzz1qugNhNU=",
+        "sneks-dev-1.0.0a17.tar.gz"
+      ],
+      "wheels": {
+        "sneks_dev-1.0.0a17-py3-none-any.whl": [
+          "5C/7kLxqcxNwYuezkdiHmz0AcPwH8MlfDo+cSt4KXAI=",
           "py3"
         ]
       }

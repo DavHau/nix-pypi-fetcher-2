@@ -23019,6 +23019,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "MTa0nNzs3obCVh9VQNLRplKKq3B+1m9HFGaFiCSSOCI=",
+        "bittrade_kraken_websocket-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "bittrade_kraken_websocket-0.3.0-py3-none-any.whl": [
+          "elX47wXoEBoB+oUfZJHT/5LOIgq28hZ38iYwT6By4Ko=",
+          "py3"
+        ]
+      }
     }
   },
   "blinker-async": {
@@ -26266,6 +26278,18 @@
       "wheels": {
         "boto3_stubs_lite-1.26.44-py3-none-any.whl": [
           "0+wsIixXmZ+mfoqfBql0R0lpKyQg8DfEEDviROSg1Ho=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.45": {
+      "sdist": [
+        "9+alWyUmuKJ9bS2WWsFZCz9A16vearJLQ7FmrHDQm+c=",
+        "boto3-stubs-lite-1.26.45.tar.gz"
+      ],
+      "wheels": {
+        "boto3_stubs_lite-1.26.45-py3-none-any.whl": [
+          "8TLa1U0w3tXIr1O1+gwzMF5PgLv7Gc7ZvPtwVHaZzWU=",
           "py3"
         ]
       }
@@ -51812,6 +51836,18 @@
       "wheels": {
         "fps_login-0.0.46-py3-none-any.whl": [
           "BIN0WEuUw5+/not37/zATjU3dd3ssaGFNgfsC3q1ghM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.47": {
+      "sdist": [
+        "/mKUlOd/NU321xz8CXjL/UfmET4wzRnS6Sb9Zapav0c=",
+        "fps_login-0.0.47.tar.gz"
+      ],
+      "wheels": {
+        "fps_login-0.0.47-py3-none-any.whl": [
+          "Lf3AVp+H1WifjU7FY/3juOIVEkJGN7kSSHV3f3Jq+3s=",
           "py3"
         ]
       }
@@ -89238,6 +89274,14 @@
       "wheels": {
         "odoo_addon_brand-16.0.1.0.2.2-py3-none-any.whl": [
           "pekdgTXBjmvTwhiUyH6pLF+DEpzOsympsXuM8pfqO7M=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.2.3": {
+      "wheels": {
+        "odoo_addon_brand-16.0.1.0.2.3-py3-none-any.whl": [
+          "1t/oaaNpeeyi3xfMRJdhmMWo/V5xw0wKWJXfM71oq+8=",
           "py3"
         ]
       }
@@ -130192,6 +130236,18 @@
         ]
       }
     },
+    "0.44.2": {
+      "sdist": [
+        "DNWM//od5gXnPJbEMCJWMppH4cHKwDUni7i4O+uReGo=",
+        "streamlit_webrtc-0.44.2.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_webrtc-0.44.2-py3-none-any.whl": [
+          "CWA+wBVyfRT3WojHBN1E6fmfSFR8HUQ6ul6Ajvg/S0o=",
+          "py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "+/ze5/GQOd9HCDoGc2tCUMu6E8LNBRmlV0WglHLHd6M=",
@@ -134699,6 +134755,78 @@
         "tensorstore-0.1.3-cp38-cp38-manylinux2014_x86_64.whl": [
           "djMOF4lsNk0lsb6+JEokCeV3+dRWU4tGwa0hDeuajnA=",
           "cp38"
+        ]
+      }
+    },
+    "0.1.30": {
+      "sdist": [
+        "tGYS/d31EmfA/8iGZig8BnXhlhgFcpEiM694EEBTNHU=",
+        "tensorstore-0.1.30.tar.gz"
+      ],
+      "wheels": {
+        "tensorstore-0.1.30-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "hjvi+C85ybFDd/xbYslVdz7a9BWivI1JjPnvwyiGCpg=",
+          "cp310"
+        ],
+        "tensorstore-0.1.30-cp310-cp310-macosx_11_0_arm64.whl": [
+          "ji9pk4lcQCMWUYLy1FrQgy+0j536SKTug3OHm0OqmVU=",
+          "cp310"
+        ],
+        "tensorstore-0.1.30-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j1ws5902AV1/3lcC1pVepvA+g/j8OZdVE0ZN+NXO8AM=",
+          "cp310"
+        ],
+        "tensorstore-0.1.30-cp310-cp310-win_amd64.whl": [
+          "N3NMyeu5AQkXqvQuXffhogRMNfzTkXRFsqdQ42dVMD8=",
+          "cp310"
+        ],
+        "tensorstore-0.1.30-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "BoSst4R4Y1805WZYVU5HQoufJ3dUSwC9VYWhp9BlL4k=",
+          "cp311"
+        ],
+        "tensorstore-0.1.30-cp311-cp311-macosx_11_0_arm64.whl": [
+          "ZquuMNobqpZr53G2+2sHDHW7ejxoteT1VvKXFSwnpbM=",
+          "cp311"
+        ],
+        "tensorstore-0.1.30-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "P0vRRnP/CZoMgyCJPIKkP9vv0eDH/J96ExEDi4UFoZA=",
+          "cp311"
+        ],
+        "tensorstore-0.1.30-cp311-cp311-win_amd64.whl": [
+          "uw+Wa5iivhBCtGFqV3GYoQ/yEl4lgq0o5NhJmLPa0oM=",
+          "cp311"
+        ],
+        "tensorstore-0.1.30-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "6jApKiJj6WGcViubXkez07hkmMrOGi7x8gnsX93iC7s=",
+          "cp38"
+        ],
+        "tensorstore-0.1.30-cp38-cp38-macosx_11_0_arm64.whl": [
+          "+x2Te8I/d4INKVpJ/BLK1uIO98TOr5kZHKJv3cSUWd4=",
+          "cp38"
+        ],
+        "tensorstore-0.1.30-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RFOrOstDvXS1z4RTWdBFKysS//tz+1aVSKGfLBFEg9g=",
+          "cp38"
+        ],
+        "tensorstore-0.1.30-cp38-cp38-win_amd64.whl": [
+          "7M66nwL+raxKeWsN0nZY5sUmVhW+q4djzeSlQ2U7nwQ=",
+          "cp38"
+        ],
+        "tensorstore-0.1.30-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "UKCY6PMFLvj2am1Ms3vd2AGuPqafDc8VDcrragO0Tys=",
+          "cp39"
+        ],
+        "tensorstore-0.1.30-cp39-cp39-macosx_11_0_arm64.whl": [
+          "wUr3gYxQV5k+SKQXgPaeyGwu2UxLPNIcXnq5T3hC/2o=",
+          "cp39"
+        ],
+        "tensorstore-0.1.30-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "q8060zH3wCVjbDy8who//z9NFyXevKuIMenqUPLQc6I=",
+          "cp39"
+        ],
+        "tensorstore-0.1.30-cp39-cp39-win_amd64.whl": [
+          "WV1XTeBqXAZXTgUPDqeKcQtNVSaN+pL8/EJ/HwRseCQ=",
+          "cp39"
         ]
       }
     },

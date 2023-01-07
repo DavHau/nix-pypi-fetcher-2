@@ -14645,6 +14645,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "cwgzLleIxKS21UlitArlBzhfIHRmC162Dk8H+eLleIM=",
+        "botocore-a-la-carte-amplify-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplify-1.29.45-py3-none-any.whl": [
+          "iMiVqJ5WzDc0fK2D8liTFKXDXARcck/Fz/UVJ/wkhTU=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-cloudformation": {
@@ -14683,6 +14695,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.45": {
+      "sdist": [
+        "sCXczYvnkP4cLqMWGN0Ve2q5foojdo+mB1MJnui+JvE=",
+        "botocore-a-la-carte-cloudformation-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudformation-1.29.45-py3-none-any.whl": [
+          "lRWDn3yRii1cXOQNhv84fVPQxf6wB6Yw7yPH5AM3+1c=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-eks": {
@@ -14718,6 +14742,18 @@
       "wheels": {
         "botocore_a_la_carte_eks-1.29.44-py3-none-any.whl": [
           "wtc8UJ1WF1fkiMkQOLEqi3etNBZdZYtElPMsbHtdesQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.45": {
+      "sdist": [
+        "w+2hZrYWLM6ZXgDEPb84rAaf8o3ticKvUp/C9tdXCXQ=",
+        "botocore-a-la-carte-eks-1.29.45.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_eks-1.29.45-py3-none-any.whl": [
+          "6DELk5Ba3jh7XuvJLAz0wituzaQNlscRqx3xh52dY44=",
           "py3"
         ]
       }
@@ -16956,6 +16992,18 @@
       "wheels": {
         "cdklabs.ecs_codedeploy-0.0.26-py3-none-any.whl": [
           "bKBUBAx1iNdeBQTStZnOQS0zNlPxdB/549KCoR40fEo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "sNVP16F7hDNIcruNSZzal3GjCOXNGuWQczF4kBtMKks=",
+        "cdklabs.ecs-codedeploy-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.ecs_codedeploy-0.0.27-py3-none-any.whl": [
+          "1uZ0zyOPe86YzmS1kzKWrxcSVQyrIVPyMDCs/x+S/js=",
           "py3"
         ]
       }
@@ -31062,6 +31110,18 @@
       "wheels": {
         "dagster_celery_docker-0.17.8-py3-none-any.whl": [
           "Ekui+8iJM8DXhfHm4N1fMvAmZSqdeBaDU4qOHm1F0Po=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.9": {
+      "sdist": [
+        "csZr68GWqizJ/LQCkCf/1KfG26D7jPUmgOd16H/u0gM=",
+        "dagster-celery-docker-0.17.9.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.9-py3-none-any.whl": [
+          "jMTckVgSkei49fby/fwrH+nC2qXqcapA1o6rZV+9FjQ=",
           "py3"
         ]
       }
@@ -65240,14 +65300,14 @@
     }
   },
   "kinbot": {
-    "2.1.0": {
+    "2.1.post0": {
       "sdist": [
-        "0i50j0eHSx6EUhWQB4rKFj4KnamxHe+MwSFmo9JP1V4=",
-        "kinbot-2.1.0.tar.gz"
+        "90u1UnHK3pyxsEho+VDk5DUDbRdov/Czo4Nx1vJhfFE=",
+        "kinbot-2.1.post0.tar.gz"
       ],
       "wheels": {
-        "kinbot-2.1.0-py3-none-any.whl": [
-          "quKeS3kFoVZyuv+YjkzoS/88HgeaA1UxFhmFsrZh5Mg=",
+        "kinbot-2.1.post0-py3-none-any.whl": [
+          "6E0JQJN3rvvDSvPYMUO418b5cn8uGVAAmnvc0CAmje4=",
           "py3"
         ]
       }
@@ -95450,6 +95510,18 @@
       "wheels": {
         "pbat-0.0.12-py3-none-any.whl": [
           "fiBxZEsEUs01intHwEC0p+4UvkMxhaluML29EeurAPQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "9nYZuoZcRQDsnGjXTjmxqD04AfBRUIIv4diwI1EwNrQ=",
+        "pbat-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "pbat-0.0.13-py3-none-any.whl": [
+          "4sUKktIDK7pk7eobdOmZvYT1sKYZ+34Rkjvj65pEsrs=",
           "py3"
         ]
       }
