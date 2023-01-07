@@ -32710,11 +32710,53 @@
     }
   },
   "dtopia": {
-    "1.0.0": {
+    "1.1.0": {
       "sdist": [
-        "ofoQ6qGI146sGXdJoc9gp20swpCOGWV14aJToFu/eDc=",
-        "dtopia-1.0.0.tar.gz"
-      ]
+        "IvuBehgKRqi3SLnruur26OgKo5IEJy/SX1gnyXUqlDY=",
+        "dtopia-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dtopia-1.1.0-py3-none-any.whl": [
+          "W0y7nUJYnW6HQvJ8nizNR9k/tCd0Co2OmJrqtGNHNnE=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "uXRwS6dqykDfOq+7fvyO1obAuczffTlDBG025Y6YT7U=",
+        "dtopia-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "dtopia-1.1.1-py3-none-any.whl": [
+          "8L05ZBIbps5idbfiPef+CbezZQUuiQFx08UhkHh9af4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "ecHfRr+MjdjZaxbD8zDoPgkI6kx6VD8Jq0MGPer110A=",
+        "dtopia-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "dtopia-1.1.2-py3-none-any.whl": [
+          "v7ar8aHXiAV6N0oH9Zvmtz6HsgOG+vMd84SeEvZlIXQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "EDZ8ZTxtoG1vvj/ZAIj25hQGgJQEc7/aS9naT0mNot4=",
+        "dtopia-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "dtopia-1.1.3-py3-none-any.whl": [
+          "/q3NVDzynAI5a7ETOUvs25X49BaPO5hSXpdNI6KOwbo=",
+          "py3"
+        ]
+      }
     }
   },
   "dtp": {
@@ -114014,6 +114056,14 @@
       "wheels": {
         "tf_estimator_nightly-2.12.0.dev2023010509-py2.py3-none-any.whl": [
           "x0Z+d3ToJ0jHPhznTUSw3jSyjiIkwbbLbRKqVxN+3Fg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.12.0.dev2023010709": {
+      "wheels": {
+        "tf_estimator_nightly-2.12.0.dev2023010709-py2.py3-none-any.whl": [
+          "0Qh2H8c/KCxLXzEW3es8n6R0pnbnU289BLAv6G6NPxk=",
           "py2.py3"
         ]
       }

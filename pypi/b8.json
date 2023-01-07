@@ -80876,6 +80876,14 @@
         ]
       }
     },
+    "15.0.20230106.0": {
+      "wheels": {
+        "odoo_addons_oca_server_auth-15.0.20230106.0-py3-none-any.whl": [
+          "e1447m3i1ooxYQMwEGm+ZBavMQoVhSh2jL8MFWV7dyM=",
+          "py3"
+        ]
+      }
+    },
     "16.0.20221205.0": {
       "wheels": {
         "odoo_addons_oca_server_auth-16.0.20221205.0-py3-none-any.whl": [
@@ -96636,14 +96644,38 @@
     }
   },
   "pybaserepo": {
-    "0.0.0": {
+    "0.0.17": {
       "sdist": [
-        "OVlmiWvtq2r8pSy9+wIwsIqD1Rt1j5OIo+wu3KAS8cw=",
-        "pybaserepo-0.0.0.tar.gz"
+        "RpeOWEGdJzK8E+taRgLqygaY/qUpuej4pnvOfFax1ZE=",
+        "pybaserepo-0.0.17.tar.gz"
       ],
       "wheels": {
-        "pybaserepo-0.0.0-py3-none-any.whl": [
-          "cLWOE75w/cbHLiaSarqJUMti4uQO6DQI24CQ7gIi17U=",
+        "pybaserepo-0.0.17-py3-none-any.whl": [
+          "U1ujic5vTqUpqPLx/wpA+jf4OazKxVWU4cMfOq8hJu0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "ILPu9lhl3oBV6OBj1pi+ce5r6Br1vHgcIcZhuDlYisw=",
+        "pybaserepo-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pybaserepo-0.2.1-py3-none-any.whl": [
+          "xJiXbip6BVpM31oZ9hljDilNbEMskfC/vtXAjuuHPy0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "JFFyKLl0AL//voAiKnGeI8fFpPk4oGkuqAAgjfz2hUQ=",
+        "pybaserepo-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pybaserepo-0.2.2-py3-none-any.whl": [
+          "wg4J93/YvTdXVBOdgviPmAZzCFf0DIPGhJSc4B87ffU=",
           "py3"
         ]
       }
@@ -128682,6 +128714,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.6.0.dev20230106-py3-none-any.whl": [
           "cuAZdxDwSvA/FOVcB28WDAuYhQfMeCXpHIGe2A4v0DA=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0.dev20230107": {
+      "sdist": [
+        "D/3bu+e2qk5AzsibsrhbgRmk5PVB+5xXbUrJqMs8o3A=",
+        "tensorcircuit-nightly-0.6.0.dev20230107.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.6.0.dev20230107-py3-none-any.whl": [
+          "XEyUiXeOgIybkRiEam5VvWXuKpfuCeJMupHrRjIeU5A=",
           "py3"
         ]
       }

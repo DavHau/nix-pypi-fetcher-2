@@ -15183,6 +15183,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230107": {
+      "sdist": [
+        "/Aeb+M7Pa6PbT1SiWBjy7ZFrwXtpjKDkwGDiU0dPm8g=",
+        "bigdl-dllib-2.2.0b20230107.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20230107-py3-none-macosx_10_11_x86_64.whl": [
+          "f+rzzGi9JlM6WWxjgdjyrEbfn7dY3Dq0xSVbRy0a/WE=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20230107-py3-none-manylinux1_x86_64.whl": [
+          "Fv/PU/IODzWDPk7AAhzqILZyQMoZ4Ty3E/1KK7yxJYk=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -141681,6 +141697,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230107": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230107-cp310-cp310-win_amd64.whl": [
+          "uFaMpHGmwF13BBpy9ZMySAAVqfBGVYEmXRNIHoREYOQ=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230107-cp38-cp38-win_amd64.whl": [
+          "m7yyEPjSasHPKCAo5EY381HBIh8qLoYMrPtIIoo53uo=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230107-cp39-cp39-win_amd64.whl": [
+          "+3qnPyff0TKS3wEfoH01j5oktXmBP67XZip/Z6/hNIw=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -156962,6 +156994,18 @@
       "wheels": {
         "zood-0.2.3-py3-none-any.whl": [
           "f/YMuuuEytO8LB1c7KQnZ56attQw8BJ+BsiIgnt4dI8=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "aq4gZAf6v2gcTgeY/rDjg01fw1XUjypt25qhOZlKTqQ=",
+        "zood-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.2.4-py3-none-any.whl": [
+          "Ik+NcWUahC9M/GNfgPYOFFQbF95TVaGbMV4F7jJOXf8=",
           "py3"
         ]
       }
