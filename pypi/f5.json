@@ -28731,6 +28731,12 @@
         "bj67+GMb+ecaCTtzhaYafI3dDMHZLtobQJK5RJpaWoU=",
         "datum-1.8.0.tar.gz"
       ]
+    },
+    "1.9.0": {
+      "sdist": [
+        "TcePq6Bmn6wc6PBjn6Vhx8B+ZlNUV6ILn6R4uoWRXR8=",
+        "datum-1.9.0.tar.gz"
+      ]
     }
   },
   "dcacheclient": {
@@ -65091,6 +65097,14 @@
       ]
     }
   },
+  "kanini-projectstructure": {
+    "0.0.1": {
+      "sdist": [
+        "/ZyE53n+bXauJnWgbWrpfQcLtrMG1haHVaTf4+S4XKM=",
+        "Kanini-ProjectStructure-0.0.1.tar.gz"
+      ]
+    }
+  },
   "kant": {
     "0.1.0": {
       "sdist": [
@@ -97611,6 +97625,16 @@
       }
     }
   },
+  "odoo-addon-l10n-hr-bank": {
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_l10n_hr_bank-16.0.1.0.1-py3-none-any.whl": [
+          "mToDd3W41W6YEqtyHt0BbqwvQmp6/5nEezYymM8U/V4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-mrp-finished-backorder-product": {
     "15.0.1.0.0.3": {
       "wheels": {
@@ -129220,6 +129244,18 @@
       "wheels": {
         "robotframework_mbt-0.2.0-py3-none-any.whl": [
           "SrrP4YGOBugGcdIdMtEV3dMQUg3EA6RJ79DqFFBeLOc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "lRspNA1H2wqmCtM/jWmoePg2M2ehmhD5OaOZhcl8Rww=",
+        "robotframework-mbt-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_mbt-0.3.0-py3-none-any.whl": [
+          "bfjXppO5alvgsZkLIQguWvtxCbiq+JXV1VWgvT+mgaI=",
           "py3"
         ]
       }

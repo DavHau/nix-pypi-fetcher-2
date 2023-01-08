@@ -32733,6 +32733,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.15": {
+      "sdist": [
+        "Ov+7G0vuvDbtmeP6p6g6HDCqW8X+RHQwTFZ+tS1ynjY=",
+        "dtopia-1.1.15.tar.gz"
+      ],
+      "wheels": {
+        "dtopia-1.1.15-py3-none-any.whl": [
+          "u9aj682YUL3k46PtV2DO4EbursIL9gcXS2Fg1VzC3FE=",
+          "py3"
+        ]
+      }
     }
   },
   "dtp": {
@@ -34539,6 +34551,256 @@
         "fastjmd95-0.2.1-py3-none-any.whl": [
           "+v/O5UIVV0EQ7V2Nos9W+epysnDZpYXkTC5tqx7Ze3s=",
           "py3"
+        ]
+      }
+    }
+  },
+  "fasttext-parallel": {
+    "0.1.2": {
+      "wheels": {
+        "fasttext_parallel-0.1.2-cp310-cp310-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "cfZZ+v90BqSSryog/l6VHseIL+6/YfabaJjUFYq196k=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gWZhmkKlVpN7fgJqlU3arWikw/7TCm9YshCss+zr6lo=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.2-cp310-cp310-manylinux_2_28_aarch64.whl": [
+          "J9DgCCAtLtz9/DdvAodfBOM27ZinCPAbzINGrQ9KQDU=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.2-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "Pdi489gz27MBLaNALVkUuGJmuBXu9/+hq0tYZO99jzM=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.2-cp310-none-win32.whl": [
+          "PiK5dNtcRp6OOpF1fEVraSFqRPxYJuSSoOXwjCdbdAI=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.2-cp310-none-win_amd64.whl": [
+          "OWuvhrbM3mzXPR4y4B6LVSxYLXPhqGOUJ3HfOaiKjq0=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.2-cp311-cp311-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "hr7vJTZYGAUNLa1oOGzQ2pAgZzPVx181CFqAiYXD7co=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MVrvnj9dtV2dseIW9s/qQ7Vkfuh/e20NcK2Zgv/XbEs=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.2-cp311-cp311-manylinux_2_28_aarch64.whl": [
+          "hPsWIGNDMNgI2N9QW2V+sW50lCtaI0R0RocfTgFP0Xc=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.2-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "pU/6B1owWEJIAoRVKCluPGnHKocYM3/XJhDmcw81KGA=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.2-cp311-none-win32.whl": [
+          "gN+0uInZnSc4ZjrsCkeI52tgITT0SqLEob5lScQQsaU=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.2-cp311-none-win_amd64.whl": [
+          "oHlFWJ3oG82RQKKYJuVIncP28uvcChWMWZwv6tNU784=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.2-cp37-cp37m-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "Ybxwwq1UaLEw+ykHPIwBpCEZyrCPGwLXtq2n+niNTUw=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PyIZaEXGmFR5FDrCl+G8iID8GV/L/znzH2Wd9IhgcOg=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.2-cp37-cp37m-manylinux_2_28_aarch64.whl": [
+          "k8JqYnvBYth+NomAMX1Nhzrt9TkPzXzxdB9BjSmc1q0=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.2-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "ZphNdlazOlLQMyT7gJY/+Cb5GOOGWDcBVX6+6e4AbpI=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.2-cp37-none-win32.whl": [
+          "CTj0uYNrax/NOFRaoNC9/H6m09SOaJgjpQcJvfusuG0=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.2-cp37-none-win_amd64.whl": [
+          "CtJxoIdkmGSjzmSTQjACtk3osC4iyECWC3drUAT6MDc=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.2-cp38-cp38-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "NrdYYHD7ufgdo2CnV8Z8O49j+sfBjJF9kV6ryhrnVbA=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4wtPW6dw7qewk+KoKyAqFXCdFcqp9sS03dEy63tM220=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.2-cp38-cp38-manylinux_2_28_aarch64.whl": [
+          "pNcaMbjiufkNh5iXUTTi5XVj4qS2eJ99kG1VUYhBn4E=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "mBJr6v1Nki1/M1rqNQzv7+Fan9rhKNABoWCX2qwLPmI=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.2-cp38-none-win32.whl": [
+          "to/1ABLj2pe1X0dSjPuAlE4rb4LFtrnLq1ouiSLyHJQ=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.2-cp38-none-win_amd64.whl": [
+          "DRvtiOw8bUYSSDOpmLj8thly0Na1SptVXZBZPY00F1s=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.2-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "5KKLcN80mEUOFB7LpVGU7TPJwi1ejkJQLp549nD0dc0=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9msSihpj/U6LVcxj7lc1VO/HBCznXGINF5jWdKa2xLA=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.2-cp39-cp39-manylinux_2_28_aarch64.whl": [
+          "QeEE8GPtP37YM1RhKIsrRaOf4XNNnLmdIqGYwHcrGnw=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "fU6ngcf9rEp/wrfjK9X/TX72vB7lKtnNSkeNp5Bfdg8=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.2-cp39-none-win32.whl": [
+          "XVlI+Ycyn6faryGNaYsJM/Q2FlLj27nJd5kWNCcBpmw=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.2-cp39-none-win_amd64.whl": [
+          "JxjcxY3YyY1Mbe8hE8rx/MsfMCEocI3+OrrYoCnigVA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "fasttext_parallel-0.1.3-cp310-cp310-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "laok3Y/PVvUgPXLNfPnzHNmDvG5MH4PkqSlo4oOlX2c=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6xJlb48kNoqXAwzSrYHCtEjcGHZ8e2KsODdEsxaoaFQ=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.3-cp310-cp310-manylinux_2_28_aarch64.whl": [
+          "pwS0MhHNQMuMqL9wkRNvjLj9ScvWpDLmTKdmehed9oI=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.3-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "JA8G9nGzfH7uCuM8y656sDv4M7peR+XZgIrl88rjf0E=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.3-cp310-none-win32.whl": [
+          "DpLHtYSpRL82lTSjj5m0w3IyYNndBcNguF9Ovpoy2cE=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.3-cp310-none-win_amd64.whl": [
+          "837QWPSO2jeYtaBwotGIgOlUdjCywcJDtkiwXSgrLUE=",
+          "cp310"
+        ],
+        "fasttext_parallel-0.1.3-cp311-cp311-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "foudKWByk4N7nqionpD/tZ4771W4yI/0F1rP34B1KR0=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "23K7eqA2H+os/a3IwsRep8VH0rv1ZGDsTOjNhKKLWFo=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.3-cp311-cp311-manylinux_2_28_aarch64.whl": [
+          "gEfOXoesRMOvfwBEkxXA1ciehfAEE2jNQ+0HYaDYiPs=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.3-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "zdHT3O3asu6FkGPCpEtkBitV9U1Y9CSkgwtrZaIr9f8=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.3-cp311-none-win32.whl": [
+          "GM/q0Bz0K2aL7pO9uaZCV46g+6QBln4OQd0avx2x6sI=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.3-cp311-none-win_amd64.whl": [
+          "B+07yxWdBmyfe28rbHvBZoO0zi57yeHK/MEo0ue9mwM=",
+          "cp311"
+        ],
+        "fasttext_parallel-0.1.3-cp37-cp37m-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "bBB6Tr1C8drg3W70M2wb3ij+SDpluwh6Q1p+L/b0j7U=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EypGN5mCduCsKTLniS/iBHBJ6sjyb/DWC95C3Sn7NPE=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.3-cp37-cp37m-manylinux_2_28_aarch64.whl": [
+          "2DHrm5w/W5rWP1t+pz4c0UE67J2uNIJz+22ciaMGVZ0=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.3-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "ncEswhqj0nGQVxwtk3hhiKhnA1oo3Me1g03zykN4Ggc=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.3-cp37-none-win32.whl": [
+          "5f7dTExkI5eif8HT18afkKAL3TS3Sz7B40+bYswKOFs=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.3-cp37-none-win_amd64.whl": [
+          "+0wjXhwlgZXowzdcguS196Nhtek8HzmFqCfNkvoGH30=",
+          "cp37"
+        ],
+        "fasttext_parallel-0.1.3-cp38-cp38-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "Tn0IKiQLmMa+8A8N5J48lxGI309A1PKsdkERVarjeis=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mqUTU4g+waD1FX0j6vNMy0A3NsmBzmbo6cLtwyL7fBw=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.3-cp38-cp38-manylinux_2_28_aarch64.whl": [
+          "SYjuhtMuKB5Qzke67NavBBxiADJ5nydjylQOHOLVsKg=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.3-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "YmhCIUVqiS0ZK6EMw/BhJHAjt0PIPmSXCl2mAPbB+MI=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.3-cp38-none-win32.whl": [
+          "BLPmXwxpOaweGCUjVVZoWdYdxeeRxQzu7xc+h39gIQ4=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.3-cp38-none-win_amd64.whl": [
+          "KQsiWVOdnmy1bqNcECVczxJYEln5irAd6bFii5jLvZ0=",
+          "cp38"
+        ],
+        "fasttext_parallel-0.1.3-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_arm64.macosx_10_9_universal2.whl": [
+          "w+m/4gaDq66EvswykDu8VO50ayPPcYQTniwzhA219DI=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W2KuqJaRnqx5MbqSgt/Cm109YF8da6t6Fww3Y8FVFag=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.3-cp39-cp39-manylinux_2_28_aarch64.whl": [
+          "u0v9SlmCf6Qa6/vOAlJWMwWjPH7ptHYy7qADDKqTzIo=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.3-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "JO8fSG2bwvaCXXscUsp67LRHo8zYMYNs5DtxPCgpdc4=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.3-cp39-none-win32.whl": [
+          "Dj/bwy5l9VgLtoHB2DylEgh60BgFUQNNiUPOfw0RsSU=",
+          "cp39"
+        ],
+        "fasttext_parallel-0.1.3-cp39-none-win_amd64.whl": [
+          "CzOkLc7TAr/67DJ+Y0C74j8MqD7+6/ZZLqJ4zs9+zIs=",
+          "cp39"
         ]
       }
     }
@@ -114050,6 +114312,14 @@
         ]
       }
     },
+    "2.12.0.dev2023010809": {
+      "wheels": {
+        "tf_estimator_nightly-2.12.0.dev2023010809-py2.py3-none-any.whl": [
+          "GaCQFzVm1pIsOMIVEaZpEd8X1/aClNdNt8kwzUXvims=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.0.dev2020031201": {
       "wheels": {
         "tf_estimator_nightly-2.3.0.dev2020031201-py2.py3-none-any.whl": [
@@ -129060,6 +129330,18 @@
       "wheels": {
         "vrobbler-0.1.6-py3-none-any.whl": [
           "V7h7OTlI9znQQrYq3SJ3qwsFCG0fhXlCM4Vpd2OOT2o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "DNvnXKvpCR1o8LPeu5CRTmLaLxwgAX35io92mHscvwk=",
+        "vrobbler-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.1.7-py3-none-any.whl": [
+          "idZsbzOYxi8olFYIu3+E5OvayDAf0UuaU46ypKHSlrc=",
           "py3"
         ]
       }

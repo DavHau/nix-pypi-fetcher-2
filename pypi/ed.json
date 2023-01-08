@@ -51078,14 +51078,14 @@
         ]
       }
     },
-    "16.0.4": {
+    "16.1.0": {
       "sdist": [
-        "z6VmoW48tCx9LcQINNRUKkZgyxfyundK1JyMG16oAtU=",
-        "feedcrawler-16.0.4.tar.gz"
+        "DRm4k3deOXf1nc2pZavIhuHSGBbu4kmPiNaw1dxTvng=",
+        "feedcrawler-16.1.0.tar.gz"
       ],
       "wheels": {
-        "feedcrawler-16.0.4-py3-none-any.whl": [
-          "nSYWGkFGkmzvAGA4pMYjJlUJtVj5NUbupd6B4G4gE5o=",
+        "feedcrawler-16.1.0-py3-none-any.whl": [
+          "9khUdUcjI75egcBxGkQ3EW0oHoO4xY02jV5fDVw4Oag=",
           "py3"
         ]
       }
@@ -80046,6 +80046,62 @@
         ],
         "memimport-0.13.0.0.post2-cp39-cp39-win_amd64.whl": [
           "Qw86tlrpXX6D+SdaNFrAPILEiOEKd1YOSrBXd01NeUY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.13.0.0.post3": {
+      "sdist": [
+        "8COoh4ONhG5QMcSn8Z96hBY/4ZDecNLx4hBpQ2bi6VE=",
+        "memimport-0.13.0.0.post3.tar.gz"
+      ],
+      "wheels": {
+        "memimport-0.13.0.0.post3-cp310-cp310-win32.whl": [
+          "A121jDbm3y6opOhCnayoEh7MwXoDW1PEYMhaMt0yKh8=",
+          "cp310"
+        ],
+        "memimport-0.13.0.0.post3-cp310-cp310-win_amd64.whl": [
+          "JxnFggSjiYGTkjRx07LOOdJ656ZhVdAX9Q3Rf/cM4m0=",
+          "cp310"
+        ],
+        "memimport-0.13.0.0.post3-cp311-cp311-win32.whl": [
+          "bHp0KYfOqtsm7oekI3pnGb3UBwi6hq86h+NOgECcWmU=",
+          "cp311"
+        ],
+        "memimport-0.13.0.0.post3-cp311-cp311-win_amd64.whl": [
+          "3nUI+VO95YnLY9i8wxwERgj5iUi0gAKAw/uS/dMkLkg=",
+          "cp311"
+        ],
+        "memimport-0.13.0.0.post3-cp36-cp36m-win32.whl": [
+          "7I0Z1ZwBKWJD858tCEYb09fhcGWFTaoFkO+IwgwSMU8=",
+          "cp36"
+        ],
+        "memimport-0.13.0.0.post3-cp36-cp36m-win_amd64.whl": [
+          "cTfbYWAzPWmHZ7XjvK1bH6C0WYrs4IXZFe/ZfmKyW6Y=",
+          "cp36"
+        ],
+        "memimport-0.13.0.0.post3-cp37-cp37m-win32.whl": [
+          "lrk6/4pVC6hlALKlGvbEoUSkAAb9IvpPpprwXDXlv4I=",
+          "cp37"
+        ],
+        "memimport-0.13.0.0.post3-cp37-cp37m-win_amd64.whl": [
+          "gizppUM5rJEvlEVtizCSrHsE9gSBxL8t6WYdpw6PmD0=",
+          "cp37"
+        ],
+        "memimport-0.13.0.0.post3-cp38-cp38-win32.whl": [
+          "C7VqwRPlAYd/1Fn8eUWuYL5s2nCPNLdUPkJGa3Hh8NI=",
+          "cp38"
+        ],
+        "memimport-0.13.0.0.post3-cp38-cp38-win_amd64.whl": [
+          "1fi+fCJ6x6wKeaoWH+sld9CRVZv+kBvzcciVj8t1/qM=",
+          "cp38"
+        ],
+        "memimport-0.13.0.0.post3-cp39-cp39-win32.whl": [
+          "LItVgxUPnxq6J6TN2clCQrPbwD+pkeyAd7K4dz/zhUI=",
+          "cp39"
+        ],
+        "memimport-0.13.0.0.post3-cp39-cp39-win_amd64.whl": [
+          "m18SX57uITVmJh+JTK4/WwTwlVv+OBvK3IOcxSwZOXY=",
           "cp39"
         ]
       }
@@ -149390,6 +149446,30 @@
       "wheels": {
         "tplink_ess_lib-0.2-py3-none-any.whl": [
           "kTg1NwGnhlqSRJZJyuhVz2KWJG50IytQeSa4u84b+yA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "fm5++8OGYRE/T7vbLRKxGWUxkFR36BY9TvTPb5t7nhw=",
+        "tplink-ess-lib-0.3.tar.gz"
+      ],
+      "wheels": {
+        "tplink_ess_lib-0.3-py3-none-any.whl": [
+          "DsNI+XaSz3w8DOwmTQ0KUH+tW6pApKZwPQhQ/0zfDVs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "Ft/AwLYLDY5SONT3t84nRKIinR7fnPlYNyta0Hmxboc=",
+        "tplink-ess-lib-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "tplink_ess_lib-0.3.1-py3-none-any.whl": [
+          "d2MQ8y7SgtSEhdsiL0F/8DtQXlFS1axR6v7A0l5eI1A=",
           "py3"
         ]
       }

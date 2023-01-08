@@ -97569,6 +97569,14 @@
       }
     }
   },
+  "psytester": {
+    "0.5.1": {
+      "sdist": [
+        "dJ7i8Lvh7VOCuOkKy2raac0gjvSKWPp932uPHzDKusM=",
+        "psytester-0.5.1.tar.gz"
+      ]
+    }
+  },
   "ptonppl": {
     "0.0.1": {
       "sdist": [
@@ -114740,6 +114748,30 @@
       "wheels": {
         "redis_popper-4.4.6-py3-none-any.whl": [
           "4ePa0IbZKglK2sG4XTnZo+txrkFND2qECcMT+6jtIL4=",
+          "py3"
+        ]
+      }
+    },
+    "4.4.7": {
+      "sdist": [
+        "VZ2v+13xFPa9rhipnDZRTgbMhuTZBoA9yv3R70WBe3Y=",
+        "redis%3Apopper-4.4.7.tar.gz"
+      ],
+      "wheels": {
+        "redis_popper-4.4.7-py3-none-any.whl": [
+          "o2FgYmrSiFRlvQDrJ3jET1D3k9nPIqFKbIyl6iVQHcs=",
+          "py3"
+        ]
+      }
+    },
+    "4.4.8": {
+      "sdist": [
+        "gFkbVIaFyYiYCbPX0ibEVKubUSjoaQm8CFoCXP38Cxk=",
+        "redis%3Apopper-4.4.8.tar.gz"
+      ],
+      "wheels": {
+        "redis_popper-4.4.8-py3-none-any.whl": [
+          "G5V6CPCKp0FcS8BILextBSpaChbk39pJ/p4ideEo+SI=",
           "py3"
         ]
       }
@@ -137029,6 +137061,14 @@
         "QDaLZDFl+XTco2gw4wKcJH4CsJ6J8j8CMJGnD+9mo/Q=",
         "TPython-1.5.tar.gz"
       ]
+    },
+    "1.6": {
+      "wheels": {
+        "TPython-1.6-py2.py3-none-any.whl": [
+          "d47xxQb//qo2pN+3jSobeWNGJfNz/DF3IBSiY/7a3hU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "traccondfields": {
