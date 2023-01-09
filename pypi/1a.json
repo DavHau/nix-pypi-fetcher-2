@@ -5734,6 +5734,30 @@
         ]
       }
     },
+    "2.1.56": {
+      "wheels": {
+        "anki-2.1.56-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "xunFv9ZNMmIhoxkPliaylVdlc3SkFBajrrOeWJSJnRQ=",
+          "cp39"
+        ],
+        "anki-2.1.56-cp39-abi3-macosx_11_0_arm64.whl": [
+          "p+GUCYvBW8wnpJhTcmzey+pdokjYUd9wBSt2t3MwRGI=",
+          "cp39"
+        ],
+        "anki-2.1.56-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "a/5INhHpnUceG6RNJbAmaINtcNXqyig3722fEMpEnMI=",
+          "cp39"
+        ],
+        "anki-2.1.56-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "neAwzo1SPlKSyZn5qy8ZtWSgB6+Q0fTUKZxfiHozz6A=",
+          "cp39"
+        ],
+        "anki-2.1.56-cp39-abi3-win_amd64.whl": [
+          "X15oPw3e+haQYb+jD0K60ZbgxXGUPFYP5peoXuT6XvQ=",
+          "cp39"
+        ]
+      }
+    },
     "2.1.56rc1": {
       "wheels": {
         "anki-2.1.56rc1-cp39-abi3-macosx_10_13_x86_64.whl": [
@@ -20594,6 +20618,18 @@
       "wheels": {
         "cdk_simplewebsite_deploy-2.0.53-py3-none-any.whl": [
           "qbUA+SazcyYxmjA3nielQ3ci2WwxMqv50GZJ8EEDsNA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.54": {
+      "sdist": [
+        "+xRLKjl1Pzh9RsQy3cPRga5Iga9xeq8xHoqAPDwsaxs=",
+        "cdk-simplewebsite-deploy-2.0.54.tar.gz"
+      ],
+      "wheels": {
+        "cdk_simplewebsite_deploy-2.0.54-py3-none-any.whl": [
+          "xesQtlgDFYK/lfTb0kjFgb0BLc9LkQI015egizqS2sk=",
           "py3"
         ]
       }
@@ -69405,6 +69441,12 @@
         "8kZcn3A28nwdN5fsa3yZQJHdzIxA5Du8/FRaXf//2yk=",
         "kirui-0.5.4.tar.gz"
       ]
+    },
+    "0.5.5": {
+      "sdist": [
+        "0dEszjUD5kn3MDoUBgSDaHKgjfWvRZysjFeUIX3lyPA=",
+        "kirui-0.5.5.tar.gz"
+      ]
     }
   },
   "kisscartoon-api": {
@@ -98285,6 +98327,32 @@
       ]
     }
   },
+  "portafilter": {
+    "1.0.0": {
+      "sdist": [
+        "eqsZzM3bym/RYzewquSOFdXe3qqi7G5dcjKJBebiycc=",
+        "portafilter-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "portafilter-1.0.0-py3-none-any.whl": [
+          "f850eNZb8PJoxt/ASSTGluoXxDNnRHCWEumRNs0HPDY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "6tFFkxXN+m03SsE5sTDfCVhZEUZ9b9TDQHepGEHfpZY=",
+        "portafilter-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "portafilter-1.0.1-py3-none-any.whl": [
+          "FTvJyvbs/O3uXFSdVq3BjQliWOUn49q3TwWrakHVTzo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "postmanparser": {
     "0.1.0": {
       "sdist": [
@@ -126531,6 +126599,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.2": {
+      "sdist": [
+        "aLzNL73Vqe2s8jmOHHLVJhuWW6ToNcdYBgGZCyZxGiE=",
+        "shapefile-to-sqlite-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "shapefile_to_sqlite-0.4.2-py3-none-any.whl": [
+          "fFfTZUdGytfIPOf2Se7dAL/FdR56CwyQo7SLN61K9dU=",
+          "py3"
+        ]
+      }
     }
   },
   "shaphinx": {
@@ -139928,6 +140008,32 @@
       "wheels": {
         "volttron_lib_web-0.2.0rc0-py3-none-any.whl": [
           "c2GAKsPDdysGNRkQAWXzrvKaLKzXuaqJffpP+tsBfgU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "vpype-ttf": {
+    "0.0.2": {
+      "sdist": [
+        "x23kXtf7If9RblIjCrWDK7ZQ6Czk4Nd4P6S8l1KV79c=",
+        "vpype-ttf-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "vpype_ttf-0.0.2-py3-none-any.whl": [
+          "LhliNmUKbMTktJVIA9JBMkpCpYKy1gdgAF68LkVcLPk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "kVLMferlLijBX/H1i6tUCVJEVwSvWrLOG329jW5bTSk=",
+        "vpype-ttf-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "vpype_ttf-0.0.3-py3-none-any.whl": [
+          "nzqZxkBdY54kCEDk21Lv0u7Q7M1I5hl3hQ9bf0eg8pQ=",
           "py3"
         ]
       }

@@ -7957,6 +7957,18 @@
           "py3"
         ]
       }
+    },
+    "22.9.7": {
+      "sdist": [
+        "wG7R7pzMVjl5BsbbiV7efWTQd4KK8oBohfsEUqjTcu4=",
+        "backend.ai-plugin-22.9.7.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_plugin-22.9.7-py3-none-any.whl": [
+          "75Cfky7Io2VUfV30bDRfFmfAg+copKbQQhtIYOhVY6o=",
+          "py3"
+        ]
+      }
     }
   },
   "backports.ssl-match-hostname": {
@@ -103675,6 +103687,14 @@
           "py3"
         ]
       }
+    },
+    "0.6.8": {
+      "wheels": {
+        "pygame_gui-0.6.8-py3-none-any.whl": [
+          "xwCeqf6p94UMUVAcGMaujcO7/oeV4yZZ3DOQIa5PRsI=",
+          "py3"
+        ]
+      }
     }
   },
   "pygamp": {
@@ -114199,6 +114219,46 @@
         "pywry-0.1.391-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
           "ND67u7Is7fQTuKwqc99hUlnWz1aWTTgm06kSKSk3oLw=",
           "pp39"
+        ]
+      }
+    },
+    "0.1.392": {
+      "wheels": {
+        "pywry-0.1.392-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "k1L07yF2nzd9VhdZqxrOduqnnrS5d/S8K2y4cwnNXSA=",
+          "cp310"
+        ],
+        "pywry-0.1.392-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "axFiVUFgJPBw80XCPrtkZcsVM1IKivLW84Lt59i9SBo=",
+          "cp311"
+        ],
+        "pywry-0.1.392-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "fGCaY3Y889LD8nI4dkLlv4p3Rg8BMNpcAIOcmTuJ/QI=",
+          "cp38"
+        ],
+        "pywry-0.1.392-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "qj8qagw9izTVCH8PGHIZxrM/OGil8/R/b7KO9H0CRas=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.393": {
+      "wheels": {
+        "pywry-0.1.393-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "JOEPeGhdZIhQqN+xPlIUsFK1dEilS/9wF+jQmvletz8=",
+          "cp310"
+        ],
+        "pywry-0.1.393-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "AeKb3lCkASWdBskhRmjKJxZ1YHQXiTQuSa5ihONM8XA=",
+          "cp311"
+        ],
+        "pywry-0.1.393-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "qGpPGMl8PS8NQohtGbhilqqu0KvLqdb/yqb2hfb8B0g=",
+          "cp38"
+        ],
+        "pywry-0.1.393-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "5BzsWRmjrptKVUzwfshH4LEBKBqZ3p6qgpIvELKz40U=",
+          "cp39"
         ]
       }
     }

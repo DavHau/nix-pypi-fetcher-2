@@ -21427,6 +21427,20 @@
       }
     }
   },
+  "bookgpt": {
+    "0.6.2.1": {
+      "sdist": [
+        "/evuERfHhhbifvLvAhSV0OT1UMmyKLxmzQ+5QJt0QvA=",
+        "bookgpt-0.6.2.1.tar.gz"
+      ],
+      "wheels": {
+        "bookgpt-0.6.2.1-py3-none-any.whl": [
+          "7KSvlCNxSDr+17YrrFdNIAkoVBtEztzpz0s7r+8STzw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bopflow": {
     "0.0.11": {
       "sdist": [
@@ -31439,6 +31453,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "Xio7cq6RAGWHgr7X5NWDHl/rOBXqSQaoRh0//jy0eCs=",
+        "cowpatch-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "cowpatch-0.1.2-py3-none-any.whl": [
+          "dtA+wuallgbcquHhkWG2SYbBqfBRZCqzZ6Ljq5qJTqU=",
+          "py3"
+        ]
+      }
     }
   },
   "cppe5": {
@@ -34418,6 +34444,20 @@
       "wheels": {
         "datatosk-1.1.0a4-py3-none-any.whl": [
           "OFw5z0PrYul4FAtS8aEJxfn4pw8/PNVr2mlDqa0XmiQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "dateparse": {
+    "0.9": {
+      "sdist": [
+        "bXHC8VkTIyx7L0UAb5lAi43C7JbXDEkgBHf7nquwhe0=",
+        "dateparse-0.9.tar.gz"
+      ],
+      "wheels": {
+        "dateparse-0.9-py3-none-any.whl": [
+          "2OAMhB26yU1INM4NzCVRIS/bQ+5ejRp0U2o9UBwcaR4=",
           "py3"
         ]
       }
@@ -89492,6 +89532,14 @@
       "wheels": {
         "multi_model_server-1.1.8b20230108-py2.py3-none-any.whl": [
           "SJPea2QvVB8MAw+1dT7NvSKulFAwL8D7R1dQt4oMNJM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.8b20230109": {
+      "wheels": {
+        "multi_model_server-1.1.8b20230109-py2.py3-none-any.whl": [
+          "mbFBIYcEo5Y5ZVYMGBTxerMby2NQz+8VLUSMs5j6GQk=",
           "py2.py3"
         ]
       }
