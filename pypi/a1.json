@@ -2262,6 +2262,18 @@
         ]
       }
     },
+    "3.26.7": {
+      "sdist": [
+        "k8cMuQfiICMiGkEo2bPy6VKBHxKPxX/Sado+Wmmr0+U=",
+        "aliyun-python-sdk-edas-3.26.7.tar.gz"
+      ],
+      "wheels": {
+        "aliyun_python_sdk_edas-3.26.7-py2.py3-none-any.whl": [
+          "y9SmTbvSbRlqT6c4eFI7evCIuuK6h0PNvx7OIos0Vxk=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.4.0": {
       "sdist": [
         "no3pd+4A0wU3ClKS3rR/JISZDEX7FXNMipgJxwYe5hI=",
@@ -2874,6 +2886,18 @@
       "wheels": {
         "antchain_bccr-1.17.33-py3-none-any.whl": [
           "3r7nGlomwQLW8CULrZX9bv8doJhqkfqIKdyw8maFhHY=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.37": {
+      "sdist": [
+        "1oiEg6106OuNb55t5cqmEwrCGLdZUhAniMnhd9Nd7H8=",
+        "antchain_bccr-1.17.37.tar.gz"
+      ],
+      "wheels": {
+        "antchain_bccr-1.17.37-py3-none-any.whl": [
+          "MvzZJpZ604WZ/SvrQ87wcjj95Z3FuAhlVGUWAFWrgaY=",
           "py3"
         ]
       }
@@ -31510,6 +31534,42 @@
       "wheels": {
         "dagshub-0.2.1-py3-none-any.whl": [
           "rCgoyF12sjfgga4k0deHQAeS61hIKxxPao9LPW4Yscc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.10": {
+      "sdist": [
+        "ElK6sWlwQR+0Eq0ggOEae2J2pdVsDaiWQMrfpMc0aqI=",
+        "dagshub-0.2.10.tar.gz"
+      ],
+      "wheels": {
+        "dagshub-0.2.10-py3-none-any.whl": [
+          "NW1S1nqtJVW0AqDRKQShW4+4+bNs8uWod+Rj3PAistk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.10.post1": {
+      "sdist": [
+        "qIcwKkibJEh2nu0rtqQmN1bs7iWzjWi3wOXGPralpU8=",
+        "dagshub-0.2.10-1.tar.gz"
+      ],
+      "wheels": {
+        "dagshub-0.2.10.post1-py3-none-any.whl": [
+          "GblPL6kvLnKhZwzUOb6zwj7wnAL6ISMfs1q7jGVK+gY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.10.post2": {
+      "sdist": [
+        "c2kqLRSvE3AUTEmYPAY35DZX3Q+XVl4LngIZ2QKJjQo=",
+        "dagshub-0.2.10-2.tar.gz"
+      ],
+      "wheels": {
+        "dagshub-0.2.10.post2-py3-none-any.whl": [
+          "4AMTxuKlAqh6o5ZBlmzzKlgVAlS1PZbRSxsrucBkSgM=",
           "py3"
         ]
       }
@@ -67656,6 +67716,30 @@
         ]
       }
     },
+    "1.0.13": {
+      "sdist": [
+        "z3i5FfC+Ael2eGfRTAagABAoG/RP1AJh8ZFH7ct6pSw=",
+        "kinetick-1.0.13.tar.gz"
+      ],
+      "wheels": {
+        "kinetick-1.0.13-py2.py3-none-any.whl": [
+          "pCr4k16ir4oUaypBh8kd4sjFfRqtTS6NXEFK1E2zE3M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.14": {
+      "sdist": [
+        "uO6UsbKupkQskN5unXjINJApIeYgDH5xwuOrfJ7D3L4=",
+        "kinetick-1.0.14.tar.gz"
+      ],
+      "wheels": {
+        "kinetick-1.0.14-py2.py3-none-any.whl": [
+          "+waIc4eWDQt4MXgAeBqSKzT7RiAw+qe1mZ9fNzs8B3k=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.4": {
       "sdist": [
         "8o1XPGzBXtYdz6cybCQ5jMfYVigYUFz9Ew9N4EGXeqk=",
@@ -88288,6 +88372,16 @@
       "wheels": {
         "odoo14_addon_website_event_questions_by_ticket-14.0.1.0.1.dev5-py3-none-any.whl": [
           "4/OFq/DgoBhbP1sUSfLsSltvlOk29V8GTIsM0nbbzTQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-website-sale-barcode-search": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_website_sale_barcode_search-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "Zr+IeEmhM0Wn4eDExGutdnOB3luHf+pYBN09AF3LDQg=",
           "py3"
         ]
       }

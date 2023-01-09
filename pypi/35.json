@@ -44157,6 +44157,70 @@
           "cp39"
         ]
       }
+    },
+    "0.5.0": {
+      "wheels": {
+        "fastzy-0.5.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "JWoxN+kN5DRdirUasTVjIfRPOFjRTwFNnPJlFPcEkF8=",
+          "cp310"
+        ],
+        "fastzy-0.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qRwi0dUhqm0o65ZIitK0YNWnOqh8lFj0zJDt5s/Bidg=",
+          "cp310"
+        ],
+        "fastzy-0.5.0-cp310-none-win_amd64.whl": [
+          "L1YPuaBb6O0UQ0yz8sl265/MVL+jpHRaeUMDkc+YZbo=",
+          "cp310"
+        ],
+        "fastzy-0.5.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "/BJGWuuinCazOTX+i1S41j7aRn5O5pyaAitN/GPkIU8=",
+          "cp311"
+        ],
+        "fastzy-0.5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cYiHN/uRj3V1H7sN0DRr1XnacFtjJkFMDY1wrz9/YGk=",
+          "cp311"
+        ],
+        "fastzy-0.5.0-cp311-none-win_amd64.whl": [
+          "zHwNV0rtKSou5uD+TcprluiLTuEJgnm0RK7lZgZarMc=",
+          "cp311"
+        ],
+        "fastzy-0.5.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "HI8hbtZ7tGsSqNmtJQDj6mTQF5YACrvJQJiDpixF74g=",
+          "cp37"
+        ],
+        "fastzy-0.5.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wuzf1jCSh5qN96wRX5coZ8VuQEH7ayKACF4KPWGKtSg=",
+          "cp37"
+        ],
+        "fastzy-0.5.0-cp37-none-win_amd64.whl": [
+          "NzSpR8EpujhOhpcq5KOooloE62bY0NgGh2AVnJPPb1I=",
+          "cp37"
+        ],
+        "fastzy-0.5.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "3aazEn8dsoLoiwxLwxG1uDbGjj0YNlq5Cugs31eWmOw=",
+          "cp38"
+        ],
+        "fastzy-0.5.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "q0V02L/GPGLDQCpiqLzVToM4obctifCXqt/0EQhA7Ic=",
+          "cp38"
+        ],
+        "fastzy-0.5.0-cp38-none-win_amd64.whl": [
+          "fLgL7N6y3btqhMCz1Pyx0TJwKwTMCD5r9m5UYjmP6JA=",
+          "cp38"
+        ],
+        "fastzy-0.5.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "T98449/hQLhtMxPnhDXP4zGUyxK8KGUEv/DGx6ofPgQ=",
+          "cp39"
+        ],
+        "fastzy-0.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pCgwTIsMRpoGX0Hc+wN8sGWouiqL4pvPZUsr4AztQjw=",
+          "cp39"
+        ],
+        "fastzy-0.5.0-cp39-none-win_amd64.whl": [
+          "AqbBfNYeVgjwI51kwYHqdNmwYfDuxjLKCUFRXdliKwE=",
+          "cp39"
+        ]
+      }
     }
   },
   "fbgemm-gpu-cpu-nightly": {
@@ -72884,6 +72948,18 @@
       "wheels": {
         "mcreep-1.1.2-py3-none-any.whl": [
           "dpzB7izvla4lup/YxMBY9Syu+wE9EO/2TT5RmuvZVoc=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "S0ZyWfKfG+68LBA7Pxyk3UKyiYkVVslL5kzadeNv0hU=",
+        "mcreep-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "mcreep-1.1.3-py3-none-any.whl": [
+          "gg1CSimZQQGxycFI3vaycdPm5M3IhijlNXjhQEzGIK4=",
           "py3"
         ]
       }
@@ -102978,6 +103054,30 @@
       "wheels": {
         "peerberrypy-0.1.9-py3-none-any.whl": [
           "/mZhHynEFHPgBoO8oGwMR7Sq2nm7ptuGTfx3MWiQNxk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "HZA6bwNGz8JkbDNrUwDtCNFO031ypHxOKrYYZhNlBsU=",
+        "peerberrypy-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "peerberrypy-1.0.0-py3-none-any.whl": [
+          "DBsHPI1pm6D7nIFBinLABLaqL95r6bGxNUCLGM8rimY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "tBpRfucrt4eZP0e6d6tSoZ4QAZWJCnzcD9c6xjVB/Ds=",
+        "peerberrypy-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "peerberrypy-1.0.1-py3-none-any.whl": [
+          "lOVuXL+ebaObTW0UQ5bFsada//Pp0zvP1Uc1Xi3xxaQ=",
           "py3"
         ]
       }

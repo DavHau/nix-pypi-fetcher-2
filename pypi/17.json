@@ -2333,6 +2333,30 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "3aYcj2DguYHUDBuZZUA0aippo+zTxC7D+MKxgbVJmTo=",
+        "aiida-gaussian-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aiida_gaussian-2.0.1-py3-none-any.whl": [
+          "e6k+gbePi+TjOQpT5lpvJqx2kzbWLbMut11uvd19qRs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "kgrp5qpxoIPfZM2/+BL78xOTUtOyXWplFoBMPk7H0Eo=",
+        "aiida-gaussian-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "aiida_gaussian-2.0.2-py3-none-any.whl": [
+          "gwehIhb/LjOtcvO5VIh0QmixejT/x3RHgZy8R30aA2o=",
+          "py3"
+        ]
+      }
     }
   },
   "aiida-icl": {
@@ -7256,6 +7280,30 @@
       "wheels": {
         "atflagger-0.2.2-py3-none-any.whl": [
           "bYM0uHl4+whgBKGjnUHkGCYirSpvvVjWuMBszxuh89w=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "F/5R+gZoKBAeGavlZY8EM1SOvAhlI4A5idn0CN7E4mc=",
+        "atflagger-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "atflagger-0.3.0-py3-none-any.whl": [
+          "lRFu3a679SHBTbAPWXGMyriiyBaQGwvYrAG6tW3xzhw=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "rtscCWqYw+ccd1e/1XCT21TZ+00sXbA1cYFbuJ9spY4=",
+        "atflagger-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "atflagger-0.3.1-py3-none-any.whl": [
+          "5B5/dBfRjOkJqvqWGybo08UewE4gTr8veSI+rxntWXg=",
           "py3"
         ]
       }
@@ -70450,6 +70498,78 @@
         ],
         "libclang-15.0.3-py2.py3-none-win_arm64.whl": [
           "+j5zqL2FyH6aGg3AxQ1g7UV9kHiKp5OrNE4TG+jnM9I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "15.0.6": {
+      "sdist": [
+        "sveVGbGqsBqCjXqzH8BFXbzs3tDG1Diqd+KQWVh14kc=",
+        "libclang-15.0.6.tar.gz"
+      ],
+      "wheels": {
+        "libclang-15.0.6-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "k2F8KcXDsoTjUgUxhK3IK/CLt/jNecmmaWEQ9Qn0J5Q=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6-py2.py3-none-manylinux2010_x86_64.whl": [
+          "vx2P0tLaUKWrVaG2uc1PFwVJlYwDTd+1Zy08bG8dZDo=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6-py2.py3-none-manylinux2014_aarch64.whl": [
+          "7wHhGa/attBnLDTyCh/aipPQNgjC0V1uPDqAPtnjuDA=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6-py2.py3-none-manylinux2014_armv7l.whl": [
+          "jk5YSjwWO+BSRDrUCvY0L4QhHSQgWBRHL6lLagnobgw=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "Co/33sWxoGRTttE3U1xfMDcrg4GDSspbAflC5xpQcWY=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6-py2.py3-none-win_amd64.whl": [
+          "GsutxyWqWCUMi5wgHc1pSsaIWMz51YXoZFzNcvwpp98=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6-py2.py3-none-win_arm64.whl": [
+          "C+vJZ9L3CDn/Tu1319PUCu3olY2qWpndXA0oc12VVvk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "15.0.6.1": {
+      "sdist": [
+        "oaj+A4rylix4fFusgb+kuCu44nnmHnDMk0wQ9uIMc+w=",
+        "libclang-15.0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "libclang-15.0.6.1-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "hiF5Xge4fhf8eqyfBxvH/mtS7WEQwKlqmXXYETyMJSc=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6.1-py2.py3-none-manylinux2010_x86_64.whl": [
+          "abAaI6tUOQimYVMlldqiPPiL2W2A5B9Yug6qajeP4Ng=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6.1-py2.py3-none-manylinux2014_aarch64.whl": [
+          "SlGIGEuTcTLBmO6d6aiiMW1f3RqCU5jVrRqPXgb5tA4=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6.1-py2.py3-none-manylinux2014_armv7l.whl": [
+          "9/+gKsXlhs//3gOdzMxDnYjQ/qx9d7+UJtm6dUPRZUU=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6.1-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "quu2qh23O6w6CsQeV+94dDB562hyitv36A7pF64XFSk=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6.1-py2.py3-none-win_amd64.whl": [
+          "ha+0djDSBw50uIYEDO6hhGCXylPMiNDx13UdD0kiACg=",
+          "py2.py3"
+        ],
+        "libclang-15.0.6.1-py2.py3-none-win_arm64.whl": [
+          "aH2FScEQxwD+zljdh3J0IdBxD90RGqfuywH6+OP1DU4=",
           "py2.py3"
         ]
       }

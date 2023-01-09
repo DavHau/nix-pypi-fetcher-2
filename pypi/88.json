@@ -53983,6 +53983,12 @@
         "g5vGjWOHnkabGJ0smpFHVD2pEHpTLo5nhdiJlfwDkmg=",
         "infrasonar-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "Nz/Lq0pPpEqATWFHMv94efNgehvt0hiMZybxctyd0yo=",
+        "infrasonar-0.1.5.tar.gz"
+      ]
     }
   },
   "insdcalculator": {
@@ -91141,6 +91147,16 @@
       }
     }
   },
+  "odoo13-addon-purchase-analytic-global": {
+    "13.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo13_addon_purchase_analytic_global-13.0.1.0.1.dev3-py3-none-any.whl": [
+          "He6OMVhkcpqM8K3gQfIJu0q7KwCUBafSmP88cQKLO14=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo13-addon-stock-landed-costs-purchase-auto": {
     "13.0.1.0.1.dev2": {
       "wheels": {
@@ -101788,6 +101804,54 @@
       "wheels": {
         "py_book_util-0.1.25-py3-none-any.whl": [
           "fgEqm6N5NqXEbpEl9PrOdN7fnj+F2hVVKpXslvVnACs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.26": {
+      "sdist": [
+        "gGxeIRDI3KS0qQeGcA3LGKBT/Wy9JU20bMen2cNNTL4=",
+        "py_book_util-0.1.26.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.26-py3-none-any.whl": [
+          "IMndaJM0hF9iEGQxvAIjahYd9fMbWS4r+JFZ5KsAhYA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.27": {
+      "sdist": [
+        "9Bp1ZTwZCve1SmdeLqdlTDY8WiVtPqorLwU36A3IQjM=",
+        "py_book_util-0.1.27.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.27-py3-none-any.whl": [
+          "+Dhso4dmX5KT6hfU04vED6H0jSBdy3TcEUKsdpBGUNM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.28": {
+      "sdist": [
+        "JjBuXTPdaz77IcilNR9cmWUWXL8sfxsSr54UtTegnz8=",
+        "py_book_util-0.1.28.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.28-py3-none-any.whl": [
+          "iUUBifGzNzwSmISwyFwt4Dfv77GcEqv6/06X5U+EAec=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.29": {
+      "sdist": [
+        "rscpEjRO7VKgqg6MYkjVUVF2aKsDtraXvWvPZKbHIZo=",
+        "py_book_util-0.1.29.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.29-py3-none-any.whl": [
+          "YL92SSmYOWEtdPIQT52Kz7BXvIvMwCmgcvVbNYKPKA8=",
           "py3"
         ]
       }
@@ -113202,1063 +113266,67 @@
     }
   },
   "pywry": {
-    "0.1.0": {
+    "0.1.4": {
       "sdist": [
-        "fXxIvpbME9zKizL5dfwGcfE3E23fN6N3AlPvtjDkQjw=",
-        "pywry-0.1.0.tar.gz"
+        "VCM7iAbR9e99s+q3KuDsIn8ZzhxakytvunacEh6Voow=",
+        "pywry-0.1.4.tar.gz"
       ],
       "wheels": {
-        "pywry-0.1.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "nHFVDb+a2D9XfdvpskzjHrOJRXl3o0PVrEVfS4Uc3SQ=",
+        "pywry-0.1.4-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Vhh8i96OaMoqnJZ6DrFpGkK9R1M7hjCcib8ztn9Mgds=",
           "cp310"
         ],
-        "pywry-0.1.0-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "QziYI2O6BoIoVWqcME0jM4BZWpaXlEQZHCujPiR5Flk=",
+        "pywry-0.1.4-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "vjQvkZ5Cd/i7wY8rsTq/g+LxQptX3Gn5rOKVyw3Gdqo=",
           "cp310"
         ],
-        "pywry-0.1.0-cp310-none-win_amd64.whl": [
-          "7H5WXWihAkEoeitPRx/gH+FeWPmQtuIXUZZhIB1WRm0=",
+        "pywry-0.1.4-cp310-none-win_amd64.whl": [
+          "zHEvizhpyRH1m6Os8nhZJsRysJzggdvG8hAfXzqAxlM=",
           "cp310"
         ],
-        "pywry-0.1.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "/kLrE5aR3mMpxwguwz8rNCIzO08/mrYHdzOzUQzUEbY=",
+        "pywry-0.1.4-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "wu03F1A1yIm9dI8Ok7nIe2vI10U1D682+6fPsEeoFFs=",
           "cp311"
         ],
-        "pywry-0.1.0-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "hMXn/W4ZHOXQa3jbGI4r77aHrlPrsbkEH+OGUO7FbOI=",
+        "pywry-0.1.4-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "5ha0/2bsCktHs0pn3ygAyBmRU2Dx3AouAH9VJqA1spw=",
           "cp311"
         ],
-        "pywry-0.1.0-cp311-none-win_amd64.whl": [
-          "Qu4jwXqeRk0hJU0zLL1YJoGG9dVvWKr1AhNfXjw6Xh8=",
+        "pywry-0.1.4-cp311-none-win_amd64.whl": [
+          "5115NWi3Jy/PQGwoYQFrYh1qEmfMkMR5AU8P6QJsQTo=",
           "cp311"
         ],
-        "pywry-0.1.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "WKCCUbBRAzXvxRt/a2pcAfh4AqOWlfeG72XUkbAVxjo=",
+        "pywry-0.1.4-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "utcXXHlRA2rXPlxNgGTjkKEOdb+NgPQF+IcDz6iUbQ0=",
           "cp38"
         ],
-        "pywry-0.1.0-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "+EQ7pCrxP8lx5tFWym2hQm+q0xmj305f81AaPk6pvmw=",
+        "pywry-0.1.4-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "KdT1+IvysMkXyyzV0QTCHrOqDm89M8F7WE+NjEsw5Fw=",
           "cp38"
         ],
-        "pywry-0.1.0-cp38-none-win_amd64.whl": [
-          "nOxt1K3QvWQ0Zj2PT+AwYSl9AQs31igJR8RWrLTbHw4=",
+        "pywry-0.1.4-cp38-none-win_amd64.whl": [
+          "6rP3m/+Gq8RaaNA1z3qnH1AUHx8LMv9GqaeYvLqRsZY=",
           "cp38"
         ],
-        "pywry-0.1.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "QB437P3maXE+YFK5Ihy3zNGDhzYkY0jf4fiJwSudn+8=",
+        "pywry-0.1.4-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "oPu/mdTOm9TcNverLT+yLPkWWXwXBU4A6ixKtTdqkz8=",
           "cp39"
         ],
-        "pywry-0.1.0-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "qxntErvsHT4vabkOIys+cUyv2YTDUWOeNLFT3gB1Lr0=",
+        "pywry-0.1.4-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "fty40ZwaOA+Klm2eleMVxdCy4VwfqIWaJeFDQHpEk2E=",
           "cp39"
         ],
-        "pywry-0.1.0-cp39-none-win_amd64.whl": [
-          "UamuKb1hywAIhiRZWo58mJrpatCVCq0qi5EVGJyCt+0=",
+        "pywry-0.1.4-cp39-none-win_amd64.whl": [
+          "AjxI9urlwIPyd5Jvj9/gqejDWvFiflPGPDDNZgnafNs=",
           "cp39"
         ],
-        "pywry-0.1.0-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "p18FSpukyEbXlaKqNIhSUGIiYNZDNTrp5NE08QYUfGU=",
+        "pywry-0.1.4-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
+          "Jd5K1cjXtgueFz0424lbdOA3JUGficXdmO3tSrSFDSU=",
           "pp38"
         ],
-        "pywry-0.1.0-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "44xYdIew0B8K/J3BDFNZfRVsboB8DW8HZuRf3Q6UGyQ=",
+        "pywry-0.1.4-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
+          "NqNp3lmsy9CuyiZgnSXIA1B4Sh54rHAdcETInlBmgys=",
           "pp39"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "gPgFN4S6KmAQr9e1yArV+V9MJO+y/a7ezNuEe/isV/o=",
-        "pywry-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "Tc4TOyUR/9SIJVTWaept/7TUzMTmuIlpDziDNUeQxG4=",
-          "cp310"
-        ],
-        "pywry-0.1.1-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "BFDVgzXLLMqBIjpIDQekyNLsC8kP/n/54vDgmOM2Ls0=",
-          "cp310"
-        ],
-        "pywry-0.1.1-cp310-none-win_amd64.whl": [
-          "Ypp+BdZ2gU/dBFD0E6wUrfeNhDZtzMmuAM7Uz0FnnuY=",
-          "cp310"
-        ],
-        "pywry-0.1.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "UEyFm8ke+cltvAEg8Fyzq1InnCx0iw/AWt/rMvvOgqA=",
-          "cp311"
-        ],
-        "pywry-0.1.1-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "1MQCFXo2BcZzaPtBkOWK+fRb2z0/CPukO++MUU3PPGU=",
-          "cp311"
-        ],
-        "pywry-0.1.1-cp311-none-win_amd64.whl": [
-          "ZxSs7t2P9J86rCAyxXrGdvj1iQ1qD+jZR1YWXJ4Ved4=",
-          "cp311"
-        ],
-        "pywry-0.1.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "TTVqN8Fk1BAp4N5rOmtU1Tr7jwlURlkcsLMzFJFi8K8=",
-          "cp38"
-        ],
-        "pywry-0.1.1-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "3G5WXgYq5XAX2esTpa9ieSznV6ZJ6FPe5iKL5B+pCBo=",
-          "cp38"
-        ],
-        "pywry-0.1.1-cp38-none-win_amd64.whl": [
-          "Q1WIFeJu3OLMKQrMfwd0kmw4GrpmNXcfY7jDZp5BTWo=",
-          "cp38"
-        ],
-        "pywry-0.1.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "NowTvrlMTS2MYKmHzGqLFF//BJI+6/eOf1oyUG9uyjI=",
-          "cp39"
-        ],
-        "pywry-0.1.1-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "peMEXWrB1fVErp2S3ZenIh+GD76G72kVR0HOSVduy5Y=",
-          "cp39"
-        ],
-        "pywry-0.1.1-cp39-none-win_amd64.whl": [
-          "Hd+n2/Yl3xpTWVhMGvm84jBIXmEJSz/OGRJNKHO1+jI=",
-          "cp39"
-        ],
-        "pywry-0.1.1-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "K1cBMmKqO/HihpWFg2L38I8VfcwRbsMQ9pBa2hssomg=",
-          "pp38"
-        ],
-        "pywry-0.1.1-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "zuyOX1eKL64BbuMc7fq3ri9ynO52v2426wtBNHNDBV4=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "q0YQLaT/q+3E8OBVrYbYvg7iBPTPN4t3mzkIrkhnTWQ=",
-        "pywry-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.2-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "3X7JHdT9uEJ6QIu+B/twe98fUtvqtc82ny2ixl/PJwY=",
-          "cp310"
-        ],
-        "pywry-0.1.2-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "stlBZuP5f+x2H//mVhrga5EzFryt11uoJ7YHs0/hoVw=",
-          "cp310"
-        ],
-        "pywry-0.1.2-cp310-none-win_amd64.whl": [
-          "qrKQ5ddvgn4/S2pQhH1nYpBXkDQ4I1LH2II7BejFccs=",
-          "cp310"
-        ],
-        "pywry-0.1.2-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "iOo1U8w+Ukmft+L4Hnb2Qiyv+TzhFCycNUtUzIKgcV4=",
-          "cp311"
-        ],
-        "pywry-0.1.2-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "KjrI7hBUyz7kBcmlPuIRHFrxPFGl4SHMERJxDStX604=",
-          "cp311"
-        ],
-        "pywry-0.1.2-cp311-none-win_amd64.whl": [
-          "qojyFXFOCfkY9MHMT3cBVbrA5KomR9McTgE+g8gC8Jc=",
-          "cp311"
-        ],
-        "pywry-0.1.2-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "HivIsp5i9DRnbjCxGOYveTJNgdfW7pNvDtOl+3PXXn4=",
-          "cp38"
-        ],
-        "pywry-0.1.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "wKQRP5SMsJdn+OxPP8441suo7/LTyE3r6XHfRm1UfOk=",
-          "cp38"
-        ],
-        "pywry-0.1.2-cp38-none-win_amd64.whl": [
-          "AXRQRFVWQNoEzxirmBOBNcAWuBN8yEa4sjbPi+4lgrc=",
-          "cp38"
-        ],
-        "pywry-0.1.2-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "GXijtdIlHN1oPMgW2heE+FBAQk4GPLNsPHZQ9Qm3mBI=",
-          "cp39"
-        ],
-        "pywry-0.1.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "z4qLub5Ozb9pw50iB8Bc2E8ui55jyJNNgpC0+KHAGGk=",
-          "cp39"
-        ],
-        "pywry-0.1.2-cp39-none-win_amd64.whl": [
-          "IIdQQZ1u1zLA9kW54LNUNX/IcsJj0KomPvQWIj9MMko=",
-          "cp39"
-        ],
-        "pywry-0.1.2-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "lnJAMlwDN1GTFLSwMnR5mQnOO9IGYEs/0c1lOR4rCAg=",
-          "pp38"
-        ],
-        "pywry-0.1.2-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "WCgs+8JUje03Ccq4+WNX3aXJ0ynYijBaafFRCxXD+ZI=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "6GN1+aHV9PXcW2QIVM7B70rHQ4g0HM02AjJjzJGq5ms=",
-        "pywry-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.3-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "spRyfS9PbJaResd6u2xbGL6/rXWCSkhJ4emxUq1SSDM=",
-          "cp310"
-        ],
-        "pywry-0.1.3-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "vlZ+bH1zAgkV1MMlWX9w/cESsbaMb9VjuAPfuuS9eCM=",
-          "cp310"
-        ],
-        "pywry-0.1.3-cp310-none-win_amd64.whl": [
-          "6yILZ1sZ0tr98DmRjHODFzdE1QhoqsAfOszvy0DznYg=",
-          "cp310"
-        ],
-        "pywry-0.1.3-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "0mHDWAPH/lJ6bnQUJiPKjKJRYtMgzo4gCCVfo6Rf9dI=",
-          "cp311"
-        ],
-        "pywry-0.1.3-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "BEuMOB45pJqgTKGBHZWRjUViHUxi/rFmxQnM22DgOxc=",
-          "cp311"
-        ],
-        "pywry-0.1.3-cp311-none-win_amd64.whl": [
-          "39bdaJeRvJmVIXwXKT9GMMsPNkqRPcKy92lRs/knQ3U=",
-          "cp311"
-        ],
-        "pywry-0.1.3-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "YANA4+ckayhJpRheYXXaRc64EZ5vcQ70MdHAaTkAW+w=",
-          "cp38"
-        ],
-        "pywry-0.1.3-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "fGlYQNiudnTaTLGqb3XIj4fP+Wwf4eDM52aCnKJo4tc=",
-          "cp38"
-        ],
-        "pywry-0.1.3-cp38-none-win_amd64.whl": [
-          "Sw48K+02gXzd2y2stgGjL6H9ap6Ra33ALjis6kq5oZ4=",
-          "cp38"
-        ],
-        "pywry-0.1.3-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "8FJQo8yj5dhOAbD3CMtklSxcOu9IJ9Zh9jGtMy5Begk=",
-          "cp39"
-        ],
-        "pywry-0.1.3-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "U2RlUZem36Q0zyDJnzKGps6PjjopA4hV9yUyyqTcwPU=",
-          "cp39"
-        ],
-        "pywry-0.1.3-cp39-none-win_amd64.whl": [
-          "NI6c93lM4FywtW/Lk2VXdFrTtFEUV99ClZEc5HeD688=",
-          "cp39"
-        ],
-        "pywry-0.1.3-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "hrTlZ1YvTopVxa33TRBPJubS2P4ITJ2BmblFMOTKFuk=",
-          "pp38"
-        ],
-        "pywry-0.1.3-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "mxdH2ZJSReYaOSqYz5siu3nB+Jg8kTx5/Qkq+48pu7o=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.32": {
-      "sdist": [
-        "1FKI+sz5j2ELqKtOqtUwDxuZr362CsDKN+4M04tfDGQ=",
-        "pywry-0.1.32.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.32-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "whwgqgG8D8hy5Y54npSjVDyG0kTxTx22Xziu/HgjKQQ=",
-          "cp310"
-        ],
-        "pywry-0.1.32-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "RfpuqORsbmkkB6GtcY9ZTfvZx7FiV5oRjlg8h1qeB9U=",
-          "cp310"
-        ],
-        "pywry-0.1.32-cp310-none-win_amd64.whl": [
-          "icpxPadxwQi7dNQtZQ1ZUm0L8x9+Sh3w0vodUTu+VFM=",
-          "cp310"
-        ],
-        "pywry-0.1.32-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "5NKrQm2pHNr4SFbm0FrFr2yyE9H+kebba7u8rSvFbas=",
-          "cp311"
-        ],
-        "pywry-0.1.32-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "YN0ORnkYioyYEMLugWmPHFERyyzLTwXtUEhu7pON1kk=",
-          "cp311"
-        ],
-        "pywry-0.1.32-cp311-none-win_amd64.whl": [
-          "8lmCaETiC6EbRbRzuUPy+ozGpo0GGvG3CdjLTzktkyA=",
-          "cp311"
-        ],
-        "pywry-0.1.32-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "XuNsh28XdZuCL16/K6LY8GU58u3c+cAP5ColGKSTNxQ=",
-          "cp38"
-        ],
-        "pywry-0.1.32-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "DAAvAA6KRFziVz5cXZf2MQ0ES8xZs9WS3MLF3cs0akQ=",
-          "cp38"
-        ],
-        "pywry-0.1.32-cp38-none-win_amd64.whl": [
-          "NTWTRZtL88zUyUPXATY3YngJsrh7dI7FPOoq4HqdfHE=",
-          "cp38"
-        ],
-        "pywry-0.1.32-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "vrkFO2wGqVAEULUiW497cyHjg/n68Neayu91qAlTYz4=",
-          "cp39"
-        ],
-        "pywry-0.1.32-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "gyDrtfFKRQPQF/HkDKi232Dl8ku6UvrzkIgNxqr3u5U=",
-          "cp39"
-        ],
-        "pywry-0.1.32-cp39-none-win_amd64.whl": [
-          "/SPGDFi01PE7De0Wx14yW1GwnncVMHm7AnQ1oL2irDs=",
-          "cp39"
-        ],
-        "pywry-0.1.32-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "ve3V3dNfVd89SeIISIZ8Zxi8iccmQIjKFB7Jz/yRTrM=",
-          "pp38"
-        ],
-        "pywry-0.1.32-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "Xv+3K5/Zbt7EbB1LhoUvZpcGzx2w1d/k9aaS0bnYehE=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.33": {
-      "sdist": [
-        "HZjPNs5NaqIp3RsBKq0GSbGOLpcdRoL1q+vxGTFVtBQ=",
-        "pywry-0.1.33.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.33-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "WumHgFeR9/nbajM6t9Z4syMkRh7YZMqmvideMsBJ9NM=",
-          "cp310"
-        ],
-        "pywry-0.1.33-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "hIu9A3v5QIn5iIZFLJSx2kl3IcQGkW2aGpgYpnJGd78=",
-          "cp310"
-        ],
-        "pywry-0.1.33-cp310-none-win_amd64.whl": [
-          "Ifc2o8OFWEUW1TX60kzxax8inuJyS6T885vN5JeUhmo=",
-          "cp310"
-        ],
-        "pywry-0.1.33-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "MjjBDR5dOZG33wb9AML+d+HXxrSwyeP4hMUQprYuWvs=",
-          "cp311"
-        ],
-        "pywry-0.1.33-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "2K5dWvUkqNTMkb1wmhQ5AgLm+lkpX0nXTNREVabXpCA=",
-          "cp311"
-        ],
-        "pywry-0.1.33-cp311-none-win_amd64.whl": [
-          "PR5sxeaf0Gu7ahqMTX12qacdYozeZN3q1elpGioYAt0=",
-          "cp311"
-        ],
-        "pywry-0.1.33-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "AuAL12wG6KLtgD6lx7IYHCRjN5zCvxSUQ5TQcrNCa0o=",
-          "cp38"
-        ],
-        "pywry-0.1.33-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "8ztdQlP4cyU6bGW1+skyIn+CFHYoG3osOiq6QxepfuI=",
-          "cp38"
-        ],
-        "pywry-0.1.33-cp38-none-win_amd64.whl": [
-          "Z11ejciR4pcxRLfcyV1ICxMlypMX8LcI9gDnFyJSgn0=",
-          "cp38"
-        ],
-        "pywry-0.1.33-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "0XRABrphvwZHjslScGqXrR+2cVxL6bH88vikf1e2Ius=",
-          "cp39"
-        ],
-        "pywry-0.1.33-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "2r4cyioB5tQ0A7SFODPkx5Pw8q85xhke77JP4qg9ko4=",
-          "cp39"
-        ],
-        "pywry-0.1.33-cp39-none-win_amd64.whl": [
-          "BhyhgPsHdUTdqBpEaMx6KNAiy3EJ7SSHNv55r/9EKO4=",
-          "cp39"
-        ],
-        "pywry-0.1.33-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "474O8RXdf3sI2jy5cONT8ev4q0A2HXkWSPDDPLypto4=",
-          "pp38"
-        ],
-        "pywry-0.1.33-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "hmlex/NKnJNG1hdp/5KapTDyNA9EqMysvLNv/1nUSxM=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.34": {
-      "sdist": [
-        "WJZXKjS5BKZBCcNEDJ2NVFMXd21Rjp87jUpBsQe+bZc=",
-        "pywry-0.1.34.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.34-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "iri/LB4lx9HZOOsXclOR0uz771qDatcBPDZ/hRlvMK4=",
-          "cp310"
-        ],
-        "pywry-0.1.34-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "Qh4UZWvJjU7Xn7VkCx8E6TnhHY5JYI54PP7fVRDGsP4=",
-          "cp310"
-        ],
-        "pywry-0.1.34-cp310-none-win_amd64.whl": [
-          "Rp6L5zZoYmje7EIUNmt+RDhR5lV4TMJ2a0GPYfMqc+Y=",
-          "cp310"
-        ],
-        "pywry-0.1.34-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "ETC0x7W4VT/Zt6Uw0XOvYTrDGbPfwbR0lDcu4t9F0i8=",
-          "cp311"
-        ],
-        "pywry-0.1.34-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "q7bJaof2svuM1SWYrjmbsFkGG9n4+5xRZHTcQ2rCcWc=",
-          "cp311"
-        ],
-        "pywry-0.1.34-cp311-none-win_amd64.whl": [
-          "mqFkul3cJYKh+0RbSRFYKRZwu0JMHSDzSJlZUMCqDmM=",
-          "cp311"
-        ],
-        "pywry-0.1.34-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "kN82NuZ8lnHS2SOW9dDQVV5WrhYYbjlDswF5Di8+0KA=",
-          "cp38"
-        ],
-        "pywry-0.1.34-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "sYpUGyzf0ZN21HhNF96GKsd1Jf3eDxr0PoWiPvkNhGg=",
-          "cp38"
-        ],
-        "pywry-0.1.34-cp38-none-win_amd64.whl": [
-          "XTUjWx7z+/afs5LujXLp+PrgaWtNBRaPvSuOrCZIILQ=",
-          "cp38"
-        ],
-        "pywry-0.1.34-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "qr/7S83CycDjqbsZgM1GYZYgCSn3cN5tnI2XyWNbIs8=",
-          "cp39"
-        ],
-        "pywry-0.1.34-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "MtVdzdrczl9iAP3hRVl+lo5KNiO1iWZBgQrZJt/0NE8=",
-          "cp39"
-        ],
-        "pywry-0.1.34-cp39-none-win_amd64.whl": [
-          "wHvsTQHjmKQ0gfR4S+YL0PwC5A1UAy2l6M96es1Xtls=",
-          "cp39"
-        ],
-        "pywry-0.1.34-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "ex4l65EFKQRo3rJQREptxRCTg4jLnVvXebdbsDM8xwg=",
-          "pp38"
-        ],
-        "pywry-0.1.34-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "/53BD6Co6Avktc3wlGjZjiiViXO9m9iwBt7Isn8c5sg=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.35": {
-      "sdist": [
-        "KfOKD4sjDH86rodcEDXY+Kno7fbd/N6irZKo00EWu/I=",
-        "pywry-0.1.35.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.35-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "nz27g7GkIglcr1sPNfV+w4ARndmEMMTd34RsPkKZ29A=",
-          "cp310"
-        ],
-        "pywry-0.1.35-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "l8eBhZU8BiHX3TDPd/+FmLPgb/ClGDujJN1nPude4WI=",
-          "cp310"
-        ],
-        "pywry-0.1.35-cp310-none-win_amd64.whl": [
-          "d4AHN3J+Gp1DTiagnJJVbn/hVWiWeEmz2d+6LG6GcGI=",
-          "cp310"
-        ],
-        "pywry-0.1.35-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "Gi9Eiafl9Se9LrfVowW8DRMqW/8OlrK0TU7BFOKAnho=",
-          "cp311"
-        ],
-        "pywry-0.1.35-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "rsN1rUgKxkvXrSfQ0uUw/G8L6bMB46buj2cFQEGK1OQ=",
-          "cp311"
-        ],
-        "pywry-0.1.35-cp311-none-win_amd64.whl": [
-          "LzYkbgvdaKXnLLIMYemOyhyWc4HE/CRpA3OaqJJDIDg=",
-          "cp311"
-        ],
-        "pywry-0.1.35-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "anIZ+FyGhKT5b3C6ulcaq8NUivIkeWHQtx2EtpldVpQ=",
-          "cp38"
-        ],
-        "pywry-0.1.35-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "9JPsdUp6gcGivLiwsNKRz17r4nu1XyHPRK0+4z8aqSc=",
-          "cp38"
-        ],
-        "pywry-0.1.35-cp38-none-win_amd64.whl": [
-          "4naKM96BKHJIaEppc0X9eBN4PnjVVGWZazujME0v084=",
-          "cp38"
-        ],
-        "pywry-0.1.35-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "zqYGHisZrXmBDawj7LR8RLHxRLxk3xHBJgvErYUSecw=",
-          "cp39"
-        ],
-        "pywry-0.1.35-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "EJU6o4daRNMaUrhzdZDvcwsId0oSmSm57VxDJEqy9u8=",
-          "cp39"
-        ],
-        "pywry-0.1.35-cp39-none-win_amd64.whl": [
-          "SVmYVzoa6R01Zqsoknscoq5dV+oqLj583viCTtT1FiY=",
-          "cp39"
-        ],
-        "pywry-0.1.35-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "PNu+JezqC+T5tKOkMzl7s1YfNCK0abSb2R7SyTj6O78=",
-          "pp38"
-        ],
-        "pywry-0.1.35-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "yU72S89i7XL5vhtpneU3gfXePSIqVIt3efk1yzp+QmI=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.36": {
-      "sdist": [
-        "YFJmuVDOYjIZHNBCK8A49Yen84M+0LvAlI29blzjThI=",
-        "pywry-0.1.36.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.36-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "6ntyNQVi/z51YrCrR1cwdoCaBkOc77fiNa7fyf9koMg=",
-          "cp310"
-        ],
-        "pywry-0.1.36-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "vt5rmVIfG1MI22zXuvbOfgq/8QpFZTEcsL8AU7jcE4A=",
-          "cp310"
-        ],
-        "pywry-0.1.36-cp310-none-win_amd64.whl": [
-          "ftbkPzhjcf76k8T75XGlwfdu3voAWtG2stcUK93vsjg=",
-          "cp310"
-        ],
-        "pywry-0.1.36-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "NPq28vdxFnqSbmJwMVw3BnvcwEMeNiveeThhtWvMWHg=",
-          "cp311"
-        ],
-        "pywry-0.1.36-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "FespO7KVwDyXkCuAGGmBGwYsHXbJuIf3gz7+NG3UqyM=",
-          "cp311"
-        ],
-        "pywry-0.1.36-cp311-none-win_amd64.whl": [
-          "qHCS+N75Ax3bZNQNXXmwP+W8CJfT6G5huDsuOrBm5CU=",
-          "cp311"
-        ],
-        "pywry-0.1.36-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "u9P9WHJwk/f9uUXsoTrKrAiPm9PmQXMle153pmXg8iw=",
-          "cp38"
-        ],
-        "pywry-0.1.36-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "kAAzvdU2awVEMz1y9v28RoxLQ57IvGNchPf5QgCV/6s=",
-          "cp38"
-        ],
-        "pywry-0.1.36-cp38-none-win_amd64.whl": [
-          "q71mmEUFH21bEjr3BG57dEEPx0OuH2C4pTqOwKOVaEk=",
-          "cp38"
-        ],
-        "pywry-0.1.36-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "ocXs77E7b5YHkEoBSuu+9kbdEUHNtAAKBKKNd6KfP8Y=",
-          "cp39"
-        ],
-        "pywry-0.1.36-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "PsbcRfckCv+RbtwpfgWHB88AE4x+T5QemAfOpgXQGCI=",
-          "cp39"
-        ],
-        "pywry-0.1.36-cp39-none-win_amd64.whl": [
-          "btuOm7p0zfqxSxZBQ+euP6HF3S4vf2TK4xkrdxQrVqE=",
-          "cp39"
-        ],
-        "pywry-0.1.36-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "U1nA6cf1UAVKoInx6v6XpYvBGzq1OeN6FXhs406yeUw=",
-          "pp38"
-        ],
-        "pywry-0.1.36-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "SxVoZZunh24FnTiWFlQNwO6ZcsBWIxOz8ZtbGP16q2I=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.369": {
-      "wheels": {
-        "pywry-0.1.369-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "RYM5vlM0nCB0EXBjWBMIvWu6t4W1F0gw79aMkUYJErM=",
-          "cp310"
-        ],
-        "pywry-0.1.369-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "tU6xoKe1ave5iNq5FecQV9P6OP/yGd6cg0NENuv04PA=",
-          "cp311"
-        ],
-        "pywry-0.1.369-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "93NbNSsx1E6SIsZNN5ff6xR3UuzLXyLT/uxSA3H6xjQ=",
-          "cp38"
-        ],
-        "pywry-0.1.369-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "Yq+tZnh3kyLcOh7kQXP4YArSP+91mSb2VQhKVPPaXlk=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.37": {
-      "wheels": {
-        "pywry-0.1.37-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "vM9N6zuhPqhjeVKrkh+CRBwrKsbo3coBjtJkB5fhNeo=",
-          "cp310"
-        ],
-        "pywry-0.1.37-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "83YrlvkaBWVKmKD3QhSy78MNvFLXdCUs1uP2kFan2qk=",
-          "cp311"
-        ],
-        "pywry-0.1.37-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "setKtzkbJLiQATe4bIQPDxX4gJkkcNVtDeDD1X03TW4=",
-          "cp38"
-        ],
-        "pywry-0.1.37-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "myEz7IeAPYIpuIzqOCFMy7MI410y6fR7zX8vJgZZipA=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.371": {
-      "wheels": {
-        "pywry-0.1.371-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "c8SLQBLYeUyoG3Rja5X8nR+46lSkjOzexM8COLdC7QU=",
-          "cp310"
-        ],
-        "pywry-0.1.371-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "j+97YGutJ+c7X59PbE2ckktD76W+GrYXsO69JvPpExo=",
-          "cp311"
-        ],
-        "pywry-0.1.371-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "HsUSUFg3T/ZFJ7N+xdsetAVh83LVcSRK9jgKw3XwdQs=",
-          "cp38"
-        ],
-        "pywry-0.1.371-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "cTqP0CKl8ziP9ABx9TWiCYY/+/ZqtggXv2xD0uauxZs=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.373": {
-      "sdist": [
-        "1VCa/knWQbqFbGK/0wvURokI7fU53Jeo2Q8y+UhlWso=",
-        "pywry-0.1.373.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.373-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "XvEilMTgOS6YvkBdSMlVbBoJ9jbQJvQ61McDgdvp/y4=",
-          "cp310"
-        ],
-        "pywry-0.1.373-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "4m5UUcR78zTnPNmZfLSqlAI4OiQMNEtfQ9LiUxIcsSc=",
-          "cp310"
-        ],
-        "pywry-0.1.373-cp310-none-win_amd64.whl": [
-          "GuJUq6rpduXb1V1PxxikKX56g7SUnmTXBqGCCTK7bm4=",
-          "cp310"
-        ],
-        "pywry-0.1.373-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "XkI4XKam+OUdsr/QDYnZKNcI2dy7ATAkzdH10etg6a0=",
-          "cp311"
-        ],
-        "pywry-0.1.373-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "t0AskF7OwLFXZwPJWsz3/ywiIOuv9Ey5LyOJ+uumavw=",
-          "cp311"
-        ],
-        "pywry-0.1.373-cp311-none-win_amd64.whl": [
-          "/WZBRnGaUhA/UYGSeuhjFadh/NEoinpU3c5ITx0LT+g=",
-          "cp311"
-        ],
-        "pywry-0.1.373-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "R98UAS2nRpCCIoeheU7uiKmf0t+iFci+46GjPDebGDA=",
-          "cp38"
-        ],
-        "pywry-0.1.373-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "jsQlrNZFquLuuwv/6Pak/Wp1ls4WhsOJvDnS67QVWWs=",
-          "cp38"
-        ],
-        "pywry-0.1.373-cp38-none-win_amd64.whl": [
-          "j3B5QYGzYSSvNGP8Vi1NiCbiKHO1fGfK6A0C6I3WdEo=",
-          "cp38"
-        ],
-        "pywry-0.1.373-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "ohVqjSWVOWCspdVJLA13fLWeHKfQxfArhUYguDpLFYI=",
-          "cp39"
-        ],
-        "pywry-0.1.373-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "FHHv+S/1yy6Za+2xk8d2E7cjA6kuxmYiXIonW0HsEd0=",
-          "cp39"
-        ],
-        "pywry-0.1.373-cp39-none-win_amd64.whl": [
-          "xHSOzL5FjzzVw6wHXPu235GBFaxh5M/LOBzFdhGAmO0=",
-          "cp39"
-        ],
-        "pywry-0.1.373-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "Mj0NkWASAag9HXOsqfKsUEtM523wVPH/7qgridC76ec=",
-          "pp38"
-        ],
-        "pywry-0.1.373-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "hK0FSQCRZVxL+xNS88oNCQZRmV985d5OzQv1VvTXgds=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.374": {
-      "sdist": [
-        "/Xl8+f+xrPjzdWSmI6v9SaMVZdyWX2ptldXgpa2yZa4=",
-        "pywry-0.1.374.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.374-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "Yz3PEekBHRpahVZv12Jws2DXJvRhn1m9Eh8X2tp6mTw=",
-          "cp310"
-        ],
-        "pywry-0.1.374-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "tkNJpeHZuCJzYGfGin72Xt7qAn9JpVQvLmD5Uk9Ng6w=",
-          "cp310"
-        ],
-        "pywry-0.1.374-cp310-none-win_amd64.whl": [
-          "HSHLnG7CgnAPIPL/325Lgh/SgEHL/6ZjAhOEC9d1uVs=",
-          "cp310"
-        ],
-        "pywry-0.1.374-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "uoPEjyjf9+Wx1FUYclq/NKGttFCuf/XQMn0f2iquxrM=",
-          "cp311"
-        ],
-        "pywry-0.1.374-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "ikhQ7E+HT0JoFDHqmGph95KN3xJWxRszujEkFkPlR/M=",
-          "cp311"
-        ],
-        "pywry-0.1.374-cp311-none-win_amd64.whl": [
-          "mc2i+574X379wdEv9/zHr/ZyT3JqgBMF1Q6vJOPybKc=",
-          "cp311"
-        ],
-        "pywry-0.1.374-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "tb9Ch7Xjm3KL13L05VwuTEhb96t4plF+cJqq/4Jm91E=",
-          "cp38"
-        ],
-        "pywry-0.1.374-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "9P0FjCwNAEL0slKzIkKRnU+QycnXanY5iMCQGvNE02Y=",
-          "cp38"
-        ],
-        "pywry-0.1.374-cp38-none-win_amd64.whl": [
-          "4IOARsDCTynVOn5x8JEHppg7tnMA+hUsWqrOibL9Pms=",
-          "cp38"
-        ],
-        "pywry-0.1.374-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "1Dd4YPypv8NCeog4vFWecl8qKJKHSlXtfBjscsbZZwc=",
-          "cp39"
-        ],
-        "pywry-0.1.374-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "x5bR4jU86dBkruISCg9fICMpSJ4qDIQ/STzD8oR7xYU=",
-          "cp39"
-        ],
-        "pywry-0.1.374-cp39-none-win_amd64.whl": [
-          "Vo2ZTuZQG91H0XLEokw5muVvQr0QzHExZEa5Z4vLsVk=",
-          "cp39"
-        ],
-        "pywry-0.1.374-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "gq3Bl5NV1phAB734cpmzRL5ZypozmaIYGeitzhZ3bHA=",
-          "pp38"
-        ],
-        "pywry-0.1.374-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "z0fWVTAqIKe9DRNYIUtpLZDoE6AwHDsPswGCuBU1AUw=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.38": {
-      "sdist": [
-        "+zyfYFHSQsPIUrHdvc++8Dhe3UzSytcwVbTD5OW+ihY=",
-        "pywry-0.1.38.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.38-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "zt8o3VMFbkbGu8+d1sMMk6uqnRLf672bKo29yaYLJoo=",
-          "cp310"
-        ],
-        "pywry-0.1.38-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "kI2QqxXktW33fjxAX6hQgXqA7Eq8yH7R37Erf0E5s0k=",
-          "cp310"
-        ],
-        "pywry-0.1.38-cp310-none-win_amd64.whl": [
-          "MTGJHUKuLqXjkROydeslzQE7wFQxu+Xv9oxfsbKnO3c=",
-          "cp310"
-        ],
-        "pywry-0.1.38-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "7/EJ84xw0vtz4BrbR308judnpQnfkj1gB4X+5Gqk7BY=",
-          "cp311"
-        ],
-        "pywry-0.1.38-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "9U4Y04LTJt5+4W8LCVUAH3+QSKukrauXP+Zvgh69ZHM=",
-          "cp311"
-        ],
-        "pywry-0.1.38-cp311-none-win_amd64.whl": [
-          "RkLTy/rZsCJ4OgsRdM1gOmVfFJ0Qht8ZDm/x7E94Kk8=",
-          "cp311"
-        ],
-        "pywry-0.1.38-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "Pgap2v85d0jU9McIphR3vRHKPcYTumMtwaBZmWf23Uw=",
-          "cp38"
-        ],
-        "pywry-0.1.38-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "nGsbPeDriGL95r10fUfGnjrrzapb6RdaYjKFvFqTBwI=",
-          "cp38"
-        ],
-        "pywry-0.1.38-cp38-none-win_amd64.whl": [
-          "nkuSnh2VyT/k4lsyWukbrI1JU7KDXQ+e2ctiFhSCT5E=",
-          "cp38"
-        ],
-        "pywry-0.1.38-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "kKq+pj4h0w08epxNxdKrGEzQgdzK3WrdHVkn+kvDeeg=",
-          "cp39"
-        ],
-        "pywry-0.1.38-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "xehLDDghLZxrH26kw9q5fXhjwrc89AVwWG1NNNc0RHU=",
-          "cp39"
-        ],
-        "pywry-0.1.38-cp39-none-win_amd64.whl": [
-          "h8wNDoiJSYJJ9DUAwA21Y/5b2w61j67TVbnOdJ3qbjo=",
-          "cp39"
-        ],
-        "pywry-0.1.38-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "M3lCe9ikXPCga1xAoXi386pB4IaOijPT+W8d1kvauKw=",
-          "pp38"
-        ],
-        "pywry-0.1.38-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "swIi9cSQmrcClo7t1xv0nkDnVw0YW9J8ERcclQDzOwU=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.381": {
-      "sdist": [
-        "BuTW2pWMsSwAf5+3U/IEGynmgDJ9uXYtl3SnwlTqTbc=",
-        "pywry-0.1.381.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.381-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "d23hRE5oTBJ9gCb1AH4DYZMcBNJ4+zRllaWMcu2Mwpg=",
-          "cp310"
-        ],
-        "pywry-0.1.381-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "SnlNL/5UWF3ljn81oc/p+/YQfGsSL3scFwVHoOqD2k8=",
-          "cp310"
-        ],
-        "pywry-0.1.381-cp310-none-win_amd64.whl": [
-          "DPGqXZPk8GYxzfFT9Ds5zQDeZF+IkxJIiR0YQoXhCmQ=",
-          "cp310"
-        ],
-        "pywry-0.1.381-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "+yO2zPSQFd2/uhqOWbgqLlsqpYJQ//FKS3zFH15Gd64=",
-          "cp311"
-        ],
-        "pywry-0.1.381-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "IvXOqMB34EujSNovA+H+IcwFad+9LvnKre6KEecbzGE=",
-          "cp311"
-        ],
-        "pywry-0.1.381-cp311-none-win_amd64.whl": [
-          "DzHZQZz7HcYb7QfdwyvYdGTD+BtFaj6luKwDNQK2c+c=",
-          "cp311"
-        ],
-        "pywry-0.1.381-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "T4ehvV9DXOzf5Rc8vd07NFfnO0g1VKeIqfkoURJAR+4=",
-          "cp38"
-        ],
-        "pywry-0.1.381-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "VCd/M7eQNrLDHI+Bpymzol3SPzv49KDII3ZueT2MSo8=",
-          "cp38"
-        ],
-        "pywry-0.1.381-cp38-none-win_amd64.whl": [
-          "cs5n+tWcFv27KntE5RjRzEbHzRBQkIvfFZfVYUshkHA=",
-          "cp38"
-        ],
-        "pywry-0.1.381-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "OK6b0VUcvc7Yq/GVkVmdNJXKMahNqMBlpWtxG+Ga79E=",
-          "cp39"
-        ],
-        "pywry-0.1.381-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "J8lw+O7hv7VIu2F+o9FHAJ1xu3RBOkzVjCIbSnQDh1A=",
-          "cp39"
-        ],
-        "pywry-0.1.381-cp39-none-win_amd64.whl": [
-          "Pe/p3F8TqUM7vxTTTn9FXoV/8BiVpVHrTzUl3nggz4M=",
-          "cp39"
-        ],
-        "pywry-0.1.381-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "NJyaplIRlPU0f55BHptCxsiLYtvRlIBOP5U8oDD/vqc=",
-          "pp38"
-        ],
-        "pywry-0.1.381-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "Z5aqzqkeCqJdQW+998h/9gy80/C6AEnfOnvubts9e9U=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.39": {
-      "sdist": [
-        "CCT7r6O1w7v4afbv3Tuq7zf/PKavY8C4eO6o8iAp97M=",
-        "pywry-0.1.39.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.39-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "sYW/ZfE3XBwo3G1dwoFraR8WsIyhI7GLuwiX0lZnjFQ=",
-          "cp310"
-        ],
-        "pywry-0.1.39-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "W5DPvUxudTG4k3cokU+1KpMqo8zr9SwY7Z/UXqvXX3w=",
-          "cp310"
-        ],
-        "pywry-0.1.39-cp310-none-win_amd64.whl": [
-          "oDbS8+OMv5h5hNkYTeX56js7TClLz0y8Hyd4/r0TR9w=",
-          "cp310"
-        ],
-        "pywry-0.1.39-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "ArGaqPSFzDp9LjQdGbDCrZIU+xy4PZAlXkCx724d3kk=",
-          "cp311"
-        ],
-        "pywry-0.1.39-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "ODaL8tmQ0ZkRQc2DAOBpb44I5WWzdHwAU3T/lK9hMQ0=",
-          "cp311"
-        ],
-        "pywry-0.1.39-cp311-none-win_amd64.whl": [
-          "Bo+EgX9T2U+7I4RxU3T/3DyRfMi4USfX8OQrLr53gvk=",
-          "cp311"
-        ],
-        "pywry-0.1.39-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "xvmfFQiI28wbniLWIYahCLvXoSTECQkeq2z92iN74x4=",
-          "cp38"
-        ],
-        "pywry-0.1.39-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "IaOfV4uHOdw69+pSHYnZmAj2zo2piTcqLYbvtikY9QI=",
-          "cp38"
-        ],
-        "pywry-0.1.39-cp38-none-win_amd64.whl": [
-          "6E0Tmp4xAWHc47RYUmy8ZT9YNnAQkurGjElOCcL+FqA=",
-          "cp38"
-        ],
-        "pywry-0.1.39-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "aYxe78I1iyrO1KnRjXf1x26QZLMz8zP8xqP2XTQtZPg=",
-          "cp39"
-        ],
-        "pywry-0.1.39-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "gHlXJqYGPgmfO/6fn5mk8/blSzRFA2K3WUwXzxHd3D0=",
-          "cp39"
-        ],
-        "pywry-0.1.39-cp39-none-win_amd64.whl": [
-          "FwD2MIrj26UpASl+ND88m2GI07sTUv+yuvXUpIXKqhg=",
-          "cp39"
-        ],
-        "pywry-0.1.39-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "o+jdOebyzUMpcg1KfjWkqVh4JN2Nuz//XKE6PcwYCXc=",
-          "pp38"
-        ],
-        "pywry-0.1.39-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "F+f5Y1/+vVwiMR5D5N9iN0HhEJvNr+RZFjqBtybzQ1E=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.391": {
-      "sdist": [
-        "G2d6U7zBJ3zNjGQKpRgPWbxlYFXLqnDPApXyIoCp3zA=",
-        "pywry-0.1.391.tar.gz"
-      ],
-      "wheels": {
-        "pywry-0.1.391-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "UBS84RvtBLUh62I9Ich0jbHSmlqX0ycrxBfKQgqodnI=",
-          "cp310"
-        ],
-        "pywry-0.1.391-cp310-cp310-manylinux_2_28_x86_64.whl": [
-          "2xNu8N0kvrKvPZNVluKEJp9i5vg4bUg9gUs6rQynFQI=",
-          "cp310"
-        ],
-        "pywry-0.1.391-cp310-none-win_amd64.whl": [
-          "ZDRqhDOzSs3201Q5397Ew0j1iow9imqFMwpYG1tj9FU=",
-          "cp310"
-        ],
-        "pywry-0.1.391-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "TaOkM5+OpLjCpudsC5eKCXy3uWqjC7K0kBYZxW1jiKI=",
-          "cp311"
-        ],
-        "pywry-0.1.391-cp311-cp311-manylinux_2_28_x86_64.whl": [
-          "x1RnrgaacUE8JlqaHn90MnpvWYPhCXJoxMCE+Wjjho8=",
-          "cp311"
-        ],
-        "pywry-0.1.391-cp311-none-win_amd64.whl": [
-          "uzq80eLzEr5W+wwDjm7lCLzu01gbJzBFu3ak+zkT1pk=",
-          "cp311"
-        ],
-        "pywry-0.1.391-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "Yqock6U9JGOMnPwaeAq3yVuAs78BFYXAHk4GPixm1Jg=",
-          "cp38"
-        ],
-        "pywry-0.1.391-cp38-cp38-manylinux_2_28_x86_64.whl": [
-          "FCp3hBUYno8a+OwHMXqQfPbUwGBhjceIPQXA/fQOLho=",
-          "cp38"
-        ],
-        "pywry-0.1.391-cp38-none-win_amd64.whl": [
-          "oJB7uZAiRri5392/QLn8OtI+GHVwS3jUOT1CDKrhUjU=",
-          "cp38"
-        ],
-        "pywry-0.1.391-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "n+BA1cqyBSveFrmwvCD8Yc5DyVrudhbbDvCMXyNipAw=",
-          "cp39"
-        ],
-        "pywry-0.1.391-cp39-cp39-manylinux_2_28_x86_64.whl": [
-          "EdNn8rswD+mxgFRN/5f3FWnMqm/wmNqLpv+fzhv2+JU=",
-          "cp39"
-        ],
-        "pywry-0.1.391-cp39-none-win_amd64.whl": [
-          "qy1YhHiAxfuzfSyitNl5Cp35LDP4Ums5zhlf53FC3JE=",
-          "cp39"
-        ],
-        "pywry-0.1.391-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
-          "W4OKDVeP7YOD07JZMRVpIyieXGqW+YqY3lAGMtPE28M=",
-          "pp38"
-        ],
-        "pywry-0.1.391-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
-          "ND67u7Is7fQTuKwqc99hUlnWz1aWTTgm06kSKSk3oLw=",
-          "pp39"
-        ]
-      }
-    },
-    "0.1.392": {
-      "wheels": {
-        "pywry-0.1.392-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "k1L07yF2nzd9VhdZqxrOduqnnrS5d/S8K2y4cwnNXSA=",
-          "cp310"
-        ],
-        "pywry-0.1.392-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "axFiVUFgJPBw80XCPrtkZcsVM1IKivLW84Lt59i9SBo=",
-          "cp311"
-        ],
-        "pywry-0.1.392-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "fGCaY3Y889LD8nI4dkLlv4p3Rg8BMNpcAIOcmTuJ/QI=",
-          "cp38"
-        ],
-        "pywry-0.1.392-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "qj8qagw9izTVCH8PGHIZxrM/OGil8/R/b7KO9H0CRas=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.393": {
-      "wheels": {
-        "pywry-0.1.393-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "JOEPeGhdZIhQqN+xPlIUsFK1dEilS/9wF+jQmvletz8=",
-          "cp310"
-        ],
-        "pywry-0.1.393-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "AeKb3lCkASWdBskhRmjKJxZ1YHQXiTQuSa5ihONM8XA=",
-          "cp311"
-        ],
-        "pywry-0.1.393-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "qGpPGMl8PS8NQohtGbhilqqu0KvLqdb/yqb2hfb8B0g=",
-          "cp38"
-        ],
-        "pywry-0.1.393-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
-          "5BzsWRmjrptKVUzwfshH4LEBKBqZ3p6qgpIvELKz40U=",
-          "cp39"
         ]
       }
     }
@@ -124088,6 +123156,18 @@
       "wheels": {
         "scandeval-6.1.1-py3-none-any.whl": [
           "QuMITpKiHdJtMxJFmZg3rFIJENn9d4nmpKG6laimuV8=",
+          "py3"
+        ]
+      }
+    },
+    "6.2.0": {
+      "sdist": [
+        "YpbFQphHnfHrCi+DYZ1+Rdh6t7ood8NnoG+RBHRLTbU=",
+        "ScandEval-6.2.0.tar.gz"
+      ],
+      "wheels": {
+        "scandeval-6.2.0-py3-none-any.whl": [
+          "Oi99pem17KR4BHEdKoMGtxRDXauvcrBD95YAjLKZSWQ=",
           "py3"
         ]
       }

@@ -35348,6 +35348,18 @@
         ]
       }
     },
+    "3.0.11": {
+      "sdist": [
+        "lOkL9o+wyeFsScazAKpIOGzQBtrZXXOh17xBRhqLRC0=",
+        "delphai-utils-3.0.11.tar.gz"
+      ],
+      "wheels": {
+        "delphai_utils-3.0.11-py3-none-any.whl": [
+          "3YnvveHrLkq8fUV1OUAI+Ohz7LQjWP94AVcWIhncINA=",
+          "py3"
+        ]
+      }
+    },
     "3.0.2": {
       "sdist": [
         "gJCoBlk8hwDHX5PbhGSM/KPfotqz8DRR9NZkzRwH+zY=",
@@ -85867,6 +85879,150 @@
           "cp39"
         ]
       }
+    },
+    "2.1.3": {
+      "sdist": [
+        "uYz6HS3KBxLDf6oTy4zTOUnqFiDiC0GKrmHLJEBI9YI=",
+        "mqt.qcec-2.1.3.tar.gz"
+      ],
+      "wheels": {
+        "mqt.qcec-2.1.3-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "cbaxqVhfWVIYwTtafIDoDUDZT7J8OyOyvOFnMUYSRhk=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "scD2/m626sN8UYWuO8Y1yZocqVsePquWjNiS8oG/2RM=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZjocLrbIRV2KyvtCpwQVGCY63dyeIpYRlR6UBi++37g=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "yNFB2An+SQp1LePt/pOCNcRpdwlfKUkQZ1cb8K3y38I=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "OKer0VeShWAexGusOh9dYvt2ell2FxtuOFSHwRt8CN4=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aOdkPkufj9gvcumCAK4tpnsSJkjSjcFaheKuiZV5Bc4=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp310-cp310-win_amd64.whl": [
+          "RPdQb67GM5QjpYV4QkJCUZLCqzbaMyBBpYEmzdd9MMw=",
+          "cp310"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "ujrxuDHni3gJEbmxSKlDeTHNs9bhXKsj5PDp9xs7MZk=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-macosx_11_0_arm64.whl": [
+          "zKUqz2CDt1WH6PzjZM84Y9gmahlkVT4NnCqAXe1etmk=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "V8SlF7pFZpD0jG7Zgvc6ga34A8i433UImYYfIFe4R0M=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "jS3XHS1CJy4s/hDJU2PjGEfLk/rknIbeKaQw8ARwQdE=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "ybeGe0wlzI7FennzZb3CIm3oMPM2KMqXlF3fwuQm3fc=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gLRs47Xz7iPUyb3F9EjsZdhGizwetTs7a34S7kykB5s=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp311-cp311-win_amd64.whl": [
+          "2v2VlTT9rQ2K+KNyJuoiKR4Jfk2eSPaGS72Bp3PsMik=",
+          "cp311"
+        ],
+        "mqt.qcec-2.1.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "QH6HQ1zjEx1E+RldSMNZtXv5bQtpEY3QvZE4+nVYoAk=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.3-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "RNokpvWJR70xo8oOepgTwuclGjM2+XCxbQdqIw+P6n4=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.3-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "R75977CWZzbu64TmGcXecztZ2VhyHgfXU8hyEybc+S8=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.3-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "UaSiYTsOSJFFioBSBb8dMNVELjMcGt+PkEt8s8vr6Ow=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "L1hrWfEteY/O5Z57E0HjcGl/vmCJ8yQnWSBOtcMXU4Y=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.3-cp37-cp37m-win_amd64.whl": [
+          "xMM0Fcdp42zzR6muprf8zisYjrVUIR9/3hORrSgda/w=",
+          "cp37"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "z/aXQ1QD+8JRK0fzfQz18msbPomxb8rBNIFeX0Vz/lU=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "5bMLekyoRIZUyaXcyxZuIoS1FV7ZjSB5kwJk0/5eKfI=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rM1J9vUKgTaYAScI26+BrTbzdZHj62BwoRi0L3y9ncQ=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "IJiDceh8KzEjBEQVlhSkobgzBnf0rk/g0xSlrdh3PX4=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "Uhg7cKhhZENYchDmfE83xwBuAkavx8K3Hmou8gqUt3M=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Fjl73wf/hE2uJ8zXIWi1uGOzXrjbpB06c+8WULJiGXw=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp38-cp38-win_amd64.whl": [
+          "w+fELyUikPcT1wTdog8QMnF9uT0K0HNY1uUIztL+4cE=",
+          "cp38"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "YjXMFhriavdsDD+xF8CetBsTNCSwxfMxoljmGsjouag=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "wgHE/b7RwVRPpJGHiMH7Hia9TAAqrXFeIdOF9VA8T2I=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hSjip14ngrJBt7j+esuF6AWGmhdRavWo/M/n18PTXtI=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "+kNjVsBAl8YaBhQ2giyZO8XeJDXKTjHLrr0pHuUe2Ag=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "IwMEPNE/Wr2xqUGcD7vIU0Mh38qevri+mdaVbwnYQ3s=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6rZeKsiJEhqbRljmW/M+jgpdtUWbZlZFsqWFTlbIsNM=",
+          "cp39"
+        ],
+        "mqt.qcec-2.1.3-cp39-cp39-win_amd64.whl": [
+          "Duejs2tNDyGOLhM1C11WPEj1YI+dfXST8Lz/7uQS04M=",
+          "cp39"
+        ]
+      }
     }
   },
   "mqtt-presence-checker": {
@@ -107848,6 +108004,18 @@
       "wheels": {
         "pontos-22.9.6-py3-none-any.whl": [
           "ArZMFiLLZBvvsKAQvM1EPgL5Sob19YIOJWByTzjUnNg=",
+          "py3"
+        ]
+      }
+    },
+    "23.1.0": {
+      "sdist": [
+        "6NkaUNWG55VMORuxpDxkDA05KgorpU9BVJj6vj+z84A=",
+        "pontos-23.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pontos-23.1.0-py3-none-any.whl": [
+          "n/Y0IhpynRUZG7+A6ZfeaJl4AY40fm8hf3KgBMSz28U=",
           "py3"
         ]
       }

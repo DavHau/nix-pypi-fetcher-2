@@ -22777,6 +22777,12 @@
         "GpBxfdOd34VwdU5vAljYfI3TcWaoD+mpNZfpEfHxp68=",
         "calib3d-2.8.1.tar.gz"
       ]
+    },
+    "2.9.0": {
+      "sdist": [
+        "8TdYvin9nDxlfwJr7MveaHSggavTQdJnzt7KH/68gzU=",
+        "calib3d-2.9.0.tar.gz"
+      ]
     }
   },
   "camtones": {
@@ -64577,6 +64583,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.7": {
+      "sdist": [
+        "wlrazJIOigV4YoIh0KdOM9NQAJjMqD228hyF1QKijsQ=",
+        "libretro_scummvm_playlist-2.2.7.tar.gz"
+      ],
+      "wheels": {
+        "libretro_scummvm_playlist-2.2.7-py3-none-any.whl": [
+          "XffHPTPwHXilFHLSyGw4Fzjg2MPnz+KYk8rjcMwsQfU=",
+          "py3"
+        ]
+      }
     }
   },
   "libseq": {
@@ -82868,6 +82886,18 @@
         ]
       }
     },
+    "0.7.11": {
+      "sdist": [
+        "LIReRi1FcAnfqW4D1dMWyljJMhXOwlB28mu8nHxP344=",
+        "osc-tiny-0.7.11.tar.gz"
+      ],
+      "wheels": {
+        "osc_tiny-0.7.11-py3-none-any.whl": [
+          "hSHCjYzvvq2AKLN9xEGBZL0z8R6GOMcP6B1f3caXcKE=",
+          "py3"
+        ]
+      }
+    },
     "0.7.2": {
       "sdist": [
         "CZhSPHx/TK2NJHj9IN9bkKUWW2B8GDfxCE1fTcmEXs4=",
@@ -100803,6 +100833,20 @@
         "J8BrURoKXM5U7sGDa+/AnhZUbg864WCWWRMlD4uKdvg=",
         "qbc_weather-1.0.0.tar.gz"
       ]
+    }
+  },
+  "qdft": {
+    "0.1": {
+      "sdist": [
+        "+mMsfcb1USJqhQPMSjqUogbSVnv1sc4Ji7Xr5R1MOqM=",
+        "qdft-0.1.tar.gz"
+      ],
+      "wheels": {
+        "qdft-0.1-py3-none-any.whl": [
+          "An+411xzqS7RP7KN1nGfbA/gpSjPrZFDojqelgkytzo=",
+          "py3"
+        ]
+      }
     }
   },
   "qdjarv": {
@@ -137002,6 +137046,66 @@
       "wheels": {
         "weather_collector-0.1.9-py3-none-any.whl": [
           "cBluSTgBmpPe988cSHuphoWGVqAz26nYbPrjypHZm6w=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "qKXiB11JpSRDZb7yHr3Qaw3cs43HgJenvMvrOaYC74o=",
+        "weather_collector-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.2.0-py3-none-any.whl": [
+          "Scbr0cdP1fMddJJwBRpaHY5zysJahseJihiqreg+SqU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "GNKUo18AmhJ+BAJjSjHc4p6483hCeT+iuWgbU3t92Js=",
+        "weather_collector-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.2.1-py3-none-any.whl": [
+          "eu5Umn3Ssb904kI97F2gB7YSbnFdKOKcgn/bf5qE1fU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "OwSYSRpyVDRn2t4zzR2a7qPv2w9lGkmxLQuOWLSZT/s=",
+        "weather_collector-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.2.2-py3-none-any.whl": [
+          "ByC8x1fd0c+PNtSzLZl0BvtTSRDSHY6i8eZg/Q0faW4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "v2DkNiDtGUw3ZVB3ezpfqqIj7ZHhADvVdKnW7P7IW+A=",
+        "weather_collector-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.2.3-py3-none-any.whl": [
+          "RSl6We9DsRtxyYdfLfbIvxkcNDOViw+1xlSo18Ku2Hw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "60KQLGqopGKDpDBTc30xFcIK5CBP2UAS+UEeSipBNXU=",
+        "weather_collector-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "weather_collector-0.2.4-py3-none-any.whl": [
+          "s3nyIBf/5dTIhKl8vXquwEdAi0Gq7amwqERe61eP7pY=",
           "py3"
         ]
       }

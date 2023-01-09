@@ -2010,6 +2010,18 @@
         ]
       }
     },
+    "0.15.21rc0": {
+      "sdist": [
+        "CB9bYM5cvh3hgPMbJnv1nCnAuGM2d8MZmHyZxDBIAYU=",
+        "alvin_integration-0.15.21rc0.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.15.21rc0-py3-none-any.whl": [
+          "RvYcd4xcbSlCW1A91hPE6weoPXEeFwHBk3JaEk0tB0I=",
+          "py3"
+        ]
+      }
+    },
     "0.15.2rc0": {
       "sdist": [
         "IywlhpzVbyvelhYF6K25G4pam/dUSPF3ZfZ98s5jRa0=",
@@ -37619,6 +37631,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "VC4H5pO4bdElz1IE/70qpKmS4pHiH1JtRvduMNmfSZw=",
+        "fast_label_studio-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "fast_label_studio-0.4.0-py3-none-any.whl": [
+          "PmmGYgUvPSCZrp7VDO26nDWH4fz6TsujgFUqPt0Vu9g=",
+          "py3"
+        ]
+      }
     }
   },
   "fast-mda-traceroute": {
@@ -41987,6 +42011,12 @@
         "BXergWWV9/omNsL6mDOT/uL3r/I0vJ3BuLiQAuZ5cH8=",
         "gcdevproxy-0.1.3.tar.gz"
       ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "hqbOocoIrSNwlSgyI08XR9lHKzeymVYqjrcECOQPgjA=",
+        "gcdevproxy-0.1.4.tar.gz"
+      ]
     }
   },
   "gdecomp": {
@@ -42534,6 +42564,18 @@
       "wheels": {
         "gensaschema-0.6.6-py2.py3-none-any.whl": [
           "ODIUhiEWF76jAzpzGQLFzL7AcjwzNMNlCoqrjIBc+sg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.7": {
+      "sdist": [
+        "zYunA9eN+7d76TstPLQJ6LJ29QXK21THszz6XcUgjAI=",
+        "gensaschema-0.6.7.tar.gz"
+      ],
+      "wheels": {
+        "gensaschema-0.6.7-py2.py3-none-any.whl": [
+          "pwtyGVzhnjplZtCUBmuGqxGGOzNqjx/b+lWBYfc/18k=",
           "py2.py3"
         ]
       }
@@ -65593,6 +65635,18 @@
         "po2VuvwYHpkoaagV7FL7NOCwjyfhxjVKz9SGkXcn3Dw=",
         "localstack-ext-1.3.2.dev20230106073122.tar.gz"
       ]
+    },
+    "1.3.2.dev20230109082409": {
+      "sdist": [
+        "sh1QOx4TK5iioUdWnBM1I7fJiB/yVpjuUszY/xmzeZY=",
+        "localstack-ext-1.3.2.dev20230109082409.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230109094813": {
+      "sdist": [
+        "HfkEoOU3y7sqeef6OHnOMSgmk3ZFOfkPHcDYaoJ6ChE=",
+        "localstack-ext-1.3.2.dev20230109094813.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -83010,6 +83064,18 @@
       "wheels": {
         "opensearch_reindexer-0.0.2-py3-none-any.whl": [
           "+bXHUdwkrdV1LPvLEjtJq7VqHCacEyWxPVk1SpKzDSM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.dev1": {
+      "sdist": [
+        "hk/P5Rb8zrRCBNOKKaRn2q4kbI6zLCFJXA5NbZ85000=",
+        "opensearch-reindexer-1.0.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-1.0.0.dev1-py3-none-any.whl": [
+          "HKY7Sw39qHA3GnUJ12eKAX6+sNzvscsplHGkSEQ0dec=",
           "py3"
         ]
       }
@@ -124028,6 +124094,14 @@
         ]
       }
     },
+    "4.0.16": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-4.0.16-py2.py3-none-any.whl": [
+          "N7j21lbuGGZDz/WdobX3uwDZ306zLYJzLzZRIyMEtAA=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.6": {
       "wheels": {
         "stix_shifter_modules_sentinelone-4.0.6-py2.py3-none-any.whl": [
@@ -144078,6 +144152,18 @@
       "wheels": {
         "xrst-2023.0.2-py3-none-any.whl": [
           "7w1X99DZVvUgCMVj6W++e/i/FmxbWCQhbYvVFqUyRBk=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.9": {
+      "sdist": [
+        "j36aDAhQQuQ3HQOK1HW9c67CyOgAMCXI47mrMuc/cNE=",
+        "xrst-2023.1.9.tar.gz"
+      ],
+      "wheels": {
+        "xrst-2023.1.9-py3-none-any.whl": [
+          "62tY892y4YP4xqWn72UXadOoXJZLWxjP6Y9e4qAS9EI=",
           "py3"
         ]
       }

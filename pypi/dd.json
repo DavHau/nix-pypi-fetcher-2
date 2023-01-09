@@ -32552,6 +32552,18 @@
         ]
       }
     },
+    "3.16.1": {
+      "sdist": [
+        "PRtGfCAtyk0GPlXU99Kg64mAmCWPBvTJBTenJuhRURY=",
+        "clldutils-3.16.1.tar.gz"
+      ],
+      "wheels": {
+        "clldutils-3.16.1-py2.py3-none-any.whl": [
+          "xZOZsMAtaXxzvD/Rx3pO5mbvIILXhome8xOBYYtDKgY=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.2.0": {
       "sdist": [
         "8V24zxUjyxPKcKsk4kxNP6Ts+/dNnhR3WUeMZddopCo=",
@@ -36756,6 +36768,22 @@
         ],
         "daal_include-2023.0.0-py2.py3-none-win_amd64.whl": [
           "YgM6Z88SF1NEI33muZtbk+GWf0Rvj+kOeRv3qrHcgMQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2023.0.1": {
+      "wheels": {
+        "daal_include-2023.0.1-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
+          "xSvqw8T+l5pxo1c6efod50bjxfuMvzQ804BcWrEe4FE=",
+          "py2.py3"
+        ],
+        "daal_include-2023.0.1-py2.py3-none-manylinux1_x86_64.whl": [
+          "Wb0TbtHelT0u8eZsCc92Tn22ZwkAm83VdtXd7ydd5G4=",
+          "py2.py3"
+        ],
+        "daal_include-2023.0.1-py2.py3-none-win_amd64.whl": [
+          "sEs+SSjwrVXL69Q2IaMyYJCUWf2hcYbM8RqeyfVg6Jw=",
           "py2.py3"
         ]
       }
@@ -91739,6 +91767,20 @@
       }
     }
   },
+  "nonebot-plugin-bingimage": {
+    "0.0.1": {
+      "sdist": [
+        "i76Res0VzkSZxlA2LmZlj8XqorpOmKbeV5s0MS5KQOM=",
+        "nonebot-plugin-BingImage-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_BingImage-0.0.1-py3-none-any.whl": [
+          "b+tWUzG9DmQLXRm19zWaCMiPMEXZ+yu2sK5zuZRdwow=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nonebot-plugin-moyu": {
     "0.1.0": {
       "sdist": [
@@ -124128,6 +124170,18 @@
       "wheels": {
         "shapash-2.2.0-py2.py3-none-any.whl": [
           "6AXfPewJHZb0RxDmgoQIjDZ5Kwbqjm+g9jJPaxD5AQk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "bYYuuJYxPjRpSCZFDvmlRjYHJ64WIn1tMmDMj6A3K3c=",
+        "shapash-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "shapash-2.2.1-py2.py3-none-any.whl": [
+          "PsCJICzYscffV46LGWE0MGnvjlbN3zFPBOS8qdoMJOQ=",
           "py2.py3"
         ]
       }

@@ -13235,6 +13235,20 @@
       }
     }
   },
+  "bronx": {
+    "2.0.0b3": {
+      "sdist": [
+        "1K9HxGoAPuTnDxM4i+LnjDY/GOHzwVhaKbll24elIcM=",
+        "bronx-2.0.0b3.tar.gz"
+      ],
+      "wheels": {
+        "bronx-2.0.0b3-py3-none-any.whl": [
+          "4+HY0yI/McxbhxATu9rLlP9gQ/S1J7yMRVb155oe4yw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bssapi-schemas": {
     "0.1.0": {
       "sdist": [
@@ -20962,6 +20976,18 @@
       "wheels": {
         "cpi-1.0.13-py2.py3-none-any.whl": [
           "6vpbJdh9KtCPnkfms7COLyCNTcOMNPyb9YTt4bvtZ3k=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.14": {
+      "sdist": [
+        "uJhIFTdPtSihw3jbD30tXmdZhclu79d0UdwWdtgrrWI=",
+        "cpi-1.0.14.tar.gz"
+      ],
+      "wheels": {
+        "cpi-1.0.14-py2.py3-none-any.whl": [
+          "AJkBkA/i3A4BN3sMNXDpl3jMprJ3U89y4cKTDnBY3hA=",
           "py2.py3"
         ]
       }
@@ -56904,6 +56930,106 @@
         ],
         "krptn-0.3.1-pp39-pypy39_pp73-win_amd64.whl": [
           "vJejROubqEahcAcf2heMqHDLiNVPJ0GjxoIl8LXywLw=",
+          "pp39"
+        ]
+      }
+    },
+    "0.3.2": {
+      "wheels": {
+        "krptn-0.3.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "TdfupKXIYWLFUhLVRR7PfIwyoRkjCHUUGR+JObTU9OQ=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "BLNXic1AhEzlmLDIZKRhTdxznSflLUC8Q/3/oKiXhOo=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "G/nwuCu6KpjbvnHiKQfnH9Ak8M8jZUzSDJIAWwHpS+Y=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "um3r8gz8CzIjx9x4iDNTI025FDVcFwdUqzYM6Jalnd8=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp310-cp310-win32.whl": [
+          "ejPF6TuU80k230dAWCPOy7i4mCxgnO7VKKJUPsfxB1w=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp310-cp310-win_amd64.whl": [
+          "I8L88MX1RxnftVis0TLAJNBjFYzGpCJQ8i5qNgxXdog=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp310-cp310-win_arm64.whl": [
+          "VbWe41OwkVUHLuUSJrnN/7p9M6tPKGxAAqaqdd+Pnqo=",
+          "cp310"
+        ],
+        "krptn-0.3.2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "wa2wPpOUuZsG/6leL/7DqiD557ShrrzahCdcibexSzc=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp311-cp311-macosx_11_0_arm64.whl": [
+          "AWomGRRIAwy41lzWfC0NeOXvbm4O17gvwQp6WXAB5VA=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ES/ljKuat2sKtcJKy7yI+SyrnP97dmHNtvK/vKA8Dtw=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "HxA0dp4+utvMvjtn5V8PybXDSZhB3GTsZDVwXqSJDsc=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp311-cp311-win32.whl": [
+          "Q0YN9KU8J+qXrK9T8Q8mRRJ3NJOWx40yib/t2fQnzR4=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp311-cp311-win_amd64.whl": [
+          "GdDu/RyuoeGbfYBBRkb/7q2Bdc5PwIgdp+p0qIvfA2c=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp311-cp311-win_arm64.whl": [
+          "YLB0A3suNAwas5UuvJy0zpnBzjfOzMe1JlvU7q3JgYA=",
+          "cp311"
+        ],
+        "krptn-0.3.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "dtFPJGVFAilAh8eeuL9D+lecdJXBqYx7l8YbkdFGyYs=",
+          "cp39"
+        ],
+        "krptn-0.3.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "gbbsArSRYTMjDsj8QDq1+hp5j4HT3UFU1L4Fn+dYcAo=",
+          "cp39"
+        ],
+        "krptn-0.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aQrtgyYUtJRcKQ9cZgvcDGKm/FHQ/o+gLZnfqJM+hi8=",
+          "cp39"
+        ],
+        "krptn-0.3.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "jsukFeNE5zKc0AyBc9UdAZTAVB+wjWkVMnlnfqlgs3c=",
+          "cp39"
+        ],
+        "krptn-0.3.2-cp39-cp39-win32.whl": [
+          "OiZVIo8l3yUSoKZCRctN29QcCI5tVTIFI1/KbyBnz3o=",
+          "cp39"
+        ],
+        "krptn-0.3.2-cp39-cp39-win_amd64.whl": [
+          "6L5yzQDZp61ggSl5LR2c8kVureVoGEHYivpwF42LkqA=",
+          "cp39"
+        ],
+        "krptn-0.3.2-cp39-cp39-win_arm64.whl": [
+          "Qa+ZDm/eLOnGIgEjFNXf2lthiwsLwg9PZSEQUy3H1Vc=",
+          "cp39"
+        ],
+        "krptn-0.3.2-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "mqsPkW8L1p4RWKHnXDrkwtS8wnHdT6lzRTz/0J+AXtw=",
+          "pp39"
+        ],
+        "krptn-0.3.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aTSnNJMO58dgiTXMBAI6xOOR1oXvLaEOBqUb/ilad4c=",
+          "pp39"
+        ],
+        "krptn-0.3.2-pp39-pypy39_pp73-win_amd64.whl": [
+          "Awgs5cTMSZWPbV0gyeIOKU1ZIZpAmn7R5cXn0VUrehM=",
           "pp39"
         ]
       }
@@ -113450,6 +113576,18 @@
       "wheels": {
         "sertit-1.22.0-py3-none-any.whl": [
           "vtu41+JNMF3LaBIl/0rd5wpolTD5REUUwDP+U+X71vY=",
+          "py3"
+        ]
+      }
+    },
+    "1.23.0": {
+      "sdist": [
+        "BjXmhwRCLXjv8cmXzjf4kRbmyLBDyyh4RQzpvI9piPA=",
+        "sertit-1.23.0.tar.gz"
+      ],
+      "wheels": {
+        "sertit-1.23.0-py3-none-any.whl": [
+          "A5OV2uxa5p7yrvpk0gsomQSSavOzRpC9GUQhiXr1Gwc=",
           "py3"
         ]
       }

@@ -3653,6 +3653,12 @@
         "C1Zs2iPhLyzsw8txtelVvq7jfCO5w5ddWIVDWN+TLKk=",
         "arcgis-2.0.1.tar.gz"
       ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "hsVSGLQQApq/imI8La3KbZkFH1ScdyUrYy/0OspUUM0=",
+        "arcgis-2.1.0.tar.gz"
+      ]
     }
   },
   "arcgis2geojson": {
@@ -114191,6 +114197,20 @@
       }
     }
   },
+  "pylogcounter": {
+    "0.1.0": {
+      "sdist": [
+        "p0vd9gRTiFFly0SQfJ6vwDHtEWecsD9uD6+uCN+XoJ8=",
+        "pylogcounter-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pylogcounter-0.1.0-py3-none-any.whl": [
+          "qynJwpbAZThbG3sfDblr1Rsl0RRjCxt4peHgsiy4E4o=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pymediumapi": {
     "0.0.1": {
       "sdist": [
@@ -144302,6 +144322,22 @@
         ],
         "tensorflow_text_nightly-2.12.0.dev20230108-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Jlo8w/W+xELmSacO702kqlxl/JHU8T8iV5cMv2Kkmj0=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230109": {
+      "wheels": {
+        "tensorflow_text_nightly-2.12.0.dev20230109-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CAtvFJhgu3r9dGVinTWs3GjqNK6Mvn+iuyfB/rXWczA=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20230109-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xtgPqsvQ1TVGaitOIF45AIGuXsIqQlXPo2e9mrXhghI=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.12.0.dev20230109-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7vXt3+Oz0Tq0mx016suNO8X097aFlH7VDmJFkbab5B4=",
           "cp39"
         ]
       }

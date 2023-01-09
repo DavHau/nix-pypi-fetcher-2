@@ -1535,6 +1535,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "k7AboUOztd3AHS7FFWZ1Q9P41Pl5/kE5ehp531J4Qxo=",
+        "aiobgjobs-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "aiobgjobs-0.1.6-py3-none-any.whl": [
+          "FJnOeH8DW3bHa0RR2OQz+56Zo8+7fSTWMCm9trwhQ4c=",
+          "py3"
+        ]
+      }
     }
   },
   "aiohttp-mock": {
@@ -16674,6 +16686,12 @@
       "sdist": [
         "WEkh5YYEfjGcnw6+NmUaSgORIFQ5ghVNZog4Sb5jTfA=",
         "cellar_extractor-1.0.36.tar.gz"
+      ]
+    },
+    "1.0.37": {
+      "sdist": [
+        "5VUHlAGenNKJ7qE6EX2in1F2P7nO9Hk8LC81H8otsvs=",
+        "cellar_extractor-1.0.37.tar.gz"
       ]
     }
   },
@@ -32150,6 +32168,12 @@
       "sdist": [
         "xCyBSbqvysGOvo1gTk/HYnwAox45SWQ5fH7T/y9JA8A=",
         "django-cqrs-2.4.6.tar.gz"
+      ]
+    },
+    "2.4.7": {
+      "sdist": [
+        "NOR4fVs7fXUF4XzR6vWlHkZ8/0qgm8Bh54FlaQ89Lmg=",
+        "django-cqrs-2.4.7.tar.gz"
       ]
     }
   },
@@ -112324,6 +112348,18 @@
         ]
       }
     },
+    "0.25.0": {
+      "sdist": [
+        "0q4SpeKjmJum0sMwWZTLLnws3q0M3WpdGvkun4MSGHc=",
+        "python_incidentio_client-0.25.0.tar.gz"
+      ],
+      "wheels": {
+        "python_incidentio_client-0.25.0-py3-none-any.whl": [
+          "/svEhwpiSf3kWx0veQtHwFFFV1vgarI/vo+pqX/GA7A=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "uhOfQpYTu9A0jGxG6MxlG5rz9xytGaT+jTJpQN+XS5M=",
@@ -125191,6 +125227,34 @@
           "cp36"
         ]
       }
+    },
+    "0.5.3": {
+      "sdist": [
+        "FY1AeXFPKTKSkpSWUv+E0PzIFEhwB6MPK1ioRqgGN+c=",
+        "singlestoredb-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "singlestoredb-0.5.3-cp36-abi3-macosx_10_9_universal2.whl": [
+          "j7mxFbUrld+p2cCZJIBTj/VUjkLS76bs4CQnMIGmtR0=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.3-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ym2HcZkzXMwYvcyg2w/28g7cgq8+42EIGKpfqG6F6X0=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.3-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9HWPAGVQmv11JzXoFC/S4qXcLQU1W1J4mG1Eg2yqDj0=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.3-cp36-abi3-win32.whl": [
+          "GFrvvaOXrwA3sGNALjtkRSSRya0LW1SrduG79l1uYgE=",
+          "cp36"
+        ],
+        "singlestoredb-0.5.3-cp36-abi3-win_amd64.whl": [
+          "kcmdMYsp/0DxSFNjVxcnFxEf5eFTefaMODDVQ8yRHyg=",
+          "cp36"
+        ]
+      }
     }
   },
   "sk-video": {
@@ -127510,6 +127574,30 @@
       "wheels": {
         "sparrow_order_lib-0.1.52-py3-none-any.whl": [
           "AghmKLQeattsHZNYuA6mC+oIsH2rVgyiclUrIu12MHY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.53": {
+      "sdist": [
+        "kidecaB5y+IK7UQ+BjQGGrt7Yug82L0sLt/3PhsVCm8=",
+        "sparrow-order-lib-0.1.53.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.53-py3-none-any.whl": [
+          "KKODOtutfg5QdG7VWmlQVNVsyvMIJAeyoMCuVURxPww=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.54": {
+      "sdist": [
+        "sRSSkZaw5SdwZcpkgChkxpWm7aWhgCcnhE1/Ys/q2YQ=",
+        "sparrow-order-lib-0.1.54.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.54-py3-none-any.whl": [
+          "AuOpZimNhDgdiz1i19I2PJkNl7Nu0oqq2Yc9tel7xfA=",
           "py3"
         ]
       }
