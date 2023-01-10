@@ -54514,6 +54514,18 @@
         ]
       }
     },
+    "0.3.13": {
+      "sdist": [
+        "8I9334vrCMKbURWHvBUq/+LQvdxZ5dTQ4xrIpOGl2xA=",
+        "godoo_cli-0.3.13.tar.gz"
+      ],
+      "wheels": {
+        "godoo_cli-0.3.13-py3-none-any.whl": [
+          "H91PTisz3V/mqmYi53gbNG8CqDGtA6lTpu9co+fPQLs=",
+          "py3"
+        ]
+      }
+    },
     "0.3.3": {
       "sdist": [
         "2VqeL/rqqFS3CkXW6c+rbUzQeQe48IL9YOuW/dnKgho=",
@@ -62948,6 +62960,10 @@
           "xhTy6W5MW99C0xPUooeptVaAfCHj9svPj3aM64/wYsE=",
           "cp310"
         ],
+        "ipie-0.6.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GW5JZxVh85FDU2oEhNw58g3Ahmw8ZgCdmWMlo3beR+U=",
+          "cp310"
+        ],
         "ipie-0.6.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
           "ykOlUGOuJx/enn+pKm2wpfyTcXsNAYEmFo8HJnoICm0=",
           "cp36"
@@ -62960,8 +62976,16 @@
           "ODtiNrAAKR9QJ6sRm43ozujwwa8w+YNqC2mG9fhIUwo=",
           "cp38"
         ],
+        "ipie-0.6.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mcVw7bmiY1y4ApMHA814CLwKLkelaQTe0cb2BSVaumc=",
+          "cp38"
+        ],
         "ipie-0.6.2-cp39-cp39-macosx_11_0_x86_64.whl": [
           "Hl9vFtnp4iN8fO6a8l1M8DJIg3fQ6Z+DKbERi/qf+c8=",
+          "cp39"
+        ],
+        "ipie-0.6.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i7Lo3Y3ItXZo829+UssqEVUWKnG+iIYU91SifLjqqdc=",
           "cp39"
         ]
       }
@@ -90591,6 +90615,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ovos-ocp-news-plugin": {
+    "0.0.0": {
+      "sdist": [
+        "gJzcYinupMv33WeYbAEIrBvWBp0y2PbtyHA/g8IK7qQ=",
+        "ovos-ocp-news-plugin-0.0.0.tar.gz"
+      ]
     }
   },
   "pace-neutrons": {
@@ -150856,6 +150888,36 @@
       "sdist": [
         "J3vg36cGYugqSxM0y4228h+HwS9HLwuf3qhMkCnMzqk=",
         "xfact-0.2.41.tar.gz"
+      ]
+    },
+    "0.2.42": {
+      "sdist": [
+        "7U4nrQ3yFkLlHie5jopyd4/CjqubQzjLNCvnLSSUrig=",
+        "xfact-0.2.42.tar.gz"
+      ]
+    },
+    "0.2.43": {
+      "sdist": [
+        "QRrD+CmnSX49IpLthPK/XJhtEPilztjxcxqWlmOVxPw=",
+        "xfact-0.2.43.tar.gz"
+      ]
+    },
+    "0.2.44": {
+      "sdist": [
+        "lH7RKLI5PtkTBHEU4hIysyPQdSkf12DheP/bzvanIQs=",
+        "xfact-0.2.44.tar.gz"
+      ]
+    },
+    "0.2.45": {
+      "sdist": [
+        "X7war+pkAzfmibr25bBbtmpx48yuxJ7FND6J2jfKm4I=",
+        "xfact-0.2.45.tar.gz"
+      ]
+    },
+    "0.2.46": {
+      "sdist": [
+        "iAp2i3I38iUr+Lj4g0wyQzami1qbHENfzexfCpxAxF4=",
+        "xfact-0.2.46.tar.gz"
       ]
     }
   },

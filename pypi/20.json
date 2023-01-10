@@ -25185,6 +25185,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.11": {
+      "sdist": [
+        "IMPm3scPeQTIqO/fnvQ3VtEprgj7Dl3AAUbon/kBO6I=",
+        "cryptonets_python_sdk-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "cryptonets_python_sdk-1.0.11-py3-none-any.whl": [
+          "BEvg3l/9NhpRc6IGyFQFLwMCrVCoGsLjrogtr1oKZ3c=",
+          "py3"
+        ]
+      }
     }
   },
   "crypy": {
@@ -32871,6 +32883,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "TVkvkbGfGWfKplmstHz8tZ2p39xZuMH4To87EV9UHVk=",
+        "deeppavlov-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "deeppavlov-1.0.2-py3-none-any.whl": [
+          "PvDNByBvvJCMidUVZ/aHHyjyFrGbH1qvPFipxj1vbzM=",
+          "py3"
+        ]
+      }
     }
   },
   "deferargs": {
@@ -38551,6 +38575,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "bnEIxvOeMHNPbpSV+j+Vh+0RRq7KwCujm8zl8hSBGtU=",
+        "django-uwsgi-admin-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_uwsgi_admin-1.0.0-py3-none-any.whl": [
+          "slBAZ8vuZjaGV3xaF5W7aRPbtKZ819e35zl3w5NMKpk=",
+          "py3"
+        ]
+      }
     }
   },
   "django-virtual-models": {
@@ -42886,6 +42922,30 @@
       "wheels": {
         "eopsin_lang-0.2.1-py3-none-any.whl": [
           "eeYoIQbZsuzhp6/PP5XBzOrYzSuor/XtFhz/xIbkNM4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "grPs2K8c1CB3m4zjjklUyXi6zvKQo0+ttth7Dxb1TmU=",
+        "eopsin-lang-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "eopsin_lang-0.2.2-py3-none-any.whl": [
+          "vgsIeGtr/wr/LTiTABw81mmPT6wtAosVO/yh8DTZReU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "c8zpxpSq5aBGazeFbUv6apww0M6gku9W/uOdxHyFYGk=",
+        "eopsin-lang-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "eopsin_lang-0.3.0-py3-none-any.whl": [
+          "eIDco930kdRiExu2ySeWmntDGdwapTiOkprhk/48cZY=",
           "py3"
         ]
       }
@@ -71777,6 +71837,26 @@
           "cp39"
         ]
       }
+    },
+    "8.0.1": {
+      "sdist": [
+        "GPMhVn/HQ+5T+Bih+v52QSXoEiPlDpJCX2SSnckf2lE=",
+        "idyntree-8.0.1.tar.gz"
+      ],
+      "wheels": {
+        "idyntree-8.0.1-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "LtySvKkCBp4SY1CGc4x0eDjr5bpB/iSe3Zlpco9fXOQ=",
+          "cp37"
+        ],
+        "idyntree-8.0.1-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "/NCagnXfClKUriHNO5Aij+6QprDXFd0GXleRbnqFoS8=",
+          "cp38"
+        ],
+        "idyntree-8.0.1-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "pBbcNKpGe/mwVq5GeEu+kByCKDfp47gfrkXWyMN3nf0=",
+          "cp39"
+        ]
+      }
     }
   },
   "ifparser": {
@@ -80720,6 +80800,38 @@
       "wheels": {
         "kili_common_storage-0.0.10-py3-none-any.whl": [
           "HpGYA11/3dP7f480XcCjtj4BiIKof6ZLsSBtVJlY3Vk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "kili_common_storage-0.0.11-py3-none-any.whl": [
+          "Esk3z0wJhDGLmTFpUIOGS1v+ficQ9T1FxWDb7aHa+gM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "wheels": {
+        "kili_common_storage-0.0.12-py3-none-any.whl": [
+          "6zuPFSdAfujYDtmKGMlzodJLbqlwiDI5u+05CVMnMRU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "wheels": {
+        "kili_common_storage-0.0.13-py3-none-any.whl": [
+          "9Diy3nQCVLqRqlfbF38ccew4GIQFnTuVQ1EAWYHThvQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "wheels": {
+        "kili_common_storage-0.0.14-py3-none-any.whl": [
+          "zJUSyg98lpWcX7xS578AaSiHwryM+uGkmg/kwWX+63U=",
           "py3"
         ]
       }
@@ -115655,6 +115767,66 @@
           "py3"
         ]
       }
+    },
+    "1.5.3": {
+      "sdist": [
+        "9zu/oCG5rlP165BmkU7Ay6s+/D6vtVpUwigx0JWi8TQ=",
+        "pykin-1.5.3.tar.gz"
+      ],
+      "wheels": {
+        "pykin-1.5.3-py3-none-any.whl": [
+          "s+AH7NVHW3kbSWf3aoEVV9MY7USVgz6NIacksZGpVcA=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.4": {
+      "sdist": [
+        "GDLCAvrsJCnKRONti0KGA+bb4mRV9ZIQPlXSho0qgNI=",
+        "pykin-1.5.4.tar.gz"
+      ],
+      "wheels": {
+        "pykin-1.5.4-py3-none-any.whl": [
+          "V3f8UN7AUGkdQZ4szzLf4dpbGdrvbAQpf+70zjJM8L0=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.5": {
+      "sdist": [
+        "pl1uPpbYSW+8qrm38Z4bASYM2Fn2r3+yGqhqj8w3TMs=",
+        "pykin-1.5.5.tar.gz"
+      ],
+      "wheels": {
+        "pykin-1.5.5-py3-none-any.whl": [
+          "LTvzZrNwqaQ9W6RTRD5ueimlFc6DgqoP5U4IcgRyNJI=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.6": {
+      "sdist": [
+        "FAj3MQbOJQQAGChBpHXmnfiCr/2F4sUHby+MLcsTnQk=",
+        "pykin-1.5.6.tar.gz"
+      ],
+      "wheels": {
+        "pykin-1.5.6-py3-none-any.whl": [
+          "qBnYVXCKr5L6ejflE5I4h6wmeXgn8TbogIHoCxHd+ow=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.7": {
+      "sdist": [
+        "hqhHjSZcLUO2zN6EuVWVTeB8T29N25LJCQxKvlKFoog=",
+        "pykin-1.5.7.tar.gz"
+      ],
+      "wheels": {
+        "pykin-1.5.7-py3-none-any.whl": [
+          "tgn0oXmNZerR+oI0G/jWatpKMMkEXTdgs0gdEkbAKXY=",
+          "py3"
+        ]
+      }
     }
   },
   "pylint": {
@@ -136095,6 +136267,32 @@
       }
     }
   },
+  "scaffoldgraphnew": {
+    "1.1.2": {
+      "sdist": [
+        "d0TlW3ito+13zxJFUE92ogmS/uS4mGwbk08bM3DeMzI=",
+        "ScaffoldGraphNew-1.1.2.tar.gz"
+      ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "RBejQ51YH4nXWNmYnTsrs01SkkuacROwOYOWWw5yhfE=",
+        "ScaffoldGraphNew-1.1.3.tar.gz"
+      ]
+    },
+    "1.1.4": {
+      "sdist": [
+        "GhkUkKZTTygmYbOZaVCOnrf4Co9fXDO7XiGKDyZ0peo=",
+        "ScaffoldGraphNew-1.1.4.tar.gz"
+      ]
+    },
+    "1.1.5": {
+      "sdist": [
+        "7ZvOWGTzsIKIkuj+HYAj5+G/8gsk8dY0yhUoIcHmDsg=",
+        "ScaffoldGraphNew-1.1.5.tar.gz"
+      ]
+    }
+  },
   "scalalike.collections": {
     "0.1.0": {
       "sdist": [
@@ -136926,6 +137124,18 @@
       "wheels": {
         "sec_certs-0.1.2-py3-none-any.whl": [
           "dpy+ySN3f5r8RUk3Q2mVner7p8NovSfz7HehO9C0pQc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "rfk2jMv+P3xdR0ANL1MqTZ9gLSV3e7EHa7v5KC3q7yA=",
+        "sec-certs-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "sec_certs-0.1.3-py3-none-any.whl": [
+          "4EuEjIKKKPM60cMMer3LoEOobveirJ+pXmYqeAPvwhU=",
           "py3"
         ]
       }
@@ -154094,6 +154304,14 @@
       "wheels": {
         "vmn-0.7.15-py3-none-any.whl": [
           "fqNHD0rXhT07bq9ECbd0jOAAhouOjBp2jw6qUdhGpnQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.16rc1": {
+      "wheels": {
+        "vmn-0.7.16rc1-py3-none-any.whl": [
+          "I4SJxZsnw3ktcMkmef8rZdhcM/zfckmfQy6GSsN/EFQ=",
           "py3"
         ]
       }

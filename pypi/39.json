@@ -1303,6 +1303,20 @@
       ]
     }
   },
+  "alphamale20-blog-zh": {
+    "2023.1.10.0": {
+      "sdist": [
+        "hfZxEnGlQfqH1QNLNUKcdsMFAvYvkCSvtNj4reaNF/M=",
+        "alphamale20-blog-zh-2023.1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "alphamale20_blog_zh-2023.1.10.0-py3-none-any.whl": [
+          "mbmw9ePyC9yjXZRkTHJ2Hy0g2t6yBWu+nAsv3XbesQU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "altplotlib": {
     "0.0.2": {
       "wheels": {
@@ -81525,6 +81539,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.2.dev1": {
+      "wheels": {
+        "odoo14_addon_shopfloor_checkout_package_measurement-14.0.1.0.2.dev1-py3-none-any.whl": [
+          "YBz5yFjCwq/Zclqh1c1l3UIUuUupjZWisYEa6jjrtzA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-picking-import-serial-number": {
@@ -93976,6 +93998,12 @@
         "py-Betawi-0.0.1.tar.gz"
       ]
     },
+    "0.0.11": {
+      "sdist": [
+        "SPbMTM+nGi1utnjf/ml52tjQcnmSu4kcgOnD6IBgDIU=",
+        "py-Betawi-0.0.11.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "6+BIPNV72odBhOExErDPbm1yA15CHSvn3iiBmnqCUFQ=",
@@ -95570,6 +95598,18 @@
       "wheels": {
         "pybary-0.1.5-py3-none-any.whl": [
           "mO3yo0Sus+QmrBUH8WVXam/uUuiXRj8IY8LWHT+lf0U=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "zwp+ggBcYgLm8a11ypsyt62j4NPzOy8SYwHet/VglH0=",
+        "pybary-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pybary-0.1.6-py3-none-any.whl": [
+          "XJxege3sEeOf58+xdlz56wY62DbhhrPlUWijVTxDEe0=",
           "py3"
         ]
       }
@@ -119129,6 +119169,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "kpvOOtnBadt16VXSAP/hD3tYOMPvpaMV0N/Z6esVGwY=",
+        "secure_package_template-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "secure_package_template-0.6.0-py3-none-any.whl": [
+          "hUG8n8HiQcwvUKagLdDLlYmvAj76oDnVb1pLyBNdAwU=",
+          "py3"
+        ]
+      }
     }
   },
   "securitylib": {
@@ -141975,6 +142027,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230110": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230110-cp310-cp310-win_amd64.whl": [
+          "GVHFOQYnTOM1AZhJAb/3T4Cm43qzQV9Ey7SfUfbNUo0=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230110-cp38-cp38-win_amd64.whl": [
+          "gSBfhYTU3t5k/gpwnGXVf1RZrM9yKQJnPIDaeridO9k=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230110-cp39-cp39-win_amd64.whl": [
+          "XnKUM21pzQ44TUNZCnVpnKRYaKNGR6lpXytN8ZpbN7k=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -157318,6 +157386,18 @@
       "wheels": {
         "zood-0.2.5-py3-none-any.whl": [
           "6uLtEtFBwvu0bJL+nsV4Mov8FNzSiYxRCzYe5yEoL7o=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "CUO48JiIiTlkZMSQnVCNvzDo7Y9RXTgBylKSTImPxIA=",
+        "zood-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.3.1-py3-none-any.whl": [
+          "IFbqQ/b9uNqgSFqB9+yBE87ShS6Xc4xlra8LOHlusPg=",
           "py3"
         ]
       }

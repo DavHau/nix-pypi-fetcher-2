@@ -21940,6 +21940,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "DF4FRXeG5Guf8aFbcJPgl6c+33ZKo7CnKckEwMT8orM=",
+        "datayoga_core-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.53.0-py3-none-any.whl": [
+          "FgkNrJux7Z0ep912OSvbpj3iYOHbMJf4kj6fOeUXMPE=",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "bWzjVV5inzD8WhqCN+bztJjraN3R6WF9I+zeY3ypje8=",
@@ -43564,6 +43576,14 @@
       "wheels": {
         "gitlabci_local-5.2.0-py3-none-any.whl": [
           "VGW6DzdhZYCuGhMXXYl/ybHPCDjedaRnUVCXdoBDmrU=",
+          "py3"
+        ]
+      }
+    },
+    "5.3.0": {
+      "wheels": {
+        "gitlabci_local-5.3.0-py3-none-any.whl": [
+          "l8ysXhvArMND84k1EUVZn1+UETTpkVVbH4uvtNuiJAA=",
           "py3"
         ]
       }
@@ -65707,6 +65727,24 @@
         "HfkEoOU3y7sqeef6OHnOMSgmk3ZFOfkPHcDYaoJ6ChE=",
         "localstack-ext-1.3.2.dev20230109094813.tar.gz"
       ]
+    },
+    "1.3.2.dev20230110082932": {
+      "sdist": [
+        "zYqwSF/kBZzyCPmWkMBSqcP+X2h3LCTcPYh6YLwCbsU=",
+        "localstack-ext-1.3.2.dev20230110082932.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230110153955": {
+      "sdist": [
+        "WQ4fbWc1YOv3GBfzHn6zQ9FyI4Nxo1NulagvFG2xK0I=",
+        "localstack-ext-1.3.2.dev20230110153955.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230110163219": {
+      "sdist": [
+        "YPZfWlzN6ag5xu0nd92wQWKRnddCye66JqSVj1ov5Qc=",
+        "localstack-ext-1.3.2.dev20230110163219.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -76668,6 +76706,18 @@
       "wheels": {
         "mysql_type_plugin-0.1.11-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "D4MTXqkGB6w82A7AzMCF5bTHXbjkJjesiMkDmc/WOro=",
+          "cp37"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "zJZRdW9ey4cK6pA4SNS/ZP5pP5PzJM/DUhnPYYtta1Y=",
+        "mysql_type_plugin-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "mysql_type_plugin-0.1.12-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EtI1sb+w8LgFdNg4y6mn/NpZVChnZ20Lo8vRvlN/ytw=",
           "cp37"
         ]
       }
@@ -100849,6 +100899,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.0": {
+      "sdist": [
+        "PhvnasQclxVwOLoCW9bH5Dv2OL6IjqqSEbwIDOU2b8U=",
+        "pynytimes-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "pynytimes-0.9.0-py3-none-any.whl": [
+          "lp4UABeOqlwsM1tphFLMdLXxnOuGVqBgRWVK0wzz0aw=",
+          "py3"
+        ]
+      }
     }
   },
   "pyocd-remote": {
@@ -115000,6 +115062,12 @@
       "sdist": [
         "hYggIkewWGGD07TP2lIpCke3LWbU+GLx53pAmLnVZlk=",
         "salure_helpers_salesforce-1.0.1.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "aqORNNAr7HSd9l8SUpzvUd/DWRus3T261u72n3vVT6E=",
+        "salure_helpers_salesforce-1.1.1.tar.gz"
       ]
     }
   },
@@ -137546,6 +137614,20 @@
       "wheels": {
         "twcollect-0.1.0-py3-none-any.whl": [
           "+q2I2xE3v03pWXnLuvpae5qK0BPqh9vwwYnGEJ5vPwQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tweedekamer": {
+    "0.0.1b1": {
+      "sdist": [
+        "uyNLSoLzDLZsusEGqKdK0SGMjlTYnHW6bRxrchResYo=",
+        "tweedekamer-0.0.1b1.tar.gz"
+      ],
+      "wheels": {
+        "tweedekamer-0.0.1b1-py3-none-any.whl": [
+          "d1xXHFFUM8ZDLG4zxGdGx3tYuTmWeSEWjMRr2FcH6+A=",
           "py3"
         ]
       }

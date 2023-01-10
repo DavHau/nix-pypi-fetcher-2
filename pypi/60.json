@@ -47227,6 +47227,18 @@
           "py3"
         ]
       }
+    },
+    "1.1958.0": {
+      "sdist": [
+        "Da4UY8dWKpyUQhel++p/tSGKbE5lyJmvmsvoYkRejK8=",
+        "gardener-cicd-libs-1.1958.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1958.0-py3-none-any.whl": [
+          "NbxC7un532bZmYXtklF1/6CNR19mzFG8iCaU69l6Psw=",
+          "py3"
+        ]
+      }
     }
   },
   "gcp-secret-manager-wrapper": {
@@ -79484,6 +79496,22 @@
         ]
       }
     },
+    "0.0.0.2": {
+      "wheels": {
+        "mongo_ninja_python-0.0.0.2-py2.py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "49KMm+iPkvb4HkXVSzVh56VtyEZXbtpQmugBfLESAsM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.0.3": {
+      "wheels": {
+        "mongo_ninja_python-0.0.0.3-py2.py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "wq67mVGD8CaEY8qKF37kc7pJxwpTT1SLrwR1GMyKkAw=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.11.1.0": {
       "wheels": {
         "mongo_ninja_python-1.11.1.0-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
@@ -106835,6 +106863,20 @@
       }
     }
   },
+  "pyhelper-misc": {
+    "1.0.0": {
+      "sdist": [
+        "evKaMCsxFUp4QB784Gragl2VPZWNMsxZvfs+0f17cA0=",
+        "pyhelper-misc-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyhelper_misc-1.0.0-py3-none-any.whl": [
+          "jKx9noZLkp0sTlL14Pe1ZQpkLQp0SO2JnmTDAY+halA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyhostr": {
     "0.4": {
       "sdist": [
@@ -121653,6 +121695,12 @@
         "vctbqwZ/eJHfxjgDYJVZhoepyF9Fppehujybq3r5zKg=",
         "returnn-1.20230109.133637.tar.gz"
       ]
+    },
+    "1.20230110.110658": {
+      "sdist": [
+        "G9hLiqQzfScMkLolv2XuTazGHS6W6w1qqJWKcvcytyI=",
+        "returnn-1.20230110.110658.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -129825,6 +129873,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "a36d0uHVxK9d6zbtsF/QFSBxDwHBzaaDLtlCKw2kLvw=",
+        "spare_scores-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "spare_scores-0.0.2-py3-none-any.whl": [
+          "q8R1Sse+jLd9e3lhU5MBaX6UDTN36V+Dyq+xMIc9wM8=",
+          "py3"
+        ]
+      }
     }
   },
   "spatialcdr": {
@@ -133258,6 +133318,18 @@
       "wheels": {
         "tasksource-0.0.3-py3-none-any.whl": [
           "rMVRAcSR5s0+BNYMgQVdIfsSusokyO/kCeNffFH61yw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "Wz5PkJnXKWh/cabaqMtgBMiDvF0tvumlPKxcFIdHHAQ=",
+        "tasksource-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.4-py3-none-any.whl": [
+          "fzGgLmgCCJGrzqTLzaKC79bmAeN2RImQLTikqmXN8qI=",
           "py3"
         ]
       }
@@ -140482,6 +140554,30 @@
       "wheels": {
         "vanoma_api_utils-0.75.0-py3-none-any.whl": [
           "DlSJqQtbjJYwFyvqV5EzGjLNCN2Ff/ZGYpB00dppIzY=",
+          "py3"
+        ]
+      }
+    },
+    "0.76.0": {
+      "sdist": [
+        "lTsYoYDwU3G1G40HMOONBgZorwydpWQiMTc7lRhAAso=",
+        "vanoma_api_utils-0.76.0.tar.gz"
+      ],
+      "wheels": {
+        "vanoma_api_utils-0.76.0-py3-none-any.whl": [
+          "ckDViJPOFqeFowen8Z2QevS59yZMhdLu4lWhosHqt4U=",
+          "py3"
+        ]
+      }
+    },
+    "0.77.0": {
+      "sdist": [
+        "Q6lY5kM/U5srqkar1JsbupGYuV+nf7m6TnZnVC71mhg=",
+        "vanoma_api_utils-0.77.0.tar.gz"
+      ],
+      "wheels": {
+        "vanoma_api_utils-0.77.0-py3-none-any.whl": [
+          "b5uICCCGJeR65M+S25qoR18Ld2VnGm6ScQKGzhIveZ4=",
           "py3"
         ]
       }

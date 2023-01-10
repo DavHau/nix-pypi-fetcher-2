@@ -24019,6 +24019,12 @@
         "ZPxyc2OI+OMXvskcoteW1PONZMJ8XcGqc5V98W9N9y8=",
         "chowkidar-strawberry-0.2.3.tar.gz"
       ]
+    },
+    "0.2.4": {
+      "sdist": [
+        "6lxzmFcQp+3OSy87nGIBgvEcm2WddIXAAHuTA4/xjHI=",
+        "chowkidar-strawberry-0.2.4.tar.gz"
+      ]
     }
   },
   "chron": {
@@ -44073,6 +44079,18 @@
           "py3"
         ]
       }
+    },
+    "7.2": {
+      "sdist": [
+        "ERJ/KcD6Z2uTXNUF8BEo8J+Dn8FE6TrNo62tmIl10fc=",
+        "exonwebui-7.2.tar.gz"
+      ],
+      "wheels": {
+        "exonwebui-7.2-py3-none-any.whl": [
+          "z20mb1av0tYLIhDKFCjHB+9YXhbRiDOiGWiSYHNpyB4=",
+          "py3"
+        ]
+      }
     }
   },
   "external-data-structures": {
@@ -61533,6 +61551,106 @@
         "NRkenLAyrZxPhQeL7Fr+jBWreHMPQxpH8po8+dQcrqg=",
         "kaldifst-1.5.1.tar.gz"
       ]
+    },
+    "1.6": {
+      "wheels": {
+        "kaldifst-1.6-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "DBOdwrDLS1EPSZhucZQ50FBuRrxyBmYFyDAz8JcWgSk=",
+          "cp310"
+        ],
+        "kaldifst-1.6-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "fxO9wMR7ClIATQzajsQ/d0y8XYgBZWBPMwsDSN8KAu0=",
+          "cp310"
+        ],
+        "kaldifst-1.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Dyxq4haoEjLItT3cHbr8dO21dO0VtOHfXd8JExRtIVA=",
+          "cp310"
+        ],
+        "kaldifst-1.6-cp310-cp310-win_amd64.whl": [
+          "cazJzTowYfc5ko3GZrtBBE8BCs1gQH8j2q1qBbX8Giw=",
+          "cp310"
+        ],
+        "kaldifst-1.6-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "QMFS0Xqayl8ZFfMyu31iqtAH6dPYKifDi7h1GMLbcp0=",
+          "cp311"
+        ],
+        "kaldifst-1.6-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "EMVCQeUm6bOYLKsB8g0N9fgqET2vASz+iuR5pHUxKNw=",
+          "cp311"
+        ],
+        "kaldifst-1.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Pv/hkRt+OvJAf8yAXr2/O4NWHZyrPeS6247w+cxu+Jg=",
+          "cp311"
+        ],
+        "kaldifst-1.6-cp311-cp311-win_amd64.whl": [
+          "pa5DswANOAaYa6Bn2QwyVa4AU4mGKr4GK6Gk1YtYWEA=",
+          "cp311"
+        ],
+        "kaldifst-1.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "Zc0OBPcznFnyataxDMtlmq8LN8INEOfWPT+oX8ybBPc=",
+          "cp36"
+        ],
+        "kaldifst-1.6-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "erwN1QoUQIGn30L1PgfJ+d12D6HP6FMGbQUfw8Vet60=",
+          "cp36"
+        ],
+        "kaldifst-1.6-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rYo/pGNZ6cjiRdQR7q18oGLvs0pAJUQpumUPxe8Lq+Q=",
+          "cp36"
+        ],
+        "kaldifst-1.6-cp36-cp36m-win_amd64.whl": [
+          "zrSWPwD/7leLzkZRcbMVBzi/QjGomK7lm5RoL+45ouw=",
+          "cp36"
+        ],
+        "kaldifst-1.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "EUdntwcOEar/yCULiRRPwt15JRfz0MvR6xM7wuoKTEo=",
+          "cp37"
+        ],
+        "kaldifst-1.6-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2nmZm0lMJfx9yqcWB/yENx4qIB3rF7FGH/+jNZddjIc=",
+          "cp37"
+        ],
+        "kaldifst-1.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6ccFf2349AOrJltD/gU+esmfN80vbflZTNCZQmXOsRw=",
+          "cp37"
+        ],
+        "kaldifst-1.6-cp37-cp37m-win_amd64.whl": [
+          "rkMc2BjfAhS7rk5tPtuxzL7nZJXdJccB7Tp/AgAw10Y=",
+          "cp37"
+        ],
+        "kaldifst-1.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "AXJVtNtMgvyZ9Fcpfvw6iuU79FGh9uEdqkQ5mlIhBfI=",
+          "cp38"
+        ],
+        "kaldifst-1.6-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "1Oor/+aGEevg3j3Lk5ms8+x33obM6ykI0EteRhc37+E=",
+          "cp38"
+        ],
+        "kaldifst-1.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4nJGZutWXGz6HlRHWLeNPkzCci9wnVtADRH50WdOirk=",
+          "cp38"
+        ],
+        "kaldifst-1.6-cp38-cp38-win_amd64.whl": [
+          "LVmzVL1+oJGb3vgbmw6dVbOqOCSMrmfCcILNi2V3MG0=",
+          "cp38"
+        ],
+        "kaldifst-1.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "gmDcgO5yNOWVLNxYAMQAz6V40Pt3A0i7DMkc/d6/PG8=",
+          "cp39"
+        ],
+        "kaldifst-1.6-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "lsK9rHRCUo4O7ng3p+93hULCtKj8fSZ2ghhdfQ/dfCg=",
+          "cp39"
+        ],
+        "kaldifst-1.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "reh784gz1gvcZDqLBd8t4VAXp5epy21apbtXGS15yGI=",
+          "cp39"
+        ],
+        "kaldifst-1.6-cp39-cp39-win_amd64.whl": [
+          "GwbBAz5DHAZggjOJaeUoC9jMjaqro4djdTFdConmsAw=",
+          "cp39"
+        ]
+      }
     }
   },
   "kalenis-lims": {
@@ -111552,6 +111670,18 @@
       "wheels": {
         "signialib-1.0.1-py3-none-any.whl": [
           "SY5gt8cfMB+8B6c0Z1fVozf5zKdW0k6yfacsjjiIQ8s=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "X9zJkBushbHmC0ySDep1+g+PS6qclBOP/sa/m0KTeNI=",
+        "signialib-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "signialib-1.2.0-py3-none-any.whl": [
+          "q7ND4D4loXk+UWgbtGhMnEVHmd27fRLbYAXTEgqmaps=",
           "py3"
         ]
       }

@@ -15263,6 +15263,26 @@
           "cp310"
         ]
       }
+    },
+    "1.2.2": {
+      "wheels": {
+        "autoai_ts_libs-1.2.2-57-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "i7mGWQ5b/jonHsiuzhngwmdjQ7+GS+B1sP+6uZhBzeY=",
+          "cp310"
+        ],
+        "autoai_ts_libs-1.2.2-57-cp310-cp310-manylinux1_x86_64.whl": [
+          "c61GPHGElQBwSlWppri/EKwOuSTEw+bQI9FoJvZT/Do=",
+          "cp310"
+        ],
+        "autoai_ts_libs-1.2.2-57-cp310-cp310-manylinux2014_ppc64le.whl": [
+          "7yrjfevxZvtW5wOZ9eiF0KPKOWPYRJBUHOBYaYEv0kc=",
+          "cp310"
+        ],
+        "autoai_ts_libs-1.2.2-57-cp310-cp310-win_amd64.whl": [
+          "QxaK7HUGL7kFniudCq6tmefZ5P0J0i9HPbr64qlnzV8=",
+          "cp310"
+        ]
+      }
     }
   },
   "autocompile": {
@@ -24230,6 +24250,18 @@
       "wheels": {
         "blockapi-0.14.3-py3-none-any.whl": [
           "KKYS/GnLcxGJ9AzJNGhG+VrNSAtKdspDguxW+xtcBV8=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.4": {
+      "sdist": [
+        "GouvX2nHoHDJImhqWGbb1/Dzb6DBeApl/IpFAJqONV0=",
+        "blockapi-0.14.4.tar.gz"
+      ],
+      "wheels": {
+        "blockapi-0.14.4-py3-none-any.whl": [
+          "3v7JFfjKXTxg8UAoqMHO4HnjbTmtY0MdAFRYcMRz8yI=",
           "py3"
         ]
       }
@@ -73765,6 +73797,42 @@
           "py3"
         ]
       }
+    },
+    "0.1rc0": {
+      "sdist": [
+        "M5waN0V7zLiqbkgwff9rqBjSXISzCRptva+JzuZvpK4=",
+        "lantoolkit-0.1rc0.tar.gz"
+      ],
+      "wheels": {
+        "lantoolkit-0.1rc0-py3-none-any.whl": [
+          "WNSbwVe9Of7KiTjgnWEUqdUcTAa/vHlDyj4NevatzEw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1rc2": {
+      "sdist": [
+        "/pNrqJigLnXszHQlPS9674SHoy17Al8rkXUjINKfWqE=",
+        "lantoolkit-0.1rc2.tar.gz"
+      ],
+      "wheels": {
+        "lantoolkit-0.1rc2-py3-none-any.whl": [
+          "nhgHqEwVHNDUwHTOqtnv0lSShsp+IhDobgimaDqoa9E=",
+          "py3"
+        ]
+      }
+    },
+    "0.2rc0": {
+      "sdist": [
+        "qCjX01dhPmB8QmDB2Vl5oxk8gSrI9lOrW1YdpfaJ12U=",
+        "lantoolkit-0.2rc0.tar.gz"
+      ],
+      "wheels": {
+        "lantoolkit-0.2rc0-py3-none-any.whl": [
+          "bm1yiRqnaq63gd0ZpYzUMoCFAKoyuQehjgSy21FgRqo=",
+          "py3"
+        ]
+      }
     }
   },
   "laura-project-hello": {
@@ -89053,6 +89121,16 @@
       ]
     }
   },
+  "odoo-addon-account-operating-unit": {
+    "15.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_account_operating_unit-15.0.1.0.0.5-py3-none-any.whl": [
+          "pPgSN/Rcve+4taWK972SqECWrQiomFu1l86l6buwuQs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-base-remote": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -91178,6 +91256,14 @@
       "wheels": {
         "odoo13_addon_mrp_bom_tracking-13.0.1.0.1.dev4-py3-none-any.whl": [
           "mnMQTcqLOo5SG+BgaO3x+NpHGDPUqMYiG4l3W+/xI2U=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.2.dev2": {
+      "wheels": {
+        "odoo13_addon_mrp_bom_tracking-13.0.1.0.2.dev2-py3-none-any.whl": [
+          "KGuxwEr46i7DrkRPoCliBc44RqcKaU6Hoa2xqxGe9+k=",
           "py3"
         ]
       }
@@ -120204,6 +120290,12 @@
       "sdist": [
         "kryPsKAmsEo3+Cg23IPETg6YWo6ozaxEwiIzx7bOJZA=",
         "pysunday-0.2.8.21.tar.gz"
+      ]
+    },
+    "0.2.8.22": {
+      "sdist": [
+        "mj6lzIIkgV6jvnIdwNCHS5iTb5dtDsMmRybrFvNXH8g=",
+        "pysunday-0.2.8.22.tar.gz"
       ]
     },
     "0.2.8.3": {
