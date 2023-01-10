@@ -18631,6 +18631,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.46": {
+      "sdist": [
+        "7bnr4CFfIcXu/H0cMFOjKULq+I2Re9zzWvVdvMHXMhE=",
+        "botocore-a-la-carte-fms-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fms-1.29.46-py3-none-any.whl": [
+          "TEO09wixQQpmaQVMejfWpLTc+ryZsBtpf8fVhwHJ9d4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rds-data": {
@@ -18681,6 +18693,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.46": {
+      "sdist": [
+        "3ajw1G2Z/fNW8fSSVkgcTUmxpdf23T/eQMZVvu6s8tU=",
+        "botocore-a-la-carte-rds-data-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rds_data-1.29.46-py3-none-any.whl": [
+          "/TnwgUoCg/02RUCOxBJfBTnHb0vOKbvZJUa+/18Nkhw=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rum": {
@@ -18728,6 +18752,18 @@
       "wheels": {
         "botocore_a_la_carte_rum-1.29.45-py3-none-any.whl": [
           "zRTqWTUs3XwML1IBwnAcMI9xoLXKvYKLrKakj8OdmlQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.46": {
+      "sdist": [
+        "05lARELB2/mgjB0A1I+fg+929Vazgtr6txt9/d3EuRY=",
+        "botocore-a-la-carte-rum-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rum-1.29.46-py3-none-any.whl": [
+          "cqPuusPJrXVRQcfWVqKZcAUhe/uIoJ1J55PEmjNmft0=",
           "py3"
         ]
       }
@@ -75665,6 +75701,20 @@
       }
     }
   },
+  "mgl-formulae": {
+    "0.1.0": {
+      "sdist": [
+        "mDZgOeHKGQHTLrpvKcPgx5l2ozQdR8ystgYsga9Rz0c=",
+        "mgl_formulae-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mgl_formulae-0.1.0-py3-none-any.whl": [
+          "XSj/VOX/c0hw+0GM2FQO4JLWeRazUv1MuBnHtwNtrUk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mgv": {
     "1.0.0": {
       "sdist": [
@@ -80466,6 +80516,18 @@
       "sdist": [
         "XqbRe8CasbFqUp6H6dDA84ndf8dS0J8tm5p8DOJZN5s=",
         "msgtools-0.37.4.tar.gz"
+      ]
+    },
+    "0.37.5": {
+      "sdist": [
+        "fUxkTBfXTssw7qM9/fl+t8vpvmumuxfCEnUNpAtXz6Q=",
+        "msgtools-0.37.5.tar.gz"
+      ]
+    },
+    "0.37.6": {
+      "sdist": [
+        "ScY3godTHXNUPCBmzmm474esCfrQuL170xDi0iC95Fk=",
+        "msgtools-0.37.6.tar.gz"
       ]
     }
   },
@@ -136123,6 +136185,22 @@
           "py2.py3"
         ]
       }
+    },
+    "5.0.0.dev743": {
+      "wheels": {
+        "stix_shifter_modules_mysql-5.0.0.dev743-py2.py3-none-any.whl": [
+          "bCOkmlvmj5Pc+SV0D+4U/YIEpUmqyGRG0kqsC3imyhw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev744": {
+      "wheels": {
+        "stix_shifter_modules_mysql-5.0.0.dev744-py2.py3-none-any.whl": [
+          "mFOgCPDUgVlB7FRlvrpGEBxj/xxpLPM1bW15Yaj9kb0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stock-data-reader": {
@@ -146520,6 +146598,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcr-3.0.809-py2.py3-none-any.whl": [
           "tar4wW6VuZUtK07c0G5m4J8PiG0552xZTXJcnvwamic=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.811": {
+      "sdist": [
+        "SGufETIRibvje1IK+NX5ACqs0kOqZMF737GrkfDZrFU=",
+        "tencentcloud-sdk-python-tcr-3.0.811.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcr-3.0.811-py2.py3-none-any.whl": [
+          "YyEdEao2bHfLb5vQYspIkXvFIRz7bGZ37hjyoP8Kijs=",
           "py2.py3"
         ]
       }

@@ -47531,6 +47531,12 @@
         "iVg1GPg9Oz7QCEoCL9fdVAITfkQxbec7OYlly2lMEW8=",
         "gnuhealth_calendar-4.0.4.tar.gz"
       ]
+    },
+    "4.0.5": {
+      "sdist": [
+        "5675RahHQ54SZ+XecBcz+kAfiXtv0vLkokdWMjH8PPA=",
+        "gnuhealth_calendar-4.0.5.tar.gz"
+      ]
     }
   },
   "goco": {
@@ -66506,6 +66512,18 @@
         ]
       }
     },
+    "1.2.2": {
+      "sdist": [
+        "ErzOpMrczpfbqAbLCCz4pPE1p7KJgfLy1qEb0qZWvOM=",
+        "mlserver-xgboost-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "mlserver_xgboost-1.2.2-py3-none-any.whl": [
+          "O7qBTwTeLS/DKQT0EEz0ZU1d5QPsKpprW0GLBk/Lewg=",
+          "py3"
+        ]
+      }
+    },
     "1.2.2rc1": {
       "sdist": [
         "Gsy++Xk2fM55TCri2SDhfSH3QAKxyodNKf6nD/gtIHs=",
@@ -66514,6 +66532,18 @@
       "wheels": {
         "mlserver_xgboost-1.2.2rc1-py3-none-any.whl": [
           "IpljjfIxWzCXFKevfQHhZHOPhWOaAkq6gGSAb+GmjEY=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0.dev2": {
+      "sdist": [
+        "aiX31952jmxK6ej++GVNJIgKAH+84ZgF/rVNLyZjSYg=",
+        "mlserver-xgboost-1.3.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "mlserver_xgboost-1.3.0.dev2-py3-none-any.whl": [
+          "f3i4pqG2C6hPfF/DM2j3cRxPEyQJxIe0yjCLSJtm/pA=",
           "py3"
         ]
       }
@@ -137112,6 +137142,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.810-py2.py3-none-any.whl": [
           "MShbg/HnCT7i5FFtIAqX+S64M2Dn2bt7RusLBFNiuPM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.811": {
+      "sdist": [
+        "TwcmBzjh7Pp/0noKodmWTw7BH1g8xByPJQFrDkevDzI=",
+        "tencentcloud-sdk-python-mps-3.0.811.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.811-py2.py3-none-any.whl": [
+          "OO66b0Wj++51aTI3Bc+zAAuEXtT2vooz6UvZAQ94r8g=",
           "py2.py3"
         ]
       }

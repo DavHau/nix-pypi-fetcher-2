@@ -68657,6 +68657,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "Cz9Qg5y6nOS/yJxP7RA0oTlbUnxrWcjM8RsOnqg7aPU=",
+        "hive-nektar-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "hive_nektar-1.1.0-py3-none-any.whl": [
+          "h7vgZKMmn8OgNpzSooTdR5N0vKEY3mz1OIYae6zjenI=",
+          "py3"
+        ]
+      }
     }
   },
   "hmdc": {
@@ -80884,6 +80896,12 @@
       "sdist": [
         "cu7SLxZN6iV/pE6WMb1nDvrUIuIhDiwVRCLY/xl38xU=",
         "microarch-0.0.8.tar.gz"
+      ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "JDBff98Py740Kmi71Cz7yzjN1Tuwn+fBpcew8WGYQ3M=",
+        "microarch-0.0.9.tar.gz"
       ]
     }
   },
@@ -97653,6 +97671,20 @@
         "iuD+TJQ4SeG47w+Z52j/zRh4e08tztn9BkKZj60/WsY=",
         "osrm-py-0.5.tar.gz"
       ]
+    }
+  },
+  "osw": {
+    "0.1.0": {
+      "sdist": [
+        "OPkYGv4W82gcvrDfWvrG0JDiZkNxhA3NIgBLIs121Uk=",
+        "osw-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "osw-0.1.0-py3-none-any.whl": [
+          "iiv6Q0zeDeznRdsz+DBB+cfHneobQBJuShY03zM+j/s=",
+          "py3"
+        ]
+      }
     }
   },
   "ouss-funniest": {
@@ -128530,6 +128562,14 @@
         ]
       }
     },
+    "4.0.16": {
+      "wheels": {
+        "stix_shifter_modules_darktrace-4.0.16-py2.py3-none-any.whl": [
+          "uqf5LXdxcA5tyWxh3ds/t0+4MqZg9wVR/JSJ9pQHNNo=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.6": {
       "wheels": {
         "stix_shifter_modules_darktrace-4.0.6-py2.py3-none-any.whl": [
@@ -128766,6 +128806,22 @@
       "wheels": {
         "stix_shifter_modules_darktrace-5.0.0.dev734-py2.py3-none-any.whl": [
           "Ynf7zctuQKzb53+uc/L2hkI+2ZnHMvigtpbpI/RG9rk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev743": {
+      "wheels": {
+        "stix_shifter_modules_darktrace-5.0.0.dev743-py2.py3-none-any.whl": [
+          "uCp47C++zwK+Of1MVYqy+Wjdwy4kx0HGonG0x8OlI+A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev744": {
+      "wheels": {
+        "stix_shifter_modules_darktrace-5.0.0.dev744-py2.py3-none-any.whl": [
+          "YettxOsTOfCqZt3LpP3LJsnWeELdj8+gq93Ie4CcEIs=",
           "py2.py3"
         ]
       }
@@ -137690,6 +137746,18 @@
       "wheels": {
         "tencentcloud_sdk_python_emr-3.0.810-py2.py3-none-any.whl": [
           "g980Hro6nBCOHps99+3Vuz6YWnC6342/tINqez9SatI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.811": {
+      "sdist": [
+        "rSTZHpcAM8mY38UdQlwX20fRq9sLQv+ls5CeKoXeMAE=",
+        "tencentcloud-sdk-python-emr-3.0.811.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_emr-3.0.811-py2.py3-none-any.whl": [
+          "5jFSUlEFlktA2pfn9dSM4QtIx88kRaPqk6s8r4WTJgY=",
           "py2.py3"
         ]
       }
@@ -152852,6 +152920,90 @@
         ],
         "xia_mail-0.0.4-cp39-none-win_amd64.whl": [
           "C5auJo6towPpY0c01cdH3w2awfPH2HbKYCP1AXbxzpE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "xia_mail-0.0.5-cp310-none-macosx_11_0_x86_64.whl": [
+          "KU2kvAP013chWRq9Qjl0e9jQVt5931u4Hikoofek4dw=",
+          "cp310"
+        ],
+        "xia_mail-0.0.5-cp310-none-manylinux1_x86_64.whl": [
+          "1PgJTsNeJrjRV4SzfJogXZUVHOPizY4X9XFPD0s9O2A=",
+          "cp310"
+        ],
+        "xia_mail-0.0.5-cp310-none-win_amd64.whl": [
+          "40woXYwuePlb/yJuuYDyUQDJW3pnPmAOQdisRugs2c0=",
+          "cp310"
+        ],
+        "xia_mail-0.0.5-cp39-none-macosx_11_0_x86_64.whl": [
+          "l9x9skoFRuaIMz+it6kbFwY88SpucGYO0yl5DCgaoZs=",
+          "cp39"
+        ],
+        "xia_mail-0.0.5-cp39-none-manylinux1_x86_64.whl": [
+          "ts6KPiZoa2+/eKPyNfb1DmsIVkvDOc19nK5Bvx1M4z4=",
+          "cp39"
+        ],
+        "xia_mail-0.0.5-cp39-none-win_amd64.whl": [
+          "4p73wKN0kKwqpHo5+e8Hent3RfxzNPs/M14khn0w/Ag=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.6": {
+      "wheels": {
+        "xia_mail-0.0.6-cp310-none-macosx_11_0_x86_64.whl": [
+          "z2KLhsflmNEalmlDs202IS/QOGTODNGVcJtFssE0eSE=",
+          "cp310"
+        ],
+        "xia_mail-0.0.6-cp310-none-manylinux1_x86_64.whl": [
+          "QhgQJYHdvQtyUMjTa9R6Ym4bBonkipOWZobVnWz5WTI=",
+          "cp310"
+        ],
+        "xia_mail-0.0.6-cp310-none-win_amd64.whl": [
+          "Ohul2ojCfZP6Jkj9qcvUQEHphrc6Agcal0fopTXrZf4=",
+          "cp310"
+        ],
+        "xia_mail-0.0.6-cp39-none-macosx_11_0_x86_64.whl": [
+          "ZGoIblmMzW0zAlBJ0yyNe9TIceA0XUxZnDYbAQKLLHY=",
+          "cp39"
+        ],
+        "xia_mail-0.0.6-cp39-none-manylinux1_x86_64.whl": [
+          "fVLK+kQSXDX+drnJDSBulHt/ZxAiUm54XbwREWWYUlM=",
+          "cp39"
+        ],
+        "xia_mail-0.0.6-cp39-none-win_amd64.whl": [
+          "shqGoYRJmzc5USg/5hb9X2+zyn0dbZhw0LbKwTnQ14g=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.7": {
+      "wheels": {
+        "xia_mail-0.0.7-cp310-none-macosx_11_0_x86_64.whl": [
+          "hOHYhQcUytdC1yXynxKWWuy1bI4xuL04aPCIjWBEXXg=",
+          "cp310"
+        ],
+        "xia_mail-0.0.7-cp310-none-manylinux1_x86_64.whl": [
+          "57uftUNE2wckz+A4/49Hpx3rLWbflUGzYYIf6VRMVBE=",
+          "cp310"
+        ],
+        "xia_mail-0.0.7-cp310-none-win_amd64.whl": [
+          "5jKBrM9CzYktAtDo2vwZFb1jA5JwrUjdtrBhI/P3ACc=",
+          "cp310"
+        ],
+        "xia_mail-0.0.7-cp39-none-macosx_11_0_x86_64.whl": [
+          "rzLk+Zl1zMC04Zh8SqwkvVX7Bcj7zykl2NdG4rCPx4E=",
+          "cp39"
+        ],
+        "xia_mail-0.0.7-cp39-none-manylinux1_x86_64.whl": [
+          "5vzoLf7yGZ6cUxMoz0vpLsIoMzI8XPW0xrzKhIc+7oo=",
+          "cp39"
+        ],
+        "xia_mail-0.0.7-cp39-none-win_amd64.whl": [
+          "9fcAm9WWUtS14bIR5KRrRMKOnO63W+nfpJsGi7WQNYY=",
           "cp39"
         ]
       }

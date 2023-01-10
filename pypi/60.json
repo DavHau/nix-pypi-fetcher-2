@@ -14085,6 +14085,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230110": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20230110-py3-none-macosx_10_11_x86_64.whl": [
+          "Fazxfld43Om6zTdHBXmIuG7LCANCXwB8T/rJOczYf48=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20230110-py3-none-manylinux1_x86_64.whl": [
+          "/2Y2yq+KnvSMyqKUA+8l7zMVc32SMofFYwDwW3lQGkI=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -47191,6 +47203,30 @@
           "py3"
         ]
       }
+    },
+    "1.1956.0": {
+      "sdist": [
+        "LCNezgIH/iBWtfn1KM+HRJMVrs26xKdoaQrWn0aECc0=",
+        "gardener-cicd-libs-1.1956.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1956.0-py3-none-any.whl": [
+          "R0PeNv0Drm8MX7ObLV7r2/3kaBVVqVRYdZA9egGvRtE=",
+          "py3"
+        ]
+      }
+    },
+    "1.1957.0": {
+      "sdist": [
+        "HHBtiMNeiyVZCmxitZgJPj+ZF7QtVcm5KMDGTUL21uc=",
+        "gardener-cicd-libs-1.1957.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1957.0-py3-none-any.whl": [
+          "+zWITYOgx1GOLz41mes4Kz4p33M8tbRW7PlBHWBoxU4=",
+          "py3"
+        ]
+      }
     }
   },
   "gcp-secret-manager-wrapper": {
@@ -79440,6 +79476,14 @@
     }
   },
   "mongo-ninja-python": {
+    "0.0.0.1": {
+      "wheels": {
+        "mongo_ninja_python-0.0.0.1-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "BdJy0MkncJ+3CYKikXCn4MVViNdGPWqZJfyAoalJWnY=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.11.1.0": {
       "wheels": {
         "mongo_ninja_python-1.11.1.0-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
@@ -129764,6 +129808,20 @@
       "wheels": {
         "spacy_streamlit-1.0.4-py3-none-any.whl": [
           "xpIpfPMgmu3IWs5DcJM4jHX7kuCoMatqlo88memgk20=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "spare-scores": {
+    "0.0.1": {
+      "sdist": [
+        "UoXFa+fL28ojZtKLRBEHgJQx2rgRInBKQHvYgXtnp5s=",
+        "spare_scores-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "spare_scores-0.0.1-py3-none-any.whl": [
+          "Gy4rfXmEbdp2vjjPvJ9LmfYQE6pEGL9Alvg0oK8YaKE=",
           "py3"
         ]
       }

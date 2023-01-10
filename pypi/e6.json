@@ -12659,6 +12659,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.46": {
+      "sdist": [
+        "228MfbPQLX4OHZX7PDbwERgYnLq88iAF0EkPU8dee4k=",
+        "botocore-a-la-carte-codeartifact-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.46-py3-none-any.whl": [
+          "Sx/kl6efLlfstnX9i5EnBBzF3e4XAIYi1N36YsRt86M=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -12706,6 +12718,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.45-py3-none-any.whl": [
           "0ZSUp4mg/ctmxbCBX8Tin+TMWUqOZdqSEJJfpZy29W4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.46": {
+      "sdist": [
+        "9geNorb8VMC3LCJOoK0JapKq1YGev2EtakbybcVdP6k=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.46-py3-none-any.whl": [
+          "o/YiIVF9PbdN4fYkMe5DYeqBUv1qZjvprCUJRv7P2gk=",
           "py3"
         ]
       }
@@ -47607,6 +47631,14 @@
       ]
     }
   },
+  "easyrobust": {
+    "0.2.2": {
+      "sdist": [
+        "ffhBQ1rBQ6lT5CcpTo+dAwNeZVhHXfz6j55fAv7vGrY=",
+        "easyrobust-0.2.2.tar.gz"
+      ]
+    }
+  },
   "easysettings": {
     "1.0.0": {
       "sdist": [
@@ -48976,6 +49008,18 @@
       "wheels": {
         "edge_tts-6.0.9-py3-none-any.whl": [
           "ZsqtxGVz81RpGCGkAvifhWHwzSFYBR7GIVTiduBtb60=",
+          "py3"
+        ]
+      }
+    },
+    "6.1.0": {
+      "sdist": [
+        "FvP9tZV5aw5n1g8AcObgs1xJYNGYzPYyF3Cxf2PJYoM=",
+        "edge-tts-6.1.0.tar.gz"
+      ],
+      "wheels": {
+        "edge_tts-6.1.0-py3-none-any.whl": [
+          "LO+7MIyyyoRy8IzLRurPexF00vl+Ie567yk/DXeZoQY=",
           "py3"
         ]
       }
@@ -58943,6 +58987,12 @@
         "kNpZ4l0T4EepPdVhnZHLIthLeokdEGX13J6qoasPSEg=",
         "gnuhealth_caldav-4.0.4.tar.gz"
       ]
+    },
+    "4.0.5": {
+      "sdist": [
+        "+4vR6DbYySMwKRaNXnxD7jnREs8OpSdrGqELIEP3W+w=",
+        "gnuhealth_caldav-4.0.5.tar.gz"
+      ]
     }
   },
   "google-cloud-translate": {
@@ -61866,6 +61916,80 @@
       "wheels": {
         "holger_utils-0.7.9-py3-none-any.whl": [
           "A1DCvBLvSWuSdwUp8V0tiehIn8WRHvSNPqo4NG2Err0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "holtair": {
+    "0.0.1": {
+      "sdist": [
+        "9CStHD9BFO0g4IYg1dx1cIPcjTuCHfFc8F03qs7bZEs=",
+        "holtair-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "holtair-0.0.1-py3-none-any.whl": [
+          "5Dio+esvzEuVczceKmKhWfaXru2GlTwF9mJohHT2eF0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "i30vpXDX2kMmt1u6Q+te1WNpORqjW8sZjNRnh1wOCjY=",
+        "holtair-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "holtair-0.0.2-py3-none-any.whl": [
+          "IZYhMLOmFc0cUNfiQuMR+RCrDY85aqvur5t3HvDEOzg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "taK/yCsuu6onyU7wUZrDQ1dMOhzRAzN3sYM1XpE/H4Y=",
+        "holtair-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "holtair-0.0.3-py3-none-any.whl": [
+          "gmA+XSMW+J8xWhz1pkoPHQm3dVO+ZFhnGYTTbe6zm2k=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "+YGGNjZR3os95vjbnzbC79TP6M5YrWpi1sng1Fkh7uc=",
+        "holtair-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "holtair-1.0.0-py3-none-any.whl": [
+          "ReP/+oaOjpfg8CDMkz6A/N3P0V+0OsTjdgjwR7QC8ok=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "NEcOyYcXMf4drHVfE50WNPsXx49U+DWREmCyOkUzbLo=",
+        "holtair-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "holtair-1.0.1-py3-none-any.whl": [
+          "ot3PwSKqMYM8siSFsSzZMXsvhTLteFLlyxPK1Q/y8dk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "4HtU4YUHC5399MDuErkFqOt/iXlC5cyVH65X35Rk8WY=",
+        "holtair-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "holtair-1.0.2-py3-none-any.whl": [
+          "KFjLf6AF0Aczmec1l0aWMHJx0QLn/1AD3XzLuxLPvrU=",
           "py3"
         ]
       }
@@ -76812,6 +76936,18 @@
       "wheels": {
         "mcap_ros1_support-0.4.0-py3-none-any.whl": [
           "ptxAmCn0Cq/s182KprrfeZ/OFzH0itfo9nNL3mRyFpM=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "AwcZtWDknFX8z7n5EmRPMKgAbTFrbGU8RNN/2pLAUTU=",
+        "mcap-ros1-support-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mcap_ros1_support-0.6.0-py3-none-any.whl": [
+          "Gx37WcRrlDX9epQZ26Cx3NM1Qj+knrG3uYvNz5IBZhI=",
           "py3"
         ]
       }
@@ -127023,6 +127159,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "u/ylTNezb3p3vJphyPj9c3w70hcK+/CSzVqn3fPpASk=",
+        "scDenorm-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "scDenorm-0.0.2-py3-none-any.whl": [
+          "Rx1iyWA18Qe8+mB6NzdQNN0xsWELxwG+XlsQ5e+h99w=",
+          "py3"
+        ]
+      }
     }
   },
   "scikit-guess": {
@@ -141015,6 +141163,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.811": {
+      "sdist": [
+        "lw4wNINTrcIjJSHubSvh8YeozVktsKxZmcvMMBudujI=",
+        "tencentcloud-sdk-python-advisor-3.0.811.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.811-py2.py3-none-any.whl": [
+          "hIz3ypuZoSvejG1BxvqGJEVvBsBl1TP1ZmKZu6Xw7S4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -153328,6 +153488,18 @@
       "wheels": {
         "xj_user-1.2.73-py3-none-any.whl": [
           "pwrgNpldaWNusCOYNpjuD7D+vZWVarrafnXvI7kbk2M=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.74": {
+      "sdist": [
+        "iJXTgpmESU6MGu/6k6ptBGZkUY3hpwt73PAxCXqc9K4=",
+        "xj_user-1.2.74.tar.gz"
+      ],
+      "wheels": {
+        "xj_user-1.2.74-py3-none-any.whl": [
+          "GmM6bPtXzeR7cKvHZM4Xa/P2LwEZCVoXmVLUC5t1ccM=",
           "py3"
         ]
       }

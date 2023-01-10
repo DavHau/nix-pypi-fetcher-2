@@ -15199,6 +15199,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230110": {
+      "sdist": [
+        "o/uBWcYmBSw0t3oLMMj1xgKIgh2lyWXQMkbWy/O0UEw=",
+        "bigdl-dllib-2.2.0b20230110.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20230110-py3-none-macosx_10_11_x86_64.whl": [
+          "w4MJkf/TCj68GvQE8io9xH6qVVKUL8M+qbX9oMY/oPY=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20230110-py3-none-manylinux1_x86_64.whl": [
+          "p8AR65NVLmNDk4rHqnBFGGYk/8RxqI0OinrsvsQqA/s=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -16101,6 +16117,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.46": {
+      "sdist": [
+        "I2RnADsZsPeSyYsfWf8485Boqi8WgQy4TGCu3+uRGLM=",
+        "botocore-a-la-carte-kinesisvideo-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesisvideo-1.29.46-py3-none-any.whl": [
+          "KOSF0S9MtvLu/gSIEtnCRF0dL6nW7qY1G86aQ1LwWgg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rolesanywhere": {
@@ -16148,6 +16176,18 @@
       "wheels": {
         "botocore_a_la_carte_rolesanywhere-1.29.45-py3-none-any.whl": [
           "dEOuLmfC/4HSHn6aq5eXvv/cz5c3RuSa5YTqW8+9z94=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.46": {
+      "sdist": [
+        "C1LOWtybjyYeHOCzJZ1uLcpmRAXCMgVGIjhuDsLx7ig=",
+        "botocore-a-la-carte-rolesanywhere-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rolesanywhere-1.29.46-py3-none-any.whl": [
+          "MOW37qjidAfAuBu8KnaLohGIm+4OEUmaf9GVK4bTDgk=",
           "py3"
         ]
       }
@@ -28966,6 +29006,10 @@
     },
     "0.9.1": {
       "wheels": {
+        "dhn_med_py-0.9.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "KtVMitwlUkjywj8mw35K/9ZVJoJtrdN6x/MWDsoHIzI=",
+          "cp310"
+        ],
         "dhn_med_py-0.9.1-cp310-cp310-macosx_12_0_arm64.whl": [
           "gR3AD+tUbqldRpp3k5Wru57TGtQBPxmirHs8nVRE/mE=",
           "cp310"
@@ -28973,6 +29017,10 @@
         "dhn_med_py-0.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "q/tq26kyteulR2yXWZq4roc4YJskYPj4Y6ApDvCbXpw=",
           "cp310"
+        ],
+        "dhn_med_py-0.9.1-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "ivz5Dveso11aqsK9ErIjwp9ACAINk82/gFzpKKxvIj4=",
+          "cp311"
         ],
         "dhn_med_py-0.9.1-cp311-cp311-macosx_12_0_arm64.whl": [
           "gGywwr7Ov3f3W6LshrXljKl8lT75DkPTOEu70N69YSo=",
@@ -28986,6 +29034,10 @@
           "jnMHr5WmEu87zdXluYFTaw0Udsne2JBTkhulFkS2bCo=",
           "cp36"
         ],
+        "dhn_med_py-0.9.1-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "8jy7gbzgKXQfxr0Xsmc/1WIiA3mx2HLOJ48g9rJfTwc=",
+          "cp37"
+        ],
         "dhn_med_py-0.9.1-cp37-cp37m-macosx_12_0_arm64.whl": [
           "ZkEBabCHe4NyvZm7fBYKbb1NH7hi+4/lUQe8q1+nJCg=",
           "cp37"
@@ -28994,6 +29046,10 @@
           "Qj2ZPPnrmRqtLQvGNgKiRbKA0lTwgmXyQV19soiX7kc=",
           "cp37"
         ],
+        "dhn_med_py-0.9.1-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "Fz9GFHbbZvouv5SR5J1PxO8SbWBCcRCy7fqdX2sKUb8=",
+          "cp38"
+        ],
         "dhn_med_py-0.9.1-cp38-cp38-macosx_12_0_arm64.whl": [
           "koiueAbz4H2lBG3g3Rv8PLuQl/sAN8lGdwtOIkxoqFw=",
           "cp38"
@@ -29001,6 +29057,10 @@
         "dhn_med_py-0.9.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "tVxXo/f4pYhNMkHBBkI1AVUEtqWbDRKO3flwq5mPep4=",
           "cp38"
+        ],
+        "dhn_med_py-0.9.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "t0HYou9wl4BfJbg9+qZrt7fV8i0P7pJMprFgar90SKc=",
+          "cp39"
         ],
         "dhn_med_py-0.9.1-cp39-cp39-macosx_12_0_arm64.whl": [
           "UV6weM/MqQHRMaDlHbxuvu6QwVSAn3Tq61JBb4All4U=",
@@ -44327,6 +44387,32 @@
       ]
     }
   },
+  "geci-pipa": {
+    "0.1.0": {
+      "sdist": [
+        "BqVYJ+a/VdmDKVSbFP5pTBDiMS8lFyFiE9RmVmyAg0U=",
+        "geci_pipa-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "geci_pipa-0.1.0-py3-none-any.whl": [
+          "JyfUE0sGBeTvKPqROouEzmpgaCsF8mrLTpay39F9LL4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "bl36ykr9ZBGQeDyVIVKadhg8EmvXyoVMq0mdvth3LN0=",
+        "geci_pipa-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "geci_pipa-0.1.1-py3-none-any.whl": [
+          "uuvNeRLaWPZ95X8gZYEhQv9M4tSVXghkd8cxeoc5cTs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "genoml2": {
     "1.0.0b10": {
       "sdist": [
@@ -47202,6 +47288,30 @@
         ]
       }
     },
+    "10.0.1.post1": {
+      "wheels": {
+        "htcondor-10.0.1.post1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fTOd6W5pAR8ZUPOWHQEc18uU/am0RzcVaQBLLv0zih4=",
+          "cp310"
+        ],
+        "htcondor-10.0.1.post1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "k5Ngu9PqiquyByq07iPmwqTjuol044218DrsGDdw0t8=",
+          "cp36"
+        ],
+        "htcondor-10.0.1.post1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Bm/qeCMu4X9ZgHrHk4APP665gWYOtXPMFuQF3981j3s=",
+          "cp37"
+        ],
+        "htcondor-10.0.1.post1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iNpNc12j9qhK2zPy19z4Rle8PCqsbL0YmvhD9kHYr0Y=",
+          "cp38"
+        ],
+        "htcondor-10.0.1.post1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qLSZuSTogjZdyKgz03dFXMpYKSwPdJpXe3YLAjGKOMU=",
+          "cp39"
+        ]
+      }
+    },
     "10.1.0": {
       "wheels": {
         "htcondor-10.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -47274,39 +47384,27 @@
         ]
       }
     },
-    "8.8.13": {
+    "10.2.0.post1": {
       "wheels": {
-        "htcondor-8.8.13-cp26-cp26m-manylinux1_x86_64.whl": [
-          "Xu35+efz1xiVTsw829qbYX5g1DkKJ6c8n8RYyj3NBS0=",
-          "cp26"
+        "htcondor-10.2.0.post1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e1gPizu/a2a0StYvHJThidGbA/w8P5gUuGSzic8ttp0=",
+          "cp310"
         ],
-        "htcondor-8.8.13-cp26-cp26mu-manylinux1_x86_64.whl": [
-          "ayQqGtDoBda5mskJTziWzmKMGB+5e9lhBHh4xexU0/k=",
-          "cp26"
-        ],
-        "htcondor-8.8.13-cp27-cp27m-manylinux1_x86_64.whl": [
-          "AZO9wWW+mTahIt/ChGnvrE/4zT6TiFkzO0tnZd2BpPc=",
-          "cp27"
-        ],
-        "htcondor-8.8.13-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "jsqwBTONcWAYsiJ5Omgz+N9TVVFoMoJ/PU+L0e8a6SA=",
-          "cp27"
-        ],
-        "htcondor-8.8.13-cp34-cp34m-manylinux1_x86_64.whl": [
-          "R7EO9XrnzqBgfE5MoIqWXLaf16pDydY539vmXHaN6+k=",
-          "cp34"
-        ],
-        "htcondor-8.8.13-cp35-cp35m-manylinux1_x86_64.whl": [
-          "7BV7geByUXfAPpZQGaSxz7IdZ7k8cgpigopOVmO+r7k=",
-          "cp35"
-        ],
-        "htcondor-8.8.13-cp36-cp36m-manylinux1_x86_64.whl": [
-          "3j5hHJcPTQr2HoJlgZopE51zc6TzbI0qWyA4xLL1oyU=",
+        "htcondor-10.2.0.post1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hYrrkVq+TU9tDo6WVSVyS2n631fOqGy/MyVg6GPuwCs=",
           "cp36"
         ],
-        "htcondor-8.8.13-cp37-cp37m-manylinux1_x86_64.whl": [
-          "U9yR+5h1C4DzXNJm4crLoUfi9+MvoFBSKyiI0sF3Q7E=",
+        "htcondor-10.2.0.post1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0iAstWPkt4RJhVd4lIFEYavAqx5jXZGDynx8RC/67v4=",
           "cp37"
+        ],
+        "htcondor-10.2.0.post1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UlLgT34xD6ubrud1B0FMgZcihEeXg9gbIizfx3GgZ6E=",
+          "cp38"
+        ],
+        "htcondor-10.2.0.post1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fOZNqGdxjxGwPy5bSGWDkg+eR+te/6BhpUBFZsBngtI=",
+          "cp39"
         ]
       }
     },
@@ -86060,6 +86158,66 @@
         ]
       }
     },
+    "0.0.170": {
+      "sdist": [
+        "aG44FdAbVBB9uvTI28tyjUeo6lYkejeXeLuu8/3gjCI=",
+        "pepperize.cdk-github-0.0.170.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.170-py3-none-any.whl": [
+          "EjFc1Mgxb/ni96E+0Trqbxm6CaS41mvtYMZCh1db9gA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.171": {
+      "sdist": [
+        "vQ5bNbyrVHgiAF0eu0q66AGCBJay5KCY444OoMYt+FU=",
+        "pepperize.cdk-github-0.0.171.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.171-py3-none-any.whl": [
+          "LclgGrGHWuQS6pRO8yULqFkeCdMZp3R6kzQjoMt7SHk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.172": {
+      "sdist": [
+        "6zcZ8+Cdrmncp9mGIpvC5G8J8jB0QaS3DM8O2RWWgjw=",
+        "pepperize.cdk-github-0.0.172.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.172-py3-none-any.whl": [
+          "7x6dFeLzDmH7jYbZvRj1SS2y5daLdFiWClFMCwo1wAU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.173": {
+      "sdist": [
+        "wC9aMcIN1Ie1bwR+k3fGY5X67Y0ZxzOyLmLr3iR4DAg=",
+        "pepperize.cdk-github-0.0.173.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.173-py3-none-any.whl": [
+          "iDxuGe/Z/h++CLfDUk121rAJ6nT/TZueeYNjw4JP3rA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.174": {
+      "sdist": [
+        "TR2OmHbX2EAqz89pHafuTsh30eNr8+Sqkh/FiwQhS6I=",
+        "pepperize.cdk-github-0.0.174.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.174-py3-none-any.whl": [
+          "kK6ytisl1JBrqfBGk4CifL4FgGhcMzb6UMmPnh8Zns0=",
+          "py3"
+        ]
+      }
+    },
     "0.0.18": {
       "sdist": [
         "1aymUbAjrLMTleXsxoHNLuycZ5xLvUHqwBEBlXDam94=",
@@ -95400,6 +95558,18 @@
       "wheels": {
         "pybary-0.1.4-py3-none-any.whl": [
           "VhqSbRTqMiHqdiXzCtLKsXJvWGYNs04SpqcQwNkMwjs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "0OCoSU2+Yn/sRil4npxq4T2FPD95P7+BY3gkpADfnBE=",
+        "pybary-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pybary-0.1.5-py3-none-any.whl": [
+          "mO3yo0Sus+QmrBUH8WVXam/uUuiXRj8IY8LWHT+lf0U=",
           "py3"
         ]
       }
@@ -136575,6 +136745,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.811": {
+      "sdist": [
+        "9K+IWXgQV2E/GgiCxS60H0PTQ81L/MTDYRl6OQE5bek=",
+        "tencentcloud-sdk-python-tds-3.0.811.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tds-3.0.811-py2.py3-none-any.whl": [
+          "vKE6zbkD7aomVmwpquwrCrid/JOLAIPrbqR4U2qMxxs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-connector-mq": {
@@ -156321,6 +156503,20 @@
         "GUJsn3LK2guNVE+M6t9ZjpecbH6pt2C4veq2ff/KQFU=",
         "ybc_weather-1.0.8.tar.gz"
       ]
+    }
+  },
+  "yolov8tohf": {
+    "0.0.1": {
+      "sdist": [
+        "d/Hj7LBiBqu1iiqVXWScsiBLYDlADaANudg70CXmPRE=",
+        "yolov8tohf-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "yolov8tohf-0.0.1-py3-none-any.whl": [
+          "jxyNTbpU1pAecD6g3ieppHXObkDQpoFfaO+RPbfNv2A=",
+          "py3"
+        ]
+      }
     }
   },
   "yourmove": {

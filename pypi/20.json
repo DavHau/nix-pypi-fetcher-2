@@ -15335,6 +15335,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.46": {
+      "sdist": [
+        "HZT959pB/dq+SrwDJSv/zq8pCQf6eh8wuYkdIR4yaQI=",
+        "botocore-a-la-carte-dataexchange-1.29.46.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dataexchange-1.29.46-py3-none-any.whl": [
+          "taqVONq/nOOutvWBAsL9W04ptX+sCIVQmCO6IkYfv+I=",
+          "py3"
+        ]
+      }
     }
   },
   "botooskool": {
@@ -38527,6 +38539,18 @@
         "O9cFtniP++EvSzvsAIioWUMZM8nNhyFeDxI0X0Dv8wg=",
         "django-uwsgi-admin-0.1-alpha.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "6pO79LWkwYbOmiCfK0i+vLy1houUnxReOAzUkyTyCiM=",
+        "django-uwsgi-admin-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "django_uwsgi_admin-0.3.0-py3-none-any.whl": [
+          "MjKrQfIzRPvcp/jZMKaaFt9FVsaUiXlfSpWR3TIDmSw=",
+          "py3"
+        ]
+      }
     }
   },
   "django-virtual-models": {
@@ -97654,6 +97678,14 @@
     }
   },
   "odoo13-addon-partner-data-vies-populator": {
+    "13.0.1.0.1": {
+      "wheels": {
+        "odoo13_addon_partner_data_vies_populator-13.0.1.0.1-py3-none-any.whl": [
+          "IsHd0DNw5qem5ZQ1fuetA8OgoFqK1kucSBr6DStR2UY=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.0.1.dev2": {
       "wheels": {
         "odoo13_addon_partner_data_vies_populator-13.0.1.0.1.dev2-py3-none-any.whl": [
@@ -106033,6 +106065,18 @@
           "py3"
         ]
       }
+    },
+    "0.25.5": {
+      "sdist": [
+        "eYrd+YBIWTIYYBZE4hi5NPqyn3927NXJa69SuC12z2U=",
+        "PlexTraktSync-0.25.5.tar.gz"
+      ],
+      "wheels": {
+        "PlexTraktSync-0.25.5-py3-none-any.whl": [
+          "PpQB03klSFKrT5PXAWjqRKrSWfehXGV/iiA/1np0194=",
+          "py3"
+        ]
+      }
     }
   },
   "plonetheme.corporatemale": {
@@ -106796,6 +106840,18 @@
       "wheels": {
         "pmagpy-4.2.108-py3-none-any.whl": [
           "jFN1INopeDwoGNfVlviXfZ5LnONlCthhOLSBLMvfzVM=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.109": {
+      "sdist": [
+        "5m+OJNtJ1gE1rEyT3dZgPoV2WcbhqZUkcrdduo2TAQo=",
+        "pmagpy-4.2.109.tar.gz"
+      ],
+      "wheels": {
+        "pmagpy-4.2.109-py3-none-any.whl": [
+          "FaidI4oL1ji6UaNCRyR24fSs+qeYmFuDi1UUqSXYJck=",
           "py3"
         ]
       }
@@ -128566,6 +128622,18 @@
         ]
       }
     },
+    "0.0.40": {
+      "sdist": [
+        "S8BKMStzkiOKmwuDEFyfYwowETd413liF3sa2k6APAo=",
+        "rcvformats-0.0.40.tar.gz"
+      ],
+      "wheels": {
+        "rcvformats-0.0.40-py3-none-any.whl": [
+          "P46vS8H4rT9TIhvpNM8tC9wmMhVvB95WO3YHzlhJaCI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "JtI8h3MSawP14rjQGUtyDTUF3Ry8goL/XK2ws57SQyY=",
@@ -145192,26 +145260,14 @@
     }
   },
   "swgoh-comlink": {
-    "1.1.6": {
+    "1.7.3.1": {
       "sdist": [
-        "CfUqubd8yr2fLiCNZv90EctLPE6N8+fX8Tyoj5eiLR0=",
-        "swgoh_comlink-1.1.6.tar.gz"
+        "C9c0RCo9kfaH5rvUb+Svp1ng0FAXqnhTv8HspQ1gUFM=",
+        "swgoh_comlink-1.7.3.1.tar.gz"
       ],
       "wheels": {
-        "swgoh_comlink-1.1.6-py3-none-any.whl": [
-          "ar3BZ/dtA7cUECRC23qBM427TYmN189Adg0EVhdFWDw=",
-          "py3"
-        ]
-      }
-    },
-    "1.7.1": {
-      "sdist": [
-        "DB6s2zhcsolJxIISUjT7iP+NcyptTLHL1rEtztWbc+8=",
-        "swgoh_comlink-1.7.1.tar.gz"
-      ],
-      "wheels": {
-        "swgoh_comlink-1.7.1-py3-none-any.whl": [
-          "LcC8Ta1rgH3Y0EqSeMHH7Srgw7qBPUQDJo46PVeVg6g=",
+        "swgoh_comlink-1.7.3.1-py3-none-any.whl": [
+          "q8tUx8g8CL7+SE8RRMeT7SaOYe/XR5biS1iVQkgpwHk=",
           "py3"
         ]
       }

@@ -35559,6 +35559,18 @@
         "V1VVSeYG+kqZJ6eIcfEHiTgmeUYdRUrUbsm7IJ5OG6k=",
         "dumda-3.0.tar.gz"
       ]
+    },
+    "4.0.0": {
+      "sdist": [
+        "l+mPdvUyygNEN/ICMYW9hTUylEY1dr8wMBI1oJ7D+1o=",
+        "dumda-4.0.0.tar.gz"
+      ]
+    },
+    "4.0.1": {
+      "sdist": [
+        "TK+XqX+lJFDc7k+wZAU2wny2lgOvUw4SdZ4mgeNjS+A=",
+        "dumda-4.0.1.tar.gz"
+      ]
     }
   },
   "dummy-py": {
@@ -78931,6 +78943,18 @@
           "py3"
         ]
       }
+    },
+    "1.26.46": {
+      "sdist": [
+        "V0mLbiMzn1FsPSHig0B8tx46iuJc8whWu2Fb87ARSRI=",
+        "mypy-boto3-ram-1.26.46.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ram-1.26.46-py3-none-any.whl": [
+          "igeeLNvDkv0ItZNmXiOT6ifKnRMwEGuVFMT9Lzt9q4g=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-ses": {
@@ -118940,6 +118964,12 @@
         "sagemaker-2.127.0.tar.gz"
       ]
     },
+    "2.128.0": {
+      "sdist": [
+        "Z5Nz7ui3w4tpAqdjZuiwsmV5Ev8DF1AIY+S8oePq0Lo=",
+        "sagemaker-2.128.0.tar.gz"
+      ]
+    },
     "2.13.0": {
       "sdist": [
         "3P2h1EM6R/MzQMJLMzHAe7IqoTeonomlC90y6OB5P0E=",
@@ -140276,6 +140306,30 @@
       "wheels": {
         "ua_node_avail-0.1.6-py3-none-any.whl": [
           "2iaEyRo3ygPBp7Wt/+o3qENy8Rh1C+3WlSEcSmhYcA0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "P6gEb7CtBD+M4sY3iImnEE6rF7AWsr3KOFgdFRk+2Yg=",
+        "ua-node-avail-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "ua_node_avail-0.1.7-py3-none-any.whl": [
+          "IqwIAZEa/QWKKr+S0IL6CWnmUG75Jq0iy8K6MSy96W0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "5/QE7ypUgzSxtRpGXBI5JPKnca3gAYAFUfGclrP7ofU=",
+        "ua-node-avail-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "ua_node_avail-0.1.8-py3-none-any.whl": [
+          "l+jrQFqr98PUjtw4T6RLpdrTPM8fOJamWkT1+qx+9Sc=",
           "py3"
         ]
       }
