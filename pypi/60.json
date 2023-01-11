@@ -14097,6 +14097,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230111": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20230111-py3-none-macosx_10_11_x86_64.whl": [
+          "z6l2l3SuVrrwPL2ZqPZcdx1wN/5kWs6bnBHvBqXvECA=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20230111-py3-none-manylinux1_x86_64.whl": [
+          "xOkKUCWO3zOUt6yvBeemRXsLLMAydANiFIMk12+Q+IQ=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -47236,6 +47248,42 @@
       "wheels": {
         "gardener_cicd_libs-1.1958.0-py3-none-any.whl": [
           "NbxC7un532bZmYXtklF1/6CNR19mzFG8iCaU69l6Psw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1959.0": {
+      "sdist": [
+        "JB4r5qnxWoCl8U5rbDXK+Xh64OAa1Z/XCuKYGaSdVbo=",
+        "gardener-cicd-libs-1.1959.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1959.0-py3-none-any.whl": [
+          "T+sKE8MGOUT9Sh6X8NcFD13HcvShhGAnSbcfD7UXNYU=",
+          "py3"
+        ]
+      }
+    },
+    "1.1960.0": {
+      "sdist": [
+        "+IwebvhpcXIpOQg5FrMRVvkkG8PeQpSAau1/2SqG3Lo=",
+        "gardener-cicd-libs-1.1960.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1960.0-py3-none-any.whl": [
+          "EWafM1CkV2DD3fZ1Mkz/+RL7SLovn3FmZXK2Gwvjz+I=",
+          "py3"
+        ]
+      }
+    },
+    "1.1961.0": {
+      "sdist": [
+        "7NAMbmqHgz4E8PKr/qjZnQx94OZyxKPV+pem6gkROEc=",
+        "gardener-cicd-libs-1.1961.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1961.0-py3-none-any.whl": [
+          "DtquqrqgUuUZymVwGhIKtLZcS2IgjbqIR02a1kBgEW4=",
           "py3"
         ]
       }
@@ -87445,6 +87493,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.5": {
+      "sdist": [
+        "UmoPb33URyQZ/7XI5n1gosVsvph9pfKUvNPaOKCdKiw=",
+        "nvgr-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "nvgr-0.1.5-py3-none-any.whl": [
+          "dzAOiatMh06CgUUukRpWnCNtTMwekGWxkH1ZnJGJQUA=",
+          "py3"
+        ]
+      }
     }
   },
   "nwu-cards-demo": {
@@ -89220,6 +89280,16 @@
       "wheels": {
         "odoo12_addon_stock_picking_quick-12.0.1.0.3.99.dev2-py3-none-any.whl": [
           "O9ashljphBZ0J+xUWUbOL4amSRYojP5brAPm1KP8CT0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-stock-production-lot-traceability-shipment-report": {
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_stock_production_lot_traceability_shipment_report-12.0.1.0.1-py3-none-any.whl": [
+          "9vywJ3B3eYgLSBTpZAk/ltWtSAzV9NHP/CdiKtBe3bg=",
           "py3"
         ]
       }
@@ -145107,6 +145177,18 @@
         "xmldiff-2.4-py2.py3-none-any.whl": [
           "ITwvTDntcYEanO7sHIvfLmc+VScmHqEXCLOs+mwr2wA=",
           "py2.py3"
+        ]
+      }
+    },
+    "2.5": {
+      "sdist": [
+        "bF8wvGXOboHZpwo8sCafe6YYUv1sqnoPv8Dt8zs8txc=",
+        "xmldiff-2.5.tar.gz"
+      ],
+      "wheels": {
+        "xmldiff-2.5-py3-none-any.whl": [
+          "0u7nmS8/cbFXCIskx+cPbnerUPdbDs5x9pONnqJVmnw=",
+          "py3"
         ]
       }
     }

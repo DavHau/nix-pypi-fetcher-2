@@ -4374,6 +4374,18 @@
         ]
       }
     },
+    "1.4.35": {
+      "sdist": [
+        "cDiJFyaUCwWum2EOfIPAMvkGwWlLQaySWF+YXWc5tg0=",
+        "algora-sdk-1.4.35.tar.gz"
+      ],
+      "wheels": {
+        "algora_sdk-1.4.35-py3-none-any.whl": [
+          "M62z+qIn6IvsFlhyvFcI5ZtqEF8gQmlWjn70oghsZZc=",
+          "py3"
+        ]
+      }
+    },
     "1.4.5": {
       "sdist": [
         "PWCi2b1gHDRzSEvL78kcNN8PPQsUtkKMDVWJGag/GqQ=",
@@ -68224,10 +68236,10 @@
         "jampy-6.4.0.tar.gz"
       ]
     },
-    "7.0.1": {
+    "7.0.4": {
       "sdist": [
-        "7uEW9YgbjxxoIJNRMwE/P9LzxRsSKAxUTXiQGyImAcU=",
-        "jampy-7.0.1.tar.gz"
+        "abLovR3dqzA8lDlBuORClh4aqL0/zPmWHSgsD89QMn0=",
+        "jampy-7.0.4.tar.gz"
       ]
     }
   },
@@ -73480,6 +73492,14 @@
       "wheels": {
         "lumigo_opentelemetry-1.0.58-py3-none-any.whl": [
           "sPW6oEeDTJfFA8wDqqekV5eS7SiK1mJYbC24FY32JoA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.59": {
+      "wheels": {
+        "lumigo_opentelemetry-1.0.59-py3-none-any.whl": [
+          "TpjguLV+Zonn/jnsbAA8n5ZNiFbeASISdLQNNGh23QQ=",
           "py3"
         ]
       }
@@ -121603,6 +121623,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "H7Y17ndrP4W8SH86cuNOdPDjLxFxFOf9m9g+pRz3uTM=",
+        "serious-scaffold-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "serious_scaffold-0.0.8-py3-none-any.whl": [
+          "NRwjIS+OUHReefNjk9/hiAp3HaCgCH3fo6GidtbdchI=",
+          "py3"
+        ]
+      }
     }
   },
   "server-d-pnd-123": {
@@ -146116,10 +146148,58 @@
         ]
       }
     },
+    "0.0.17": {
+      "wheels": {
+        "test_tscai_1-0.0.17-py3-none-any.whl": [
+          "kjjPsfOE4Nx7BjKiSxd5E4jLp5Nt5yCMIYFOWBtcxlE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "wheels": {
+        "test_tscai_1-0.0.18-py3-none-any.whl": [
+          "zEaq08yo3GuVmSj1f7FuRPM3ZanXH+yBbjg2DmHA8FY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.19": {
+      "wheels": {
+        "test_tscai_1-0.0.19-py3-none-any.whl": [
+          "M7msGiYasPe4AW9r6LtPOyf4EYIQMnfrMeHm5/4h/qo=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "test_tscai_1-0.0.2-py3-none-any.whl": [
           "VSQhTzvXBQuWU4FDJ3xoG1FLQeSY95YE2QR7Nzf4ksg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "wheels": {
+        "test_tscai_1-0.0.20-py3-none-any.whl": [
+          "h27bdbucC4cebDa6DJr9NeIv6a0G9D04ywsxDf5oWc8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.21": {
+      "wheels": {
+        "test_tscai_1-0.0.21-py3-none-any.whl": [
+          "5wXqSFM/sTKeixeXTXSHj90gUWoBJhxvns+sh1Ujy/E=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.22": {
+      "wheels": {
+        "test_tscai_1-0.0.22-py3-none-any.whl": [
+          "2poBVVXM5xOOuIkZKyxzRVCcW2y14DqlYkCvicOouKU=",
           "py3"
         ]
       }
@@ -156144,6 +156224,18 @@
       "wheels": {
         "wmill_pg-1.59.0-py3-none-any.whl": [
           "2XejmwQCD/7lXUzrizrpJhZmBFRPL3bXNjUJ67S6sgA=",
+          "py3"
+        ]
+      }
+    },
+    "1.60.0": {
+      "sdist": [
+        "DIBVT3xwY32ECkTgHA7sxgcyaJaQKswTxjj7ug10AsU=",
+        "wmill_pg-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "wmill_pg-1.60.0-py3-none-any.whl": [
+          "RFQ/sH714LPoSqvz9xDw7atnZFYDqtnww0AUgsbGlxc=",
           "py3"
         ]
       }

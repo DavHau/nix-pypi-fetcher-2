@@ -28605,6 +28605,24 @@
       }
     }
   },
+  "dbsqlclone": {
+    "0.1": {
+      "wheels": {
+        "dbsqlclone-0.1-py3-none-any.whl": [
+          "z+7YXbIxlr1l5VfJWIHzzvC0IEvBrW/yX4kRkDkSsAY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "dbsqlclone-0.1.1-py3-none-any.whl": [
+          "g0opHi4KL9DABqGU7UjIglPVOrupZa8yfiiSqymWPbE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dcimglib": {
     "0.0.1": {
       "wheels": {
@@ -78311,6 +78329,18 @@
         "7BBgoRm6Pu7rllT8SMO5Bx1iRNhj28txBbdHbv+ch+s=",
         "nesbi-1.0.4.tar.gz"
       ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "lMtII8GlSMJsR/RUJ1TSMyb0DGIl/oGdydVEiGmCKBo=",
+        "nesbi-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "nesbi-1.0.5-py3-none-any.whl": [
+          "QJi2TlYIMJQo2cbfDFdgtcOb8pWz4F/RSYKo+N/70Gc=",
+          "py3"
+        ]
+      }
     }
   },
   "nesteddictionary": {
@@ -95226,6 +95256,12 @@
         "pulumi_command-0.7.1a1672951057.tar.gz"
       ]
     },
+    "0.7.1a1673421495": {
+      "sdist": [
+        "27Ji2vqhfn9aaWiCIsV21VOctvUzvjJZaTVrMZRYdv4=",
+        "pulumi_command-0.7.1a1673421495.tar.gz"
+      ]
+    },
     "4.5.0": {
       "sdist": [
         "FiZR66kh0U6W3MoZTSqEm5gFAmr8NzhdJQ0ZJukx3IU=",
@@ -108998,6 +109034,18 @@
       "wheels": {
         "robocorp_inspector_commons-0.6.5-py3-none-any.whl": [
           "vG/1ps7kacknEGlscJhDTV9bSxYT62+iws7XtHzC/Cs=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.6": {
+      "sdist": [
+        "OLAAIxYuZFe1OoqrhFsvWFhZbFCPEtXZ2hjJHD1M8mw=",
+        "robocorp_inspector_commons-0.6.6.tar.gz"
+      ],
+      "wheels": {
+        "robocorp_inspector_commons-0.6.6-py3-none-any.whl": [
+          "dGdfN4QxjJg8HbkdM13LoBcB8n0/ptt7I3W+4o5u820=",
           "py3"
         ]
       }
@@ -134240,6 +134288,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20230105-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "1CIPk6XLASz3aO6XA0t0s5eerp/1kKR+3uVUNnf3M98=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230111": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20230111-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vDeoHFt+2EVmVVr//EPaYWOFZdWvowAY7WbfWMqGuMU=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230111-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "VtPNJvvXnU5XzMJVxy9V1JZXsNEbEGJoO3nBRyoVyLE=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230111-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xQdn3hSS8W7/kk2eyc1j6VhugYjf+FEvJJP81RtqIR8=",
           "cp39"
         ]
       }

@@ -10043,6 +10043,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "uz2EerL8nPorM7v18QIFlyVmGpJq9uS266ZJLWI70bM=",
+        "bimms-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "bimms-1.0.0-py3-none-any.whl": [
+          "4EbQsaEx4spslZpKyjxui742aG+arlzHbN4GFcGEbKY=",
+          "py3"
+        ]
+      }
     }
   },
   "binomial-marwa5055": {
@@ -42112,6 +42124,12 @@
       "sdist": [
         "hqbOocoIrSNwlSgyI08XR9lHKzeymVYqjrcECOQPgjA=",
         "gcdevproxy-0.1.4.tar.gz"
+      ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "2xL4qiTDjpDEX2B3Rl0XWwyHzxMMoMYge6IuGC6EkZ0=",
+        "gcdevproxy-0.1.5.tar.gz"
       ]
     }
   },
@@ -77607,6 +77625,18 @@
           "py3"
         ]
       }
+    },
+    "5.7.2": {
+      "sdist": [
+        "eWRpKQ5Q4b+cGaVcpPvmYxnZk0nkerlHgCR+3eS9dhg=",
+        "nbformat-5.7.2.tar.gz"
+      ],
+      "wheels": {
+        "nbformat-5.7.2-py3-none-any.whl": [
+          "NjQPpcC7y/P+w0c0FObKfrhy34OoC8EI0oda/Wr5lYY=",
+          "py3"
+        ]
+      }
     }
   },
   "nc-utils": {
@@ -80595,6 +80625,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.3.2.0": {
+      "wheels": {
+        "odoo14_addon_l10n_ro_fiscal_validation-14.0.3.2.0-py3-none-any.whl": [
+          "LTtsQalgZPYyIVA7FQLAXq8t7x4K7TE4d17ZRSpXWOA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-purchase-work-acceptance": {
@@ -83234,6 +83272,18 @@
         ]
       }
     },
+    "1.0.0": {
+      "sdist": [
+        "IifNSGAnU35IDruDEdpF9tqBvWaS2Uheg0qVFM/lqXQ=",
+        "opensearch-reindexer-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-1.0.0-py3-none-any.whl": [
+          "06Qi7GPBxGi8jX5/TgcPnOk6DfX8QZB0k05wKl3nw5w=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0.dev1": {
       "sdist": [
         "hk/P5Rb8zrRCBNOKKaRn2q4kbI6zLCFJXA5NbZ85000=",
@@ -83242,6 +83292,18 @@
       "wheels": {
         "opensearch_reindexer-1.0.0.dev1-py3-none-any.whl": [
           "HKY7Sw39qHA3GnUJ12eKAX6+sNzvscsplHGkSEQ0dec=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.dev2": {
+      "sdist": [
+        "q4tdsypxdtNgeCd6EbBJpcmhu9orJ2AHc62Q7OXlXr4=",
+        "opensearch-reindexer-1.0.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-1.0.0.dev2-py3-none-any.whl": [
+          "Jb7KqbhKW6N3LG59EptwuohPmNUe5mQGb7uUImmTx4k=",
           "py3"
         ]
       }
@@ -90654,6 +90716,20 @@
       "wheels": {
         "ParticleSwarmOptimization-1.0.3-py3-none-any.whl": [
           "luvbV7diKd/NW6uejEGFOYCoL1m/pFdB9HPQUC3Hbes=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "partnr": {
+    "0.0.0": {
+      "sdist": [
+        "1ADGZWhLJaseTl+YN7B8NquZVcliKcBh8QxxOMGK4Ic=",
+        "partnr-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "partnr-0.0.0-py3-none-any.whl": [
+          "dezVa63oUOqRFHiuUulvMJZWk1uLHf8zNi0lYF5ftXs=",
           "py3"
         ]
       }
@@ -137698,6 +137774,30 @@
       "wheels": {
         "tweedekamer-0.0.1b1-py3-none-any.whl": [
           "d1xXHFFUM8ZDLG4zxGdGx3tYuTmWeSEWjMRr2FcH6+A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2b1": {
+      "sdist": [
+        "IbfVCfCzUyqtWf4a0amB6FPwTKlU3GNTCn7NySQFpcU=",
+        "tweedekamer-0.0.2b1.tar.gz"
+      ],
+      "wheels": {
+        "tweedekamer-0.0.2b1-py3-none-any.whl": [
+          "LKlQeUcykW6xQ9O670ljjFLA+4ijHUD5+BLbP16eWxk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3b1": {
+      "sdist": [
+        "x3Rlw3OeZjQVwH3Rpj6i7Zj0H7ATA5E1YShnUQAT16E=",
+        "tweedekamer-0.0.3b1.tar.gz"
+      ],
+      "wheels": {
+        "tweedekamer-0.0.3b1-py3-none-any.whl": [
+          "/mXXaoUfnJJ5AnodzXNtszu6D5bg769bkDTlbDyCwgw=",
           "py3"
         ]
       }

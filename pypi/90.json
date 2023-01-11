@@ -26479,6 +26479,18 @@
           "py3"
         ]
       }
+    },
+    "3.1.4": {
+      "sdist": [
+        "IfmZFIbFiDPrGQOufUI9iPa+5Rv2pjIudVbc6DuJWic=",
+        "cyclonedx_python_lib-3.1.4.tar.gz"
+      ],
+      "wheels": {
+        "cyclonedx_python_lib-3.1.4-py3-none-any.whl": [
+          "xnJKAONZErVW90nx+VwWMY+zRGsyWmpi4MGfa3Xlsgo=",
+          "py3"
+        ]
+      }
     }
   },
   "cyqlone": {
@@ -53158,14 +53170,14 @@
         ]
       }
     },
-    "0.9.12": {
+    "0.9.13": {
       "sdist": [
-        "aZjDksEQ6g4F1joEVc6lq2V7YncC+HPJY4Cv7dK2DKY=",
-        "htag-0.9.12.tar.gz"
+        "mOQkGWU+2aFtwzAb6FXS1DR0mdV7AWWvA3spNK5TGlc=",
+        "htag-0.9.13.tar.gz"
       ],
       "wheels": {
-        "htag-0.9.12-py3-none-any.whl": [
-          "QdrRwEe9KBA9gsoZs9GDsaYzwZ4h+NzfT2dJILVotJ8=",
+        "htag-0.9.13-py3-none-any.whl": [
+          "Ejm/1SvEtBsbVJpgcvWcKF47XjNFHVvtlOz9M6jAbGw=",
           "py3"
         ]
       }
@@ -106514,6 +106526,14 @@
         ]
       }
     },
+    "14.0.1.0.2.dev270": {
+      "wheels": {
+        "odoo14_addon_openupgrade_scripts-14.0.1.0.2.dev270-py3-none-any.whl": [
+          "BRmBR6lS7kLUwdKmdiRjjhM2DXAORjEcCrj8NBWW+Ew=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.2.dev28": {
       "wheels": {
         "odoo14_addon_openupgrade_scripts-14.0.1.0.2.dev28-py3-none-any.whl": [
@@ -117734,6 +117754,12 @@
       "sdist": [
         "UdHuBPliXCegJpunb78Qc9luMQ6C4VRlRfmI+DR34FY=",
         "pulumi_cloudamqp-3.10.0a1668643482.tar.gz"
+      ]
+    },
+    "3.10.0a1673415955": {
+      "sdist": [
+        "q3M/3sdcs/0gteSd0YBzId2cmuu09r0TygfcN/H04MY=",
+        "pulumi_cloudamqp-3.10.0a1673415955.tar.gz"
       ]
     },
     "3.2.0": {
@@ -133945,6 +133971,32 @@
       ]
     }
   },
+  "sa-casbin": {
+    "1.0.0": {
+      "sdist": [
+        "APRKBSzt/816HCGpsTRulwv289Z+RyCExYi+am0Mxy4=",
+        "sa-casbin-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sa_casbin-1.0.0-py3-none-any.whl": [
+          "PQseDcgRJsscr5RXhW93IKJSsjtN6FP7k3lcpG2tUUY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "KHNc03dvGiNBTBcWm3qA1BeHmcUV2FN3zZ2PkLMhGgs=",
+        "sa-casbin-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "sa_casbin-1.1.0-py3-none-any.whl": [
+          "KE4kspTYMJTG1zpw1PIHOXbkw2Nc4K3ucIs3xEZiOTI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "salary-stone": {
     "0.1.0": {
       "sdist": [
@@ -145403,6 +145455,12 @@
         "QHv/2OFwmLjDBD+IiH0HUxjlJpu7vVKKfhg07P+uziE=",
         "testgear-python-commons-2.0.8.tar.gz"
       ]
+    },
+    "2.0.9": {
+      "sdist": [
+        "C12dib5q2Iv+D9CpGlK4GBUCp7ob9uUwg5S4jThmL6c=",
+        "testgear-python-commons-2.0.9.tar.gz"
+      ]
     }
   },
   "testindatadev": {
@@ -153705,6 +153763,30 @@
         "U3EtR6Kii8yn/BnpCc5Hyvy045uqI78WwWVjRqFIDRY=",
         "url-generator-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "lsQSihmELIDBobdsRYWmoXVS/Z9AYfQImCdaJ3UaNxE=",
+        "url-generator-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "url_generator-1.1.0-py3-none-any.whl": [
+          "/PCGJM5LmrnCACocOrWhcwRuHVWxut1R4AWjd3DgSIA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "5VmCN1v2OBROhpHZa8aE8GLWMOKUQtv1hwFRgMcOz5g=",
+        "url-generator-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "url_generator-1.1.1-py3-none-any.whl": [
+          "3xMa1oNUBY+notaC7P0y+xLPutSaebVTZAzXZNWPusc=",
+          "py3"
+        ]
+      }
     }
   },
   "urmila-unsup26": {
@@ -159849,6 +159931,20 @@
         "zohobooks_api-1.4-py2-none-any.whl": [
           "Dg2dul+8Hq1GHm3CxzArVwT+gwqxZ3PMc+Dq3ldoKpc=",
           "py2"
+        ]
+      }
+    }
+  },
+  "zrytestpdf": {
+    "1.0": {
+      "sdist": [
+        "YbV2UEV3XS8TUlx0d+qmUSRBNv0joRCuyxNERJrmkN4=",
+        "zrytestpdf-1.0.tar.gz"
+      ],
+      "wheels": {
+        "zrytestpdf-1.0-py3-none-any.whl": [
+          "/9A1dctKb31xabuBcx22DkaLFUcLPrV2e0QgWQyNjPg=",
+          "py3"
         ]
       }
     }

@@ -15229,6 +15229,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230111": {
+      "sdist": [
+        "/0g4oA0bupHf5DE8GmJLKmy19bUQBlrukjqj+sd2RuY=",
+        "bigdl-dllib-2.2.0b20230111.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20230111-py3-none-macosx_10_11_x86_64.whl": [
+          "/z3JVl2m5KTVc9UHiHRt+XcYbDE0oc8dFxtftP9dzfU=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20230111-py3-none-manylinux1_x86_64.whl": [
+          "VhmMFlOIil0y9HMQ1VCAXbXJr6Cheu1QTLLJ6T+q8FI=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -93207,6 +93223,14 @@
           "py3"
         ]
       }
+    },
+    "0.8.1": {
+      "wheels": {
+        "pulser-0.8.1-py3-none-any.whl": [
+          "QlS7Mo2WyAFwvIl5hF6JUZqZ2ZluTDEmikcBr2BRU/0=",
+          "py3"
+        ]
+      }
     }
   },
   "pulumi-postgresql": {
@@ -93964,6 +93988,12 @@
       "sdist": [
         "WUkYHF6eB1eTh+rEEQHDaQNtGF87oCcBj3zfVPn4JGU=",
         "pulumi_postgresql-3.7.0a1668658332.tar.gz"
+      ]
+    },
+    "3.7.0a1673412518": {
+      "sdist": [
+        "oRobZkYmncQ1gx4HmYM7F4RmASL1gyZwYl7wJXAxYHo=",
+        "pulumi_postgresql-3.7.0a1673412518.tar.gz"
       ]
     }
   },
@@ -156760,6 +156790,18 @@
       "wheels": {
         "yolov8tohf-0.0.1-py3-none-any.whl": [
           "jxyNTbpU1pAecD6g3ieppHXObkDQpoFfaO+RPbfNv2A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "rU7Z4qRTwslblEXhdOJpcF/bRnOFjHljW0ovMuTjIQ0=",
+        "yolov8tohf-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "yolov8tohf-0.0.2-py3-none-any.whl": [
+          "7pn9xlNnp99lBx49nGvAK6l2hiz//T+Hca9NYMN6+X0=",
           "py3"
         ]
       }

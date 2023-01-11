@@ -5436,6 +5436,14 @@
         ]
       }
     },
+    "0.12.dev101": {
+      "wheels": {
+        "apache_tvm-0.12.dev101-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xWQhVAocAhOXvP55v4Q0+obQpNjBhwvJ0/E/186TLog=",
+          "cp310"
+        ]
+      }
+    },
     "0.12.dev27": {
       "wheels": {
         "apache_tvm-0.12.dev27-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -16606,6 +16614,12 @@
       "sdist": [
         "EOj2ErJ7npDZ3+7wW1jMHilhhQ6pIFvbPCcAXqWz6lI=",
         "calibrating-0.6.1.tar.gz"
+      ]
+    },
+    "0.6.2": {
+      "sdist": [
+        "9LXpyotMUu+6njJOb8pJZuLZo1vKEeihJ4y+hkkp5fc=",
+        "calibrating-0.6.2.tar.gz"
       ]
     }
   },
@@ -84158,6 +84172,14 @@
       "wheels": {
         "nucliadb_dataset-1.0.1-py3-none-any.whl": [
           "Fg4/dHQhFbixlIKT+jjsrPz1nNzx9I3OtYIjq5fDlxE=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "wheels": {
+        "nucliadb_dataset-1.1.0-py3-none-any.whl": [
+          "+9PjMPlUPJnFzoo4KlLCKDsk6oqnlnGPV54EuG7n1II=",
           "py3"
         ]
       }

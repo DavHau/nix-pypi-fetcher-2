@@ -28013,42 +28013,6 @@
           "py3"
         ]
       }
-    },
-    "0.8.0": {
-      "sdist": [
-        "N5cFZZBuWxfqZaXFc6czSUgkSdlhEXzx0neSisHOTFU=",
-        "datafet-0.8.0.tar.gz"
-      ],
-      "wheels": {
-        "datafet-0.8.0-py3-none-any.whl": [
-          "dzt7ySDrAHswdDpHER1MOhGWz1kpETwT+Gjn+4RKL98=",
-          "py3"
-        ]
-      }
-    },
-    "0.8.1": {
-      "sdist": [
-        "wtTL1TAtwNTbV3N1FkSWvwAQHT/3EyTi5eeoiF0UkDM=",
-        "datafet-0.8.1.tar.gz"
-      ],
-      "wheels": {
-        "datafet-0.8.1-py3-none-any.whl": [
-          "dM7LAk1kZNYNeTppzLJSIjRXNzVoSD+EkH0kf0vMwns=",
-          "py3"
-        ]
-      }
-    },
-    "0.8.2": {
-      "sdist": [
-        "ShKQcwejXru4+R6KfVxEgRv/COAQtyzoDjQ6YdI7rUU=",
-        "datafet-0.8.2.tar.gz"
-      ],
-      "wheels": {
-        "datafet-0.8.2-py3-none-any.whl": [
-          "uCAYNuvQ+09u2ejoIP0z4fz7SxbxrlkjtQ4okBsDVdo=",
-          "py3"
-        ]
-      }
     }
   },
   "datalake-bundle": {
@@ -36211,6 +36175,20 @@
         "CUkmIDfm/8t/YKKFzKgAzJ2jplBTXG2+f4RfEb14aMI=",
         "dnnmodels-1.0.1.tar.gz"
       ]
+    }
+  },
+  "doc-extractor": {
+    "0.1.0": {
+      "sdist": [
+        "Cjy7k2erXB1LgCD21Z5S3T3lpK6DuDE6i0LiO0tfWFA=",
+        "doc_extractor-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "doc_extractor-0.1.0-py3-none-any.whl": [
+          "Nfwr1YcTI9PXBJHcHDH8n8551tg4wmH0YCYfVRsH28g=",
+          "py3"
+        ]
+      }
     }
   },
   "docopt-dispatch": {
@@ -127191,6 +127169,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "LLJ2wDz26zngeByCgoyE4I4ic58QOyVsU1BHMg2QnZ8=",
+        "simplay_jupyter-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "simplay_jupyter-1.0.1-py3-none-any.whl": [
+          "izgQKAMFYwOFV/+jo2Y1dLwKyu5H0VD3UdqbSP95fW4=",
+          "py3"
+        ]
+      }
     }
   },
   "simpleatemmixer": {
@@ -131869,6 +131859,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.9": {
+      "sdist": [
+        "rY79QWPL4ZBwF8M/PllIAdRqf/C7GiXicXWUJiyP5IU=",
+        "sqs_workers-0.5.9.tar.gz"
+      ],
+      "wheels": {
+        "sqs_workers-0.5.9-py3-none-any.whl": [
+          "pxUje+uQI3lWJZ6vRprVYvJkmOhDJ9fQ/4i1Ur5AQaM=",
+          "py3"
+        ]
+      }
     }
   },
   "squares-rng": {
@@ -132339,6 +132341,44 @@
         "statsmodels_dq-3.0-cp37-cp37m-win_amd64.whl": [
           "egUPmrRzNngi/7OZzDZKt3MA3LjjBLYz3S6gWa62PSg=",
           "cp37"
+        ]
+      }
+    }
+  },
+  "statsu": {
+    "0.0.10": {
+      "sdist": [
+        "xCbbCB1FY6Ql+KgaFK1f2ax74TXnX7qsgj//xT6+lPE=",
+        "statsu-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "statsu-0.0.10-py3-none-any.whl": [
+          "kWYNvnoLRMVZV2hh/FR5aNtSYqpzK7RwaXvOwR0vg5Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "Fv7+rcRg+AXiTM2ee4p8fyImZLetZ+8qmHFPDTViSQE=",
+        "statsu-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "statsu-0.0.11-py3-none-any.whl": [
+          "ZQUSnG9XiAor6F5rPB0LG9PQ4Ra5eDRhMfxtN61SIxw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "vIgtVX+0+Mo+p4JXkP7EiZ0ogHB7tVNI4NkKliezweA=",
+        "statsu-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "statsu-0.0.12-py3-none-any.whl": [
+          "KRkCYz63/oPXkI5ojZ2d6ls9DKbf9YzP/Lqllw9gM5E=",
+          "py3"
         ]
       }
     }
@@ -133714,6 +133754,42 @@
       "wheels": {
         "tableautransformer-0.0.25-py3-none-any.whl": [
           "iCh3FX6RsiavHFulwoVeXmlC9nh7ATD9Zef7zQCw/OQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.26": {
+      "sdist": [
+        "kT3SM+x1cv1zev8VsQBP9k/7l7faoZYTdFnkrnad/0Q=",
+        "tableautransformer-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "tableautransformer-0.0.26-py3-none-any.whl": [
+          "ZPbGzxpLHdhMP1BuxB1JsNURHvsPXI3TTyqTH7n3LSM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "ARPCzkLjtvTxqkPG9GJMbHR7iPbYWmsNbLfqxhk4nbc=",
+        "tableautransformer-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "tableautransformer-0.0.27-py3-none-any.whl": [
+          "5QmhuqZQmN1XUWL4W/jQAkhn2dofzfPkGmxjt1zBvo4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.28": {
+      "sdist": [
+        "PLb7WmehivephBbKU1UMeoRu9tZ3Ebbbb5QtLfSol0w=",
+        "tableautransformer-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "tableautransformer-0.0.28-py3-none-any.whl": [
+          "P9ACg8uunDcOV/nx5+gLpuANGsvkNdTX1QnO/voGTN4=",
           "py3"
         ]
       }
@@ -143956,6 +144032,12 @@
       "sdist": [
         "dNeajcrzo+WzccfCmcaNHIdXRBnclqdPc2Weqi+36tM=",
         "trollimage-1.2.1.tar.gz"
+      ]
+    },
+    "1.20.0": {
+      "sdist": [
+        "s2IQ/PiXGdUQQmD6/8HHqmMqntuJFAPXQ/aQYfzluF4=",
+        "trollimage-1.20.0.tar.gz"
       ]
     },
     "1.3.0": {

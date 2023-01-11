@@ -70089,6 +70089,12 @@
         "qkemHyo5QQEaFnkQIohzVMhs2jKtxZbZYUxIBPiVPcY=",
         "libreflow-2.2.3.tar.gz"
       ]
+    },
+    "2.2.4": {
+      "sdist": [
+        "lixKrEzwbF6qt9pOUZA6ysrLyKM9dxBW08GLjdjLzKs=",
+        "libreflow-2.2.4.tar.gz"
+      ]
     }
   },
   "libs3": {
@@ -101470,6 +101476,14 @@
       "wheels": {
         "odoo14_addon_stock_available_to_promise_release-14.0.1.2.0-py3-none-any.whl": [
           "WCfzZwaH+jMsy/bwFO+RgIMQBQ2K4/HZriGZHxnFqXw=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.3.0": {
+      "wheels": {
+        "odoo14_addon_stock_available_to_promise_release-14.0.1.3.0-py3-none-any.whl": [
+          "R+dMfsAviVJ+idA00dUf5nZVjMlVIrsi2XIbOBlxs7E=",
           "py3"
         ]
       }
@@ -143186,6 +143200,66 @@
     }
   },
   "tract": {
+    "0.19.0": {
+      "wheels": {
+        "tract-0.19.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "KGvWrakU+0KP9ULjrlQ/wlGm2Qa8d/0mruOL3SBEvmA=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "2+IJKAHcXWmuLB/yEbbui6SpUTu1P9kRooAD3A751Qc=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "6G4iywDLqQsEf+vS+l1+3gY+okyqSptVbtHEqEKUiKM=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Vcm9FedWYhNwbTPHbbZPaXCwDwrIeRYNtkDojbC/bAo=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "c31X2Dietg2doKExWFc0xqM6AVjS1JCjYNhLsVHF1zQ=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "rZJyUIs3M2X2gKGb8n3KgGdrAsCLLkDUsuPRyc3Gfgk=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp310-cp310-win_amd64.whl": [
+          "GWgKaP2MmRQ/RhlQrGO+esfiSH5wWK9FOXySF+BA2Zc=",
+          "cp310"
+        ],
+        "tract-0.19.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "kMNIWuHDJA0H/x3tVxz+4JJHW/aIXjLFIICCLgqi6Pg=",
+          "cp311"
+        ],
+        "tract-0.19.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "gszXnKZTmsJy6LKLBcRBKDEJPazXew+GPtvY1MphaPs=",
+          "cp311"
+        ],
+        "tract-0.19.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "+Iq+xUkwjVhJE939ELnrwt9o9P9Ohfeg2wP1cBCCBI0=",
+          "cp311"
+        ],
+        "tract-0.19.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vjxAizYRkvkRDhd1+PfHpGHO1KDvlaE5UiQsz53Di/o=",
+          "cp311"
+        ],
+        "tract-0.19.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "vEXL8EjlgpnXA74QSPiFicqeVR4s/UNM2EanBOtcawc=",
+          "cp311"
+        ],
+        "tract-0.19.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "UikfkeCwhYq5UyQCWHkej/J2lkPONdCg1ZJcRpD+qXM=",
+          "cp311"
+        ],
+        "tract-0.19.0-cp311-cp311-win_amd64.whl": [
+          "e2dr49/vxaaaPNNcVtZDCeUcfAqC9CK3KfrDflJGv6M=",
+          "cp311"
+        ]
+      }
+    },
     "0.19.0.dev0": {
       "sdist": [
         "dQ1WEdLQmDkX0eDBM3RPs3e9Cm6RsEWAYdS7Ap73j24=",

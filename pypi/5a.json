@@ -10833,6 +10833,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230111": {
+      "sdist": [
+        "/lVKbaXAcDSWb9XvW9lmjfJcnYNAXj9UsB9xTiw0+9s=",
+        "bigdl-dllib-spark3-2.2.0b20230111.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20230111-py3-none-macosx_10_11_x86_64.whl": [
+          "ZTSWcQ8MSOq8tza5TBFRsQEETcqH9YyJIRmM7J4FuCc=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20230111-py3-none-manylinux1_x86_64.whl": [
+          "uq7AkpZa7cE5aRkQ8NcXIb77wgq+DUO6j7c4rk16a6w=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -53541,6 +53557,20 @@
       ]
     }
   },
+  "invenio-campusonline": {
+    "0.1.1": {
+      "sdist": [
+        "+0rTXiKB3XE0JkRewNIxR1n0qabNqKz0sdXUgOQk0k4=",
+        "invenio-campusonline-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "invenio_campusonline-0.1.1-py2.py3-none-any.whl": [
+          "z4jhjCScnvyHGajQxhWVG643aetjC7ezfyipkeMBNZc=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "invenio-records-files": {
     "1.0.0": {
       "sdist": [
@@ -54956,6 +54986,66 @@
       "wheels": {
         "iotree-0.1.2-py3-none-any.whl": [
           "yDQDEwU9r3EZ55cnCpuCKRhBmWcb/x3oveIAQdYDBPE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "L59mtshQcrCYFbJvA6AsZM24ERI2z0jH3acKnp1xLds=",
+        "iotree-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.3-py3-none-any.whl": [
+          "u2rP//9UPtssN0tjZJKJbsxRlthVTYk9myTvLAceh6w=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "34PCvs8+Hnh0hNjqgjrfujefbzsKilFSNQBjRKRoRSA=",
+        "iotree-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.4-py3-none-any.whl": [
+          "pkKWprhOjqWYIVHVkr2pDXGgoF3H8mUeKuo+IdWFcjE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "mDrPrv2M/5bV8hNS59KN8+AKC1GVEf3clz0mjxxwLu4=",
+        "iotree-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.5-py3-none-any.whl": [
+          "A+U0evlflhb+Je7GrdRiaTtpSpsnSbjpuZydfMFey/I=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "QbNNZBtoFsIi1jdfZfbRVX5Wxk7pKNyS7X7CGBuyAwE=",
+        "iotree-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.6-py3-none-any.whl": [
+          "19lT+z6OKGy2oVVV0eWHZELucotWJMOFlAJI2W1vd38=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "x+p7+An34a4V4aQWyJkFny/eL4ZcgqFiH3/zRkFtqYA=",
+        "iotree-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.7-py3-none-any.whl": [
+          "fvEgLl59T0FOTd7ktkvaEFChOh5eRtU5J9HbeFilb/k=",
           "py3"
         ]
       }
@@ -108261,6 +108351,12 @@
         "v9B+A5RWotzoAkFKete+1l93bHlnLKox12S5/ILDE+E=",
         "pulumi_consul-3.7.0a1654089228.tar.gz"
       ]
+    },
+    "3.8.0a1673416230": {
+      "sdist": [
+        "5Igp3KinqitZhH+hGpHgnIERg4MAj4cbbTlNXrESZEM=",
+        "pulumi_consul-3.8.0a1673416230.tar.gz"
+      ]
     }
   },
   "pure-interface": {
@@ -131763,6 +131859,26 @@
       ]
     }
   },
+  "selcol": {
+    "0.0.3": {
+      "sdist": [
+        "bNKfQ/KWPG2tH70LzeC0zTVfutdmoe2KsfOt+F7/Odo=",
+        "selcol-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.3.1": {
+      "sdist": [
+        "UKKAt5/ry46GGXHKtPPRjPEa+JdbDfjDVRiQryEJkF8=",
+        "selcol-0.0.3.1.tar.gz"
+      ]
+    },
+    "0.0.3.2": {
+      "sdist": [
+        "PgtUaWbaoMfE55pieEUfSSuerW3+yI0gpUBhwehqdBA=",
+        "selcol-0.0.3.2.tar.gz"
+      ]
+    }
+  },
   "semantic3": {
     "1.0.2": {
       "sdist": [
@@ -139534,6 +139650,18 @@
         ]
       }
     },
+    "0.0.58": {
+      "sdist": [
+        "aWnLp8JaHqcEvD2WDOEu/+bZrfmAFP0DQCN12AUKhuA=",
+        "syngen-0.0.58.tar.gz"
+      ],
+      "wheels": {
+        "syngen-0.0.58-py3-none-any.whl": [
+          "3Sse2VhTI+qU26NBaw0c/YWdmBP7+V/miilmLOLQFQk=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "rKKLwElfi+1TJS0S+GKYrz/iVHry2TmTRX/90mtJoQo=",
@@ -143912,6 +144040,18 @@
       "wheels": {
         "threedigrid-1.2.5-py2.py3-none-any.whl": [
           "diHNc2O9ciZCSjQK8SNHSZe71WOSdC62O/K4W/ZoKkw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "89UhQrShMDDVm4um0bAV/WLkb/clBzkxY0TOQKs4+6M=",
+        "threedigrid-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "threedigrid-2.0.0-py2.py3-none-any.whl": [
+          "HcAvtUkd7zI1ToNmK0Vh6hEkObr2zG+pXpxlUGwRvQo=",
           "py2.py3"
         ]
       }

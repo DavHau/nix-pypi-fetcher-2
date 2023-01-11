@@ -2921,6 +2921,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "5jN8AzGQmKVzSXR8PytPGwfqY2fQXREB0fUFkV77Cyg=",
+        "alibabacloud_rocketmq20220801-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_rocketmq20220801-1.0.3-py3-none-any.whl": [
+          "AQaP5E2baUFTetrznrzvffnUp5G6UEADEhR9zXahKho=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-smartag20180313": {
@@ -24537,6 +24549,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "84z7+znmrRdBKdyfjSBTYuD/efromcSFoQVkycQBLpk=",
+        "cron_times-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "cron_times-0.2.1-py3-none-any.whl": [
+          "wbbxpK/TEm1EevKQmh+MV2CIxO/sfhPZX/hymZAC7sw=",
+          "py3"
+        ]
+      }
     }
   },
   "crunchdao": {
@@ -41633,6 +41657,18 @@
           "py3"
         ]
       }
+    },
+    "2.6.2": {
+      "sdist": [
+        "4xbWIPmKvHSxUKphSzi8YMBW1cvBvoWntmyaTNX5nc8=",
+        "fastapi_sqla-2.6.2.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_sqla-2.6.2-py3-none-any.whl": [
+          "hjCJbGa1Dbta26QlHwQaowvmAjV1x/oKe3Acx7xZtWg=",
+          "py3"
+        ]
+      }
     }
   },
   "fastapp": {
@@ -49176,850 +49212,6 @@
         ],
         "graphscope_client-0.18.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "D/dJEn7mx6NixLBCRhZmD4rAZbMVx562+545ArWjYZ8=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221116": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221116-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "WFqaMSrLk0qFGkxZKEPC8yiKJFAKz2hGDQ9dqdOU09g=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221116-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "dr4hbStdFiJcNFMkXUKzJ5UP0z+1pbGkNJTxqXnAJlc=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221116-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "wUGVWVOX++sBvlMvF9yR7quh16jTyOspfX0uppFOFK0=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221116-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "B4hFc09tqxZ+9Xw+PA1ALqMrVFmbfVODqBH+BIpYaZ0=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221116-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "K1cEfWwQOPUXg8lvesldAS78+kwpDno0SVxNncZKgaY=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221116-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "8GLjsGXbkDpcMoQoQNolRwcTtDDUU+3TwKxC1n4gUH4=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221117": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221117-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "4F9rdXN3wEG1kPH/XVhuBdrQuYdlGobKVUqMs2VHg50=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221117-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "o2WFOuCvbqbiUIEElWuGsK6f4AH+SoU60WvSdvkRvNY=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221117-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "SR44BKDD1Trubu2YubdbNNMh6DlrF2QBOxkl2+C01Rs=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221117-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "BgSNcp/xtvrvJN1UMtmGUZtxPKhQ3qKmqUQrwKFRhts=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221117-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "TQhCIzmN3MuHDTRquNrjFNCdOuOkT2nEz0D7yp1Ars0=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221117-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "c2ZQ8M60oovWLbyUvg6HLAFt1DHFwZHVFGQAAiiUZP8=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221118": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221118-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "j4I0EQncxqKecw4B2kQJCwBGDPn61pv6i+NwNhKOPts=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221118-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "wkdkEhCbRtx0tyIgIkMo1nQ1qoc7U6gIRUz7yHZmC4E=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221118-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CepnxCnfwBEjI/v8babfEuUu8iJ0BFpJtXFnkJwfo4g=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221130": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221130-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "mg5I2tYWiRjXK9qR30RoFMpn2yZcXOA6qrfdPsU1dhc=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221130-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "JiCPxKp0Sud8ZcUUSy20B0TxpuA6HHE0r7kr4Z4Fx1s=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221130-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "JuzbHSr/zGcuYze+Oy2zHdHkwiIhuPzG9RR9LePIm8M=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221130-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "yL/C8lUK9J9XTeeyKmPfD1lRlu/pcYGr92PjAkKyJqM=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221130-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "af655B21/yjjZsoBizmsEIegxGvBdU4VpDO/N1xfvf0=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221130-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "9d+DgrssHl07h4PHyDu98+SPDrEAqLLMtTX/arhV7XU=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221201": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221201-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "RoO4XoU5FazpLxSz3GVuxXRsTIBu8VIQNl5KI7Duy6c=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221201-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Ox9qLDQb5cBcvc3dRI/7HtmDIi2DSqwSdlilPKgY74s=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221201-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "n71keear9ZOSfmn7GVU8odCJqArTjfInyyF1tTJ7xUQ=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221201-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "mw8WxA1yBs2IB9E+VC5bFW7ODKIZwA16XiuXfQrUXs8=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221201-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "SRdN+4dVf34DXcwveC2OyfmW394pbarrASeZWjP9j/s=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221201-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ejyUcFtr5k0OYtFSYoxZjDzxhLNnjG6QpGyvXmSHJMs=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221202": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221202-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "9oySdm0FkpvacjsHs4k6zHcAKTO3GsIa8NK/RKJTbgM=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221202-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "l857r7HfhQYLD+EBUFgFQ2LNK01l10vT3KqV1Tdg70s=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221202-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "5av2ZrykRIxy+a+c26hxyFAax57D2PZcr9GsZ+wbr2Y=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221202-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CKTLB3mJAvppDOE0Hah6S8WR4hQTQHhPfMzd5W9y+Nc=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221202-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "nSxTsY+xT5dRh14QnaQkXyo0xy0jpIznopAJS2uCJ2U=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221202-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "PMfBA8Ashucendu5oOvDot5K7o8JTBEvRDLb0h0dl+0=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221203": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221203-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "Tc3iyrMj8sbT4EslczO1tbQ2V0Yc0/K4896c95rnAqQ=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221203-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "KPjdb/HyjVZa+C9qGQP7oGJzkXvUp9kEccKf5ZdImyU=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221203-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "u0s3v5CdbK8aRGZpAquRTgp8XyrMOkGDHTdahvCZphM=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221203-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "t+mp67IlNSE6NtUBbe9zmgxSrKI9IrDYul7puQjp66w=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221203-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "lflwHslWW4xBjzkDn7+Cgm2dc8Tak/ipedzcZUIZhFs=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221203-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "tApcr7sEOQX6X/baBi/uE5iNB/WWb1cruvPPbrnXsTw=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221204": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221204-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "SKow5L8krfZ1ovaijnAEn5liijmnfCHziT7AKrVzoPk=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221204-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "MVfVLhOfaagVodndR4gB23AhJEyT4jOZ2ua9y5QNWgQ=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221204-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "hS3nxDrkMjbNSYtVEXqMlVuoK8PZ8SSESiZuDNM4gbg=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221204-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "yjnaGzKhu86nBEwoMPPMwRJubmv2hcEmKBA2M2/T3dQ=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221204-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "g6llRAMXRnSI5tlkwZIb8pAZLCfA9RTTbvlL33cKcNQ=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221204-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "1vjqJo6/EbxHd7RjojoQMBmDcXJSNynkb7wTHp0xqhw=",
-          "cp39"
-        ]
-      }
-    },
-    "0.18.0a20221205": {
-      "wheels": {
-        "graphscope_client-0.18.0a20221205-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "hdtpMwfTbV3gv/NrQQWfbUrx2XDZJf+vENFOS01yFr0=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221205-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "KsTO1XKoDORQLJ/wCYZMXyMxq+oYEy0JV9hfarvpE/s=",
-          "cp37"
-        ],
-        "graphscope_client-0.18.0a20221205-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "TmE5e28VCsMYmnlbhfXVHQzvsIZlTd2Hxiw3KVbB4AY=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221205-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "RMWWrXHClulSkt2M0YKvyEMxqkYR1kuLJgXWPZ/tZMM=",
-          "cp38"
-        ],
-        "graphscope_client-0.18.0a20221205-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "pIS3vf9tIl6tqGdachJO+21sT3M6orPD8ytclyA/6t4=",
-          "cp39"
-        ],
-        "graphscope_client-0.18.0a20221205-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "pqMD9hhjIG/OyxeTwTGnUZl+8uYQ7Do3bUCdmX/nMno=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221206": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221206-1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "hRXM8ZGvVW0bJfT336NJOkLfOOTNufocKvgKxqTXcpQ=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221206-1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "fBcGCszLVn8XAsqrXAjupV4HkUppsVaEp5Jst5HG1CE=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221206-1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "zq6EzdI+VQCP7LIy/qKLRBFeRfS66J7oJCLE5/0y2Lg=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221206-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "lp0Bj4SElEMHrpLwntw8DjXtjeBYFIFXTJkEAc+8YJ8=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221206-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "tqzaobFtPArnlYKMecHrmNEHgBOMbc0e7qmEDoUeTNo=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221206-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "L1XDs8XVuDcSgNzuTSw2p/LGCMUfzbQNi2Cqw95Nzcg=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221207": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221207-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "Mh+4xXCXSCPGvhHtwQrE0KcQSfLW2aVLIdYTl/TXJ3E=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221207-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "N9cdr2l98DJIN92r116kIwgcCRGnlYiLphJcxsQHRpc=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221207-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "af3RieOEGXlgPXtX1B1xmQRQI+6FWeJxu+4gOURTm3w=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221207-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "LtC5Xj4whePmNQOks7ONM4DSf+oDEQWLEgGIdHeqGcs=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221207-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "JTLnHwFzRqNkSHH35UhN6DTgEVmM7GQ1gJ7RQ0dMrus=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221207-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "uEyp1eGg1OFI+yWPlrtxCvWXwdGPc7YNbFh9AbzWnUY=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221208": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221208-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "S+8UpV3rVK33Aq5Dzv4f87nqm+823ONm4gmV8xKLxvE=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221208-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "FPwzf2zKFKN0MJHX9cSC9y0H8sniaNmtPosDF74gqSo=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221208-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "JGzr6hCgTYI+jx1eRcGWWSjYzd3qn6AXaE6zcRhRuhw=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221208-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "8PFbq8ALQdeCdiRc03Cb3KYuZ/y0j1J8VKQj/kg5v1c=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221208-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "C/7fKP24X2Zc6chh/h/aXuPBV85CMSc3j1Kgvxb8CRQ=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221208-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Xh/kQ3J03I4n0Df7LjdfvvtjBhThFf0cBT4wHmeFdCc=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221209": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221209-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "HQYsaJPmbLX1i0MVZ7VpKYOb6E6Iw/oFBPTC+gQtKB0=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221209-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "RFxz9pGtU/uAQpVcYhVyv8gSP+2QSNCEMaTe7rZp6wM=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221209-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "Yd86Dka6+836Hr9vfTMX1tN14Yu84NAHGu+B9o2fOQg=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221209-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "gvx3cYqYvnUYJkrYlrNmMQUZ9GM365RHPEApWLfRdMI=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221209-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "3EXvZSWDt7RcUhuETeA7CT3R/G3T+dKecCa5obbjVXo=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221209-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "bcI9BxZkP4zj1NVMx6gfKc+qjlOa/To0hVj+zuDwMZA=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221210": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221210-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "C2t7+KvOIm9VtM6BpU0TwZdaIfYNV5lxRhcPiDJnxA0=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221210-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "HFYpL1jre06/RN/1Qe/nchDbH8/PxjxnK73lNI1E/F0=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221210-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "qtZnJ1etGQQvwRedKTK/MHWNZfnZRDS0eyr22ijHYPw=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221210-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "wcHcujSKr/p+LhgoRY9GlRLH/UX4RgC+AB1N1Dw8djA=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221210-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "/2GAU4/Ifmq+02ZfjCNrlPs9w12OFPY5NS8+BeHM+wQ=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221210-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "VvDluepzY1LzZ+mB/PMVWAfP/jp9j7UwOpHczrT8E8Y=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221211": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221211-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "BRJMrL/BDI7HrQWK5+ZpYgK6d8vYZrtASyn6SUr8wFc=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221211-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "cnIcwInVQxmkjFvMP9i2FEdhd6MkqBwTYOi/m7DkDMw=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221211-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "aUyIscrod0ujOan7T+H+4KqQji6ji0RK7a3EptCSmhk=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221211-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "TfTFB7Om8Bkn3JFIlGtkof22fzYiHt242DDhnR313cM=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221211-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "sU0xPvoLzVlsvkkm5pfl2/xcsm50hND1Vj5E99xs5hk=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221211-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "3NEglLBDFEf2rc3J2kF+Q6Ay2E/zXNtN5DDtJ7gwzWI=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221212": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221212-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "7lt+XUYU6/OKLnzSpAeCX09L27Jll3YfZPT4imt5w3k=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221212-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "GY4FCJyYC8kfe0CpUokMnPJKOxFwxNV2L732srfxloE=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221212-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "dxfQWwSSbgTRBPa/rDlWQQYlgZp1YI+QB1vpbJd50DI=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221212-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "MH6uUoN/SM5CkyGZgekXx6T78pr1AHTvroYeV3pDuYY=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221212-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "gALvm8mUL/5jKFNDI1gLxM1oabSntJGSADRtz4uBYdQ=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221212-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "2WXa+Ga4sKZZIPIxowvWg/y47ZELTccId2REEtWNpaI=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221213": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221213-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "acjJOGBKRhHmkGEVg/LmwhT8O5BDc4oCbT1xhHT/PZM=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221213-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "rlTvSezEdhd1g/bKqQ1mWvcs7OgE05viU/oc6BmzFzA=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221213-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "+dDaoc4M3eeTMqnqYj/cif73jsYTG8rkgnriKBsz9+0=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221213-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "f181T1gMhtHkzvx6vDBqlJgcvvMCqyxXlhb5j/7PDMw=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221213-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "owYSJd/iBisGuN43m3uXaWQQcydtQDzoqBIjxYvTUOE=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221213-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "03rm2s6STPXa1vpbKRfMd9i+U1JCz19BKl+nFDhr5kg=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221214": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221214-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "cWp45FpemwI8XAkh8VhAHQBjiTPUSwCHwOyvN6SJ9vM=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221214-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "x4dd8VL4dnTQAchTNFa+NXu0+o1wp9CaCib/SyrjQ6w=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221214-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "5C/3Nv9vcrqAwFRvO6SZRjb7S8gUk0BawN1NoNPt5Ic=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221214-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Za/PeulqmxChgQdr7/7QrFyZgTbwyB7nR2GteKk5llk=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221214-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "dHJezGxEvMWndD8P5pNl0gyRz69NPjnNqVyM8B43Lcw=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221214-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ydXoGQxtJf5pLsuv0COfA7450A2wIpXkpGGAE9mrb1g=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221215": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221215-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "bdOCLsupn6G2+p5Zbl2+wEqPF5kbj5Si2LhLIy1BgCA=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221215-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "YJ0+ds7lXGoyMuhMKDTjPxJjtXUK6i/VTln//U25sjY=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221215-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "Htzbwq0hJr/+V0rpsdOmxjLRpVOYVYEUupqnNH5y1vQ=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221215-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ytqjQD02OJDC0rhSV9sdf84mPFxdzYsZp3M4EyfYkT4=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221215-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "WotX3T2kkVugke/RBAKQfjiRVWVNVeDiXV+xFHArQaQ=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221215-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "2R/+MsYmehm3kCTICntkmz1oX85f7l5KHo/TRNknih0=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221216": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221216-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "zsVcjTGCCo85bWw8lxedOzjwzbwO4V0TcKuY4BB0ubA=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221216-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "A/EBcpce5XV/u7q6uMp89nvvTLno2HTwJ4V0nRY6wzU=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221216-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "r765oF+Ut/0s9sMO5fWXaHp6cGzOokMUtjaLPVcvSZw=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221216-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "+bqF8lB3OlTJyBi+8cCvK0U4j7NxoJnu1Teyua+8wek=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221216-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "TtIEreuvCDzXELVB2cSvzRObXlRkQyGHpP1zSc+wnGc=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221216-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "h3h5VpaWn8MR4V0CKAoMJUsDLmF+BkNzQbdljc2NM+8=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221217": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221217-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "ii0LJWWGbLxIUgI5vKRQsMu+0c1p00xX+96kwwF7Lp8=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221217-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "DJJPVlR5nW2Ek45bpq+8L8O5lZcA03P4lNUQ/uuAqjs=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221217-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "j8zlpD03ZVBsOyLPdyzEhuXdK81crA6T3fHiwZWkSAw=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221217-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "BaMgGthHOovHw7xiachLefK3GnnOdVKM44xD17rTlQ8=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221217-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "N45eFz4TDw5riXcvKUIFmXYTf5x8XLaEItdZI4qkL0M=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221217-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "06Wf+Ii3LZyI370fmHrsoVH1G1f+kw5cvFT6tcuPNIQ=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221218": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221218-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "P6saEygaorjc1QvKBZ1M9BlDfYNNfXTRxnWH2DAdzys=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221218-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "dYYhhV8L3x+G7cOuFcMQpdxzPi0vTOamDPdlgKQJsAk=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221218-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "1FJlrIgNlwOtrX2zYxtaswbisRN7Uz6M9feNvOKWFVQ=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221218-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "aq3Y6iLDayVjLNMqyrt9YjNUBuzOs+J776w+t6nxo3Q=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221218-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "6NSKyhWhknciLvNpL+RBovJvJL47V0URXrUp+rAXLmk=",
-          "cp39"
-        ],
-        "graphscope_client-0.19.0a20221218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "aYaIR6LB7+bKtHl20uYVbyjzFohIZLL3geYxkc8acEY=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221219": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221219-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "yTNLMUNITzX/Zt0MBRo1r6seMJMTAWtIq5U56milrDM=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221219-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "SbHujKKy1pW6XNJHEh8C+rSakvNJzGzLcejY6RY1K+8=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221219-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "8EZa2B1UXTyTMlaUfBD7eZEA0pkz+p9JXd8n/K3jIaA=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221220": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221220-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "jHkejTp5e3Tx0dC3Nj8A8SE09Nspf9774PbQ8cqEMo4=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221220-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "IQyLrX/JGzjacZVFWOS/fPT+c1QEv/xI+m9XFWl5Jmk=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221220-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "EM2N8IaIk4UtHYyhHY7CYUnMjdnDWKuVxu/WezHv61Y=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221221": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221221-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Eq+TS30vuyRncxmr9oOWf8LWs07UIt4i9PTzQVHIwXY=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221221-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CWK6kZmkvQQ2pl/jwPPySlnzoqr6Qci5uQ3u2Lx6cd4=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221221-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "N7kOs6/nboFFmEq1av7TvifEl8CAl7Ah2uO2DkzSauQ=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221222": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221222-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "jsxbsKR5LEXbj27u+HL1+VV34goOPwkl/UZP1qUoIA8=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221222-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "N0yNpiJTMu0ZEwUlqHlwL7DXsKau0Ne0afHsDw7Ldhc=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221222-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "bJJeRYstdVf34o8tXUl840Oqk81cHlhYKloWlo2ezxM=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221223": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221223-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "mgCmzJdKow3bG8UoygGdW5r46kAhswu6HANSoxjUc8s=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221223-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "qKjzICyD9kuA21nbSmBcniIiIWPsSo0/f5u+tsKrleM=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221223-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ajRfVOTtzc5V6eFFWuuyDGnTjDoky0CxOBHVrMilPEY=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221224": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221224-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "cMJlrGKvwdBlK6BrTpe83DgXuFPZ4g79VMniGKofwVI=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221224-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "emZmV2p31RhkZjodqf0OxOFkFk0rLY7vni1lk3D5OXw=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221224-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "PSyXwLPGkOow2sHFoSzKujpEzGdDq3sEZAaH3D/Ix/0=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221225": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221225-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "+YBnwXMU86bACwol7Tv4Ekt8RP0zW1CFwdSBZOyhPvk=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221225-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CnZAMstYMWSn3RHnD72/ZfXidOCpkSKWtcUQwB4L0as=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221225-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "lbOHv0onKQxGDYABCDHPxUSRhzHn4tBGETbGPtrKbQE=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221226": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221226-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "wH2MD8bs/ZGyFJ7e1Zk1h8lza/ddZ2ISoSs+ZtOqzyU=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221226-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ZTQiaT8c/l8AR6tN5P6yd9Sd1l/jL2ZNn404qWebQqg=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221226-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "5x2r3moEhNaDsMxviKR9crc4IMWV4L4A17AOFZcy6JA=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221227": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221227-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "onNsmUp52k+z40ix8XcW7DEoHSKVXM/XbPeSFebQUYM=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221227-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "fMjTu11lEL4f8qNZIWpPmMBtoFrFDzsmi8JQpGGAhbk=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221227-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "7yor4btf0UnfqcYpAumtB6PHZTP2Fp3bx8BYvJVoKCw=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221228": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221228-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "8DxMxEbMSPKMG9SNpYNNb27kLqW0C7EpbNG+HdWYtBQ=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221228-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "COBce9bAy0A/zWMyohWqUT6ou+IhvqXKWdO10LqFFhQ=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221228-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "0+5y/Lav7Oh4o+tUL0S0r04T1EPmJN4xUA0G70LYWVM=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221230": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221230-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "8f5M/f7DzNVPHTJ+tdMwWKFKiCBrDE6BZC6hNnvVus8=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221230-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "EfFTYaMFCSHTfXwVpx7yPxxLx3birO7hcmiMMnZPm1w=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221230-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "jsxcD9ROhsy6M1Ln1IiyY2ELNk34j8ezhzHLKpNd13Y=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20221231": {
-      "wheels": {
-        "graphscope_client-0.19.0a20221231-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "DgZyxPhGqVmPyeEWDyHuZfAaessSolwRMQnPi2mXMos=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20221231-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "LwVYjQbHCUNWmkmNdlvnk9yLNwIPV5HZNKsZDcnr9NM=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20221231-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "+MY++pvv347tZfeMyiDcsYxuESio6rmjMk9Pvq1JZdw=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20230101": {
-      "wheels": {
-        "graphscope_client-0.19.0a20230101-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Jhbug66uYgR0GBriiG3Lh4svVuZtvYOUxc8KIHIrxeQ=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20230101-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "P7KP8uuswdqpAq+MMBjudiYpUmIGBj63JconUnfTjHo=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20230101-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "008GuWIPZ06amcAdvtNGWuR5ienmQhIfsLFMe4f93x4=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20230102": {
-      "wheels": {
-        "graphscope_client-0.19.0a20230102-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "eLt2YnEz0sEAGDICAvjgoPZ51eU5ZemEkctTXSxpWMA=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20230102-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ZrVRjWJ4ugQvqmZCLPHCh6pJun4fxGeJC5rtzIFYo3g=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20230102-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "A4RrLPGxYQIquHzANddAGKWLfZxnZgY1Z/or3mWpi/E=",
-          "cp39"
-        ]
-      }
-    },
-    "0.19.0a20230103": {
-      "wheels": {
-        "graphscope_client-0.19.0a20230103-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "sB/X15w6K0sJhOoS0nJuQuoK4FTBd3qQhndUMnIXK5Y=",
-          "cp37"
-        ],
-        "graphscope_client-0.19.0a20230103-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "nHk5L28av12wamiQ1iijyPWrlLGqWXRQu1dKJYsSSTQ=",
-          "cp38"
-        ],
-        "graphscope_client-0.19.0a20230103-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "TPht3PnAlG6Uh9VV98HpUzUXPnJZzqp+lhreb/31N6c=",
           "cp39"
         ]
       }
@@ -101481,6 +100673,18 @@
         "/KeTZABPlhwLRgSrUJk4E6aXhzSFuIEgbjlwO8v0P8k=",
         "pyAMOSA-1.1.1.tar.gz"
       ]
+    },
+    "1.1.4": {
+      "sdist": [
+        "xEIgNe4ZEUcHvJVxjawuj6VorBlb64yd/0E0U5dT1AY=",
+        "pyAMOSA-1.1.4.tar.gz"
+      ]
+    },
+    "1.1.5": {
+      "sdist": [
+        "omNMdkEwuCboKk0FTud1aNV/6UpTTbTM1uifPbmlc/U=",
+        "pyAMOSA-1.1.5.tar.gz"
+      ]
     }
   },
   "pyannotators-stefan": {
@@ -136520,6 +135724,14 @@
       "wheels": {
         "tb_nightly-2.12.0a20230110-py3-none-any.whl": [
           "xACdF3DURmXmzSAZONV2d8GJdcXJc8HbLv+7H1Qu8eE=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.0a20230111": {
+      "wheels": {
+        "tb_nightly-2.12.0a20230111-py3-none-any.whl": [
+          "OkOmp01tfgv7HCL1N+iuQBwJaEeBz4nP6kIzUkj/LCA=",
           "py3"
         ]
       }

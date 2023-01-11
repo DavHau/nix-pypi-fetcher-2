@@ -56470,6 +56470,18 @@
         ]
       }
     },
+    "0.19.2": {
+      "sdist": [
+        "VtBEmoDx50WPjULFQeuT2ome46x2hpp1Bf3TUjN5dOU=",
+        "geemap-0.19.2.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.19.2-py2.py3-none-any.whl": [
+          "Saev+uRRDDyGua0QFOPapabex5kw/wF03KOSBLaCKt0=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "8Xj0YhN6K454faFGpTL6+J0/bOFuF9FNR9QvKwhyyr8=",
@@ -78075,6 +78087,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a5": {
+      "sdist": [
+        "vHE3utYmUkfz91BhxyZgoJe4GeK0sseI4sxYpmeU44A=",
+        "msgraph-beta-sdk-1.0.0a5.tar.gz"
+      ],
+      "wheels": {
+        "msgraph_beta_sdk-1.0.0a5-py3-none-any.whl": [
+          "YdMGQdI2ztHVb8DiJBDYM8kwwITDt83BjAy51XUTm2M=",
+          "py3"
+        ]
+      }
     }
   },
   "mssibyl": {
@@ -93819,6 +93843,12 @@
         "wpm5Dxpbp9pR/IH2aFkR4eLm4NQz7VgRKpg12uiLRsI=",
         "pulumi_mongodbatlas-3.6.0a1668658104.tar.gz"
       ]
+    },
+    "3.6.0a1673411362": {
+      "sdist": [
+        "MwXZAwE7HX6CVWB6AJy2XottziTu/urZQvF6Mfvocqs=",
+        "pulumi_mongodbatlas-3.6.0a1673411362.tar.gz"
+      ]
     }
   },
   "punwrap": {
@@ -103732,6 +103762,86 @@
         ],
         "rakun_python-0.1.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Gd2wcwPmJYVsb/LFI/5Oe5Cyix+Bz5yN3yXlW7rgngk=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "iCI3RpKZ6iCfAnWHPSpaFKIvn4uqI3PRMf/8lGWqmJs=",
+        "rakun_python-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "rakun_python-0.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+m29szCyqbN8CZNM5hfRKEKd1rib1aqwnqRgG91MRMQ=",
+          "cp310"
+        ],
+        "rakun_python-0.1.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2XvBzVLN5KkTZ/jPDlSCfjUC8r067g0pZGeIfAica3o=",
+          "cp311"
+        ],
+        "rakun_python-0.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wwvGSFS14gXZVFF8CnvKCAqRrLkAMy8D0lzPsYya7aA=",
+          "cp37"
+        ],
+        "rakun_python-0.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C5QTGuieD9/MEBntF/vpwpswcq56VDD0kSPrumJ7Yb8=",
+          "cp38"
+        ],
+        "rakun_python-0.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VWtJ+QlgLZtN2aKF7Zx6ovNJ5NCOFZAfKTpO+cV1HAo=",
+          "cp39"
+        ],
+        "rakun_python-0.1.3-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ECi4QUuW512n3TtqRlrguK6hWJ5su6aYPVuSrnnBHDg=",
+          "pp37"
+        ],
+        "rakun_python-0.1.3-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bAS2TIKgicOqdocWnpxNszxzgdeuXalAi8CNjqyNrhg=",
+          "pp38"
+        ],
+        "rakun_python-0.1.3-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jvySy8CGq6fcHHbRIo/gJdRF8Sr/cM9AAGuqnqFsPmc=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "3CyBey3c8/thFODI+xkZFuuRteXFSIfzb2lTiZXJun4=",
+        "rakun_python-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "rakun_python-0.1.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "U/ad2OpBXnqQw3zyvhTLp0pPwvEoh49MDa5jo81e4SQ=",
+          "cp310"
+        ],
+        "rakun_python-0.1.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/9GijryZBa5JY0mTtbB1S259jyfeXKodAnwH3xXk+IA=",
+          "cp311"
+        ],
+        "rakun_python-0.1.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pvwBGtG4tUqj6OxHgs4oG6/z463P96AjXRoBKxJF4p8=",
+          "cp37"
+        ],
+        "rakun_python-0.1.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qxH64TtRpP+EMVVX0aeLiIet5qayOft5f1yXnowpm7Q=",
+          "cp38"
+        ],
+        "rakun_python-0.1.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8fvQKSoZWU5lJbuOZKBBTKj4vFvffHucLUr+zIjjCd0=",
+          "cp39"
+        ],
+        "rakun_python-0.1.4-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zdzA8gcBUuuEB9IFX9dIIhrbA2sST2jbc12FyUnG0X0=",
+          "pp37"
+        ],
+        "rakun_python-0.1.4-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "s/5KcqITpnpuvJ8Rpy7MwrYs16Ejt7F7gNdmE7pkOoI=",
+          "pp38"
+        ],
+        "rakun_python-0.1.4-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PamdxQro901FFt9Hb7W7cht1xoYLoiayCGGWCGzJRd8=",
           "pp39"
         ]
       }
@@ -140825,14 +140935,6 @@
           "py3"
         ]
       }
-    },
-    "0.9.9": {
-      "wheels": {
-        "XBXBOT-0.9.9-py3-none-any.whl": [
-          "yl6RHpFDYO48JAjaju+qHVDmPe92j9G3dpohql8VqZA=",
-          "py3"
-        ]
-      }
     }
   },
   "xfoil": {
@@ -141570,6 +141672,12 @@
       "sdist": [
         "wjEbzJpiw/PAYTA+XMoa07FF30dumVgU/DTlRMfuEA0=",
         "yhgit-2.5.tar.gz"
+      ]
+    },
+    "2.6": {
+      "sdist": [
+        "OgBz7HzaI+a3c77MyDAE4RCEJf4yGDz9lUnPZE9QCD8=",
+        "yhgit-2.6.tar.gz"
       ]
     }
   },

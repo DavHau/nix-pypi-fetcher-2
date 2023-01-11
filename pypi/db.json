@@ -39069,6 +39069,32 @@
       }
     }
   },
+  "dryco": {
+    "0.0.1.dev1": {
+      "sdist": [
+        "rFsXCwrzB7i/tAPzvf5wXFLFnKMEUXpAwTC02NS2xoA=",
+        "dryco-0.0.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "dryco-0.0.1.dev1-py3-none-any.whl": [
+          "5hsy0hxM4kB7/hvdEJDL8UhKrvbTuydz9Yqz+dtBG/w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev2": {
+      "sdist": [
+        "x5h8Ef1M3xGkOx0/9StehvX39lkQP1DAcKPWttkKGLc=",
+        "dryco-0.0.1.dev2.tar.gz"
+      ],
+      "wheels": {
+        "dryco-0.0.1.dev2-py3-none-any.whl": [
+          "vy9doPEc57KjJW6QF0Ph5LjIzTWAXcaPAEqJg6fm81U=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ds18b20s": {
     "0.0.1": {
       "sdist": [
@@ -71609,6 +71635,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "xHh490V4X0pgdgSkBMnSwYGqxo6tez8ktezoBO+cyrg=",
+        "low_code_assistant-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "low_code_assistant-1.0.1-py2.py3-none-any.whl": [
+          "K8HeXwF6AIKz15C1r/qvjmAoLkBxkAWSoVXS0YEyhRI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "lsd-cli": {
@@ -83427,6 +83465,126 @@
         "ndicapi-3.2.1-cp36-cp36m-win_amd64.whl": [
           "TqjsQI3c7D2KXaT/4wbOESG0VGj9Ae1X2ZIwqcHkdGo=",
           "cp36"
+        ]
+      }
+    },
+    "3.2.10": {
+      "sdist": [
+        "0HR1s6G6/BKknzMNM2cGH/NtIBr/bo2+p4r1jIMyQb8=",
+        "ndicapi-3.2.10.tar.gz"
+      ],
+      "wheels": {
+        "ndicapi-3.2.10-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "zmqXA0mbok5ylO42a2/NkIBSbKzpWspZ5XhSjuwt47Q=",
+          "cp36"
+        ],
+        "ndicapi-3.2.10-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "Xvkryep7ShnjJ2SeHNRniOckwLZAPceE9JdN7Zgi57Y=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "71cNyptKxwGPl64mJCImSxBFc4RCRJhTkGCXVt0xlI4=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10-cp37-cp37m-win32.whl": [
+          "dNX+57G74Bv887ZSGLqUJvn+hZ+W3P5NX5TyMzTf77Q=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10-cp37-cp37m-win_amd64.whl": [
+          "1o5u1gmtkwQdjaNnyZtP3JE9QM59oesWyzsELhs6RXg=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "KsNLoG57I7kIK6O78GYJd4RixLz2ZFAhnr/hxVNLBCM=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "GxfVmRA/BcjgPMnKQ8pqq2PpabFapJ0zc/bfOabAugU=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10-cp38-cp38-win32.whl": [
+          "uckiY7hL8T9ijGtu4F2ICKzY7ekMpRs4lA1rs5xDzoY=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10-cp38-cp38-win_amd64.whl": [
+          "+n39nguSeUW0D3hTU2XfqEifGWLYnp3kZpRXVZlLFqQ=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "YCNMpL2Ibjzj/3xqIPkwLjFqmIZXQccP7hfOD6w6EBs=",
+          "cp39"
+        ],
+        "ndicapi-3.2.10-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qq89b4qeHwCPD+1qTG4GIFHPqFPvhWnj76OLPClNxM0=",
+          "cp39"
+        ],
+        "ndicapi-3.2.10-cp39-cp39-win32.whl": [
+          "qK/IUe6GJMFbnvsbII9ry/7iThSyW/TU8gudZQoOvrg=",
+          "cp39"
+        ],
+        "ndicapi-3.2.10-cp39-cp39-win_amd64.whl": [
+          "GW0NFrpCQO40hHdgG3xCv8fIkFX0jua8WDttYz/U5zg=",
+          "cp39"
+        ]
+      }
+    },
+    "3.2.10rc1": {
+      "sdist": [
+        "yCLV6YCVNGfnbnpbeEkf2tbBSZJpHDIVw1HgIeqQop4=",
+        "ndicapi-3.2.10rc1.tar.gz"
+      ],
+      "wheels": {
+        "ndicapi-3.2.10rc1-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2MuuuvSjsLa7Mbv6uSzIHuidX+OAPtWr2DYnqggfre0=",
+          "cp36"
+        ],
+        "ndicapi-3.2.10rc1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "+qHhmuHEIGdf3augSzzlM1h/vagDSY4atV+8ARDrgHQ=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10rc1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Ub3DEKbpDI+YHPbd4BKZoPAohEjMsOHKbnkjXWdAdX8=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10rc1-cp37-cp37m-win32.whl": [
+          "sus03y4qGOxSAHF7PBeFxL3HvcpkfoZ4sR2f15OpUHk=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10rc1-cp37-cp37m-win_amd64.whl": [
+          "de9sM2pWmtkfcYHODoLOxBC+5hwHQEJs6anmue+O4rM=",
+          "cp37"
+        ],
+        "ndicapi-3.2.10rc1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "BdpraG7CalgfYurZxl87TRjAyHCxYF2/Gvk/I861o6w=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10rc1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7J2lPZv/e06zW/n+ycN/NqcAilW/GzvJnO+7gzTH0oU=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10rc1-cp38-cp38-win32.whl": [
+          "WlIfLKSM5q2zhuTp+o8584fjDGlYL++yTRocG6TITYA=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10rc1-cp38-cp38-win_amd64.whl": [
+          "tw9WbXauhZxjK6zketXNQdMA6g0T7NZjdVaGOQz1peM=",
+          "cp38"
+        ],
+        "ndicapi-3.2.10rc1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "wyi2Aobl5HuU6VuL9LIKeF+cZgB31d8wIuzHgnp6os0=",
+          "cp39"
+        ],
+        "ndicapi-3.2.10rc1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "JTMA3JR9mbU/yh4mfaGnZwrFNeRm2IeEothuU0VE31k=",
+          "cp39"
+        ],
+        "ndicapi-3.2.10rc1-cp39-cp39-win32.whl": [
+          "G84j/L7SJgqQG8UxxNjFVBgoYc2XdYfE3ImAL/JwW3A=",
+          "cp39"
+        ],
+        "ndicapi-3.2.10rc1-cp39-cp39-win_amd64.whl": [
+          "Y4R0n4JVLbD8YRB3R5CwdIw10qfszIMhdgp7a/+A/74=",
+          "cp39"
         ]
       }
     },
@@ -102848,6 +103006,18 @@
       "wheels": {
         "pwrdrvr.microapps.cdk-0.3.4-py3-none-any.whl": [
           "zRl3jJ7a1SXZQzrpbYaxfb0FWkkCrNbP8ZxUV5A5G/8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5a1": {
+      "sdist": [
+        "HD3bu0SJezZ6oJwiYMwErLMgMkg2ZtZcFFZ09JNUzbY=",
+        "pwrdrvr.microapps.cdk-0.3.5a1.tar.gz"
+      ],
+      "wheels": {
+        "pwrdrvr.microapps.cdk-0.3.5a1-py3-none-any.whl": [
+          "XRBcMXbMhTJjzKAdu2KNDr+oDH85w898zIRjjIUvYss=",
           "py3"
         ]
       }
