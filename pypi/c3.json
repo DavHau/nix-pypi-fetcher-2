@@ -16635,6 +16635,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "Y0ZoBLF6ensSkk2bvThJbD5GsFctP/qmxwu1xESahec=",
+        "botocore-a-la-carte-forecast-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecast-1.29.47-py3-none-any.whl": [
+          "pA19kSylq17V5AYcOPYSCT4sDSX9ERevoubZxv4ya7A=",
+          "py3"
+        ]
+      }
     }
   },
   "bpforms": {
@@ -32730,6 +32742,214 @@
         ],
         "coverage-7.0.4-pp37.pp38.pp39-none-any.whl": [
           "y4z6O/Op8YIRJ5RYkX/vXt614f3r4uqLEZaewuvkiIQ=",
+          "pp37.pp38.pp39"
+        ]
+      }
+    },
+    "7.0.5": {
+      "sdist": [
+        "BRr8vW0qw5KY1i00D5TbtqHzHeBt+vb873t1ndOGDEU=",
+        "coverage-7.0.5.tar.gz"
+      ],
+      "wheels": {
+        "coverage-7.0.5-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Kn8ju66yqH+Q9gdzC0VWQHbYcPH7B7kxjQwh82hxkys=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-macosx_11_0_arm64.whl": [
+          "wY1H8xS5UNvySkF4fO0UdOAcqBYBGSWXbZCoiyfCK4k=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7xTXXYbxBPA96mbBMYhIcVF2DvJd1rLb1UGIUYXwX0A=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ZuUGgOiIhAwJlfKtdm5ybOccpoLjxfTu6CJyx2cdOKI=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qf7TXKjG6Ubod4k7usAi6FY7lEBKYFrx0easzH63Mok=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "2NBOdVk0GVvcHbRbqeBAuNINBG0E1td+cbOzSozAAtA=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-musllinux_1_1_i686.whl": [
+          "fhCfHJo+zmdll4MYdBJlVZl8SPYr3bys5u0Xvj43Leg=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "ChiQ/KKWLE8a0WVR1mC0bqdykfuizCHAJM1Se52ciAk=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-win32.whl": [
+          "vp/PMsAQ2gukC/TuAYidbHN2WPTd/xYL1+ucrI8JSyE=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp310-cp310-win_amd64.whl": [
+          "y/y6FKMiWwVaKLMZnD2BzQqzfSNT/9f2/WSETOurMa0=",
+          "cp310"
+        ],
+        "coverage-7.0.5-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "MLX+wdNMyTLBvAQBe1OM4Wv4TiOTeLj3UiBHhkXRH8o=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-macosx_11_0_arm64.whl": [
+          "HK7SNnsyzICit/WKn0ZlghihnGz+W8I0Ahlm3D2qAfA=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0lRmbSlUCnLRfMAXV0bPsD1RI9sz5n0QIOQtrmEdwZY=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "GSRcJJqnEdlUYj2U8jzJTA/WWGVmHyC3eBIQy5fEccA=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ewXtSzW/bueQgy9okyuvHwDKoyKD1mzE1FXJ6dEVqvw=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "Kd6Ra6EJm6Kqt2rKEBWAAGrfrFZG3pt8AQoPE4Z8ukU=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-musllinux_1_1_i686.whl": [
+          "4FfnTlPbeBIqOXn5CJc+FxkJpYrCDfBcM5mNUubTV1c=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "QR1P+dBBvgj9/AKt9i6JxzW5Ro9tj2Qn+KFLa7CoUJU=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-win32.whl": [
+          "UqsUueCc4FIjff4S1okt05sEAWkIVrz+ddW6ukv+KDE=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp311-cp311-win_amd64.whl": [
+          "H2aGLTpBZ069jRp7b1OH/lzjU/hxkECphlUaVF19g+o=",
+          "cp311"
+        ],
+        "coverage-7.0.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "tpUisWimtk7fDDO6U+rEkcCo9cyU+kM3+cb0yPL1KWw=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Q24QOVDQW31/VeOb7rTVvimMo+EZ4FicAifm0LAe6Mc=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "uMVr7FPW4xVOr/bqlBIm5718wNmfmzdWwlIPx6lObZY=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ejg2JSipEVpOJ25l7qv2fc+vV2mOF644hZlWinjcsCk=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "9nRywJoMdIbifzJ19hfJZNJeNXJ6+VKGndSWubW39qM=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "Ig4/p30UyKUHstlR5GO1eh94EKZEOib5t1ke85BHsbI=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "7LD3OVSJL5hhHhg/UKzcniGkZT8pTfvgedpzxjeKb0c=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-win32.whl": [
+          "2PPi4KHWd35Y6DT9WgRlf2av+mFdrmHdZ8NdFWjDiII=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp37-cp37m-win_amd64.whl": [
+          "nmYub8T1E7edpdEKI+3SuHaFgVszexowzREwemZ5FI0=",
+          "cp37"
+        ],
+        "coverage-7.0.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "eQ5EM5Ysn0VOITshsP1LQjEK3pwHfo7ctRE9sIGEUMs=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-macosx_11_0_arm64.whl": [
+          "SWQL2pvaNbBXsOZbfEO6cG+iM1yamJZlKuvg+jmegOY=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1mGHeSv+VvjBi6mGoOSuRIVrHGRTNr0sd24zhtqR4d0=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "J29M0AAc2DsAgXyNt2cwk4se5A9Jk7apBfQKcngQOzo=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lTBAaGhlRao2izXf2hzfu9vi9v5D3koum6qOvXG+RuI=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "F+Ad2GZsRFAlwpaE1Kq/WpDcbvGrJTKKpSvtqpW2Wtc=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-musllinux_1_1_i686.whl": [
+          "6nbbytC3sN6yZdjDbggBq83fbME5WUCiTjWVKItAXKA=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "UKatwr6O3X7mfRq8PNIGeJh8e515zSZd5VlB49DVZJk=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-win32.whl": [
+          "5M6YQTO4iMw6RoZ8i0Nyx97pzuMAM14pJeGXvNRbnhY=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp38-cp38-win_amd64.whl": [
+          "SpUPg/0/m8ojt3RC86Ky6krJAJRNivmZN0N3TE/cV68=",
+          "cp38"
+        ],
+        "coverage-7.0.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "PCFVlDiWrHi5sP2RD7OBGG0MNFkR9TM+5GrETI8OQ6s=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-macosx_11_0_arm64.whl": [
+          "VPfpcF4Ussn2q96xJ8OQ9nn22+ZLpzJ4jTAV9/du9jc=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "DuMDdbQJ2afqDzDFBkXUNrb13+4lTt/9J+RamArSx/Q=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "t4cpA4q+pqXfDScI3OIeggc0Y7LXnRCITX1ZHg84Xe0=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EyULHwvQI+DJ8Rg4vetgIU3Vtqr46NLxEMfiMqG/+Ds=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "LEB7GVCy0v+gkfTiJcoZpmqb2BIi8nxWvRJlj8XKEgk=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-musllinux_1_1_i686.whl": [
+          "x2owdelrnJ/wDfi19/Vg9WNN/9Fli6+3nrJoKGfpT3g=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "8mZI4bOwO2AitIqbkQ0K4gni1R9QRB213OW1MPrW2bE=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-win32.whl": [
+          "ujAn3rer8ChZrKSchl7OU4ruVty0hxtMztI7pNUIiQQ=",
+          "cp39"
+        ],
+        "coverage-7.0.5-cp39-cp39-win_amd64.whl": [
+          "lJhEr2DulqN2qsHe0qJ+E0uMjTXMAGpSkD/AbCSjKW8=",
+          "cp39"
+        ],
+        "coverage-7.0.5-pp37.pp38.pp39-none-any.whl": [
+          "uXJ6xPXPLL+HiApjhwtblzCorjpKNgJBoP2qL3EkD/A=",
           "pp37.pp38.pp39"
         ]
       }
@@ -54462,6 +54682,18 @@
         ]
       }
     },
+    "3.10.0": {
+      "sdist": [
+        "R6CIL1CA3UR81kUeIlFGJaxDGO33GBKOzT4Qo2LWlQk=",
+        "google-cloud-bigquery-datatransfer-3.10.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_bigquery_datatransfer-3.10.0-py2.py3-none-any.whl": [
+          "h1ro5jZfnbqyAqLrOkPMmL9o9vHENagWTFybqoOOmO8=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.2.0": {
       "sdist": [
         "sJjXVXPw9FuiS63MJXXPaaTCdyHatcG7LkiyQt3xK9M=",
@@ -55000,6 +55232,18 @@
       "wheels": {
         "google_cloud_talent-2.8.0-py2.py3-none-any.whl": [
           "qCo3tW7SsaTK+S2I7gfj3eesgzcDqaLRTxSteSs7KgY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0": {
+      "sdist": [
+        "kRwZnPctSrM/02gierFVFhoAy6Pu8JSx9LVwFYjl/l8=",
+        "google-cloud-talent-2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_talent-2.9.0-py2.py3-none-any.whl": [
+          "yKnrPY+Ls0C8bcV+ajmi2gDA3uiCVFYGHZURLkUyLNU=",
           "py2.py3"
         ]
       }

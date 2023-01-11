@@ -10527,6 +10527,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "P11hSSxC9F6ZiU5qnrCaqi3tRtBAw9miRllYoLyhN5A=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.47-py3-none-any.whl": [
+          "Z2xCM5aLPwcZY62tdBkMToYix57yU1mXKExrDCu3p8I=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -10586,6 +10598,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.46-py3-none-any.whl": [
           "dLVLUyerNa2Ms2tAWT7BBKakpxQAdnpXF1XFG2/lD3k=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.47": {
+      "sdist": [
+        "wr6RtQwQ+rXlQ67EhPDF3ko2C6/G48UvE68BncZFxcw=",
+        "botocore-a-la-carte-rekognition-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.47-py3-none-any.whl": [
+          "0xeyHbPT14gRlJIbjGmkFL8zg/Qj8f/yJMIJ67jKwlM=",
           "py3"
         ]
       }
@@ -11452,6 +11476,18 @@
       "wheels": {
         "cachelib-0.1.1-py3-none-any.whl": [
           "ffbgW438zeuGnhcVdVgOVgbPHoKhZmM7PLQGvE8RP9A=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0": {
+      "sdist": [
+        "KS6J1fkgH7lXDp8iLCAvWQhcZvnLi9/u/P//8rRC+yo=",
+        "cachelib-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "cachelib-0.10.0-py3-none-any.whl": [
+          "b7uuRjdJHMeKXoL3z2I+tneOohrYqpIZf0WhrdUdqwI=",
           "py3"
         ]
       }
@@ -47577,6 +47613,32 @@
       }
     }
   },
+  "githubmaker": {
+    "1.1.0": {
+      "sdist": [
+        "7Wasgm9BNNGoK8Zo+hsi4vZVB0evN3Y/uN10pGraM4g=",
+        "GithubMaker-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "GithubMaker-1.1.0-py3-none-any.whl": [
+          "CWOk+NnK+r2qs61mnJ56ZqwiK2dhoSDDEvfgejjNBlM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "sx386DtX/L+2gZJ7Q8FLUGMCOm2Idmc7DMEtImLhaMM=",
+        "GithubMaker-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "GithubMaker-1.1.1-py3-none-any.whl": [
+          "n7KsaH+WfHFn6wB06NDhBxMaxoak3D4sUG47u1nls88=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gitlab-attendant": {
     "0.0.1": {
       "sdist": [
@@ -63833,6 +63895,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2023.1.10": {
+      "sdist": [
+        "ySUr5ruOChMroXN3Fv3fEHPXLkWaI7JtZ7H1AYCa+0o=",
+        "liitos-2023.1.10.tar.gz"
+      ],
+      "wheels": {
+        "liitos-2023.1.10-py3-none-any.whl": [
+          "osWaQz/50lUoGQBR4qCIMODsvhtH3WlgxNoH5FyL+Q0=",
+          "py3"
+        ]
+      }
     }
   },
   "lineenhancer": {
@@ -70506,6 +70580,30 @@
         ]
       }
     },
+    "21.0.0": {
+      "sdist": [
+        "ALYoCwfFUGEiouICrDxci/Adr8b+y8yurAObzsrK2rg=",
+        "mirutil-21.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mirutil-21.0.0-py2.py3-none-any.whl": [
+          "mdfvBZHXei/KncMciRQylfkp1s/kjaKwl5EbNYuyqZA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "21.1.0": {
+      "sdist": [
+        "Iw8+R0U5NmjGADT2G7AUoD7QJj1qbDMuxTQVBusOzLc=",
+        "mirutil-21.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mirutil-21.1.0-py2.py3-none-any.whl": [
+          "AWWXRCJoj1ixZ0cjP/puiZMSFuNU6TuUjEvcLhARlGU=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0": {
       "sdist": [
         "tH9Jc0svtwTNqR+uj2WCcDaNWhxlTpKgIu+eSI1yv4A=",
@@ -73952,6 +74050,18 @@
       "wheels": {
         "multibot-1.8.3-py3-none-any.whl": [
           "mmQoXctwr3kVj4484tOv/DTcIZjSHWX3HHt96VrQIw4=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.0": {
+      "sdist": [
+        "3x92EWWlgfJPvPwRCSsn+gvHGk1RbkOpvRogwsgVbpM=",
+        "multibot-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "multibot-1.9.0-py3-none-any.whl": [
+          "lrhy+6WDQaUIPFsmdrdTPPCF5za+lPoHHE6nh5ZluBo=",
           "py3"
         ]
       }
@@ -86980,6 +87090,12 @@
       "sdist": [
         "f38eF175dnEORtp2GD6rYo82ztWJNdpyC/SzZL02LWs=",
         "peek-plugin-chat-3.1.1.tar.gz"
+      ]
+    },
+    "3.1.10": {
+      "sdist": [
+        "pDc5TmEbOl3+TicjMJKbqjRCXHqBNGEFLACspoLs8lk=",
+        "peek-plugin-chat-3.1.10.tar.gz"
       ]
     },
     "3.1.2": {
@@ -123357,6 +123473,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.812": {
+      "sdist": [
+        "NlwE2QJ5zduGAwwmDMaVdYHyHBfPL8ZbstGkqQkaSdM=",
+        "tencentcloud-sdk-python-zj-3.0.812.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_zj-3.0.812-py2.py3-none-any.whl": [
+          "u5KrShuGOD+TqfEZrD+ou9e85iHKuK4NHDQIO97GOhM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenetpy": {
@@ -138666,6 +138794,118 @@
         ],
         "zipline_reloaded-2.3-cp39-cp39-win_amd64.whl": [
           "8cqJ7vJ2LfVG8ORdk84brSZmeNS8pF8Svc33T/U9B7k=",
+          "cp39"
+        ]
+      }
+    },
+    "2.4.0a1": {
+      "sdist": [
+        "3g35t8HW3tDHzg1BF4hrl366+eiGH/lZekU2IloUfM8=",
+        "zipline-reloaded-2.4.0a1.tar.gz"
+      ],
+      "wheels": {
+        "zipline_reloaded-2.4.0a1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "sYLF/yhJW9OfdCOEF17jH50OxeQLx/ADkwGtgt5EmsU=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0a1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "B3pbSR8UbsUzR2TcvrAd5P0yS7Il5LkaGPbpSyWvnGU=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0a1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TYhj112FZsej/2BmuQxU1zUTmEoX235q8AIAsLeiKQE=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0a1-cp310-cp310-win_amd64.whl": [
+          "fqh2HUO+DpQoO6XaQiL99DyG9UjQU+sJUDSBCX4zRGs=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0a1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "sIBTtePsfupxCmS+2X6zo5986qEpPotwQXvuLygkl8k=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0a1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "RTTmnVMyf5m/VM9vPZoSPMryTbt+5kaD9suw15hdbUA=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0a1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QYLChQqiinIG75wVLC4oCurnhKOF5dPdLpRHuID0Xh8=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0a1-cp38-cp38-win_amd64.whl": [
+          "5jYBujUt7C/HlpEv9WQdlP530Qpg1PX/1mfG7YQCnIs=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0a1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "8KHQLkhmyAt4mx18QIOT6JJffyI8A8RTTweXD7O/2UU=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4.0a1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "wNLqjTeimj5mpz46u3ixoDDjX+wVXEmhLVFueD14Av4=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4.0a1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QUNbSgpCJDtuTKxwRng4erdF3CSbjmDIJjDH6mhofJ8=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4.0a1-cp39-cp39-win_amd64.whl": [
+          "Z6b7zT0Yc7YYc7nOdWKz7lguIMVH29MxceIToz95RPQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.4.0b1": {
+      "sdist": [
+        "4X0nXxdB4VbkrsVXYfDVokP88l9U5S9cXvFz0qFkAL4=",
+        "zipline-reloaded-2.4.0b1.tar.gz"
+      ],
+      "wheels": {
+        "zipline_reloaded-2.4.0b1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "Nx7ZxT51B33M9Do1+5BFXWcpruDkMi/FCrsBkGEOmUg=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0b1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "9HZ0KWZ+ayuDkQ0sC1oO9lSi3SPa4++Ov4vLSfd+Z3s=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0b1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6EdGxrj6/Lae3HXAgEaE/+rUPk0kqlOiM3PX4HbIw/U=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0b1-cp310-cp310-win_amd64.whl": [
+          "JKbnkm0E0LCzCC9zjSqj71rP6yV5j527blMdm/20/1k=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4.0b1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "1loM1dfGyF5AUJshR4bUmSooT8XsjIctV4pk94GIlDE=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0b1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "sPHm+OkQ11Kngc1euV3wak14x5M/IVSwVoOYKVIDUwQ=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0b1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "g1nlr6b5qAj2b91cvN4JJj1KLjMcW8WZESkk5c+CTjM=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0b1-cp38-cp38-win_amd64.whl": [
+          "g4v0eYFNflQPZV3dAOIIQ7FMwcUdwh5+9i2JkJj5N6Y=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4.0b1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "VT9jfRJ+ud4mmMPNeJRGhVkoyeBc8RROwtEUPa9bWL8=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4.0b1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "vXnc2msUNEjNb9+0uNlHWBIdk8Sp99aZxiWDKjnJD4Y=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4.0b1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LATarg3PkX71GYQZJBU901igceOGORUn2f3kIVOFvms=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4.0b1-cp39-cp39-win_amd64.whl": [
+          "PuQZWL9BNBETRsGiTJeC+QYSgilOsPVSYzJpLrIwd8U=",
           "cp39"
         ]
       }

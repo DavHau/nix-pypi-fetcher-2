@@ -15075,6 +15075,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "2g2NA5xpsWmuIjEO7zoOodEJ1z764S0zWi8A0sWBL8U=",
+        "botocore-a-la-carte-appintegrations-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_appintegrations-1.29.47-py3-none-any.whl": [
+          "UqIJ3MZLQuwmDwJ/B76ePWVzR0u1G1vMcdY9ahO5ETs=",
+          "py3"
+        ]
+      }
     }
   },
   "botok": {
@@ -59073,6 +59085,30 @@
           "py3"
         ]
       }
+    },
+    "1.1.9": {
+      "sdist": [
+        "Cqm2+AAlCT1pcUlyCK+gvYc0UmbtmvJ9PQ03prRV6Vw=",
+        "hhoppe-tools-1.1.9.tar.gz"
+      ],
+      "wheels": {
+        "hhoppe_tools-1.1.9-py3-none-any.whl": [
+          "DJcSjv/ZTBnlkV/w2zUW5yH+SPNcEbWgQsLmCKl+QaI=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "//8gOXVbv0lEadDrbD8x46RUy7iQ/u8lMKTTv1JlGiU=",
+        "hhoppe-tools-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "hhoppe_tools-1.2.0-py3-none-any.whl": [
+          "BolSNgTQRYyr4k/eJdPKwdCLnVfG9EqtsIXDzGXvoVU=",
+          "py3"
+        ]
+      }
     }
   },
   "hirise-tools": {
@@ -61284,6 +61320,18 @@
       "wheels": {
         "honeybee_grasshopper_energy-1.47.7-py2.py3-none-any.whl": [
           "J/rQdi9hWBAccZGtPyyYf8pRW6YKvWcS0GKqygSdzK0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.47.8": {
+      "sdist": [
+        "cXYGG3GyBe6CK7MRnuHReuD67QXG9KZtS0MKUUMQ1sg=",
+        "honeybee-grasshopper-energy-1.47.8.tar.gz"
+      ],
+      "wheels": {
+        "honeybee_grasshopper_energy-1.47.8-py2.py3-none-any.whl": [
+          "ZqHX16tu7LfzIM07IKa72PTzDUBhOLg7nKqO8rXHU7U=",
           "py2.py3"
         ]
       }
@@ -82140,6 +82188,18 @@
         ]
       }
     },
+    "1.11.5": {
+      "sdist": [
+        "FvMwXJjhYwrkGnSyD24Yh9/SO6XoHI6ILcUchIVKrkE=",
+        "namer-1.11.5.tar.gz"
+      ],
+      "wheels": {
+        "namer-1.11.5-py3-none-any.whl": [
+          "QabiT5tzI8Cvn4aGq2VARxuC2DCsTM0OKLZneumLiV8=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "oRgTdT9ACOhx6nlJknRco3Fbd9iBFvZns5A/1klOfe8=",
@@ -93706,6 +93766,12 @@
         "peek-core-email-3.1.1.tar.gz"
       ]
     },
+    "3.1.10": {
+      "sdist": [
+        "90nlZbPL8eOpjS8GFDFF/7VNghIaQ0pb8naWadqPRLE=",
+        "peek-core-email-3.1.10.tar.gz"
+      ]
+    },
     "3.1.2": {
       "sdist": [
         "4Uaz90wfLkI+8YXAxwmTTVEPllx60OlaIZd3Qm2sXx4=",
@@ -94942,6 +95008,18 @@
       "wheels": {
         "perdido-0.1.33-py3-none-any.whl": [
           "BphNou8LvuXEX001f8sDlyGoU+Ppqqv5CBvVJtYIs0k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.34": {
+      "sdist": [
+        "RUPh16pyEDMa7ytLSskQvzGZ3Mj3L+nL30BEuHjdxD8=",
+        "perdido-0.1.34.tar.gz"
+      ],
+      "wheels": {
+        "perdido-0.1.34-py3-none-any.whl": [
+          "RaZARCVmjK+mDp8YrvuyyPxGU80pYgniPgZUWuybmsA=",
           "py3"
         ]
       }
@@ -102540,6 +102618,18 @@
       "sdist": [
         "ECvjDxMuqStaaLZtPg7pxOWvJtS/h6AE6S8GUIdCXLo=",
         "pulumi_civo-2.3.0a1659111243.tar.gz"
+      ]
+    },
+    "2.3.1": {
+      "sdist": [
+        "uK6ZQOp98EMfJ5hzLxBWipzZlmnkkzfSZU+9ZcY5TXU=",
+        "pulumi_civo-2.3.1.tar.gz"
+      ]
+    },
+    "2.4.0a1673372479": {
+      "sdist": [
+        "Uy3mtL6JaUfeho3DYSFXftd43AM2uNkXxoxs2V375wg=",
+        "pulumi_civo-2.4.0a1673372479.tar.gz"
       ]
     }
   },
@@ -134195,6 +134285,14 @@
           "py2.py3"
         ]
       }
+    },
+    "5.0.0.dev749": {
+      "wheels": {
+        "stix_shifter_modules_secretserver-5.0.0.dev749-py2.py3-none-any.whl": [
+          "eVBAN6swYKXLJw57NgGmB3sgx7h5uYd8ou/OwPt0E98=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stock-screener-joncav": {
@@ -145978,6 +146076,18 @@
       "wheels": {
         "tencentcloud_sdk_python_iotvideo-3.0.811-py2.py3-none-any.whl": [
           "8wDmtoS7YbHRoojWzcoGZ4mJtqXioegwzwv7YgrZFC4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.812": {
+      "sdist": [
+        "GKNo84VPF+G/0IGa+225dkQ9zlRdC/E1Fcc1j1XCnmA=",
+        "tencentcloud-sdk-python-iotvideo-3.0.812.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_iotvideo-3.0.812-py2.py3-none-any.whl": [
+          "2bU5iJSryWreYFBJa+N/I7Z+RtVn/dFSCLCqm3vn6oU=",
           "py2.py3"
         ]
       }

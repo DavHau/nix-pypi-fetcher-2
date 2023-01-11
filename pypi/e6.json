@@ -12671,6 +12671,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "zKOPR0P9YwMcJ8Ray8ds+7YD4WoNFNNWzVuxKFcCM6Q=",
+        "botocore-a-la-carte-codeartifact-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.47-py3-none-any.whl": [
+          "Zgv328NF9IiCc31uFqIvm7hrIHqcRhtrf0chEwIIZcY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -12730,6 +12742,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.46-py3-none-any.whl": [
           "o/YiIVF9PbdN4fYkMe5DYeqBUv1qZjvprCUJRv7P2gk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.47": {
+      "sdist": [
+        "wXsHWEGf0CYM4K6mCHEVvg8TWlzOp/0OtHx6Ub71zUc=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.47-py3-none-any.whl": [
+          "5aXDBGMy1M8etMBSVtsAFDPB5GQwGhp/Vd/76pS8gxY=",
           "py3"
         ]
       }
@@ -40819,6 +40843,18 @@
           "py3"
         ]
       }
+    },
+    "2.6.26": {
+      "sdist": [
+        "JJz6ae4c9ZfTmO9HplOGOdjX/SXpBuuuJkkjabg6vOs=",
+        "ditat_etl-2.6.26.tar.gz"
+      ],
+      "wheels": {
+        "ditat_etl-2.6.26-py3-none-any.whl": [
+          "LKCuaUz05zP/mberxBz8H/itlDFuQYnf6GwoK6Oqmyk=",
+          "py3"
+        ]
+      }
     }
   },
   "divert-test-pkg": {
@@ -59346,6 +59382,18 @@
       "wheels": {
         "google_cloud_translate-3.1.0-py2.py3-none-any.whl": [
           "in3P5LMjQLcFwKJE8wkSh+CaiZx0ZjDFnQ8FUHwBrrA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.10.0": {
+      "sdist": [
+        "SdhAsksalGug0eW9rVlAGpEGIUjreKkFIj3v9x54G6I=",
+        "google-cloud-translate-3.10.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_translate-3.10.0-py2.py3-none-any.whl": [
+          "ayArKRMvhLE/XKBfbJlej6Eyq9nnad8m/6f9/hEJp2Q=",
           "py2.py3"
         ]
       }
@@ -99996,6 +100044,90 @@
       "wheels": {
         "PaLM_rlhf_pytorch-0.0.5-py3-none-any.whl": [
           "jmBnqyCFxUhFhE9YrvFW13v8DLwoM/SGlSUz4gS+o+U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.50": {
+      "sdist": [
+        "nq0k3a2dDLIsUto+WkpKTO18VFGGUwNimk/JZJviUeo=",
+        "PaLM-rlhf-pytorch-0.0.50.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.50-py3-none-any.whl": [
+          "M3ziWWceHSTNEts274D3K/72tAG0FAptGe4PLQG6JyI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.51": {
+      "sdist": [
+        "WLbyggooe7oYHqUcHuqvJ5s1u8p2nWjyQsH4CI/CGL8=",
+        "PaLM-rlhf-pytorch-0.0.51.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.51-py3-none-any.whl": [
+          "WFKxoNOLSWXMx1n9me2Uw7UfX57p7bvTJoex/rptZHA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.52": {
+      "sdist": [
+        "gHop5Nj31YcLZhY3uar7WIkM8raFHRazNYoIvS6s934=",
+        "PaLM-rlhf-pytorch-0.0.52.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.52-py3-none-any.whl": [
+          "Xsu/dlCFKQbMB2f5vBM1skq01AOk+b9z/OSYBk78yqs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.53": {
+      "sdist": [
+        "L6VQQjczt4tB8RBjoOyUPUNLqssbBKCPkl5+FwNVaDI=",
+        "PaLM-rlhf-pytorch-0.0.53.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.53-py3-none-any.whl": [
+          "d5jlId79xKBNAYRQYhUCuuzxa9OJHtZTSH+zf7e89BQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.54": {
+      "sdist": [
+        "EqJpbc+OqenQYMkoilCB4mR3mQbQypsJN7V9LX7xBeI=",
+        "PaLM-rlhf-pytorch-0.0.54.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.54-py3-none-any.whl": [
+          "7nZ1DfrrT4xyBbHeyhy057/Iwkbn1nytVx6yCK4RNls=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.55": {
+      "sdist": [
+        "otpEMtGTksCusefaqoi+LUGBXGDSX4JJcgMbkwUDZew=",
+        "PaLM-rlhf-pytorch-0.0.55.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.55-py3-none-any.whl": [
+          "S6xfAmP7sSuSh8+GS3iUcleYhPeBjqCvbeszK0x0RFo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.56": {
+      "sdist": [
+        "xMKfF/GJM0orad5Fef9qvr2g4rLvvkp/+Fc8CcOQpfE=",
+        "PaLM-rlhf-pytorch-0.0.56.tar.gz"
+      ],
+      "wheels": {
+        "PaLM_rlhf_pytorch-0.0.56-py3-none-any.whl": [
+          "3XCJhjjJI3UkaMKob1qtaFIhz1qxA2SFrj+RkezzIAU=",
           "py3"
         ]
       }
@@ -141205,6 +141337,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.812": {
+      "sdist": [
+        "FEG7QEl/9JOpf54YadF+HKY02Y6X7IMZGb7Z4qrHZZg=",
+        "tencentcloud-sdk-python-advisor-3.0.812.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.812-py2.py3-none-any.whl": [
+          "VZxAweAovJwoTA7bd8r+uevzh9b82o+VpddU82rjqIQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -142908,6 +143052,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.810-py2.py3-none-any.whl": [
           "adz0GKpNZxctkp8qUejNeSz7j23rgTwm3FMj4oI4Oyc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.812": {
+      "sdist": [
+        "kobMUfdKoCoUd/Gtb8qt7MrOxiQ+49ouVk9D39j45Go=",
+        "tencentcloud-sdk-python-mmps-3.0.812.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.812-py2.py3-none-any.whl": [
+          "OFcbk6h3e9YnZXU5xZ9YZH5JPSLAGbRihXzuZHmnjn4=",
           "py2.py3"
         ]
       }

@@ -19082,6 +19082,18 @@
         ]
       }
     },
+    "1.26.47": {
+      "sdist": [
+        "abKuRFpbo6Jmxwbe+5zhDLHwRq93G6pTrwrhMFgiBbI=",
+        "boto3-1.26.47.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.47-py3-none-any.whl": [
+          "GqVWmPqd7/a+/Vgt+GrVwkIz9JC39ViX74J6v1VYGAs=",
+          "py3"
+        ]
+      }
+    },
     "1.26.5": {
       "sdist": [
         "y07KNLbhPk6tRqaPZnWf6q5r9elzYrLJebe58dIDcV4=",
@@ -24255,6 +24267,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "c2jLIs0GnY76IlUYqTmtn/VCll54mrp7Mf0Lj5Q4y1g=",
+        "botocore-a-la-carte-connect-contact-lens-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect_contact_lens-1.29.47-py3-none-any.whl": [
+          "+9AqlmhkdGosVTaoWR6FUvAKnDQH5SwzlAg+eRDbf/U=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-elastic-inference": {
@@ -24317,6 +24341,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "2h53PwiUdViMSFGuGCrJcSmtgbBDSpnYUm1k/FTSh9w=",
+        "botocore-a-la-carte-elastic-inference-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_elastic_inference-1.29.47-py3-none-any.whl": [
+          "YlrcKhMQmsAd3rdSUKEw9LS5tQNUTQN6Q+zoHeAoiYo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-robomaker": {
@@ -24376,6 +24412,18 @@
       "wheels": {
         "botocore_a_la_carte_robomaker-1.29.46-py3-none-any.whl": [
           "9/5TgrgM7EY55SBJ7d86QJ5d3cJ2yh0GF8h/0LWGK2g=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.47": {
+      "sdist": [
+        "HnADdfCl8oWLn7R75TyKZCQxfF7ImvAdecd0XxZH0tk=",
+        "botocore-a-la-carte-robomaker-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_robomaker-1.29.47-py3-none-any.whl": [
+          "tp5LIWuXEJ0PF+EPerxTsv/TkbWNiHpTfsfgfnMRARA=",
           "py3"
         ]
       }
@@ -25588,6 +25636,18 @@
         ]
       }
     },
+    "0.0.33": {
+      "sdist": [
+        "wPO0Zf+UXpbtQ3CqADLosQZQFezud95sxMDeiCORkkw=",
+        "cakework-0.0.33.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.33-py3-none-any.whl": [
+          "8XnYK2V1qZmLzZd/S0s71LfXEy5gNEBE12w5aOtj+Ts=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "yU0exFUEJmPNuUYegNLJGMV1hfQEG7olPECNwqH7S/I=",
@@ -25850,6 +25910,90 @@
       "wheels": {
         "carrier_api-1.4.0-py3-none-any.whl": [
           "SGwobKjGo8YgRO2C9u7I47hXAlxd9GtP02uMdBfr/yg=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "+u2uolhswqO6k+pB7BT7eTWzUCjaa2W15NOPkeB4DAc=",
+        "carrier_api-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.0-py3-none-any.whl": [
+          "n36gt7k98zJr41aIcNt8j8k/PuvpPS+NwiErc8LjSI4=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1": {
+      "sdist": [
+        "wGOpatxNS1SY+SzQ3mKhEdV0xN4Ufe8wRoCz1OH6rRA=",
+        "carrier_api-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.1-py3-none-any.whl": [
+          "TFoRDxWVviG27jlWA140EM+C1mzs4jASBMYYSimWfus=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.2": {
+      "sdist": [
+        "oAe9Z48dbTU+uw1o0ZRC88vO+X5CHGEbLNDtCqMbg1A=",
+        "carrier_api-1.5.2.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.2-py3-none-any.whl": [
+          "2Sq6X63F3ExpSX4Zrt7e3tuBNLfgbc0jGgv7DlBGZBA=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.3": {
+      "sdist": [
+        "l/gsodaTxsxTcjyF6PpB+1+YIpoZodtr3OPPaTOha/A=",
+        "carrier_api-1.5.3.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.3-py3-none-any.whl": [
+          "BVLRZrwE0dLLKtAD0Nxp73SFsqLNTX+RMKAfuhh2ve0=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.4": {
+      "sdist": [
+        "bwLeL9GLMVsL2avdGDj7it6NyPhFWTSpqh5AXjl6lGs=",
+        "carrier_api-1.5.4.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.4-py3-none-any.whl": [
+          "iAjMtwLyHqFYRX5tEeEef1GYImRBViXEi4c+ClneOf4=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.5": {
+      "sdist": [
+        "Y6fg9Wa7hVkgyGjSGNhNpvBlfqQyxoLb6FPJqoIET1w=",
+        "carrier_api-1.5.5.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.5-py3-none-any.whl": [
+          "zPSAup26P8zAlh0/MGCb6RZ+zWao/Jqd6WEJSL7gFTQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.6": {
+      "sdist": [
+        "w6UB5Uj6h7JOhhb0BpqfmlraSNZzxEQhHkC6CKcptgY=",
+        "carrier_api-1.5.6.tar.gz"
+      ],
+      "wheels": {
+        "carrier_api-1.5.6-py3-none-any.whl": [
+          "n1VGGP0zUNXP0Jb1FuQb9TR/2q6oPq0mKl18sk8FlxQ=",
           "py3"
         ]
       }
@@ -122039,6 +122183,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.91": {
+      "sdist": [
+        "xUELC+ljp8SDderK13zC0+sQjtZZ9/Yn7HHLdA96IIM=",
+        "python-whatsapp-bot-0.0.91.tar.gz"
+      ],
+      "wheels": {
+        "python_whatsapp_bot-0.0.91-py3-none-any.whl": [
+          "hLI5fzkcwcRF33Cz0XzGXkgd45NbQzzwNkRdRWWZxsY=",
+          "py3"
+        ]
+      }
     }
   },
   "python-xrd": {
@@ -134802,6 +134958,18 @@
       "wheels": {
         "sportsml-0.0.2-py3-none-any.whl": [
           "d9BrLudEa6MHgYeTtFkfl8a9MpqX6Oikjvv+pReBiQA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "pXa6TUt+iWeeBsBrqDmmbQbh2hPFpIRvFLzlzXXevyU=",
+        "sportsml-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "sportsml-0.0.3-py3-none-any.whl": [
+          "h5aOZywnFgQ+wR3ymHg/ZKs35KIW5FVw2YxG/C35+i4=",
           "py3"
         ]
       }

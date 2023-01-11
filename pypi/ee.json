@@ -1795,6 +1795,12 @@
         "LitBVafEwNT0563X+pKFjxU6HyD9d+Q0jqusmPL/+fY=",
         "admem-1.7.0.tar.gz"
       ]
+    },
+    "1.8.0": {
+      "sdist": [
+        "FvbAPjUWweDCMBOXsWcmDzWNztGC0Q2hzPdtXvP3OyY=",
+        "admem-1.8.0.tar.gz"
+      ]
     }
   },
   "admin-tools-google-analytics": {
@@ -6320,6 +6326,18 @@
     }
   },
   "aruco-estimator": {
+    "1.1.10": {
+      "sdist": [
+        "ws8uz9bqK7sor3ydC+jo6b/bUM/goKMlEMr2HLKCFm4=",
+        "aruco-estimator-1.1.10.tar.gz"
+      ],
+      "wheels": {
+        "aruco_estimator-1.1.10-py3-none-any.whl": [
+          "PPywSA3dpYIe2nufyEFoIh0PXWrqYjKXDsucV/H59Do=",
+          "py3"
+        ]
+      }
+    },
     "1.1.2": {
       "sdist": [
         "rfjm8P153YxDkaUah4Oe6o87o14RVJ5tbQdI/w86Tdg=",
@@ -7500,6 +7518,14 @@
       "wheels": {
         "atframework-0.2.0.2-py3-none-any.whl": [
           "hRxVm0ui61xb2tjnexUD+eO0mVwqi29vWOS1dWkUa44=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0.5": {
+      "wheels": {
+        "atframework-0.2.0.5-py3-none-any.whl": [
+          "/aM8wTa5Ga8mdCXTJqCYG8jKYwSesZDjCsLMPBxrWNA=",
           "py3"
         ]
       }
@@ -16044,11 +16070,17 @@
     }
   },
   "bubba": {
-    "1.0.1": {
+    "0.0.1": {
       "sdist": [
-        "MlZUfibdr1opDHjdsuVlNJ8jCTWGUX7BsUeYwLlIuwg=",
-        "Bubba-1.0.1.tar.gz"
-      ]
+        "Ca6nuMif+GOreWlw4vft3Kobn+V7/V2/5z0oGFxagxc=",
+        "bubba-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "bubba-0.0.1-py3-none-any.whl": [
+          "oicJaKBLFsLq/Zsp+kM7+JXjljsrQpeiEWyY6Cs0aoY=",
+          "py3"
+        ]
+      }
     }
   },
   "buildcage": {
@@ -19430,6 +19462,18 @@
       "wheels": {
         "claripy-9.2.32-py3-none-any.whl": [
           "1FL60qRrz8km7OicVORbIQF4nkfPw7QTEzxWo1tkPGc=",
+          "py3"
+        ]
+      }
+    },
+    "9.2.33": {
+      "sdist": [
+        "jqdr467rgQDu9rQxlGHvzy32vnU0eff+HLSEST43+GI=",
+        "claripy-9.2.33.tar.gz"
+      ],
+      "wheels": {
+        "claripy-9.2.33-py3-none-any.whl": [
+          "lpi8I1+N7M0tz1Iqdggmu+gFoV8t2/RIjjjG2ULEChM=",
           "py3"
         ]
       }
@@ -64520,6 +64564,18 @@
         ]
       }
     },
+    "0.13.2": {
+      "sdist": [
+        "wwYcWm854qRsej2k1Y7c21djoGaFZDzoKM5PmNRR5TA=",
+        "lpsds-0.13.2.tar.gz"
+      ],
+      "wheels": {
+        "lpsds-0.13.2-py3-none-any.whl": [
+          "H6sC3UhtMRCyZyo9eRY4qlbvYTjT2MyeuwKOzLNgnzo=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "N/tAUYB93AHsZOfKUuFXGjk/+7SWpARTyupxd5NLwjU=",
@@ -78060,6 +78116,50 @@
         ],
         "mpf_mc-0.56.0.dev36-cp39-cp39-win_amd64.whl": [
           "ETUG6xCD9VZUb/2GeaV97qikje2mKBDLgVAG/rfBVyY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.56.0.dev38": {
+      "sdist": [
+        "2uBvKDpn5jUgh93E53G5kF+meTjfhxc1NXkHx+WrswM=",
+        "mpf-mc-0.56.0.dev38.tar.gz"
+      ],
+      "wheels": {
+        "mpf_mc-0.56.0.dev38-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "XJB8V4A6HXPLLEZspLnKyTxffz+zuyLLzRw3AtraeBA=",
+          "cp37"
+        ],
+        "mpf_mc-0.56.0.dev38-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yW8w72F6EqTcPHyI0kQptKqn8R5LC2SwWQl7eFg9Taw=",
+          "cp37"
+        ],
+        "mpf_mc-0.56.0.dev38-cp37-cp37m-win_amd64.whl": [
+          "ZbCalbIWHgJAsS4O1JDj7Wb2ceEiEE/6zqiEKMlmF4E=",
+          "cp37"
+        ],
+        "mpf_mc-0.56.0.dev38-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "W6usZsBA8aYHeCbriJnCPboJreM68pw1qmqoi6OEGLo=",
+          "cp38"
+        ],
+        "mpf_mc-0.56.0.dev38-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iPdgRqFVzTlpB3B7ua0+l6IhhURnTF3nC1OaNHS1x0k=",
+          "cp38"
+        ],
+        "mpf_mc-0.56.0.dev38-cp38-cp38-win_amd64.whl": [
+          "gL/yV7VqA6kKClp0dPriOo+5TYP6/ifE0YHm1hxZHow=",
+          "cp38"
+        ],
+        "mpf_mc-0.56.0.dev38-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "DBdi/LWc9FLx+6oXrMYDaKO/zrGMu1QwAZW6xx9oRPo=",
+          "cp39"
+        ],
+        "mpf_mc-0.56.0.dev38-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7zfPc1krDsleq7RHeoMuCKFQAmxJWSPjFB67Bnu+kIE=",
+          "cp39"
+        ],
+        "mpf_mc-0.56.0.dev38-cp39-cp39-win_amd64.whl": [
+          "OjTTz83VIADrPgrybgKQE6BMlMjZJxScDlOIoNmjEhs=",
           "cp39"
         ]
       }
@@ -144691,6 +144791,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.812": {
+      "sdist": [
+        "i2PYtZjbvnfy2Bch+9efaMcF+zICKq+oEYB6tb4NRgk=",
+        "tencentcloud-sdk-python-ticm-3.0.812.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ticm-3.0.812-py2.py3-none-any.whl": [
+          "5fdytCFPXynoOsuFbdC7kA/lvgFPAlOEovz94XCV4RQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorfoam": {
@@ -154038,6 +154150,18 @@
       "wheels": {
         "whirlpool_sixth_sense-0.18.1-py3-none-any.whl": [
           "BsdNuqCBQ45zduQGkxj5gwgzq1SFjTWdKgXYA6s/l18=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.2": {
+      "sdist": [
+        "ugs2+p0A5M5VIckhh0z+76BF49SZbFQDfqiz+DGEOFY=",
+        "whirlpool_sixth_sense-0.18.2.tar.gz"
+      ],
+      "wheels": {
+        "whirlpool_sixth_sense-0.18.2-py3-none-any.whl": [
+          "Mt3d0o7bRUZ5ZpXEyMmgWqvgKNUD5cg1NXR+5e+w3kw=",
           "py3"
         ]
       }

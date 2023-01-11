@@ -14853,6 +14853,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "GJKDw7qmpY+KLuTwgbDNgzQRU+uDl65QQVTYAmrq2qQ=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.47-py3-none-any.whl": [
+          "v239lMAs3zuHnjIYkdDzkX8sOQZwAkY9MGCizXCLR2Q=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -14912,6 +14924,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.46-py3-none-any.whl": [
           "Fcw1CITWKVlo82zk0mHWGELrmHvxQ6L3Gd4vF9GLXoc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.47": {
+      "sdist": [
+        "KKIet5Rf8czxT0TacLosUjvTQAxcw/ztM4wFoGpY4j4=",
+        "botocore-a-la-carte-mwaa-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.47-py3-none-any.whl": [
+          "DtetuEQgVzTt9BWl66mBmyQCLWmza5PRI927rCjKFG0=",
           "py3"
         ]
       }
@@ -32734,38 +32758,14 @@
     }
   },
   "dtopia": {
-    "1.0.5": {
+    "1.2.11": {
       "sdist": [
-        "s+g3NrqmeBSz10HepA4CBS7RR3+83ijXQ+JUOIRL718=",
-        "dtopia-1.0.5.tar.gz"
+        "7th/Lnc5StfqIRzZmmOH4Fm6sjayUqHBEw34qKZJp9w=",
+        "dtopia-1.2.11.tar.gz"
       ],
       "wheels": {
-        "dtopia-1.0.5-py3-none-any.whl": [
-          "vTWkgbwR2anEKn/w9DUNv/Xa2+kqR+R+DMbqNBxBPgI=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.8": {
-      "sdist": [
-        "NLKyMrJEKmAFNXXJfSszACaPbffd7ZZwY9F3NIsAMcU=",
-        "dtopia-1.0.8.tar.gz"
-      ],
-      "wheels": {
-        "dtopia-1.0.8-py3-none-any.whl": [
-          "7p/MrVD9A3AHHFpZhiKfNT0O/gbwyGR4YDCo5n/FjHI=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.15": {
-      "sdist": [
-        "Ov+7G0vuvDbtmeP6p6g6HDCqW8X+RHQwTFZ+tS1ynjY=",
-        "dtopia-1.1.15.tar.gz"
-      ],
-      "wheels": {
-        "dtopia-1.1.15-py3-none-any.whl": [
-          "u9aj682YUL3k46PtV2DO4EbursIL9gcXS2Fg1VzC3FE=",
+        "dtopia-1.2.11-py3-none-any.whl": [
+          "thlLxNX+YYYxifZJiwzilnfEX3sVLTVam/7D/RrH+NI=",
           "py3"
         ]
       }
@@ -41966,6 +41966,18 @@
       "wheels": {
         "google_cloud_texttospeech-2.13.0-py2.py3-none-any.whl": [
           "W5cp0MgTbD5WgbPRZc3fdT5Jhh1ptXGHW97YDe44X7A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0": {
+      "sdist": [
+        "q4OD37ryZqg40L89BNZdLCNeC1QPwVhUaT4S5tO88Jk=",
+        "google-cloud-texttospeech-2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_texttospeech-2.14.0-py2.py3-none-any.whl": [
+          "b3YRSXCiCU0kb2geIKAweXCUHnSj+cOYDlSwCtmAeog=",
           "py2.py3"
         ]
       }
@@ -108873,6 +108885,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.812": {
+      "sdist": [
+        "hO22ED2qPDXcG3rWOGjsJj4e2KW00LPZlN1VZYnl3RI=",
+        "tencentcloud-sdk-python-dasb-3.0.812.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.812-py2.py3-none-any.whl": [
+          "3UgFMPu9YY78gWiDORFSkC2m4Ex3siaim3Xf9X8nJFg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -129514,6 +129538,30 @@
       "wheels": {
         "vrobbler-0.1.9-py3-none-any.whl": [
           "mEgW/YPMEvIwYeKoQk6DLJ2MppW+lgIHh3FW+kyp+rI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "JqCIR11H53we7kZJUFaF5PMuuxFB4Swji1xyUBMA6O0=",
+        "vrobbler-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.2.0-py3-none-any.whl": [
+          "QMuwnSKjv3nEpm8WZtApkYMEbgAzMu8w8ZXmExAobKw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "Jn03R/jvW/4smgXngG4hk4shsLdCfsrdhZsnFRJTK5o=",
+        "vrobbler-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.2.1-py3-none-any.whl": [
+          "Viaix5Z0b/qIjOZRJtPDZeHZG7Mx0KZoGaZhAoyreZY=",
           "py3"
         ]
       }

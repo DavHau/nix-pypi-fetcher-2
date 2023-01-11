@@ -15067,10 +15067,6 @@
         "BobBuildTool-0.22.0-cp39-cp39-manylinux1_x86_64.whl": [
           "XNkJCyMAPi30y2icU1UHAyaF3w3YTfQ+pM2MQGIy3PA=",
           "cp39"
-        ],
-        "BobBuildTool-0.22.0-py3-none-any.whl": [
-          "i1Zb5ScteyKhiAUN9cQaKfLN3tC+lwtJ2pEljXF2KK0=",
-          "py3"
         ]
       }
     },
@@ -15727,6 +15723,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "9m3UZKe8OtsigPidjcoj/ORnvH9pMKji1W+f+LcCG+A=",
+        "botocore-a-la-carte-backup-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.47-py3-none-any.whl": [
+          "rug6LLQdWkK72TigAqCtu1p6yQE1xppsL+rK/9bibFA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -15789,6 +15797,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "+lSvXBN2p55nsSZ+nD7cDol6IycTkzRmk0VlCF84i48=",
+        "botocore-a-la-carte-devicefarm-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.47-py3-none-any.whl": [
+          "vZA5xGvCkfwkPZwtbcNzP2dP/9Uq/c8FM7CXPA0l1ZM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -15848,6 +15868,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.46-py3-none-any.whl": [
           "Q7v4swlKa2ZRdcnIx/pqj6TWnbg4tcd46Oiy+VRfGT0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.47": {
+      "sdist": [
+        "m6gc9PURIy8uBQbk74n9YHODH4DUAVaKapVG25AdADw=",
+        "botocore-a-la-carte-fis-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.47-py3-none-any.whl": [
+          "Bik2cU7wu5IXRi7l/OpVQDqVmz/hgEi6bcWlB3sH5ho=",
           "py3"
         ]
       }
@@ -18576,6 +18608,42 @@
       "wheels": {
         "cdk_extensions-0.0.37-py3-none-any.whl": [
           "JZsxD2zNYe+ksTX9qsnDJYL7LnWr4178fhC7St4nZtY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "ZiXI15HHg5mOu7t15GCgwgIX2iVyX8wo8x78W/Z5aSE=",
+        "cdk-extensions-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "cdk_extensions-0.0.38-py3-none-any.whl": [
+          "UyR57XbTC98Im+/sc6vnf5zGedlgssRv+zcoyPzoHUk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.39": {
+      "sdist": [
+        "dGQ0cPgPxPAv/YffZJamA1fAjglttb2d8hUm8ewbQl0=",
+        "cdk-extensions-0.0.39.tar.gz"
+      ],
+      "wheels": {
+        "cdk_extensions-0.0.39-py3-none-any.whl": [
+          "VaSVs1U1drIuykarP6IEkLzjbwby5xPLwis9rvnmVVM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.40": {
+      "sdist": [
+        "jOdyYO2XJChYHXChyLtMzM62OZtggCaTmlzKVjP8rFA=",
+        "cdk-extensions-0.0.40.tar.gz"
+      ],
+      "wheels": {
+        "cdk_extensions-0.0.40-py3-none-any.whl": [
+          "yKUMRudgJDyRQbeuuj+m6Ugxt2OC7FZ8V2Xk7nnnifw=",
           "py3"
         ]
       }
@@ -89592,6 +89660,12 @@
       "sdist": [
         "rkn2RELd+OBDQt2VKbSsU1b//877O+3wlJv/PHLHPZA=",
         "peek-plugin-inbox-3.1.1.tar.gz"
+      ]
+    },
+    "3.1.10": {
+      "sdist": [
+        "88yEMVSe7M5/IwYb9mlE6/0fkmw8AIS2WJfQIKdY/gs=",
+        "peek-plugin-inbox-3.1.10.tar.gz"
       ]
     },
     "3.1.2": {

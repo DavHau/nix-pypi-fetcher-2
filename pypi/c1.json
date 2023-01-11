@@ -12381,6 +12381,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.47": {
+      "sdist": [
+        "vafgERo+5o0y+ijSYs8dpFfCgR13EF49SM99oKBvZhI=",
+        "botocore-a-la-carte-gamesparks-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_gamesparks-1.29.47-py3-none-any.whl": [
+          "qowNzDn3rY08vTLSERkuvkmBE51FMpbiy+smZurx48g=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-ssm": {
@@ -12440,6 +12452,18 @@
       "wheels": {
         "botocore_a_la_carte_ssm-1.29.46-py3-none-any.whl": [
           "qk+sRozYGwQ5G6/8K5YEIvp+MrE3f7nPPkeOsyQynis=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.47": {
+      "sdist": [
+        "cPi3qvpWjYjkqjn3v6cWcesTdsTkPNxHgfskNAdu8AI=",
+        "botocore-a-la-carte-ssm-1.29.47.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm-1.29.47-py3-none-any.whl": [
+          "Z6qrKIRPQs61ULEyQhXOZpldXb34Ec9T+ORdHW3hp7U=",
           "py3"
         ]
       }
@@ -80705,6 +80729,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.3": {
+      "wheels": {
+        "octo_pipeline_backend_pipenv_python-1.2.3-py3-none-any.whl": [
+          "9ACpxX2b8/yaE6n0Rb+YPWiJxGUfRoFos6McuvRILvg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-analytic-brand": {
@@ -94147,6 +94179,30 @@
           "py3"
         ]
       }
+    },
+    "2.0.3": {
+      "sdist": [
+        "VOBz+JwiyL9/CKQscukSElqcKAe+UfDnXOPqY24WyDU=",
+        "pandasdb2-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pandasdb2-2.0.3-py3-none-any.whl": [
+          "c7d4tMjiIPHqZ7KxTqJAZhk+eMLPE7lvc52+XNHc1Is=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.4": {
+      "sdist": [
+        "ugTU2kqyx2RKEGWGj3COOHVJN690BRJDfDQowL75bzI=",
+        "pandasdb2-2.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pandasdb2-2.0.4-py3-none-any.whl": [
+          "3ro95Ri7NBK2n6vbv+1g24DFu/HfJcQ2yJQNFetBJPc=",
+          "py3"
+        ]
+      }
     }
   },
   "panosifier": {
@@ -106335,6 +106391,56 @@
         "pylibmagic-0.2.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "SGFB3wnFCUW49jtXtIVfnTwwoHDoGp3qBb1ormxs3J0=",
           "pp39"
+        ]
+      }
+    }
+  },
+  "pylipd": {
+    "0.9.0": {
+      "sdist": [
+        "Nm8eb/CfH9qWjtZkG2ENm04GIpv4Bzt/D86mPvo1Y9M=",
+        "pylipd-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "pylipd-0.9.0-py3-none-any.whl": [
+          "G5Ijhf5fnl8NEHvScYVCtdLlHwltqVPRYUhlzrHH5y4=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "JNyRvQrhZmHnsFxVcjeRv3jwZFPd9bU9ja8+Q/rK+Sw=",
+        "pylipd-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "pylipd-0.9.1-py3-none-any.whl": [
+          "TmHBksFSKuIoHoiYt+p4IUvHyHFcuAhSWqu5BSlk0j8=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "Tgk3mmoslRsBwtm1753CtVv+28k/ITnTAVXibbTWw98=",
+        "pylipd-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "pylipd-0.9.2-py3-none-any.whl": [
+          "fwz7E6QHUGr7lnGPU3GoA5mntv+heYshZ5idyIXk1gU=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.3": {
+      "sdist": [
+        "J2qLXxru6XphgKQK/4A4K9wpIfF8sqJkizJCg0Nz2zY=",
+        "pylipd-0.9.3.tar.gz"
+      ],
+      "wheels": {
+        "pylipd-0.9.3-py3-none-any.whl": [
+          "IkUboVkWas7aXeErFbaE5DKwr+hpkJ4irbwVggj1J0k=",
+          "py3"
         ]
       }
     }
@@ -132568,6 +132674,14 @@
       "wheels": {
         "stix_shifter_utils-5.0.0.dev744-py2.py3-none-any.whl": [
           "unqiV5CC6qmGlQp50xs4ZQUZU2La0pTUqGSrzc8Cwy4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev749": {
+      "wheels": {
+        "stix_shifter_utils-5.0.0.dev749-py2.py3-none-any.whl": [
+          "7W5RJxjYWgakvtiH+JSABjq3kt59fIb9LAeeMEgQ3AU=",
           "py2.py3"
         ]
       }
